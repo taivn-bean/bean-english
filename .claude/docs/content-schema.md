@@ -51,7 +51,8 @@ Nguồn nội dung (do agent soạn) nằm ở `content/`. Script `scripts/build
 - `ipa` tuỳ chọn trên phrase/line: chỉ điền khi muốn ghi đè IPA tự sinh (từ CMU dict).
 
 ## Audio (sinh tự động)
-Key = `<uttId>.<voice>`, file `public/audio/<key>.m4a`, voice ∈ `mom | dad | child`.
-- parent phrase → `.mom` + `.dad`; child phrase → `.child`; slot variant uttId = `<phraseId>-s<n>`.
+Một giọng duy nhất cho mọi câu (D23). File `public/audio/<uttId>.m4a`:
+- phrase → `<phraseId>`; slot variant → `<phraseId>-s<n>`; dialogue line → `<dialogueId>-l<n>`.
+- `speaker` vẫn giữ để hiển thị (nhãn Ba/Mẹ/Bé), không ảnh hưởng audio.
 - dialogue line → giọng đúng theo `speaker`.
 - Cấu hình giọng: `scripts/voices.json`.

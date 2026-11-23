@@ -41,9 +41,6 @@
   "settings": {
     "title": "Cài đặt",
     "language": "Ngôn ngữ giao diện",
-    "parentVoice": "Giọng đọc câu của ba mẹ",
-    "voiceMom": "Giọng mẹ",
-    "voiceDad": "Giọng ba",
     "showIpa": "Hiện phiên âm IPA",
     "offline": "Dùng offline",
     "offlineReady": "Đã sẵn sàng dùng offline",

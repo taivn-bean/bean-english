@@ -18,7 +18,7 @@ const strict = process.argv.includes('--strict')
 const readJson = (p) => JSON.parse(readFileSync(p, 'utf8'))
 const errors = []
 const unknownWords = new Set()
-const utterances = [] // { key, text, voice }
+const utterances = [] // { key, text } — one voice for everything (scripts/voices.json)
 const seenIds = new Set()
 
 const ipaFor = (text, override) => {
@@ -27,15 +27,10 @@ const ipaFor = (text, override) => {
   unknown.forEach((w) => unknownWords.add(w))
   return ipa
 }
-const addUtt = (uttId, text, voices) =>
-  Object.fromEntries(
-    voices.map((voice) => {
-      const key = `${uttId}.${voice}`
-      utterances.push({ key, text, voice })
-      return [voice, key]
-    }),
-  )
-const voicesFor = (speaker) => (speaker === 'parent' ? ['mom', 'dad'] : [speaker])
+const addUtt = (key, text) => {
+  utterances.push({ key, text })
+  return key
+}
 const unique = (id) => (seenIds.has(id) ? errors.push(`duplicate id ${id}`) : seenIds.add(id))
 
 const topics = TopicMeta.array().parse(readJson(join(SRC, 'topics.json'))).sort((a, b) => a.order - b.order)
@@ -61,12 +56,12 @@ for (const meta of topics) {
 
   const phrases = src.phrases.map((p) => {
     unique(p.id)
-    if (!p.slots) return { ...p, ipa: ipaFor(p.en, p.ipa), audio: addUtt(p.id, p.en, voicesFor(p.speaker)) }
+    if (!p.slots) return { ...p, ipa: ipaFor(p.en, p.ipa), audio: addUtt(p.id, p.en) }
     return {
       ...p,
       slots: p.slots.map((s, i) => {
         const en = fill(p.en, s.en)
-        return { ...s, fullEn: en, fullVi: fill(p.vi, s.vi), ipa: ipaFor(en), audio: addUtt(`${p.id}-s${i}`, en, voicesFor(p.speaker)) }
+        return { ...s, fullEn: en, fullVi: fill(p.vi, s.vi), ipa: ipaFor(en), audio: addUtt(`${p.id}-s${i}`, en) }
       }),
     }
   })
@@ -77,7 +72,7 @@ for (const meta of topics) {
       ...d,
       lines: d.lines.map((l, i) => {
         const id = `${d.id}-l${i + 1}`
-        return { ...l, id, ipa: ipaFor(l.en, l.ipa), audio: addUtt(id, l.en, [l.speaker])[l.speaker] }
+        return { ...l, id, ipa: ipaFor(l.en, l.ipa), audio: addUtt(id, l.en) }
       }),
     }
   })

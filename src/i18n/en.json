@@ -41,9 +41,6 @@
   "settings": {
     "title": "Settings",
     "language": "App language",
-    "parentVoice": "Voice for parent phrases",
-    "voiceMom": "Mom's voice",
-    "voiceDad": "Dad's voice",
     "showIpa": "Show IPA",
     "offline": "Offline use",
     "offlineReady": "Ready to use offline",

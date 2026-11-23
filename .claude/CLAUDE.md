@@ -51,5 +51,5 @@ src/components/          UI dùng chung · src/lib/ content, audio, db (Dexie), 
 src/hooks/               hooks dữ liệu local (profiles, progress, favorites) · src/i18n/ vi.json, en.json
 ```
 - Thêm chủ đề: thêm vào `content/topics.json` + file `content/topics/<id>.json`, icon mới thì thêm vào `src/components/TopicIcon.tsx`, rồi `pnpm audio`.
-- Đổi giọng: sửa `scripts/voices.json` rồi `pnpm audio` (chỉ sinh lại phần thay đổi).
+- Đổi giọng (1 giọng cho tất cả): sửa `scripts/voices.json` rồi `pnpm audio`.
 - Thêm chuỗi UI: thêm key vào CẢ `vi.json` và `en.json`.

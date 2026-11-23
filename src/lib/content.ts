@@ -3,11 +3,10 @@
 // switch to a remote content source later (phase 2) without touching UI code.
 import { queryOptions } from '@tanstack/react-query'
 
-export type ParentVoice = 'mom' | 'dad'
-export type Voice = ParentVoice | 'child'
-export type AudioKeys = Partial<Record<Voice, string>>
+export type Speaker = 'mom' | 'dad' | 'child'
 
-export type Slot = { en: string; vi: string; fullEn: string; fullVi: string; ipa: string; audio: AudioKeys }
+/** `audio` fields are keys of files in public/audio (see audioUrl). */
+export type Slot = { en: string; vi: string; fullEn: string; fullVi: string; ipa: string; audio: string }
 
 export type Phrase = {
   id: string
@@ -16,11 +15,11 @@ export type Phrase = {
   en: string
   vi: string
   ipa?: string
-  audio?: AudioKeys
+  audio?: string
   slots?: Slot[]
 }
 
-export type DialogueLine = { id: string; speaker: Voice; en: string; vi: string; ipa: string; audio: string }
+export type DialogueLine = { id: string; speaker: Speaker; en: string; vi: string; ipa: string; audio: string }
 export type Dialogue = { id: string; titleEn: string; titleVi: string; lines: DialogueLine[] }
 
 export type TopicMeta = { id: string; order: number; icon: string; titleEn: string; titleVi: string }
@@ -48,7 +47,3 @@ export const topicQuery = (topicId: string) =>
   })
 
 export const audioUrl = (key: string) => `/audio/${key}.m4a`
-
-/** Pick the audio key for a phrase/slot given the parent voice preference. */
-export const pickAudio = (audio: AudioKeys | undefined, parentVoice: ParentVoice) =>
-  audio?.child ?? audio?.[parentVoice] ?? audio?.mom ?? audio?.dad

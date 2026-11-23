@@ -6,13 +6,10 @@ import type { ReactNode } from 'react'
 import { useTranslation } from 'react-i18next'
 import { PageHeader } from '../components/Layout'
 import { InstallHint } from '../components/PwaPrompts'
-import { play } from '../lib/audio'
 import { contentIndexQuery } from '../lib/content'
 import { useSettings } from '../lib/settings'
 
 export const Route = createFileRoute('/settings')({ component: SettingsPage })
-
-const SAMPLE_AUDIO = { mom: 'wake-up-001.mom', dad: 'wake-up-001.dad' } as const
 
 function SettingsPage() {
   const { t } = useTranslation()
@@ -35,17 +32,6 @@ function SettingsPage() {
       <main className="space-y-5 px-4">
         <Field label={t('settings.language')}>
           <Segmented value={s.lang} onChange={(lang) => s.set({ lang })} options={[['vi', 'Tiếng Việt'], ['en', 'English']]} />
-        </Field>
-
-        <Field label={t('settings.parentVoice')}>
-          <Segmented
-            value={s.parentVoice}
-            onChange={(parentVoice) => {
-              s.set({ parentVoice })
-              play(SAMPLE_AUDIO[parentVoice])
-            }}
-            options={[['mom', t('settings.voiceMom')], ['dad', t('settings.voiceDad')]]}
-          />
         </Field>
 
         <label className="flex min-h-12 items-center justify-between rounded-2xl border border-line bg-surface px-4">

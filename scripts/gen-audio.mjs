@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Generate public/audio/<key>.m4a with macOS `say` (AAC). Incremental: skips clips whose text+voice hash is unchanged.
 // Usage: node scripts/gen-audio.mjs [--force] [--prune]
-// Voices: scripts/voices.json (list installed: `say -v '?' | grep en_US`).
+// Voice: scripts/voices.json — one voice for all clips (list installed: `say -v "?" | grep en_US`).
 import { execFile } from 'node:child_process'
 import { createHash } from 'node:crypto'
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, statSync, writeFileSync } from 'node:fs'
@@ -22,14 +22,29 @@ if (process.platform !== 'darwin') {
   process.exit(1)
 }
 
-const voices = JSON.parse(readFileSync(join(ROOT, 'scripts/voices.json'), 'utf8'))
+const voice = JSON.parse(readFileSync(join(ROOT, 'scripts/voices.json'), 'utf8'))
 const utterances = JSON.parse(readFileSync(join(ROOT, 'scripts/.generated/utterances.json'), 'utf8'))
 const manifest = existsSync(MANIFEST) ? JSON.parse(readFileSync(MANIFEST, 'utf8')) : {}
 mkdirSync(AUDIO, { recursive: true })
 
 const hashOf = (u) => {
-  const v = voices[u.voice]
-  return createHash('sha1').update(`${PIPELINE}|${v.voice}|${v.rate}|${u.text}`).digest('hex').slice(0, 12)
+  const v = voice
+  return createHash('sha1').update(`${PIPELINE}|${v.voice}|${v.rate}|${v.pitch ?? 1}|${u.text}`).digest('hex').slice(0, 12)
+}
+
+/**
+ * Raise pitch (and tempo) by `factor` by relabeling the WAV sample rate — no extra tools needed.
+ * Speak slower in `say` (lower rate) to compensate for the tempo increase.
+ */
+function pitchShiftWav(path, factor) {
+  const buf = readFileSync(path)
+  const fmt = buf.indexOf('fmt ', 12, 'ascii')
+  const rate = buf.readUInt32LE(fmt + 12)
+  const blockAlign = buf.readUInt16LE(fmt + 20)
+  const newRate = Math.round(rate * factor)
+  buf.writeUInt32LE(newRate, fmt + 12)
+  buf.writeUInt32LE(newRate * blockAlign, fmt + 16)
+  writeFileSync(path, buf)
 }
 
 const todo = utterances.filter((u) => force || manifest[u.key] !== hashOf(u) || !existsSync(join(AUDIO, `${u.key}.m4a`)))
@@ -38,11 +53,12 @@ console.log(`${utterances.length} clips, ${todo.length} to generate`)
 let done = 0
 async function worker(queue) {
   for (let u = queue.shift(); u; u = queue.shift()) {
-    const v = voices[u.voice]
+    const v = voice
     const out = join(AUDIO, `${u.key}.m4a`)
-    const tmp = join(tmpdir(), `bean-${u.key}.aiff`)
-    // say → AIFF, then afconvert → compact AAC (say's own m4a output carries ~30KB of padding per file)
-    await run('say', ['-v', v.voice, '-r', String(v.rate), '-o', tmp, u.text])
+    const tmp = join(tmpdir(), `bean-${u.key}.wav`)
+    // say → WAV (optional pitch shift) → afconvert → compact AAC (say's own m4a output carries ~30KB of padding per file)
+    await run('say', ['-v', v.voice, '-r', String(v.rate), '-o', tmp, '--file-format=WAVE', '--data-format=LEI16@22050', u.text])
+    if (v.pitch && v.pitch !== 1) pitchShiftWav(tmp, v.pitch)
     await run('afconvert', ['-f', 'm4af', '-d', 'aac', '-b', '32000', '-c', '1', tmp, out])
     rmSync(tmp, { force: true })
     manifest[u.key] = hashOf(u)

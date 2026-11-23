@@ -24,7 +24,7 @@ Ba mẹ mở app → chọn tình huống (ăn, tắm, đi ngủ, chơi...) → 
 | D7 | Link công khai, ai cũng dùng được, không đăng nhập | Q3 |
 | D8 | Nhiều hồ sơ bé, lưu trên trình duyệt (IndexedDB/Dexie) | Q4 |
 | D9 | 10 chủ đề xoay quanh sinh hoạt của bé × 20 câu + 2 hội thoại/chủ đề; agent soạn | Q5–7 |
-| D10 | Giọng Mỹ, 3 giọng riêng: ba / mẹ / bé. Câu của ba mẹ có cả 2 giọng, người dùng chọn | Q8 |
+| D10 | ~~Giọng Mỹ, 3 giọng riêng: ba / mẹ / bé~~ → thay bởi D23 | Q8 |
 | D11 | Có IPA (tự sinh từ CMU dict, cho phép ghi đè). Không làm chế độ đọc chậm | Q9 |
 | D12 | Có câu mẫu thay từ (`___` + slots), mỗi biến thể có audio riêng | Q10 |
 | D13 | Không dùng hình minh hoạ, chỉ icon (lucide) | Q12 |
@@ -36,6 +36,7 @@ Ba mẹ mở app → chọn tình huống (ăn, tắm, đi ngủ, chơi...) → 
 | D19 | TTS bằng giọng có sẵn của macOS (`say`), sinh bằng script Node — không tốn token | Q18 |
 | D20 | Stack: Vite + React + TS, TanStack Router + Query, Dexie, i18next, Tailwind, vite-plugin-pwa, Zod, lucide | yêu cầu |
 | D21 | Offline-first, nhưng nội dung đi qua lớp fetch (TanStack Query + `contentVersion`) để phase sau lấy nội dung mới từ server | yêu cầu |
+| D23 | Chỉ 1 giọng cho toàn bộ audio: **Evan (Enhanced)** (giọng bé tổng hợp nghe không tự nhiên) | user, 2026-11-23 |
 | D22 | Bản dùng thử: trong 24h kể từ 2026-11-23 | Q20 |
 
 ## Chưa chốt

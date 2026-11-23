@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { toggleFavorite, toggleProgress } from '../hooks/useProfile'
 import { play, usePlaying } from '../lib/audio'
-import { pickAudio, type Phrase } from '../lib/content'
+import type { Phrase } from '../lib/content'
 import type { Progress } from '../lib/db'
 import { useSettings } from '../lib/settings'
 
@@ -17,12 +17,12 @@ type Props = {
 
 export function PhraseCard({ phrase, topicId, progress, favorite }: Props) {
   const { t } = useTranslation()
-  const { parentVoice, showIpa, activeProfileId } = useSettings()
+  const { showIpa, activeProfileId } = useSettings()
   const playing = usePlaying()
   const [slotIdx, setSlotIdx] = useState(0)
 
   const slot = phrase.slots?.[slotIdx]
-  const audioKey = pickAudio(slot?.audio ?? phrase.audio, parentVoice)
+  const audioKey = slot?.audio ?? phrase.audio
   const ipa = slot?.ipa ?? phrase.ipa
   const isPlaying = audioKey != null && playing === audioKey
   const isChild = phrase.speaker === 'child'
@@ -76,8 +76,7 @@ export function PhraseCard({ phrase, topicId, progress, favorite }: Props) {
               lang="en"
               onClick={() => {
                 setSlotIdx(i)
-                const key = pickAudio(s.audio, parentVoice)
-                if (key) play(key)
+                play(s.audio)
               }}
               className={clsx(
                 'min-h-10 rounded-full border px-3 text-sm font-medium',

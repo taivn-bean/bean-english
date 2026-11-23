@@ -30,7 +30,7 @@ await page.goto(`${base}/topics/bedtime`)
 check('deep link offline', await page.getByText('Bedtime').first().isVisible())
 await page.screenshot({ path: `${outDir}/topic.png`, fullPage: false })
 
-const audioOk = await page.evaluate(async () => (await fetch('/audio/safety-003.dad.m4a')).ok)
+const audioOk = await page.evaluate(async () => (await fetch('/audio/safety-003.m4a')).ok)
 check('unvisited topic audio offline', audioOk)
 
 await page.locator('article button').first().click()

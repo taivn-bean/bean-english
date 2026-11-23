@@ -1,13 +1,11 @@
 // Small per-device preferences (localStorage via zustand persist).
 import { create } from 'zustand'
 import { createJSONStorage, persist } from 'zustand/middleware'
-import type { ParentVoice } from './content'
 
 export type Lang = 'vi' | 'en'
 
 type Settings = {
   lang: Lang
-  parentVoice: ParentVoice
   showIpa: boolean
   activeProfileId: number | null
   installHintDismissed: boolean
@@ -31,7 +29,6 @@ export const useSettings = create<Settings>()(
   persist(
     (set) => ({
       lang: 'vi',
-      parentVoice: 'mom',
       showIpa: true,
       activeProfileId: null,
       installHintDismissed: false,
