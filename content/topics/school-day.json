@@ -1,0 +1,735 @@
+{
+  "topicId": "school-day",
+  "phrases": [
+    {
+      "id": "school-day-001",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you have your backpack?",
+      "vi": "Con lấy cặp chưa?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Did you remember your ___?",
+      "vi": "Con nhớ lấy ___ chưa?",
+      "slots": [
+        {
+          "en": "lunchbox",
+          "vi": "hộp cơm",
+          "ipa": "/dɪd ju ɹɪˈmɛmbɚ jɔɹ ˈlʌntʃˌbɑks/"
+        },
+        {
+          "en": "water bottle",
+          "vi": "bình nước"
+        },
+        {
+          "en": "library book",
+          "vi": "sách thư viện"
+        },
+        {
+          "en": "folder",
+          "vi": "tập vở"
+        },
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-003",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's go, we don't want to be late.",
+      "vi": "Đi thôi con, kẻo trễ giờ.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Have a great day at school!",
+      "vi": "Đi học vui nha con!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "school-day-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I'll pick you up after school.",
+      "vi": "Tan học là mình tới đón con nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How was school today?",
+      "vi": "Hôm nay đi học vui không con?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "school-day-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What did you ___ today?",
+      "vi": "Hôm nay con ___ vậy?",
+      "slots": [
+        {
+          "en": "learn",
+          "vi": "học được gì"
+        },
+        {
+          "en": "eat for lunch",
+          "vi": "ăn trưa món gì"
+        },
+        {
+          "en": "play at recess",
+          "vi": "ra chơi chơi gì"
+        },
+        {
+          "en": "make in art class",
+          "vi": "làm gì trong giờ mỹ thuật"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "school-day-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Who did you play with?",
+      "vi": "Con chơi với ai?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "school-day-009",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What was the best part of your day?",
+      "vi": "Hôm nay con thích nhất lúc nào?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "school-day-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Say goodbye to ___.",
+      "vi": "Con chào ___ đi.",
+      "slots": [
+        {
+          "en": "your teacher",
+          "vi": "cô giáo"
+        },
+        {
+          "en": "your friends",
+          "vi": "các bạn"
+        },
+        {
+          "en": "Ms. Lan",
+          "vi": "cô Lan"
+        },
+        {
+          "en": "Mr. Nam",
+          "vi": "thầy Nam"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Listen to your teacher, okay?",
+      "vi": "Nhớ nghe lời cô nha con.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Remember to raise your hand.",
+      "vi": "Muốn nói gì thì nhớ giơ tay nha con.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Did you eat all your lunch?",
+      "vi": "Con ăn hết cơm trưa không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "I packed ___ in your lunchbox.",
+      "vi": "Có bỏ ___ vào hộp cơm cho con rồi nha.",
+      "slots": [
+        {
+          "en": "a banana",
+          "vi": "một trái chuối",
+          "ipa": "/aɪ pækt ə bəˈnænə ɪn jɔɹ ˈlʌntʃˌbɑks/"
+        },
+        {
+          "en": "your favorite sandwich",
+          "vi": "ổ bánh mì con thích",
+          "ipa": "/aɪ pækt jɔɹ ˈfeɪvɚɪt ˈsændwɪtʃ ɪn jɔɹ ˈlʌntʃˌbɑks/"
+        },
+        {
+          "en": "some crackers",
+          "vi": "ít bánh quy giòn",
+          "ipa": "/aɪ pækt sʌm ˈkɹækɚz ɪn jɔɹ ˈlʌntʃˌbɑks/"
+        },
+        {
+          "en": "a little surprise",
+          "vi": "một bất ngờ nhỏ",
+          "ipa": "/aɪ pækt ə ˈlɪtəl sɚˈpɹaɪz ɪn jɔɹ ˈlʌntʃˌbɑks/"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-015",
+      "speaker": "parent",
+      "level": 2,
+      "en": "It's okay to feel nervous.",
+      "vi": "Hồi hộp một chút cũng không sao đâu con.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-016",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You're going to make new friends.",
+      "vi": "Con sẽ có thêm bạn mới cho coi.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-017",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's check your folder.",
+      "vi": "Mình coi tập vở của con nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-018",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Tomorrow is ___ day.",
+      "vi": "Mai là ngày ___ đó con.",
+      "slots": [
+        {
+          "en": "library",
+          "vi": "đi thư viện"
+        },
+        {
+          "en": "field trip",
+          "vi": "đi dã ngoại"
+        },
+        {
+          "en": "picture",
+          "vi": "chụp hình"
+        },
+        {
+          "en": "pajama",
+          "vi": "mặc đồ ngủ tới lớp"
+        },
+        {
+          "en": "show-and-tell",
+          "vi": "mang đồ tới kể cho lớp nghe"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-019",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Did anything make you laugh today?",
+      "vi": "Hôm nay có gì làm con cười không?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "school-day-020",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Tell me one thing you did today.",
+      "vi": "Kể nghe một chuyện hôm nay con làm đi.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "school-day-021",
+      "speaker": "child",
+      "level": 1,
+      "en": "Where's my backpack?",
+      "vi": "Cặp của con đâu rồi?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-022",
+      "speaker": "child",
+      "level": 2,
+      "en": "I played with ___.",
+      "vi": "Con chơi với ___.",
+      "slots": [
+        {
+          "en": "Minh",
+          "vi": "Minh"
+        },
+        {
+          "en": "my friends",
+          "vi": "mấy bạn"
+        },
+        {
+          "en": "Anna",
+          "vi": "Anna"
+        },
+        {
+          "en": "everybody",
+          "vi": "cả lớp"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-023",
+      "speaker": "child",
+      "level": 2,
+      "en": "We had ___ for lunch.",
+      "vi": "Trưa nay tụi con ăn ___.",
+      "slots": [
+        {
+          "en": "chicken",
+          "vi": "gà"
+        },
+        {
+          "en": "noodles",
+          "vi": "mì"
+        },
+        {
+          "en": "fish",
+          "vi": "cá"
+        },
+        {
+          "en": "rice and soup",
+          "vi": "cơm với canh"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-024",
+      "speaker": "child",
+      "level": 3,
+      "en": "I don't want to go to school.",
+      "vi": "Con không muốn đi học đâu.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-025",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can you stay a little longer?",
+      "vi": "Ở lại với con thêm chút nữa nha?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-026",
+      "speaker": "child",
+      "level": 2,
+      "en": "My teacher read us a story.",
+      "vi": "Cô đọc truyện cho tụi con nghe.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-027",
+      "speaker": "child",
+      "level": 2,
+      "en": "I forgot my ___.",
+      "vi": "Con quên ___ rồi.",
+      "slots": [
+        {
+          "en": "water bottle",
+          "vi": "bình nước"
+        },
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        },
+        {
+          "en": "hat",
+          "vi": "nón"
+        },
+        {
+          "en": "lunchbox",
+          "vi": "hộp cơm",
+          "ipa": "/aɪ fɚˈɡɑt maɪ ˈlʌntʃˌbɑks/"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "school-day-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "Guess what? I got a sticker!",
+      "vi": "Đoán coi! Con được cô cho sticker nè!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "school-day-029",
+      "speaker": "child",
+      "level": 2,
+      "en": "Who's picking me up today?",
+      "vi": "Hôm nay ai đón con vậy?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "school-day-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "I made a new friend!",
+      "vi": "Con có bạn mới rồi!",
+      "ages": [
+        "5-7"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "school-day-d01",
+      "titleEn": "Morning rush",
+      "titleVi": "Sáng vội vàng",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Okay, shoes on. We need to go!",
+          "vi": "Mang giày vô nào. Mình phải đi rồi!"
+        },
+        {
+          "speaker": "child",
+          "en": "Wait! Where's my backpack?",
+          "vi": "Khoan! Cặp của con đâu rồi?"
+        },
+        {
+          "speaker": "mom",
+          "en": "It's right by the door.",
+          "vi": "Ngay chỗ cửa đó con."
+        },
+        {
+          "speaker": "child",
+          "en": "Did you pack my lunch?",
+          "vi": "Mẹ bỏ cơm trưa cho con chưa?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Yep, and a little surprise, too.",
+          "vi": "Rồi, có thêm một bất ngờ nhỏ nữa."
+        },
+        {
+          "speaker": "child",
+          "en": "What is it?",
+          "vi": "Cái gì vậy mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "You'll see at lunchtime!",
+          "vi": "Tới giờ ăn trưa con sẽ biết!"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay! Let's go!",
+          "vi": "Dạ! Đi thôi!"
+        }
+      ]
+    },
+    {
+      "id": "school-day-d02",
+      "titleEn": "Saying goodbye at school",
+      "titleVi": "Chào tạm biệt ở cổng trường",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Here we are. Ready?",
+          "vi": "Tới rồi nè. Sẵn sàng chưa con?"
+        },
+        {
+          "speaker": "child",
+          "en": "I don't want to go in.",
+          "vi": "Con không muốn vô đâu."
+        },
+        {
+          "speaker": "dad",
+          "en": "Feeling a little nervous?",
+          "vi": "Con hơi hồi hộp hả?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yeah. Can you stay?",
+          "vi": "Dạ. Ba ở lại được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "I can't stay, but I'll pick you up right after school.",
+          "vi": "Ba không ở lại được, nhưng tan học ba tới đón con liền."
+        },
+        {
+          "speaker": "child",
+          "en": "Promise?",
+          "vi": "Ba hứa nha?"
+        },
+        {
+          "speaker": "dad",
+          "en": "I promise. Give me a big hug.",
+          "vi": "Ba hứa. Ôm ba một cái thật chặt nào."
+        },
+        {
+          "speaker": "child",
+          "en": "Bye, Daddy!",
+          "vi": "Con chào ba!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Bye, buddy! Have fun!",
+          "vi": "Chào con! Đi học vui nha!"
+        }
+      ]
+    },
+    {
+      "id": "school-day-d03",
+      "titleEn": "Pick-up time",
+      "titleVi": "Giờ đón con",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Hi, sweetie! How was school?",
+          "vi": "Chào con yêu! Đi học vui không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Good.",
+          "vi": "Dạ vui."
+        },
+        {
+          "speaker": "mom",
+          "en": "Just good? What did you do?",
+          "vi": "Vui thôi hả? Hôm nay con làm gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "We painted pictures.",
+          "vi": "Tụi con vẽ tranh."
+        },
+        {
+          "speaker": "mom",
+          "en": "Oh, fun! What did you paint?",
+          "vi": "Vui ghê! Con vẽ gì vậy?"
+        },
+        {
+          "speaker": "child",
+          "en": "A big dinosaur. My teacher put it on the wall!",
+          "vi": "Một con khủng long bự. Cô dán lên tường luôn!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow, I'm so proud of you!",
+          "vi": "Wow, mẹ tự hào về con quá!"
+        },
+        {
+          "speaker": "child",
+          "en": "Can I show you tomorrow?",
+          "vi": "Mai con chỉ mẹ coi nha?"
+        },
+        {
+          "speaker": "mom",
+          "en": "I'd love that.",
+          "vi": "Mẹ thích lắm."
+        }
+      ]
+    },
+    {
+      "id": "school-day-d04",
+      "titleEn": "Lunchbox check",
+      "titleVi": "Kiểm tra hộp cơm",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Let's check your lunchbox.",
+          "vi": "Mình coi hộp cơm của con nha.",
+          "ipa": "/lɛts tʃɛk jɔɹ ˈlʌntʃˌbɑks/"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay.",
+          "vi": "Dạ."
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, you didn't eat your carrots.",
+          "vi": "Hừm, con chưa ăn cà rốt nè."
+        },
+        {
+          "speaker": "child",
+          "en": "I didn't have time. We went out to play!",
+          "vi": "Con không kịp ăn. Tụi con ra chơi rồi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Ah, I see. Recess is fun, huh?",
+          "vi": "À, ra vậy. Ra chơi vui ha?"
+        },
+        {
+          "speaker": "child",
+          "en": "So fun! I played tag with Minh.",
+          "vi": "Vui lắm! Con chơi rượt bắt với Minh."
+        },
+        {
+          "speaker": "dad",
+          "en": "Nice. Tomorrow, eat first, then play, okay?",
+          "vi": "Hay quá. Mai con ăn trước rồi mới chơi nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, Daddy.",
+          "vi": "Dạ, con nhớ rồi."
+        }
+      ]
+    },
+    {
+      "id": "school-day-d05",
+      "titleEn": "Getting ready the night before",
+      "titleVi": "Chuẩn bị từ tối hôm trước",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Tomorrow is library day. Where's your library book?",
+          "vi": "Mai là ngày đi thư viện. Sách thư viện của con đâu?"
+        },
+        {
+          "speaker": "child",
+          "en": "Um... I don't know.",
+          "vi": "Ừm... con không biết."
+        },
+        {
+          "speaker": "dad",
+          "en": "Let's look together. Is it under your bed?",
+          "vi": "Mình cùng tìm nha. Có dưới gầm giường không?"
+        },
+        {
+          "speaker": "child",
+          "en": "No... Oh! It's in my toy box!",
+          "vi": "Không có... A! Nó nằm trong thùng đồ chơi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Good job! Put it in your backpack now.",
+          "vi": "Giỏi quá! Bỏ vô cặp liền đi con."
+        },
+        {
+          "speaker": "child",
+          "en": "Done! What else?",
+          "vi": "Xong rồi! Còn gì nữa không mẹ?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Your water bottle. Then it's bedtime!",
+          "vi": "Bình nước nữa. Rồi đi ngủ nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "Aw, okay.",
+          "vi": "Dạ..."
+        }
+      ]
+    }
+  ]
+}

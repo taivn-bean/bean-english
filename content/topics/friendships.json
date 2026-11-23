@@ -1,0 +1,772 @@
+{
+  "topicId": "friendships",
+  "phrases": [
+    {
+      "id": "friendships-001",
+      "speaker": "parent",
+      "level": 3,
+      "en": "___, who did you play with?",
+      "vi": "___ con chơi với ai?",
+      "slots": [
+        {
+          "en": "At recess",
+          "vi": "Giờ ra chơi"
+        },
+        {
+          "en": "At lunch",
+          "vi": "Lúc ăn trưa"
+        },
+        {
+          "en": "At the park",
+          "vi": "Ở công viên"
+        },
+        {
+          "en": "After school",
+          "vi": "Lúc tan học"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-002",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Why don't you ask if you can join?",
+      "vi": "Sao con không thử hỏi xin chơi chung?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Why don't you invite ___ over?",
+      "vi": "Sao con không rủ ___ qua nhà chơi?",
+      "slots": [
+        {
+          "en": "Sam",
+          "vi": "Sam"
+        },
+        {
+          "en": "Lily",
+          "vi": "Lily"
+        },
+        {
+          "en": "Ben",
+          "vi": "Ben"
+        },
+        {
+          "en": "your new friend",
+          "vi": "bạn mới"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What makes someone a good friend?",
+      "vi": "Theo con, thế nào là một người bạn tốt?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-005",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It sounds like your feelings got hurt.",
+      "vi": "Nghe vậy chắc con buồn lắm ha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Did you two have a disagreement?",
+      "vi": "Hai đứa có chuyện gì không vui hả?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-007",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Friends don't always agree, and that's okay.",
+      "vi": "Bạn bè đâu phải lúc nào cũng hợp ý nhau, vậy cũng bình thường.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How do you think ___ felt?",
+      "vi": "Con nghĩ ___ thấy sao?",
+      "slots": [
+        {
+          "en": "Lily",
+          "vi": "Lily"
+        },
+        {
+          "en": "Sam",
+          "vi": "Sam"
+        },
+        {
+          "en": "your friend",
+          "vi": "bạn con"
+        },
+        {
+          "en": "the new kid",
+          "vi": "bạn mới"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Feeling left out really hurts.",
+      "vi": "Bị bỏ rơi thì buồn lắm.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-010",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Is there someone else you can play with?",
+      "vi": "Có bạn nào khác chơi với con được không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Look for someone who's playing alone.",
+      "vi": "Con để ý coi có bạn nào đang chơi một mình không.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-012",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If someone is being mean, tell a grown-up.",
+      "vi": "Nếu có bạn chơi xấu, con nói với người lớn nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It's not tattling if someone could get hurt.",
+      "vi": "Có bạn có thể bị đau mà con báo người lớn thì không phải mách lẻo đâu.",
+      "ipa": "/ɪts nɑt ˈtætəlɪŋ ɪf ˈsʌˌmwʌn kʊd ɡɛt hɝt/",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It takes courage to stand up for a friend.",
+      "vi": "Đứng ra bênh bạn là can đảm lắm đó.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-015",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Maybe you can ___.",
+      "vi": "Hay là con ___ thử.",
+      "slots": [
+        {
+          "en": "say sorry to her",
+          "vi": "xin lỗi bạn ấy"
+        },
+        {
+          "en": "write him a note",
+          "vi": "viết thiệp cho bạn"
+        },
+        {
+          "en": "draw her a picture",
+          "vi": "vẽ tặng bạn một bức tranh"
+        },
+        {
+          "en": "invite him to play",
+          "vi": "rủ bạn chơi chung"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-016",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's get a birthday present for ___.",
+      "vi": "Mình mua quà sinh nhật cho ___ nha.",
+      "slots": [
+        {
+          "en": "Lily",
+          "vi": "Lily"
+        },
+        {
+          "en": "Sam",
+          "vi": "Sam"
+        },
+        {
+          "en": "Ben",
+          "vi": "Ben"
+        },
+        {
+          "en": "Mia",
+          "vi": "Mia"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-017",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's make sure nobody feels left out.",
+      "vi": "Mình để ý đừng để bạn nào bị bỏ rơi nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-018",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You can still be kind, even when you're upset.",
+      "vi": "Dù đang bực, con vẫn có thể cư xử tử tế.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-019",
+      "speaker": "child",
+      "level": 3,
+      "en": "Nobody wanted to play with me today.",
+      "vi": "Hôm nay không ai chịu chơi với con hết.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-020",
+      "speaker": "child",
+      "level": 3,
+      "en": "I made a new friend! Her name is Lily.",
+      "vi": "Con có bạn mới! Bạn ấy tên Lily.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-021",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can ___ come over this weekend?",
+      "vi": "Cuối tuần ___ qua nhà mình chơi được không?",
+      "slots": [
+        {
+          "en": "Sam",
+          "vi": "Sam"
+        },
+        {
+          "en": "Lily",
+          "vi": "Lily"
+        },
+        {
+          "en": "Ben",
+          "vi": "Ben"
+        },
+        {
+          "en": "my friend",
+          "vi": "bạn con"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-022",
+      "speaker": "child",
+      "level": 3,
+      "en": "Sam said I can't sit with them.",
+      "vi": "Sam nói con không được ngồi chung với tụi bạn ấy.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-023",
+      "speaker": "child",
+      "level": 3,
+      "en": "We had a fight, but we made up.",
+      "vi": "Tụi con cãi nhau, mà làm hòa rồi.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-024",
+      "speaker": "child",
+      "level": 3,
+      "en": "I said sorry, and she said it's okay.",
+      "vi": "Con xin lỗi rồi, bạn ấy nói không sao.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-025",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I invite ___ to my party?",
+      "vi": "Con mời ___ đi sinh nhật con được không?",
+      "slots": [
+        {
+          "en": "Ben",
+          "vi": "Ben"
+        },
+        {
+          "en": "Mia",
+          "vi": "Mia"
+        },
+        {
+          "en": "my whole class",
+          "vi": "cả lớp"
+        },
+        {
+          "en": "my soccer friends",
+          "vi": "mấy bạn đội bóng"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-026",
+      "speaker": "child",
+      "level": 3,
+      "en": "That's not fair. They always pick the same game.",
+      "vi": "Vậy đâu có công bằng. Tụi bạn lúc nào cũng chọn một trò.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-027",
+      "speaker": "child",
+      "level": 3,
+      "en": "Some kids were teasing the new boy, so I told the teacher.",
+      "vi": "Mấy bạn chọc bạn mới, nên con báo cô.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-028",
+      "speaker": "child",
+      "level": 3,
+      "en": "I think ___ is mad at me.",
+      "vi": "Con nghĩ ___ đang giận con.",
+      "slots": [
+        {
+          "en": "Lily",
+          "vi": "Lily"
+        },
+        {
+          "en": "Sam",
+          "vi": "Sam"
+        },
+        {
+          "en": "my friend",
+          "vi": "bạn con"
+        },
+        {
+          "en": "Ben",
+          "vi": "Ben"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-029",
+      "speaker": "child",
+      "level": 2,
+      "en": "I felt left out at lunch.",
+      "vi": "Giờ ăn trưa con thấy bị bỏ rơi.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "friendships-030",
+      "speaker": "child",
+      "level": 3,
+      "en": "What if she doesn't want to be my friend anymore?",
+      "vi": "Lỡ bạn ấy không muốn làm bạn với con nữa thì sao?",
+      "ages": [
+        "7-9"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "friendships-d01",
+      "titleEn": "Left out at recess",
+      "titleVi": "Bị bỏ rơi giờ ra chơi",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "You're quiet today. Is something wrong?",
+          "vi": "Hôm nay con im ru. Có chuyện gì hả?"
+        },
+        {
+          "speaker": "child",
+          "en": "Mia and Lily played tag, and they said I couldn't join.",
+          "vi": "Mia với Lily chơi đuổi bắt mà không cho con chơi chung."
+        },
+        {
+          "speaker": "mom",
+          "en": "Oh, honey. That must have hurt.",
+          "vi": "Trời ơi con. Chắc con buồn lắm."
+        },
+        {
+          "speaker": "child",
+          "en": "Yeah. I just sat on the bench by myself.",
+          "vi": "Dạ. Con ngồi một mình trên ghế luôn."
+        },
+        {
+          "speaker": "mom",
+          "en": "Did they say why?",
+          "vi": "Tụi bạn có nói tại sao không?"
+        },
+        {
+          "speaker": "child",
+          "en": "They said the game already started. But that's not a real reason.",
+          "vi": "Tụi bạn nói trò chơi bắt đầu rồi. Mà lý do đó đâu có đúng."
+        },
+        {
+          "speaker": "mom",
+          "en": "You're right, that wasn't very kind. What could you do tomorrow?",
+          "vi": "Con nói đúng, vậy là không tử tế lắm. Mai con có thể làm gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "Maybe I could ask Ava to play. She plays alone sometimes.",
+          "vi": "Chắc con rủ Ava chơi. Bạn ấy hay chơi một mình."
+        },
+        {
+          "speaker": "mom",
+          "en": "That's a great idea. She'd probably love that.",
+          "vi": "Ý hay đó. Chắc bạn ấy sẽ vui lắm."
+        },
+        {
+          "speaker": "child",
+          "en": "And if they leave me out again, I'll tell my teacher.",
+          "vi": "Mà nếu tụi bạn không cho con chơi nữa, con sẽ nói với cô."
+        },
+        {
+          "speaker": "mom",
+          "en": "Good plan. And you can always tell me, too.",
+          "vi": "Được đó. Con cũng luôn có thể kể với mẹ nha."
+        }
+      ]
+    },
+    {
+      "id": "friendships-d02",
+      "titleEn": "Making up after a fight",
+      "titleVi": "Làm hòa sau khi cãi nhau",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "What happened? Why did Ben go home early?",
+          "vi": "Có chuyện gì vậy? Sao Ben về sớm vậy?"
+        },
+        {
+          "speaker": "child",
+          "en": "He kept changing the rules, so I yelled at him.",
+          "vi": "Bạn cứ đổi luật hoài, nên con la bạn."
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm. Were you both upset?",
+          "vi": "Hmm. Hai đứa đều bực hả?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yeah. And I kind of called him a cheater.",
+          "vi": "Dạ. Mà con có lỡ kêu bạn là đồ ăn gian."
+        },
+        {
+          "speaker": "dad",
+          "en": "How do you think that made him feel?",
+          "vi": "Con nghĩ nghe vậy bạn thấy sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Probably bad. But he started it!",
+          "vi": "Chắc buồn. Mà tại bạn bắt đầu trước!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Maybe. But you can only fix your part.",
+          "vi": "Có thể. Nhưng con chỉ sửa được phần của con thôi."
+        },
+        {
+          "speaker": "child",
+          "en": "So I should say sorry first?",
+          "vi": "Vậy con nên xin lỗi trước hả?"
+        },
+        {
+          "speaker": "dad",
+          "en": "That would be really brave. Want to call him?",
+          "vi": "Vậy là con dũng cảm lắm đó. Muốn gọi cho bạn không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. And next time we'll agree on the rules before we start.",
+          "vi": "Dạ. Lần sau tụi con sẽ thống nhất luật trước khi chơi."
+        },
+        {
+          "speaker": "dad",
+          "en": "Smart thinking. I'm proud of you.",
+          "vi": "Hay đó. Ba tự hào về con."
+        }
+      ]
+    },
+    {
+      "id": "friendships-d03",
+      "titleEn": "Standing up for a friend",
+      "titleVi": "Bênh vực bạn",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, some kids were making fun of Leo's glasses today.",
+          "vi": "Mẹ ơi, hôm nay có mấy bạn chọc kính của Leo."
+        },
+        {
+          "speaker": "mom",
+          "en": "Oh no. What did you do?",
+          "vi": "Trời. Rồi con làm gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "I said, \"Stop, that's mean.\" But they just laughed.",
+          "vi": "Con nói: \"Thôi đi, vậy là xấu tính đó.\" Mà tụi nó cứ cười."
+        },
+        {
+          "speaker": "mom",
+          "en": "That took a lot of courage. I'm proud of you.",
+          "vi": "Vậy là can đảm lắm đó. Mẹ tự hào về con."
+        },
+        {
+          "speaker": "child",
+          "en": "But it didn't work. Leo still looked sad.",
+          "vi": "Mà đâu có ăn thua. Leo vẫn buồn."
+        },
+        {
+          "speaker": "mom",
+          "en": "It still matters. Now Leo knows someone's on his side.",
+          "vi": "Vẫn có ý nghĩa chứ. Giờ Leo biết có người đứng về phía bạn ấy."
+        },
+        {
+          "speaker": "child",
+          "en": "Should I tell the teacher?",
+          "vi": "Con có nên nói với cô không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Yes. If it keeps happening, a grown-up needs to know.",
+          "vi": "Nên chứ. Nếu chuyện này cứ lặp lại thì người lớn cần biết."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Tomorrow I'll sit with Leo at lunch.",
+          "vi": "Dạ. Mai con sẽ ngồi ăn trưa với Leo."
+        },
+        {
+          "speaker": "mom",
+          "en": "That's a really kind thing to do.",
+          "vi": "Con tốt bụng lắm đó."
+        }
+      ]
+    },
+    {
+      "id": "friendships-d04",
+      "titleEn": "Who to invite",
+      "titleVi": "Mời ai đi sinh nhật",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Your birthday is coming up. Who do you want to invite?",
+          "vi": "Sắp tới sinh nhật con rồi. Con muốn mời ai?"
+        },
+        {
+          "speaker": "child",
+          "en": "Sam, Ben, Mia... but not Jake. He's annoying.",
+          "vi": "Sam, Ben, Mia... mà không mời Jake. Bạn đó phiền lắm."
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm. Are you inviting most of the class?",
+          "vi": "Hmm. Con mời gần hết lớp hả?"
+        },
+        {
+          "speaker": "child",
+          "en": "Kind of. Like, almost everyone.",
+          "vi": "Gần vậy. Kiểu như gần hết."
+        },
+        {
+          "speaker": "dad",
+          "en": "Then Jake might feel really left out. How would you feel?",
+          "vi": "Vậy Jake chắc sẽ thấy bị bỏ rơi lắm. Nếu là con thì con thấy sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Pretty bad, I guess.",
+          "vi": "Chắc buồn lắm."
+        },
+        {
+          "speaker": "dad",
+          "en": "So let's either invite the whole class or just a few close friends.",
+          "vi": "Vậy mình mời cả lớp, hoặc chỉ mời vài bạn thân thôi."
+        },
+        {
+          "speaker": "child",
+          "en": "The whole class! More people means more fun.",
+          "vi": "Cả lớp! Đông người càng vui."
+        },
+        {
+          "speaker": "dad",
+          "en": "Okay. Then let's make the invitations this weekend.",
+          "vi": "Được. Vậy cuối tuần mình làm thiệp mời nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Can we put dinosaurs on them?",
+          "vi": "Mình vẽ khủng long lên thiệp được không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Of course. Dinosaurs it is.",
+          "vi": "Được chứ. Vậy chọn khủng long."
+        }
+      ]
+    },
+    {
+      "id": "friendships-d05",
+      "titleEn": "Too shy to say hi",
+      "titleVi": "Ngại làm quen",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "So, did you talk to anyone new today?",
+          "vi": "Hôm nay con có nói chuyện với bạn mới nào không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Kind of. There's a girl who likes dragons, like me.",
+          "vi": "Cũng có. Có một bạn gái thích rồng giống con."
+        },
+        {
+          "speaker": "mom",
+          "en": "Ooh, you have something in common! What's her name?",
+          "vi": "Ồ, vậy là hai đứa có điểm chung rồi! Bạn tên gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "I don't know. I was too shy to ask.",
+          "vi": "Con không biết. Con ngại quá không dám hỏi."
+        },
+        {
+          "speaker": "mom",
+          "en": "That's okay. Lots of people feel shy. Want to practice?",
+          "vi": "Không sao. Nhiều người cũng ngại vậy mà. Muốn tập thử không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. You be her.",
+          "vi": "Dạ. Mẹ làm bạn ấy nha."
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay. I'm sitting here, reading my dragon book.",
+          "vi": "Được. Mẹ đang ngồi đọc sách về rồng nè."
+        },
+        {
+          "speaker": "child",
+          "en": "Hi! I like dragons too. Which one's your favorite?",
+          "vi": "Chào bạn! Mình cũng thích rồng. Bạn thích con nào nhất?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Perfect! Asking a question is a great way to start.",
+          "vi": "Hay lắm! Hỏi một câu là cách bắt chuyện rất hay."
+        },
+        {
+          "speaker": "child",
+          "en": "I'll try it tomorrow at recess.",
+          "vi": "Mai ra chơi con thử nha."
+        }
+      ]
+    }
+  ]
+}

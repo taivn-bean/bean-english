@@ -6,21 +6,35 @@
       "speaker": "parent",
       "level": 1,
       "en": "Clean-up time!",
-      "vi": "Tới giờ dọn dẹp rồi!"
+      "vi": "Tới giờ dọn dẹp rồi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "tidy-up-002",
       "speaker": "parent",
       "level": 2,
       "en": "Let's tidy up together.",
-      "vi": "Mình cùng dọn dẹp nha."
+      "vi": "Mình cùng dọn dẹp nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "tidy-up-003",
       "speaker": "parent",
       "level": 2,
       "en": "Can you help me clean up?",
-      "vi": "Con phụ dọn dẹp được không?"
+      "vi": "Con phụ dọn dẹp được không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "tidy-up-004",
@@ -45,6 +59,10 @@
           "en": "dolls",
           "vi": "búp bê"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -70,6 +88,10 @@
           "en": "car",
           "vi": "chiếc xe"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -95,6 +117,9 @@
           "en": "green",
           "vi": "màu xanh lá"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -102,14 +127,21 @@
       "speaker": "parent",
       "level": 2,
       "en": "One, two, three, in!",
-      "vi": "Một, hai, ba, vô!"
+      "vi": "Một, hai, ba, vô!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "tidy-up-008",
       "speaker": "parent",
       "level": 2,
       "en": "Books go on the shelf.",
-      "vi": "Sách thì để lên kệ nha."
+      "vi": "Sách thì để lên kệ nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "tidy-up-009",
@@ -134,6 +166,11 @@
           "en": "dirty clothes",
           "vi": "đồ dơ"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -155,6 +192,11 @@
           "en": "banana peel",
           "vi": "vỏ chuối"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -162,63 +204,100 @@
       "speaker": "parent",
       "level": 1,
       "en": "Uh-oh! Big mess!",
-      "vi": "Ui, bừa quá trời!"
+      "vi": "Ui, bừa quá trời!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "tidy-up-012",
       "speaker": "parent",
       "level": 1,
       "en": "Wow, so clean!",
-      "vi": "Oa, sạch quá trời!"
+      "vi": "Oa, sạch quá trời!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "tidy-up-013",
       "speaker": "parent",
       "level": 2,
       "en": "Thank you for helping!",
-      "vi": "Cảm ơn con đã phụ nha!"
+      "vi": "Cảm ơn con đã phụ nha!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "tidy-up-014",
       "speaker": "parent",
       "level": 3,
       "en": "First we clean up, then we read a book.",
-      "vi": "Mình dọn xong rồi mới đọc sách nha."
+      "vi": "Mình dọn xong rồi mới đọc sách nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "tidy-up-015",
       "speaker": "child",
       "level": 1,
       "en": "I can help!",
-      "vi": "Con phụ được!"
+      "vi": "Con phụ được!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "tidy-up-016",
       "speaker": "child",
       "level": 1,
       "en": "Too many toys!",
-      "vi": "Nhiều đồ chơi quá!"
+      "vi": "Nhiều đồ chơi quá!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "tidy-up-017",
       "speaker": "child",
       "level": 1,
       "en": "In the box!",
-      "vi": "Bỏ vô hộp!"
+      "vi": "Bỏ vô hộp!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "tidy-up-018",
       "speaker": "child",
       "level": 2,
       "en": "Where does it go?",
-      "vi": "Cái này để đâu?"
+      "vi": "Cái này để đâu?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "tidy-up-019",
       "speaker": "child",
       "level": 1,
       "en": "All tidy!",
-      "vi": "Gọn gàng rồi!"
+      "vi": "Gọn gàng rồi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "tidy-up-020",
@@ -243,6 +322,10 @@
           "en": "crayons",
           "vi": "bút màu"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -250,7 +333,11 @@
       "speaker": "parent",
       "level": 2,
       "en": "Let's race to clean up!",
-      "vi": "Mình thi dọn nhanh nha!"
+      "vi": "Mình thi dọn nhanh nha!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "tidy-up-022",
@@ -275,6 +362,10 @@
           "en": "balls",
           "vi": "mấy trái banh"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -296,6 +387,11 @@
           "en": "paint",
           "vi": "hũ màu"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -303,7 +399,10 @@
       "speaker": "parent",
       "level": 2,
       "en": "Let's sing the clean-up song!",
-      "vi": "Mình hát bài dọn dẹp nha!"
+      "vi": "Mình hát bài dọn dẹp nha!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "tidy-up-025",
@@ -324,6 +423,11 @@
           "en": "chair",
           "vi": "ghế"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -345,6 +449,10 @@
           "en": "three",
           "vi": "ba"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -352,28 +460,268 @@
       "speaker": "parent",
       "level": 2,
       "en": "Toys go back where they live.",
-      "vi": "Đồ chơi thì cất về chỗ của nó nha."
+      "vi": "Đồ chơi thì cất về chỗ của nó nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "tidy-up-028",
       "speaker": "child",
       "level": 1,
       "en": "Done! All clean!",
-      "vi": "Xong rồi! Sạch hết rồi!"
+      "vi": "Xong rồi! Sạch hết rồi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "tidy-up-029",
       "speaker": "child",
       "level": 1,
       "en": "This goes here!",
-      "vi": "Cái này để đây!"
+      "vi": "Cái này để đây!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "tidy-up-030",
       "speaker": "child",
       "level": 1,
       "en": "Let's race!",
-      "vi": "Mình thi nha!"
+      "vi": "Mình thi nha!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "tidy-up-031",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Put this one away before you get out another toy.",
+      "vi": "Cất món này rồi mới lấy món khác ra nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "tidy-up-032",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you make your bed?",
+      "vi": "Con tự dọn giường được không?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "tidy-up-033",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you put your ___ away?",
+      "vi": "Con cất ___ giùm nha?",
+      "slots": [
+        {
+          "en": "shoes",
+          "vi": "giày"
+        },
+        {
+          "en": "backpack",
+          "vi": "cặp"
+        },
+        {
+          "en": "toys",
+          "vi": "đồ chơi"
+        },
+        {
+          "en": "clean clothes",
+          "vi": "đồ sạch"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "tidy-up-034",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's set a timer. Can you clean up before it beeps?",
+      "vi": "Mình hẹn giờ nha. Con dọn xong trước khi chuông reo được không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "tidy-up-035",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You clean up the ___, and I'll do the rest.",
+      "vi": "Con dọn ___ đi, phần còn lại mình làm cho.",
+      "slots": [
+        {
+          "en": "blocks",
+          "vi": "mấy khối xếp hình"
+        },
+        {
+          "en": "books",
+          "vi": "sách"
+        },
+        {
+          "en": "cars",
+          "vi": "mấy chiếc xe"
+        },
+        {
+          "en": "art stuff",
+          "vi": "đồ vẽ"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "tidy-up-036",
+      "speaker": "child",
+      "level": 2,
+      "en": "I didn't make this mess!",
+      "vi": "Đâu phải con bày ra đâu!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "tidy-up-037",
+      "speaker": "child",
+      "level": 2,
+      "en": "I'm done! Can I play now?",
+      "vi": "Con dọn xong rồi! Giờ con chơi được chưa?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "tidy-up-038",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Your room needs to be clean before screen time.",
+      "vi": "Phòng con phải dọn sạch rồi mới được xem màn hình nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "tidy-up-039",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Everyone has a chore. Yours is ___.",
+      "vi": "Ai cũng có việc nhà. Việc của con là ___.",
+      "slots": [
+        {
+          "en": "taking out the trash",
+          "vi": "đổ rác"
+        },
+        {
+          "en": "feeding the cat",
+          "vi": "cho mèo ăn"
+        },
+        {
+          "en": "setting the table",
+          "vi": "dọn bàn ăn"
+        },
+        {
+          "en": "folding the laundry",
+          "vi": "xếp quần áo"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "tidy-up-040",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you give me a hand with the ___?",
+      "vi": "Con phụ một tay ___ nha?",
+      "slots": [
+        {
+          "en": "dishes",
+          "vi": "rửa chén"
+        },
+        {
+          "en": "laundry",
+          "vi": "phơi đồ"
+        },
+        {
+          "en": "groceries",
+          "vi": "cất đồ đi chợ"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "tidy-up-041",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you leave it on the floor, it could get broken.",
+      "vi": "Để dưới sàn là dễ bị bể lắm đó.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "tidy-up-042",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Thanks for cleaning up without being asked.",
+      "vi": "Cảm ơn con đã tự dọn mà không cần nhắc nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "tidy-up-043",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I clean up after this ___?",
+      "vi": "Hết ___ này rồi con dọn nha, được không?",
+      "slots": [
+        {
+          "en": "game",
+          "vi": "ván game"
+        },
+        {
+          "en": "episode",
+          "vi": "tập phim"
+        },
+        {
+          "en": "chapter",
+          "vi": "chương sách"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "tidy-up-044",
+      "speaker": "child",
+      "level": 3,
+      "en": "I already cleaned my room. Can you check it?",
+      "vi": "Con dọn phòng xong rồi. Vô coi thử nha?",
+      "ages": [
+        "7-9"
+      ]
     }
   ],
   "dialogues": [
@@ -417,6 +765,9 @@
           "en": "Wow, so clean! Thank you for helping!",
           "vi": "Oa, sạch quá trời! Cảm ơn con đã phụ nha!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -459,6 +810,9 @@
           "en": "All tidy!",
           "vi": "Gọn gàng rồi!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -496,6 +850,124 @@
           "en": "Yay, book!",
           "vi": "Hoan hô, đọc sách!"
         }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "tidy-up-d04",
+      "titleEn": "Beat the timer",
+      "titleVi": "Thi với đồng hồ",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Okay, clean-up time! Let's set a timer for five minutes.",
+          "vi": "Rồi, tới giờ dọn dẹp! Mình hẹn giờ năm phút nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Five minutes? That's too short!",
+          "vi": "Năm phút hả? Ít quá!"
+        },
+        {
+          "speaker": "dad",
+          "en": "You can do it. Blocks first, then books.",
+          "vi": "Con làm được mà. Dọn khối xếp hình trước, rồi tới sách."
+        },
+        {
+          "speaker": "child",
+          "en": "But I didn't make all of this!",
+          "vi": "Nhưng đâu phải con bày hết đâu!"
+        },
+        {
+          "speaker": "dad",
+          "en": "I know. Your friend helped, but we can clean it up together.",
+          "vi": "Ba biết. Bạn con cũng bày, nhưng mình cùng dọn nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Blocks are done!",
+          "vi": "Dạ. Khối xếp hình xong rồi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Wow, fast! Now the books go on the shelf.",
+          "vi": "Oa, nhanh quá! Giờ sách để lên kệ nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Done! Did I beat the timer?",
+          "vi": "Xong! Con thắng đồng hồ chưa?"
+        },
+        {
+          "speaker": "dad",
+          "en": "You did! High five!",
+          "vi": "Thắng rồi! Đập tay nào!"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "tidy-up-d05",
+      "titleEn": "Room before screens",
+      "titleVi": "Dọn phòng rồi mới chơi game",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, can I play my game now?",
+          "vi": "Mẹ ơi, giờ con chơi game được chưa?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Your room needs to be clean before screen time.",
+          "vi": "Phòng con phải dọn sạch rồi mới được xem màn hình nha."
+        },
+        {
+          "speaker": "child",
+          "en": "But it's not that messy!",
+          "vi": "Nhưng đâu có bừa lắm đâu!"
+        },
+        {
+          "speaker": "mom",
+          "en": "There are clothes all over the floor, and your bed isn't made.",
+          "vi": "Quần áo vứt đầy sàn, giường cũng chưa dọn kìa."
+        },
+        {
+          "speaker": "child",
+          "en": "Can I clean up after this one game?",
+          "vi": "Chơi hết ván này rồi con dọn được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Nope, room first. If you start now, you'll be done in ten minutes.",
+          "vi": "Không, dọn phòng trước. Con làm liền thì mười phút là xong."
+        },
+        {
+          "speaker": "child",
+          "en": "Fine. Where should I put my clean clothes?",
+          "vi": "Thôi được. Đồ sạch con để đâu?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Fold them and put them in your drawer.",
+          "vi": "Con xếp lại rồi bỏ vô ngăn kéo nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, I'm done. Can you check it?",
+          "vi": "Rồi, con xong rồi. Mẹ vô coi thử nha?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow, it looks great! Thanks for working so hard. Go ahead and play.",
+          "vi": "Oa, gọn quá! Cảm ơn con đã chăm chỉ nha. Giờ con chơi đi."
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

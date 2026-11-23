@@ -6,7 +6,11 @@
       "speaker": "parent",
       "level": 1,
       "en": "Let's count!",
-      "vi": "Mình đếm nha!"
+      "vi": "Mình đếm nha!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "numbers-counting-002",
@@ -35,6 +39,10 @@
           "en": "stars",
           "vi": "ngôi sao"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -60,6 +68,9 @@
           "en": "five",
           "vi": "năm"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -81,6 +92,9 @@
           "en": "three",
           "vi": "ba"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -88,7 +102,11 @@
       "speaker": "parent",
       "level": 1,
       "en": "One more!",
-      "vi": "Thêm một cái nữa!"
+      "vi": "Thêm một cái nữa!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "numbers-counting-006",
@@ -113,6 +131,9 @@
           "en": "five",
           "vi": "năm"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -120,63 +141,99 @@
       "speaker": "parent",
       "level": 1,
       "en": "Count with me!",
-      "vi": "Mình cùng đếm nào!"
+      "vi": "Mình cùng đếm nào!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "numbers-counting-008",
       "speaker": "parent",
       "level": 2,
       "en": "Which one has more?",
-      "vi": "Bên nào nhiều hơn?"
+      "vi": "Bên nào nhiều hơn?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "numbers-counting-009",
       "speaker": "parent",
       "level": 2,
       "en": "How old are you?",
-      "vi": "Con mấy tuổi rồi?"
+      "vi": "Con mấy tuổi rồi?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "numbers-counting-010",
       "speaker": "parent",
       "level": 3,
       "en": "Put one block in the box, then one more.",
-      "vi": "Bỏ một khối vào hộp, rồi thêm một khối nữa."
+      "vi": "Bỏ một khối vào hộp, rồi thêm một khối nữa.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "numbers-counting-011",
       "speaker": "parent",
       "level": 3,
       "en": "Let's count the stairs as we walk up.",
-      "vi": "Mình vừa leo cầu thang vừa đếm nha."
+      "vi": "Mình vừa leo cầu thang vừa đếm nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "numbers-counting-012",
       "speaker": "parent",
       "level": 2,
       "en": "Wow, you counted to ten!",
-      "vi": "Oa, con đếm tới mười rồi!"
+      "vi": "Oa, con đếm tới mười rồi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "numbers-counting-013",
       "speaker": "parent",
       "level": 2,
       "en": "How many are there?",
-      "vi": "Có mấy cái vậy con?"
+      "vi": "Có mấy cái vậy con?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "numbers-counting-014",
       "speaker": "parent",
       "level": 2,
       "en": "Count them with your finger.",
-      "vi": "Con lấy ngón tay chỉ từng cái mà đếm nha."
+      "vi": "Con lấy ngón tay chỉ từng cái mà đếm nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "numbers-counting-015",
       "speaker": "child",
       "level": 1,
       "en": "One, two, three!",
-      "vi": "Một, hai, ba!"
+      "vi": "Một, hai, ba!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "numbers-counting-016",
@@ -197,6 +254,9 @@
           "en": "four",
           "vi": "bốn"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -222,6 +282,10 @@
           "en": "five",
           "vi": "năm"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -229,21 +293,34 @@
       "speaker": "child",
       "level": 1,
       "en": "Let me count!",
-      "vi": "Để con đếm!"
+      "vi": "Để con đếm!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "numbers-counting-019",
       "speaker": "child",
       "level": 1,
       "en": "So many!",
-      "vi": "Nhiều quá!"
+      "vi": "Nhiều quá!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "numbers-counting-020",
       "speaker": "child",
       "level": 1,
       "en": "Five fingers!",
-      "vi": "Năm ngón tay!"
+      "vi": "Năm ngón tay!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "numbers-counting-021",
@@ -268,6 +345,9 @@
           "en": "blocks",
           "vi": "khối xếp hình"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -293,6 +373,10 @@
           "en": "five",
           "vi": "năm"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -300,7 +384,12 @@
       "speaker": "parent",
       "level": 1,
       "en": "Let's count again!",
-      "vi": "Mình đếm lại nha!"
+      "vi": "Mình đếm lại nha!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "numbers-counting-024",
@@ -325,6 +414,10 @@
           "en": "five",
           "vi": "năm"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -332,7 +425,12 @@
       "speaker": "parent",
       "level": 2,
       "en": "One for you, one for me.",
-      "vi": "Một cái cho con, một cái cho mình."
+      "vi": "Một cái cho con, một cái cho mình.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "numbers-counting-026",
@@ -357,6 +455,10 @@
           "en": "seven",
           "vi": "bảy"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -382,6 +484,10 @@
           "en": "fish",
           "vi": "mấy con cá"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -389,21 +495,33 @@
       "speaker": "child",
       "level": 1,
       "en": "I can count!",
-      "vi": "Con biết đếm!"
+      "vi": "Con biết đếm!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "numbers-counting-029",
       "speaker": "child",
       "level": 1,
       "en": "I'm counting!",
-      "vi": "Con đang đếm nè!"
+      "vi": "Con đang đếm nè!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "numbers-counting-030",
       "speaker": "child",
       "level": 2,
       "en": "I have two hands!",
-      "vi": "Con có hai bàn tay!"
+      "vi": "Con có hai bàn tay!",
+      "ages": [
+        "3-5"
+      ]
     }
   ],
   "dialogues": [
@@ -442,6 +560,9 @@
           "en": "Three ducks!",
           "vi": "Ba con vịt!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -479,6 +600,9 @@
           "en": "Five fingers!",
           "vi": "Năm ngón tay!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -521,6 +645,10 @@
           "en": "Wow, six stairs! Great counting!",
           "vi": "Oa, sáu bậc! Con đếm giỏi quá!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     }
   ]

@@ -20,6 +20,10 @@
           "en": "wash your hands",
           "vi": "rửa tay"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -27,14 +31,21 @@
       "speaker": "parent",
       "level": 2,
       "en": "Do you need to go potty?",
-      "vi": "Con có muốn đi vệ sinh không?"
+      "vi": "Con có muốn đi vệ sinh không?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "bathroom-003",
       "speaker": "parent",
       "level": 1,
       "en": "Open wide!",
-      "vi": "Há miệng to ra nào!"
+      "vi": "Há miệng to ra nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-004",
@@ -55,6 +66,9 @@
           "en": "feet",
           "vi": "chân"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -62,7 +76,10 @@
       "speaker": "parent",
       "level": 1,
       "en": "Up and down!",
-      "vi": "Chải lên, chải xuống nào!"
+      "vi": "Chải lên, chải xuống nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-006",
@@ -87,6 +104,10 @@
           "en": "back",
           "vi": "phía trong"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -94,7 +115,11 @@
       "speaker": "parent",
       "level": 1,
       "en": "Spit it out!",
-      "vi": "Nhổ ra nào con!"
+      "vi": "Nhổ ra nào con!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "bathroom-008",
@@ -119,6 +144,9 @@
           "en": "towel",
           "vi": "khăn"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -126,21 +154,32 @@
       "speaker": "parent",
       "level": 2,
       "en": "Sit on the potty, please.",
-      "vi": "Con ngồi lên bô nào."
+      "vi": "Con ngồi lên bô nào.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-010",
       "speaker": "parent",
       "level": 1,
       "en": "Flush the toilet!",
-      "vi": "Bấm xả nước nào con!"
+      "vi": "Bấm xả nước nào con!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "bathroom-011",
       "speaker": "parent",
       "level": 1,
       "en": "You did it!",
-      "vi": "Con giỏi quá!"
+      "vi": "Con giỏi quá!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "bathroom-012",
@@ -165,6 +204,9 @@
           "en": "pull up your pants",
           "vi": "tự kéo quần lên"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -172,14 +214,22 @@
       "speaker": "parent",
       "level": 3,
       "en": "We brush our teeth every morning and night.",
-      "vi": "Sáng và tối mình đều đánh răng nha con."
+      "vi": "Sáng và tối mình đều đánh răng nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "bathroom-014",
       "speaker": "parent",
       "level": 3,
       "en": "Wash your hands after you go potty.",
-      "vi": "Đi vệ sinh xong thì rửa tay nha con."
+      "vi": "Đi vệ sinh xong thì rửa tay nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "bathroom-015",
@@ -200,6 +250,10 @@
           "en": "go potty",
           "vi": "đi vệ sinh"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -207,49 +261,72 @@
       "speaker": "child",
       "level": 1,
       "en": "Soapy hands!",
-      "vi": "Tay đầy xà phòng!"
+      "vi": "Tay đầy xà phòng!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-017",
       "speaker": "child",
       "level": 1,
       "en": "My turn!",
-      "vi": "Tới lượt con!"
+      "vi": "Tới lượt con!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-018",
       "speaker": "child",
       "level": 1,
       "en": "I did it!",
-      "vi": "Con làm được rồi!"
+      "vi": "Con làm được rồi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-019",
       "speaker": "child",
       "level": 1,
       "en": "Help me, please.",
-      "vi": "Giúp con với."
+      "vi": "Giúp con với.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "bathroom-020",
       "speaker": "child",
       "level": 1,
       "en": "Look, clean teeth!",
-      "vi": "Nhìn nè, răng sạch rồi!"
+      "vi": "Nhìn nè, răng sạch rồi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-021",
       "speaker": "parent",
       "level": 1,
       "en": "Rub, rub, rub!",
-      "vi": "Chà, chà, chà nào!"
+      "vi": "Chà, chà, chà nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-022",
       "speaker": "parent",
       "level": 2,
       "en": "Rinse off the soap.",
-      "vi": "Xả sạch xà phòng nha con."
+      "vi": "Xả sạch xà phòng nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "bathroom-023",
@@ -270,6 +347,10 @@
           "en": "feet",
           "vi": "chân"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -277,14 +358,23 @@
       "speaker": "parent",
       "level": 2,
       "en": "Turn off the water, please.",
-      "vi": "Con khóa vòi nước lại nha."
+      "vi": "Con khóa vòi nước lại nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "bathroom-025",
       "speaker": "parent",
       "level": 3,
       "en": "It's okay. Accidents happen. Let's get clean pants.",
-      "vi": "Không sao đâu con. Ai cũng có lúc vậy mà. Mình thay quần sạch nha."
+      "vi": "Không sao đâu con. Ai cũng có lúc vậy mà. Mình thay quần sạch nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "bathroom-026",
@@ -305,6 +395,10 @@
           "en": "face",
           "vi": "mặt"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -312,7 +406,11 @@
       "speaker": "parent",
       "level": 3,
       "en": "Keep the water in the sink, please.",
-      "vi": "Mình để nước trong bồn rửa thôi nha con."
+      "vi": "Mình để nước trong bồn rửa thôi nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "bathroom-028",
@@ -333,6 +431,9 @@
           "en": "hands",
           "vi": "tay"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -340,28 +441,40 @@
       "speaker": "child",
       "level": 1,
       "en": "Water off!",
-      "vi": "Khóa nước rồi!"
+      "vi": "Khóa nước rồi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-030",
       "speaker": "child",
       "level": 1,
       "en": "Uh-oh, wet pants!",
-      "vi": "Ối, ướt quần rồi!"
+      "vi": "Ối, ướt quần rồi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-031",
       "speaker": "parent",
       "level": 2,
       "en": "Pull down your pants.",
-      "vi": "Kéo quần xuống nào con."
+      "vi": "Kéo quần xuống nào con.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-032",
       "speaker": "parent",
       "level": 2,
       "en": "Let's get some soap.",
-      "vi": "Mình lấy chút xà phòng nha."
+      "vi": "Mình lấy chút xà phòng nha.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-033",
@@ -386,6 +499,10 @@
           "en": "fingers",
           "vi": "ngón tay"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -393,7 +510,10 @@
       "speaker": "parent",
       "level": 2,
       "en": "Let's try the big toilet.",
-      "vi": "Mình thử ngồi bồn cầu lớn nha."
+      "vi": "Mình thử ngồi bồn cầu lớn nha.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-035",
@@ -418,6 +538,11 @@
           "en": "soap",
           "vi": "xà phòng"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -425,7 +550,11 @@
       "speaker": "parent",
       "level": 3,
       "en": "Let's sing a song while we wash.",
-      "vi": "Mình vừa rửa vừa hát nha."
+      "vi": "Mình vừa rửa vừa hát nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "bathroom-037",
@@ -446,6 +575,9 @@
           "en": "dry",
           "vi": "khô"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -453,21 +585,236 @@
       "speaker": "child",
       "level": 1,
       "en": "Clean hands!",
-      "vi": "Tay sạch rồi!"
+      "vi": "Tay sạch rồi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-039",
       "speaker": "child",
       "level": 1,
       "en": "I went potty!",
-      "vi": "Con đi vệ sinh rồi!"
+      "vi": "Con đi vệ sinh rồi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "bathroom-040",
       "speaker": "child",
       "level": 1,
       "en": "Stinky!",
-      "vi": "Thúi quá!"
+      "vi": "Thúi quá!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "bathroom-041",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Did you wash your hands with soap?",
+      "vi": "Con rửa tay bằng xà phòng chưa?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bathroom-042",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Brush for two minutes, okay?",
+      "vi": "Đánh răng đủ hai phút nha con.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "bathroom-043",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Don't forget to brush your ___.",
+      "vi": "Đừng quên chải ___ nha.",
+      "slots": [
+        {
+          "en": "tongue",
+          "vi": "lưỡi"
+        },
+        {
+          "en": "back teeth",
+          "vi": "răng trong cùng"
+        },
+        {
+          "en": "gums",
+          "vi": "nướu"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "bathroom-044",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Did you remember to ___?",
+      "vi": "Con nhớ ___ chưa?",
+      "slots": [
+        {
+          "en": "flush",
+          "vi": "xả nước"
+        },
+        {
+          "en": "wash your hands",
+          "vi": "rửa tay"
+        },
+        {
+          "en": "turn off the light",
+          "vi": "tắt đèn"
+        },
+        {
+          "en": "put the seat down",
+          "vi": "hạ nắp bồn cầu xuống"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bathroom-045",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Try to go potty before we leave.",
+      "vi": "Con thử đi vệ sinh trước khi mình đi nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "bathroom-046",
+      "speaker": "child",
+      "level": 2,
+      "en": "My tooth is wiggly!",
+      "vi": "Răng con bị lung lay nè!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "bathroom-047",
+      "speaker": "child",
+      "level": 2,
+      "en": "I can brush by myself now.",
+      "vi": "Giờ con tự đánh răng được rồi.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "bathroom-048",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Please hang your towel up so it can dry.",
+      "vi": "Con treo khăn lên cho khô nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "bathroom-049",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You've been in there a long time. Everything okay?",
+      "vi": "Con ở trong đó lâu rồi đó. Có sao không con?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "bathroom-050",
+      "speaker": "parent",
+      "level": 3,
+      "en": "___ needs the bathroom too, so please hurry.",
+      "vi": "___ cũng cần vào nhà vệ sinh, con nhanh lên nha.",
+      "slots": [
+        {
+          "en": "Your sister",
+          "vi": "Em gái"
+        },
+        {
+          "en": "Your brother",
+          "vi": "Anh hai"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "Ông"
+        },
+        {
+          "en": "Grandma",
+          "vi": "Bà"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "bathroom-051",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Make sure you ___ before bed.",
+      "vi": "Nhớ ___ trước khi ngủ nha con.",
+      "slots": [
+        {
+          "en": "floss",
+          "vi": "xỉa răng"
+        },
+        {
+          "en": "brush your teeth",
+          "vi": "đánh răng"
+        },
+        {
+          "en": "go to the bathroom",
+          "vi": "đi vệ sinh"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "bathroom-052",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Wipe up the water on the floor so nobody slips.",
+      "vi": "Con lau chỗ nước dưới sàn đi, kẻo có người trượt té.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "bathroom-053",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I have some privacy, please?",
+      "vi": "Cho con ở một mình chút được không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "bathroom-054",
+      "speaker": "child",
+      "level": 2,
+      "en": "I'm almost done. Just a minute!",
+      "vi": "Con sắp xong rồi. Chờ con một chút!",
+      "ages": [
+        "7-9"
+      ]
     }
   ],
   "dialogues": [
@@ -493,7 +840,8 @@
         },
         {
           "speaker": "child",
-          "en": "Aaah!", "ipa": "/ɑː/",
+          "en": "Aaah!",
+          "ipa": "/ɑː/",
           "vi": "Aaa!"
         },
         {
@@ -511,6 +859,9 @@
           "en": "You did it!",
           "vi": "Con giỏi quá!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -548,6 +899,9 @@
           "en": "Wash your hands after you go potty.",
           "vi": "Đi vệ sinh xong thì rửa tay nha con."
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -585,6 +939,114 @@
           "en": "Dry your hands with the towel. You did it!",
           "vi": "Lau khô tay bằng khăn nha. Con giỏi quá!"
         }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "bathroom-d04",
+      "titleEn": "Wiggly tooth",
+      "titleVi": "Răng lung lay",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mommy, my tooth is wiggly!",
+          "vi": "Mẹ ơi, răng con bị lung lay nè!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Really? Let me see. Open wide.",
+          "vi": "Thiệt hả? Cho mẹ xem. Há miệng ra nào."
+        },
+        {
+          "speaker": "child",
+          "en": "Is it going to fall out?",
+          "vi": "Nó có rụng không mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Yes, soon! That means you're growing up.",
+          "vi": "Có, sắp rụng rồi! Vậy là con đang lớn đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Can I still brush my teeth?",
+          "vi": "Con vẫn đánh răng được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Of course. Just brush gently around it.",
+          "vi": "Được chứ. Con chải nhẹ nhẹ chỗ đó thôi."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. I can brush by myself now.",
+          "vi": "Dạ. Giờ con tự đánh răng được rồi."
+        },
+        {
+          "speaker": "mom",
+          "en": "I know! Two minutes, okay? Go!",
+          "vi": "Mẹ biết mà! Hai phút nha. Bắt đầu!"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "bathroom-d05",
+      "titleEn": "Bathroom rush",
+      "titleVi": "Giành nhà vệ sinh",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Hey, you've been in there a long time. Everything okay?",
+          "vi": "Con ơi, con ở trong đó lâu rồi. Có sao không?"
+        },
+        {
+          "speaker": "child",
+          "en": "I'm fine! I'm almost done.",
+          "vi": "Con không sao! Con sắp xong rồi."
+        },
+        {
+          "speaker": "dad",
+          "en": "Okay, but your sister needs the bathroom too.",
+          "vi": "Ừ, nhưng em con cũng cần vào nhà vệ sinh nữa."
+        },
+        {
+          "speaker": "child",
+          "en": "I'm doing my hair. It looks weird today.",
+          "vi": "Con đang chải tóc. Hôm nay tóc con kỳ quá."
+        },
+        {
+          "speaker": "dad",
+          "en": "I get it. How about you finish your hair in your room?",
+          "vi": "Ba hiểu. Hay con về phòng chải tóc tiếp nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, fine. Can I take the brush?",
+          "vi": "Dạ, được rồi. Con lấy cây lược theo nha?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure. And please hang your towel up.",
+          "vi": "Được. Mà con nhớ treo khăn lên nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Oops, I forgot. Done!",
+          "vi": "Ủa, con quên. Xong rồi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Thanks, buddy. Your hair looks great, by the way.",
+          "vi": "Cảm ơn con. Mà tóc con đẹp mà."
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

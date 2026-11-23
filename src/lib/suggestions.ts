@@ -1,5 +1,5 @@
 // Time-of-day suggestions: which topics fit "right now", and 3 daily picks.
-import type { Topic } from './content'
+import type { Phrase, Topic } from './content'
 import type { Progress } from './db'
 
 export type Period = 'morning' | 'noon' | 'afternoon' | 'evening' | 'night'
@@ -35,11 +35,18 @@ function mulberry32(seed: number) {
 const hash = (s: string) => [...s].reduce((h, c) => (Math.imul(31, h) + c.charCodeAt(0)) | 0, 7)
 
 /** Pick `count` phrases from the given topics, preferring ones the parent hasn't learned yet. */
-export function dailyPicks(topics: Topic[], progress: Map<string, Progress>, period: Period, count = 3, date = new Date()) {
-  const all = topics.flatMap((t) => t.phrases.map((p) => ({ phrase: p, topicId: t.id })))
+export function dailyPicks(
+  topics: Topic[],
+  progress: Map<string, Progress>,
+  period: Period,
+  fits: (p: Phrase) => boolean = () => true,
+  count = 3,
+  date = new Date(),
+) {
+  const all = topics.flatMap((t) => t.phrases.filter(fits).map((p) => ({ phrase: p, topicId: t.id })))
   const fresh = all.filter(({ phrase }) => !progress.get(phrase.id)?.parentLearned)
   const pool = fresh.length >= count ? fresh : all
-  const rand = mulberry32(hash(`${date.toDateString()}|${period}`))
+  const rand = mulberry32(hash(`${date.toDateString()}|${period}|${all.length}`))
   return [...pool]
     .sort((a, b) => a.phrase.id.localeCompare(b.phrase.id)) // stable input order → same picks for the same seed
     .map((item) => ({ item, r: rand() }))

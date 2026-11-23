@@ -17,7 +17,8 @@ Nguồn nội dung (do agent soạn) nằm ở `content/`. Script `scripts/build
     {
       "id": "mealtime-001",          // <topicId>-<3 digits>, không bao giờ đổi/tái sử dụng
       "speaker": "parent",           // "parent" (có audio giọng ba + mẹ) | "child" (giọng bé)
-      "level": 1,                    // 1: 1–3 từ, 2: 4–6 từ, 3: ≤10 từ
+      "level": 1,                    // 1: 1–3 từ, 2: 4–6 từ, 3: 7+ từ
+      "ages": ["3-5"],               // nhóm tuổi phù hợp: "3-5" | "5-7" | "7-9" (1 hoặc nhiều)
       "en": "Are you hungry?",
       "vi": "Con đói chưa?"
     },
@@ -38,6 +39,7 @@ Nguồn nội dung (do agent soạn) nằm ở `content/`. Script `scripts/build
       "id": "mealtime-d01",          // <topicId>-d<2 digits>
       "titleEn": "Breakfast time",
       "titleVi": "Bữa sáng",
+      "ages": ["3-5", "5-7"],
       "lines": [                      // 4–8 dòng; line id tự sinh = <dialogueId>-l<n>
         { "speaker": "mom",   "en": "Good morning! Are you hungry?", "vi": "Chào buổi sáng! Con đói chưa?" },
         { "speaker": "child", "en": "Yes!", "vi": "Dạ có!" },
@@ -47,11 +49,22 @@ Nguồn nội dung (do agent soạn) nằm ở `content/`. Script `scripts/build
   ]
 }
 ```
+- Chủ đề hiện ở nhóm tuổi nào = hợp các `ages` của câu trong chủ đề. Quy tắc theo tuổi: skill `bean-content-authoring`.
 - Mỗi chủ đề: **≥20 phrases** (~70% parent, ~30% child), **≥25% câu có `slots`**, **≥2 dialogues**. Thêm câu mới thì nối tiếp id, không đánh số lại.
 - `ipa` tuỳ chọn trên phrase / dialogue line / slot (slot: IPA của cả câu đã điền): chỉ điền khi muốn ghi đè IPA tự sinh (từ CMU dict).
 
-## Audio (sinh tự động)
-Một giọng duy nhất cho mọi câu (D23). File `public/audio/<uttId>.m4a`:
-- phrase → `<phraseId>`; slot variant → `<phraseId>-s<n>`; dialogue line → `<dialogueId>-l<n>`.
-- `speaker` vẫn giữ để hiển thị (nhãn Ba/Mẹ/Bé), không ảnh hưởng audio.
-- Cấu hình giọng: `scripts/voices.json`.
+## Audio (sinh tự động) — gói bất biến: base theo chủ đề + patch theo đợt (D26)
+Mỗi câu = 1 clip, key = `<uttId>` (phrase → `<phraseId>`, slot → `<phraseId>-s<n>`, dialogue → `<dialogueId>-l<n>`). Một giọng cho mọi câu (`scripts/voices.json`).
+
+```
+audio/packs/base-<topicId>-<hash>.bin   1 gói/chủ đề, tạo bởi compact
+audio/packs/patch-<NNN>-<hash>.bin      1 gói/đợt cập nhật: mọi clip mới/đổi, mọi chủ đề (≤3MB)
+audio/packs/patch-<NNN>-<topic>-<hash>.bin  đợt lớn >3MB: tách theo chủ đề (tải offline theo chủ đề vẫn nhỏ)
+audio/packs.json                        sổ cái: key → { hash (text+voice+pipeline), pack, range:[off,len] }
+```
+- Gói **không bao giờ bị ghi lại** → user chỉ tải patch mới. Clip đổi/xoá để lại byte chết.
+- **Tái sử dụng theo nội dung:** clip trùng câu chữ + giọng với clip đã có (thêm/chèn/đổi thứ tự slot, chuyển câu sang chủ đề khác) được trỏ tới byte cũ, không sinh lại. Thêm slot mới → chỉ clip mới vào patch.
+- `pnpm audio`: sinh clip mới/đổi → **1 patch**. `pnpm audio:compact`: dựng lại base sạch (user tải lại toàn bộ 1 lần) — nên chạy khi >5 patch hoặc >25% byte chết (script tự nhắc).
+- Gói + `packs.json` được commit; `audio/.staging/` (clip tạm, cho phép chạy tiếp khi bị ngắt) thì không.
+- App: SW **không** precache gói; người dùng chọn chủ đề → `src/lib/offline.ts` tải các gói chủ đề cần (base + patch) vào cache `bean-audio-v1`, khi khởi động tự tải patch mới & xoá gói thừa.
+- Build copy các gói đang dùng sang `public/audio-packs/`; topic JSON có `audio: { packs: [url], index: { key: [packIdx, off, len] } }`; app cắt Blob theo range để phát.

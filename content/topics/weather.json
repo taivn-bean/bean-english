@@ -6,14 +6,24 @@
       "speaker": "parent",
       "level": 1,
       "en": "Look outside!",
-      "vi": "Nhìn ra ngoài kìa con!"
+      "vi": "Nhìn ra ngoài kìa con!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "weather-002",
       "speaker": "parent",
       "level": 2,
       "en": "What's the weather like?",
-      "vi": "Trời hôm nay sao vậy con?"
+      "vi": "Trời hôm nay sao vậy con?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "weather-003",
@@ -42,6 +52,11 @@
           "en": "hot",
           "vi": "nóng"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -49,7 +64,10 @@
       "speaker": "parent",
       "level": 1,
       "en": "Drip, drop, rain!",
-      "vi": "Tí tách, mưa rơi!"
+      "vi": "Tí tách, mưa rơi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "weather-005",
@@ -74,6 +92,10 @@
           "en": "birds",
           "vi": "tiếng chim hót"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -99,6 +121,11 @@
           "en": "jacket",
           "vi": "áo khoác"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -106,7 +133,11 @@
       "speaker": "parent",
       "level": 2,
       "en": "Let's jump in the puddles!",
-      "vi": "Mình nhảy vũng nước nào!"
+      "vi": "Mình nhảy vũng nước nào!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "weather-008",
@@ -131,6 +162,10 @@
           "en": "wet",
           "vi": "ướt"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -160,6 +195,11 @@
           "en": "airplane",
           "vi": "máy bay"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -167,70 +207,113 @@
       "speaker": "parent",
       "level": 1,
       "en": "It's just thunder.",
-      "vi": "Chỉ là tiếng sấm thôi con."
+      "vi": "Chỉ là tiếng sấm thôi con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "weather-011",
       "speaker": "parent",
       "level": 2,
       "en": "You're safe inside with me.",
-      "vi": "Con ở trong nhà an toàn mà."
+      "vi": "Con ở trong nhà an toàn mà.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "weather-012",
       "speaker": "parent",
       "level": 2,
       "en": "The wind is blowing!",
-      "vi": "Gió đang thổi kìa!"
+      "vi": "Gió đang thổi kìa!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "weather-013",
       "speaker": "parent",
       "level": 2,
       "en": "Wear your hat. It's sunny.",
-      "vi": "Đội nón vào nha, trời nắng đó."
+      "vi": "Đội nón vào nha, trời nắng đó.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "weather-014",
       "speaker": "parent",
       "level": 3,
       "en": "When it rains, the flowers get a drink.",
-      "vi": "Trời mưa là cây hoa được uống nước đó con."
+      "vi": "Trời mưa là cây hoa được uống nước đó con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "weather-015",
       "speaker": "child",
       "level": 1,
       "en": "It's raining!",
-      "vi": "Mưa rồi!"
+      "vi": "Mưa rồi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "weather-016",
       "speaker": "child",
       "level": 1,
       "en": "Look, a rainbow!",
-      "vi": "Nhìn kìa, cầu vồng!"
+      "vi": "Nhìn kìa, cầu vồng!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "weather-017",
       "speaker": "child",
       "level": 1,
       "en": "I'm cold.",
-      "vi": "Con lạnh quá."
+      "vi": "Con lạnh quá.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "weather-018",
       "speaker": "child",
       "level": 1,
       "en": "Jump, jump!",
-      "vi": "Nhảy, nhảy!"
+      "vi": "Nhảy, nhảy!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "weather-019",
       "speaker": "child",
       "level": 1,
       "en": "Umbrella, please!",
-      "vi": "Cho con cây dù!"
+      "vi": "Cho con cây dù!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "weather-020",
@@ -255,6 +338,10 @@
           "en": "stars",
           "vi": "sao"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -284,6 +371,11 @@
           "en": "cold",
           "vi": "lạnh"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -309,6 +401,11 @@
           "en": "sun hat",
           "vi": "đội nón"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -316,28 +413,46 @@
       "speaker": "parent",
       "level": 2,
       "en": "The sun is so bright!",
-      "vi": "Mặt trời chói quá!"
+      "vi": "Mặt trời chói quá!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "weather-024",
       "speaker": "parent",
       "level": 1,
       "en": "No more rain!",
-      "vi": "Hết mưa rồi!"
+      "vi": "Hết mưa rồi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "weather-025",
       "speaker": "parent",
       "level": 2,
       "en": "Let's stay inside today.",
-      "vi": "Hôm nay mình ở trong nhà nha."
+      "vi": "Hôm nay mình ở trong nhà nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "weather-026",
       "speaker": "parent",
       "level": 3,
       "en": "Let's watch the rain from the window.",
-      "vi": "Mình ngồi coi mưa qua cửa sổ nha."
+      "vi": "Mình ngồi coi mưa qua cửa sổ nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "weather-027",
@@ -362,6 +477,11 @@
           "en": "feet",
           "vi": "chân"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -369,21 +489,268 @@
       "speaker": "child",
       "level": 1,
       "en": "I'm hot!",
-      "vi": "Con nóng quá!"
+      "vi": "Con nóng quá!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "weather-029",
       "speaker": "child",
       "level": 1,
       "en": "Too windy!",
-      "vi": "Gió quá!"
+      "vi": "Gió quá!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "weather-030",
       "speaker": "child",
       "level": 2,
       "en": "Can I go outside?",
-      "vi": "Con ra ngoài chơi được không?"
+      "vi": "Con ra ngoài chơi được không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weather-031",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It looks like it's going to rain.",
+      "vi": "Coi bộ trời sắp mưa rồi.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weather-032",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It's cold today, so wear your ___.",
+      "vi": "Hôm nay trời lạnh, nên ___ vô nha.",
+      "slots": [
+        {
+          "en": "jacket",
+          "vi": "mặc áo khoác"
+        },
+        {
+          "en": "sweater",
+          "vi": "mặc áo len"
+        },
+        {
+          "en": "hat",
+          "vi": "đội nón len"
+        },
+        {
+          "en": "gloves",
+          "vi": "đeo găng tay"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "weather-033",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Why do you think the ground is wet?",
+      "vi": "Con nghĩ sao đất lại ướt vậy?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "weather-034",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We can't go outside because it's ___.",
+      "vi": "Mình không ra ngoài được vì trời ___.",
+      "slots": [
+        {
+          "en": "raining",
+          "vi": "đang mưa"
+        },
+        {
+          "en": "too hot",
+          "vi": "nóng quá"
+        },
+        {
+          "en": "too windy",
+          "vi": "gió lớn quá"
+        },
+        {
+          "en": "storming",
+          "vi": "đang bão"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "weather-035",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's check the weather before we go.",
+      "vi": "Mình coi thời tiết trước khi đi nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weather-036",
+      "speaker": "child",
+      "level": 2,
+      "en": "It rained at school today.",
+      "vi": "Hôm nay ở trường trời mưa.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "weather-037",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I wear my ___?",
+      "vi": "Con ___ được không?",
+      "slots": [
+        {
+          "en": "rain boots",
+          "vi": "mang ủng đi mưa"
+        },
+        {
+          "en": "sunglasses",
+          "vi": "đeo kính mát"
+        },
+        {
+          "en": "shorts",
+          "vi": "mặc quần đùi"
+        },
+        {
+          "en": "new jacket",
+          "vi": "mặc áo khoác mới"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weather-038",
+      "speaker": "parent",
+      "level": 2,
+      "en": "It's supposed to ___ this afternoon.",
+      "vi": "Nghe nói chiều nay trời ___.",
+      "slots": [
+        {
+          "en": "rain",
+          "vi": "mưa"
+        },
+        {
+          "en": "storm",
+          "vi": "có giông"
+        },
+        {
+          "en": "be sunny",
+          "vi": "nắng"
+        },
+        {
+          "en": "clear up",
+          "vi": "tạnh"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weather-039",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You might want to bring an umbrella, just in case.",
+      "vi": "Con nên mang theo cây dù cho chắc nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weather-040",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It's hotter today than yesterday, so drink lots of water.",
+      "vi": "Hôm nay nóng hơn hôm qua, nên con uống nhiều nước nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weather-041",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If there's lightning, we go inside right away.",
+      "vi": "Nếu có sấm sét thì mình vô nhà liền nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weather-042",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Do you know why we see lightning before we hear thunder?",
+      "vi": "Con có biết tại sao mình thấy chớp trước rồi mới nghe sấm không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weather-043",
+      "speaker": "child",
+      "level": 3,
+      "en": "Is it going to be ___ tomorrow?",
+      "vi": "Mai trời có ___ không?",
+      "slots": [
+        {
+          "en": "sunny",
+          "vi": "nắng"
+        },
+        {
+          "en": "rainy",
+          "vi": "mưa"
+        },
+        {
+          "en": "hot",
+          "vi": "nóng"
+        },
+        {
+          "en": "cold",
+          "vi": "lạnh"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weather-044",
+      "speaker": "child",
+      "level": 3,
+      "en": "I hope it doesn't rain on my field trip.",
+      "vi": "Con mong bữa đi dã ngoại trời không mưa.",
+      "ages": [
+        "7-9"
+      ]
     }
   ],
   "dialogues": [
@@ -422,6 +789,10 @@
           "en": "Jump, jump!",
           "vi": "Nhảy, nhảy!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -459,6 +830,9 @@
           "en": "I'm okay.",
           "vi": "Con không sao."
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -496,6 +870,125 @@
           "en": "Hi, birdie!",
           "vi": "Chào chim nhỏ!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "weather-d04",
+      "titleEn": "Waiting for the rain to stop",
+      "titleVi": "Chờ mưa tạnh",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Can we go to the park now?",
+          "vi": "Mình đi công viên được không mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm, look outside. What do you see?",
+          "vi": "Ừm, con nhìn ra ngoài coi. Con thấy gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "Dark clouds. And it's windy.",
+          "vi": "Mây đen. Với gió nữa."
+        },
+        {
+          "speaker": "mom",
+          "en": "Right. It looks like it's going to rain.",
+          "vi": "Đúng rồi. Coi bộ trời sắp mưa."
+        },
+        {
+          "speaker": "child",
+          "en": "But I want to go!",
+          "vi": "Nhưng con muốn đi mà!"
+        },
+        {
+          "speaker": "mom",
+          "en": "I know. We can go when the rain stops.",
+          "vi": "Mẹ biết. Mưa tạnh rồi mình đi nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Can I wear my rain boots then?",
+          "vi": "Lúc đó con mang ủng được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure! Then you can jump in the puddles.",
+          "vi": "Được chứ! Rồi con nhảy vũng nước luôn."
+        },
+        {
+          "speaker": "child",
+          "en": "Yay! I hope it stops soon.",
+          "vi": "Yay! Mong mưa tạnh lẹ."
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "weather-d05",
+      "titleEn": "Field trip forecast",
+      "titleVi": "Dự báo thời tiết cho chuyến dã ngoại",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Dad, is it going to rain tomorrow?",
+          "vi": "Ba ơi, mai trời có mưa không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Let me check. It's supposed to rain in the afternoon.",
+          "vi": "Để ba coi. Nghe nói chiều mai có mưa."
+        },
+        {
+          "speaker": "child",
+          "en": "Oh no. We have our field trip to the zoo!",
+          "vi": "Trời ơi. Mai lớp con đi sở thú!"
+        },
+        {
+          "speaker": "dad",
+          "en": "That's okay. You might want to bring your raincoat, just in case.",
+          "vi": "Không sao. Con nên mang áo mưa theo cho chắc."
+        },
+        {
+          "speaker": "child",
+          "en": "But it's so hot in the morning.",
+          "vi": "Nhưng buổi sáng nóng lắm."
+        },
+        {
+          "speaker": "dad",
+          "en": "Then wear a T-shirt and pack the raincoat in your bag.",
+          "vi": "Vậy con mặc áo thun, còn áo mưa thì bỏ trong cặp."
+        },
+        {
+          "speaker": "child",
+          "en": "Good idea. Should I bring a water bottle, too?",
+          "vi": "Ý hay. Con có nên mang chai nước không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Definitely. It'll be hot, so drink lots of water.",
+          "vi": "Chắc chắn rồi. Trời sẽ nóng, nên con uống nhiều nước nha."
+        },
+        {
+          "speaker": "child",
+          "en": "What if there's thunder?",
+          "vi": "Lỡ có sấm thì sao ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Then your teacher will take everyone inside. You'll be fine.",
+          "vi": "Thì cô sẽ dẫn cả lớp vô trong. Không sao đâu con."
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

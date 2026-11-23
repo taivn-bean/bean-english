@@ -1,0 +1,750 @@
+{
+  "topicId": "money",
+  "phrases": [
+    {
+      "id": "money-001",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Here's your pocket money for this week.",
+      "vi": "Tiền tiêu vặt tuần này của con nè.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-002",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Do you want to spend it or save it?",
+      "vi": "Con muốn xài hay để dành?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Put ___ in your piggy bank.",
+      "vi": "Con bỏ ___ vô heo đất nha.",
+      "slots": [
+        {
+          "en": "half",
+          "vi": "phân nửa"
+        },
+        {
+          "en": "some of it",
+          "vi": "một ít"
+        },
+        {
+          "en": "the coins",
+          "vi": "mấy đồng xu"
+        },
+        {
+          "en": "the rest",
+          "vi": "phần còn lại"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-004",
+      "speaker": "parent",
+      "level": 3,
+      "en": "How much money do you have left?",
+      "vi": "Con còn lại bao nhiêu tiền?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-005",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Is that a need or a want?",
+      "vi": "Cái đó là cần thiết, hay chỉ là con thích thôi?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-006",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We need ___. That's a need, not a want.",
+      "vi": "Mình cần ___. Cái đó là cần thiết, không phải ý thích.",
+      "slots": [
+        {
+          "en": "food",
+          "vi": "đồ ăn"
+        },
+        {
+          "en": "shoes for school",
+          "vi": "giày đi học"
+        },
+        {
+          "en": "medicine",
+          "vi": "thuốc"
+        },
+        {
+          "en": "clean water",
+          "vi": "nước sạch"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-007",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you save a little every week, you can buy it yourself.",
+      "vi": "Nếu tuần nào con cũng để dành một chút, con sẽ tự mua được đó.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-008",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's count how much is in your ___.",
+      "vi": "Mình đếm coi trong ___ của con có bao nhiêu nha.",
+      "slots": [
+        {
+          "en": "piggy bank",
+          "vi": "heo đất"
+        },
+        {
+          "en": "wallet",
+          "vi": "ví"
+        },
+        {
+          "en": "money jar",
+          "vi": "hũ tiền"
+        },
+        {
+          "en": "red envelope",
+          "vi": "bao lì xì"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-009",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It costs ten dollars. How much more do you need?",
+      "vi": "Cái đó mười đô. Con cần thêm bao nhiêu nữa?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You can pay the cashier yourself.",
+      "vi": "Con tự trả tiền cho cô thu ngân nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-011",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Don't forget to wait for your change.",
+      "vi": "Nhớ đợi lấy tiền thối nha con.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-012",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Count your change to make sure it's right.",
+      "vi": "Con đếm lại tiền thối coi đủ chưa.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We can't buy everything we want, and that's okay.",
+      "vi": "Mình không thể mua hết mọi thứ mình muốn, vậy cũng không sao.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's think about it for a day before we buy it.",
+      "vi": "Mình suy nghĩ thêm một ngày rồi hẵng mua nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-015",
+      "speaker": "parent",
+      "level": 3,
+      "en": "That's a lot of money for a ___.",
+      "vi": "Nhiêu đó tiền cho một ___ là nhiều lắm đó.",
+      "slots": [
+        {
+          "en": "toy",
+          "vi": "món đồ chơi"
+        },
+        {
+          "en": "snack",
+          "vi": "món ăn vặt"
+        },
+        {
+          "en": "sticker",
+          "vi": "miếng sticker"
+        },
+        {
+          "en": "keychain",
+          "vi": "cái móc khóa",
+          "ipa": "/ðæts ə lɑt ʌv ˈmʌni fɔɹ ə ki tʃeɪn/"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-016",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You've saved so much! Great job!",
+      "vi": "Con để dành được nhiều ghê! Giỏi quá!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-017",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you help ___, you can earn some extra money.",
+      "vi": "Nếu con phụ ___, con sẽ được thêm tiền nha.",
+      "slots": [
+        {
+          "en": "wash the car",
+          "vi": "rửa xe"
+        },
+        {
+          "en": "pull weeds",
+          "vi": "nhổ cỏ"
+        },
+        {
+          "en": "fold the laundry",
+          "vi": "xếp đồ"
+        },
+        {
+          "en": "clean the garage",
+          "vi": "dọn nhà kho"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-018",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Which one is a better deal?",
+      "vi": "Cái nào hời hơn con?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-019",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Money doesn't grow on trees, you know.",
+      "vi": "Tiền đâu phải dễ kiếm đâu con.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-020",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I buy this with my own money?",
+      "vi": "Con lấy tiền của con mua cái này được không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-021",
+      "speaker": "child",
+      "level": 2,
+      "en": "I'm saving up for a ___.",
+      "vi": "Con đang để dành tiền mua ___.",
+      "slots": [
+        {
+          "en": "bike",
+          "vi": "xe đạp"
+        },
+        {
+          "en": "new game",
+          "vi": "game mới"
+        },
+        {
+          "en": "scooter",
+          "vi": "xe trượt"
+        },
+        {
+          "en": "soccer ball",
+          "vi": "trái banh"
+        },
+        {
+          "en": "Lego set",
+          "vi": "bộ Lego"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-022",
+      "speaker": "child",
+      "level": 3,
+      "en": "How many more weeks do I have to save?",
+      "vi": "Con phải để dành thêm mấy tuần nữa?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-023",
+      "speaker": "child",
+      "level": 3,
+      "en": "I have ___ in my piggy bank!",
+      "vi": "Trong heo đất con có ___ rồi nè!",
+      "slots": [
+        {
+          "en": "twenty dollars",
+          "vi": "hai mươi đô"
+        },
+        {
+          "en": "fifteen dollars",
+          "vi": "mười lăm đô"
+        },
+        {
+          "en": "five dollars",
+          "vi": "năm đô"
+        },
+        {
+          "en": "lots of coins",
+          "vi": "cả đống đồng xu"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-024",
+      "speaker": "child",
+      "level": 3,
+      "en": "I think that's a want, not a need.",
+      "vi": "Con nghĩ cái đó là mình thích thôi, đâu có cần.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-025",
+      "speaker": "child",
+      "level": 3,
+      "en": "It's too expensive. I'll wait until it's on sale.",
+      "vi": "Mắc quá. Con đợi khi nào giảm giá rồi mua.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-026",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I do extra chores to earn money?",
+      "vi": "Con làm thêm việc nhà để kiếm tiền được không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-027",
+      "speaker": "child",
+      "level": 3,
+      "en": "I want to buy a present for ___ with my own money.",
+      "vi": "Con muốn lấy tiền của con mua quà tặng ___.",
+      "slots": [
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Mom",
+          "vi": "mẹ"
+        },
+        {
+          "en": "Dad",
+          "vi": "ba"
+        },
+        {
+          "en": "my teacher",
+          "vi": "cô giáo"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-028",
+      "speaker": "child",
+      "level": 3,
+      "en": "I finally have enough! Can we go to the store?",
+      "vi": "Cuối cùng con đủ tiền rồi! Mình đi tiệm được không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-029",
+      "speaker": "child",
+      "level": 3,
+      "en": "Here you go. Do I get any change back?",
+      "vi": "Dạ gửi cô. Có tiền thối không cô?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "money-030",
+      "speaker": "child",
+      "level": 3,
+      "en": "I spent it all, and now I kind of wish I hadn't.",
+      "vi": "Con xài hết rồi, giờ thấy hơi tiếc.",
+      "ages": [
+        "7-9"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "money-d01",
+      "titleEn": "Pocket money day",
+      "titleVi": "Ngày nhận tiền tiêu vặt",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "It's Saturday! Here are your five dollars.",
+          "vi": "Thứ Bảy rồi! Năm đô của con nè."
+        },
+        {
+          "speaker": "child",
+          "en": "Thanks, Dad! Can I spend it all on candy?",
+          "vi": "Cảm ơn ba! Con mua kẹo hết luôn được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, it's your money. But what about the bike you wanted?",
+          "vi": "Ừm, tiền của con mà. Nhưng còn chiếc xe đạp con muốn thì sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Oh yeah. I still need a lot more for that.",
+          "vi": "À ha. Con còn thiếu nhiều lắm."
+        },
+        {
+          "speaker": "dad",
+          "en": "How about you save some and spend some?",
+          "vi": "Hay con để dành một ít, xài một ít?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. I'll save three dollars and spend two.",
+          "vi": "Dạ. Con để dành ba đô, xài hai đô."
+        },
+        {
+          "speaker": "dad",
+          "en": "That sounds like a smart plan.",
+          "vi": "Vậy là tính khôn đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Can you help me write it down so I can keep track?",
+          "vi": "Ba giúp con ghi lại để con theo dõi được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure. Grab a notebook and let's do it together.",
+          "vi": "Được. Con lấy cuốn tập ra, mình làm chung."
+        }
+      ]
+    },
+    {
+      "id": "money-d02",
+      "titleEn": "Need or want?",
+      "titleVi": "Cần hay thích?",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, can we get this toy car? It's so cool.",
+          "vi": "Mẹ ơi, mua xe đồ chơi này được không? Ngầu quá trời."
+        },
+        {
+          "speaker": "mom",
+          "en": "It is cool. But today we're only here for school shoes.",
+          "vi": "Ngầu thiệt. Nhưng hôm nay mình chỉ đi mua giày đi học thôi."
+        },
+        {
+          "speaker": "child",
+          "en": "But I really, really want it.",
+          "vi": "Nhưng con muốn lắm lắm."
+        },
+        {
+          "speaker": "mom",
+          "en": "I hear you. So is the toy car a need or a want?",
+          "vi": "Mẹ hiểu. Vậy xe đồ chơi là cần thiết hay chỉ là con thích?"
+        },
+        {
+          "speaker": "child",
+          "en": "A want. But the shoes are a need.",
+          "vi": "Là con thích. Còn giày là cần thiết."
+        },
+        {
+          "speaker": "mom",
+          "en": "Exactly. You can save up for the car if you really want it.",
+          "vi": "Đúng rồi. Nếu con thích thiệt thì để dành tiền mua nha."
+        },
+        {
+          "speaker": "child",
+          "en": "How much is it?",
+          "vi": "Nó bao nhiêu tiền vậy mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Twelve dollars. You have seven in your piggy bank, right?",
+          "vi": "Mười hai đô. Trong heo đất con có bảy đô đúng không?"
+        },
+        {
+          "speaker": "child",
+          "en": "So I need five more. That's like two more weeks!",
+          "vi": "Vậy con cần thêm năm đô. Khoảng hai tuần nữa!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Great math! Let's take a picture of it so you remember.",
+          "vi": "Tính giỏi ghê! Mình chụp hình nó lại để con nhớ nha."
+        }
+      ]
+    },
+    {
+      "id": "money-d03",
+      "titleEn": "Paying by myself",
+      "titleVi": "Tự trả tiền",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Okay, you're going to pay by yourself this time.",
+          "vi": "Rồi, lần này con tự trả tiền nha."
+        },
+        {
+          "speaker": "child",
+          "en": "I'm a little nervous. What do I say?",
+          "vi": "Con hơi run. Con nói sao ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Just say, \"Hi, I'd like to pay for this, please.\"",
+          "vi": "Con nói: \"Dạ con muốn tính tiền cái này.\""
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. It's three dollars, and I have a five.",
+          "vi": "Dạ. Cái này ba đô, con có tờ năm đô."
+        },
+        {
+          "speaker": "dad",
+          "en": "So how much change should you get back?",
+          "vi": "Vậy con được thối lại bao nhiêu?"
+        },
+        {
+          "speaker": "child",
+          "en": "Five minus three... two dollars!",
+          "vi": "Năm trừ ba... hai đô!"
+        },
+        {
+          "speaker": "dad",
+          "en": "That's right. Remember to count it before you leave.",
+          "vi": "Đúng rồi. Nhớ đếm lại trước khi đi nha."
+        },
+        {
+          "speaker": "child",
+          "en": "I did it! She gave me two dollars back.",
+          "vi": "Con làm được rồi! Cô thối con hai đô."
+        },
+        {
+          "speaker": "dad",
+          "en": "Awesome job. And you remembered to say thank you, too.",
+          "vi": "Giỏi lắm. Con còn nhớ cảm ơn nữa."
+        }
+      ]
+    },
+    {
+      "id": "money-d04",
+      "titleEn": "Saving for a bike",
+      "titleVi": "Để dành mua xe đạp",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom! Dad! I counted my piggy bank. I have forty dollars!",
+          "vi": "Mẹ ơi! Ba ơi! Con đếm heo đất rồi. Con có bốn mươi đô!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow! You've been saving for months.",
+          "vi": "Trời! Con để dành mấy tháng rồi đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Is that enough for the bike?",
+          "vi": "Đủ mua xe đạp chưa mẹ?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Let's check. The bike is sixty dollars.",
+          "vi": "Để coi. Xe đạp sáu mươi đô."
+        },
+        {
+          "speaker": "child",
+          "en": "Oh no. I still need twenty more.",
+          "vi": "Ôi. Con còn thiếu hai mươi đô."
+        },
+        {
+          "speaker": "dad",
+          "en": "How about this? You can earn some by washing the car with me.",
+          "vi": "Vầy nè: con phụ ba rửa xe để kiếm thêm."
+        },
+        {
+          "speaker": "child",
+          "en": "Every weekend? How much do I get?",
+          "vi": "Cuối tuần nào cũng rửa hả ba? Con được bao nhiêu?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Five dollars each time.",
+          "vi": "Mỗi lần năm đô."
+        },
+        {
+          "speaker": "child",
+          "en": "So four more weekends. I can do that!",
+          "vi": "Vậy bốn cuối tuần nữa. Con làm được!"
+        },
+        {
+          "speaker": "mom",
+          "en": "I love how hard you're working for this.",
+          "vi": "Mẹ thấy con cố gắng vậy, mẹ vui lắm."
+        }
+      ]
+    },
+    {
+      "id": "money-d05",
+      "titleEn": "Spent it too fast",
+      "titleVi": "Xài hết tiền quá nhanh",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, I want to buy the new comic book, but my money's gone.",
+          "vi": "Mẹ ơi, con muốn mua truyện tranh mới mà hết tiền rồi."
+        },
+        {
+          "speaker": "mom",
+          "en": "Oh. What happened to your pocket money?",
+          "vi": "Ủa. Tiền tiêu vặt của con đâu rồi?"
+        },
+        {
+          "speaker": "child",
+          "en": "I spent it on snacks at school. All of it.",
+          "vi": "Con mua đồ ăn vặt ở trường hết rồi. Hết sạch luôn."
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm. How do you feel about that now?",
+          "vi": "Ừm. Giờ con thấy sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Kind of bad. The snacks were gone in five minutes.",
+          "vi": "Hơi tiếc. Đồ ăn vặt có năm phút là hết."
+        },
+        {
+          "speaker": "mom",
+          "en": "That happens to grown-ups too. What could you do differently next week?",
+          "vi": "Người lớn cũng bị vậy hoài. Tuần sau con có thể làm khác đi sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Maybe I'll only buy one snack and save the rest.",
+          "vi": "Chắc con chỉ mua một món, còn lại để dành."
+        },
+        {
+          "speaker": "mom",
+          "en": "That's a great plan. And the comic book will still be there next week.",
+          "vi": "Kế hoạch hay đó. Mà tuần sau cuốn truyện vẫn còn đó thôi."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Can you remind me on Friday?",
+          "vi": "Dạ. Thứ Sáu mẹ nhắc con nha?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure, but I bet you'll remember on your own.",
+          "vi": "Được, mà mẹ đoán con sẽ tự nhớ thôi."
+        }
+      ]
+    }
+  ]
+}

@@ -1,10 +1,14 @@
-import type { QueryClient } from '@tanstack/react-query'
+import { type QueryClient, useQuery } from '@tanstack/react-query'
 import { createRootRouteWithContext, Outlet } from '@tanstack/react-router'
 import { useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import { BottomNav, ErrorState } from '../components/Layout'
 import { PlaylistBar } from '../components/PlaylistBar'
 import { UpdateBanner } from '../components/PwaPrompts'
+import { recordActivity } from '../lib/activity'
+import { contentIndexQuery } from '../lib/content'
+import { syncOffline } from '../lib/offline'
+import { useAudioState } from '../lib/audio'
 import { db, ensureDefaultProfile, requestPersistentStorage } from '../lib/db'
 import { useSettings } from '../lib/settings'
 
@@ -28,6 +32,18 @@ function RootLayout() {
   useEffect(() => {
     requestPersistentStorage()
   }, [])
+
+  // Offline audio: pull new patches for downloaded topics, drop packs no longer needed.
+  const { data: index } = useQuery(contentIndexQuery)
+  useEffect(() => {
+    if (index) syncOffline(index)
+  }, [index])
+
+  // Streaks: a day counts once something is actually played with the child.
+  const playing = useAudioState().current
+  useEffect(() => {
+    if (playing) recordActivity(activeProfileId)
+  }, [playing, activeProfileId])
 
   return (
     <div className="mx-auto min-h-dvh max-w-xl pb-24">

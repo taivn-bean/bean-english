@@ -23,15 +23,14 @@ VitePWA({
     icons: [ /* 192, 512, 512 maskable */ ],
   },
   workbox: {
-    globPatterns: ['**/*.{js,css,html,json,svg,png,webp,woff2,m4a,mp3}'],
+    globPatterns: ['**/*.{js,css,html,json,svg,png,ico,woff2}'], // no audio here — see below
     maximumFileSizeToCacheInBytes: 5 * 1024 * 1024,
     navigateFallback: 'index.html',
     cleanupOutdatedCaches: true,
   },
 })
 ```
-- Audio MUST be in `globPatterns` (precache) — runtime caching alone means a phrase never played online is missing offline.
-- If audio grows large (> ~30MB), split: precache app shell + content JSON; download audio packs per topic on an explicit "Tải về để dùng offline" button into a named Cache, and show per-topic download status.
+- Precache = app shell + content JSON only. Audio = immutable packs (see content-schema § Audio) the user downloads per topic via `src/lib/offline.ts` into Cache `bean-audio-v1`; playback reads cache first, then network. Show per-topic status ("Chưa tải offline" tag) and the /offline page.
 
 ## iOS specifics
 - In `index.html`: `<meta name="apple-mobile-web-app-capable" content="yes">`, `apple-mobile-web-app-status-bar-style`, `<link rel="apple-touch-icon" href="/apple-touch-icon.png">` (180×180, no transparency), `viewport-fit=cover` and use `env(safe-area-inset-*)`.

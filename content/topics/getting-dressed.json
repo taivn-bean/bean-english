@@ -6,14 +6,21 @@
       "speaker": "parent",
       "level": 1,
       "en": "Arms up!",
-      "vi": "Giơ tay lên nào!"
+      "vi": "Giơ tay lên nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "getting-dressed-002",
       "speaker": "parent",
       "level": 1,
       "en": "Let's get dressed!",
-      "vi": "Mình thay đồ nha!"
+      "vi": "Mình thay đồ nha!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "getting-dressed-003",
@@ -42,6 +49,11 @@
           "en": "hat",
           "vi": "đội nón"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -49,7 +61,10 @@
       "speaker": "parent",
       "level": 1,
       "en": "One leg in!",
-      "vi": "Xỏ một chân vào nào!"
+      "vi": "Xỏ một chân vào nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "getting-dressed-005",
@@ -74,14 +89,23 @@
           "en": "socks",
           "vi": "đôi vớ"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
       "id": "getting-dressed-006",
       "speaker": "parent",
       "level": 1,
-      "en": "Peekaboo!", "ipa": "/ˈpikəbu/",
-      "vi": "Ú òa!"
+      "en": "Peekaboo!",
+      "ipa": "/ˈpikəbu/",
+      "vi": "Ú òa!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "getting-dressed-007",
@@ -110,6 +134,10 @@
           "en": "green",
           "vi": "màu xanh lá"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -117,21 +145,34 @@
       "speaker": "parent",
       "level": 1,
       "en": "Zip it up!",
-      "vi": "Kéo khóa lên nào!"
+      "vi": "Kéo khóa lên nào!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "getting-dressed-009",
       "speaker": "parent",
       "level": 2,
       "en": "Can you do it yourself?",
-      "vi": "Con tự làm được không?"
+      "vi": "Con tự làm được không?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "getting-dressed-010",
       "speaker": "parent",
       "level": 1,
       "en": "You look great!",
-      "vi": "Con mặc đẹp quá!"
+      "vi": "Con mặc đẹp quá!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "getting-dressed-011",
@@ -156,6 +197,10 @@
           "en": "dress",
           "vi": "đầm"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -181,6 +226,11 @@
           "en": "pajamas",
           "vi": "đồ ngủ"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -188,77 +238,117 @@
       "speaker": "parent",
       "level": 3,
       "en": "First your shirt, then your pants, then your socks.",
-      "vi": "Mặc áo trước, rồi tới quần, rồi tới vớ nha."
+      "vi": "Mặc áo trước, rồi tới quần, rồi tới vớ nha.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "getting-dressed-014",
       "speaker": "parent",
       "level": 3,
       "en": "Let's take off your pajamas and put on clothes.",
-      "vi": "Mình cởi đồ ngủ ra rồi mặc quần áo nha."
+      "vi": "Mình cởi đồ ngủ ra rồi mặc quần áo nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "getting-dressed-015",
       "speaker": "child",
       "level": 2,
       "en": "I can do it!",
-      "vi": "Con tự làm được!"
+      "vi": "Con tự làm được!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "getting-dressed-016",
       "speaker": "child",
       "level": 1,
       "en": "I'm stuck!",
-      "vi": "Con bị kẹt rồi!"
+      "vi": "Con bị kẹt rồi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "getting-dressed-017",
       "speaker": "child",
       "level": 1,
       "en": "Red one!",
-      "vi": "Cái màu đỏ!"
+      "vi": "Cái màu đỏ!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "getting-dressed-018",
       "speaker": "child",
       "level": 1,
       "en": "Shoes on!",
-      "vi": "Con mang giày rồi!"
+      "vi": "Con mang giày rồi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "getting-dressed-019",
       "speaker": "child",
       "level": 1,
       "en": "I'm ready!",
-      "vi": "Con xong rồi!"
+      "vi": "Con xong rồi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "getting-dressed-020",
       "speaker": "child",
       "level": 1,
       "en": "Look at me!",
-      "vi": "Nhìn con nè!"
+      "vi": "Nhìn con nè!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "getting-dressed-021",
       "speaker": "parent",
       "level": 2,
       "en": "Push your arm through.",
-      "vi": "Xỏ tay qua nào con."
+      "vi": "Xỏ tay qua nào con.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "getting-dressed-022",
       "speaker": "parent",
       "level": 1,
       "en": "Oops, wrong foot!",
-      "vi": "Ối, mang lộn chân rồi!"
+      "vi": "Ối, mang lộn chân rồi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "getting-dressed-023",
       "speaker": "parent",
       "level": 2,
       "en": "Sit down for your shoes.",
-      "vi": "Con ngồi xuống mang giày nha."
+      "vi": "Con ngồi xuống mang giày nha.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "getting-dressed-024",
@@ -283,6 +373,9 @@
           "en": "flower",
           "vi": "bông hoa"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -290,7 +383,12 @@
       "speaker": "parent",
       "level": 3,
       "en": "That one is dirty. Let's pick a clean one.",
-      "vi": "Cái đó dơ rồi con. Mình chọn cái sạch nha."
+      "vi": "Cái đó dơ rồi con. Mình chọn cái sạch nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "getting-dressed-026",
@@ -315,6 +413,9 @@
           "en": "jacket",
           "vi": "áo khoác"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -322,7 +423,11 @@
       "speaker": "parent",
       "level": 2,
       "en": "Let's do the buttons.",
-      "vi": "Mình cài nút áo nha."
+      "vi": "Mình cài nút áo nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "getting-dressed-028",
@@ -347,6 +452,9 @@
           "en": "jacket",
           "vi": "áo khoác"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -354,28 +462,45 @@
       "speaker": "child",
       "level": 1,
       "en": "This one!",
-      "vi": "Cái này nè!"
+      "vi": "Cái này nè!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "getting-dressed-030",
       "speaker": "child",
       "level": 1,
       "en": "Too tight!",
-      "vi": "Chật quá!"
+      "vi": "Chật quá!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "getting-dressed-031",
       "speaker": "parent",
       "level": 2,
       "en": "Pop your head through!",
-      "vi": "Chui đầu ra nào!"
+      "vi": "Chui đầu ra nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "getting-dressed-032",
       "speaker": "parent",
       "level": 1,
       "en": "Oops, it's backward!",
-      "vi": "Ối, mặc ngược rồi!"
+      "vi": "Ối, mặc ngược rồi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "getting-dressed-033",
@@ -400,6 +525,10 @@
           "en": "jacket",
           "vi": "áo khoác"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -421,6 +550,9 @@
           "en": "shorts",
           "vi": "quần đùi"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -428,7 +560,11 @@
       "speaker": "parent",
       "level": 2,
       "en": "This one or that one?",
-      "vi": "Cái này hay cái kia?"
+      "vi": "Cái này hay cái kia?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "getting-dressed-036",
@@ -453,6 +589,11 @@
           "en": "pants",
           "vi": "quần"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -460,28 +601,274 @@
       "speaker": "parent",
       "level": 1,
       "en": "Stand still, please.",
-      "vi": "Đứng yên chút nha con."
+      "vi": "Đứng yên chút nha con.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "getting-dressed-038",
       "speaker": "child",
       "level": 1,
       "en": "Take it off!",
-      "vi": "Cởi ra đi!"
+      "vi": "Cởi ra đi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "getting-dressed-039",
       "speaker": "child",
       "level": 1,
       "en": "Too big!",
-      "vi": "Rộng quá!"
+      "vi": "Rộng quá!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "getting-dressed-040",
       "speaker": "child",
       "level": 2,
       "en": "I want to pick!",
-      "vi": "Con muốn tự chọn!"
+      "vi": "Con muốn tự chọn!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "getting-dressed-041",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you get dressed by yourself today?",
+      "vi": "Hôm nay con tự thay đồ được không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "getting-dressed-042",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It's cold outside, so wear your ___.",
+      "vi": "Ngoài trời lạnh đó, con mặc ___ vô nha.",
+      "slots": [
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        },
+        {
+          "en": "sweater",
+          "vi": "áo len"
+        },
+        {
+          "en": "sweatshirt",
+          "vi": "áo nỉ"
+        },
+        {
+          "en": "long pants",
+          "vi": "quần dài"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "getting-dressed-043",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Your shirt is inside out.",
+      "vi": "Áo con mặc trái rồi kìa.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "getting-dressed-044",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's pick out your clothes for ___.",
+      "vi": "Mình chọn đồ để ___ nha.",
+      "slots": [
+        {
+          "en": "tomorrow",
+          "vi": "mai mặc"
+        },
+        {
+          "en": "school",
+          "vi": "đi học"
+        },
+        {
+          "en": "the party",
+          "vi": "đi tiệc"
+        },
+        {
+          "en": "Grandma's house",
+          "vi": "qua nhà bà"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "getting-dressed-045",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you tie your shoes?",
+      "vi": "Con tự cột dây giày được không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "getting-dressed-046",
+      "speaker": "child",
+      "level": 3,
+      "en": "I want to wear my ___!",
+      "vi": "Con muốn ___!",
+      "slots": [
+        {
+          "en": "dinosaur shirt",
+          "vi": "mặc áo khủng long"
+        },
+        {
+          "en": "princess dress",
+          "vi": "mặc đầm công chúa"
+        },
+        {
+          "en": "new shoes",
+          "vi": "mang giày mới"
+        },
+        {
+          "en": "superhero cape",
+          "vi": "mặc áo choàng siêu nhân"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "getting-dressed-047",
+      "speaker": "child",
+      "level": 2,
+      "en": "I can't do the button.",
+      "vi": "Con không cài nút được.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "getting-dressed-048",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Check the weather before you pick your clothes.",
+      "vi": "Con xem thời tiết trước rồi hẵng chọn đồ nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "getting-dressed-049",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Lay out your clothes tonight so mornings are faster.",
+      "vi": "Tối nay con soạn sẵn đồ ra để sáng mai nhanh hơn nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "getting-dressed-050",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You'll need your ___ today.",
+      "vi": "Hôm nay con cần ___ đó.",
+      "slots": [
+        {
+          "en": "gym clothes",
+          "vi": "đồ thể dục"
+        },
+        {
+          "en": "rain jacket",
+          "vi": "áo mưa"
+        },
+        {
+          "en": "uniform",
+          "vi": "đồng phục"
+        },
+        {
+          "en": "swimsuit",
+          "vi": "đồ bơi"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "getting-dressed-051",
+      "speaker": "parent",
+      "level": 3,
+      "en": "That's a nice outfit. Did you pick it yourself?",
+      "vi": "Bộ đồ đẹp đó. Con tự chọn hả?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "getting-dressed-052",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Those pants are getting too short. Let's get you new ones.",
+      "vi": "Quần này ngắn quá rồi. Mình mua quần mới cho con nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "getting-dressed-053",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I wear ___ today?",
+      "vi": "Hôm nay con ___ được không?",
+      "slots": [
+        {
+          "en": "shorts",
+          "vi": "mặc quần đùi"
+        },
+        {
+          "en": "my new sweatshirt",
+          "vi": "mặc áo nỉ mới"
+        },
+        {
+          "en": "sneakers",
+          "vi": "mang giày thể thao"
+        },
+        {
+          "en": "my soccer jersey",
+          "vi": "mặc áo đá banh"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "getting-dressed-054",
+      "speaker": "child",
+      "level": 3,
+      "en": "I don't want to wear that. It's itchy.",
+      "vi": "Con không muốn mặc cái đó. Nó ngứa lắm.",
+      "ages": [
+        "7-9"
+      ]
     }
   ],
   "dialogues": [
@@ -502,7 +889,8 @@
         },
         {
           "speaker": "mom",
-          "en": "Peekaboo! Now put on your pants.", "ipa": "/ˈpikəbu naʊ pʊt ɑn jɔɹ pænts/",
+          "en": "Peekaboo! Now put on your pants.",
+          "ipa": "/ˈpikəbu naʊ pʊt ɑn jɔɹ pænts/",
           "vi": "Ú òa! Giờ mình mặc quần vào nào."
         },
         {
@@ -520,6 +908,9 @@
           "en": "Look at me!",
           "vi": "Nhìn con nè!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -557,6 +948,10 @@
           "en": "I'm ready!",
           "vi": "Con xong rồi!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -599,6 +994,129 @@
           "en": "Yes! You did it!",
           "vi": "Đúng rồi! Con giỏi quá!"
         }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "getting-dressed-d04",
+      "titleEn": "Inside out",
+      "titleVi": "Mặc áo bị trái",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mommy, I got dressed by myself!",
+          "vi": "Mẹ ơi, con tự thay đồ rồi nè!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow, great job! Hmm, wait a sec. Your shirt is inside out.",
+          "vi": "Wow, giỏi quá! Hừm, khoan đã. Áo con mặc trái rồi kìa."
+        },
+        {
+          "speaker": "child",
+          "en": "Oh no! Silly shirt!",
+          "vi": "Ối! Cái áo kỳ ghê!"
+        },
+        {
+          "speaker": "mom",
+          "en": "It's okay. Take it off and flip it.",
+          "vi": "Không sao. Con cởi ra rồi lộn lại nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Like this?",
+          "vi": "Vầy hả mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Yes! Now put it back on.",
+          "vi": "Đúng rồi! Giờ con mặc lại đi."
+        },
+        {
+          "speaker": "child",
+          "en": "Can I wear my new shoes too?",
+          "vi": "Con mang giày mới luôn được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure. It's cold outside, so let's wear a jacket too.",
+          "vi": "Được chứ. Ngoài trời lạnh, mình mặc thêm áo khoác nữa nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay! Now I'm ready!",
+          "vi": "Dạ! Giờ con xong rồi!"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "getting-dressed-d05",
+      "titleEn": "The itchy sweater",
+      "titleVi": "Cái áo len bị ngứa",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "It's chilly this morning. Can you wear the blue sweater?",
+          "vi": "Sáng nay trời se lạnh. Con mặc cái áo len xanh nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "I don't want to wear that. It's itchy.",
+          "vi": "Con không muốn mặc cái đó. Nó ngứa lắm."
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, okay. What else could keep you warm?",
+          "vi": "Hừm, vậy được. Còn cái gì khác giữ ấm được không con?"
+        },
+        {
+          "speaker": "child",
+          "en": "Can I wear my new sweatshirt?",
+          "vi": "Con mặc áo nỉ mới được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Good idea. Is it clean?",
+          "vi": "Ý hay đó. Nó sạch chưa?"
+        },
+        {
+          "speaker": "child",
+          "en": "I think so. I only wore it once.",
+          "vi": "Chắc sạch. Con mới mặc có một lần."
+        },
+        {
+          "speaker": "dad",
+          "en": "Alright. And don't forget, you have gym class today.",
+          "vi": "Được. À đừng quên, hôm nay con có giờ thể dục."
+        },
+        {
+          "speaker": "child",
+          "en": "Oh right! I need my sneakers.",
+          "vi": "À đúng rồi! Con cần giày thể thao."
+        },
+        {
+          "speaker": "dad",
+          "en": "Yep. Maybe we should check your schedule every night.",
+          "vi": "Ừ. Chắc tối nào mình cũng nên xem thời khóa biểu."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. I'll lay out my clothes tonight.",
+          "vi": "Dạ. Tối nay con sẽ soạn sẵn đồ."
+        },
+        {
+          "speaker": "dad",
+          "en": "Sounds like a plan!",
+          "vi": "Vậy đi!"
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

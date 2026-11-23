@@ -1,143 +1,846 @@
 {
   "topicId": "safety",
   "phrases": [
-    { "id": "safety-001", "speaker": "parent", "level": 1, "en": "Stop and wait.", "vi": "Dừng lại, đợi chút nào." },
-    { "id": "safety-002", "speaker": "parent", "level": 2, "en": "It's hot. Let's wait.", "vi": "Nóng đó con. Mình đợi chút nha." },
-    { "id": "safety-003", "speaker": "parent", "level": 2, "en": "Hold my hand to cross.", "vi": "Nắm tay để qua đường nha con." },
-    { "id": "safety-004", "speaker": "parent", "level": 1, "en": "Walking feet, please.", "vi": "Đi từ từ thôi nha con." },
     {
-      "id": "safety-005", "speaker": "parent", "level": 2,
-      "en": "Let's stay away from the ___.", "vi": "Mình tránh xa ___ ra nha.",
-      "slots": [
-        { "en": "stove", "vi": "bếp" },
-        { "en": "road", "vi": "lòng đường" },
-        { "en": "fire", "vi": "lửa" },
-        { "en": "pool", "vi": "hồ bơi" },
-        { "en": "outlet", "vi": "ổ điện" }
+      "id": "safety-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Stop and wait.",
+      "vi": "Dừng lại, đợi chút nào.",
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
-      "id": "safety-006", "speaker": "parent", "level": 1,
-      "en": "Stay with ___.", "vi": "Ở cạnh ___ nha con.",
-      "slots": [
-        { "en": "Mommy", "vi": "mẹ" },
-        { "en": "Daddy", "vi": "ba" },
-        { "en": "Grandma", "vi": "bà" },
-        { "en": "your teacher", "vi": "cô giáo" }
+      "id": "safety-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "It's hot. Let's wait.",
+      "vi": "Nóng đó con. Mình đợi chút nha.",
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
-      "id": "safety-007", "speaker": "parent", "level": 3,
-      "en": "That's for grown-ups. Let's play with your ___.", "vi": "Cái đó của người lớn. Con chơi ___ nha.",
-      "slots": [
-        { "en": "blocks", "vi": "đồ xếp hình" },
-        { "en": "ball", "vi": "trái banh" },
-        { "en": "teddy", "vi": "gấu bông" },
-        { "en": "cars", "vi": "xe đồ chơi" }
+      "id": "safety-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Hold my hand to cross.",
+      "vi": "Nắm tay để qua đường nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
-      "id": "safety-008", "speaker": "parent", "level": 2,
-      "en": "Be gentle with the ___.", "vi": "Nhẹ tay với ___ nha con.",
-      "slots": [
-        { "en": "doggy", "vi": "cún" },
-        { "en": "kitty", "vi": "mèo" },
-        { "en": "baby", "vi": "em bé" },
-        { "en": "flowers", "vi": "hoa" }
-      ]
-    },
-    { "id": "safety-009", "speaker": "parent", "level": 2, "en": "Ask me first, okay?", "vi": "Hỏi ba mẹ trước nha con." },
-    { "id": "safety-010", "speaker": "parent", "level": 2, "en": "Sit on your bottom, please.", "vi": "Ngồi xuống đàng hoàng nha con." },
-    { "id": "safety-011", "speaker": "parent", "level": 3, "en": "That's sharp. Give it to me, please.", "vi": "Cái đó bén lắm. Đưa ba mẹ cầm nha." },
-    { "id": "safety-012", "speaker": "parent", "level": 2, "en": "Yucky! Let's throw it away.", "vi": "Dơ quá! Mình bỏ vào thùng rác nha." },
-    { "id": "safety-013", "speaker": "parent", "level": 2, "en": "You're safe. I've got you.", "vi": "Con an toàn rồi. Có ba mẹ đây." },
-    { "id": "safety-014", "speaker": "parent", "level": 1, "en": "Good stopping!", "vi": "Con dừng lại giỏi quá!" },
-    {
-      "id": "safety-015", "speaker": "child", "level": 2,
-      "en": "I hold ___ hand.", "vi": "Con nắm tay ___.",
-      "slots": [
-        { "en": "Mommy's", "vi": "mẹ" },
-        { "en": "Daddy's", "vi": "ba" },
-        { "en": "Grandma's", "vi": "bà" },
-        { "en": "Grandpa's", "vi": "ông" }
-      ]
-    },
-    { "id": "safety-016", "speaker": "child", "level": 1, "en": "Hot!", "vi": "Nóng!" },
-    { "id": "safety-017", "speaker": "child", "level": 1, "en": "Ouch!", "vi": "Đau quá!" },
-    { "id": "safety-018", "speaker": "child", "level": 1, "en": "Help, please!", "vi": "Giúp con với!" },
-    { "id": "safety-019", "speaker": "child", "level": 1, "en": "Hold my hand!", "vi": "Nắm tay con đi!" },
-    { "id": "safety-020", "speaker": "child", "level": 1, "en": "Yucky!", "vi": "Dơ quá!" },
-    { "id": "safety-021", "speaker": "parent", "level": 2, "en": "Hold the railing, please.", "vi": "Vịn tay vịn nha con." },
-    { "id": "safety-022", "speaker": "parent", "level": 2, "en": "One step at a time.", "vi": "Đi từng bậc một nha con." },
-    { "id": "safety-023", "speaker": "parent", "level": 3, "en": "Medicine isn't candy. Give it to me, please.", "vi": "Thuốc không phải kẹo đâu con. Đưa đây nha." },
-    { "id": "safety-024", "speaker": "parent", "level": 2, "en": "We wait for the green light.", "vi": "Mình đợi đèn xanh nha con." },
-    {
-      "id": "safety-025", "speaker": "parent", "level": 2,
-      "en": "Wait for me at the ___.", "vi": "Đứng đợi ở ___ nha con.",
-      "slots": [
-        { "en": "door", "vi": "cửa" },
-        { "en": "gate", "vi": "cổng" },
-        { "en": "corner", "vi": "góc đường" },
-        { "en": "stairs", "vi": "cầu thang" }
+      "id": "safety-004",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Walking feet, please.",
+      "vi": "Đi từ từ thôi nha con.",
+      "ages": [
+        "3-5"
       ]
     },
     {
-      "id": "safety-026", "speaker": "parent", "level": 2,
-      "en": "Sit in your ___, please.", "vi": "Ngồi vào ___ nha con.",
+      "id": "safety-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's stay away from the ___.",
+      "vi": "Mình tránh xa ___ ra nha.",
       "slots": [
-        { "en": "car seat", "vi": "ghế ô tô" },
-        { "en": "stroller", "vi": "xe đẩy" },
-        { "en": "high chair", "vi": "ghế ăn" }
+        {
+          "en": "stove",
+          "vi": "bếp"
+        },
+        {
+          "en": "road",
+          "vi": "lòng đường"
+        },
+        {
+          "en": "fire",
+          "vi": "lửa"
+        },
+        {
+          "en": "pool",
+          "vi": "hồ bơi"
+        },
+        {
+          "en": "outlet",
+          "vi": "ổ điện"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
-      "id": "safety-027", "speaker": "parent", "level": 2,
-      "en": "Running is for ___.", "vi": "Muốn chạy thì mình ra ___ nha.",
+      "id": "safety-006",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Stay with ___.",
+      "vi": "Ở cạnh ___ nha con.",
       "slots": [
-        { "en": "outside", "vi": "ngoài sân" },
-        { "en": "the park", "vi": "công viên" },
-        { "en": "the playground", "vi": "sân chơi" }
-      ]
-    },
-    { "id": "safety-028", "speaker": "child", "level": 1, "en": "Wait for me!", "vi": "Đợi con với!" },
-    { "id": "safety-029", "speaker": "child", "level": 1, "en": "Green light!", "vi": "Đèn xanh rồi!" },
-    { "id": "safety-030", "speaker": "child", "level": 1, "en": "Too high!", "vi": "Cao quá!" },
-    { "id": "safety-031", "speaker": "parent", "level": 1, "en": "Let's buckle up!", "vi": "Mình cài dây an toàn nào!" },
-    { "id": "safety-032", "speaker": "parent", "level": 1, "en": "Helmet on, please.", "vi": "Đội mũ bảo hiểm vô nha con." },
-    { "id": "safety-033", "speaker": "parent", "level": 2, "en": "Fingers away from the door.", "vi": "Để tay xa cánh cửa ra nha con." },
-    { "id": "safety-034", "speaker": "parent", "level": 2, "en": "Only food goes in your mouth.", "vi": "Chỉ có đồ ăn mới bỏ vô miệng nha con." },
-    {
-      "id": "safety-035", "speaker": "parent", "level": 2,
-      "en": "Hold on tight to the ___.", "vi": "Nắm chặt ___ nha con.",
-      "slots": [
-        { "en": "handle", "vi": "tay cầm" },
-        { "en": "cart", "vi": "xe đẩy" },
-        { "en": "rope", "vi": "sợi dây" },
-        { "en": "swing", "vi": "dây xích đu" }
-      ]
-    },
-    {
-      "id": "safety-036", "speaker": "parent", "level": 2,
-      "en": "Let's walk on the ___.", "vi": "Mình đi trên ___ nha con.",
-      "slots": [
-        { "en": "sidewalk", "vi": "vỉa hè" },
-        { "en": "path", "vi": "lối đi" },
-        { "en": "crosswalk", "vi": "vạch qua đường" }
+        {
+          "en": "Mommy",
+          "vi": "mẹ"
+        },
+        {
+          "en": "Daddy",
+          "vi": "ba"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "your teacher",
+          "vi": "cô giáo"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
-      "id": "safety-037", "speaker": "parent", "level": 3,
-      "en": "Let's wait for the ___ to stop.", "vi": "Mình đợi ___ dừng hẳn nha con.",
+      "id": "safety-007",
+      "speaker": "parent",
+      "level": 3,
+      "en": "That's for grown-ups. Let's play with your ___.",
+      "vi": "Cái đó của người lớn. Con chơi ___ nha.",
       "slots": [
-        { "en": "car", "vi": "xe hơi" },
-        { "en": "bus", "vi": "xe buýt" },
-        { "en": "motorbike", "vi": "xe máy" },
-        { "en": "swing", "vi": "xích đu" }
+        {
+          "en": "blocks",
+          "vi": "đồ xếp hình"
+        },
+        {
+          "en": "ball",
+          "vi": "trái banh"
+        },
+        {
+          "en": "teddy",
+          "vi": "gấu bông"
+        },
+        {
+          "en": "cars",
+          "vi": "xe đồ chơi"
+        }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
-    { "id": "safety-038", "speaker": "child", "level": 1, "en": "Seat belt on!", "vi": "Con cài dây rồi!" },
-    { "id": "safety-039", "speaker": "child", "level": 1, "en": "My helmet!", "vi": "Mũ bảo hiểm của con!" },
-    { "id": "safety-040", "speaker": "child", "level": 1, "en": "Be careful!", "vi": "Cẩn thận nha!" }
+    {
+      "id": "safety-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Be gentle with the ___.",
+      "vi": "Nhẹ tay với ___ nha con.",
+      "slots": [
+        {
+          "en": "doggy",
+          "vi": "cún"
+        },
+        {
+          "en": "kitty",
+          "vi": "mèo"
+        },
+        {
+          "en": "baby",
+          "vi": "em bé"
+        },
+        {
+          "en": "flowers",
+          "vi": "hoa"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Ask me first, okay?",
+      "vi": "Hỏi ba mẹ trước nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Sit on your bottom, please.",
+      "vi": "Ngồi xuống đàng hoàng nha con.",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "safety-011",
+      "speaker": "parent",
+      "level": 3,
+      "en": "That's sharp. Give it to me, please.",
+      "vi": "Cái đó bén lắm. Đưa ba mẹ cầm nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Yucky! Let's throw it away.",
+      "vi": "Dơ quá! Mình bỏ vào thùng rác nha.",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "safety-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You're safe. I've got you.",
+      "vi": "Con an toàn rồi. Có ba mẹ đây.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-014",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Good stopping!",
+      "vi": "Con dừng lại giỏi quá!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "safety-015",
+      "speaker": "child",
+      "level": 2,
+      "en": "I hold ___ hand.",
+      "vi": "Con nắm tay ___.",
+      "slots": [
+        {
+          "en": "Mommy's",
+          "vi": "mẹ"
+        },
+        {
+          "en": "Daddy's",
+          "vi": "ba"
+        },
+        {
+          "en": "Grandma's",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa's",
+          "vi": "ông"
+        }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "safety-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "Hot!",
+      "vi": "Nóng!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "Ouch!",
+      "vi": "Đau quá!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Help, please!",
+      "vi": "Giúp con với!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "Hold my hand!",
+      "vi": "Nắm tay con đi!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "safety-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Yucky!",
+      "vi": "Dơ quá!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Hold the railing, please.",
+      "vi": "Vịn tay vịn nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "One step at a time.",
+      "vi": "Đi từng bậc một nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-023",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Medicine isn't candy. Give it to me, please.",
+      "vi": "Thuốc không phải kẹo đâu con. Đưa đây nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "We wait for the green light.",
+      "vi": "Mình đợi đèn xanh nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Wait for me at the ___.",
+      "vi": "Đứng đợi ở ___ nha con.",
+      "slots": [
+        {
+          "en": "door",
+          "vi": "cửa"
+        },
+        {
+          "en": "gate",
+          "vi": "cổng"
+        },
+        {
+          "en": "corner",
+          "vi": "góc đường"
+        },
+        {
+          "en": "stairs",
+          "vi": "cầu thang"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Sit in your ___, please.",
+      "vi": "Ngồi vào ___ nha con.",
+      "slots": [
+        {
+          "en": "car seat",
+          "vi": "ghế ô tô"
+        },
+        {
+          "en": "stroller",
+          "vi": "xe đẩy"
+        },
+        {
+          "en": "high chair",
+          "vi": "ghế ăn"
+        }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "safety-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Running is for ___.",
+      "vi": "Muốn chạy thì mình ra ___ nha.",
+      "slots": [
+        {
+          "en": "outside",
+          "vi": "ngoài sân"
+        },
+        {
+          "en": "the park",
+          "vi": "công viên"
+        },
+        {
+          "en": "the playground",
+          "vi": "sân chơi"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "Wait for me!",
+      "vi": "Đợi con với!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "Green light!",
+      "vi": "Đèn xanh rồi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "Too high!",
+      "vi": "Cao quá!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-031",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Let's buckle up!",
+      "vi": "Mình cài dây an toàn nào!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-032",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Helmet on, please.",
+      "vi": "Đội mũ bảo hiểm vô nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-033",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Fingers away from the door.",
+      "vi": "Để tay xa cánh cửa ra nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-034",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Only food goes in your mouth.",
+      "vi": "Chỉ có đồ ăn mới bỏ vô miệng nha con.",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "safety-035",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Hold on tight to the ___.",
+      "vi": "Nắm chặt ___ nha con.",
+      "slots": [
+        {
+          "en": "handle",
+          "vi": "tay cầm"
+        },
+        {
+          "en": "cart",
+          "vi": "xe đẩy"
+        },
+        {
+          "en": "rope",
+          "vi": "sợi dây"
+        },
+        {
+          "en": "swing",
+          "vi": "dây xích đu"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-036",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's walk on the ___.",
+      "vi": "Mình đi trên ___ nha con.",
+      "slots": [
+        {
+          "en": "sidewalk",
+          "vi": "vỉa hè"
+        },
+        {
+          "en": "path",
+          "vi": "lối đi"
+        },
+        {
+          "en": "crosswalk",
+          "vi": "vạch qua đường"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-037",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's wait for the ___ to stop.",
+      "vi": "Mình đợi ___ dừng hẳn nha con.",
+      "slots": [
+        {
+          "en": "car",
+          "vi": "xe hơi"
+        },
+        {
+          "en": "bus",
+          "vi": "xe buýt"
+        },
+        {
+          "en": "motorbike",
+          "vi": "xe máy"
+        },
+        {
+          "en": "swing",
+          "vi": "xích đu"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-038",
+      "speaker": "child",
+      "level": 1,
+      "en": "Seat belt on!",
+      "vi": "Con cài dây rồi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-039",
+      "speaker": "child",
+      "level": 1,
+      "en": "My helmet!",
+      "vi": "Mũ bảo hiểm của con!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-040",
+      "speaker": "child",
+      "level": 1,
+      "en": "Be careful!",
+      "vi": "Cẩn thận nha!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-041",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Hold my hand in the parking lot.",
+      "vi": "Ở bãi giữ xe thì nắm tay nha con.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-042",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If a stranger asks you to go with them, say no.",
+      "vi": "Nếu người lạ rủ con đi theo, con nói không nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-043",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Don't open the door for anyone. Come get me first.",
+      "vi": "Ai gõ cửa cũng đừng mở nha con. Vô kêu người lớn trước.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-044",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you tell me ___?",
+      "vi": "Con nói ___ cho nghe thử coi?",
+      "slots": [
+        {
+          "en": "our address",
+          "vi": "địa chỉ nhà mình"
+        },
+        {
+          "en": "our phone number",
+          "vi": "số điện thoại nhà mình"
+        },
+        {
+          "en": "your full name",
+          "vi": "họ tên đầy đủ của con"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-045",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Always tell me where you're going.",
+      "vi": "Đi đâu cũng phải nói trước nha con.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-046",
+      "speaker": "child",
+      "level": 2,
+      "en": "I looked both ways!",
+      "vi": "Con nhìn hai bên rồi!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-047",
+      "speaker": "child",
+      "level": 2,
+      "en": "I can't find ___!",
+      "vi": "Con không thấy ___ đâu hết!",
+      "slots": [
+        {
+          "en": "Mommy",
+          "vi": "mẹ"
+        },
+        {
+          "en": "Daddy",
+          "vi": "ba"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "my teacher",
+          "vi": "cô giáo"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-048",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Never share your password or address online.",
+      "vi": "Đừng bao giờ cho ai biết mật khẩu hay địa chỉ nhà trên mạng nha con.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-049",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If someone online makes you uncomfortable, tell me right away.",
+      "vi": "Nếu ai trên mạng làm con thấy khó chịu thì nói liền nha con.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-050",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you get lost, find a ___ and ask for help.",
+      "vi": "Nếu bị lạc, con tìm ___ để nhờ giúp nha.",
+      "slots": [
+        {
+          "en": "police officer",
+          "vi": "chú công an"
+        },
+        {
+          "en": "store worker",
+          "vi": "nhân viên cửa hàng"
+        },
+        {
+          "en": "mom with kids",
+          "vi": "cô nào đang dẫn con nhỏ"
+        },
+        {
+          "en": "security guard",
+          "vi": "chú bảo vệ"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-051",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Before you cross, look left, right, and left again.",
+      "vi": "Trước khi qua đường, nhìn bên trái, bên phải, rồi bên trái lần nữa nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-052",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You can always say no if something feels wrong.",
+      "vi": "Nếu thấy có gì không ổn, con luôn có quyền nói không.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-053",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I walk to ___ by myself?",
+      "vi": "Con tự đi bộ tới ___ được không?",
+      "slots": [
+        {
+          "en": "school",
+          "vi": "trường"
+        },
+        {
+          "en": "the park",
+          "vi": "công viên"
+        },
+        {
+          "en": "my friend's house",
+          "vi": "nhà bạn"
+        },
+        {
+          "en": "the corner store",
+          "vi": "tiệm tạp hóa đầu hẻm"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "safety-054",
+      "speaker": "child",
+      "level": 3,
+      "en": "Someone I don't know sent me a message.",
+      "vi": "Có người lạ nhắn tin cho con.",
+      "ages": [
+        "7-9"
+      ]
+    }
   ],
   "dialogues": [
     {
@@ -145,12 +848,39 @@
       "titleEn": "Crossing the street",
       "titleVi": "Qua đường",
       "lines": [
-        { "speaker": "dad", "en": "Stop and wait.", "vi": "Dừng lại, đợi chút nào." },
-        { "speaker": "child", "en": "Stop!", "vi": "Dừng!" },
-        { "speaker": "dad", "en": "Hold my hand to cross.", "vi": "Nắm tay ba để qua đường nha con." },
-        { "speaker": "child", "en": "Hold my hand!", "vi": "Nắm tay con đi!" },
-        { "speaker": "dad", "en": "Good stopping! Now we walk.", "vi": "Con dừng lại giỏi quá! Giờ mình đi nha." },
-        { "speaker": "child", "en": "Walk, walk!", "vi": "Đi, đi!" }
+        {
+          "speaker": "dad",
+          "en": "Stop and wait.",
+          "vi": "Dừng lại, đợi chút nào."
+        },
+        {
+          "speaker": "child",
+          "en": "Stop!",
+          "vi": "Dừng!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hold my hand to cross.",
+          "vi": "Nắm tay ba để qua đường nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Hold my hand!",
+          "vi": "Nắm tay con đi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Good stopping! Now we walk.",
+          "vi": "Con dừng lại giỏi quá! Giờ mình đi nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Walk, walk!",
+          "vi": "Đi, đi!"
+        }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -158,12 +888,39 @@
       "titleEn": "The hot stove",
       "titleVi": "Bếp nóng",
       "lines": [
-        { "speaker": "child", "en": "What's that?", "vi": "Cái gì vậy?" },
-        { "speaker": "mom", "en": "It's hot. Let's wait.", "vi": "Nóng đó con. Mình đợi chút nha." },
-        { "speaker": "child", "en": "Hot!", "vi": "Nóng!" },
-        { "speaker": "mom", "en": "Yes, hot. Let's stay away from the stove.", "vi": "Ừ, nóng. Mình tránh xa bếp ra nha." },
-        { "speaker": "child", "en": "Okay, Mommy.", "vi": "Dạ, mẹ." },
-        { "speaker": "mom", "en": "Thank you! Let's play with your blocks.", "vi": "Cảm ơn con! Mình chơi đồ xếp hình nha." }
+        {
+          "speaker": "child",
+          "en": "What's that?",
+          "vi": "Cái gì vậy?"
+        },
+        {
+          "speaker": "mom",
+          "en": "It's hot. Let's wait.",
+          "vi": "Nóng đó con. Mình đợi chút nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Hot!",
+          "vi": "Nóng!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Yes, hot. Let's stay away from the stove.",
+          "vi": "Ừ, nóng. Mình tránh xa bếp ra nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, Mommy.",
+          "vi": "Dạ, mẹ."
+        },
+        {
+          "speaker": "mom",
+          "en": "Thank you! Let's play with your blocks.",
+          "vi": "Cảm ơn con! Mình chơi đồ xếp hình nha."
+        }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -171,12 +928,159 @@
       "titleEn": "Going down the stairs",
       "titleVi": "Xuống cầu thang",
       "lines": [
-        { "speaker": "mom", "en": "Hold the railing, please.", "vi": "Vịn tay vịn nha con." },
-        { "speaker": "child", "en": "Okay, Mommy.", "vi": "Dạ, mẹ." },
-        { "speaker": "mom", "en": "One step at a time.", "vi": "Đi từng bậc một nha con." },
-        { "speaker": "child", "en": "Step, step!", "vi": "Bước, bước!" },
-        { "speaker": "mom", "en": "Good job! Last step!", "vi": "Giỏi quá! Bậc cuối rồi!" },
-        { "speaker": "child", "en": "I did it!", "vi": "Con làm được rồi!" }
+        {
+          "speaker": "mom",
+          "en": "Hold the railing, please.",
+          "vi": "Vịn tay vịn nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, Mommy.",
+          "vi": "Dạ, mẹ."
+        },
+        {
+          "speaker": "mom",
+          "en": "One step at a time.",
+          "vi": "Đi từng bậc một nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Step, step!",
+          "vi": "Bước, bước!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Good job! Last step!",
+          "vi": "Giỏi quá! Bậc cuối rồi!"
+        },
+        {
+          "speaker": "child",
+          "en": "I did it!",
+          "vi": "Con làm được rồi!"
+        }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "safety-d04",
+      "titleEn": "If you get lost",
+      "titleVi": "Nếu bị lạc",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "This store is really big. If you get lost, what do you do?",
+          "vi": "Siêu thị này lớn lắm. Nếu bị lạc thì con làm sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Cry?",
+          "vi": "Khóc hả mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "It's okay to cry. But stay where you are, okay?",
+          "vi": "Khóc cũng được. Nhưng con đứng yên tại chỗ nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Why?",
+          "vi": "Sao vậy mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Because I'll come back and look for you.",
+          "vi": "Vì mẹ sẽ quay lại tìm con."
+        },
+        {
+          "speaker": "child",
+          "en": "And I can ask a worker for help!",
+          "vi": "Con nhờ cô nhân viên giúp nữa!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Yes! Someone wearing a name tag. Smart thinking!",
+          "vi": "Đúng rồi! Người có đeo bảng tên đó. Con nghĩ hay quá!"
+        },
+        {
+          "speaker": "child",
+          "en": "I know your phone number, too!",
+          "vi": "Con thuộc số điện thoại của mẹ nữa!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow, you're ready. Now hold my hand.",
+          "vi": "Giỏi quá. Giờ nắm tay mẹ đi nào."
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "safety-d05",
+      "titleEn": "Walking to school alone",
+      "titleVi": "Tự đi bộ tới trường",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Dad, can I walk to school by myself tomorrow?",
+          "vi": "Ba ơi, mai con tự đi bộ tới trường được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, I think you're almost ready. Let's go over the rules first.",
+          "vi": "Ừm, ba nghĩ con gần sẵn sàng rồi. Mình ôn lại mấy quy tắc trước nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. I'll stay on the sidewalk the whole way.",
+          "vi": "Dạ. Con sẽ đi trên vỉa hè suốt đường."
+        },
+        {
+          "speaker": "dad",
+          "en": "Good. What about the big street by the bakery?",
+          "vi": "Tốt. Còn con đường lớn gần tiệm bánh thì sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "I'll use the crosswalk and look left, right, and left again.",
+          "vi": "Con sẽ qua ở vạch qua đường, nhìn trái, phải, rồi trái lần nữa."
+        },
+        {
+          "speaker": "dad",
+          "en": "Perfect. And if a stranger offers you a ride?",
+          "vi": "Hay lắm. Còn nếu người lạ rủ con lên xe?"
+        },
+        {
+          "speaker": "child",
+          "en": "I say no and keep walking. Even if they're nice.",
+          "vi": "Con nói không rồi đi tiếp. Dù họ có tử tế cỡ nào."
+        },
+        {
+          "speaker": "dad",
+          "en": "Exactly. I'll watch you from the corner the first time, okay?",
+          "vi": "Chính xác. Lần đầu ba sẽ đứng ở góc đường coi con nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Dad! I'm not a baby anymore.",
+          "vi": "Ba! Con đâu còn con nít nữa."
+        },
+        {
+          "speaker": "dad",
+          "en": "I know, I know. Just the first time. Deal?",
+          "vi": "Ba biết mà. Chỉ lần đầu thôi. Chịu không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Deal!",
+          "vi": "Chịu!"
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

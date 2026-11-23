@@ -25,8 +25,9 @@ export default defineConfig({
         theme_color: '#f3faf2',
       },
       workbox: {
-        // Precache everything, including content JSON and all audio, so the app is fully offline after first load.
-        globPatterns: ['**/*.{js,css,html,json,svg,png,ico,woff2,m4a}'],
+        // Precache the app shell + all content JSON (small). Audio packs are NOT precached: the user picks
+        // which topics to keep offline and src/lib/offline.ts stores those packs in its own cache.
+        globPatterns: ['**/*.{js,css,html,json,svg,png,ico,woff2}'],
         maximumFileSizeToCacheInBytes: 5 * 1024 * 1024,
         navigateFallback: 'index.html',
         cleanupOutdatedCaches: true,

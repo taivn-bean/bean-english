@@ -8,7 +8,16 @@ const BackupSchema = z.object({
   app: z.literal('bean-english'),
   version: z.literal(1),
   exportedAt: z.string(),
-  profiles: z.array(z.object({ id: z.number(), name: z.string(), color: z.string(), createdAt: z.number() })),
+  profiles: z.array(
+    z.object({
+      id: z.number(),
+      name: z.string(),
+      color: z.string(),
+      createdAt: z.number(),
+      ageBand: z.enum(['3-5', '5-7', '7-9']).optional(),
+      avatar: z.object({ animal: z.string(), accessory: z.string() }).optional(),
+    }),
+  ),
   progress: z.array(
     z.object({
       profileId: z.number(),
@@ -16,16 +25,21 @@ const BackupSchema = z.object({
       topicId: z.string(),
       parentLearned: z.boolean(),
       childSaid: z.boolean(),
+      childSaidAt: z.number().optional(),
+      note: z.string().optional(),
       updatedAt: z.number(),
     }),
   ),
   favorites: z.array(z.object({ profileId: z.number(), phraseId: z.string(), topicId: z.string(), createdAt: z.number() })),
-  settings: z.object({ lang: z.enum(['vi', 'en']), showIpa: z.boolean(), activeProfileId: z.number().nullable() }).partial(),
+  activity: z.array(z.object({ profileId: z.number(), day: z.string(), count: z.number() })).default([]),
+  settings: z
+    .object({ lang: z.enum(['vi', 'en']), showIpa: z.boolean(), showAllAges: z.boolean(), activeProfileId: z.number().nullable() })
+    .partial(),
 })
 export type Backup = z.infer<typeof BackupSchema>
 
 export async function createBackup(): Promise<Backup> {
-  const { lang, showIpa, activeProfileId } = useSettings.getState()
+  const { lang, showIpa, showAllAges, activeProfileId } = useSettings.getState()
   return {
     app: 'bean-english',
     version: 1,
@@ -33,7 +47,8 @@ export async function createBackup(): Promise<Backup> {
     profiles: await db.profiles.toArray(),
     progress: await db.progress.toArray(),
     favorites: await db.favorites.toArray(),
-    settings: { lang, showIpa, activeProfileId },
+    activity: await db.activity.toArray(),
+    settings: { lang, showIpa, showAllAges, activeProfileId },
   }
 }
 
@@ -62,11 +77,12 @@ export async function parseBackup(file: File): Promise<Backup> {
 
 /** Replace all local data with the backup. */
 export async function restoreBackup(data: Backup) {
-  await db.transaction('rw', db.profiles, db.progress, db.favorites, async () => {
-    await Promise.all([db.profiles.clear(), db.progress.clear(), db.favorites.clear()])
+  await db.transaction('rw', [db.profiles, db.progress, db.favorites, db.activity], async () => {
+    await Promise.all([db.profiles.clear(), db.progress.clear(), db.favorites.clear(), db.activity.clear()])
     await db.profiles.bulkPut(data.profiles as Profile[])
     await db.progress.bulkPut(data.progress as Progress[])
     await db.favorites.bulkPut(data.favorites as Favorite[])
+    await db.activity.bulkPut(data.activity)
   })
   useSettings.getState().set(data.settings)
 }

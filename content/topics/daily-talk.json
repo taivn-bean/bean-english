@@ -6,7 +6,12 @@
       "speaker": "parent",
       "level": 1,
       "en": "Come here, please.",
-      "vi": "Con lại đây nào."
+      "vi": "Con lại đây nào.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-002",
@@ -35,6 +40,11 @@
           "en": "airplane",
           "vi": "máy bay"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -42,42 +52,71 @@
       "speaker": "parent",
       "level": 1,
       "en": "Listen.",
-      "vi": "Con nghe nè."
+      "vi": "Con nghe nè.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "daily-talk-004",
       "speaker": "parent",
       "level": 2,
       "en": "Wait a moment, please.",
-      "vi": "Con đợi một chút nha."
+      "vi": "Con đợi một chút nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-005",
       "speaker": "parent",
       "level": 1,
       "en": "Just a minute.",
-      "vi": "Chờ xíu nha con."
+      "vi": "Chờ xíu nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-006",
       "speaker": "parent",
       "level": 1,
       "en": "Almost done!",
-      "vi": "Sắp xong rồi!"
+      "vi": "Sắp xong rồi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-007",
       "speaker": "parent",
       "level": 2,
       "en": "Not now. Maybe later.",
-      "vi": "Giờ chưa được. Lát nữa nha."
+      "vi": "Giờ chưa được. Lát nữa nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-008",
       "speaker": "parent",
       "level": 2,
       "en": "Let me help you.",
-      "vi": "Để phụ con một tay nha."
+      "vi": "Để phụ con một tay nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-009",
@@ -106,6 +145,11 @@
           "en": "push the button",
           "vi": "bấm cái nút"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -113,63 +157,104 @@
       "speaker": "parent",
       "level": 2,
       "en": "Now it's your turn.",
-      "vi": "Giờ tới lượt con nha."
+      "vi": "Giờ tới lượt con nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-011",
       "speaker": "parent",
       "level": 2,
       "en": "Are you all right?",
-      "vi": "Con có sao không?"
+      "vi": "Con có sao không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-012",
       "speaker": "parent",
       "level": 1,
       "en": "What's wrong, sweetie?",
-      "vi": "Sao vậy con?"
+      "vi": "Sao vậy con?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-013",
       "speaker": "parent",
       "level": 2,
       "en": "You can do it!",
-      "vi": "Con làm được mà!"
+      "vi": "Con làm được mà!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-014",
       "speaker": "parent",
       "level": 1,
       "en": "Try again.",
-      "vi": "Con thử lại nha."
+      "vi": "Con thử lại nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-015",
       "speaker": "parent",
       "level": 1,
       "en": "Good try!",
-      "vi": "Con cố gắng giỏi lắm!"
+      "vi": "Con cố gắng giỏi lắm!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-016",
       "speaker": "parent",
       "level": 1,
       "en": "Gentle hands, please.",
-      "vi": "Tay nhẹ nhàng thôi con."
+      "vi": "Tay nhẹ nhàng thôi con.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "daily-talk-017",
       "speaker": "parent",
       "level": 2,
       "en": "Use your words, please.",
-      "vi": "Con nói bằng lời nha."
+      "vi": "Con nói bằng lời nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "daily-talk-018",
       "speaker": "parent",
       "level": 2,
       "en": "Use your inside voice.",
-      "vi": "Con nói nhỏ nhỏ thôi nha."
+      "vi": "Con nói nhỏ nhỏ thôi nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "daily-talk-019",
@@ -198,6 +283,11 @@
           "en": "say bye-bye",
           "vi": "chào tạm biệt"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -205,28 +295,48 @@
       "speaker": "parent",
       "level": 1,
       "en": "Are you finished?",
-      "vi": "Con xong chưa?"
+      "vi": "Con xong chưa?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-021",
       "speaker": "parent",
       "level": 1,
       "en": "Ready? Let's go!",
-      "vi": "Sẵn sàng chưa? Mình đi thôi!"
+      "vi": "Sẵn sàng chưa? Mình đi thôi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-022",
       "speaker": "parent",
       "level": 1,
       "en": "Guess what?",
-      "vi": "Con biết gì không?"
+      "vi": "Con biết gì không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-023",
       "speaker": "parent",
       "level": 1,
       "en": "That's funny!",
-      "vi": "Buồn cười quá ha!"
+      "vi": "Buồn cười quá ha!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-024",
@@ -251,6 +361,11 @@
           "en": "being so gentle",
           "vi": "nhẹ nhàng"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -276,6 +391,11 @@
           "en": "eat",
           "vi": "ăn cơm"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -305,6 +425,11 @@
           "en": "build a tower",
           "vi": "xếp tháp"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -330,6 +455,10 @@
           "en": "clap",
           "vi": "vỗ tay"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -337,14 +466,24 @@
       "speaker": "parent",
       "level": 1,
       "en": "I'm coming!",
-      "vi": "Tới liền đây!"
+      "vi": "Tới liền đây!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-029",
       "speaker": "child",
       "level": 2,
       "en": "Can you help me?",
-      "vi": "Giúp con được không?"
+      "vi": "Giúp con được không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-030",
@@ -369,6 +508,11 @@
           "en": "a hug",
           "vi": "được ôm"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -376,42 +520,67 @@
       "speaker": "child",
       "level": 2,
       "en": "I don't want to.",
-      "vi": "Con không muốn đâu."
+      "vi": "Con không muốn đâu.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-032",
       "speaker": "child",
       "level": 1,
       "en": "Again, again!",
-      "vi": "Nữa đi, nữa đi!"
+      "vi": "Nữa đi, nữa đi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "daily-talk-033",
       "speaker": "child",
       "level": 1,
       "en": "Wait! I'm coming!",
-      "vi": "Chờ con với! Con tới nè!"
+      "vi": "Chờ con với! Con tới nè!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-034",
       "speaker": "child",
       "level": 2,
       "en": "Look what I did!",
-      "vi": "Nhìn con làm nè!"
+      "vi": "Nhìn con làm nè!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "daily-talk-035",
       "speaker": "child",
       "level": 2,
       "en": "I want one too!",
-      "vi": "Con cũng muốn một cái!"
+      "vi": "Con cũng muốn một cái!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "daily-talk-036",
       "speaker": "child",
       "level": 2,
       "en": "Can I have a turn?",
-      "vi": "Cho con chơi một lượt nha?"
+      "vi": "Cho con chơi một lượt nha?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "daily-talk-037",
@@ -436,6 +605,11 @@
           "en": "see Grandma",
           "vi": "gặp bà"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -461,6 +635,11 @@
           "en": "have one",
           "vi": "lấy một cái"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -468,14 +647,337 @@
       "speaker": "child",
       "level": 1,
       "en": "Come and see!",
-      "vi": "Lại đây xem nè!"
+      "vi": "Lại đây xem nè!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "daily-talk-040",
       "speaker": "child",
       "level": 1,
       "en": "I'm okay.",
-      "vi": "Con không sao."
+      "vi": "Con không sao.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-041",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you say that again, please?",
+      "vi": "Con nói lại được không?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-042",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you need me, just say \"Excuse me.\"",
+      "vi": "Cần gì thì con nói \"xin lỗi\" trước nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "daily-talk-043",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you go get your ___?",
+      "vi": "Con đi lấy ___ nha?",
+      "slots": [
+        {
+          "en": "shoes",
+          "vi": "giày"
+        },
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        },
+        {
+          "en": "backpack",
+          "vi": "cặp"
+        },
+        {
+          "en": "water bottle",
+          "vi": "bình nước"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "daily-talk-044",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Did you ___?",
+      "vi": "Con ___ chưa?",
+      "slots": [
+        {
+          "en": "wash your hands",
+          "vi": "rửa tay"
+        },
+        {
+          "en": "brush your teeth",
+          "vi": "đánh răng"
+        },
+        {
+          "en": "feed the fish",
+          "vi": "cho cá ăn"
+        },
+        {
+          "en": "put your shoes away",
+          "vi": "cất giày"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-045",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you want to go first?",
+      "vi": "Con muốn đi trước không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "daily-talk-046",
+      "speaker": "parent",
+      "level": 3,
+      "en": "That's not okay. Let's find a better way.",
+      "vi": "Vậy là không được nha. Mình tìm cách khác tốt hơn nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "daily-talk-047",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Remember to say thank you.",
+      "vi": "Nhớ nói cảm ơn nha con.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "daily-talk-048",
+      "speaker": "child",
+      "level": 2,
+      "en": "Guess what happened today!",
+      "vi": "Đoán coi hôm nay có chuyện gì!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-049",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I go play with ___?",
+      "vi": "Con đi chơi với ___ được không?",
+      "slots": [
+        {
+          "en": "my friends",
+          "vi": "mấy bạn"
+        },
+        {
+          "en": "the kids next door",
+          "vi": "mấy bạn nhà bên"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "the puppy",
+          "vi": "con cún"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "daily-talk-050",
+      "speaker": "child",
+      "level": 2,
+      "en": "I'm sorry. I didn't mean to.",
+      "vi": "Con xin lỗi. Con không cố ý.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-051",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you give me a hand?",
+      "vi": "Con phụ một tay được không?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-052",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Hold on, I'm on the phone.",
+      "vi": "Chờ chút nha, đang nghe điện thoại.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-053",
+      "speaker": "parent",
+      "level": 2,
+      "en": "That's a really good question.",
+      "vi": "Câu hỏi hay lắm đó con.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-054",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What do you think we should do?",
+      "vi": "Con nghĩ mình nên làm sao?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-055",
+      "speaker": "parent",
+      "level": 3,
+      "en": "I need you to ___ before dinner.",
+      "vi": "Trước bữa tối con ___ nha.",
+      "slots": [
+        {
+          "en": "finish your homework",
+          "vi": "làm xong bài tập"
+        },
+        {
+          "en": "take a shower",
+          "vi": "đi tắm"
+        },
+        {
+          "en": "feed the dog",
+          "vi": "cho chó ăn"
+        },
+        {
+          "en": "set the table",
+          "vi": "dọn bàn ăn"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-056",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let me think about it, and I'll let you know.",
+      "vi": "Để suy nghĩ đã, rồi nói con biết sau nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-057",
+      "speaker": "parent",
+      "level": 3,
+      "en": "I'm proud of you for ___.",
+      "vi": "Rất tự hào vì con đã ___.",
+      "slots": [
+        {
+          "en": "telling the truth",
+          "vi": "nói thật"
+        },
+        {
+          "en": "trying your best",
+          "vi": "cố gắng hết sức"
+        },
+        {
+          "en": "helping your friend",
+          "vi": "giúp bạn"
+        },
+        {
+          "en": "being so patient",
+          "vi": "kiên nhẫn như vậy"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-058",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I ___ after I finish my homework?",
+      "vi": "Làm bài xong con ___ được không?",
+      "slots": [
+        {
+          "en": "go outside",
+          "vi": "ra ngoài chơi"
+        },
+        {
+          "en": "play video games",
+          "vi": "chơi game"
+        },
+        {
+          "en": "watch TV",
+          "vi": "xem TV"
+        },
+        {
+          "en": "call Grandma",
+          "vi": "gọi cho bà"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-059",
+      "speaker": "child",
+      "level": 2,
+      "en": "I'll do it in a minute.",
+      "vi": "Chút nữa con làm liền.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "daily-talk-060",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I tell you something?",
+      "vi": "Con kể cái này nha?",
+      "ages": [
+        "7-9"
+      ]
     }
   ],
   "dialogues": [
@@ -509,6 +1011,10 @@
           "en": "Again, again!",
           "vi": "Nữa đi, nữa đi!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -546,6 +1052,10 @@
           "en": "Here you go. Thank you for waiting.",
           "vi": "Nước nè con. Cảm ơn con đã chờ nha."
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -588,6 +1098,124 @@
           "en": "You can do it!",
           "vi": "Con làm được mà!"
         }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "daily-talk-d04",
+      "titleEn": "Excuse me",
+      "titleVi": "Xin phép trước",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mommy! Mommy! Look!",
+          "vi": "Mẹ ơi! Mẹ ơi! Nhìn nè!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Hang on a sec, sweetie. I'm talking to Grandma.",
+          "vi": "Chờ mẹ xíu nha con. Mẹ đang nói chuyện với bà."
+        },
+        {
+          "speaker": "child",
+          "en": "But it's important!",
+          "vi": "Nhưng chuyện quan trọng mà!"
+        },
+        {
+          "speaker": "mom",
+          "en": "If you need me, just say \"Excuse me,\" and wait.",
+          "vi": "Cần gì thì con nói \"xin lỗi\" rồi chờ nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Excuse me, Mommy.",
+          "vi": "Mẹ ơi, cho con xin lỗi."
+        },
+        {
+          "speaker": "mom",
+          "en": "Thank you for waiting. What is it?",
+          "vi": "Cảm ơn con đã chờ. Chuyện gì vậy con?"
+        },
+        {
+          "speaker": "child",
+          "en": "I made a paper airplane! Can I fly it?",
+          "vi": "Con xếp được máy bay giấy nè! Con phóng thử được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow, nice! Sure, fly it in the living room.",
+          "vi": "Oa, đẹp quá! Được, con phóng trong phòng khách nha."
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "daily-talk-d05",
+      "titleEn": "Give me a hand",
+      "titleVi": "Phụ một tay",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Hey, can you give me a hand? I'm making dinner.",
+          "vi": "Nè con, phụ ba một tay được không? Ba đang nấu cơm."
+        },
+        {
+          "speaker": "child",
+          "en": "Hold on, I'm almost done with my drawing.",
+          "vi": "Chờ xíu, con sắp vẽ xong rồi."
+        },
+        {
+          "speaker": "dad",
+          "en": "Okay. Come help when you're done, alright?",
+          "vi": "Ừ. Vẽ xong thì vô phụ nha."
+        },
+        {
+          "speaker": "child",
+          "en": "I'm done. What should I do?",
+          "vi": "Con xong rồi. Con làm gì đây ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Can you wash the vegetables for me?",
+          "vi": "Con rửa rau giùm ba nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "Sure. Dad, can I ask you something?",
+          "vi": "Dạ. Ba ơi, con hỏi cái này nha?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Of course. What's up?",
+          "vi": "Ừ, hỏi đi. Gì vậy con?"
+        },
+        {
+          "speaker": "child",
+          "en": "Why do onions make you cry?",
+          "vi": "Sao cắt hành lại bị chảy nước mắt vậy?"
+        },
+        {
+          "speaker": "dad",
+          "en": "That's a great question. Let's look it up after dinner.",
+          "vi": "Câu hỏi hay đó. Ăn xong mình cùng tìm hiểu nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay! I'll set the table too.",
+          "vi": "Dạ! Con dọn bàn luôn nha."
+        },
+        {
+          "speaker": "dad",
+          "en": "Wow, thanks! You're a big help.",
+          "vi": "Oa, cảm ơn con! Con phụ ba nhiều lắm đó."
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

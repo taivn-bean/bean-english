@@ -1,0 +1,736 @@
+{
+  "topicId": "why-because",
+  "phrases": [
+    {
+      "id": "why-because-001",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Ooh, good question!",
+      "vi": "Ồ, câu hỏi hay đó!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-002",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Hmm, I don't know. Let's find out!",
+      "vi": "Hừm, mình cũng không biết. Mình cùng tìm hiểu nha!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Hmm, what do you think?",
+      "vi": "Hừm, con nghĩ sao?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Why do you think ___?",
+      "vi": "Con nghĩ tại sao ___?",
+      "slots": [
+        {
+          "en": "leaves fall",
+          "vi": "lá rụng"
+        },
+        {
+          "en": "ice melts",
+          "vi": "đá tan"
+        },
+        {
+          "en": "the moon changes shape",
+          "vi": "mặt trăng đổi hình"
+        },
+        {
+          "en": "we have rules",
+          "vi": "mình phải có luật"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Good guess! You're close.",
+      "vi": "Đoán hay lắm! Gần đúng rồi đó.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-006",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We wash our hands to get rid of germs.",
+      "vi": "Mình rửa tay để hết vi trùng.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-007",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We sleep so our bodies can rest and grow.",
+      "vi": "Mình ngủ để cơ thể được nghỉ ngơi và lớn lên.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-008",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Sunlight has lots of colors, and blue spreads out the most.",
+      "vi": "Ánh nắng có nhiều màu, mà màu xanh tỏa ra nhiều nhất.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-009",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's look it up ___.",
+      "vi": "Mình tra ___ nha.",
+      "slots": [
+        {
+          "en": "in a book",
+          "vi": "trong sách"
+        },
+        {
+          "en": "online",
+          "vi": "trên mạng"
+        },
+        {
+          "en": "at the library",
+          "vi": "ở thư viện"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-010",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Let's ask ___.",
+      "vi": "Mình hỏi ___ thử nha.",
+      "slots": [
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "your teacher",
+          "vi": "cô giáo"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "the doctor",
+          "vi": "bác sĩ"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-011",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We ___ so we stay healthy.",
+      "vi": "Mình ___ để khỏe mạnh.",
+      "slots": [
+        {
+          "en": "wash our hands",
+          "vi": "rửa tay"
+        },
+        {
+          "en": "eat vegetables",
+          "vi": "ăn rau"
+        },
+        {
+          "en": "drink water",
+          "vi": "uống nước"
+        },
+        {
+          "en": "go to bed early",
+          "vi": "đi ngủ sớm"
+        },
+        {
+          "en": "brush our teeth",
+          "vi": "đánh răng"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Plants need ___ to grow.",
+      "vi": "Cây cần ___ để lớn.",
+      "slots": [
+        {
+          "en": "water",
+          "vi": "nước"
+        },
+        {
+          "en": "sunlight",
+          "vi": "ánh nắng"
+        },
+        {
+          "en": "soil",
+          "vi": "đất"
+        },
+        {
+          "en": "air",
+          "vi": "không khí"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "The ___ because it's hot.",
+      "vi": "___ vì trời nóng.",
+      "slots": [
+        {
+          "en": "ice cream is melting",
+          "vi": "Kem đang chảy"
+        },
+        {
+          "en": "ice is melting",
+          "vi": "Đá đang tan"
+        },
+        {
+          "en": "chocolate is melting",
+          "vi": "Sô-cô-la đang chảy"
+        },
+        {
+          "en": "snowman is melting",
+          "vi": "Người tuyết đang tan"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We can't go to the park because ___.",
+      "vi": "Mình không đi công viên được vì ___.",
+      "slots": [
+        {
+          "en": "it's raining",
+          "vi": "trời đang mưa"
+        },
+        {
+          "en": "it's too late",
+          "vi": "trễ quá rồi"
+        },
+        {
+          "en": "the park is closed",
+          "vi": "công viên đóng cửa rồi"
+        },
+        {
+          "en": "you're sick",
+          "vi": "con đang bệnh"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-015",
+      "speaker": "parent",
+      "level": 3,
+      "en": "That's a tricky one. Let me think.",
+      "vi": "Câu này khó nha. Để mình nghĩ chút.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-016",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's try it and see what happens!",
+      "vi": "Mình thử coi chuyện gì xảy ra nha!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-017",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You ask so many good questions!",
+      "vi": "Con hỏi nhiều câu hay ghê!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-018",
+      "speaker": "parent",
+      "level": 3,
+      "en": "The moon is still there in the daytime. It's just hard to see.",
+      "vi": "Ban ngày mặt trăng vẫn ở đó. Chỉ là khó thấy thôi.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-019",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We have rules to keep everyone safe.",
+      "vi": "Mình có luật để giữ an toàn cho mọi người.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-020",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you want to know why?",
+      "vi": "Con muốn biết tại sao không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-021",
+      "speaker": "child",
+      "level": 2,
+      "en": "Why is the sky blue?",
+      "vi": "Sao bầu trời màu xanh vậy?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-022",
+      "speaker": "child",
+      "level": 3,
+      "en": "Why do we have to ___?",
+      "vi": "Tại sao mình phải ___?",
+      "slots": [
+        {
+          "en": "go to bed",
+          "vi": "đi ngủ"
+        },
+        {
+          "en": "wash our hands",
+          "vi": "rửa tay"
+        },
+        {
+          "en": "brush our teeth",
+          "vi": "đánh răng"
+        },
+        {
+          "en": "wear a helmet",
+          "vi": "đội nón bảo hiểm"
+        },
+        {
+          "en": "go to school",
+          "vi": "đi học"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-023",
+      "speaker": "child",
+      "level": 2,
+      "en": "Where does ___ come from?",
+      "vi": "___ từ đâu ra vậy?",
+      "slots": [
+        {
+          "en": "rain",
+          "vi": "Mưa"
+        },
+        {
+          "en": "milk",
+          "vi": "Sữa"
+        },
+        {
+          "en": "honey",
+          "vi": "Mật ong"
+        },
+        {
+          "en": "paper",
+          "vi": "Giấy"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-024",
+      "speaker": "child",
+      "level": 1,
+      "en": "But why?",
+      "vi": "Mà tại sao?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-025",
+      "speaker": "child",
+      "level": 2,
+      "en": "How does it work?",
+      "vi": "Cái này hoạt động sao vậy?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-026",
+      "speaker": "child",
+      "level": 2,
+      "en": "I think it's because it's hot.",
+      "vi": "Con nghĩ là tại trời nóng.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-027",
+      "speaker": "child",
+      "level": 2,
+      "en": "Why can't I stay up late?",
+      "vi": "Sao con không được thức khuya?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "Is it magic?",
+      "vi": "Phép thuật hả?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "why-because-029",
+      "speaker": "child",
+      "level": 2,
+      "en": "Oh! Now I get it!",
+      "vi": "À! Giờ con hiểu rồi!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "why-because-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "I learned that at school!",
+      "vi": "Con học cái đó ở trường rồi!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "why-because-d01",
+      "titleEn": "Why is the sky blue?",
+      "titleVi": "Sao bầu trời màu xanh?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Dad, why is the sky blue?",
+          "vi": "Ba ơi, sao bầu trời màu xanh vậy?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Ooh, good question. What do you think?",
+          "vi": "Ồ, câu hỏi hay đó. Con nghĩ sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Because somebody painted it?",
+          "vi": "Tại có ai sơn nó hả?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Ha! Good guess. Sunlight has lots of colors in it.",
+          "vi": "Haha! Đoán hay đó. Ánh nắng có nhiều màu lắm."
+        },
+        {
+          "speaker": "child",
+          "en": "Like a rainbow?",
+          "vi": "Giống cầu vồng hả ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Exactly! And the blue spreads all over the sky.",
+          "vi": "Đúng rồi! Mà màu xanh thì tỏa ra khắp bầu trời."
+        },
+        {
+          "speaker": "child",
+          "en": "Why does the blue spread?",
+          "vi": "Sao màu xanh tỏa ra vậy?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, I'm not sure. Let's look it up when we get home!",
+          "vi": "Hừm, ba cũng không chắc. Về nhà mình tra thử nha!"
+        }
+      ]
+    },
+    {
+      "id": "why-because-d02",
+      "titleEn": "Why do I have to sleep?",
+      "titleVi": "Sao con phải ngủ?",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Okay, lights out. Time for bed.",
+          "vi": "Rồi, tắt đèn nha. Tới giờ ngủ rồi."
+        },
+        {
+          "speaker": "child",
+          "en": "Why do I have to sleep? I'm not tired.",
+          "vi": "Sao con phải ngủ? Con đâu có mệt."
+        },
+        {
+          "speaker": "mom",
+          "en": "Sleep helps your body rest and grow.",
+          "vi": "Ngủ giúp cơ thể con nghỉ ngơi và lớn lên."
+        },
+        {
+          "speaker": "child",
+          "en": "I grow when I sleep?",
+          "vi": "Con ngủ thì con lớn hả?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Yep! And your brain gets ready for tomorrow.",
+          "vi": "Đúng rồi! Mà não con cũng chuẩn bị cho ngày mai nữa."
+        },
+        {
+          "speaker": "child",
+          "en": "Can I grow really fast tonight?",
+          "vi": "Tối nay con lớn thật nhanh được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Let's see! Close your eyes. Good night, sweetie.",
+          "vi": "Để coi nha! Nhắm mắt lại đi. Ngủ ngon nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Good night, Mom.",
+          "vi": "Mẹ ngủ ngon."
+        }
+      ]
+    },
+    {
+      "id": "why-because-d03",
+      "titleEn": "Why wash our hands?",
+      "titleVi": "Sao phải rửa tay?",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Before we eat, let's wash our hands.",
+          "vi": "Trước khi ăn, mình rửa tay nha."
+        },
+        {
+          "speaker": "child",
+          "en": "But they're not dirty! Look!",
+          "vi": "Mà tay con đâu có dơ! Mẹ coi nè!"
+        },
+        {
+          "speaker": "mom",
+          "en": "They look clean, but there are tiny germs on them.",
+          "vi": "Nhìn thì sạch, mà có vi trùng nhỏ xíu trên đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Germs? Where? I can't see them.",
+          "vi": "Vi trùng hả? Đâu? Con đâu thấy."
+        },
+        {
+          "speaker": "mom",
+          "en": "They're too small to see. They can make us sick.",
+          "vi": "Tại nó nhỏ quá nên mình không thấy được. Nó làm mình bệnh đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Ew! Okay, I'll use soap.",
+          "vi": "Eo! Dạ, con rửa bằng xà bông.",
+          "ipa": "/ˈiu ˌoʊˈkeɪ aɪl jus soʊp/"
+        },
+        {
+          "speaker": "mom",
+          "en": "Great! Scrub for twenty seconds. Let's sing!",
+          "vi": "Giỏi! Chà hai mươi giây nha. Mình hát đi!"
+        }
+      ]
+    },
+    {
+      "id": "why-because-d04",
+      "titleEn": "Where did the ice go?",
+      "titleVi": "Cục đá đi đâu rồi?",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Dad, where did my ice cube go?",
+          "vi": "Ba ơi, cục đá của con đâu mất rồi?"
+        },
+        {
+          "speaker": "dad",
+          "en": "It melted. Now it's water.",
+          "vi": "Nó tan rồi. Giờ thành nước rồi."
+        },
+        {
+          "speaker": "child",
+          "en": "Why did it melt?",
+          "vi": "Sao nó tan vậy?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Because it's hot outside. Ice melts when it gets warm.",
+          "vi": "Vì ngoài trời nóng. Đá gặp nóng là tan."
+        },
+        {
+          "speaker": "child",
+          "en": "What if we put it in the freezer?",
+          "vi": "Nếu mình bỏ vô tủ đông thì sao?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, what do you think will happen?",
+          "vi": "Hừm, con nghĩ sẽ ra sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "It turns back into ice!",
+          "vi": "Nó thành đá lại!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Let's try it and find out!",
+          "vi": "Mình thử coi đúng không nha!"
+        }
+      ]
+    },
+    {
+      "id": "why-because-d05",
+      "titleEn": "So many whys",
+      "titleVi": "Nhiều câu tại sao quá",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, why can't we go to the park?",
+          "vi": "Mẹ ơi, sao mình không đi công viên?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Because it's raining really hard.",
+          "vi": "Tại trời đang mưa to lắm."
+        },
+        {
+          "speaker": "child",
+          "en": "Why is it raining?",
+          "vi": "Sao trời mưa vậy?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Because the clouds are full of water.",
+          "vi": "Tại mây chứa đầy nước."
+        },
+        {
+          "speaker": "child",
+          "en": "Why are the clouds full of water?",
+          "vi": "Sao mây đầy nước vậy?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow, so many whys! I don't know everything. Let's find out together.",
+          "vi": "Trời, nhiều câu tại sao quá! Mẹ không biết hết đâu. Mình cùng tìm hiểu nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Can we watch a video about rain?",
+          "vi": "Mình coi video về mưa được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Great idea. Then we can play inside.",
+          "vi": "Ý hay đó. Rồi mình chơi trong nhà nha."
+        }
+      ]
+    }
+  ]
+}

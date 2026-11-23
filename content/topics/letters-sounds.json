@@ -1,0 +1,751 @@
+{
+  "topicId": "letters-sounds",
+  "phrases": [
+    {
+      "id": "letters-sounds-001",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What letter is this?",
+      "vi": "Đây là chữ gì vậy con?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What sound does ___ make?",
+      "vi": "Chữ ___ đọc âm gì con?",
+      "slots": [
+        {
+          "en": "B",
+          "vi": "B"
+        },
+        {
+          "en": "S",
+          "vi": "S"
+        },
+        {
+          "en": "M",
+          "vi": "M"
+        },
+        {
+          "en": "T",
+          "vi": "T"
+        },
+        {
+          "en": "A",
+          "vi": "A"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What letter does ___ start with?",
+      "vi": "Từ ___ bắt đầu bằng chữ gì?",
+      "slots": [
+        {
+          "en": "ball",
+          "vi": "ball (trái banh)"
+        },
+        {
+          "en": "cat",
+          "vi": "cat (con mèo)"
+        },
+        {
+          "en": "dog",
+          "vi": "dog (con chó)"
+        },
+        {
+          "en": "sun",
+          "vi": "sun (mặt trời)"
+        },
+        {
+          "en": "fish",
+          "vi": "fish (con cá)"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's sing the ABC song.",
+      "vi": "Mình hát bài ABC nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you spell your name?",
+      "vi": "Con đánh vần tên mình được không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Your name starts with ___.",
+      "vi": "Tên con bắt đầu bằng chữ ___ đó.",
+      "slots": [
+        {
+          "en": "M",
+          "vi": "M"
+        },
+        {
+          "en": "A",
+          "vi": "A"
+        },
+        {
+          "en": "T",
+          "vi": "T"
+        },
+        {
+          "en": "L",
+          "vi": "L"
+        },
+        {
+          "en": "N",
+          "vi": "N"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's sound it out.",
+      "vi": "Mình đọc từng âm thử nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-008",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Do you want to read with me?",
+      "vi": "Con muốn đọc sách chung không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-009",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Point to the words as you read.",
+      "vi": "Đọc tới đâu con chỉ tay tới đó nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you find the letter ___?",
+      "vi": "Con tìm được chữ ___ không?",
+      "slots": [
+        {
+          "en": "B",
+          "vi": "B"
+        },
+        {
+          "en": "S",
+          "vi": "S"
+        },
+        {
+          "en": "M",
+          "vi": "M"
+        },
+        {
+          "en": "T",
+          "vi": "T"
+        },
+        {
+          "en": "O",
+          "vi": "O"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-011",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Wow, you read that all by yourself!",
+      "vi": "Wow, con tự đọc được luôn rồi!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "letters-sounds-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Try again. You're so close!",
+      "vi": "Thử lại nha. Gần đúng rồi đó!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "letters-sounds-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Is that uppercase or lowercase?",
+      "vi": "Đó là chữ in hoa hay chữ thường?",
+      "ipa": "/ɪz ðæt ˈʌpɚˌkeɪs ɔɹ ˈloʊɚˌkeɪs/",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-014",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's write the letter ___.",
+      "vi": "Mình tập viết chữ ___ nha.",
+      "slots": [
+        {
+          "en": "A",
+          "vi": "A"
+        },
+        {
+          "en": "B",
+          "vi": "B"
+        },
+        {
+          "en": "M",
+          "vi": "M"
+        },
+        {
+          "en": "S",
+          "vi": "S"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-015",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Start at the top and go down.",
+      "vi": "Bắt đầu từ trên rồi kéo xuống nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-016",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Hold your pencil like this.",
+      "vi": "Cầm bút chì như vầy nè con.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-017",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Take your time. No rush.",
+      "vi": "Từ từ thôi con. Không cần vội.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "letters-sounds-018",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What rhymes with ___?",
+      "vi": "Từ nào vần với ___?",
+      "slots": [
+        {
+          "en": "cat",
+          "vi": "cat"
+        },
+        {
+          "en": "dog",
+          "vi": "dog"
+        },
+        {
+          "en": "bee",
+          "vi": "bee"
+        },
+        {
+          "en": "sun",
+          "vi": "sun"
+        },
+        {
+          "en": "cake",
+          "vi": "cake"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-019",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Cat, hat, bat. They all rhyme!",
+      "vi": "Cat, hat, bat — tụi nó vần với nhau hết đó!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-020",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you read this word?",
+      "vi": "Con đọc thử chữ này được không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-021",
+      "speaker": "child",
+      "level": 2,
+      "en": "That's the letter ___!",
+      "vi": "Đó là chữ ___!",
+      "slots": [
+        {
+          "en": "B",
+          "vi": "B"
+        },
+        {
+          "en": "M",
+          "vi": "M"
+        },
+        {
+          "en": "S",
+          "vi": "S"
+        },
+        {
+          "en": "T",
+          "vi": "T"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-022",
+      "speaker": "child",
+      "level": 2,
+      "en": "I can write my name!",
+      "vi": "Con viết được tên con rồi!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-023",
+      "speaker": "child",
+      "level": 2,
+      "en": "How do you spell ___?",
+      "vi": "Từ ___ đánh vần sao vậy?",
+      "slots": [
+        {
+          "en": "dog",
+          "vi": "dog"
+        },
+        {
+          "en": "cat",
+          "vi": "cat"
+        },
+        {
+          "en": "mom",
+          "vi": "mom"
+        },
+        {
+          "en": "love",
+          "vi": "love"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-024",
+      "speaker": "child",
+      "level": 2,
+      "en": "What does this say?",
+      "vi": "Chữ này đọc là gì vậy?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "letters-sounds-025",
+      "speaker": "child",
+      "level": 2,
+      "en": "I know this word!",
+      "vi": "Con biết chữ này nè!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-026",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I read it to you?",
+      "vi": "Để con đọc cho nghe nha?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-027",
+      "speaker": "child",
+      "level": 2,
+      "en": "This one is hard.",
+      "vi": "Chữ này khó quá.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "B is for banana!",
+      "vi": "B là banana (trái chuối) nè!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-029",
+      "speaker": "child",
+      "level": 2,
+      "en": "My name has four letters.",
+      "vi": "Tên con có bốn chữ cái.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "letters-sounds-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "Oops, my S is backwards.",
+      "vi": "Ủa, chữ S của con bị ngược rồi.",
+      "ages": [
+        "5-7"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "letters-sounds-d01",
+      "titleEn": "Writing my name",
+      "titleVi": "Tập viết tên",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Let's write your name on your picture.",
+          "vi": "Mình viết tên con lên tranh nha."
+        },
+        {
+          "speaker": "child",
+          "en": "I can do it by myself!",
+          "vi": "Con tự viết được!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay! What letter does your name start with?",
+          "vi": "Được! Tên con bắt đầu bằng chữ gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "M! Like Mommy!",
+          "vi": "Chữ M! Giống chữ Mommy đó!"
+        },
+        {
+          "speaker": "mom",
+          "en": "That's right! Write it nice and big.",
+          "vi": "Đúng rồi! Viết to to nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Oops, I made a mistake.",
+          "vi": "Ui, con viết sai rồi."
+        },
+        {
+          "speaker": "mom",
+          "en": "That's okay. Just try again.",
+          "vi": "Không sao. Viết lại là được."
+        },
+        {
+          "speaker": "child",
+          "en": "Look! I wrote my whole name!",
+          "vi": "Mẹ coi nè! Con viết hết tên rồi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Great job! Let's put it on the fridge.",
+          "vi": "Giỏi quá! Mình dán lên tủ lạnh nha."
+        }
+      ]
+    },
+    {
+      "id": "letters-sounds-d02",
+      "titleEn": "Reading together",
+      "titleVi": "Cùng nhau đọc sách",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Your turn to read this page.",
+          "vi": "Tới lượt con đọc trang này nè."
+        },
+        {
+          "speaker": "child",
+          "en": "The... dog... can... run.",
+          "vi": "Con chó... biết... chạy."
+        },
+        {
+          "speaker": "dad",
+          "en": "Great reading! Keep going.",
+          "vi": "Đọc hay lắm! Đọc tiếp đi con."
+        },
+        {
+          "speaker": "child",
+          "en": "I don't know this word.",
+          "vi": "Con không biết chữ này."
+        },
+        {
+          "speaker": "dad",
+          "en": "Look at the first letter. What sound does it make?",
+          "vi": "Nhìn chữ cái đầu nè. Nó đọc âm gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "It's F... fast! The dog can run fast!",
+          "vi": "Chữ F... fast! Con chó chạy nhanh!"
+        },
+        {
+          "speaker": "dad",
+          "en": "You got it! You're a great reader.",
+          "vi": "Đúng rồi! Con đọc giỏi ghê."
+        },
+        {
+          "speaker": "child",
+          "en": "One more page, please?",
+          "vi": "Thêm một trang nữa nha ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Okay, one more page.",
+          "vi": "Ừ, thêm một trang thôi nha."
+        }
+      ]
+    },
+    {
+      "id": "letters-sounds-d03",
+      "titleEn": "Letter hunt",
+      "titleVi": "Đi tìm chữ cái",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Let's play a game. Can you find an S?",
+          "vi": "Mình chơi trò này nha. Con tìm được chữ S không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Where?",
+          "vi": "Ở đâu?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Look at the signs outside.",
+          "vi": "Nhìn mấy tấm bảng ngoài kia nè."
+        },
+        {
+          "speaker": "child",
+          "en": "There! On the stop sign!",
+          "vi": "Kia kìa! Trên biển STOP!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Good eye! What other letters do you see?",
+          "vi": "Tinh mắt ghê! Con thấy chữ gì nữa?"
+        },
+        {
+          "speaker": "child",
+          "en": "T! And O! And P!",
+          "vi": "T! Rồi O! Rồi P!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow! You know so many letters.",
+          "vi": "Wow! Con biết nhiều chữ quá."
+        },
+        {
+          "speaker": "child",
+          "en": "My turn! Find an M, Mommy!",
+          "vi": "Tới lượt con! Mẹ tìm chữ M đi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm... Oh, there's one!",
+          "vi": "Hừm... A, có một chữ kìa!"
+        }
+      ]
+    },
+    {
+      "id": "letters-sounds-d04",
+      "titleEn": "Rhyming game",
+      "titleVi": "Trò chơi tìm vần",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Let's play a rhyming game. Cat... hat...",
+          "vi": "Mình chơi trò tìm vần nha. Cat... hat..."
+        },
+        {
+          "speaker": "child",
+          "en": "Bat!",
+          "vi": "Bat (con dơi)!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yes! Now you start one.",
+          "vi": "Đúng rồi! Giờ con ra đề đi."
+        },
+        {
+          "speaker": "child",
+          "en": "Dog!",
+          "vi": "Dog (con chó)!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Dog... log! What else?",
+          "vi": "Dog... log! Còn gì nữa?"
+        },
+        {
+          "speaker": "child",
+          "en": "Frog! Dog, log, frog!",
+          "vi": "Frog (con ếch)! Dog, log, frog!"
+        },
+        {
+          "speaker": "dad",
+          "en": "You're so good at this!",
+          "vi": "Con chơi giỏi ghê!"
+        },
+        {
+          "speaker": "child",
+          "en": "Banana... pajama!",
+          "vi": "Banana... pajama!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Ha! That's a silly one, but it works!",
+          "vi": "Ha! Nghe hơi xạo mà cũng được!"
+        }
+      ]
+    },
+    {
+      "id": "letters-sounds-d05",
+      "titleEn": "A card for Grandma",
+      "titleVi": "Làm thiệp tặng bà",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Let's make a card for Grandma.",
+          "vi": "Mình làm thiệp tặng bà nha."
+        },
+        {
+          "speaker": "child",
+          "en": "What do I write?",
+          "vi": "Con viết gì đây?"
+        },
+        {
+          "speaker": "mom",
+          "en": "How about 'I love you'?",
+          "vi": "Viết 'I love you' nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "How do you spell love?",
+          "vi": "Love đánh vần sao vậy mẹ?"
+        },
+        {
+          "speaker": "dad",
+          "en": "L, O, V, E.",
+          "vi": "L, O, V, E."
+        },
+        {
+          "speaker": "child",
+          "en": "Like this?",
+          "vi": "Vầy đúng không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Almost! Your E is backwards. Try again.",
+          "vi": "Gần đúng rồi! Chữ E bị ngược. Viết lại thử coi."
+        },
+        {
+          "speaker": "child",
+          "en": "There! Is that right?",
+          "vi": "Nè! Vậy đúng chưa?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Perfect! Grandma is going to love it.",
+          "vi": "Đẹp lắm! Bà sẽ thích lắm cho coi."
+        }
+      ]
+    }
+  ]
+}

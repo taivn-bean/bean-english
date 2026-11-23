@@ -17,11 +17,24 @@ await page.evaluate(() => navigator.serviceWorker.ready)
 // wait until the SW controls the page and precache is complete
 await page.reload()
 await page.waitForFunction(() => !!navigator.serviceWorker.controller)
-await page.waitForFunction(async () => {
-  const keys = await caches.keys()
-  for (const k of keys) if ((await (await caches.open(k)).keys()).length > 800) return true
-  return false
-}, null, { timeout: 60000 })
+// choose offline packs: download every topic's audio, wait until all packs are cached
+await page.goto(`${base}/offline`)
+await page.getByRole('button', { name: /Tải tất cả/ }).click()
+const packState = () =>
+  page.evaluate(async () => {
+    const index = await (await fetch('/content/index.json')).json()
+    const keys = new Set((await (await caches.open('bean-audio-v1')).keys()).map((r) => new URL(r.url).pathname))
+    const need = new Set(index.topics.flatMap((t) => t.packs))
+    return { need: need.size, have: [...need].filter((u) => keys.has(u)).length }
+  })
+let packs = await packState()
+for (let i = 0; i < 120 && packs.have < packs.need; i++) {
+  await page.waitForTimeout(1000)
+  packs = await packState()
+}
+check(`offline packs downloaded (user-selected) ${packs.have}/${packs.need}`, packs.have === packs.need && packs.need > 0)
+await page.goto(base)
+await page.locator('a[href^="/topics/"]').first().waitFor()
 const topicCount = await page.locator('a[href^="/topics/"]').count()
 check(`home renders online (${topicCount} topics)`, topicCount >= 10)
 await page.screenshot({ path: `${outDir}/home.png` })
@@ -31,7 +44,11 @@ await page.goto(`${base}/topics/bedtime`)
 check('deep link offline', await page.getByText('Bedtime').first().isVisible())
 await page.screenshot({ path: `${outDir}/topic.png`, fullPage: false })
 
-const audioOk = await page.evaluate(async () => (await fetch('/audio/safety-003.m4a')).ok)
+const audioOk = await page.evaluate(async () => {
+  const safety = await (await fetch('/content/topics/safety.json')).json()
+  const hit = await (await caches.open('bean-audio-v1')).match(safety.audio.packs[0])
+  return !!hit && (await hit.blob()).size > 0
+})
 check('unvisited topic audio offline', audioOk)
 
 await page.locator('article button').first().click()

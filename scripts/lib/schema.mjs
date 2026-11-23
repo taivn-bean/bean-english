@@ -13,6 +13,10 @@ export const TopicMeta = z.object({
 })
 
 // slot.ipa: optional override for the whole filled sentence
+export const AGE_BANDS = ['3-5', '5-7', '7-9']
+/** Age bands an item suits (one or more). Topics get the union of their phrases' bands. */
+const Ages = z.array(z.enum(AGE_BANDS)).min(1)
+
 const Slot = z.object({ en: z.string().min(1), vi: z.string().min(1), ipa: z.string().optional() })
 
 const Phrase = z
@@ -20,6 +24,7 @@ const Phrase = z
     id: id(/^[a-z0-9-]+-\d{3}$/),
     speaker: z.enum(['parent', 'child']),
     level: z.union([z.literal(1), z.literal(2), z.literal(3)]),
+    ages: Ages,
     en: z.string().min(1),
     vi: z.string().min(1),
     slots: z.array(Slot).min(2).max(8).optional(),
@@ -37,6 +42,7 @@ const Dialogue = z.object({
   id: id(/^[a-z0-9-]+-d\d{2}$/),
   titleEn: z.string().min(1),
   titleVi: z.string().min(1),
+  ages: Ages,
   lines: z
     .array(
       z.object({

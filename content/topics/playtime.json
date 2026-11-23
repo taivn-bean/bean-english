@@ -6,7 +6,12 @@
       "speaker": "parent",
       "level": 1,
       "en": "Let's play!",
-      "vi": "Mình chơi nào!"
+      "vi": "Mình chơi nào!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "playtime-002",
@@ -31,6 +36,10 @@
           "en": "dolls",
           "vi": "búp bê"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -38,42 +47,64 @@
       "speaker": "parent",
       "level": 3,
       "en": "Can you build a tall tower with the blocks?",
-      "vi": "Con xây cái tháp thật cao bằng khối gỗ được không?"
+      "vi": "Con xây cái tháp thật cao bằng khối gỗ được không?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "playtime-004",
       "speaker": "parent",
       "level": 1,
       "en": "Your turn!",
-      "vi": "Tới lượt con!"
+      "vi": "Tới lượt con!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "playtime-005",
       "speaker": "parent",
       "level": 1,
       "en": "Let's take turns.",
-      "vi": "Mình thay phiên nhau nha."
+      "vi": "Mình thay phiên nhau nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "playtime-006",
       "speaker": "parent",
       "level": 1,
       "en": "Uh-oh, it fell!",
-      "vi": "Ối, đổ rồi!"
+      "vi": "Ối, đổ rồi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "playtime-007",
       "speaker": "parent",
       "level": 1,
       "en": "Roll the ball!",
-      "vi": "Lăn bóng nào!"
+      "vi": "Lăn bóng nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "playtime-008",
       "speaker": "parent",
       "level": 2,
       "en": "What color is this?",
-      "vi": "Cái này màu gì nè?"
+      "vi": "Cái này màu gì nè?",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "playtime-009",
@@ -98,6 +129,9 @@
           "en": "train",
           "vi": "đoàn tàu"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -105,14 +139,21 @@
       "speaker": "parent",
       "level": 1,
       "en": "Gentle, please.",
-      "vi": "Nhẹ tay thôi con."
+      "vi": "Nhẹ tay thôi con.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "playtime-011",
       "speaker": "parent",
       "level": 1,
       "en": "Wow, so tall!",
-      "vi": "Oa, cao quá!"
+      "vi": "Oa, cao quá!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "playtime-012",
@@ -137,6 +178,9 @@
           "en": "ducks",
           "vi": "con vịt"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -162,6 +206,9 @@
           "en": "block",
           "vi": "khối gỗ"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -169,7 +216,11 @@
       "speaker": "parent",
       "level": 3,
       "en": "When we finish, let's put the toys away.",
-      "vi": "Chơi xong mình cất đồ chơi nha con."
+      "vi": "Chơi xong mình cất đồ chơi nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "playtime-015",
@@ -194,6 +245,9 @@
           "en": "duck",
           "vi": "con vịt"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -201,42 +255,67 @@
       "speaker": "child",
       "level": 1,
       "en": "Again!",
-      "vi": "Chơi nữa đi!"
+      "vi": "Chơi nữa đi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "playtime-017",
       "speaker": "child",
       "level": 2,
       "en": "Look at my tower!",
-      "vi": "Nhìn tháp của con nè!"
+      "vi": "Nhìn tháp của con nè!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "playtime-018",
       "speaker": "child",
       "level": 1,
       "en": "Uh-oh!",
-      "vi": "Ối!"
+      "vi": "Ối!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "playtime-019",
       "speaker": "child",
       "level": 1,
       "en": "Play with me!",
-      "vi": "Chơi với con đi!"
+      "vi": "Chơi với con đi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "playtime-020",
       "speaker": "child",
       "level": 1,
       "en": "Catch!",
-      "vi": "Bắt nè!"
+      "vi": "Bắt nè!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "playtime-021",
       "speaker": "parent",
       "level": 1,
       "en": "Ready, set, go!",
-      "vi": "Một, hai, ba, bắt đầu!"
+      "vi": "Một, hai, ba, bắt đầu!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "playtime-022",
@@ -261,6 +340,10 @@
           "en": "Grandma",
           "vi": "bà"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -268,7 +351,12 @@
       "speaker": "parent",
       "level": 2,
       "en": "Let's play hide-and-seek!",
-      "vi": "Mình chơi trốn tìm nha!"
+      "vi": "Mình chơi trốn tìm nha!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "playtime-024",
@@ -293,6 +381,9 @@
           "en": "a bird",
           "vi": "chim"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -300,7 +391,10 @@
       "speaker": "parent",
       "level": 3,
       "en": "Blocks are for building. Let's throw the ball instead.",
-      "vi": "Khối gỗ là để xây thôi con. Mình ném bóng nha."
+      "vi": "Khối gỗ là để xây thôi con. Mình ném bóng nha.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "playtime-026",
@@ -325,6 +419,9 @@
           "en": "flower",
           "vi": "bông hoa"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -332,42 +429,67 @@
       "speaker": "parent",
       "level": 2,
       "en": "You're so good at sharing!",
-      "vi": "Con biết chia đồ chơi, giỏi quá!"
+      "vi": "Con biết chia đồ chơi, giỏi quá!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "playtime-028",
       "speaker": "child",
       "level": 1,
       "en": "Can I play?",
-      "vi": "Cho con chơi với!"
+      "vi": "Cho con chơi với!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "playtime-029",
       "speaker": "child",
       "level": 1,
       "en": "Found you!",
-      "vi": "Thấy rồi nha!"
+      "vi": "Thấy rồi nha!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "playtime-030",
       "speaker": "child",
       "level": 1,
       "en": "I'm a lion!",
-      "vi": "Con là sư tử nè!"
+      "vi": "Con là sư tử nè!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "playtime-031",
       "speaker": "parent",
       "level": 2,
       "en": "What are you making?",
-      "vi": "Con đang làm gì đó?"
+      "vi": "Con đang làm gì đó?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "playtime-032",
       "speaker": "parent",
       "level": 1,
       "en": "Vroom, vroom!",
-      "vi": "Brừm brừm!"
+      "vi": "Brừm brừm!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "playtime-033",
@@ -392,6 +514,10 @@
           "en": "road",
           "vi": "con đường"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -399,7 +525,10 @@
       "speaker": "parent",
       "level": 1,
       "en": "Knock it down!",
-      "vi": "Đẩy cho đổ luôn nè!"
+      "vi": "Đẩy cho đổ luôn nè!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "playtime-035",
@@ -424,6 +553,9 @@
           "en": "big block",
           "vi": "khối to"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -431,7 +563,12 @@
       "speaker": "parent",
       "level": 2,
       "en": "Ready or not, here I come!",
-      "vi": "Trốn kỹ chưa? Đi tìm nè!"
+      "vi": "Trốn kỹ chưa? Đi tìm nè!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "playtime-037",
@@ -456,6 +593,9 @@
           "en": "doggy",
           "vi": "cún"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -463,21 +603,257 @@
       "speaker": "child",
       "level": 1,
       "en": "Watch me!",
-      "vi": "Xem con nè!"
+      "vi": "Xem con nè!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "playtime-039",
       "speaker": "child",
       "level": 1,
       "en": "I'm hiding!",
-      "vi": "Con trốn rồi nè!"
+      "vi": "Con trốn rồi nè!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "playtime-040",
       "speaker": "child",
       "level": 1,
       "en": "Fix it, please!",
-      "vi": "Sửa giùm con với!"
+      "vi": "Sửa giùm con với!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "playtime-041",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Should we play ___ after dinner?",
+      "vi": "Ăn tối xong mình chơi ___ nha?",
+      "slots": [
+        {
+          "en": "tag",
+          "vi": "rượt bắt"
+        },
+        {
+          "en": "a board game",
+          "vi": "cờ"
+        },
+        {
+          "en": "cards",
+          "vi": "bài"
+        },
+        {
+          "en": "soccer",
+          "vi": "đá banh"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playtime-042",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Remember the rules: no peeking!",
+      "vi": "Nhớ luật nha: không được nhìn lén!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playtime-043",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It's okay to lose. Let's play again!",
+      "vi": "Thua cũng không sao. Mình chơi lại nha!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playtime-044",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Who goes first?",
+      "vi": "Ai đi trước nè?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "playtime-045",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you play by yourself for ___ minutes?",
+      "vi": "Con tự chơi một mình ___ phút được không?",
+      "slots": [
+        {
+          "en": "ten",
+          "vi": "mười"
+        },
+        {
+          "en": "five",
+          "vi": "năm"
+        },
+        {
+          "en": "fifteen",
+          "vi": "mười lăm"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playtime-046",
+      "speaker": "child",
+      "level": 1,
+      "en": "I almost won!",
+      "vi": "Xíu nữa là con thắng rồi!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playtime-047",
+      "speaker": "child",
+      "level": 1,
+      "en": "That's not fair!",
+      "vi": "Vậy là không công bằng!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playtime-048",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's make a deal: ___ more minutes, then homework.",
+      "vi": "Mình thỏa thuận nha: chơi thêm ___ phút rồi làm bài tập.",
+      "slots": [
+        {
+          "en": "twenty",
+          "vi": "hai mươi"
+        },
+        {
+          "en": "ten",
+          "vi": "mười"
+        },
+        {
+          "en": "thirty",
+          "vi": "ba mươi"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "playtime-049",
+      "speaker": "parent",
+      "level": 3,
+      "en": "That's really creative. How did you come up with that?",
+      "vi": "Sáng tạo ghê. Sao con nghĩ ra được vậy?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "playtime-050",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you two can't agree, try taking turns.",
+      "vi": "Nếu hai đứa không thống nhất được thì thử thay phiên nhau nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "playtime-051",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Do you want to invite ___ over this weekend?",
+      "vi": "Cuối tuần này con muốn rủ ___ qua nhà chơi không?",
+      "slots": [
+        {
+          "en": "Minh",
+          "vi": "Minh"
+        },
+        {
+          "en": "a friend",
+          "vi": "bạn"
+        },
+        {
+          "en": "your cousin",
+          "vi": "em họ"
+        },
+        {
+          "en": "Lan",
+          "vi": "Lan"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "playtime-052",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You've been on screens long enough. Let's do something else.",
+      "vi": "Con xem màn hình lâu rồi đó. Mình chơi cái khác nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "playtime-053",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I play ___ with my friends?",
+      "vi": "Con chơi ___ với bạn được không?",
+      "slots": [
+        {
+          "en": "soccer",
+          "vi": "đá banh"
+        },
+        {
+          "en": "basketball",
+          "vi": "bóng rổ"
+        },
+        {
+          "en": "video games",
+          "vi": "điện tử"
+        },
+        {
+          "en": "tag",
+          "vi": "rượt bắt"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "playtime-054",
+      "speaker": "child",
+      "level": 3,
+      "en": "I'm bored. There's nothing to do.",
+      "vi": "Con chán quá. Chẳng có gì làm hết.",
+      "ages": [
+        "7-9"
+      ]
     }
   ],
   "dialogues": [
@@ -516,6 +892,9 @@
           "en": "Again!",
           "vi": "Chơi nữa đi!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -558,6 +937,9 @@
           "en": "When we finish, let's put the toys away.",
           "vi": "Chơi xong mình cất đồ chơi nha con."
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -605,6 +987,120 @@
           "en": "Found you!",
           "vi": "Thấy rồi nha!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "playtime-d04",
+      "titleEn": "Board game",
+      "titleVi": "Chơi cờ",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Do you want to play a board game?",
+          "vi": "Con muốn chơi cờ không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes! Who goes first?",
+          "vi": "Có! Ai đi trước?"
+        },
+        {
+          "speaker": "dad",
+          "en": "You can go first. Roll the dice!",
+          "vi": "Con đi trước đi. Đổ xúc xắc nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Five! One, two, three, four, five.",
+          "vi": "Năm! Một, hai, ba, bốn, năm."
+        },
+        {
+          "speaker": "dad",
+          "en": "Nice! Okay, my turn... oh no, I have to go back.",
+          "vi": "Hay! Rồi, tới lượt ba... ôi không, ba phải lùi lại."
+        },
+        {
+          "speaker": "child",
+          "en": "Ha ha! I won! I won!",
+          "vi": "Haha! Con thắng rồi! Con thắng rồi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Good game! Let's shake hands.",
+          "vi": "Chơi hay lắm! Mình bắt tay nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Good game, Daddy! Let's play again!",
+          "vi": "Chơi hay lắm ba! Mình chơi lại đi!"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playtime-d05",
+      "titleEn": "I'm bored",
+      "titleVi": "Con chán quá",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, I'm bored. There's nothing to do.",
+          "vi": "Mẹ ơi, con chán quá. Chẳng có gì làm hết."
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm. What about your new Lego set?",
+          "vi": "Hừm. Còn bộ Lego mới của con thì sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "I already finished it. Can I play video games?",
+          "vi": "Con ráp xong rồi. Con chơi điện tử được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "You played this morning. Let's do something else.",
+          "vi": "Sáng nay con chơi rồi. Mình làm cái khác nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Like what?",
+          "vi": "Làm gì?"
+        },
+        {
+          "speaker": "mom",
+          "en": "How about making a fort in the living room?",
+          "vi": "Hay con làm cái lều trong phòng khách đi?"
+        },
+        {
+          "speaker": "child",
+          "en": "Can I use the couch pillows?",
+          "vi": "Con lấy gối sofa được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure, if you put them back after.",
+          "vi": "Được, miễn là xong con để lại chỗ cũ."
+        },
+        {
+          "speaker": "child",
+          "en": "Deal! Will you come inside when it's done?",
+          "vi": "Chốt! Làm xong mẹ vô chơi với con nha?"
+        },
+        {
+          "speaker": "mom",
+          "en": "I'd love to. Make it big enough for me!",
+          "vi": "Mẹ thích lắm. Làm cho đủ chỗ mẹ vô nha!"
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

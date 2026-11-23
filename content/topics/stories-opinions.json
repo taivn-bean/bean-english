@@ -1,0 +1,791 @@
+{
+  "topicId": "stories-opinions",
+  "phrases": [
+    {
+      "id": "stories-opinions-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Ooh, then what?",
+      "vi": "Ồ, rồi sao nữa con?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-002",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you tell me what the ___ was about?",
+      "vi": "Con kể nghe ___ đó nói về gì đi?",
+      "slots": [
+        {
+          "en": "book",
+          "vi": "cuốn sách"
+        },
+        {
+          "en": "movie",
+          "vi": "bộ phim"
+        },
+        {
+          "en": "story",
+          "vi": "câu chuyện"
+        },
+        {
+          "en": "episode",
+          "vi": "tập phim"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Who was your favorite character? Why?",
+      "vi": "Con thích nhân vật nào nhất? Sao vậy?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-004",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What did you think of the ___?",
+      "vi": "Con thấy ___ đó sao?",
+      "slots": [
+        {
+          "en": "movie",
+          "vi": "bộ phim"
+        },
+        {
+          "en": "ending",
+          "vi": "cái kết"
+        },
+        {
+          "en": "book",
+          "vi": "cuốn sách"
+        },
+        {
+          "en": "show",
+          "vi": "chương trình"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What makes you think that?",
+      "vi": "Sao con lại nghĩ vậy?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "That's a really interesting idea.",
+      "vi": "Ý đó hay ghê ta.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I see it a little differently.",
+      "vi": "Mình thì thấy hơi khác một chút.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-008",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It's okay to disagree, as long as we're kind about it.",
+      "vi": "Không đồng ý cũng không sao, miễn là mình nói nhẹ nhàng với nhau.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-009",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What if you could ___? What would you do?",
+      "vi": "Nếu con ___ được thì con sẽ làm gì?",
+      "slots": [
+        {
+          "en": "fly",
+          "vi": "bay"
+        },
+        {
+          "en": "be invisible",
+          "vi": "tàng hình"
+        },
+        {
+          "en": "talk to animals",
+          "vi": "nói chuyện với thú vật"
+        },
+        {
+          "en": "live under the sea",
+          "vi": "sống dưới biển"
+        },
+        {
+          "en": "go to the moon",
+          "vi": "lên mặt trăng"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-010",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Start from the beginning. What happened first?",
+      "vi": "Con kể từ đầu đi. Chuyện gì xảy ra trước?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "So what did you do then?",
+      "vi": "Rồi lúc đó con làm gì?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How did the story end?",
+      "vi": "Câu chuyện kết thúc sao con?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you were the ___, what would you do?",
+      "vi": "Nếu con là ___ thì con sẽ làm gì?",
+      "slots": [
+        {
+          "en": "main character",
+          "vi": "nhân vật chính"
+        },
+        {
+          "en": "teacher",
+          "vi": "cô giáo"
+        },
+        {
+          "en": "king",
+          "vi": "nhà vua"
+        },
+        {
+          "en": "superhero",
+          "vi": "siêu anh hùng"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Which one did you like better, the book or the movie?",
+      "vi": "Con thích cái nào hơn, sách hay phim?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-015",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Hmm, good point. I didn't think of that.",
+      "vi": "Ừm, đúng ha. Mình chưa nghĩ tới chuyện đó.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-016",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you give me a reason?",
+      "vi": "Con nói lý do thử coi?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-017",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's take turns. You talk first, then me.",
+      "vi": "Mình thay phiên nha. Con nói trước, rồi tới lượt mình.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-018",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I love hearing your stories.",
+      "vi": "Nghe con kể chuyện vui ghê.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-019",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What's your favorite ___, and why?",
+      "vi": "Con thích ___ nào nhất? Tại sao?",
+      "slots": [
+        {
+          "en": "animal",
+          "vi": "con vật"
+        },
+        {
+          "en": "food",
+          "vi": "món"
+        },
+        {
+          "en": "book",
+          "vi": "cuốn sách"
+        },
+        {
+          "en": "season",
+          "vi": "mùa"
+        },
+        {
+          "en": "subject",
+          "vi": "môn học"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-020",
+      "speaker": "child",
+      "level": 3,
+      "en": "My favorite part was when ___.",
+      "vi": "Con thích nhất đoạn ___.",
+      "slots": [
+        {
+          "en": "the dragon flew away",
+          "vi": "con rồng bay đi"
+        },
+        {
+          "en": "they found the treasure",
+          "vi": "họ tìm thấy kho báu"
+        },
+        {
+          "en": "the dog came home",
+          "vi": "con chó về nhà"
+        },
+        {
+          "en": "everyone was dancing",
+          "vi": "mọi người nhảy múa"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-021",
+      "speaker": "child",
+      "level": 3,
+      "en": "I think the book was better because it had more details.",
+      "vi": "Con thấy sách hay hơn vì có nhiều chi tiết hơn.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-022",
+      "speaker": "child",
+      "level": 3,
+      "en": "I don't really agree, because ___.",
+      "vi": "Con không đồng ý lắm, vì ___.",
+      "slots": [
+        {
+          "en": "it was too long",
+          "vi": "nó dài quá"
+        },
+        {
+          "en": "the ending was sad",
+          "vi": "cái kết buồn quá"
+        },
+        {
+          "en": "the main character was mean",
+          "vi": "nhân vật chính xấu tính quá"
+        },
+        {
+          "en": "it was kind of boring",
+          "vi": "nó hơi chán"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-023",
+      "speaker": "child",
+      "level": 2,
+      "en": "Guess what happened at school today!",
+      "vi": "Mẹ đoán coi hôm nay ở trường có chuyện gì nè!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-024",
+      "speaker": "child",
+      "level": 2,
+      "en": "You won't believe what happened!",
+      "vi": "Mẹ không tin nổi đâu, có chuyện này nè!",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-025",
+      "speaker": "child",
+      "level": 3,
+      "en": "What if dogs could talk? That would be so funny.",
+      "vi": "Nếu chó biết nói thì sao ha? Chắc vui lắm.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-026",
+      "speaker": "child",
+      "level": 3,
+      "en": "I like ___ the best because it's so fun.",
+      "vi": "Con thích ___ nhất vì vui lắm.",
+      "slots": [
+        {
+          "en": "recess",
+          "vi": "giờ ra chơi"
+        },
+        {
+          "en": "soccer",
+          "vi": "đá banh"
+        },
+        {
+          "en": "art class",
+          "vi": "giờ mỹ thuật"
+        },
+        {
+          "en": "swimming",
+          "vi": "đi bơi"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-027",
+      "speaker": "child",
+      "level": 3,
+      "en": "I see what you mean, but I still like my idea better.",
+      "vi": "Con hiểu ý mẹ, nhưng con vẫn thích ý của con hơn.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-028",
+      "speaker": "child",
+      "level": 3,
+      "en": "Wait, let me tell it from the beginning.",
+      "vi": "Khoan, để con kể lại từ đầu.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-029",
+      "speaker": "child",
+      "level": 3,
+      "en": "It was kind of scary, but I liked it.",
+      "vi": "Hơi sợ chút, mà con thích.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "stories-opinions-030",
+      "speaker": "child",
+      "level": 3,
+      "en": "If I had a superpower, I'd want to ___.",
+      "vi": "Nếu con có siêu năng lực, con muốn ___.",
+      "slots": [
+        {
+          "en": "fly",
+          "vi": "bay"
+        },
+        {
+          "en": "be invisible",
+          "vi": "tàng hình"
+        },
+        {
+          "en": "read minds",
+          "vi": "đọc được suy nghĩ người khác"
+        },
+        {
+          "en": "stop time",
+          "vi": "ngừng thời gian lại"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "stories-opinions-d01",
+      "titleEn": "The field trip",
+      "titleVi": "Chuyến đi dã ngoại",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "How was the field trip? Tell me everything!",
+          "vi": "Đi dã ngoại sao rồi con? Kể ba nghe hết đi!"
+        },
+        {
+          "speaker": "child",
+          "en": "It was so fun! We went to the science museum.",
+          "vi": "Vui lắm ba! Tụi con đi bảo tàng khoa học."
+        },
+        {
+          "speaker": "dad",
+          "en": "Cool! What did you see first?",
+          "vi": "Hay quá! Con coi cái gì trước?"
+        },
+        {
+          "speaker": "child",
+          "en": "First we saw a huge dinosaur skeleton. It was taller than our house!",
+          "vi": "Đầu tiên tụi con coi bộ xương khủng long khổng lồ. Nó cao hơn nhà mình luôn!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Wow, no way! Then what happened?",
+          "vi": "Trời, thiệt hả! Rồi sao nữa?"
+        },
+        {
+          "speaker": "child",
+          "en": "Then we did an experiment, and Ben's volcano exploded everywhere.",
+          "vi": "Rồi tụi con làm thí nghiệm, núi lửa của Ben phun tung tóe khắp nơi."
+        },
+        {
+          "speaker": "dad",
+          "en": "Ha! Was anybody upset?",
+          "vi": "Haha! Có ai bực không con?"
+        },
+        {
+          "speaker": "child",
+          "en": "No, everyone was laughing. Even the teacher!",
+          "vi": "Không, ai cũng cười hết. Cô giáo cũng cười!"
+        },
+        {
+          "speaker": "dad",
+          "en": "What was your favorite part of the whole day?",
+          "vi": "Cả ngày con thích nhất đoạn nào?"
+        },
+        {
+          "speaker": "child",
+          "en": "The dinosaurs, for sure. Can we go back there together?",
+          "vi": "Khủng long chắc luôn. Nhà mình quay lại đó được không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "I'd love that. Let's plan it for a weekend.",
+          "vi": "Ba thích lắm. Mình tính một bữa cuối tuần đi nha."
+        }
+      ]
+    },
+    {
+      "id": "stories-opinions-d02",
+      "titleEn": "Book or movie?",
+      "titleVi": "Sách hay phim?",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "So, you read the book, and now you've seen the movie. Which one was better?",
+          "vi": "Vậy là con đọc sách rồi, giờ coi phim rồi. Cái nào hay hơn?"
+        },
+        {
+          "speaker": "child",
+          "en": "The book, definitely.",
+          "vi": "Sách chứ mẹ."
+        },
+        {
+          "speaker": "mom",
+          "en": "Really? Why do you say that?",
+          "vi": "Thiệt hả? Sao con nói vậy?"
+        },
+        {
+          "speaker": "child",
+          "en": "Because the movie left out a lot of the good parts.",
+          "vi": "Vì phim bỏ bớt nhiều đoạn hay quá."
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm, I actually liked the movie more. The music was amazing.",
+          "vi": "Ừm, mẹ thì lại thích phim hơn. Nhạc hay cực."
+        },
+        {
+          "speaker": "child",
+          "en": "That's true, the music was good. But the ending was different.",
+          "vi": "Cái đó đúng, nhạc hay. Nhưng cái kết khác."
+        },
+        {
+          "speaker": "mom",
+          "en": "Which ending did you like better?",
+          "vi": "Con thích cái kết nào hơn?"
+        },
+        {
+          "speaker": "child",
+          "en": "The book's ending. It was happier, and the dog didn't get lost.",
+          "vi": "Kết trong sách. Vui hơn, mà con chó cũng không bị lạc."
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay, I see your point. I guess we just like different things.",
+          "vi": "Ừ, mẹ hiểu ý con. Chắc mỗi người thích một kiểu ha."
+        },
+        {
+          "speaker": "child",
+          "en": "That's okay. Can we read the next book together?",
+          "vi": "Không sao đâu mẹ. Mình đọc cuốn tiếp theo chung nha?"
+        }
+      ]
+    },
+    {
+      "id": "stories-opinions-d03",
+      "titleEn": "What if we lived on the moon?",
+      "titleVi": "Nếu mình sống trên mặt trăng?",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Dad, what if we lived on the moon?",
+          "vi": "Ba ơi, nếu nhà mình sống trên mặt trăng thì sao?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Ooh, interesting! What do you think it would be like?",
+          "vi": "Ồ, hay đó! Con nghĩ sẽ như thế nào?"
+        },
+        {
+          "speaker": "child",
+          "en": "I think it'd be awesome, because we could jump really high.",
+          "vi": "Con nghĩ sẽ đã lắm, vì mình nhảy cao được lắm."
+        },
+        {
+          "speaker": "mom",
+          "en": "True! But what would we eat up there?",
+          "vi": "Đúng ha! Mà trên đó mình ăn gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "Hmm... we could grow vegetables in a big glass dome.",
+          "vi": "Ừm... mình trồng rau trong một cái mái vòm bằng kính thiệt bự."
+        },
+        {
+          "speaker": "dad",
+          "en": "That's really smart. What about school?",
+          "vi": "Thông minh ghê. Còn đi học thì sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "No school on the moon! That's the best part.",
+          "vi": "Trên mặt trăng không có trường học! Vậy mới đã."
+        },
+        {
+          "speaker": "mom",
+          "en": "Nice try! I bet there'd still be a moon school.",
+          "vi": "Khéo ghê ta! Mẹ đoán chắc vẫn có trường trên mặt trăng đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, but only if recess is all day.",
+          "vi": "Thôi được, nhưng giờ ra chơi phải cả ngày."
+        },
+        {
+          "speaker": "dad",
+          "en": "Ha! I'd go to that school.",
+          "vi": "Haha! Trường đó ba cũng muốn đi."
+        }
+      ]
+    },
+    {
+      "id": "stories-opinions-d04",
+      "titleEn": "A disagreement with a friend",
+      "titleVi": "Bất đồng với bạn",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, Leo said my drawing was boring, and I got really mad.",
+          "vi": "Mẹ ơi, Leo nói tranh con vẽ chán, con tức lắm."
+        },
+        {
+          "speaker": "mom",
+          "en": "Oh no. What did you say to him?",
+          "vi": "Ôi. Rồi con nói gì với bạn?"
+        },
+        {
+          "speaker": "child",
+          "en": "I said his drawing was boring too. Then we stopped talking.",
+          "vi": "Con nói tranh bạn cũng chán. Rồi hai đứa không nói chuyện nữa."
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm. How do you think he felt?",
+          "vi": "Ừm. Con nghĩ bạn thấy sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Probably bad, like me.",
+          "vi": "Chắc cũng buồn, giống con."
+        },
+        {
+          "speaker": "mom",
+          "en": "It's okay to have different opinions. But we can say them in a kind way.",
+          "vi": "Mỗi người nghĩ khác nhau cũng không sao. Nhưng mình nói sao cho nhẹ nhàng."
+        },
+        {
+          "speaker": "child",
+          "en": "Like what?",
+          "vi": "Là nói sao mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "You could say, \"I like the colors, but maybe add more details.\"",
+          "vi": "Con có thể nói: \"Tớ thích màu, mà thêm chi tiết nữa chắc đẹp hơn.\""
+        },
+        {
+          "speaker": "child",
+          "en": "Oh. That sounds nicer. Maybe I'll say sorry tomorrow.",
+          "vi": "À. Nghe dễ thương hơn. Chắc mai con xin lỗi bạn."
+        },
+        {
+          "speaker": "mom",
+          "en": "I think that's a great idea. I'm proud of you.",
+          "vi": "Mẹ thấy vậy hay đó. Mẹ tự hào về con."
+        }
+      ]
+    },
+    {
+      "id": "stories-opinions-d05",
+      "titleEn": "Your turn to tell a story",
+      "titleVi": "Tới lượt con kể chuyện",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Tonight, how about you tell me a story?",
+          "vi": "Tối nay con kể chuyện cho ba nghe nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay! Once upon a time, there was a cat who could talk.",
+          "vi": "Dạ! Ngày xửa ngày xưa, có một con mèo biết nói."
+        },
+        {
+          "speaker": "dad",
+          "en": "A talking cat! What did it say?",
+          "vi": "Mèo biết nói! Nó nói gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "It said, \"I'm tired of fish. I want pizza!\"",
+          "vi": "Nó nói: \"Tui ngán cá rồi. Tui muốn ăn pizza!\""
+        },
+        {
+          "speaker": "dad",
+          "en": "Ha! So what happened next?",
+          "vi": "Haha! Rồi sao nữa?"
+        },
+        {
+          "speaker": "child",
+          "en": "It snuck into a pizza shop at night, but the owner caught it.",
+          "vi": "Ban đêm nó lẻn vô tiệm pizza, mà bị ông chủ bắt được."
+        },
+        {
+          "speaker": "dad",
+          "en": "Uh-oh. Was the cat in big trouble?",
+          "vi": "Ôi. Con mèo bị rắc rối to rồi hả?"
+        },
+        {
+          "speaker": "child",
+          "en": "No, the owner was nice. He gave it a job as a pizza taster!",
+          "vi": "Không, ông chủ tốt lắm. Ông cho nó làm chân nếm thử pizza luôn!"
+        },
+        {
+          "speaker": "dad",
+          "en": "That's the best ending ever. You're a great storyteller.",
+          "vi": "Kết hay nhất luôn. Con kể chuyện giỏi ghê."
+        },
+        {
+          "speaker": "child",
+          "en": "Thanks! Tomorrow it's your turn again.",
+          "vi": "Cảm ơn ba! Mai tới lượt ba kể nha."
+        }
+      ]
+    }
+  ]
+}

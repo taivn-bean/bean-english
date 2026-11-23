@@ -1,0 +1,733 @@
+{
+  "topicId": "games-rules",
+  "phrases": [
+    {
+      "id": "games-rules-001",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Want to play ___ with me?",
+      "vi": "Con muốn chơi ___ với mình không?",
+      "slots": [
+        {
+          "en": "hide and seek",
+          "vi": "trốn tìm"
+        },
+        {
+          "en": "tag",
+          "vi": "rượt bắt"
+        },
+        {
+          "en": "Uno",
+          "vi": "Uno"
+        },
+        {
+          "en": "Simon Says",
+          "vi": "Simon nói"
+        },
+        {
+          "en": "Snakes and Ladders",
+          "vi": "cờ rắn"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's read the rules first.",
+      "vi": "Mình đọc luật chơi trước nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "games-rules-003",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Roll the dice and move your piece.",
+      "vi": "Con đổ xúc xắc rồi đi quân cờ nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You rolled a ___!",
+      "vi": "Con đổ ra ___ nè!",
+      "slots": [
+        {
+          "en": "six",
+          "vi": "sáu"
+        },
+        {
+          "en": "three",
+          "vi": "ba"
+        },
+        {
+          "en": "one",
+          "vi": "một"
+        },
+        {
+          "en": "four",
+          "vi": "bốn"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Whose turn is it?",
+      "vi": "Tới lượt ai rồi?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "games-rules-006",
+      "speaker": "parent",
+      "level": 1,
+      "en": "It's ___ turn.",
+      "vi": "Tới lượt ___.",
+      "slots": [
+        {
+          "en": "your",
+          "vi": "con"
+        },
+        {
+          "en": "Grandma's",
+          "vi": "bà"
+        },
+        {
+          "en": "your sister's",
+          "vi": "em"
+        },
+        {
+          "en": "my",
+          "vi": "mình"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-007",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's roll to see who goes first.",
+      "vi": "Mình đổ xúc xắc coi ai đi trước nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-008",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What happens if you land on a ladder?",
+      "vi": "Nếu con đi trúng cái thang thì sao?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I'll count to ___. Go hide!",
+      "vi": "Mình đếm tới ___ nha. Con đi trốn đi!",
+      "slots": [
+        {
+          "en": "twenty",
+          "vi": "hai mươi"
+        },
+        {
+          "en": "ten",
+          "vi": "mười"
+        },
+        {
+          "en": "thirty",
+          "vi": "ba mươi"
+        },
+        {
+          "en": "fifty",
+          "vi": "năm mươi"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-010",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Okay, here I come! Where are you?",
+      "vi": "Rồi, đi tìm nè! Con trốn ở đâu ta?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-011",
+      "speaker": "parent",
+      "level": 1,
+      "en": "No peeking!",
+      "vi": "Không được nhìn lén nha!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You're it! Try to tag me!",
+      "vi": "Con làm người đi bắt nha! Bắt mình đi!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Simon says, ___!",
+      "vi": "Simon nói: ___!",
+      "slots": [
+        {
+          "en": "touch your nose",
+          "vi": "chạm vào mũi"
+        },
+        {
+          "en": "jump three times",
+          "vi": "nhảy ba cái"
+        },
+        {
+          "en": "hop on one foot",
+          "vi": "nhảy lò cò"
+        },
+        {
+          "en": "clap your hands",
+          "vi": "vỗ tay"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-014",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Oops, I didn't say \"Simon says\"!",
+      "vi": "Ối, mình chưa nói \"Simon nói\" mà!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-015",
+      "speaker": "parent",
+      "level": 3,
+      "en": "That's not fair. Let's play by the rules.",
+      "vi": "Vậy là không công bằng. Mình chơi đúng luật nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "games-rules-016",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It's okay to lose. It's just a game.",
+      "vi": "Thua cũng không sao. Chỉ là trò chơi thôi mà.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "games-rules-017",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You won! Good game!",
+      "vi": "Con thắng rồi! Chơi hay lắm!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-018",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Winning isn't everything. Did you have fun?",
+      "vi": "Thắng thua không quan trọng. Con chơi có vui không?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "games-rules-019",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You look upset. Do you want to take a break?",
+      "vi": "Nhìn con có vẻ bực. Con muốn nghỉ chút không?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "games-rules-020",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you explain the rules to ___?",
+      "vi": "Con giải thích luật chơi cho ___ được không?",
+      "slots": [
+        {
+          "en": "me",
+          "vi": "mình"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "your little brother",
+          "vi": "em trai"
+        },
+        {
+          "en": "your friend",
+          "vi": "bạn"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "games-rules-021",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can we play one more time?",
+      "vi": "Mình chơi thêm một lần nữa được không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-022",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I be the ___ one?",
+      "vi": "Con lấy quân màu ___ được không?",
+      "slots": [
+        {
+          "en": "red",
+          "vi": "đỏ"
+        },
+        {
+          "en": "blue",
+          "vi": "xanh dương"
+        },
+        {
+          "en": "green",
+          "vi": "xanh lá"
+        },
+        {
+          "en": "yellow",
+          "vi": "vàng"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-023",
+      "speaker": "child",
+      "level": 2,
+      "en": "Is it my turn yet?",
+      "vi": "Tới lượt con chưa?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-024",
+      "speaker": "child",
+      "level": 1,
+      "en": "Hey, no cheating!",
+      "vi": "Ê, không được ăn gian!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "games-rules-025",
+      "speaker": "child",
+      "level": 1,
+      "en": "Yay, I won!",
+      "vi": "Hoan hô, con thắng rồi!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-026",
+      "speaker": "child",
+      "level": 1,
+      "en": "I lost again...",
+      "vi": "Con lại thua nữa rồi...",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-027",
+      "speaker": "child",
+      "level": 1,
+      "en": "Good game, ___!",
+      "vi": "___ chơi hay quá!",
+      "slots": [
+        {
+          "en": "Dad",
+          "vi": "Ba"
+        },
+        {
+          "en": "Mom",
+          "vi": "Mẹ"
+        },
+        {
+          "en": "Minh",
+          "vi": "Minh"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "Ông"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "Tag, you're it!",
+      "vi": "Bắt được rồi! Tới bạn đi bắt đó!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "games-rules-029",
+      "speaker": "child",
+      "level": 2,
+      "en": "That's not the rule!",
+      "vi": "Luật đâu có vậy!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "games-rules-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "Let's make a new rule!",
+      "vi": "Mình đặt luật mới đi!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "games-rules-d01",
+      "titleEn": "Snakes and Ladders",
+      "titleVi": "Chơi cờ rắn",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Want to play Snakes and Ladders?",
+          "vi": "Con muốn chơi cờ rắn không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes! Can I be the red one?",
+          "vi": "Dạ! Con lấy quân đỏ nha?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure. Highest roll goes first.",
+          "vi": "Được. Ai đổ ra số lớn nhất thì đi trước."
+        },
+        {
+          "speaker": "child",
+          "en": "I got a five!",
+          "vi": "Con ra năm nè!"
+        },
+        {
+          "speaker": "dad",
+          "en": "I got a two. You go first!",
+          "vi": "Ba ra hai. Con đi trước!"
+        },
+        {
+          "speaker": "child",
+          "en": "One, two, three, four, five... a ladder!",
+          "vi": "Một, hai, ba, bốn, năm... trúng cái thang!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Wow, climb up! Lucky you!",
+          "vi": "Oa, leo lên đi! Con hên ghê!"
+        },
+        {
+          "speaker": "child",
+          "en": "Your turn, Dad!",
+          "vi": "Tới lượt ba!"
+        }
+      ]
+    },
+    {
+      "id": "games-rules-d02",
+      "titleEn": "Hide and seek",
+      "titleVi": "Chơi trốn tìm",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, let's play hide and seek!",
+          "vi": "Mẹ ơi, chơi trốn tìm đi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay! You hide, and I'll count to twenty.",
+          "vi": "Được! Con trốn, mẹ đếm tới hai mươi nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Close your eyes! No peeking!",
+          "vi": "Mẹ nhắm mắt lại! Không được nhìn lén!"
+        },
+        {
+          "speaker": "mom",
+          "en": "...eighteen, nineteen, twenty! Ready or not, here I come!",
+          "vi": "...mười tám, mười chín, hai mươi! Mẹ đi tìm nè!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm, behind the couch? Nope. Under the bed?",
+          "vi": "Hừm, sau ghế sofa hả? Không có. Dưới gầm giường hả?"
+        },
+        {
+          "speaker": "child",
+          "en": "Hee hee!",
+          "vi": "Hí hí!"
+        },
+        {
+          "speaker": "mom",
+          "en": "I hear giggling... Found you!",
+          "vi": "Mẹ nghe tiếng cười nè... Tìm thấy con rồi!"
+        },
+        {
+          "speaker": "child",
+          "en": "Aww! Now you hide, Mom!",
+          "vi": "Ây da! Giờ tới mẹ trốn đi!",
+          "ipa": "/ɔ naʊ ju haɪd mɑm/"
+        }
+      ]
+    },
+    {
+      "id": "games-rules-d03",
+      "titleEn": "Losing is hard",
+      "titleVi": "Thua cũng buồn ghê",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "I lost again! I hate this game!",
+          "vi": "Con lại thua nữa! Con ghét trò này!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Oh, buddy. Losing feels bad, huh?",
+          "vi": "Ôi con. Thua thì buồn lắm ha?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yeah. I always lose.",
+          "vi": "Dạ. Lúc nào con cũng thua."
+        },
+        {
+          "speaker": "dad",
+          "en": "You won yesterday, remember?",
+          "vi": "Hôm qua con thắng mà, nhớ không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Oh, yeah.",
+          "vi": "À, đúng rồi."
+        },
+        {
+          "speaker": "dad",
+          "en": "It's okay to feel mad. Let's take a deep breath.",
+          "vi": "Giận cũng không sao. Mình hít thở sâu nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay... Can we play again?",
+          "vi": "Dạ... Mình chơi lại được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure! And win or lose, we say \"Good game,\" okay?",
+          "vi": "Được chứ! Thắng hay thua mình cũng nói \"Chơi hay lắm\" nha?"
+        }
+      ]
+    },
+    {
+      "id": "games-rules-d04",
+      "titleEn": "Simon Says",
+      "titleVi": "Chơi Simon nói",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Let's play Simon Says! Ready?",
+          "vi": "Mình chơi Simon nói nha! Sẵn sàng chưa?"
+        },
+        {
+          "speaker": "child",
+          "en": "Ready!",
+          "vi": "Sẵn sàng!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Simon says, touch your head!",
+          "vi": "Simon nói: chạm vào đầu!"
+        },
+        {
+          "speaker": "child",
+          "en": "Easy!",
+          "vi": "Dễ ợt!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Simon says, hop on one foot!",
+          "vi": "Simon nói: nhảy lò cò!"
+        },
+        {
+          "speaker": "child",
+          "en": "Whoa... I'm wobbly!",
+          "vi": "Ui... con lắc lư quá!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Now sit down!",
+          "vi": "Giờ ngồi xuống!"
+        },
+        {
+          "speaker": "child",
+          "en": "Ha! You didn't say \"Simon says\"!",
+          "vi": "Ha! Mẹ chưa nói \"Simon nói\" mà!"
+        },
+        {
+          "speaker": "mom",
+          "en": "You got me! You're really good at this.",
+          "vi": "Con bắt bài mẹ rồi! Con chơi giỏi thật đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Can I be Simon now?",
+          "vi": "Giờ con làm Simon được không?"
+        }
+      ]
+    },
+    {
+      "id": "games-rules-d05",
+      "titleEn": "Teaching Dad a card game",
+      "titleVi": "Chỉ ba chơi bài",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Can you teach me this card game?",
+          "vi": "Con chỉ ba chơi trò bài này được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Everybody gets five cards.",
+          "vi": "Dạ. Mỗi người được năm lá."
+        },
+        {
+          "speaker": "dad",
+          "en": "Got it. Then what?",
+          "vi": "Ba hiểu rồi. Rồi sao nữa?"
+        },
+        {
+          "speaker": "child",
+          "en": "You match the color or the number.",
+          "vi": "Mình đánh lá cùng màu hoặc cùng số."
+        },
+        {
+          "speaker": "dad",
+          "en": "What if I can't match?",
+          "vi": "Nếu ba không có lá nào hợp thì sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Then you take a card.",
+          "vi": "Thì ba bốc thêm một lá."
+        },
+        {
+          "speaker": "dad",
+          "en": "And how do I win?",
+          "vi": "Vậy sao ba thắng được?"
+        },
+        {
+          "speaker": "child",
+          "en": "Get rid of all your cards first!",
+          "vi": "Ai đánh hết bài trước là thắng!"
+        },
+        {
+          "speaker": "dad",
+          "en": "You explained that really well. Let's play!",
+          "vi": "Con giải thích dễ hiểu lắm. Chơi thôi!"
+        }
+      ]
+    }
+  ]
+}

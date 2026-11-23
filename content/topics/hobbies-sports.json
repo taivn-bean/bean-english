@@ -1,0 +1,776 @@
+{
+  "topicId": "hobbies-sports",
+  "phrases": [
+    {
+      "id": "hobbies-sports-001",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How was ___ today?",
+      "vi": "Hôm nay ___ sao rồi con?",
+      "slots": [
+        {
+          "en": "swim practice",
+          "vi": "buổi tập bơi"
+        },
+        {
+          "en": "soccer practice",
+          "vi": "buổi tập đá banh"
+        },
+        {
+          "en": "your piano lesson",
+          "vi": "buổi học piano"
+        },
+        {
+          "en": "art class",
+          "vi": "lớp vẽ"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-002",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Did you have fun? That's what matters.",
+      "vi": "Con chơi có vui không? Vậy là được rồi.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-003",
+      "speaker": "parent",
+      "level": 3,
+      "en": "The more you practice, the easier it gets.",
+      "vi": "Càng tập nhiều thì càng dễ con à.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Did you practice ___ today?",
+      "vi": "Hôm nay con tập ___ chưa?",
+      "slots": [
+        {
+          "en": "piano",
+          "vi": "đàn piano"
+        },
+        {
+          "en": "guitar",
+          "vi": "đàn guitar"
+        },
+        {
+          "en": "your dance",
+          "vi": "nhảy"
+        },
+        {
+          "en": "violin",
+          "vi": "đàn violin"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Did you pack your ___?",
+      "vi": "Con bỏ ___ vào túi chưa?",
+      "slots": [
+        {
+          "en": "swim goggles",
+          "vi": "kính bơi"
+        },
+        {
+          "en": "shin guards",
+          "vi": "miếng bảo vệ ống chân"
+        },
+        {
+          "en": "water bottle",
+          "vi": "bình nước"
+        },
+        {
+          "en": "ballet shoes",
+          "vi": "giày múa"
+        },
+        {
+          "en": "music book",
+          "vi": "sách nhạc"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-006",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Practice is at four, so we leave at three thirty.",
+      "vi": "Bốn giờ tập, nên ba giờ rưỡi mình đi nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-007",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You don't have to win. Just do your best.",
+      "vi": "Không cần phải thắng đâu. Con cố hết sức là được.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I loved watching you play today.",
+      "vi": "Hôm nay được xem con chơi, mình thích lắm.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-009",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Losing is hard. It's okay to feel upset.",
+      "vi": "Thua thì buồn lắm. Con thấy buồn cũng không sao.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You worked really hard out there.",
+      "vi": "Con đã cố gắng hết mình trên sân rồi.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you want to try ___?",
+      "vi": "Con có muốn thử ___ không?",
+      "slots": [
+        {
+          "en": "basketball",
+          "vi": "chơi bóng rổ"
+        },
+        {
+          "en": "karate",
+          "vi": "học võ karate"
+        },
+        {
+          "en": "gymnastics",
+          "vi": "tập thể dục dụng cụ"
+        },
+        {
+          "en": "ballet",
+          "vi": "học múa ba lê"
+        },
+        {
+          "en": "chess",
+          "vi": "chơi cờ vua"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-012",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Try it for a few weeks before you decide.",
+      "vi": "Con thử vài tuần rồi hãy quyết định nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Everybody's a beginner at first.",
+      "vi": "Lúc đầu ai cũng là người mới hết.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Remember to pass the ball to your teammates.",
+      "vi": "Nhớ chuyền banh cho đồng đội nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-015",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Did you cheer for your teammates?",
+      "vi": "Con có cổ vũ cho đồng đội không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-016",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Go shake hands with the other team.",
+      "vi": "Con ra bắt tay đội bạn đi.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-017",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You have ___ on Saturday.",
+      "vi": "Thứ Bảy con có ___ nha.",
+      "slots": [
+        {
+          "en": "a soccer game",
+          "vi": "trận đá banh"
+        },
+        {
+          "en": "a swim meet",
+          "vi": "buổi thi bơi"
+        },
+        {
+          "en": "a piano recital",
+          "vi": "buổi biểu diễn piano"
+        },
+        {
+          "en": "an art show",
+          "vi": "buổi triển lãm tranh"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-018",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You're getting so much better at ___!",
+      "vi": "Con ___ tiến bộ nhiều lắm đó!",
+      "slots": [
+        {
+          "en": "swimming",
+          "vi": "bơi"
+        },
+        {
+          "en": "drawing",
+          "vi": "vẽ"
+        },
+        {
+          "en": "playing piano",
+          "vi": "đàn piano"
+        },
+        {
+          "en": "kicking the ball",
+          "vi": "sút banh"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-019",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I quit piano? It's boring.",
+      "vi": "Con nghỉ học piano được không? Chán quá.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-020",
+      "speaker": "child",
+      "level": 3,
+      "en": "I want to try out for the team.",
+      "vi": "Con muốn thi tuyển vào đội.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-021",
+      "speaker": "child",
+      "level": 3,
+      "en": "We lost, but I scored a goal!",
+      "vi": "Đội con thua, nhưng con ghi được một bàn!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-022",
+      "speaker": "child",
+      "level": 3,
+      "en": "I'm really good at ___ now.",
+      "vi": "Giờ con ___ giỏi lắm rồi.",
+      "slots": [
+        {
+          "en": "floating on my back",
+          "vi": "nổi ngửa"
+        },
+        {
+          "en": "dribbling",
+          "vi": "dẫn banh"
+        },
+        {
+          "en": "drawing animals",
+          "vi": "vẽ con vật"
+        },
+        {
+          "en": "diving",
+          "vi": "lặn"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-023",
+      "speaker": "child",
+      "level": 3,
+      "en": "My coach said I did a great job.",
+      "vi": "Huấn luyện viên khen con làm tốt lắm.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-024",
+      "speaker": "child",
+      "level": 2,
+      "en": "I'm nervous about the game tomorrow.",
+      "vi": "Con hồi hộp về trận đấu ngày mai quá.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-025",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can you come to my ___?",
+      "vi": "Ba mẹ đi xem ___ của con được không?",
+      "slots": [
+        {
+          "en": "game",
+          "vi": "trận đấu"
+        },
+        {
+          "en": "recital",
+          "vi": "buổi biểu diễn"
+        },
+        {
+          "en": "swim meet",
+          "vi": "buổi thi bơi"
+        },
+        {
+          "en": "art show",
+          "vi": "buổi triển lãm"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-026",
+      "speaker": "child",
+      "level": 3,
+      "en": "I want to do it, but I'm scared I'll mess up.",
+      "vi": "Con muốn làm, mà sợ làm hỏng.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-027",
+      "speaker": "child",
+      "level": 3,
+      "en": "That's not fair. The referee didn't even see it!",
+      "vi": "Không công bằng. Trọng tài đâu có thấy gì!",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I practice later? I'm tired.",
+      "vi": "Lát con tập được không? Con mệt quá.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-029",
+      "speaker": "child",
+      "level": 3,
+      "en": "Look what I drew in art class!",
+      "vi": "Coi con vẽ gì ở lớp vẽ nè!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "hobbies-sports-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can we practice together this weekend?",
+      "vi": "Cuối tuần mình tập chung được không?",
+      "ages": [
+        "7-9"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "hobbies-sports-d01",
+      "titleEn": "I want to quit piano",
+      "titleVi": "Con muốn nghỉ học piano",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, can I quit piano? I'm so bored of it.",
+          "vi": "Mẹ ơi, con nghỉ học piano được không? Con chán lắm rồi."
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm, what part is boring?",
+          "vi": "Hmm, con thấy chán chỗ nào?"
+        },
+        {
+          "speaker": "child",
+          "en": "Practicing the same song over and over.",
+          "vi": "Ngày nào cũng tập đi tập lại một bài."
+        },
+        {
+          "speaker": "mom",
+          "en": "That makes sense. Playing the same thing every day can get old.",
+          "vi": "Mẹ hiểu. Ngày nào cũng đàn một bài thì chán thật."
+        },
+        {
+          "speaker": "child",
+          "en": "And my friends get to play outside while I practice.",
+          "vi": "Mà tụi bạn con được ra ngoài chơi trong lúc con phải tập."
+        },
+        {
+          "speaker": "mom",
+          "en": "What if you picked a song you actually like?",
+          "vi": "Hay là con chọn một bài con thích thì sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Like a song from a movie?",
+          "vi": "Như bài trong phim hả mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure. Let's ask your teacher. And let's finish this term before we decide.",
+          "vi": "Được chứ. Mình hỏi cô thử nha. Học hết khóa này rồi mình tính tiếp."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. But if I still hate it, can I stop?",
+          "vi": "Dạ. Nhưng nếu con vẫn ghét thì con nghỉ được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Then we'll talk about it again. Deal?",
+          "vi": "Lúc đó mình nói chuyện lại nha. Chịu không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Deal.",
+          "vi": "Chịu."
+        }
+      ]
+    },
+    {
+      "id": "hobbies-sports-d02",
+      "titleEn": "After a tough game",
+      "titleVi": "Sau một trận thua",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Hey, you played really hard today.",
+          "vi": "Nè, hôm nay con chơi hết mình luôn đó."
+        },
+        {
+          "speaker": "child",
+          "en": "But we lost. Three to one.",
+          "vi": "Nhưng đội con thua. Thua tới ba-một."
+        },
+        {
+          "speaker": "dad",
+          "en": "I know. Losing is no fun.",
+          "vi": "Ba biết. Thua thì chẳng vui gì."
+        },
+        {
+          "speaker": "child",
+          "en": "And I missed an easy shot. It's all my fault.",
+          "vi": "Mà con còn sút hụt một quả dễ ợt. Tại con hết."
+        },
+        {
+          "speaker": "dad",
+          "en": "Hey, one shot doesn't lose a game. You're a team.",
+          "vi": "Nè, một cú sút đâu làm thua cả trận. Cả đội mà."
+        },
+        {
+          "speaker": "child",
+          "en": "I guess. Jake missed two.",
+          "vi": "Chắc vậy. Jake còn hụt hai quả."
+        },
+        {
+          "speaker": "dad",
+          "en": "Ha, see? Everybody misses sometimes. What went well?",
+          "vi": "Haha, thấy chưa? Ai cũng có lúc hụt. Có gì con làm tốt không?"
+        },
+        {
+          "speaker": "child",
+          "en": "I stole the ball from that really tall kid!",
+          "vi": "Con cướp được banh từ bạn cao nhồng đó!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yeah, you did! That was awesome.",
+          "vi": "Đúng rồi! Pha đó đỉnh lắm."
+        },
+        {
+          "speaker": "child",
+          "en": "Can we practice shooting this weekend?",
+          "vi": "Cuối tuần mình tập sút được không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "You bet. Saturday morning, at the park.",
+          "vi": "Chắc chắn rồi. Sáng thứ Bảy, ra công viên."
+        }
+      ]
+    },
+    {
+      "id": "hobbies-sports-d03",
+      "titleEn": "First swim lesson",
+      "titleVi": "Buổi học bơi đầu tiên",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Ready for your first swim lesson?",
+          "vi": "Sẵn sàng cho buổi học bơi đầu tiên chưa con?"
+        },
+        {
+          "speaker": "child",
+          "en": "Kind of. What if I can't do it?",
+          "vi": "Cũng hơi hơi. Lỡ con không bơi được thì sao?"
+        },
+        {
+          "speaker": "mom",
+          "en": "That's why you're taking lessons. Nobody knows how at first.",
+          "vi": "Vậy nên mới đi học đó con. Lúc đầu ai cũng chưa biết."
+        },
+        {
+          "speaker": "child",
+          "en": "What if the water's too deep?",
+          "vi": "Lỡ nước sâu quá thì sao?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Beginners start in the shallow end, and the coach stays right next to you.",
+          "vi": "Người mới học ở chỗ cạn, thầy dạy bơi ở ngay bên cạnh con."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Do I have my goggles?",
+          "vi": "Dạ. Con có mang kính bơi chưa mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Right here, and your towel too.",
+          "vi": "Đây nè, khăn tắm nữa."
+        },
+        {
+          "speaker": "child",
+          "en": "Mom! I put my whole face in the water!",
+          "vi": "Mẹ ơi! Con úp nguyên mặt xuống nước luôn!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow, on the first day! How did it feel?",
+          "vi": "Trời, mới ngày đầu mà! Con thấy sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Kind of scary, but fun. I want to come back next week.",
+          "vi": "Hơi sợ mà vui. Tuần sau con muốn đi nữa."
+        }
+      ]
+    },
+    {
+      "id": "hobbies-sports-d04",
+      "titleEn": "Practice or party?",
+      "titleVi": "Đi tập hay đi tiệc?",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Soccer practice is at five. Where are your cleats?",
+          "vi": "Năm giờ đi tập đá banh. Giày đá banh của con đâu?"
+        },
+        {
+          "speaker": "child",
+          "en": "Um, by the door? Or maybe in the car.",
+          "vi": "Ờm, ở cửa hả? Hay trong xe."
+        },
+        {
+          "speaker": "dad",
+          "en": "Let's check. And grab your water bottle, too.",
+          "vi": "Kiếm thử coi. Lấy bình nước luôn nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Found them! Dad, can I skip practice on Saturday?",
+          "vi": "Thấy rồi! Ba ơi, thứ Bảy con nghỉ tập một buổi được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Why? What's going on Saturday?",
+          "vi": "Sao vậy? Thứ Bảy có gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "It's Mia's birthday party. Everyone's going.",
+          "vi": "Sinh nhật Mia đó ba. Ai cũng đi hết.",
+          "ipa": "/ɪts ˈmiəz ˈbɝθˌdeɪ ˈpɑɹti ˈɛvɹiˌwʌnz ˈɡoʊɪŋ/"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm. You made a promise to your team, though.",
+          "vi": "Hmm. Nhưng con đã hứa với đội rồi mà."
+        },
+        {
+          "speaker": "child",
+          "en": "Wait, practice is at nine and the party is at two. Could I do both?",
+          "vi": "Khoan, tập lúc chín giờ, tiệc lúc hai giờ. Con đi cả hai được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Oh, then that works. Practice first, party after.",
+          "vi": "À, vậy thì được. Đi tập trước, rồi đi tiệc."
+        },
+        {
+          "speaker": "child",
+          "en": "Yes! That's perfect.",
+          "vi": "Yeah! Vậy là quá đã."
+        }
+      ]
+    },
+    {
+      "id": "hobbies-sports-d05",
+      "titleEn": "The drawing didn't win",
+      "titleVi": "Tranh không đoạt giải",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "My drawing didn't win the contest.",
+          "vi": "Tranh của con không đoạt giải."
+        },
+        {
+          "speaker": "mom",
+          "en": "Oh, sweetie. Are you disappointed?",
+          "vi": "Ôi con. Con thấy thất vọng hả?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yeah. I worked on it for a whole week.",
+          "vi": "Dạ. Con vẽ cả tuần trời luôn."
+        },
+        {
+          "speaker": "mom",
+          "en": "I know you did. I saw how carefully you colored it.",
+          "vi": "Mẹ biết mà. Mẹ thấy con tô màu kỹ lắm."
+        },
+        {
+          "speaker": "child",
+          "en": "The winner's drawing was really good, though.",
+          "vi": "Mà tranh bạn thắng đẹp thiệt."
+        },
+        {
+          "speaker": "mom",
+          "en": "That's really kind of you to say.",
+          "vi": "Con nói vậy là tử tế lắm đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Do you think mine was good?",
+          "vi": "Mẹ thấy tranh con đẹp không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "I love it. Can we hang it on the fridge?",
+          "vi": "Mẹ thích lắm. Mình dán lên tủ lạnh nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay! And next time I'm going to try painting.",
+          "vi": "Dạ! Lần sau con sẽ thử vẽ màu nước."
+        },
+        {
+          "speaker": "mom",
+          "en": "Great idea. I can't wait to see it.",
+          "vi": "Hay đó. Mẹ mong được xem lắm."
+        }
+      ]
+    }
+  ]
+}

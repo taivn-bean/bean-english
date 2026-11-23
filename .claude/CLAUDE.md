@@ -34,7 +34,8 @@ App học tiếng Anh cho **ba mẹ + con nhỏ (3 tuổi)**. Ba mẹ không th�
 | Lệnh | Việc |
 |---|---|
 | `pnpm dev` | build nội dung + chạy dev server |
-| `pnpm audio` | build nội dung + sinh audio còn thiếu/đã đổi (macOS `say` → `afconvert`), xoá file thừa |
+| `pnpm audio` | sinh audio cho câu mới/đổi (Kokoro local → HE-AAC) và gói thành **1 patch mới**; gói cũ không đổi; dừng giữa chừng chạy lại sẽ tiếp tục |
+| `pnpm audio:compact` | dựng lại 1 gói base/chủ đề, bỏ patch + byte chết (user tải lại audio 1 lần) |
 | `pnpm content:check` | validate nội dung + báo thiếu audio |
 | `pnpm build` / `pnpm preview` | build production (fail nếu thiếu audio) / chạy thử bản build |
 | `pnpm test:offline` | Playwright: offline, deep link, audio, tiến độ (cần `pnpm preview` đang chạy) |
@@ -45,12 +46,13 @@ App học tiếng Anh cho **ba mẹ + con nhỏ (3 tuổi)**. Ba mẹ không th�
 content/                 nguồn nội dung (sửa ở đây) — topics.json + topics/<id>.json
 scripts/                 build-content.mjs (zod + IPA + audio keys), gen-audio.mjs, voices.json, lib/
 public/content/          SINH TỰ ĐỘNG (gitignored) — app fetch qua TanStack Query
-public/audio/            SINH TỰ ĐỘNG nhưng COMMIT (Cloudflare build không có `say`)
+audio/packs/, packs.json COMMIT — gói audio bất biến + sổ cái (xem .claude/docs/content-schema.md)
+public/audio-packs/      SINH TỰ ĐỘNG (gitignored) — copy các gói đang dùng
 src/routes/              TanStack Router file-based (routeTree.gen.ts tự sinh)
 src/components/          UI dùng chung (PhraseCard, PlaylistBar, Layout…)
 src/lib/                 content, audio (player + playlist), db (Dexie), settings (zustand), suggestions (gợi ý theo giờ), backup
 src/hooks/               useProfile (profiles, progress, favorites), useContent (load nhiều topic) · src/i18n/ vi.json, en.json
 ```
 - Thêm chủ đề: thêm vào `content/topics.json` + file `content/topics/<id>.json`, icon mới thì thêm vào `src/components/TopicIcon.tsx`, rồi `pnpm audio`.
-- Đổi giọng (1 giọng cho tất cả): sửa `scripts/voices.json` rồi `pnpm audio`.
+- Đổi giọng (1 giọng cho tất cả): sửa `scripts/voices.json` (`engine`: `kokoro` | `say`) rồi `pnpm audio`. Nghe thử nhiều giọng Kokoro: `node scripts/kokoro-samples.mjs <dir> af_heart,am_michael`.
 - Thêm chuỗi UI: thêm key vào CẢ `vi.json` và `en.json`.

@@ -5,7 +5,7 @@ description: Generate and manage pre-rendered TTS audio for Bean English phrases
 
 # Offline audio pipeline
 
-Output: `public/audio/<id>.m4a` (+ optional `<id>.slow.m4a`), manifest `public/audio/manifest.json` = `{ id: { hash, bytes, durationMs } }`.
+Output: immutable packs in `audio/packs/` (per-topic `base-*` + per-update `patch-*`) and ledger `audio/packs.json`. Full layout and rules: `.claude/docs/content-schema.md` § Audio. Logic: `scripts/lib/packs.mjs`.
 
 ## Engines (pick per product-brief decision)
 | Engine | Cost | Quality | Notes |
@@ -15,20 +15,18 @@ Output: `public/audio/<id>.m4a` (+ optional `<id>.slow.m4a`), manifest `public/a
 | Google Cloud / Azure TTS (neural) | small one-time cost | very good | SSML for rate/pauses; key via env var `TTS_API_KEY` |
 | ElevenLabs | paid | most natural / child-like | review terms for child voices |
 
-Default if undecided: macOS `say` with an enhanced en-US voice for adults; a different voice for child lines.
+**Current choice (D25): Kokoro-82M via `kokoro-js` (local, Apache-2.0), voice `af_heart`, one voice for all clips.** ~0.5× realtime on CPU (≈3s per 6s of audio). Other US voices: af_bella, af_sarah, am_michael, am_adam. Fallback engine: macOS `say` (`"engine": "say"`).
 
-## Script: `scripts/gen-audio.mjs` (`pnpm audio`; incremental manifest in `scripts/audio-manifest.json`; coverage check = `pnpm content:check`)
-1. Load + validate all content (same Zod schema as the app).
-2. For each phrase / dialogue line compute `hash = sha1(engine + voice + rate + text)`.
-3. Skip if manifest hash matches and file exists (incremental).
-4. Render → temp AIFF (`say`) → `afconvert -f m4af -d aac -b 32000 -c 1` (built into macOS; say's own m4a output has ~30KB padding/file). Optional ffmpeg chain if installed:
-   `ffmpeg -y -i in.aiff -af "silenceremove=start_periods=1:start_threshold=-50dB,loudnorm=I=-16:TP=-1.5:LRA=11,apad=pad_dur=0.15" -ac 1 -ar 44100 -c:a aac -b:a 56k out.m4a`
-5. Slow variant: render at lower rate in the engine (better than time-stretching), same ffmpeg chain.
-6. Delete orphan files whose id no longer exists (print list first).
-7. Print summary: generated / skipped / deleted / total MB.
+## Script: `scripts/gen-audio.mjs` (`pnpm audio`)
+1. `build-content` writes `scripts/.generated/utterances.json` (key, text, topicId).
+2. Clip hash = sha1(PIPELINE + voices.json + text). Render only clips whose hash differs from the ledger.
+3. Render → WAV → `afconvert -d aach -b 24000 -c 1` (HE-AAC 24k mono) into `audio/.staging/` (resumable).
+4. Staged clips → ONE new `patch-NNN` pack. First run / `--compact` / `--force` → per-topic `base-*` packs.
+5. Packs no clip points to are deleted; the script suggests compaction at >5 patches or >25% dead bytes.
+6. `build-content` (again) copies used packs to `public/audio-packs/` and writes per-topic indexes.
 
-## Coverage check: `npm run audio:check`
-Fails CI/build if any content id lacks audio or manifest hash is stale.
+## Coverage check: `pnpm content:check`
+Fails if any clip key is missing from the ledger.
 
 ## Rules
 - Never put API keys in repo; `.env` is gitignored.

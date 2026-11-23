@@ -1,146 +1,913 @@
 {
   "topicId": "feelings-love",
   "phrases": [
-    { "id": "feelings-love-001", "speaker": "parent", "level": 1, "en": "I love you!", "vi": "Thương con lắm!" },
-    { "id": "feelings-love-002", "speaker": "parent", "level": 1, "en": "Big hug!", "vi": "Ôm một cái nào!" },
     {
-      "id": "feelings-love-003", "speaker": "parent", "level": 1,
-      "en": "Are you ___?", "vi": "Con ___ hả?",
-      "slots": [
-        { "en": "happy", "vi": "vui" },
-        { "en": "sad", "vi": "buồn" },
-        { "en": "tired", "vi": "mệt" },
-        { "en": "scared", "vi": "sợ" },
-        { "en": "mad", "vi": "giận" }
-      ]
-    },
-    { "id": "feelings-love-004", "speaker": "parent", "level": 2, "en": "It's okay to cry.", "vi": "Con khóc cũng được mà." },
-    { "id": "feelings-love-005", "speaker": "parent", "level": 1, "en": "I'm right here.", "vi": "Có ba mẹ đây rồi." },
-    { "id": "feelings-love-006", "speaker": "parent", "level": 2, "en": "Take a deep breath.", "vi": "Hít thở thật sâu nào." },
-    {
-      "id": "feelings-love-007", "speaker": "parent", "level": 2,
-      "en": "You look so ___!", "vi": "Nhìn con ___ quá!",
-      "slots": [
-        { "en": "happy", "vi": "vui" },
-        { "en": "sleepy", "vi": "buồn ngủ" },
-        { "en": "excited", "vi": "háo hức" },
-        { "en": "sad", "vi": "buồn" }
-      ]
-    },
-    { "id": "feelings-love-008", "speaker": "parent", "level": 2, "en": "Can I have a kiss?", "vi": "Cho thơm một cái nào?" },
-    {
-      "id": "feelings-love-009", "speaker": "parent", "level": 2,
-      "en": "Let's give ___ a hug.", "vi": "Mình ôm ___ một cái nào.",
-      "slots": [
-        { "en": "Daddy", "vi": "ba" },
-        { "en": "Mommy", "vi": "mẹ" },
-        { "en": "Grandma", "vi": "bà" },
-        { "en": "your teddy", "vi": "gấu bông" }
-      ]
-    },
-    { "id": "feelings-love-010", "speaker": "parent", "level": 2, "en": "Tell me how you feel.", "vi": "Nói ba mẹ nghe con thấy sao nè." },
-    { "id": "feelings-love-011", "speaker": "parent", "level": 2, "en": "I'm so proud of you!", "vi": "Ba mẹ tự hào về con lắm!" },
-    { "id": "feelings-love-012", "speaker": "parent", "level": 3, "en": "You're sad because your tower fell down.", "vi": "Con buồn vì tháp bị đổ hả." },
-    {
-      "id": "feelings-love-013", "speaker": "parent", "level": 2,
-      "en": "Show me a ___ face!", "vi": "Làm mặt ___ cho ba mẹ xem nào!",
-      "slots": [
-        { "en": "happy", "vi": "vui" },
-        { "en": "sad", "vi": "buồn" },
-        { "en": "angry", "vi": "giận" },
-        { "en": "surprised", "vi": "ngạc nhiên" },
-        { "en": "sleepy", "vi": "buồn ngủ" }
-      ]
-    },
-    { "id": "feelings-love-014", "speaker": "parent", "level": 3, "en": "When you're sad, you can hug your teddy.", "vi": "Khi buồn, con ôm gấu bông nha." },
-    {
-      "id": "feelings-love-015", "speaker": "child", "level": 1,
-      "en": "I'm so ___!", "vi": "Con ___ quá!",
-      "slots": [
-        { "en": "happy", "vi": "vui" },
-        { "en": "sad", "vi": "buồn" },
-        { "en": "tired", "vi": "mệt" },
-        { "en": "scared", "vi": "sợ" },
-        { "en": "mad", "vi": "giận" }
-      ]
-    },
-    { "id": "feelings-love-016", "speaker": "child", "level": 1, "en": "Hug, please!", "vi": "Ôm con đi!" },
-    { "id": "feelings-love-017", "speaker": "child", "level": 2, "en": "I love you, Daddy!", "vi": "Con thương ba!" },
-    { "id": "feelings-love-018", "speaker": "child", "level": 1, "en": "I'm okay now.", "vi": "Con hết buồn rồi." },
-    { "id": "feelings-love-019", "speaker": "child", "level": 1, "en": "Me too!", "vi": "Con cũng vậy!" },
-    { "id": "feelings-love-020", "speaker": "child", "level": 1, "en": "Sorry, Mommy.", "vi": "Con xin lỗi mẹ." },
-    { "id": "feelings-love-021", "speaker": "parent", "level": 2, "en": "Do you need a hug?", "vi": "Con muốn được ôm không?" },
-    { "id": "feelings-love-022", "speaker": "parent", "level": 1, "en": "What happened?", "vi": "Sao vậy con?" },
-    { "id": "feelings-love-023", "speaker": "parent", "level": 2, "en": "It's okay to be mad.", "vi": "Giận cũng được mà con." },
-    {
-      "id": "feelings-love-024", "speaker": "parent", "level": 3,
-      "en": "When you're mad, you can ___.", "vi": "Khi giận, con có thể ___.",
-      "slots": [
-        { "en": "stomp your feet", "vi": "dậm chân" },
-        { "en": "squeeze your pillow", "vi": "bóp cái gối" },
-        { "en": "take a big breath", "vi": "hít một hơi thật sâu" },
-        { "en": "ask for a hug", "vi": "xin ôm một cái" }
-      ]
-    },
-    { "id": "feelings-love-025", "speaker": "parent", "level": 2, "en": "I missed you so much!", "vi": "Nhớ con quá trời!" },
-    {
-      "id": "feelings-love-026", "speaker": "parent", "level": 2,
-      "en": "Did the ___ scare you?", "vi": "Con sợ ___ hả?",
-      "slots": [
-        { "en": "thunder", "vi": "tiếng sấm" },
-        { "en": "loud noise", "vi": "tiếng ồn lớn" },
-        { "en": "doggy", "vi": "con cún" },
-        { "en": "dark", "vi": "bóng tối" }
-      ]
-    },
-    { "id": "feelings-love-027", "speaker": "parent", "level": 2, "en": "Let's calm down together.", "vi": "Mình cùng bình tĩnh lại nha." },
-    {
-      "id": "feelings-love-028", "speaker": "child", "level": 2,
-      "en": "I'm scared of the ___.", "vi": "Con sợ ___.",
-      "slots": [
-        { "en": "dark", "vi": "bóng tối" },
-        { "en": "thunder", "vi": "tiếng sấm" },
-        { "en": "doggy", "vi": "con cún" },
-        { "en": "bug", "vi": "con bọ" }
-      ]
-    },
-    { "id": "feelings-love-029", "speaker": "child", "level": 1, "en": "I missed you!", "vi": "Con nhớ ba mẹ!" },
-    { "id": "feelings-love-030", "speaker": "child", "level": 1, "en": "Kiss, please!", "vi": "Thơm con đi!" },
-    { "id": "feelings-love-031", "speaker": "parent", "level": 2, "en": "You were so brave!", "vi": "Con dũng cảm lắm luôn!" },
-    { "id": "feelings-love-032", "speaker": "parent", "level": 2, "en": "Let's dry your tears.", "vi": "Mình lau nước mắt nha con." },
-    {
-      "id": "feelings-love-033", "speaker": "parent", "level": 2,
-      "en": "I love your ___!", "vi": "Thích ___ của con ghê!",
-      "slots": [
-        { "en": "smile", "vi": "nụ cười" },
-        { "en": "hugs", "vi": "cái ôm" },
-        { "en": "giggles", "vi": "tiếng cười khúc khích" },
-        { "en": "kisses", "vi": "mấy cái thơm" }
+      "id": "feelings-love-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "I love you!",
+      "vi": "Thương con lắm!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
-      "id": "feelings-love-034", "speaker": "parent", "level": 2,
-      "en": "I love you ___!", "vi": "Thương con ___!",
-      "slots": [
-        { "en": "so much", "vi": "nhiều lắm" },
-        { "en": "to the moon", "vi": "tới trời luôn" },
-        { "en": "all the time", "vi": "hoài hoài" }
+      "id": "feelings-love-002",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Big hug!",
+      "vi": "Ôm một cái nào!",
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
-    { "id": "feelings-love-035", "speaker": "parent", "level": 2, "en": "You make me so happy!", "vi": "Có con vui ghê!" },
     {
-      "id": "feelings-love-036", "speaker": "parent", "level": 2,
-      "en": "Let's do a ___ hug!", "vi": "Mình ôm ___ nha!",
+      "id": "feelings-love-003",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Are you ___?",
+      "vi": "Con ___ hả?",
       "slots": [
-        { "en": "bear", "vi": "kiểu gấu thật chặt" },
-        { "en": "family", "vi": "cả nhà" },
-        { "en": "big", "vi": "thật chặt" }
+        {
+          "en": "happy",
+          "vi": "vui"
+        },
+        {
+          "en": "sad",
+          "vi": "buồn"
+        },
+        {
+          "en": "tired",
+          "vi": "mệt"
+        },
+        {
+          "en": "scared",
+          "vi": "sợ"
+        },
+        {
+          "en": "mad",
+          "vi": "giận"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
-    { "id": "feelings-love-037", "speaker": "parent", "level": 1, "en": "You're safe now.", "vi": "Con an toàn rồi nè." },
-    { "id": "feelings-love-038", "speaker": "child", "level": 2, "en": "I love you too!", "vi": "Con cũng thương ba mẹ!" },
-    { "id": "feelings-love-039", "speaker": "child", "level": 1, "en": "Don't go!", "vi": "Đừng đi mà!" },
-    { "id": "feelings-love-040", "speaker": "child", "level": 2, "en": "Stay with me, please.", "vi": "Ở lại với con đi." }
+    {
+      "id": "feelings-love-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "It's okay to cry.",
+      "vi": "Con khóc cũng được mà.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-005",
+      "speaker": "parent",
+      "level": 1,
+      "en": "I'm right here.",
+      "vi": "Có ba mẹ đây rồi.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Take a deep breath.",
+      "vi": "Hít thở thật sâu nào.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You look so ___!",
+      "vi": "Nhìn con ___ quá!",
+      "slots": [
+        {
+          "en": "happy",
+          "vi": "vui"
+        },
+        {
+          "en": "sleepy",
+          "vi": "buồn ngủ"
+        },
+        {
+          "en": "excited",
+          "vi": "háo hức"
+        },
+        {
+          "en": "sad",
+          "vi": "buồn"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can I have a kiss?",
+      "vi": "Cho thơm một cái nào?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's give ___ a hug.",
+      "vi": "Mình ôm ___ một cái nào.",
+      "slots": [
+        {
+          "en": "Daddy",
+          "vi": "ba"
+        },
+        {
+          "en": "Mommy",
+          "vi": "mẹ"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "your teddy",
+          "vi": "gấu bông"
+        }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "feelings-love-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Tell me how you feel.",
+      "vi": "Nói ba mẹ nghe con thấy sao nè.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I'm so proud of you!",
+      "vi": "Ba mẹ tự hào về con lắm!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-012",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You're sad because your tower fell down.",
+      "vi": "Con buồn vì tháp bị đổ hả.",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "feelings-love-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Show me a ___ face!",
+      "vi": "Làm mặt ___ cho ba mẹ xem nào!",
+      "slots": [
+        {
+          "en": "happy",
+          "vi": "vui"
+        },
+        {
+          "en": "sad",
+          "vi": "buồn"
+        },
+        {
+          "en": "angry",
+          "vi": "giận"
+        },
+        {
+          "en": "surprised",
+          "vi": "ngạc nhiên"
+        },
+        {
+          "en": "sleepy",
+          "vi": "buồn ngủ"
+        }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "feelings-love-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "When you're sad, you can hug your teddy.",
+      "vi": "Khi buồn, con ôm gấu bông nha.",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "feelings-love-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm so ___!",
+      "vi": "Con ___ quá!",
+      "slots": [
+        {
+          "en": "happy",
+          "vi": "vui"
+        },
+        {
+          "en": "sad",
+          "vi": "buồn"
+        },
+        {
+          "en": "tired",
+          "vi": "mệt"
+        },
+        {
+          "en": "scared",
+          "vi": "sợ"
+        },
+        {
+          "en": "mad",
+          "vi": "giận"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "Hug, please!",
+      "vi": "Ôm con đi!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "feelings-love-017",
+      "speaker": "child",
+      "level": 2,
+      "en": "I love you, Daddy!",
+      "vi": "Con thương ba!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm okay now.",
+      "vi": "Con hết buồn rồi.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "Me too!",
+      "vi": "Con cũng vậy!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Sorry, Mommy.",
+      "vi": "Con xin lỗi mẹ.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you need a hug?",
+      "vi": "Con muốn được ôm không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-022",
+      "speaker": "parent",
+      "level": 1,
+      "en": "What happened?",
+      "vi": "Sao vậy con?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "It's okay to be mad.",
+      "vi": "Giận cũng được mà con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-024",
+      "speaker": "parent",
+      "level": 3,
+      "en": "When you're mad, you can ___.",
+      "vi": "Khi giận, con có thể ___.",
+      "slots": [
+        {
+          "en": "stomp your feet",
+          "vi": "dậm chân"
+        },
+        {
+          "en": "squeeze your pillow",
+          "vi": "bóp cái gối"
+        },
+        {
+          "en": "take a big breath",
+          "vi": "hít một hơi thật sâu"
+        },
+        {
+          "en": "ask for a hug",
+          "vi": "xin ôm một cái"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I missed you so much!",
+      "vi": "Nhớ con quá trời!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Did the ___ scare you?",
+      "vi": "Con sợ ___ hả?",
+      "slots": [
+        {
+          "en": "thunder",
+          "vi": "tiếng sấm"
+        },
+        {
+          "en": "loud noise",
+          "vi": "tiếng ồn lớn"
+        },
+        {
+          "en": "doggy",
+          "vi": "con cún"
+        },
+        {
+          "en": "dark",
+          "vi": "bóng tối"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's calm down together.",
+      "vi": "Mình cùng bình tĩnh lại nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "I'm scared of the ___.",
+      "vi": "Con sợ ___.",
+      "slots": [
+        {
+          "en": "dark",
+          "vi": "bóng tối"
+        },
+        {
+          "en": "thunder",
+          "vi": "tiếng sấm"
+        },
+        {
+          "en": "doggy",
+          "vi": "con cún"
+        },
+        {
+          "en": "bug",
+          "vi": "con bọ"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "I missed you!",
+      "vi": "Con nhớ ba mẹ!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "Kiss, please!",
+      "vi": "Thơm con đi!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "feelings-love-031",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You were so brave!",
+      "vi": "Con dũng cảm lắm luôn!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-032",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's dry your tears.",
+      "vi": "Mình lau nước mắt nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-033",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I love your ___!",
+      "vi": "Thích ___ của con ghê!",
+      "slots": [
+        {
+          "en": "smile",
+          "vi": "nụ cười"
+        },
+        {
+          "en": "hugs",
+          "vi": "cái ôm"
+        },
+        {
+          "en": "giggles",
+          "vi": "tiếng cười khúc khích"
+        },
+        {
+          "en": "kisses",
+          "vi": "mấy cái thơm"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-034",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I love you ___!",
+      "vi": "Thương con ___!",
+      "slots": [
+        {
+          "en": "so much",
+          "vi": "nhiều lắm"
+        },
+        {
+          "en": "to the moon",
+          "vi": "tới trời luôn"
+        },
+        {
+          "en": "all the time",
+          "vi": "hoài hoài"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-035",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You make me so happy!",
+      "vi": "Có con vui ghê!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-036",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's do a ___ hug!",
+      "vi": "Mình ôm ___ nha!",
+      "slots": [
+        {
+          "en": "bear",
+          "vi": "kiểu gấu thật chặt"
+        },
+        {
+          "en": "family",
+          "vi": "cả nhà"
+        },
+        {
+          "en": "big",
+          "vi": "thật chặt"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-037",
+      "speaker": "parent",
+      "level": 1,
+      "en": "You're safe now.",
+      "vi": "Con an toàn rồi nè.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-038",
+      "speaker": "child",
+      "level": 2,
+      "en": "I love you too!",
+      "vi": "Con cũng thương ba mẹ!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-039",
+      "speaker": "child",
+      "level": 1,
+      "en": "Don't go!",
+      "vi": "Đừng đi mà!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-040",
+      "speaker": "child",
+      "level": 2,
+      "en": "Stay with me, please.",
+      "vi": "Ở lại với con đi.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-041",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You seem ___. What's going on?",
+      "vi": "Con có vẻ ___. Có chuyện gì vậy?",
+      "slots": [
+        {
+          "en": "upset",
+          "vi": "buồn"
+        },
+        {
+          "en": "quiet",
+          "vi": "ít nói"
+        },
+        {
+          "en": "grumpy",
+          "vi": "khó chịu"
+        },
+        {
+          "en": "worried",
+          "vi": "lo lắng"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-042",
+      "speaker": "parent",
+      "level": 2,
+      "en": "It's okay to feel ___ sometimes.",
+      "vi": "Đôi khi thấy ___ cũng không sao đâu con.",
+      "slots": [
+        {
+          "en": "sad",
+          "vi": "buồn"
+        },
+        {
+          "en": "angry",
+          "vi": "giận"
+        },
+        {
+          "en": "scared",
+          "vi": "sợ"
+        },
+        {
+          "en": "jealous",
+          "vi": "ganh tị"
+        },
+        {
+          "en": "nervous",
+          "vi": "hồi hộp"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-043",
+      "speaker": "parent",
+      "level": 3,
+      "en": "I love you even when you make mistakes.",
+      "vi": "Con có làm sai thì vẫn thương con mà.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-044",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's use our words, not our hands.",
+      "vi": "Mình nói bằng lời, không dùng tay nha con.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-045",
+      "speaker": "child",
+      "level": 3,
+      "en": "I felt ___ when he took my toy.",
+      "vi": "Con thấy ___ khi bạn lấy đồ chơi của con.",
+      "slots": [
+        {
+          "en": "sad",
+          "vi": "buồn"
+        },
+        {
+          "en": "mad",
+          "vi": "giận"
+        },
+        {
+          "en": "upset",
+          "vi": "khó chịu"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-046",
+      "speaker": "child",
+      "level": 3,
+      "en": "I don't want to talk right now.",
+      "vi": "Giờ con không muốn nói chuyện.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-047",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I have a hug?",
+      "vi": "Ôm con một cái được không?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-048",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Do you want to talk about it?",
+      "vi": "Con có muốn kể chuyện đó không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-049",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It's okay to feel angry, but it's not okay to hit.",
+      "vi": "Giận thì không sao, nhưng đánh người là không được nha con.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-050",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I can tell something's bothering you.",
+      "vi": "Nhìn là biết có chuyện gì làm con bận lòng rồi.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-051",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Would it help to ___?",
+      "vi": "Hay con thử ___ xem có đỡ hơn không?",
+      "slots": [
+        {
+          "en": "take a break",
+          "vi": "nghỉ một chút"
+        },
+        {
+          "en": "go for a walk",
+          "vi": "đi dạo một vòng"
+        },
+        {
+          "en": "write it down",
+          "vi": "viết ra giấy"
+        },
+        {
+          "en": "have some quiet time",
+          "vi": "ngồi yên một mình chút"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-052",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Thanks for ___. That wasn't easy.",
+      "vi": "Cảm ơn con đã ___. Chuyện đó đâu có dễ.",
+      "slots": [
+        {
+          "en": "telling me the truth",
+          "vi": "nói thật"
+        },
+        {
+          "en": "saying sorry first",
+          "vi": "xin lỗi trước"
+        },
+        {
+          "en": "staying calm",
+          "vi": "giữ bình tĩnh"
+        },
+        {
+          "en": "telling me how you felt",
+          "vi": "kể cho nghe con thấy sao"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-053",
+      "speaker": "child",
+      "level": 2,
+      "en": "I feel left out.",
+      "vi": "Con thấy mình bị cho ra rìa.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "feelings-love-054",
+      "speaker": "child",
+      "level": 3,
+      "en": "I'm upset because ___.",
+      "vi": "Con buồn vì ___.",
+      "slots": [
+        {
+          "en": "nobody played with me",
+          "vi": "không ai chơi với con"
+        },
+        {
+          "en": "I lost the game",
+          "vi": "con thua trò chơi"
+        },
+        {
+          "en": "my friend was mean to me",
+          "vi": "bạn chơi xấu với con"
+        },
+        {
+          "en": "I didn't get a turn",
+          "vi": "con không được tới lượt"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    }
   ],
   "dialogues": [
     {
@@ -148,13 +915,44 @@
       "titleEn": "Feeling sad",
       "titleVi": "Khi con buồn",
       "lines": [
-        { "speaker": "mom", "en": "Are you sad?", "vi": "Con buồn hả?" },
-        { "speaker": "child", "en": "Yes. Sad.", "vi": "Dạ. Buồn." },
-        { "speaker": "mom", "en": "It's okay to cry. Big hug!", "vi": "Khóc cũng được mà con. Ôm một cái nào!" },
-        { "speaker": "child", "en": "Hug, please!", "vi": "Ôm con đi!" },
-        { "speaker": "mom", "en": "Take a deep breath.", "vi": "Hít thở thật sâu nào." },
-        { "speaker": "child", "en": "I'm okay now.", "vi": "Con hết buồn rồi." },
-        { "speaker": "mom", "en": "I love you!", "vi": "Mẹ thương con lắm!" }
+        {
+          "speaker": "mom",
+          "en": "Are you sad?",
+          "vi": "Con buồn hả?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes. Sad.",
+          "vi": "Dạ. Buồn."
+        },
+        {
+          "speaker": "mom",
+          "en": "It's okay to cry. Big hug!",
+          "vi": "Khóc cũng được mà con. Ôm một cái nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Hug, please!",
+          "vi": "Ôm con đi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Take a deep breath.",
+          "vi": "Hít thở thật sâu nào."
+        },
+        {
+          "speaker": "child",
+          "en": "I'm okay now.",
+          "vi": "Con hết buồn rồi."
+        },
+        {
+          "speaker": "mom",
+          "en": "I love you!",
+          "vi": "Mẹ thương con lắm!"
+        }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -162,12 +960,39 @@
       "titleEn": "Love you, Daddy",
       "titleVi": "Thương ba",
       "lines": [
-        { "speaker": "dad", "en": "Can I have a kiss?", "vi": "Cho ba thơm một cái nào?" },
-        { "speaker": "child", "en": "Okay!", "vi": "Dạ!" },
-        { "speaker": "dad", "en": "I love you so much!", "vi": "Ba thương con nhiều lắm!" },
-        { "speaker": "child", "en": "Me too!", "vi": "Con cũng vậy!" },
-        { "speaker": "dad", "en": "Show me a happy face!", "vi": "Làm mặt vui cho ba xem nào!" },
-        { "speaker": "child", "en": "Happy face!", "vi": "Mặt vui nè!" }
+        {
+          "speaker": "dad",
+          "en": "Can I have a kiss?",
+          "vi": "Cho ba thơm một cái nào?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay!",
+          "vi": "Dạ!"
+        },
+        {
+          "speaker": "dad",
+          "en": "I love you so much!",
+          "vi": "Ba thương con nhiều lắm!"
+        },
+        {
+          "speaker": "child",
+          "en": "Me too!",
+          "vi": "Con cũng vậy!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Show me a happy face!",
+          "vi": "Làm mặt vui cho ba xem nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Happy face!",
+          "vi": "Mặt vui nè!"
+        }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -175,14 +1000,170 @@
       "titleEn": "Scared of thunder",
       "titleVi": "Sợ tiếng sấm",
       "lines": [
-        { "speaker": "child", "en": "Daddy! Thunder!", "vi": "Ba ơi! Sấm!" },
-        { "speaker": "dad", "en": "Did the thunder scare you?", "vi": "Con sợ tiếng sấm hả?" },
-        { "speaker": "child", "en": "Yes. Scared.", "vi": "Dạ. Sợ." },
-        { "speaker": "dad", "en": "I'm right here. Do you need a hug?", "vi": "Có ba đây rồi. Con muốn được ôm không?" },
-        { "speaker": "child", "en": "Hug, please!", "vi": "Ôm con đi!" },
-        { "speaker": "dad", "en": "Let's take a deep breath together.", "vi": "Mình cùng hít thở thật sâu nha." },
-        { "speaker": "child", "en": "I'm okay now.", "vi": "Con hết sợ rồi." },
-        { "speaker": "dad", "en": "You're so brave!", "vi": "Con dũng cảm quá!" }
+        {
+          "speaker": "child",
+          "en": "Daddy! Thunder!",
+          "vi": "Ba ơi! Sấm!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Did the thunder scare you?",
+          "vi": "Con sợ tiếng sấm hả?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes. Scared.",
+          "vi": "Dạ. Sợ."
+        },
+        {
+          "speaker": "dad",
+          "en": "I'm right here. Do you need a hug?",
+          "vi": "Có ba đây rồi. Con muốn được ôm không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Hug, please!",
+          "vi": "Ôm con đi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Let's take a deep breath together.",
+          "vi": "Mình cùng hít thở thật sâu nha."
+        },
+        {
+          "speaker": "child",
+          "en": "I'm okay now.",
+          "vi": "Con hết sợ rồi."
+        },
+        {
+          "speaker": "dad",
+          "en": "You're so brave!",
+          "vi": "Con dũng cảm quá!"
+        }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "feelings-love-d04",
+      "titleEn": "Grumpy after school",
+      "titleVi": "Đi học về không vui",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "You seem upset. What's going on?",
+          "vi": "Con có vẻ buồn. Có chuyện gì vậy?"
+        },
+        {
+          "speaker": "child",
+          "en": "Nothing.",
+          "vi": "Không có gì."
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm. It doesn't look like nothing.",
+          "vi": "Hừm. Nhìn đâu có giống không có gì."
+        },
+        {
+          "speaker": "child",
+          "en": "My friend took my crayons and didn't give them back.",
+          "vi": "Bạn lấy bút màu của con mà không trả."
+        },
+        {
+          "speaker": "mom",
+          "en": "Oh no. How did that make you feel?",
+          "vi": "Trời. Vậy con thấy sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Mad! I wanted to push him.",
+          "vi": "Giận lắm! Con muốn xô bạn."
+        },
+        {
+          "speaker": "mom",
+          "en": "It's okay to feel mad. What could you do instead of pushing?",
+          "vi": "Giận thì không sao. Thay vì xô bạn, con có thể làm gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "Tell the teacher?",
+          "vi": "Nói với cô hả mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Yes! That's a great idea. Come here, big hug.",
+          "vi": "Đúng rồi! Ý hay lắm. Lại đây mẹ ôm cái nào."
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "feelings-love-d05",
+      "titleEn": "Left out at recess",
+      "titleVi": "Bị bạn bỏ rơi giờ ra chơi",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Hey, you've been quiet since dinner. Do you want to talk about it?",
+          "vi": "Nè, từ lúc ăn tối tới giờ con im re. Con có muốn kể ba nghe không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Not really.",
+          "vi": "Dạ, không muốn lắm."
+        },
+        {
+          "speaker": "dad",
+          "en": "That's okay. I'm here whenever you're ready.",
+          "vi": "Không sao. Lúc nào con muốn kể thì có ba ở đây nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. At recess, my friends played without me.",
+          "vi": "Dạ. Giờ ra chơi, mấy bạn chơi mà không rủ con."
+        },
+        {
+          "speaker": "dad",
+          "en": "Oh, honey. That sounds really hard. How did you feel?",
+          "vi": "Ôi con. Chắc buồn lắm. Lúc đó con thấy sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "I felt left out. I think they don't like me anymore.",
+          "vi": "Con thấy bị cho ra rìa. Con nghĩ tụi bạn hết thích con rồi."
+        },
+        {
+          "speaker": "dad",
+          "en": "I get it. But one bad day doesn't mean they don't like you.",
+          "vi": "Ba hiểu mà. Nhưng một ngày không vui đâu có nghĩa là tụi bạn không thích con."
+        },
+        {
+          "speaker": "child",
+          "en": "Maybe. A boy in my class asked me to play soccer tomorrow.",
+          "vi": "Chắc vậy. Có một bạn trong lớp rủ con mai đá banh."
+        },
+        {
+          "speaker": "dad",
+          "en": "That sounds fun! Why don't you give it a try?",
+          "vi": "Nghe vui đó! Sao con không thử chơi chung coi?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yeah, I think I will. Thanks, Dad.",
+          "vi": "Dạ, chắc con sẽ chơi. Cảm ơn ba."
+        },
+        {
+          "speaker": "dad",
+          "en": "Anytime. I love you, kiddo.",
+          "vi": "Lúc nào cũng được mà. Ba thương con nhiều.",
+          "ipa": "/ˈɛniˌtaɪm aɪ lʌv ju ˈkɪdoʊ/"
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

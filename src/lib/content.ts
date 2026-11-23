@@ -2,16 +2,21 @@
 // and precached by the service worker. Going through TanStack Query keeps a single place to
 // switch to a remote content source later (phase 2) without touching UI code.
 import { queryOptions } from '@tanstack/react-query'
+import { registerAudio } from './audio'
 
 export type Speaker = 'mom' | 'dad' | 'child'
 
-/** `audio` fields are keys of files in public/audio (see audioUrl). */
+export const AGE_BANDS = ['3-5', '5-7', '7-9'] as const
+export type AgeBand = (typeof AGE_BANDS)[number]
+
+/** `audio` fields are clip keys, resolved through the topic's `audio` index (see lib/audio.ts). */
 export type Slot = { en: string; vi: string; fullEn: string; fullVi: string; ipa: string; audio: string }
 
 export type Phrase = {
   id: string
   speaker: 'parent' | 'child'
   level: 1 | 2 | 3
+  ages: AgeBand[]
   en: string
   vi: string
   ipa?: string
@@ -20,12 +25,21 @@ export type Phrase = {
 }
 
 export type DialogueLine = { id: string; speaker: Speaker; en: string; vi: string; ipa: string; audio: string }
-export type Dialogue = { id: string; titleEn: string; titleVi: string; lines: DialogueLine[] }
+export type Dialogue = { id: string; titleEn: string; titleVi: string; ages: AgeBand[]; lines: DialogueLine[] }
 
 export type TopicMeta = { id: string; order: number; icon: string; titleEn: string; titleVi: string }
-export type TopicSummary = TopicMeta & { phraseIds: string[]; dialogueCount: number }
-export type Topic = TopicMeta & { phrases: Phrase[]; dialogues: Dialogue[] }
-export type ContentIndex = { contentVersion: string; topics: TopicSummary[] }
+/** Where a topic's clips live: pack URLs + clip key → [packIdx, byteOffset, byteLength]. */
+export type AudioIndex = { packs: string[]; index: Record<string, [number, number, number]> }
+export type TopicSummary = TopicMeta & {
+  phraseIds: string[]
+  dialogueCount: number
+  ages: AgeBand[]
+  phrasesByAge: Record<AgeBand, string[]>
+  /** audio pack URLs this topic needs offline */
+  packs: string[]
+}
+export type Topic = TopicMeta & { audio: AudioIndex; phrases: Phrase[]; dialogues: Dialogue[] }
+export type ContentIndex = { contentVersion: string; audioPacks: { url: string; bytes: number }[]; topics: TopicSummary[] }
 
 const BASE = '/content'
 
@@ -43,10 +57,13 @@ export const contentIndexQuery = queryOptions({
 export const topicQuery = (topicId: string) =>
   queryOptions({
     queryKey: ['content', 'topic', topicId],
-    queryFn: () => getJson<Topic>(`topics/${topicId}.json`),
+    queryFn: async () => {
+      const topic = await getJson<Topic>(`topics/${topicId}.json`)
+      registerAudio(topic.audio)
+      return topic
+    },
   })
 
-export const audioUrl = (key: string) => `/audio/${key}.m4a`
 
 /** Audio key of a phrase (slot phrases use the given slot, default first). */
 export const phraseAudio = (p: Phrase, slotIdx = 0) => (p.slots ? p.slots[slotIdx]?.audio : p.audio) ?? ''

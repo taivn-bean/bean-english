@@ -1,4 +1,5 @@
 {
-  "voice": "Evan (Enhanced)",
-  "rate": 160
+  "engine": "kokoro",
+  "voice": "af_heart",
+  "speed": 1
 }

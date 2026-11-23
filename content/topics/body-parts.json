@@ -28,6 +28,9 @@
           "en": "tummy",
           "vi": "bụng"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -57,6 +60,9 @@
           "en": "chin",
           "vi": "cằm"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -86,6 +92,9 @@
           "en": "noses",
           "vi": "cái mũi"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -107,6 +116,9 @@
           "en": "nose",
           "vi": "cái mũi"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -114,14 +126,20 @@
       "speaker": "parent",
       "level": 1,
       "en": "Clap your hands!",
-      "vi": "Vỗ tay nào!"
+      "vi": "Vỗ tay nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-006",
       "speaker": "parent",
       "level": 1,
       "en": "Stomp your feet!",
-      "vi": "Dậm chân nào!"
+      "vi": "Dậm chân nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-007",
@@ -150,6 +168,9 @@
           "en": "belly button",
           "vi": "rốn"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -157,49 +178,74 @@
       "speaker": "parent",
       "level": 2,
       "en": "Head, shoulders, knees, and toes!",
-      "vi": "Đầu, vai, đầu gối, ngón chân!"
+      "vi": "Đầu, vai, đầu gối, ngón chân!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "body-parts-009",
       "speaker": "parent",
       "level": 2,
       "en": "Where's your belly button?",
-      "vi": "Rốn của con đâu rồi?"
+      "vi": "Rốn của con đâu rồi?",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-010",
       "speaker": "parent",
       "level": 1,
       "en": "Tickle, tickle!",
-      "vi": "Thọc lét, thọc lét nè!"
+      "vi": "Thọc lét, thọc lét nè!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-011",
       "speaker": "parent",
       "level": 2,
       "en": "Show me your muscles!",
-      "vi": "Gồng cơ bắp coi nào!"
+      "vi": "Gồng cơ bắp coi nào!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "body-parts-012",
       "speaker": "parent",
       "level": 3,
       "en": "We see with our eyes and hear with our ears.",
-      "vi": "Mình nhìn bằng mắt và nghe bằng tai nè."
+      "vi": "Mình nhìn bằng mắt và nghe bằng tai nè.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "body-parts-013",
       "speaker": "parent",
       "level": 3,
       "en": "Your nose helps you smell yummy food.",
-      "vi": "Cái mũi giúp con ngửi mùi đồ ăn thơm nè."
+      "vi": "Cái mũi giúp con ngửi mùi đồ ăn thơm nè.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "body-parts-014",
       "speaker": "parent",
       "level": 2,
       "en": "You have ten little toes!",
-      "vi": "Con có mười ngón chân nhỏ xíu nè!"
+      "vi": "Con có mười ngón chân nhỏ xíu nè!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-015",
@@ -228,6 +274,9 @@
           "en": "hand",
           "vi": "Tay"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -235,35 +284,50 @@
       "speaker": "child",
       "level": 1,
       "en": "Ten toes!",
-      "vi": "Mười ngón chân!"
+      "vi": "Mười ngón chân!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-017",
       "speaker": "child",
       "level": 1,
       "en": "It tickles!",
-      "vi": "Nhột quá!"
+      "vi": "Nhột quá!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-018",
       "speaker": "child",
       "level": 1,
       "en": "Look, big muscles!",
-      "vi": "Nhìn nè, cơ bắp nè!"
+      "vi": "Nhìn nè, cơ bắp nè!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-019",
       "speaker": "child",
       "level": 1,
       "en": "Clap, clap, clap!",
-      "vi": "Vỗ tay, vỗ tay!"
+      "vi": "Vỗ tay, vỗ tay!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-020",
       "speaker": "child",
       "level": 1,
       "en": "Tickle me!",
-      "vi": "Thọc lét con đi!"
+      "vi": "Thọc lét con đi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-021",
@@ -288,6 +352,9 @@
           "en": "arms",
           "vi": "cánh tay"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -313,6 +380,9 @@
           "en": "tummy",
           "vi": "bụng"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -338,6 +408,9 @@
           "en": "tummy",
           "vi": "bụng"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -345,49 +418,73 @@
       "speaker": "parent",
       "level": 2,
       "en": "Stick out your tongue!",
-      "vi": "Lè lưỡi ra nào!"
+      "vi": "Lè lưỡi ra nào!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "body-parts-025",
       "speaker": "parent",
       "level": 1,
       "en": "Blink your eyes!",
-      "vi": "Chớp chớp mắt nào!"
+      "vi": "Chớp chớp mắt nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-026",
       "speaker": "parent",
       "level": 2,
       "en": "Your heart goes thump, thump.",
-      "vi": "Tim con đập thình thịch nè."
+      "vi": "Tim con đập thình thịch nè.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "body-parts-027",
       "speaker": "parent",
       "level": 2,
       "en": "Stand on one foot!",
-      "vi": "Đứng một chân coi nào!"
+      "vi": "Đứng một chân coi nào!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "body-parts-028",
       "speaker": "child",
       "level": 1,
       "en": "Two eyes!",
-      "vi": "Hai con mắt!"
+      "vi": "Hai con mắt!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-029",
       "speaker": "child",
       "level": 1,
       "en": "Thump, thump!",
-      "vi": "Thình thịch!"
+      "vi": "Thình thịch!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "body-parts-030",
       "speaker": "child",
       "level": 2,
       "en": "Look at my tongue!",
-      "vi": "Nhìn lưỡi con nè!"
+      "vi": "Nhìn lưỡi con nè!",
+      "ages": [
+        "3-5"
+      ]
     }
   ],
   "dialogues": [
@@ -426,6 +523,9 @@
           "en": "Clap, clap, clap!",
           "vi": "Vỗ tay, vỗ tay!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -463,6 +563,9 @@
           "en": "Tickle me!",
           "vi": "Thọc lét con đi!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -510,6 +613,9 @@
           "en": "Look, big muscles!",
           "vi": "Nhìn nè, cơ bắp nè!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     }
   ]

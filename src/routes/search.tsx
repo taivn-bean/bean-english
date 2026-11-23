@@ -7,7 +7,7 @@ import { z } from 'zod'
 import { PageHeader } from '../components/Layout'
 import { PhraseCard } from '../components/PhraseCard'
 import { useTopics } from '../hooks/useContent'
-import { useFavorites, useProgressMap } from '../hooks/useProfile'
+import { useAgeFilter, useFavorites, useProgressMap } from '../hooks/useProfile'
 import type { Phrase, Topic } from '../lib/content'
 import { useSettings } from '../lib/settings'
 
@@ -53,6 +53,7 @@ function SearchPage() {
   const { topics, isLoading } = useTopics()
   const progress = useProgressMap()
   const favIds = new Set(useFavorites().map((f) => f.phraseId))
+  const { band, showAll } = useAgeFilter()
 
   const search = useMemo(() => (isLoading ? null : buildIndex(topics)), [isLoading, topics])
   const results = useMemo(() => {
@@ -64,13 +65,13 @@ function SearchPage() {
     const exact = (p: Phrase) => [p.en, p.vi, ...(p.slots?.flatMap((s) => [s.fullEn, s.fullVi]) ?? [])].some(isExact)
     const hits = search.index.search(query).flatMap((r) => {
       const hit = search.phrases.get(String(r.id))
-      return hit ? [{ ...hit, score: r.score, exact: exact(hit.phrase) }] : []
+      return hit && (showAll || hit.phrase.ages.includes(band)) ? [{ ...hit, score: r.score, exact: exact(hit.phrase) }] : []
     })
     // Typed with accents (e.g. "tắm") and there are exact matches → don't show tạm/tâm/tam.
     const typedAccents = fold(query) !== query
     const pool = typedAccents && hits.some((h) => h.exact) ? hits.filter((h) => h.exact) : hits
     return pool.sort((a, b) => Number(b.exact) - Number(a.exact) || b.score - a.score).slice(0, 60)
-  }, [search, q])
+  }, [search, q, band, showAll])
 
   const setQ = (value: string) => navigate({ search: { q: value || undefined }, replace: true })
 

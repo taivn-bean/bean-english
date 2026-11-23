@@ -29,3 +29,5 @@ scripts/.generated
 src/routeTree.gen.ts
 .wrangler
 .env
+public/audio-packs
+audio/.staging

@@ -6,8 +6,11 @@ import { useTranslation } from 'react-i18next'
 import { z } from 'zod'
 import { PageHeader } from '../../../components/Layout'
 import { PhraseCard } from '../../../components/PhraseCard'
+import { OfflineTag } from '../../../components/OfflineStatus'
 import { PlayAllButton } from '../../../components/PlaylistBar'
-import { useFavorites, useProgressMap } from '../../../hooks/useProfile'
+import { useTopicOffline, useTopicSummary } from '../../../hooks/useOfflineStatus'
+import { downloadTopics } from '../../../lib/offline'
+import { useAgeFilter, useFavorites, useProgressMap } from '../../../hooks/useProfile'
 import { topicQuery, toPlaylist } from '../../../lib/content'
 import { useSettings } from '../../../lib/settings'
 
@@ -26,6 +29,11 @@ function TopicPage() {
   const progress = useProgressMap(topicId)
   const favorites = useFavorites()
   const favIds = new Set(favorites.map((f) => f.phraseId))
+  const { band, fits } = useAgeFilter()
+  const phrases = topic.phrases.filter((p) => fits(p.ages))
+  const dialogues = topic.dialogues.filter((d) => fits(d.ages))
+  const summary = useTopicSummary(topicId)
+  const { offline, downloading } = useTopicOffline(summary)
 
   return (
     <>
@@ -33,7 +41,7 @@ function TopicPage() {
         back
         title={lang === 'vi' ? topic.titleVi : topic.titleEn}
         subtitle={lang === 'vi' ? topic.titleEn : topic.titleVi}
-        right={<PlayAllButton id={`topic:${topicId}`} label={lang === 'vi' ? topic.titleVi : topic.titleEn} items={toPlaylist(topic.phrases)} />}
+        right={<PlayAllButton id={`topic:${topicId}`} label={lang === 'vi' ? topic.titleVi : topic.titleEn} items={toPlaylist(phrases)} />}
       />
 
       <div className="sticky top-[calc(max(env(safe-area-inset-top),0.75rem)+3.5rem)] z-10 bg-bg/90 px-4 pb-3 backdrop-blur">
@@ -55,11 +63,24 @@ function TopicPage() {
       </div>
 
       <main className="space-y-3 px-4">
+        {summary && !offline && (
+          <div className="flex items-center justify-between gap-2 rounded-2xl bg-leaf-50 px-3 py-2">
+            <OfflineTag topic={summary} />
+            {!downloading && (
+              <button onClick={() => downloadTopics([summary]).catch(() => {})} className="text-sm font-semibold text-leaf-600">
+                {t('offline.downloadTopic')}
+              </button>
+            )}
+          </div>
+        )}
+        {(tab === 'phrases' ? phrases : dialogues).length === 0 && (
+          <p className="rounded-3xl bg-leaf-50 p-6 text-center text-muted">{t('age.empty', { band: t(`age.band.${band}`) })}</p>
+        )}
         {tab === 'phrases'
-          ? topic.phrases.map((p) => (
+          ? phrases.map((p) => (
               <PhraseCard key={p.id} phrase={p} topicId={topicId} progress={progress.get(p.id)} favorite={favIds.has(p.id)} />
             ))
-          : topic.dialogues.map((d) => (
+          : dialogues.map((d) => (
               <Link
                 key={d.id}
                 to="/topics/$topicId/dialogues/$dialogueId"

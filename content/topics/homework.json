@@ -1,0 +1,765 @@
+{
+  "topicId": "homework",
+  "phrases": [
+    {
+      "id": "homework-001",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you have any homework today?",
+      "vi": "Hôm nay con có bài tập về nhà không?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-002",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What do you need to work on tonight?",
+      "vi": "Tối nay con cần làm bài gì?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's start with your ___ homework.",
+      "vi": "Mình làm bài ___ trước nha.",
+      "slots": [
+        {
+          "en": "math",
+          "vi": "toán"
+        },
+        {
+          "en": "reading",
+          "vi": "đọc"
+        },
+        {
+          "en": "spelling",
+          "vi": "chính tả"
+        },
+        {
+          "en": "science",
+          "vi": "khoa học"
+        },
+        {
+          "en": "English",
+          "vi": "tiếng Anh"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-004",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Put the tablet away so you can focus.",
+      "vi": "Cất máy tính bảng đi cho con tập trung nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Read the directions first.",
+      "vi": "Con đọc kỹ đề trước nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-006",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Try it on your own first, and then I'll help.",
+      "vi": "Con thử tự làm trước, rồi mình phụ con sau nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-007",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Show me how you got that answer.",
+      "vi": "Chỉ mình coi sao con ra kết quả đó.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you check number ___ again?",
+      "vi": "Con coi lại câu số ___ được không?",
+      "slots": [
+        {
+          "en": "three",
+          "vi": "ba"
+        },
+        {
+          "en": "five",
+          "vi": "năm"
+        },
+        {
+          "en": "seven",
+          "vi": "bảy"
+        },
+        {
+          "en": "ten",
+          "vi": "mười"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-009",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It's okay to get it wrong. Just try again.",
+      "vi": "Sai cũng không sao. Mình thử lại nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-010",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Take a deep breath. We'll figure it out together.",
+      "vi": "Hít thở sâu nào. Mình cùng tìm cách nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-011",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Did you fill out your reading log?",
+      "vi": "Con ghi sổ đọc sách chưa?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-012",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You need to read for ___ minutes tonight.",
+      "vi": "Tối nay con cần đọc sách ___ phút nha.",
+      "slots": [
+        {
+          "en": "twenty",
+          "vi": "hai mươi"
+        },
+        {
+          "en": "fifteen",
+          "vi": "mười lăm"
+        },
+        {
+          "en": "thirty",
+          "vi": "ba mươi"
+        },
+        {
+          "en": "ten",
+          "vi": "mười"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "When is your spelling test?",
+      "vi": "Khi nào con kiểm tra chính tả?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Your ___ project is due on Friday.",
+      "vi": "Thứ Sáu này con phải nộp dự án ___ đó.",
+      "slots": [
+        {
+          "en": "science",
+          "vi": "khoa học"
+        },
+        {
+          "en": "art",
+          "vi": "mỹ thuật"
+        },
+        {
+          "en": "history",
+          "vi": "lịch sử"
+        },
+        {
+          "en": "book",
+          "vi": "về cuốn sách"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-015",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's make a plan so you're not rushing at the last minute.",
+      "vi": "Mình lên kế hoạch để khỏi bị dồn tới phút chót nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-016",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Don't forget to pack your ___.",
+      "vi": "Đừng quên bỏ ___ vào cặp nha.",
+      "slots": [
+        {
+          "en": "homework folder",
+          "vi": "bìa bài tập"
+        },
+        {
+          "en": "library book",
+          "vi": "sách thư viện"
+        },
+        {
+          "en": "reading log",
+          "vi": "sổ đọc sách"
+        },
+        {
+          "en": "permission slip",
+          "vi": "giấy xin phép"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-017",
+      "speaker": "parent",
+      "level": 3,
+      "en": "I'm proud of how hard you worked.",
+      "vi": "Mình tự hào vì con đã cố gắng nhiều lắm.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-018",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You didn't give up, even when it got hard.",
+      "vi": "Khó vậy mà con vẫn không bỏ cuộc.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-019",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I do my homework after a snack?",
+      "vi": "Con ăn chút gì rồi làm bài được không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-020",
+      "speaker": "child",
+      "level": 2,
+      "en": "I don't get this question.",
+      "vi": "Con không hiểu câu này.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-021",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can you help me with my ___?",
+      "vi": "Giúp con làm bài ___ với.",
+      "slots": [
+        {
+          "en": "math",
+          "vi": "toán"
+        },
+        {
+          "en": "writing",
+          "vi": "viết"
+        },
+        {
+          "en": "spelling",
+          "vi": "chính tả"
+        },
+        {
+          "en": "science",
+          "vi": "khoa học"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-022",
+      "speaker": "child",
+      "level": 2,
+      "en": "I finished! Can you check it?",
+      "vi": "Con làm xong rồi! Kiểm tra giùm con nha?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-023",
+      "speaker": "child",
+      "level": 3,
+      "en": "This is too hard. I can't do it.",
+      "vi": "Bài này khó quá. Con làm không được.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-024",
+      "speaker": "child",
+      "level": 3,
+      "en": "I think I made a mistake on this one.",
+      "vi": "Con nghĩ câu này con làm sai rồi.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-025",
+      "speaker": "child",
+      "level": 2,
+      "en": "I have a ___ test tomorrow.",
+      "vi": "Mai con có bài kiểm tra ___.",
+      "slots": [
+        {
+          "en": "spelling",
+          "vi": "chính tả"
+        },
+        {
+          "en": "math",
+          "vi": "toán"
+        },
+        {
+          "en": "reading",
+          "vi": "đọc"
+        },
+        {
+          "en": "science",
+          "vi": "khoa học"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-026",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I take a quick break? My brain is tired.",
+      "vi": "Con nghỉ xíu được không? Đầu con mệt quá.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-027",
+      "speaker": "child",
+      "level": 2,
+      "en": "I already read for twenty minutes!",
+      "vi": "Con đọc đủ hai mươi phút rồi mà!",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-028",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can you quiz me on my spelling words?",
+      "vi": "Đọc mấy từ chính tả cho con viết thử nha?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-029",
+      "speaker": "child",
+      "level": 2,
+      "en": "I think it's due next Monday.",
+      "vi": "Hình như thứ Hai tuần sau mới phải nộp.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "homework-030",
+      "speaker": "child",
+      "level": 3,
+      "en": "I'm almost done with my ___ homework.",
+      "vi": "Con sắp làm xong bài ___ rồi.",
+      "slots": [
+        {
+          "en": "math",
+          "vi": "toán"
+        },
+        {
+          "en": "reading",
+          "vi": "đọc"
+        },
+        {
+          "en": "spelling",
+          "vi": "chính tả"
+        },
+        {
+          "en": "science",
+          "vi": "khoa học"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "homework-d01",
+      "titleEn": "Homework before play",
+      "titleVi": "Làm bài trước, chơi sau",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Hey, buddy. Do you have homework tonight?",
+          "vi": "Con trai ơi, tối nay con có bài tập không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Just a math worksheet. Can I play outside first?",
+          "vi": "Có một tờ bài toán thôi. Con ra ngoài chơi trước được không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "How about you finish it first, and then you can play until dinner?",
+          "vi": "Hay con làm xong trước, rồi chơi tới giờ ăn tối nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "But it's so nice outside! Everyone's out there.",
+          "vi": "Nhưng ngoài trời đẹp quá mà! Ai cũng ra ngoài chơi hết."
+        },
+        {
+          "speaker": "dad",
+          "en": "I know. It's only one page, right? It'll take you fifteen minutes.",
+          "vi": "Ba biết. Có một trang thôi mà, đúng không? Con làm chừng mười lăm phút là xong."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, but can I have a snack while I work?",
+          "vi": "Dạ được, nhưng con vừa làm vừa ăn chút gì được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure. Apple slices coming right up.",
+          "vi": "Được. Ba gọt táo cho con liền."
+        },
+        {
+          "speaker": "child",
+          "en": "Done! That was actually easy.",
+          "vi": "Xong rồi! Hóa ra dễ ghê."
+        },
+        {
+          "speaker": "dad",
+          "en": "See? Nice work. Go have fun, and be back by six.",
+          "vi": "Thấy chưa? Giỏi lắm. Đi chơi vui nha, sáu giờ về đó."
+        }
+      ]
+    },
+    {
+      "id": "homework-d02",
+      "titleEn": "Stuck on a word problem",
+      "titleVi": "Bí một bài toán đố",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, I don't get this one. It's so confusing.",
+          "vi": "Mẹ ơi, câu này con không hiểu. Rối quá à."
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay, let's read it together. What's the question asking?",
+          "vi": "Được, mình cùng đọc nha. Đề hỏi gì nè?"
+        },
+        {
+          "speaker": "child",
+          "en": "Sam has twelve cookies and gives away five. How many are left?",
+          "vi": "Sam có mười hai cái bánh, cho đi năm cái. Hỏi còn lại mấy cái?"
+        },
+        {
+          "speaker": "mom",
+          "en": "So, do we add or subtract?",
+          "vi": "Vậy mình cộng hay trừ?"
+        },
+        {
+          "speaker": "child",
+          "en": "Subtract? Because he gave some away.",
+          "vi": "Trừ hả mẹ? Vì bạn ấy cho bớt đi mà."
+        },
+        {
+          "speaker": "mom",
+          "en": "Exactly. Try it on your own first.",
+          "vi": "Đúng rồi. Con tự làm thử trước nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Twelve minus five is... six?",
+          "vi": "Mười hai trừ năm là... sáu?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm, count it again on your fingers.",
+          "vi": "Hmm, con đếm lại bằng ngón tay coi."
+        },
+        {
+          "speaker": "child",
+          "en": "Oh wait, it's seven! I knew that.",
+          "vi": "À khoan, bảy chứ! Con biết mà."
+        },
+        {
+          "speaker": "mom",
+          "en": "You got it. See? A little mistake is no big deal.",
+          "vi": "Đúng rồi đó. Thấy chưa? Sai chút xíu đâu có sao."
+        }
+      ]
+    },
+    {
+      "id": "homework-d03",
+      "titleEn": "Spelling test tomorrow",
+      "titleVi": "Mai kiểm tra chính tả",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Your spelling test is tomorrow, right? Want me to quiz you?",
+          "vi": "Mai con kiểm tra chính tả đúng không? Muốn ba đọc cho con viết thử không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Ugh, fine. But only five words.",
+          "vi": "Trời ơi, thôi được. Nhưng năm từ thôi nha."
+        },
+        {
+          "speaker": "dad",
+          "en": "Let's do all ten. They're not that hard. First word: because.",
+          "vi": "Mình làm đủ mười từ nha. Không khó lắm đâu. Từ đầu tiên: because."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, done. Did I get it right?",
+          "vi": "Dạ xong. Con viết đúng không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yep! Next one: friend.",
+          "vi": "Đúng rồi! Từ tiếp theo: friend."
+        },
+        {
+          "speaker": "child",
+          "en": "Hmm, I always mix up the letters in this one.",
+          "vi": "Hmm, từ này con hay lộn chữ quá."
+        },
+        {
+          "speaker": "dad",
+          "en": "Remember, the I comes before the E.",
+          "vi": "Nhớ nha, chữ I đứng trước chữ E."
+        },
+        {
+          "speaker": "child",
+          "en": "Oh, right! Let me fix it.",
+          "vi": "À đúng rồi! Để con sửa."
+        },
+        {
+          "speaker": "dad",
+          "en": "Let's write it three times so it sticks.",
+          "vi": "Mình viết ba lần cho nhớ nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. And then can we stop?",
+          "vi": "Dạ. Rồi mình nghỉ được chưa ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "After the last three words. You're doing great.",
+          "vi": "Xong ba từ cuối nha. Con làm tốt lắm."
+        }
+      ]
+    },
+    {
+      "id": "homework-d04",
+      "titleEn": "The project is due Friday",
+      "titleVi": "Thứ Sáu phải nộp dự án",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "When is your solar system project due?",
+          "vi": "Dự án hệ mặt trời của con khi nào phải nộp?"
+        },
+        {
+          "speaker": "child",
+          "en": "Um... Friday, I think.",
+          "vi": "Ờm... thứ Sáu, hình như vậy."
+        },
+        {
+          "speaker": "mom",
+          "en": "This Friday? That's in three days!",
+          "vi": "Thứ Sáu tuần này hả? Còn có ba ngày à!"
+        },
+        {
+          "speaker": "child",
+          "en": "I know, I know. I kind of forgot about it.",
+          "vi": "Con biết, con biết. Con lỡ quên mất."
+        },
+        {
+          "speaker": "mom",
+          "en": "It's okay. Let's make a plan so it's not so stressful.",
+          "vi": "Không sao. Mình lên kế hoạch cho đỡ căng thẳng nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Can I make the planets out of clay? That'd be so cool.",
+          "vi": "Con làm mấy hành tinh bằng đất sét được không? Vậy hay lắm."
+        },
+        {
+          "speaker": "mom",
+          "en": "Great idea. Today, you make the planets. Tomorrow, you write the labels.",
+          "vi": "Ý hay đó. Hôm nay con nặn hành tinh. Mai con viết nhãn."
+        },
+        {
+          "speaker": "child",
+          "en": "And on Thursday I'll put it all together!",
+          "vi": "Rồi thứ Năm con ráp lại hết!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Perfect. And next time, let's write the due date on the calendar.",
+          "vi": "Tuyệt. Lần sau mình ghi hạn nộp lên lịch nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Deal. Can we buy clay today?",
+          "vi": "Chốt. Hôm nay mình mua đất sét được không mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "We'll stop by the store after dinner.",
+          "vi": "Ăn tối xong mình ghé tiệm mua nha."
+        }
+      ]
+    },
+    {
+      "id": "homework-d05",
+      "titleEn": "Reading time",
+      "titleVi": "Giờ đọc sách",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Did you do your reading for today?",
+          "vi": "Hôm nay con đọc sách chưa?"
+        },
+        {
+          "speaker": "child",
+          "en": "Not yet. Does a comic book count?",
+          "vi": "Chưa ba. Đọc truyện tranh có tính không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, what does your teacher say?",
+          "vi": "Hmm, cô giáo con nói sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "She says any book counts, as long as I read for twenty minutes.",
+          "vi": "Cô nói sách gì cũng được, miễn là đọc đủ hai mươi phút."
+        },
+        {
+          "speaker": "dad",
+          "en": "Then go for it. I'll set a timer.",
+          "vi": "Vậy thì đọc đi. Ba hẹn giờ cho."
+        },
+        {
+          "speaker": "child",
+          "en": "Can I read on the couch with you?",
+          "vi": "Con ngồi đọc trên ghế sô pha với ba được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure. I'll read my book, too.",
+          "vi": "Được chứ. Ba cũng đọc sách của ba."
+        },
+        {
+          "speaker": "child",
+          "en": "Time's up! Can you sign my reading log?",
+          "vi": "Hết giờ rồi! Ba ký sổ đọc sách cho con nha?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure. What was your favorite part?",
+          "vi": "Ừ. Con thích đoạn nào nhất?"
+        },
+        {
+          "speaker": "child",
+          "en": "When the dog saved the whole team. It was so funny.",
+          "vi": "Đoạn con chó cứu cả đội. Mắc cười lắm."
+        }
+      ]
+    }
+  ]
+}

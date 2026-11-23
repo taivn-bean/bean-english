@@ -6,14 +6,22 @@
       "speaker": "parent",
       "level": 2,
       "en": "Let's get a cart.",
-      "vi": "Mình lấy xe đẩy nha."
+      "vi": "Mình lấy xe đẩy nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "shopping-002",
       "speaker": "parent",
       "level": 3,
       "en": "Do you want to sit in the cart?",
-      "vi": "Con muốn ngồi trên xe đẩy không?"
+      "vi": "Con muốn ngồi trên xe đẩy không?",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "shopping-003",
@@ -42,6 +50,11 @@
           "en": "rice",
           "vi": "gạo"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -67,6 +80,11 @@
           "en": "yogurt",
           "vi": "sữa chua"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -92,6 +110,10 @@
           "en": "carrots",
           "vi": "cà rốt"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -117,6 +139,11 @@
           "en": "eggs",
           "vi": "quả trứng"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -142,6 +169,10 @@
           "en": "flowers",
           "vi": "hoa"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -149,84 +180,134 @@
       "speaker": "parent",
       "level": 2,
       "en": "Stay by the cart.",
-      "vi": "Đứng cạnh xe đẩy nha con."
+      "vi": "Đứng cạnh xe đẩy nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "shopping-009",
       "speaker": "parent",
       "level": 2,
       "en": "We look with our eyes.",
-      "vi": "Mình chỉ nhìn bằng mắt thôi nha."
+      "vi": "Mình chỉ nhìn bằng mắt thôi nha.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "shopping-010",
       "speaker": "parent",
       "level": 2,
       "en": "Not today. Maybe next time.",
-      "vi": "Hôm nay chưa mua nha. Để lần sau."
+      "vi": "Hôm nay chưa mua nha. Để lần sau.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "shopping-011",
       "speaker": "parent",
       "level": 1,
       "en": "Let's pay now.",
-      "vi": "Mình đi tính tiền nào."
+      "vi": "Mình đi tính tiền nào.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "shopping-012",
       "speaker": "parent",
       "level": 3,
       "en": "Can you help me carry the bag?",
-      "vi": "Con phụ xách túi được không?"
+      "vi": "Con phụ xách túi được không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "shopping-013",
       "speaker": "parent",
       "level": 2,
       "en": "What a big helper!",
-      "vi": "Con phụ giỏi quá!"
+      "vi": "Con phụ giỏi quá!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "shopping-014",
       "speaker": "parent",
       "level": 1,
       "en": "Wow, that's heavy!",
-      "vi": "Ui, nặng quá!"
+      "vi": "Ui, nặng quá!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "shopping-015",
       "speaker": "child",
       "level": 1,
       "en": "I want that!",
-      "vi": "Con muốn cái đó!"
+      "vi": "Con muốn cái đó!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "shopping-016",
       "speaker": "child",
       "level": 2,
       "en": "I want to push!",
-      "vi": "Con muốn đẩy!"
+      "vi": "Con muốn đẩy!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "shopping-017",
       "speaker": "child",
       "level": 1,
       "en": "Cookies, please!",
-      "vi": "Cho con bánh quy!"
+      "vi": "Cho con bánh quy!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "shopping-018",
       "speaker": "child",
       "level": 1,
       "en": "I found it!",
-      "vi": "Con tìm thấy rồi!"
+      "vi": "Con tìm thấy rồi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "shopping-019",
       "speaker": "child",
       "level": 1,
       "en": "In the cart!",
-      "vi": "Bỏ vô xe!"
+      "vi": "Bỏ vô xe!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "shopping-020",
@@ -247,6 +328,10 @@
           "en": "bread",
           "vi": "bánh mì"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -272,6 +357,11 @@
           "en": "bananas",
           "vi": "chuối"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -279,14 +369,23 @@
       "speaker": "parent",
       "level": 2,
       "en": "Let's put it on the belt.",
-      "vi": "Mình để đồ lên băng chuyền nha."
+      "vi": "Mình để đồ lên băng chuyền nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "shopping-023",
       "speaker": "parent",
       "level": 2,
       "en": "Let's make a list.",
-      "vi": "Mình ghi ra mấy món cần mua nha."
+      "vi": "Mình ghi ra mấy món cần mua nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "shopping-024",
@@ -307,6 +406,11 @@
           "en": "bananas",
           "vi": "chuối"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -314,14 +418,23 @@
       "speaker": "parent",
       "level": 2,
       "en": "Let's wait in line.",
-      "vi": "Mình xếp hàng chờ nha."
+      "vi": "Mình xếp hàng chờ nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "shopping-026",
       "speaker": "parent",
       "level": 1,
       "en": "Let's go shopping!",
-      "vi": "Mình đi mua đồ nha!"
+      "vi": "Mình đi mua đồ nha!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "shopping-027",
@@ -342,6 +455,10 @@
           "en": "balloon",
           "vi": "trái bong bóng"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -349,21 +466,280 @@
       "speaker": "child",
       "level": 2,
       "en": "Is that for me?",
-      "vi": "Cái đó cho con hả?"
+      "vi": "Cái đó cho con hả?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "shopping-029",
       "speaker": "child",
       "level": 1,
       "en": "Can I pay?",
-      "vi": "Con trả tiền được không?"
+      "vi": "Con trả tiền được không?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "shopping-030",
       "speaker": "child",
       "level": 2,
       "en": "I can carry it!",
-      "vi": "Con xách được!"
+      "vi": "Con xách được!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "shopping-031",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you cross ___ off the list?",
+      "vi": "Con gạch ___ ra khỏi danh sách nha.",
+      "slots": [
+        {
+          "en": "the milk",
+          "vi": "sữa"
+        },
+        {
+          "en": "the eggs",
+          "vi": "trứng"
+        },
+        {
+          "en": "the bread",
+          "vi": "bánh mì"
+        },
+        {
+          "en": "the bananas",
+          "vi": "chuối"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "shopping-032",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you grab a bag of ___?",
+      "vi": "Con lấy giùm một bịch ___ nha?",
+      "slots": [
+        {
+          "en": "apples",
+          "vi": "táo"
+        },
+        {
+          "en": "carrots",
+          "vi": "cà rốt"
+        },
+        {
+          "en": "rice",
+          "vi": "gạo"
+        },
+        {
+          "en": "chips",
+          "vi": "bánh snack"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "shopping-033",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Remember, we're only getting what's on the list.",
+      "vi": "Nhớ nha, mình chỉ mua mấy món có trong danh sách thôi.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "shopping-034",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Stay where I can see you, okay?",
+      "vi": "Đừng đi xa khỏi tầm mắt nha con.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "shopping-035",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You can put it on your birthday list.",
+      "vi": "Con ghi món đó vô danh sách quà sinh nhật nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "shopping-036",
+      "speaker": "child",
+      "level": 2,
+      "en": "I found the ___!",
+      "vi": "Con tìm thấy ___ rồi!",
+      "slots": [
+        {
+          "en": "cereal",
+          "vi": "ngũ cốc"
+        },
+        {
+          "en": "milk",
+          "vi": "sữa"
+        },
+        {
+          "en": "yogurt",
+          "vi": "sữa chua"
+        },
+        {
+          "en": "cheese",
+          "vi": "phô mai"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "shopping-037",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can we get ice cream, please?",
+      "vi": "Mình mua kem được không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "shopping-038",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Which one is cheaper? Let's compare the prices.",
+      "vi": "Cái nào rẻ hơn? Mình so giá thử coi.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "shopping-039",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you write the shopping list for me?",
+      "vi": "Con viết danh sách đi chợ giùm nha?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "shopping-040",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you check how much the ___ costs?",
+      "vi": "Con coi giùm ___ giá bao nhiêu nha?",
+      "slots": [
+        {
+          "en": "cereal",
+          "vi": "hộp ngũ cốc"
+        },
+        {
+          "en": "cheese",
+          "vi": "miếng phô mai"
+        },
+        {
+          "en": "juice",
+          "vi": "chai nước trái cây"
+        },
+        {
+          "en": "chicken",
+          "vi": "con gà"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "shopping-041",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you save your allowance, you can buy ___ yourself.",
+      "vi": "Nếu con để dành tiền tiêu vặt thì con tự mua ___ được đó.",
+      "slots": [
+        {
+          "en": "that toy",
+          "vi": "món đồ chơi đó"
+        },
+        {
+          "en": "that game",
+          "vi": "trò chơi đó"
+        },
+        {
+          "en": "a new book",
+          "vi": "một cuốn sách mới"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "shopping-042",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you put the cart back for me?",
+      "vi": "Con đem xe đẩy trả lại giùm nha?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "shopping-043",
+      "speaker": "child",
+      "level": 3,
+      "en": "This one is cheaper, and it's the same size.",
+      "vi": "Cái này rẻ hơn mà cùng cỡ luôn.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "shopping-044",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I buy ___ with my own money?",
+      "vi": "Con lấy tiền của con mua ___ được không?",
+      "slots": [
+        {
+          "en": "this book",
+          "vi": "cuốn sách này"
+        },
+        {
+          "en": "a snack",
+          "vi": "một món ăn vặt"
+        },
+        {
+          "en": "this toy",
+          "vi": "món đồ chơi này"
+        },
+        {
+          "en": "a gift for Grandma",
+          "vi": "quà cho bà"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
     }
   ],
   "dialogues": [
@@ -397,6 +773,9 @@
           "en": "What a big helper!",
           "vi": "Con phụ giỏi quá!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -439,6 +818,10 @@
           "en": "Good counting!",
           "vi": "Con đếm giỏi quá!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -481,6 +864,125 @@
           "en": "I'm strong!",
           "vi": "Con khỏe lắm!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "shopping-d04",
+      "titleEn": "Checking the list",
+      "titleVi": "Coi danh sách",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Okay, what's next on the list?",
+          "vi": "Rồi, trong danh sách còn món gì nữa con?"
+        },
+        {
+          "speaker": "child",
+          "en": "Milk! Can I get it?",
+          "vi": "Sữa! Con lấy nha?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure. Grab the big one, please.",
+          "vi": "Ừ. Lấy hộp lớn nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Got it! It's heavy.",
+          "vi": "Lấy rồi! Nặng quá."
+        },
+        {
+          "speaker": "mom",
+          "en": "Thanks! Now can you cross the milk off the list?",
+          "vi": "Cảm ơn con! Giờ con gạch sữa ra khỏi danh sách nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Done! Can we get ice cream too?",
+          "vi": "Xong rồi! Mình mua kem luôn được không mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "It's not on the list. Maybe next time.",
+          "vi": "Kem không có trong danh sách. Để lần sau nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Then can I push the cart?",
+          "vi": "Dạ. Vậy cho con đẩy xe nha?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure. Nice and slow, okay?",
+          "vi": "Được. Đẩy chầm chậm thôi nha."
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "shopping-d05",
+      "titleEn": "Comparing prices",
+      "titleVi": "So giá",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "We need cereal. Can you check the prices for me?",
+          "vi": "Mình cần mua ngũ cốc. Con coi giá giùm ba nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "This box is four dollars, and that one is six.",
+          "vi": "Hộp này bốn đô, còn hộp kia sáu đô."
+        },
+        {
+          "speaker": "dad",
+          "en": "Which one is the better deal?",
+          "vi": "Hộp nào mua lợi hơn?"
+        },
+        {
+          "speaker": "child",
+          "en": "The cheap one? Wait, the big one has way more inside.",
+          "vi": "Hộp rẻ hả? Khoan, hộp lớn có nhiều hơn nhiều."
+        },
+        {
+          "speaker": "dad",
+          "en": "Good thinking. So which one should we get?",
+          "vi": "Con nghĩ hay đó. Vậy mình nên mua hộp nào?"
+        },
+        {
+          "speaker": "child",
+          "en": "The big one. It'll last longer.",
+          "vi": "Hộp lớn. Ăn được lâu hơn."
+        },
+        {
+          "speaker": "dad",
+          "en": "Smart choice. Can you put it in the cart?",
+          "vi": "Chọn hay lắm. Con bỏ vô xe đẩy nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "Sure. Can I buy a snack with my own money?",
+          "vi": "Dạ. Con lấy tiền của con mua đồ ăn vặt được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure. How much do you have?",
+          "vi": "Được. Con có bao nhiêu tiền?"
+        },
+        {
+          "speaker": "child",
+          "en": "Five dollars! I'll pick something cheap.",
+          "vi": "Năm đô! Con sẽ chọn món nào rẻ rẻ."
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

@@ -1,0 +1,758 @@
+{
+  "topicId": "screen-time",
+  "phrases": [
+    {
+      "id": "screen-time-001",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You have ___ more minutes.",
+      "vi": "Con còn ___ phút nữa nha.",
+      "slots": [
+        {
+          "en": "ten",
+          "vi": "mười"
+        },
+        {
+          "en": "five",
+          "vi": "năm"
+        },
+        {
+          "en": "two",
+          "vi": "hai"
+        },
+        {
+          "en": "fifteen",
+          "vi": "mười lăm"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-002",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's set a timer so you know when to stop.",
+      "vi": "Mình hẹn giờ để con biết lúc nào dừng nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-003",
+      "speaker": "parent",
+      "level": 3,
+      "en": "When the timer goes off, it's time to turn it off.",
+      "vi": "Chuông reo là tắt máy nha con.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Screen time is over for today.",
+      "vi": "Hôm nay hết giờ xem rồi nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-005",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Finish your level, then put it away.",
+      "vi": "Con chơi hết màn này rồi cất máy nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-006",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You can play after you ___.",
+      "vi": "Con ___ xong rồi mới được chơi nha.",
+      "slots": [
+        {
+          "en": "finish your homework",
+          "vi": "làm bài tập"
+        },
+        {
+          "en": "clean your room",
+          "vi": "dọn phòng"
+        },
+        {
+          "en": "practice piano",
+          "vi": "tập đàn"
+        },
+        {
+          "en": "eat dinner",
+          "vi": "ăn tối"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You can pick one ___.",
+      "vi": "Con được chọn một ___ thôi nha.",
+      "slots": [
+        {
+          "en": "show",
+          "vi": "chương trình"
+        },
+        {
+          "en": "episode",
+          "vi": "tập phim"
+        },
+        {
+          "en": "game",
+          "vi": "trò chơi"
+        },
+        {
+          "en": "movie",
+          "vi": "bộ phim"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-008",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Is that game okay for kids your age?",
+      "vi": "Trò đó có hợp với tuổi con không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Never share your ___ online.",
+      "vi": "Đừng bao giờ đưa ___ của con lên mạng nha.",
+      "slots": [
+        {
+          "en": "address",
+          "vi": "địa chỉ"
+        },
+        {
+          "en": "full name",
+          "vi": "họ tên đầy đủ"
+        },
+        {
+          "en": "school name",
+          "vi": "tên trường"
+        },
+        {
+          "en": "password",
+          "vi": "mật khẩu"
+        },
+        {
+          "en": "phone number",
+          "vi": "số điện thoại"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Ask me before you download anything.",
+      "vi": "Muốn tải gì về thì hỏi mình trước nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-011",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If something online makes you feel weird, come tell me.",
+      "vi": "Nếu thấy gì trên mạng làm con thấy kỳ kỳ, kể cho mình nghe nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-012",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You won't get in trouble for telling me.",
+      "vi": "Con kể với mình thì sẽ không bị la đâu.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Only chat with people you know in real life.",
+      "vi": "Chỉ nói chuyện với người con quen ngoài đời thôi nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Your eyes need a break. Let's go outside for a bit.",
+      "vi": "Mắt con cần nghỉ rồi. Mình ra ngoài chơi chút nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-015",
+      "speaker": "parent",
+      "level": 3,
+      "en": "How about we ___ instead?",
+      "vi": "Hay là mình ___ đi?",
+      "slots": [
+        {
+          "en": "play a board game",
+          "vi": "chơi cờ"
+        },
+        {
+          "en": "go for a bike ride",
+          "vi": "đi đạp xe"
+        },
+        {
+          "en": "bake cookies",
+          "vi": "làm bánh quy"
+        },
+        {
+          "en": "draw together",
+          "vi": "vẽ tranh chung"
+        },
+        {
+          "en": "read a book",
+          "vi": "đọc sách"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-016",
+      "speaker": "parent",
+      "level": 2,
+      "en": "No screens at the dinner table.",
+      "vi": "Không xem điện thoại hay máy tính bảng trên bàn ăn nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-017",
+      "speaker": "parent",
+      "level": 3,
+      "en": "No screens for an hour before bed.",
+      "vi": "Một tiếng trước khi ngủ là không xem màn hình nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-018",
+      "speaker": "parent",
+      "level": 3,
+      "en": "I know it's hard to stop when you're having fun.",
+      "vi": "Mình biết đang vui mà phải dừng thì khó lắm.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-019",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I have ___ more minutes?",
+      "vi": "Cho con thêm ___ phút nữa được không?",
+      "slots": [
+        {
+          "en": "five",
+          "vi": "năm"
+        },
+        {
+          "en": "two",
+          "vi": "hai"
+        },
+        {
+          "en": "ten",
+          "vi": "mười"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-020",
+      "speaker": "child",
+      "level": 2,
+      "en": "Just let me finish this level!",
+      "vi": "Cho con chơi hết màn này thôi!",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-021",
+      "speaker": "child",
+      "level": 3,
+      "en": "I'm almost at the end of the episode.",
+      "vi": "Tập này con xem sắp hết rồi.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-022",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I download this ___?",
+      "vi": "Con tải ___ này về được không?",
+      "slots": [
+        {
+          "en": "game",
+          "vi": "trò chơi"
+        },
+        {
+          "en": "app",
+          "vi": "ứng dụng"
+        },
+        {
+          "en": "song",
+          "vi": "bài hát"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-023",
+      "speaker": "child",
+      "level": 3,
+      "en": "A stranger sent me a message in my game.",
+      "vi": "Có người lạ nhắn tin cho con trong game.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-024",
+      "speaker": "child",
+      "level": 3,
+      "en": "A weird ad popped up. What do I do?",
+      "vi": "Có cái quảng cáo lạ hiện lên. Con phải làm sao?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-025",
+      "speaker": "child",
+      "level": 3,
+      "en": "That's not fair! Sam gets two hours.",
+      "vi": "Không công bằng! Sam được chơi tới hai tiếng.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-026",
+      "speaker": "child",
+      "level": 3,
+      "en": "I already did my homework. Can I play now?",
+      "vi": "Con làm bài xong rồi. Giờ con chơi được chưa?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-027",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can we watch a movie on ___ night?",
+      "vi": "Tối ___ mình xem phim được không?",
+      "slots": [
+        {
+          "en": "Friday",
+          "vi": "thứ Sáu"
+        },
+        {
+          "en": "Saturday",
+          "vi": "thứ Bảy"
+        },
+        {
+          "en": "Sunday",
+          "vi": "Chủ nhật"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "Okay, I'm turning it off now.",
+      "vi": "Dạ, con tắt liền nè.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-029",
+      "speaker": "child",
+      "level": 3,
+      "en": "I'm bored. There's nothing to do without the tablet.",
+      "vi": "Con chán quá. Không có máy tính bảng thì chẳng có gì làm.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "screen-time-030",
+      "speaker": "child",
+      "level": 3,
+      "en": "Want to see the house I built in my game?",
+      "vi": "Ba mẹ muốn coi cái nhà con xây trong game không?",
+      "ages": [
+        "7-9"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "screen-time-d01",
+      "titleEn": "Just one more level",
+      "titleVi": "Cho con chơi thêm màn nữa",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Hey, the timer just went off. Time to turn it off.",
+          "vi": "Nè, chuông reo rồi. Tới giờ tắt máy rồi con."
+        },
+        {
+          "speaker": "child",
+          "en": "Wait, wait! Can I just finish this level?",
+          "vi": "Khoan khoan! Cho con chơi hết màn này thôi?"
+        },
+        {
+          "speaker": "mom",
+          "en": "How long will it take?",
+          "vi": "Mất bao lâu nữa?"
+        },
+        {
+          "speaker": "child",
+          "en": "Like two minutes. I'm almost at the boss!",
+          "vi": "Chừng hai phút. Con sắp tới con trùm rồi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay, two minutes. Then it goes on the charger.",
+          "vi": "Được, hai phút. Rồi cắm sạc nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Yes! Thanks, Mom!",
+          "vi": "Yeah! Cảm ơn mẹ!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay, two minutes are up.",
+          "vi": "Rồi, hết hai phút rồi đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Oh man, I lost anyway. Can I try one more time?",
+          "vi": "Ôi, đằng nào con cũng thua. Cho con chơi lại một lần nữa nha?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Not today. You can try again tomorrow.",
+          "vi": "Hôm nay vậy thôi. Mai con chơi lại nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Fine. Can we play cards instead?",
+          "vi": "Thôi được. Vậy mình chơi bài được không mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "I'd love that. Go get the cards.",
+          "vi": "Mẹ thích lắm. Đi lấy bộ bài đi con."
+        }
+      ]
+    },
+    {
+      "id": "screen-time-d02",
+      "titleEn": "A message from a stranger",
+      "titleVi": "Tin nhắn từ người lạ",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Dad, someone sent me a message in my game.",
+          "vi": "Ba ơi, có người nhắn tin cho con trong game."
+        },
+        {
+          "speaker": "dad",
+          "en": "Oh? Do you know who it is?",
+          "vi": "Vậy hả? Con có biết là ai không?"
+        },
+        {
+          "speaker": "child",
+          "en": "No. They asked what school I go to.",
+          "vi": "Không. Người đó hỏi con học trường nào."
+        },
+        {
+          "speaker": "dad",
+          "en": "I'm really glad you told me. Did you answer?",
+          "vi": "Ba mừng là con kể cho ba. Con có trả lời không?"
+        },
+        {
+          "speaker": "child",
+          "en": "No. It felt kind of weird.",
+          "vi": "Không. Con thấy hơi kỳ kỳ."
+        },
+        {
+          "speaker": "dad",
+          "en": "You did exactly the right thing. We never share that with strangers online.",
+          "vi": "Con làm đúng lắm. Mình không bao giờ nói chuyện đó với người lạ trên mạng."
+        },
+        {
+          "speaker": "child",
+          "en": "Am I in trouble?",
+          "vi": "Con có bị la không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Not at all. Let's block them together.",
+          "vi": "Không hề. Mình cùng chặn người đó nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Can I still play the game?",
+          "vi": "Dạ. Con vẫn chơi game được chứ?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yes, but let's turn off chat with strangers.",
+          "vi": "Được, nhưng mình tắt chat với người lạ nha."
+        }
+      ]
+    },
+    {
+      "id": "screen-time-d03",
+      "titleEn": "Movie night",
+      "titleVi": "Tối xem phim",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "It's movie night! What should we watch?",
+          "vi": "Tối nay xem phim nè! Mình xem gì đây?"
+        },
+        {
+          "speaker": "child",
+          "en": "Can we watch the scary one about zombies?",
+          "vi": "Mình xem phim zombie ghê ghê đó được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm, that one's for older kids. It might give you bad dreams.",
+          "vi": "Hmm, phim đó dành cho anh chị lớn hơn. Coi xong dễ gặp ác mộng lắm."
+        },
+        {
+          "speaker": "child",
+          "en": "But Ben watched it, and he's eight too!",
+          "vi": "Nhưng Ben coi rồi mà bạn cũng tám tuổi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Every family has different rules. Let's pick something we'll all enjoy.",
+          "vi": "Mỗi nhà có luật riêng. Mình chọn phim nào cả nhà cùng thích nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay... how about the one with the talking dog?",
+          "vi": "Dạ... vậy phim con chó biết nói thì sao?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Ooh, I heard that one's really funny.",
+          "vi": "Ồ, nghe nói phim đó vui lắm."
+        },
+        {
+          "speaker": "child",
+          "en": "Can we have popcorn?",
+          "vi": "Mình ăn bắp rang được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Of course. It's not movie night without popcorn!",
+          "vi": "Đương nhiên. Xem phim mà không có bắp rang sao được!"
+        },
+        {
+          "speaker": "child",
+          "en": "I'll get the blankets!",
+          "vi": "Con đi lấy mền!"
+        }
+      ]
+    },
+    {
+      "id": "screen-time-d04",
+      "titleEn": "Bored without the tablet",
+      "titleVi": "Không có máy tính bảng thì chán",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Dad, I'm bored. Can I use the tablet?",
+          "vi": "Ba ơi, con chán quá. Con chơi máy tính bảng được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "You already had your screen time this morning.",
+          "vi": "Sáng nay con xài máy rồi mà."
+        },
+        {
+          "speaker": "child",
+          "en": "But there's nothing else to do!",
+          "vi": "Nhưng đâu còn gì làm nữa!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, let's think. We could bake cookies or go for a bike ride.",
+          "vi": "Hmm, để coi. Mình làm bánh quy hoặc đi đạp xe."
+        },
+        {
+          "speaker": "child",
+          "en": "Bike rides are boring. We always go to the same park.",
+          "vi": "Đạp xe chán lắm. Lúc nào cũng ra cái công viên đó."
+        },
+        {
+          "speaker": "dad",
+          "en": "Then you pick a new way to go. You can be the leader.",
+          "vi": "Vậy con chọn đường mới đi. Con dẫn đường."
+        },
+        {
+          "speaker": "child",
+          "en": "Really? Can we go to the lake?",
+          "vi": "Thiệt hả? Mình ra hồ được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure. Grab your helmet.",
+          "vi": "Được. Lấy mũ bảo hiểm đi con."
+        },
+        {
+          "speaker": "child",
+          "en": "And can we get ice cream on the way back?",
+          "vi": "Lúc về mình ăn kem được không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Ha, nice try. Okay, but just a small one.",
+          "vi": "Haha, khéo ghê. Được, nhưng ly nhỏ thôi."
+        }
+      ]
+    },
+    {
+      "id": "screen-time-d05",
+      "titleEn": "Can I get this game?",
+      "titleVi": "Con tải game này được không?",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, can I download this new game? Everybody in my class has it.",
+          "vi": "Mẹ ơi, con tải game mới này được không? Cả lớp ai cũng có."
+        },
+        {
+          "speaker": "mom",
+          "en": "Thanks for asking first. What's it called?",
+          "vi": "Cảm ơn con đã hỏi trước. Game tên gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "Block Party. You build cities with your friends.",
+          "vi": "Block Party. Mình xây thành phố với bạn bè."
+        },
+        {
+          "speaker": "mom",
+          "en": "Let's look at it together. Hmm, it says ages twelve and up.",
+          "vi": "Mình cùng coi nha. Hmm, ghi là từ mười hai tuổi trở lên."
+        },
+        {
+          "speaker": "child",
+          "en": "Oh man. But I'm almost nine!",
+          "vi": "Ôi. Mà con gần chín tuổi rồi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "I know. And strangers can chat with you in it, so it's a no for now.",
+          "vi": "Mẹ biết. Mà trong game đó người lạ nhắn tin với con được, nên giờ chưa được nha."
+        },
+        {
+          "speaker": "child",
+          "en": "That's so unfair.",
+          "vi": "Vậy bất công quá."
+        },
+        {
+          "speaker": "mom",
+          "en": "I get it. Let's find a building game that's made for kids your age.",
+          "vi": "Mẹ hiểu. Mình kiếm game xây dựng nào dành cho tuổi con nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Can it have dragons?",
+          "vi": "Dạ. Có rồng được không mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Let's look for one with dragons.",
+          "vi": "Mình tìm game có rồng nha."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "topicId": "weekend-plans",
+  "phrases": [
+    {
+      "id": "weekend-plans-001",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What do you want to do this weekend?",
+      "vi": "Cuối tuần này con muốn làm gì?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-002",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We're going to visit ___ on Saturday.",
+      "vi": "Thứ Bảy này nhà mình sẽ đi thăm ___.",
+      "slots": [
+        {
+          "en": "Grandma and Grandpa",
+          "vi": "ông bà"
+        },
+        {
+          "en": "your aunt",
+          "vi": "dì"
+        },
+        {
+          "en": "your uncle",
+          "vi": "cậu"
+        },
+        {
+          "en": "your cousins",
+          "vi": "mấy anh chị em họ"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's make a plan for Saturday.",
+      "vi": "Mình lên kế hoạch cho thứ Bảy nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-004",
+      "speaker": "parent",
+      "level": 3,
+      "en": "How about we go to the ___ on Sunday?",
+      "vi": "Chủ Nhật mình đi ___ nha, con thấy sao?",
+      "slots": [
+        {
+          "en": "beach",
+          "vi": "biển"
+        },
+        {
+          "en": "zoo",
+          "vi": "sở thú"
+        },
+        {
+          "en": "park",
+          "vi": "công viên"
+        },
+        {
+          "en": "swimming pool",
+          "vi": "hồ bơi"
+        },
+        {
+          "en": "bookstore",
+          "vi": "nhà sách"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-005",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You pick one thing, and I'll pick one thing.",
+      "vi": "Con chọn một việc, rồi tới lượt mình chọn một việc nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-006",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If it rains, we'll ___ instead.",
+      "vi": "Nếu trời mưa thì mình đổi qua ___ nha.",
+      "slots": [
+        {
+          "en": "watch a movie at home",
+          "vi": "ở nhà coi phim"
+        },
+        {
+          "en": "go to the library",
+          "vi": "đi thư viện"
+        },
+        {
+          "en": "bake cookies",
+          "vi": "làm bánh quy"
+        },
+        {
+          "en": "play board games",
+          "vi": "chơi cờ bàn"
+        },
+        {
+          "en": "go to the mall",
+          "vi": "đi trung tâm thương mại"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's check the weather first.",
+      "vi": "Để coi dự báo thời tiết trước đã.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-008",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Pack your backpack tonight so we're ready in the morning.",
+      "vi": "Tối nay con soạn balo luôn đi, để sáng mai đi cho kịp.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-009",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Did you remember to pack your ___?",
+      "vi": "Con nhớ soạn ___ chưa?",
+      "slots": [
+        {
+          "en": "swimsuit",
+          "vi": "đồ bơi"
+        },
+        {
+          "en": "hat",
+          "vi": "nón"
+        },
+        {
+          "en": "water bottle",
+          "vi": "bình nước"
+        },
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        },
+        {
+          "en": "sunscreen",
+          "vi": "kem chống nắng"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-010",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We're leaving at eight, so set your alarm.",
+      "vi": "Tám giờ mình đi, nên con đặt báo thức nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-011",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It's a long drive, so bring something to do in the car.",
+      "vi": "Đường xa lắm, con mang theo gì đó để làm trên xe nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-012",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Grandma's going to be so happy to see you.",
+      "vi": "Bà sẽ mừng lắm khi gặp con đó.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Make sure you say hi to ___ when we get there.",
+      "vi": "Tới nơi nhớ chào ___ nha con.",
+      "slots": [
+        {
+          "en": "everyone",
+          "vi": "mọi người"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "your uncle",
+          "vi": "cậu"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We can't do everything, so let's pick our top two.",
+      "vi": "Mình không làm hết được đâu, nên chọn ra hai việc thích nhất nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-015",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Plans changed. We'll go next weekend instead, I promise.",
+      "vi": "Kế hoạch đổi rồi con. Cuối tuần sau mình đi nha, hứa đó.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-016",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Do you want to invite a friend to come along?",
+      "vi": "Con có muốn rủ bạn nào đi chung không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-017",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What was the best part of your weekend?",
+      "vi": "Cuối tuần này con thích nhất là gì?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-018",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Saturday is a lazy day. No plans!",
+      "vi": "Thứ Bảy này nghỉ xả hơi. Không đi đâu hết!",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-019",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We're staying overnight, so pack your pajamas and toothbrush.",
+      "vi": "Mình sẽ ngủ lại đó, nên con soạn đồ ngủ với bàn chải nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-020",
+      "speaker": "child",
+      "level": 2,
+      "en": "What are we doing on Saturday?",
+      "vi": "Thứ Bảy nhà mình làm gì vậy mẹ?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-021",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can we go to the ___ this weekend?",
+      "vi": "Cuối tuần này mình đi ___ được không mẹ?",
+      "slots": [
+        {
+          "en": "water park",
+          "vi": "công viên nước"
+        },
+        {
+          "en": "movies",
+          "vi": "coi phim"
+        },
+        {
+          "en": "zoo",
+          "vi": "sở thú"
+        },
+        {
+          "en": "bookstore",
+          "vi": "nhà sách"
+        },
+        {
+          "en": "aquarium",
+          "vi": "thủy cung"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-022",
+      "speaker": "child",
+      "level": 3,
+      "en": "I want to go to the beach because I can build sandcastles.",
+      "vi": "Con muốn đi biển vì con được xây lâu đài cát.",
+      "ipa": "/aɪ wɑnt tu ɡoʊ tu ðə bitʃ bɪˈkɔz aɪ kæn bɪld sænd ˈkæsəlz/",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-023",
+      "speaker": "child",
+      "level": 3,
+      "en": "Are we going to sleep over at Grandma's house?",
+      "vi": "Mình có ngủ lại nhà bà không mẹ?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-024",
+      "speaker": "child",
+      "level": 3,
+      "en": "I'm going to ___ with my cousins.",
+      "vi": "Con sẽ ___ với mấy anh chị em họ.",
+      "slots": [
+        {
+          "en": "play soccer",
+          "vi": "đá banh"
+        },
+        {
+          "en": "go swimming",
+          "vi": "đi bơi"
+        },
+        {
+          "en": "play hide-and-seek",
+          "vi": "chơi trốn tìm"
+        },
+        {
+          "en": "ride bikes",
+          "vi": "chạy xe đạp"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-025",
+      "speaker": "child",
+      "level": 3,
+      "en": "What if it rains? Do we have a backup plan?",
+      "vi": "Lỡ trời mưa thì sao? Mình có tính phương án khác chưa?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-026",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I bring my friend? Her mom said it's okay.",
+      "vi": "Con rủ bạn đi chung được không? Mẹ bạn ấy đồng ý rồi.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-027",
+      "speaker": "child",
+      "level": 2,
+      "en": "I already packed my bag!",
+      "vi": "Con soạn đồ xong rồi nè!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-028",
+      "speaker": "child",
+      "level": 3,
+      "en": "I'd rather ___ this weekend.",
+      "vi": "Cuối tuần này con muốn ___ hơn.",
+      "slots": [
+        {
+          "en": "stay home and rest",
+          "vi": "ở nhà nghỉ ngơi"
+        },
+        {
+          "en": "go swimming",
+          "vi": "đi bơi"
+        },
+        {
+          "en": "play with my friends",
+          "vi": "chơi với bạn"
+        },
+        {
+          "en": "visit Grandma",
+          "vi": "đi thăm bà"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-029",
+      "speaker": "child",
+      "level": 2,
+      "en": "How long is the drive?",
+      "vi": "Đi xe mất bao lâu vậy ba?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "weekend-plans-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "That was the best weekend ever!",
+      "vi": "Cuối tuần này vui nhất luôn!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "weekend-plans-d01",
+      "titleEn": "Planning the weekend",
+      "titleVi": "Lên kế hoạch cuối tuần",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Okay, it's Friday! What should we do this weekend?",
+          "vi": "Rồi, thứ Sáu rồi! Cuối tuần này mình làm gì đây con?"
+        },
+        {
+          "speaker": "child",
+          "en": "Can we go to the water park? It's been so hot.",
+          "vi": "Mình đi công viên nước được không mẹ? Trời nóng quá trời."
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm, good idea. But Saturday morning you have swim class.",
+          "vi": "Ừm, ý hay đó. Mà sáng thứ Bảy con có lớp bơi."
+        },
+        {
+          "speaker": "child",
+          "en": "Oh, right. What about Sunday, then?",
+          "vi": "À đúng rồi. Vậy Chủ Nhật thì sao mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sunday works. But we'll need to leave early, before it gets crowded.",
+          "vi": "Chủ Nhật được. Nhưng mình phải đi sớm, trước khi đông người."
+        },
+        {
+          "speaker": "child",
+          "en": "How early?",
+          "vi": "Sớm cỡ nào mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Like eight o'clock. Can you get up that early on a weekend?",
+          "vi": "Khoảng tám giờ. Cuối tuần mà con dậy sớm vậy nổi không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes! I'll set my alarm. I promise.",
+          "vi": "Được mà! Con sẽ đặt báo thức. Con hứa."
+        },
+        {
+          "speaker": "mom",
+          "en": "Deal. And Saturday afternoon, let's just relax at home.",
+          "vi": "Chốt vậy nha. Còn chiều thứ Bảy thì mình ở nhà nghỉ ngơi."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay! Can I go tell Dad?",
+          "vi": "Dạ! Con đi nói cho ba biết nha?"
+        }
+      ]
+    },
+    {
+      "id": "weekend-plans-d02",
+      "titleEn": "Visiting Grandma and Grandpa",
+      "titleVi": "Về thăm ông bà",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Guess what? We're going to visit Grandma and Grandpa on Saturday.",
+          "vi": "Con biết gì không? Thứ Bảy này nhà mình về thăm ông bà."
+        },
+        {
+          "speaker": "child",
+          "en": "Again? But I wanted to play with my friends on Saturday.",
+          "vi": "Nữa hả ba? Mà thứ Bảy con muốn đi chơi với bạn mà."
+        },
+        {
+          "speaker": "dad",
+          "en": "I know. But Grandma hasn't seen you in a month. She really misses you.",
+          "vi": "Ba biết. Nhưng cả tháng rồi bà chưa gặp con. Bà nhớ con lắm đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Can I play with my friends on Sunday instead?",
+          "vi": "Vậy Chủ Nhật con đi chơi với bạn được không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure, I think that's fair. Sunday afternoon is free.",
+          "vi": "Được, vậy cũng công bằng. Chiều Chủ Nhật mình rảnh."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Are we sleeping over there?",
+          "vi": "Dạ. Mình có ngủ lại đó không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yep, just one night. So pack your pajamas and a book.",
+          "vi": "Có, ngủ lại một đêm thôi. Con soạn đồ ngủ với một cuốn sách nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Can I bring my chess set? Grandpa loves playing chess with me.",
+          "vi": "Con mang bộ cờ vua theo được không? Ông thích chơi cờ với con lắm."
+        },
+        {
+          "speaker": "dad",
+          "en": "That's a great idea. He's going to love that.",
+          "vi": "Ý hay đó. Ông sẽ thích lắm cho coi."
+        }
+      ]
+    },
+    {
+      "id": "weekend-plans-d03",
+      "titleEn": "Packing for the beach",
+      "titleVi": "Soạn đồ đi biển",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "We're leaving for the beach in the morning. Is your bag packed?",
+          "vi": "Sáng mai mình đi biển rồi. Con soạn đồ chưa?"
+        },
+        {
+          "speaker": "child",
+          "en": "Almost. I have my swimsuit and my goggles.",
+          "vi": "Gần xong rồi mẹ. Con có đồ bơi với kính bơi rồi."
+        },
+        {
+          "speaker": "mom",
+          "en": "Good. What about sunscreen and a hat?",
+          "vi": "Tốt. Còn kem chống nắng với nón thì sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Do I really need a hat? I never wear it.",
+          "vi": "Con có cần nón thiệt không? Con có đội đâu."
+        },
+        {
+          "speaker": "mom",
+          "en": "Yes, it's going to be really sunny. You'll get sunburned without it.",
+          "vi": "Cần chứ, trời sẽ nắng lắm. Không đội là cháy nắng đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Fine. Can I bring my bucket and shovel too?",
+          "vi": "Thôi được. Con mang theo xô với xẻng nữa được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure, but they have to fit in your bag.",
+          "vi": "Được, nhưng phải bỏ vừa balo của con nha."
+        },
+        {
+          "speaker": "child",
+          "en": "They fit! Look, I already zipped it.",
+          "vi": "Vừa nè mẹ! Coi nè, con kéo khóa rồi."
+        },
+        {
+          "speaker": "mom",
+          "en": "Nice job. Now put it by the door so we don't forget it.",
+          "vi": "Giỏi lắm. Giờ con để nó gần cửa để mình khỏi quên nha."
+        }
+      ]
+    },
+    {
+      "id": "weekend-plans-d04",
+      "titleEn": "Rain changes the plan",
+      "titleVi": "Trời mưa, đổi kế hoạch",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Dad, look outside. It's pouring!",
+          "vi": "Ba ơi, nhìn ra ngoài kìa. Mưa to quá!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Oh no. I don't think we can go to the zoo today.",
+          "vi": "Ôi trời. Chắc hôm nay mình không đi sở thú được rồi."
+        },
+        {
+          "speaker": "child",
+          "en": "But we planned it all week! That's not fair.",
+          "vi": "Mà mình tính cả tuần rồi! Vậy không công bằng."
+        },
+        {
+          "speaker": "dad",
+          "en": "I know, buddy. I'm disappointed too.",
+          "vi": "Ba biết mà con. Ba cũng buồn nữa."
+        },
+        {
+          "speaker": "mom",
+          "en": "How about we go next Saturday, if the weather's nice?",
+          "vi": "Hay là thứ Bảy tuần sau mình đi, nếu trời đẹp?"
+        },
+        {
+          "speaker": "child",
+          "en": "Promise?",
+          "vi": "Hứa nha?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Promise. And today we can do something fun inside.",
+          "vi": "Hứa. Còn hôm nay mình làm gì đó vui vui trong nhà."
+        },
+        {
+          "speaker": "child",
+          "en": "Can we build a blanket fort and watch a movie in it?",
+          "vi": "Mình làm lều bằng mền rồi coi phim trong đó được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "That sounds awesome. I'll make the popcorn.",
+          "vi": "Nghe đã quá. Để ba làm bắp rang."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, rainy days are kind of fun too.",
+          "vi": "Thôi được, ngày mưa cũng vui ghê."
+        }
+      ]
+    },
+    {
+      "id": "weekend-plans-d05",
+      "titleEn": "Inviting a friend along",
+      "titleVi": "Rủ bạn đi chung",
+      "ages": [
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, can Lily come with us to the lake on Sunday?",
+          "vi": "Mẹ ơi, Chủ Nhật cho Lily đi hồ chung với nhà mình được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Hmm, maybe. Did you ask Lily if she wants to come?",
+          "vi": "Ừm, để coi. Con hỏi Lily có muốn đi chưa?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes, she said she really wants to!",
+          "vi": "Hỏi rồi, bạn ấy nói muốn đi lắm!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay, but I need to talk to her mom first.",
+          "vi": "Được, nhưng mẹ phải nói chuyện với mẹ bạn ấy trước đã."
+        },
+        {
+          "speaker": "child",
+          "en": "Can you call her today?",
+          "vi": "Hôm nay mẹ gọi cho cô ấy được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "I'll text her after dinner. We'd pick Lily up at nine, okay?",
+          "vi": "Ăn tối xong mẹ nhắn cho cô. Chín giờ mình qua đón Lily nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yay! Can we bring snacks to share?",
+          "vi": "Yay! Mình mang đồ ăn vặt chia cho bạn được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure. Let's pick some out at the store tomorrow.",
+          "vi": "Được chứ. Mai mình ra tiệm chọn nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Thanks, Mom! This is going to be the best Sunday ever.",
+          "vi": "Cảm ơn mẹ! Chủ Nhật này sẽ vui nhất luôn."
+        }
+      ]
+    }
+  ]
+}

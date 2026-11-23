@@ -6,49 +6,81 @@
       "speaker": "parent",
       "level": 1,
       "en": "Good morning!",
-      "vi": "Chào buổi sáng con yêu!"
+      "vi": "Chào buổi sáng con yêu!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-002",
       "speaker": "parent",
       "level": 1,
       "en": "Wake up, sweetie!",
-      "vi": "Dậy thôi con yêu!"
+      "vi": "Dậy thôi con yêu!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-003",
       "speaker": "parent",
       "level": 2,
       "en": "Did you sleep well?",
-      "vi": "Con ngủ có ngon không?"
+      "vi": "Con ngủ có ngon không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-004",
       "speaker": "parent",
       "level": 2,
       "en": "Time to get up!",
-      "vi": "Đến giờ dậy rồi con ơi!"
+      "vi": "Đến giờ dậy rồi con ơi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-005",
       "speaker": "parent",
       "level": 1,
       "en": "Big stretch!",
-      "vi": "Vươn vai thật dài nào!"
+      "vi": "Vươn vai thật dài nào!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "wake-up-006",
       "speaker": "parent",
       "level": 1,
       "en": "Open your eyes!",
-      "vi": "Mở mắt ra nào con!"
+      "vi": "Mở mắt ra nào con!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "wake-up-007",
       "speaker": "parent",
       "level": 2,
       "en": "Are you still sleepy?",
-      "vi": "Con còn buồn ngủ hả?"
+      "vi": "Con còn buồn ngủ hả?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-008",
@@ -69,6 +101,10 @@
           "en": "door",
           "vi": "cửa"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -94,6 +130,10 @@
           "en": "windy",
           "vi": "gió"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -101,7 +141,12 @@
       "speaker": "parent",
       "level": 2,
       "en": "Give me a big hug!",
-      "vi": "Ôm một cái thật chặt nào!"
+      "vi": "Ôm một cái thật chặt nào!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-011",
@@ -126,6 +171,9 @@
           "en": "bunny",
           "vi": "thỏ bông"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -151,6 +199,10 @@
           "en": "Grandpa",
           "vi": "ông"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -158,14 +210,21 @@
       "speaker": "parent",
       "level": 3,
       "en": "Let's get up and wash your face.",
-      "vi": "Mình dậy đi rửa mặt nào con."
+      "vi": "Mình dậy đi rửa mặt nào con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "wake-up-014",
       "speaker": "parent",
       "level": 3,
       "en": "The sun is up, and the birds are singing.",
-      "vi": "Mặt trời lên rồi, chim hót líu lo kìa."
+      "vi": "Mặt trời lên rồi, chim hót líu lo kìa.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "wake-up-015",
@@ -190,6 +249,11 @@
           "en": "Grandpa",
           "vi": "ông"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -197,49 +261,78 @@
       "speaker": "child",
       "level": 1,
       "en": "I'm sleepy.",
-      "vi": "Con buồn ngủ."
+      "vi": "Con buồn ngủ.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-017",
       "speaker": "child",
       "level": 1,
       "en": "I'm up!",
-      "vi": "Con dậy rồi!"
+      "vi": "Con dậy rồi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-018",
       "speaker": "child",
       "level": 1,
       "en": "Carry me!",
-      "vi": "Bế con đi!"
+      "vi": "Bế con đi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "wake-up-019",
       "speaker": "child",
       "level": 1,
       "en": "Where's Teddy?",
-      "vi": "Gấu bông đâu rồi?"
+      "vi": "Gấu bông đâu rồi?",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "wake-up-020",
       "speaker": "child",
       "level": 1,
       "en": "Not yet!",
-      "vi": "Chưa đâu!"
+      "vi": "Chưa đâu!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "wake-up-021",
       "speaker": "parent",
       "level": 1,
       "en": "Rise and shine!",
-      "vi": "Dậy thôi, nắng lên rồi con!"
+      "vi": "Dậy thôi, nắng lên rồi con!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-022",
       "speaker": "parent",
       "level": 2,
       "en": "Let's make the bed together.",
-      "vi": "Mình cùng dọn giường nha."
+      "vi": "Mình cùng dọn giường nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "wake-up-023",
@@ -264,6 +357,9 @@
           "en": "kitty",
           "vi": "bé mèo"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -285,6 +381,10 @@
           "en": "a hug",
           "vi": "ôm một cái"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -292,14 +392,21 @@
       "speaker": "parent",
       "level": 2,
       "en": "You woke up all by yourself!",
-      "vi": "Con tự thức dậy luôn, giỏi quá!"
+      "vi": "Con tự thức dậy luôn, giỏi quá!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "wake-up-026",
       "speaker": "parent",
       "level": 3,
       "en": "No jumping on the bed. Let's hop on the floor.",
-      "vi": "Không nhảy trên giường nha. Mình nhảy dưới sàn nè."
+      "vi": "Không nhảy trên giường nha. Mình nhảy dưới sàn nè.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "wake-up-027",
@@ -324,6 +431,11 @@
           "en": "curly",
           "vi": "xoăn"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -331,21 +443,30 @@
       "speaker": "child",
       "level": 1,
       "en": "Hug me, please!",
-      "vi": "Ôm con với!"
+      "vi": "Ôm con với!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "wake-up-029",
       "speaker": "child",
       "level": 1,
       "en": "Milk, please!",
-      "vi": "Cho con sữa với!"
+      "vi": "Cho con sữa với!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "wake-up-030",
       "speaker": "child",
       "level": 2,
       "en": "The sun is up!",
-      "vi": "Mặt trời lên rồi!"
+      "vi": "Mặt trời lên rồi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "wake-up-031",
@@ -353,14 +474,24 @@
       "level": 1,
       "en": "Morning, sleepyhead!",
       "ipa": "/ˈmɔɹnɪŋ ˈslipiˌhɛd/",
-      "vi": "Chào buổi sáng, bé ham ngủ!"
+      "vi": "Chào buổi sáng, bé ham ngủ!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-032",
       "speaker": "parent",
       "level": 2,
       "en": "Did you have a dream?",
-      "vi": "Con có nằm mơ không?"
+      "vi": "Con có nằm mơ không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-033",
@@ -381,6 +512,10 @@
           "en": "music",
           "vi": "nhạc"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -388,7 +523,10 @@
       "speaker": "parent",
       "level": 2,
       "en": "Let's change your diaper.",
-      "vi": "Mình thay tã nha con."
+      "vi": "Mình thay tã nha con.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "wake-up-035",
@@ -413,6 +551,10 @@
           "en": "your brother",
           "vi": "anh hai"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -420,7 +562,12 @@
       "speaker": "parent",
       "level": 3,
       "en": "Let's go downstairs and eat breakfast.",
-      "vi": "Mình xuống nhà ăn sáng nha con."
+      "vi": "Mình xuống nhà ăn sáng nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-037",
@@ -445,6 +592,11 @@
           "en": "your sister",
           "vi": "chị hai"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -452,21 +604,264 @@
       "speaker": "child",
       "level": 1,
       "en": "Is it morning?",
-      "vi": "Sáng rồi hả?"
+      "vi": "Sáng rồi hả?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "wake-up-039",
       "speaker": "child",
       "level": 2,
       "en": "I had a dream!",
-      "vi": "Con nằm mơ nè!"
+      "vi": "Con nằm mơ nè!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "wake-up-040",
       "speaker": "child",
       "level": 1,
       "en": "Lights on!",
-      "vi": "Bật đèn lên!"
+      "vi": "Bật đèn lên!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "wake-up-041",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Time to get up for school!",
+      "vi": "Dậy đi học thôi con!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "wake-up-042",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You have ___ more minutes, okay?",
+      "vi": "Con còn ___ phút nữa thôi nha.",
+      "slots": [
+        {
+          "en": "five",
+          "vi": "năm"
+        },
+        {
+          "en": "two",
+          "vi": "hai"
+        },
+        {
+          "en": "ten",
+          "vi": "mười"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "wake-up-043",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What did you dream about?",
+      "vi": "Con mơ thấy gì vậy?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "wake-up-044",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Guess what? Today is ___!",
+      "vi": "Con biết gì không? Hôm nay là ___ đó!",
+      "slots": [
+        {
+          "en": "Saturday",
+          "vi": "thứ Bảy"
+        },
+        {
+          "en": "your field trip",
+          "vi": "ngày con đi dã ngoại"
+        },
+        {
+          "en": "Grandma's birthday",
+          "vi": "sinh nhật bà"
+        },
+        {
+          "en": "a school day",
+          "vi": "ngày đi học"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "wake-up-045",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you fold your blanket, please?",
+      "vi": "Con xếp mền lại giúp nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "wake-up-046",
+      "speaker": "child",
+      "level": 3,
+      "en": "Do I have to go to school today?",
+      "vi": "Hôm nay con có phải đi học không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "wake-up-047",
+      "speaker": "child",
+      "level": 2,
+      "en": "Just a little longer, please!",
+      "vi": "Cho con ngủ thêm chút nữa thôi mà!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "wake-up-048",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Did you set your alarm last night?",
+      "vi": "Tối qua con có đặt báo thức không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "wake-up-049",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you get up now, you'll have time for ___.",
+      "vi": "Nếu con dậy bây giờ thì sẽ có thời gian ___.",
+      "slots": [
+        {
+          "en": "breakfast",
+          "vi": "ăn sáng"
+        },
+        {
+          "en": "a quick game",
+          "vi": "chơi một chút"
+        },
+        {
+          "en": "cartoons",
+          "vi": "xem hoạt hình"
+        },
+        {
+          "en": "reading",
+          "vi": "đọc sách"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "wake-up-050",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You're going to be late for ___.",
+      "vi": "Con sắp trễ ___ rồi đó.",
+      "slots": [
+        {
+          "en": "school",
+          "vi": "giờ học"
+        },
+        {
+          "en": "the bus",
+          "vi": "xe buýt"
+        },
+        {
+          "en": "soccer practice",
+          "vi": "buổi tập bóng đá"
+        },
+        {
+          "en": "your class",
+          "vi": "lớp học"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "wake-up-051",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What do you have at school today?",
+      "vi": "Hôm nay ở trường con có gì vậy?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "wake-up-052",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you go to bed earlier, it'll be easier to wake up.",
+      "vi": "Nếu con ngủ sớm hơn thì sáng dậy sẽ dễ hơn đó.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "wake-up-053",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I sleep in on ___?",
+      "vi": "___ con ngủ nướng được không?",
+      "slots": [
+        {
+          "en": "Saturday",
+          "vi": "Thứ Bảy"
+        },
+        {
+          "en": "Sunday",
+          "vi": "Chủ nhật"
+        },
+        {
+          "en": "the weekend",
+          "vi": "Cuối tuần"
+        },
+        {
+          "en": "holidays",
+          "vi": "Ngày nghỉ"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "wake-up-054",
+      "speaker": "child",
+      "level": 2,
+      "en": "I stayed up too late reading.",
+      "vi": "Tối qua con thức khuya đọc sách.",
+      "ages": [
+        "7-9"
+      ]
     }
   ],
   "dialogues": [
@@ -505,6 +900,9 @@
           "en": "I'm up!",
           "vi": "Con dậy rồi!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -542,6 +940,10 @@
           "en": "Good morning, Mommy!",
           "vi": "Con chào mẹ ạ!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -579,6 +981,125 @@
           "en": "Okay!",
           "vi": "Dạ!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "wake-up-d04",
+      "titleEn": "School morning",
+      "titleVi": "Sáng đi học",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Morning, buddy! Time to get up.",
+          "vi": "Chào buổi sáng con trai! Dậy thôi con."
+        },
+        {
+          "speaker": "child",
+          "en": "Five more minutes, please!",
+          "vi": "Cho con năm phút nữa thôi mà!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, how about two more minutes?",
+          "vi": "Hừm, hai phút thôi được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay... I don't want to go to school.",
+          "vi": "Dạ... Con không muốn đi học đâu."
+        },
+        {
+          "speaker": "dad",
+          "en": "Really? Why not?",
+          "vi": "Thiệt hả? Sao vậy con?"
+        },
+        {
+          "speaker": "child",
+          "en": "I'm still tired.",
+          "vi": "Con còn mệt."
+        },
+        {
+          "speaker": "dad",
+          "en": "I know. But guess what? Today you have art class!",
+          "vi": "Ba biết. Nhưng con biết gì không? Hôm nay con có giờ vẽ đó!"
+        },
+        {
+          "speaker": "child",
+          "en": "Oh yeah! I'm up!",
+          "vi": "À đúng rồi! Con dậy liền!"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "wake-up-d05",
+      "titleEn": "The alarm didn't go off",
+      "titleVi": "Báo thức không reo",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Hey, it's seven fifteen! Didn't your alarm go off?",
+          "vi": "Con ơi, bảy giờ mười lăm rồi! Báo thức của con không reo hả?"
+        },
+        {
+          "speaker": "child",
+          "en": "Oh no! I forgot to set it.",
+          "vi": "Chết rồi! Con quên đặt báo thức."
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay, don't panic. Wash up and get dressed, quick.",
+          "vi": "Được rồi, đừng hoảng. Con đi rửa mặt rồi thay đồ nhanh nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Am I going to be late?",
+          "vi": "Con có bị trễ không mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Not if we hurry. I'll make you a quick breakfast.",
+          "vi": "Nếu mình nhanh lên thì không đâu. Mẹ làm đồ ăn sáng nhanh cho con."
+        },
+        {
+          "speaker": "child",
+          "en": "Can I eat it in the car?",
+          "vi": "Con ăn trên xe được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Just today, yes. Grab your backpack.",
+          "vi": "Hôm nay thôi nha, được. Lấy cặp đi con."
+        },
+        {
+          "speaker": "child",
+          "en": "Got it! I'm ready.",
+          "vi": "Dạ rồi! Con xong rồi."
+        },
+        {
+          "speaker": "mom",
+          "en": "Nice! So what can we do so this doesn't happen again?",
+          "vi": "Giỏi! Vậy mình làm gì để lần sau không bị vậy nữa ta?"
+        },
+        {
+          "speaker": "child",
+          "en": "I'll set my alarm before I go to bed.",
+          "vi": "Con sẽ đặt báo thức trước khi đi ngủ."
+        },
+        {
+          "speaker": "mom",
+          "en": "Great plan.",
+          "vi": "Ý hay đó."
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

@@ -7,6 +7,8 @@ export type Lang = 'vi' | 'en'
 type Settings = {
   lang: Lang
   showIpa: boolean
+  /** show content of every age band, not only the active child's */
+  showAllAges: boolean
   activeProfileId: number | null
   installHintDismissed: boolean
   set: (patch: Partial<Omit<Settings, 'set'>>) => void
@@ -30,6 +32,7 @@ export const useSettings = create<Settings>()(
     (set) => ({
       lang: 'vi',
       showIpa: true,
+      showAllAges: false,
       activeProfileId: null,
       installHintDismissed: false,
       set: (patch) => set(patch),

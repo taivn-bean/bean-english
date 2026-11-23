@@ -1,0 +1,736 @@
+{
+  "topicId": "days-time",
+  "phrases": [
+    {
+      "id": "days-time-001",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What day is it today?",
+      "vi": "Hôm nay là thứ mấy con?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-002",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Today is ___.",
+      "vi": "Hôm nay là ___.",
+      "slots": [
+        {
+          "en": "Monday",
+          "vi": "thứ Hai"
+        },
+        {
+          "en": "Tuesday",
+          "vi": "thứ Ba"
+        },
+        {
+          "en": "Wednesday",
+          "vi": "thứ Tư"
+        },
+        {
+          "en": "Thursday",
+          "vi": "thứ Năm"
+        },
+        {
+          "en": "Friday",
+          "vi": "thứ Sáu"
+        },
+        {
+          "en": "Sunday",
+          "vi": "Chủ nhật"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What day was yesterday?",
+      "vi": "Hôm qua là thứ mấy?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "We'll go to Grandma's on ___.",
+      "vi": "___ mình qua nhà bà nha.",
+      "slots": [
+        {
+          "en": "Saturday",
+          "vi": "Thứ Bảy"
+        },
+        {
+          "en": "Sunday",
+          "vi": "Chủ nhật"
+        },
+        {
+          "en": "Friday",
+          "vi": "Thứ Sáu"
+        },
+        {
+          "en": "the weekend",
+          "vi": "Cuối tuần"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-005",
+      "speaker": "parent",
+      "level": 3,
+      "en": "There are seven days in a week.",
+      "vi": "Một tuần có bảy ngày.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "We're leaving in ___.",
+      "vi": "___ nữa mình đi nha.",
+      "slots": [
+        {
+          "en": "five minutes",
+          "vi": "Năm phút"
+        },
+        {
+          "en": "ten minutes",
+          "vi": "Mười phút"
+        },
+        {
+          "en": "one minute",
+          "vi": "Một phút"
+        },
+        {
+          "en": "half an hour",
+          "vi": "Nửa tiếng"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "days-time-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What time is it?",
+      "vi": "Mấy giờ rồi con?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-008",
+      "speaker": "parent",
+      "level": 1,
+      "en": "It's ___ o'clock.",
+      "vi": "Bây giờ là ___ giờ.",
+      "slots": [
+        {
+          "en": "seven",
+          "vi": "bảy"
+        },
+        {
+          "en": "eight",
+          "vi": "tám"
+        },
+        {
+          "en": "three",
+          "vi": "ba"
+        },
+        {
+          "en": "six",
+          "vi": "sáu"
+        },
+        {
+          "en": "nine",
+          "vi": "chín"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "It's half past ___.",
+      "vi": "Bây giờ là ___ giờ rưỡi.",
+      "slots": [
+        {
+          "en": "seven",
+          "vi": "bảy"
+        },
+        {
+          "en": "eight",
+          "vi": "tám"
+        },
+        {
+          "en": "three",
+          "vi": "ba"
+        },
+        {
+          "en": "six",
+          "vi": "sáu"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "The short hand shows the hour.",
+      "vi": "Kim ngắn chỉ giờ đó con.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Look at the clock.",
+      "vi": "Con nhìn đồng hồ nè.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Is it morning or afternoon?",
+      "vi": "Giờ là buổi sáng hay buổi chiều?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What do we do in the ___?",
+      "vi": "Buổi ___ mình hay làm gì ta?",
+      "slots": [
+        {
+          "en": "morning",
+          "vi": "sáng"
+        },
+        {
+          "en": "afternoon",
+          "vi": "chiều"
+        },
+        {
+          "en": "evening",
+          "vi": "tối"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-014",
+      "speaker": "parent",
+      "level": 2,
+      "en": "When is your birthday?",
+      "vi": "Sinh nhật con là ngày nào?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-015",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Your birthday is in ___.",
+      "vi": "Sinh nhật con vào ___ đó.",
+      "slots": [
+        {
+          "en": "June",
+          "vi": "tháng Sáu"
+        },
+        {
+          "en": "March",
+          "vi": "tháng Ba"
+        },
+        {
+          "en": "October",
+          "vi": "tháng Mười"
+        },
+        {
+          "en": "December",
+          "vi": "tháng Mười Hai"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-016",
+      "speaker": "parent",
+      "level": 3,
+      "en": "How old will you be on your birthday?",
+      "vi": "Sinh nhật này con được mấy tuổi?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-017",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Just three more days!",
+      "vi": "Ngủ thêm ba đêm nữa là tới rồi!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-018",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What season is it now?",
+      "vi": "Giờ là mùa gì vậy con?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-019",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Yesterday we went to the park, remember?",
+      "vi": "Hôm qua mình đi công viên đó, con nhớ không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-020",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Not today. Maybe tomorrow.",
+      "vi": "Hôm nay thì chưa. Để mai nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "days-time-021",
+      "speaker": "child",
+      "level": 2,
+      "en": "My favorite season is ___.",
+      "vi": "Con thích ___ nhất.",
+      "slots": [
+        {
+          "en": "summer",
+          "vi": "mùa hè"
+        },
+        {
+          "en": "winter",
+          "vi": "mùa đông"
+        },
+        {
+          "en": "spring",
+          "vi": "mùa xuân"
+        },
+        {
+          "en": "fall",
+          "vi": "mùa thu"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-022",
+      "speaker": "child",
+      "level": 2,
+      "en": "Is it a school day?",
+      "vi": "Hôm nay có đi học không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-023",
+      "speaker": "child",
+      "level": 2,
+      "en": "How many more days?",
+      "vi": "Còn mấy ngày nữa vậy?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-024",
+      "speaker": "child",
+      "level": 2,
+      "en": "Is it the weekend yet?",
+      "vi": "Tới cuối tuần chưa?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "days-time-025",
+      "speaker": "child",
+      "level": 2,
+      "en": "I'm going to be ___!",
+      "vi": "Con sắp được ___ tuổi rồi!",
+      "slots": [
+        {
+          "en": "six",
+          "vi": "sáu"
+        },
+        {
+          "en": "seven",
+          "vi": "bảy"
+        },
+        {
+          "en": "five",
+          "vi": "năm"
+        },
+        {
+          "en": "eight",
+          "vi": "tám"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-026",
+      "speaker": "child",
+      "level": 2,
+      "en": "Five more minutes, please!",
+      "vi": "Cho con năm phút nữa thôi!",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "days-time-027",
+      "speaker": "child",
+      "level": 2,
+      "en": "Yesterday I played at Grandma's house.",
+      "vi": "Hôm qua con chơi ở nhà bà.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "What day is tomorrow?",
+      "vi": "Mai là thứ mấy?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "I can't wait!",
+      "vi": "Con mong quá đi!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "days-time-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "Is it time to go?",
+      "vi": "Tới giờ đi chưa?",
+      "ages": [
+        "5-7"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "days-time-d01",
+      "titleEn": "Is it a school day?",
+      "titleVi": "Hôm nay có đi học không?",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Daddy, is it a school day today?",
+          "vi": "Ba ơi, hôm nay có đi học không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, what day is it today?",
+          "vi": "Hừm, hôm nay thứ mấy ta?"
+        },
+        {
+          "speaker": "child",
+          "en": "Um... Saturday?",
+          "vi": "Ừm... thứ Bảy hả?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Nope. Yesterday was Saturday.",
+          "vi": "Không phải. Hôm qua mới là thứ Bảy."
+        },
+        {
+          "speaker": "child",
+          "en": "So today is Sunday!",
+          "vi": "Vậy hôm nay là Chủ nhật!"
+        },
+        {
+          "speaker": "dad",
+          "en": "That's right! No school today.",
+          "vi": "Đúng rồi! Hôm nay không đi học."
+        },
+        {
+          "speaker": "child",
+          "en": "Yay! Can we go to the park?",
+          "vi": "Yeah! Mình đi công viên được không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure. Let's go after breakfast.",
+          "vi": "Được chứ. Ăn sáng xong mình đi."
+        }
+      ]
+    },
+    {
+      "id": "days-time-d02",
+      "titleEn": "Five more minutes",
+      "titleVi": "Thêm năm phút nữa",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "We're leaving in five minutes, okay?",
+          "vi": "Năm phút nữa mình về nha con?"
+        },
+        {
+          "speaker": "child",
+          "en": "Aw, ten more minutes, please!",
+          "vi": "Ứ, cho con mười phút nữa đi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Five minutes. Then it's time for dinner.",
+          "vi": "Năm phút thôi. Rồi về ăn tối."
+        },
+        {
+          "speaker": "child",
+          "en": "How long is five minutes?",
+          "vi": "Năm phút là bao lâu vậy mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "About three more turns on the slide.",
+          "vi": "Khoảng ba lần chơi cầu tuột nữa đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay! One... two... three!",
+          "vi": "Dạ! Một... hai... ba!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Time's up! Let's go home.",
+          "vi": "Hết giờ rồi! Mình về nhà thôi."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Bye, slide!",
+          "vi": "Dạ. Tạm biệt cầu tuột!"
+        }
+      ]
+    },
+    {
+      "id": "days-time-d03",
+      "titleEn": "Counting down to my birthday",
+      "titleVi": "Đếm ngày tới sinh nhật",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Is it my birthday yet?",
+          "vi": "Tới sinh nhật con chưa?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Not yet. Your birthday is on Friday.",
+          "vi": "Chưa đâu con. Thứ Sáu mới tới sinh nhật con."
+        },
+        {
+          "speaker": "child",
+          "en": "What day is it today?",
+          "vi": "Hôm nay là thứ mấy?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Today is Tuesday. So how many more days?",
+          "vi": "Hôm nay thứ Ba. Vậy còn mấy ngày nữa?"
+        },
+        {
+          "speaker": "child",
+          "en": "Wednesday, Thursday, Friday... Three days!",
+          "vi": "Thứ Tư, thứ Năm, thứ Sáu... Ba ngày!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Good counting! Just three more days.",
+          "vi": "Đếm giỏi quá! Ngủ thêm ba đêm nữa thôi."
+        },
+        {
+          "speaker": "child",
+          "en": "And I'm going to be six!",
+          "vi": "Rồi con được sáu tuổi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Six! You're growing up so fast.",
+          "vi": "Sáu tuổi! Con lớn nhanh quá."
+        }
+      ]
+    },
+    {
+      "id": "days-time-d04",
+      "titleEn": "Reading the clock",
+      "titleVi": "Xem đồng hồ",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Can you tell me what time it is?",
+          "vi": "Con coi giùm ba mấy giờ rồi?"
+        },
+        {
+          "speaker": "child",
+          "en": "The short hand is on the eight.",
+          "vi": "Kim ngắn chỉ số tám."
+        },
+        {
+          "speaker": "dad",
+          "en": "And the long hand?",
+          "vi": "Còn kim dài?"
+        },
+        {
+          "speaker": "child",
+          "en": "It's on the twelve.",
+          "vi": "Nó chỉ số mười hai."
+        },
+        {
+          "speaker": "dad",
+          "en": "So it's...",
+          "vi": "Vậy là..."
+        },
+        {
+          "speaker": "child",
+          "en": "Eight o'clock!",
+          "vi": "Tám giờ!"
+        },
+        {
+          "speaker": "dad",
+          "en": "You got it! And what happens at eight o'clock?",
+          "vi": "Đúng rồi! Mà tám giờ là giờ gì nhỉ?"
+        },
+        {
+          "speaker": "child",
+          "en": "Uh-oh. Bedtime?",
+          "vi": "Ui. Giờ đi ngủ hả?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yep! Go brush your teeth.",
+          "vi": "Đúng rồi! Đi đánh răng nha con."
+        }
+      ]
+    },
+    {
+      "id": "days-time-d05",
+      "titleEn": "Favorite season",
+      "titleVi": "Mùa con thích nhất",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "What's your favorite season?",
+          "vi": "Con thích mùa nào nhất?"
+        },
+        {
+          "speaker": "child",
+          "en": "Summer! Because there's no school!",
+          "vi": "Mùa hè! Vì được nghỉ học!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Ha! What else do you like about summer?",
+          "vi": "Ha! Còn thích gì nữa ở mùa hè?"
+        },
+        {
+          "speaker": "child",
+          "en": "Swimming and ice cream.",
+          "vi": "Đi bơi với ăn kem."
+        },
+        {
+          "speaker": "mom",
+          "en": "Me too. What season comes after summer?",
+          "vi": "Mẹ cũng vậy. Hết mùa hè là tới mùa gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "Um... fall?",
+          "vi": "Ừm... mùa thu?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Yes! Then winter, then spring.",
+          "vi": "Đúng rồi! Rồi tới mùa đông, rồi mùa xuân."
+        },
+        {
+          "speaker": "child",
+          "en": "And then summer again!",
+          "vi": "Rồi lại tới mùa hè!"
+        }
+      ]
+    }
+  ]
+}

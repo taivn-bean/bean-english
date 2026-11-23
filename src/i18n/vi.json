@@ -113,5 +113,72 @@
     "importConfirm": "Thay toàn bộ dữ liệu hiện tại bằng bản sao lưu ngày {{date}}?",
     "imported": "Đã khôi phục dữ liệu ✓",
     "invalid": "File không hợp lệ"
+  },
+  "offline": {
+    "notDownloaded": "Chưa tải offline",
+    "suggestTitle": "Tải audio offline cho {{band}}",
+    "suggestDesc": "{{count}} chủ đề · {{size}} — nghe được cả khi không có mạng",
+    "download": "Tải",
+    "downloadTopic": "Tải về máy",
+    "shellReady": "Giao diện & nội dung chữ đã sẵn sàng offline",
+    "packsTitle": "Gói audio offline",
+    "topicsDone": "Đã tải {{done}}/{{total}} chủ đề",
+    "pageDesc": "Chọn chủ đề muốn nghe khi không có mạng. Chủ đề chưa tải vẫn xem được chữ, nhưng cần mạng để nghe.",
+    "used": "Audio đã tải: {{size}}",
+    "downloadBand": "Tải {{band}} ({{size}})",
+    "downloadAll": "Tải tất cả ({{size}})",
+    "removeAll": "Xoá toàn bộ audio đã tải",
+    "removeAllConfirm": "Xoá toàn bộ audio offline? Khi cần có thể tải lại.",
+    "needOnline": "Cần có mạng để tải.",
+    "remove": "Xoá"
+  },
+  "age": {
+    "label": "Độ tuổi",
+    "band": {
+      "3-5": "3–5 tuổi",
+      "5-7": "5–7 tuổi",
+      "7-9": "7–9 tuổi"
+    },
+    "showAll": "Hiện nội dung mọi độ tuổi",
+    "showAllHint": "Mặc định chỉ hiện câu hợp với độ tuổi của bé đang chọn.",
+    "empty": "Chủ đề này chưa có câu cho {{band}}."
+  },
+  "avatar": {
+    "title": "Avatar & chuỗi ngày",
+    "animal": "Con vật",
+    "color": "Màu nền",
+    "accessory": "Phụ kiện",
+    "unlockAt": "🔒 {{days}} ngày",
+    "animals": {
+      "cat": "Mèo",
+      "dog": "Cún",
+      "bunny": "Thỏ",
+      "bear": "Gấu",
+      "panda": "Gấu trúc",
+      "fox": "Cáo"
+    },
+    "accessories": {
+      "none": "Không",
+      "bow": "Nơ",
+      "glasses": "Kính",
+      "party-hat": "Mũ tiệc",
+      "crown": "Vương miện"
+    }
+  },
+  "streak": {
+    "chip": "{{count}} ngày",
+    "current": "Chuỗi hiện tại",
+    "best": "Dài nhất",
+    "doneToday": "Hôm nay đã học rồi 🎉 Mai nhớ quay lại nha!",
+    "notYet": "Hôm nay chưa học — nghe 1 câu để giữ chuỗi nhé!",
+    "calendar": "4 tuần gần đây"
+  },
+  "diary": {
+    "title": "Nhật ký của bé",
+    "count": "{{name}} đã nói được {{count}} câu",
+    "empty": "Khi bé nói được một câu, bấm \"Bé nói được\" ở câu đó — khoảnh khắc sẽ được lưu vào đây.",
+    "notePlaceholder": "Ghi chú (vd: nói lúc đi công viên)",
+    "share": "Chia sẻ",
+    "shareTitle": "Những câu tiếng Anh {{name}} đã nói được 🐱"
   }
 }

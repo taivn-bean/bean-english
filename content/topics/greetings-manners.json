@@ -6,7 +6,11 @@
       "speaker": "parent",
       "level": 1,
       "en": "Say hello!",
-      "vi": "Con chào đi nào!"
+      "vi": "Con chào đi nào!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "greetings-manners-002",
@@ -35,6 +39,11 @@
           "en": "Uncle",
           "vi": "chú"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -42,7 +51,10 @@
       "speaker": "parent",
       "level": 1,
       "en": "Wave hello!",
-      "vi": "Vẫy tay chào nào!"
+      "vi": "Vẫy tay chào nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "greetings-manners-004",
@@ -71,6 +83,10 @@
           "en": "good morning",
           "vi": "chào buổi sáng"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -78,14 +94,23 @@
       "speaker": "parent",
       "level": 2,
       "en": "What do you say?",
-      "vi": "Con phải nói gì ta?"
+      "vi": "Con phải nói gì ta?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-006",
       "speaker": "parent",
       "level": 1,
       "en": "Such nice manners!",
-      "vi": "Con lễ phép giỏi quá!"
+      "vi": "Con lễ phép giỏi quá!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "greetings-manners-007",
@@ -110,6 +135,10 @@
           "en": "Grandma",
           "vi": "bà"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -131,6 +160,10 @@
           "en": "Grandma",
           "vi": "bà"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -138,49 +171,81 @@
       "speaker": "parent",
       "level": 2,
       "en": "Use kind words, please.",
-      "vi": "Con nói chuyện dễ thương nha."
+      "vi": "Con nói chuyện dễ thương nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-010",
       "speaker": "parent",
       "level": 2,
       "en": "Wait your turn, please.",
-      "vi": "Con chờ tới lượt mình nha."
+      "vi": "Con chờ tới lượt mình nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-011",
       "speaker": "parent",
       "level": 3,
       "en": "When someone gives you something, say thank you.",
-      "vi": "Khi ai cho con cái gì, con nói cảm ơn nha."
+      "vi": "Khi ai cho con cái gì, con nói cảm ơn nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "greetings-manners-012",
       "speaker": "parent",
       "level": 3,
       "en": "Your friend is sad. Let's say sorry.",
-      "vi": "Bạn buồn rồi kìa. Mình xin lỗi bạn nha."
+      "vi": "Bạn buồn rồi kìa. Mình xin lỗi bạn nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "greetings-manners-013",
       "speaker": "parent",
       "level": 2,
       "en": "Thank you for sharing!",
-      "vi": "Cảm ơn con đã chia sẻ nha!"
+      "vi": "Cảm ơn con đã chia sẻ nha!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-014",
       "speaker": "parent",
       "level": 2,
       "en": "Good job saying thank you!",
-      "vi": "Con biết nói cảm ơn, giỏi quá!"
+      "vi": "Con biết nói cảm ơn, giỏi quá!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "greetings-manners-015",
       "speaker": "child",
       "level": 1,
       "en": "Hello!",
-      "vi": "Xin chào!"
+      "vi": "Xin chào!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-016",
@@ -209,6 +274,11 @@
           "en": "Daddy",
           "vi": "ba"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -238,6 +308,11 @@
           "en": "Daddy",
           "vi": "ba"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -245,21 +320,36 @@
       "speaker": "child",
       "level": 1,
       "en": "Sorry!",
-      "vi": "Con xin lỗi!"
+      "vi": "Con xin lỗi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-019",
       "speaker": "child",
       "level": 1,
       "en": "Excuse me, Mommy.",
-      "vi": "Mẹ ơi, cho con hỏi."
+      "vi": "Mẹ ơi, cho con hỏi.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-020",
       "speaker": "child",
       "level": 1,
       "en": "Yes, please!",
-      "vi": "Dạ, con muốn!"
+      "vi": "Dạ, con muốn!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-021",
@@ -284,6 +374,10 @@
           "en": "the bus driver",
           "vi": "chú tài xế"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -309,6 +403,11 @@
           "en": "your friend",
           "vi": "bạn"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -338,6 +437,10 @@
           "en": "your teacher",
           "vi": "cô giáo"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -345,49 +448,312 @@
       "speaker": "parent",
       "level": 1,
       "en": "Ask nicely, please.",
-      "vi": "Con xin cho lễ phép nha."
+      "vi": "Con xin cho lễ phép nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-025",
       "speaker": "parent",
       "level": 2,
       "en": "Take it with two hands.",
-      "vi": "Con nhận bằng hai tay nha."
+      "vi": "Con nhận bằng hai tay nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-026",
       "speaker": "parent",
       "level": 2,
       "en": "That was so kind!",
-      "vi": "Con dễ thương quá!"
+      "vi": "Con dễ thương quá!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-027",
       "speaker": "parent",
       "level": 2,
       "en": "Cover your mouth when you cough.",
-      "vi": "Ho thì che miệng lại nha con."
+      "vi": "Ho thì che miệng lại nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-028",
       "speaker": "child",
       "level": 1,
       "en": "You're welcome!",
-      "vi": "Dạ, không có chi!"
+      "vi": "Dạ, không có chi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-029",
       "speaker": "child",
       "level": 2,
       "en": "Thank you very much!",
-      "vi": "Con cảm ơn nhiều lắm!"
+      "vi": "Con cảm ơn nhiều lắm!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "greetings-manners-030",
       "speaker": "child",
       "level": 1,
       "en": "Here you go!",
-      "vi": "Nè, con đưa nè!"
+      "vi": "Nè, con đưa nè!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "greetings-manners-031",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Look at people when they're talking to you.",
+      "vi": "Khi người ta nói chuyện, con nhìn người ta nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "greetings-manners-032",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Don't interrupt, please. Wait until I'm done talking.",
+      "vi": "Đừng chen ngang nha con. Đợi nói xong đã.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "greetings-manners-033",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Say excuse me if you need to get by.",
+      "vi": "Muốn đi qua thì con nói \"xin lỗi, cho qua\" nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "greetings-manners-034",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Did you say thank you to ___?",
+      "vi": "Con cảm ơn ___ chưa?",
+      "slots": [
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "the bus driver",
+          "vi": "chú tài xế"
+        },
+        {
+          "en": "your teacher",
+          "vi": "cô giáo"
+        },
+        {
+          "en": "Auntie",
+          "vi": "dì"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "greetings-manners-035",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Knock before you come in, please.",
+      "vi": "Gõ cửa trước khi vào nha con.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "greetings-manners-036",
+      "speaker": "child",
+      "level": 3,
+      "en": "Excuse me, can I ___?",
+      "vi": "Dạ xin lỗi, cho con ___ được không?",
+      "slots": [
+        {
+          "en": "have some water",
+          "vi": "uống nước"
+        },
+        {
+          "en": "go to the bathroom",
+          "vi": "đi vệ sinh"
+        },
+        {
+          "en": "play too",
+          "vi": "chơi chung"
+        },
+        {
+          "en": "get by",
+          "vi": "đi qua"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "greetings-manners-037",
+      "speaker": "child",
+      "level": 2,
+      "en": "Sorry I bumped you.",
+      "vi": "Xin lỗi, con lỡ đụng bạn.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "greetings-manners-038",
+      "speaker": "parent",
+      "level": 3,
+      "en": "When you meet someone new, say hi and tell them your name.",
+      "vi": "Khi gặp người mới, con chào và giới thiệu tên mình nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "greetings-manners-039",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Saying sorry means you also try to fix it.",
+      "vi": "Xin lỗi là phải cố gắng sửa lỗi nữa đó con.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "greetings-manners-040",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Why don't you write a thank-you note to ___?",
+      "vi": "Con viết thiệp cảm ơn ___ đi.",
+      "slots": [
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "your teacher",
+          "vi": "cô giáo"
+        },
+        {
+          "en": "Auntie",
+          "vi": "dì"
+        },
+        {
+          "en": "Uncle",
+          "vi": "chú"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "greetings-manners-041",
+      "speaker": "parent",
+      "level": 3,
+      "en": "At ___ house, we follow their rules.",
+      "vi": "Ở nhà ___, mình làm theo nội quy nhà đó nha.",
+      "slots": [
+        {
+          "en": "Grandma's",
+          "vi": "bà"
+        },
+        {
+          "en": "your friend's",
+          "vi": "bạn"
+        },
+        {
+          "en": "Uncle's",
+          "vi": "chú"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "greetings-manners-042",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Say hi to our guests before you go back to your room.",
+      "vi": "Con chào khách rồi hẵng vô phòng nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "greetings-manners-043",
+      "speaker": "child",
+      "level": 2,
+      "en": "Thanks for having me!",
+      "vi": "Cảm ơn cô chú đã cho con qua chơi!",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "greetings-manners-044",
+      "speaker": "child",
+      "level": 2,
+      "en": "Sorry, I didn't mean to ___.",
+      "vi": "Con xin lỗi, con không cố ý ___.",
+      "slots": [
+        {
+          "en": "interrupt",
+          "vi": "chen ngang"
+        },
+        {
+          "en": "be rude",
+          "vi": "vô lễ"
+        },
+        {
+          "en": "hurt your feelings",
+          "vi": "làm bạn buồn"
+        },
+        {
+          "en": "break it",
+          "vi": "làm bể"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
     }
   ],
   "dialogues": [
@@ -426,6 +792,10 @@
           "en": "Good job saying thank you!",
           "vi": "Con biết nói cảm ơn, giỏi quá!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -463,6 +833,10 @@
           "en": "Okay, Mommy.",
           "vi": "Dạ, mẹ."
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -495,6 +869,120 @@
           "en": "Such nice manners!",
           "vi": "Con lễ phép giỏi quá!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "greetings-manners-d04",
+      "titleEn": "Waiting to talk",
+      "titleVi": "Chờ tới lượt nói",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mommy! Mommy! Mommy!",
+          "vi": "Mẹ ơi! Mẹ ơi! Mẹ ơi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Just a minute, sweetie. I'm on the phone.",
+          "vi": "Chờ chút nha con. Mẹ đang nói điện thoại."
+        },
+        {
+          "speaker": "child",
+          "en": "But I need to tell you something!",
+          "vi": "Nhưng con có chuyện cần nói!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Can you put your hand on my arm and wait?",
+          "vi": "Con để tay lên tay mẹ rồi đợi chút được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay.",
+          "vi": "Dạ."
+        },
+        {
+          "speaker": "mom",
+          "en": "Thank you for waiting so nicely. What's up?",
+          "vi": "Cảm ơn con đã đợi ngoan nha. Có chuyện gì vậy?"
+        },
+        {
+          "speaker": "child",
+          "en": "I made a card for Grandma!",
+          "vi": "Con làm thiệp tặng bà nè!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Aw, that's so kind! Let's give it to her this weekend.",
+          "vi": "Ôi, con dễ thương quá! Cuối tuần mình đưa bà nha."
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "greetings-manners-d05",
+      "titleEn": "Guests are here",
+      "titleVi": "Nhà có khách",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Hey, our guests are here. Come say hi before you go back to your room.",
+          "vi": "Nè con, khách tới rồi. Ra chào khách rồi hẵng vô phòng nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Do I have to? I'm in the middle of my drawing.",
+          "vi": "Con có phải ra không? Con đang vẽ dở."
+        },
+        {
+          "speaker": "dad",
+          "en": "Just for a minute. It's the polite thing to do.",
+          "vi": "Một chút thôi. Như vậy mới lịch sự."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Hi, Uncle! Hi, Auntie! Nice to see you.",
+          "vi": "Dạ. Con chào chú! Con chào cô! Gặp cô chú vui quá."
+        },
+        {
+          "speaker": "dad",
+          "en": "They brought you a present. What do you say?",
+          "vi": "Cô chú mua quà cho con nè. Con nói gì ta?"
+        },
+        {
+          "speaker": "child",
+          "en": "Thank you so much! Can I open it now?",
+          "vi": "Con cảm ơn cô chú nhiều! Con mở ra liền được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure, go ahead.",
+          "vi": "Ừ, mở đi con."
+        },
+        {
+          "speaker": "child",
+          "en": "Wow, a puzzle! I love puzzles. Thank you!",
+          "vi": "Oa, bộ xếp hình! Con mê xếp hình lắm. Cảm ơn cô chú!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Maybe you can show them your drawing, too.",
+          "vi": "Hay con cho cô chú coi tranh con vẽ luôn đi."
+        },
+        {
+          "speaker": "child",
+          "en": "Sure! Wait here, I'll go get it.",
+          "vi": "Dạ! Cô chú đợi chút, con đi lấy."
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

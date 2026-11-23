@@ -1,144 +1,877 @@
 {
   "topicId": "bedtime",
   "phrases": [
-    { "id": "bedtime-001", "speaker": "parent", "level": 1, "en": "Time for bed.", "vi": "Tới giờ đi ngủ rồi." },
-    { "id": "bedtime-002", "speaker": "parent", "level": 2, "en": "Let's put on your pajamas.", "vi": "Mình mặc đồ ngủ nha." },
-    { "id": "bedtime-003", "speaker": "parent", "level": 2, "en": "Which book do you want?", "vi": "Con muốn đọc cuốn nào?" },
     {
-      "id": "bedtime-004", "speaker": "parent", "level": 2,
-      "en": "Let's say good night to ___.", "vi": "Mình chúc ___ ngủ ngon nha.",
-      "slots": [
-        { "en": "Daddy", "vi": "ba" },
-        { "en": "Mommy", "vi": "mẹ" },
-        { "en": "the moon", "vi": "ông trăng" },
-        { "en": "your teddy", "vi": "gấu bông" }
-      ]
-    },
-    { "id": "bedtime-005", "speaker": "parent", "level": 1, "en": "Lie down, please.", "vi": "Nằm xuống nha con." },
-    { "id": "bedtime-006", "speaker": "parent", "level": 2, "en": "Time to close your eyes.", "vi": "Nhắm mắt lại ngủ nha con." },
-    { "id": "bedtime-007", "speaker": "parent", "level": 1, "en": "Sweet dreams!", "vi": "Ngủ ngon, mơ đẹp nha!" },
-    {
-      "id": "bedtime-008", "speaker": "parent", "level": 2,
-      "en": "Do you want your ___?", "vi": "Con có muốn lấy ___ không?",
-      "slots": [
-        { "en": "teddy", "vi": "gấu bông" },
-        { "en": "blanket", "vi": "chăn" },
-        { "en": "pillow", "vi": "gối" },
-        { "en": "bunny", "vi": "thỏ bông" },
-        { "en": "water", "vi": "nước" }
+      "id": "bedtime-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Time for bed.",
+      "vi": "Tới giờ đi ngủ rồi.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
-      "id": "bedtime-009", "speaker": "parent", "level": 2,
-      "en": "Let's turn off the ___.", "vi": "Mình tắt ___ nha.",
-      "slots": [
-        { "en": "light", "vi": "đèn" },
-        { "en": "TV", "vi": "tivi" },
-        { "en": "fan", "vi": "quạt" }
+      "id": "bedtime-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's put on your pajamas.",
+      "vi": "Mình mặc đồ ngủ nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
-      "id": "bedtime-010", "speaker": "parent", "level": 2,
-      "en": "One more ___, then sleep.", "vi": "Thêm một ___ nữa rồi ngủ nha.",
-      "slots": [
-        { "en": "story", "vi": "câu chuyện" },
-        { "en": "song", "vi": "bài hát" },
-        { "en": "hug", "vi": "cái ôm" },
-        { "en": "kiss", "vi": "cái thơm" }
-      ]
-    },
-    { "id": "bedtime-011", "speaker": "parent", "level": 3, "en": "You had a fun day. Now it's time to rest.", "vi": "Hôm nay con chơi vui rồi. Giờ mình nghỉ ngơi nha." },
-    { "id": "bedtime-012", "speaker": "parent", "level": 2, "en": "Shh, quiet voice now.", "vi": "Suỵt, nói nhỏ thôi nha." },
-    { "id": "bedtime-013", "speaker": "parent", "level": 2, "en": "Let me tuck you in.", "vi": "Để ba mẹ đắp chăn cho con nha." },
-    { "id": "bedtime-014", "speaker": "parent", "level": 1, "en": "Good night, sweetie.", "vi": "Ngủ ngon nha con yêu." },
-    {
-      "id": "bedtime-015", "speaker": "child", "level": 1,
-      "en": "Good night, ___!", "vi": "Chúc ___ ngủ ngon!",
-      "slots": [
-        { "en": "Mommy", "vi": "mẹ" },
-        { "en": "Daddy", "vi": "ba" },
-        { "en": "moon", "vi": "ông trăng" },
-        { "en": "teddy", "vi": "gấu bông" }
-      ]
-    },
-    { "id": "bedtime-016", "speaker": "child", "level": 1, "en": "One more story!", "vi": "Thêm một chuyện nữa!" },
-    { "id": "bedtime-017", "speaker": "child", "level": 1, "en": "I'm not sleepy.", "vi": "Con chưa buồn ngủ." },
-    { "id": "bedtime-018", "speaker": "child", "level": 1, "en": "Water, please.", "vi": "Cho con uống nước." },
-    { "id": "bedtime-019", "speaker": "child", "level": 1, "en": "Love you!", "vi": "Con thương ba mẹ!" },
-    { "id": "bedtime-020", "speaker": "child", "level": 1, "en": "Stay with me.", "vi": "Ở với con đi." },
-    { "id": "bedtime-021", "speaker": "parent", "level": 1, "en": "Are you comfy?", "vi": "Con nằm êm không?" },
-    { "id": "bedtime-022", "speaker": "parent", "level": 2, "en": "See you in the morning!", "vi": "Sáng mai gặp lại nha con!" },
-    {
-      "id": "bedtime-023", "speaker": "parent", "level": 2,
-      "en": "The ___ is sleeping now.", "vi": "Giờ ___ cũng ngủ rồi đó.",
-      "slots": [
-        { "en": "doggy", "vi": "cún" },
-        { "en": "sun", "vi": "ông mặt trời" },
-        { "en": "kitty", "vi": "mèo" },
-        { "en": "baby", "vi": "em bé" }
+      "id": "bedtime-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Which book do you want?",
+      "vi": "Con muốn đọc cuốn nào?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
-      "id": "bedtime-024", "speaker": "parent", "level": 2,
-      "en": "Snuggle with your ___.", "vi": "Ôm ___ ngủ nha con.",
+      "id": "bedtime-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's say good night to ___.",
+      "vi": "Mình chúc ___ ngủ ngon nha.",
       "slots": [
-        { "en": "teddy", "vi": "gấu bông" },
-        { "en": "bunny", "vi": "thỏ bông" },
-        { "en": "blanket", "vi": "mền" },
-        { "en": "pillow", "vi": "gối" }
-      ]
-    },
-    { "id": "bedtime-025", "speaker": "parent", "level": 2, "en": "Stay in your bed, please.", "vi": "Nằm yên trên giường nha con." },
-    {
-      "id": "bedtime-026", "speaker": "parent", "level": 2,
-      "en": "Do you want the ___ on?", "vi": "Con muốn bật ___ không?",
-      "slots": [
-        { "en": "night-light", "vi": "đèn ngủ" },
-        { "en": "fan", "vi": "quạt" },
-        { "en": "music", "vi": "nhạc" }
-      ]
-    },
-    { "id": "bedtime-027", "speaker": "parent", "level": 3, "en": "I'll leave the door open a little.", "vi": "Để cửa mở hé một chút nha con." },
-    { "id": "bedtime-028", "speaker": "child", "level": 1, "en": "Night-night!", "vi": "Ngủ ngon nha!" },
-    { "id": "bedtime-029", "speaker": "child", "level": 1, "en": "Read this one!", "vi": "Đọc cuốn này đi!" },
-    { "id": "bedtime-030", "speaker": "child", "level": 1, "en": "Light on, please.", "vi": "Bật đèn cho con." },
-    { "id": "bedtime-031", "speaker": "parent", "level": 1, "en": "Are you sleepy?", "vi": "Con buồn ngủ chưa?" },
-    {
-      "id": "bedtime-032", "speaker": "parent", "level": 2,
-      "en": "Give ___ a goodnight kiss.", "vi": "Thơm ___ chúc ngủ ngon đi con.",
-      "slots": [
-        { "en": "Daddy", "vi": "ba" },
-        { "en": "Mommy", "vi": "mẹ" },
-        { "en": "Grandma", "vi": "bà" },
-        { "en": "teddy", "vi": "gấu bông" }
+        {
+          "en": "Daddy",
+          "vi": "ba"
+        },
+        {
+          "en": "Mommy",
+          "vi": "mẹ"
+        },
+        {
+          "en": "the moon",
+          "vi": "ông trăng"
+        },
+        {
+          "en": "your teddy",
+          "vi": "gấu bông"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
-      "id": "bedtime-033", "speaker": "parent", "level": 2,
-      "en": "Where's your ___? Let's find it.", "vi": "Con để ___ đâu rồi? Mình tìm nha.",
-      "slots": [
-        { "en": "teddy", "vi": "gấu bông" },
-        { "en": "pillow", "vi": "gối" },
-        { "en": "blanket", "vi": "mền" },
-        { "en": "bunny", "vi": "thỏ bông" }
+      "id": "bedtime-005",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Lie down, please.",
+      "vi": "Nằm xuống nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
-      "id": "bedtime-034", "speaker": "parent", "level": 2,
-      "en": "Let's put ___ to bed.", "vi": "Mình cho ___ đi ngủ nha.",
-      "slots": [
-        { "en": "teddy", "vi": "gấu bông" },
-        { "en": "your dolly", "vi": "búp bê" },
-        { "en": "bunny", "vi": "thỏ bông" },
-        { "en": "the toys", "vi": "đồ chơi" }
+      "id": "bedtime-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Time to close your eyes.",
+      "vi": "Nhắm mắt lại ngủ nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
-    { "id": "bedtime-035", "speaker": "parent", "level": 1, "en": "Hugs and kisses!", "vi": "Ôm một cái, thơm một cái nè!" },
-    { "id": "bedtime-036", "speaker": "parent", "level": 2, "en": "Rest your head on the pillow.", "vi": "Ngả đầu lên gối nha con." },
-    { "id": "bedtime-037", "speaker": "parent", "level": 2, "en": "I'll check on you soon.", "vi": "Chút xíu nữa vô coi con nha." },
-    { "id": "bedtime-038", "speaker": "child", "level": 2, "en": "Sing a song, please!", "vi": "Hát cho con nghe đi!" },
-    { "id": "bedtime-039", "speaker": "child", "level": 1, "en": "One more hug!", "vi": "Ôm con thêm cái nữa!" },
-    { "id": "bedtime-040", "speaker": "child", "level": 1, "en": "Door open, please!", "vi": "Mở cửa ra cho con nha!" }
+    {
+      "id": "bedtime-007",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Sweet dreams!",
+      "vi": "Ngủ ngon, mơ đẹp nha!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you want your ___?",
+      "vi": "Con có muốn lấy ___ không?",
+      "slots": [
+        {
+          "en": "teddy",
+          "vi": "gấu bông"
+        },
+        {
+          "en": "blanket",
+          "vi": "chăn"
+        },
+        {
+          "en": "pillow",
+          "vi": "gối"
+        },
+        {
+          "en": "bunny",
+          "vi": "thỏ bông"
+        },
+        {
+          "en": "water",
+          "vi": "nước"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's turn off the ___.",
+      "vi": "Mình tắt ___ nha.",
+      "slots": [
+        {
+          "en": "light",
+          "vi": "đèn"
+        },
+        {
+          "en": "TV",
+          "vi": "tivi"
+        },
+        {
+          "en": "fan",
+          "vi": "quạt"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "One more ___, then sleep.",
+      "vi": "Thêm một ___ nữa rồi ngủ nha.",
+      "slots": [
+        {
+          "en": "story",
+          "vi": "câu chuyện"
+        },
+        {
+          "en": "song",
+          "vi": "bài hát"
+        },
+        {
+          "en": "hug",
+          "vi": "cái ôm"
+        },
+        {
+          "en": "kiss",
+          "vi": "cái thơm"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-011",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You had a fun day. Now it's time to rest.",
+      "vi": "Hôm nay con chơi vui rồi. Giờ mình nghỉ ngơi nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Shh, quiet voice now.",
+      "vi": "Suỵt, nói nhỏ thôi nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let me tuck you in.",
+      "vi": "Để ba mẹ đắp chăn cho con nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-014",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Good night, sweetie.",
+      "vi": "Ngủ ngon nha con yêu.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "Good night, ___!",
+      "vi": "Chúc ___ ngủ ngon!",
+      "slots": [
+        {
+          "en": "Mommy",
+          "vi": "mẹ"
+        },
+        {
+          "en": "Daddy",
+          "vi": "ba"
+        },
+        {
+          "en": "moon",
+          "vi": "ông trăng"
+        },
+        {
+          "en": "teddy",
+          "vi": "gấu bông"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "One more story!",
+      "vi": "Thêm một chuyện nữa!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm not sleepy.",
+      "vi": "Con chưa buồn ngủ.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Water, please.",
+      "vi": "Cho con uống nước.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "Love you!",
+      "vi": "Con thương ba mẹ!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Stay with me.",
+      "vi": "Ở với con đi.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-021",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Are you comfy?",
+      "vi": "Con nằm êm không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "See you in the morning!",
+      "vi": "Sáng mai gặp lại nha con!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "The ___ is sleeping now.",
+      "vi": "Giờ ___ cũng ngủ rồi đó.",
+      "slots": [
+        {
+          "en": "doggy",
+          "vi": "cún"
+        },
+        {
+          "en": "sun",
+          "vi": "ông mặt trời"
+        },
+        {
+          "en": "kitty",
+          "vi": "mèo"
+        },
+        {
+          "en": "baby",
+          "vi": "em bé"
+        }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "bedtime-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Snuggle with your ___.",
+      "vi": "Ôm ___ ngủ nha con.",
+      "slots": [
+        {
+          "en": "teddy",
+          "vi": "gấu bông"
+        },
+        {
+          "en": "bunny",
+          "vi": "thỏ bông"
+        },
+        {
+          "en": "blanket",
+          "vi": "mền"
+        },
+        {
+          "en": "pillow",
+          "vi": "gối"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Stay in your bed, please.",
+      "vi": "Nằm yên trên giường nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you want the ___ on?",
+      "vi": "Con muốn bật ___ không?",
+      "slots": [
+        {
+          "en": "night-light",
+          "vi": "đèn ngủ"
+        },
+        {
+          "en": "fan",
+          "vi": "quạt"
+        },
+        {
+          "en": "music",
+          "vi": "nhạc"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-027",
+      "speaker": "parent",
+      "level": 3,
+      "en": "I'll leave the door open a little.",
+      "vi": "Để cửa mở hé một chút nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "Night-night!",
+      "vi": "Ngủ ngon nha!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "Read this one!",
+      "vi": "Đọc cuốn này đi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "Light on, please.",
+      "vi": "Bật đèn cho con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-031",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Are you sleepy?",
+      "vi": "Con buồn ngủ chưa?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-032",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Give ___ a goodnight kiss.",
+      "vi": "Thơm ___ chúc ngủ ngon đi con.",
+      "slots": [
+        {
+          "en": "Daddy",
+          "vi": "ba"
+        },
+        {
+          "en": "Mommy",
+          "vi": "mẹ"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "teddy",
+          "vi": "gấu bông"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-033",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Where's your ___? Let's find it.",
+      "vi": "Con để ___ đâu rồi? Mình tìm nha.",
+      "slots": [
+        {
+          "en": "teddy",
+          "vi": "gấu bông"
+        },
+        {
+          "en": "pillow",
+          "vi": "gối"
+        },
+        {
+          "en": "blanket",
+          "vi": "mền"
+        },
+        {
+          "en": "bunny",
+          "vi": "thỏ bông"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-034",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's put ___ to bed.",
+      "vi": "Mình cho ___ đi ngủ nha.",
+      "slots": [
+        {
+          "en": "teddy",
+          "vi": "gấu bông"
+        },
+        {
+          "en": "your dolly",
+          "vi": "búp bê"
+        },
+        {
+          "en": "bunny",
+          "vi": "thỏ bông"
+        },
+        {
+          "en": "the toys",
+          "vi": "đồ chơi"
+        }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "bedtime-035",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Hugs and kisses!",
+      "vi": "Ôm một cái, thơm một cái nè!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-036",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Rest your head on the pillow.",
+      "vi": "Ngả đầu lên gối nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-037",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I'll check on you soon.",
+      "vi": "Chút xíu nữa vô coi con nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-038",
+      "speaker": "child",
+      "level": 2,
+      "en": "Sing a song, please!",
+      "vi": "Hát cho con nghe đi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-039",
+      "speaker": "child",
+      "level": 1,
+      "en": "One more hug!",
+      "vi": "Ôm con thêm cái nữa!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-040",
+      "speaker": "child",
+      "level": 1,
+      "en": "Door open, please!",
+      "vi": "Mở cửa ra cho con nha!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-041",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Okay, one last drink of water, then bed.",
+      "vi": "Rồi, uống miếng nước cuối rồi đi ngủ nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-042",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What made you smile today?",
+      "vi": "Hôm nay có chuyện gì làm con vui?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-043",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It's a school night, so no more games.",
+      "vi": "Mai đi học rồi, nên không chơi nữa nha con.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-044",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Back to bed, sweetie. It's still nighttime.",
+      "vi": "Về giường ngủ lại nha con. Vẫn còn ban đêm mà.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-045",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Do you want me to ___?",
+      "vi": "Có muốn ___ không con?",
+      "slots": [
+        {
+          "en": "leave the hall light on",
+          "vi": "để đèn hành lang sáng"
+        },
+        {
+          "en": "read one more page",
+          "vi": "đọc thêm một trang nữa"
+        },
+        {
+          "en": "sit with you for a minute",
+          "vi": "ngồi với con một chút"
+        },
+        {
+          "en": "scratch your back",
+          "vi": "gãi lưng cho con"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-046",
+      "speaker": "child",
+      "level": 2,
+      "en": "I had a bad dream.",
+      "vi": "Con mơ thấy ác mộng.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-047",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I sleep with ___ tonight?",
+      "vi": "Tối nay con ___ được không?",
+      "slots": [
+        {
+          "en": "you",
+          "vi": "ngủ chung với ba mẹ"
+        },
+        {
+          "en": "the light on",
+          "vi": "để đèn sáng mà ngủ"
+        },
+        {
+          "en": "the door open",
+          "vi": "mở cửa mà ngủ"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-048",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Lights out in ___ minutes.",
+      "vi": "___ phút nữa tắt đèn nha.",
+      "slots": [
+        {
+          "en": "ten",
+          "vi": "Mười"
+        },
+        {
+          "en": "five",
+          "vi": "Năm"
+        },
+        {
+          "en": "fifteen",
+          "vi": "Mười lăm"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-049",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Did you pack your bag for tomorrow?",
+      "vi": "Con soạn cặp cho ngày mai chưa?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-050",
+      "speaker": "parent",
+      "level": 3,
+      "en": "The tablet stays in the living room at night.",
+      "vi": "Buổi tối máy tính bảng để ngoài phòng khách nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-051",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You can read for a bit, but lights out by ___.",
+      "vi": "Con đọc sách chút cũng được, nhưng ___ là tắt đèn nha.",
+      "slots": [
+        {
+          "en": "nine",
+          "vi": "chín giờ"
+        },
+        {
+          "en": "eight thirty",
+          "vi": "tám rưỡi"
+        },
+        {
+          "en": "nine thirty",
+          "vi": "chín rưỡi"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-052",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Is something on your mind?",
+      "vi": "Con đang lo nghĩ chuyện gì hả?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-053",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I finish this chapter first?",
+      "vi": "Cho con đọc hết chương này trước được không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "bedtime-054",
+      "speaker": "child",
+      "level": 3,
+      "en": "I can't sleep. I keep thinking about ___.",
+      "vi": "Con ngủ không được. Cứ nghĩ hoài về ___.",
+      "slots": [
+        {
+          "en": "the test",
+          "vi": "bài kiểm tra"
+        },
+        {
+          "en": "the trip",
+          "vi": "chuyến đi"
+        },
+        {
+          "en": "the game tomorrow",
+          "vi": "trận đấu ngày mai"
+        },
+        {
+          "en": "that scary movie",
+          "vi": "bộ phim ma đó"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    }
   ],
   "dialogues": [
     {
@@ -146,13 +879,45 @@
       "titleEn": "Story time",
       "titleVi": "Giờ kể chuyện",
       "lines": [
-        { "speaker": "mom", "en": "Time for bed.", "vi": "Tới giờ đi ngủ rồi." },
-        { "speaker": "child", "en": "One more story!", "vi": "Thêm một chuyện nữa!" },
-        { "speaker": "mom", "en": "Okay. One more story, then sleep.", "vi": "Ừ. Thêm một câu chuyện nữa rồi ngủ nha." },
-        { "speaker": "child", "en": "Yay!", "vi": "Thích quá!" },
-        { "speaker": "mom", "en": "Lie down, please. Let me tuck you in.", "vi": "Nằm xuống nha con. Để mẹ đắp chăn cho con." },
-        { "speaker": "child", "en": "Teddy, please!", "vi": "Cho con gấu bông!" },
-        { "speaker": "mom", "en": "Here's your teddy. Sweet dreams!", "vi": "Gấu bông nè. Ngủ ngon, mơ đẹp nha!" }
+        {
+          "speaker": "mom",
+          "en": "Time for bed.",
+          "vi": "Tới giờ đi ngủ rồi."
+        },
+        {
+          "speaker": "child",
+          "en": "One more story!",
+          "vi": "Thêm một chuyện nữa!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay. One more story, then sleep.",
+          "vi": "Ừ. Thêm một câu chuyện nữa rồi ngủ nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Yay!",
+          "vi": "Thích quá!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Lie down, please. Let me tuck you in.",
+          "vi": "Nằm xuống nha con. Để mẹ đắp chăn cho con."
+        },
+        {
+          "speaker": "child",
+          "en": "Teddy, please!",
+          "vi": "Cho con gấu bông!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Here's your teddy. Sweet dreams!",
+          "vi": "Gấu bông nè. Ngủ ngon, mơ đẹp nha!"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -160,12 +925,40 @@
       "titleEn": "Good night, moon",
       "titleVi": "Chúc ông trăng ngủ ngon",
       "lines": [
-        { "speaker": "dad", "en": "Let's say good night to the moon.", "vi": "Mình chúc ông trăng ngủ ngon nha." },
-        { "speaker": "child", "en": "Good night, moon!", "vi": "Chúc ông trăng ngủ ngon!" },
-        { "speaker": "dad", "en": "Let's turn off the light.", "vi": "Mình tắt đèn nha." },
-        { "speaker": "child", "en": "Stay with me.", "vi": "Ở với con đi." },
-        { "speaker": "dad", "en": "I'm right here. Good night, sweetie.", "vi": "Ba ở ngay đây. Ngủ ngon nha con yêu." },
-        { "speaker": "child", "en": "Night, Daddy.", "vi": "Ba ngủ ngon." }
+        {
+          "speaker": "dad",
+          "en": "Let's say good night to the moon.",
+          "vi": "Mình chúc ông trăng ngủ ngon nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Good night, moon!",
+          "vi": "Chúc ông trăng ngủ ngon!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Let's turn off the light.",
+          "vi": "Mình tắt đèn nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Stay with me.",
+          "vi": "Ở với con đi."
+        },
+        {
+          "speaker": "dad",
+          "en": "I'm right here. Good night, sweetie.",
+          "vi": "Ba ở ngay đây. Ngủ ngon nha con yêu."
+        },
+        {
+          "speaker": "child",
+          "en": "Night, Daddy.",
+          "vi": "Ba ngủ ngon."
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -173,14 +966,175 @@
       "titleEn": "Not sleepy yet",
       "titleVi": "Con chưa buồn ngủ",
       "lines": [
-        { "speaker": "child", "en": "I'm not sleepy.", "vi": "Con chưa buồn ngủ." },
-        { "speaker": "dad", "en": "Are you comfy? Snuggle with your bunny.", "vi": "Con nằm êm không? Ôm thỏ bông ngủ nha con." },
-        { "speaker": "child", "en": "Light on, please.", "vi": "Bật đèn cho con." },
-        { "speaker": "dad", "en": "Do you want the night-light on?", "vi": "Con muốn bật đèn ngủ không?" },
-        { "speaker": "child", "en": "Yes, please.", "vi": "Dạ có." },
-        { "speaker": "dad", "en": "Here you go. Stay in your bed, please.", "vi": "Đây nè. Nằm yên trên giường nha con." },
-        { "speaker": "child", "en": "Night-night, Daddy!", "vi": "Ba ngủ ngon!" },
-        { "speaker": "dad", "en": "See you in the morning!", "vi": "Sáng mai gặp lại nha con!" }
+        {
+          "speaker": "child",
+          "en": "I'm not sleepy.",
+          "vi": "Con chưa buồn ngủ."
+        },
+        {
+          "speaker": "dad",
+          "en": "Are you comfy? Snuggle with your bunny.",
+          "vi": "Con nằm êm không? Ôm thỏ bông ngủ nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Light on, please.",
+          "vi": "Bật đèn cho con."
+        },
+        {
+          "speaker": "dad",
+          "en": "Do you want the night-light on?",
+          "vi": "Con muốn bật đèn ngủ không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes, please.",
+          "vi": "Dạ có."
+        },
+        {
+          "speaker": "dad",
+          "en": "Here you go. Stay in your bed, please.",
+          "vi": "Đây nè. Nằm yên trên giường nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Night-night, Daddy!",
+          "vi": "Ba ngủ ngon!"
+        },
+        {
+          "speaker": "dad",
+          "en": "See you in the morning!",
+          "vi": "Sáng mai gặp lại nha con!"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-d04",
+      "titleEn": "A bad dream",
+      "titleVi": "Gặp ác mộng",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mommy, I can't sleep.",
+          "vi": "Mẹ ơi, con ngủ không được."
+        },
+        {
+          "speaker": "mom",
+          "en": "Back to bed, sweetie. It's still nighttime.",
+          "vi": "Về giường ngủ lại nha con. Vẫn còn ban đêm mà."
+        },
+        {
+          "speaker": "child",
+          "en": "But I had a bad dream.",
+          "vi": "Nhưng con mơ thấy ác mộng."
+        },
+        {
+          "speaker": "mom",
+          "en": "Oh, I'm sorry. Do you want to tell me about it?",
+          "vi": "Ôi, tội con. Con muốn kể mẹ nghe không?"
+        },
+        {
+          "speaker": "child",
+          "en": "There was a big monster in my closet.",
+          "vi": "Có con quái vật bự trong tủ đồ của con."
+        },
+        {
+          "speaker": "mom",
+          "en": "That sounds scary. But it was just a dream. Let's check the closet together.",
+          "vi": "Nghe sợ thiệt. Nhưng chỉ là mơ thôi. Mình cùng mở tủ coi nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay... No monster!",
+          "vi": "Dạ... Không có quái vật!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Nope, just your clothes. Do you want me to leave the hall light on?",
+          "vi": "Đâu có, chỉ có quần áo thôi. Con muốn mẹ để đèn hành lang sáng không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes, please.",
+          "vi": "Dạ, muốn."
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay. Sweet dreams, love.",
+          "vi": "Được rồi. Ngủ ngon nha con yêu."
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "bedtime-d05",
+      "titleEn": "One more chapter",
+      "titleVi": "Thêm một chương nữa",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Lights out in ten minutes, okay?",
+          "vi": "Mười phút nữa tắt đèn nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Dad, can I finish this chapter first? It's so good!",
+          "vi": "Ba ơi, cho con đọc hết chương này được không? Hay lắm!"
+        },
+        {
+          "speaker": "dad",
+          "en": "How many pages are left?",
+          "vi": "Còn mấy trang?"
+        },
+        {
+          "speaker": "child",
+          "en": "Um... twelve.",
+          "vi": "Ừm... mười hai."
+        },
+        {
+          "speaker": "dad",
+          "en": "That's a lot. How about you read until nine, then lights out?",
+          "vi": "Nhiều đó. Hay là con đọc tới chín giờ rồi tắt đèn nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "But I really want to know what happens!",
+          "vi": "Nhưng con muốn biết chuyện gì xảy ra quá!"
+        },
+        {
+          "speaker": "dad",
+          "en": "I get it. The book will still be here tomorrow. You need your sleep.",
+          "vi": "Ba hiểu mà. Mai cuốn sách vẫn còn đó. Con cần ngủ đủ giấc."
+        },
+        {
+          "speaker": "child",
+          "en": "Fine. Can you put a bookmark in it?",
+          "vi": "Thôi được. Ba kẹp đánh dấu trang giùm con nha?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure. Hey, did you pack your bag for tomorrow?",
+          "vi": "Được. À, con soạn cặp cho mai chưa?"
+        },
+        {
+          "speaker": "child",
+          "en": "Oh no, I forgot! I'll do it really quick.",
+          "vi": "Ôi, con quên! Con soạn liền."
+        },
+        {
+          "speaker": "dad",
+          "en": "Okay, quick! Then teeth, then bed.",
+          "vi": "Nhanh lên nha! Rồi đánh răng, rồi đi ngủ."
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

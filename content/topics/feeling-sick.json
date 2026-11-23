@@ -6,7 +6,12 @@
       "speaker": "parent",
       "level": 1,
       "en": "Are you okay?",
-      "vi": "Con có sao không?"
+      "vi": "Con có sao không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "feeling-sick-002",
@@ -31,6 +36,11 @@
           "en": "ear",
           "vi": "tai"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -38,21 +48,36 @@
       "speaker": "parent",
       "level": 2,
       "en": "Show me where it hurts.",
-      "vi": "Con chỉ coi đau chỗ nào nè."
+      "vi": "Con chỉ coi đau chỗ nào nè.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "feeling-sick-004",
       "speaker": "parent",
       "level": 2,
       "en": "You feel a little warm.",
-      "vi": "Người con hơi ấm ấm nè."
+      "vi": "Người con hơi ấm ấm nè.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "feeling-sick-005",
       "speaker": "parent",
       "level": 2,
       "en": "Time for your medicine.",
-      "vi": "Tới giờ uống thuốc rồi con."
+      "vi": "Tới giờ uống thuốc rồi con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "feeling-sick-006",
@@ -77,6 +102,11 @@
           "en": "hugs",
           "vi": "được ôm"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -102,6 +132,11 @@
           "en": "medicine",
           "vi": "uống thuốc"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -123,6 +158,10 @@
           "en": "bunny",
           "vi": "thỏ bông"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -130,35 +169,58 @@
       "speaker": "parent",
       "level": 1,
       "en": "Oh, poor sweetie.",
-      "vi": "Ôi, thương con quá."
+      "vi": "Ôi, thương con quá.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "feeling-sick-010",
       "speaker": "parent",
       "level": 2,
       "en": "You'll feel better soon.",
-      "vi": "Con sẽ khỏe lại sớm thôi."
+      "vi": "Con sẽ khỏe lại sớm thôi.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "feeling-sick-011",
       "speaker": "parent",
       "level": 2,
       "en": "I'm here with you.",
-      "vi": "Ở bên con đây nè."
+      "vi": "Ở bên con đây nè.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "feeling-sick-012",
       "speaker": "parent",
       "level": 2,
       "en": "The doctor will help you.",
-      "vi": "Bác sĩ sẽ giúp con khỏe lại."
+      "vi": "Bác sĩ sẽ giúp con khỏe lại.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "feeling-sick-013",
       "speaker": "parent",
       "level": 2,
       "en": "Cover your cough, please.",
-      "vi": "Ho thì che miệng lại nha con."
+      "vi": "Ho thì che miệng lại nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "feeling-sick-014",
@@ -183,6 +245,11 @@
           "en": "drink of water",
           "vi": "uống nước"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -208,6 +275,11 @@
           "en": "ear",
           "vi": "tai"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -215,49 +287,80 @@
       "speaker": "child",
       "level": 2,
       "en": "I don't feel good.",
-      "vi": "Con thấy không khỏe."
+      "vi": "Con thấy không khỏe.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "feeling-sick-017",
       "speaker": "child",
       "level": 1,
       "en": "Hold me, please.",
-      "vi": "Ôm con đi."
+      "vi": "Ôm con đi.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "feeling-sick-018",
       "speaker": "child",
       "level": 1,
       "en": "Tissue, please.",
-      "vi": "Cho con khăn giấy."
+      "vi": "Cho con khăn giấy.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "feeling-sick-019",
       "speaker": "child",
       "level": 1,
       "en": "I'm feeling better!",
-      "vi": "Con đỡ rồi!"
+      "vi": "Con đỡ rồi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "feeling-sick-020",
       "speaker": "child",
       "level": 1,
       "en": "Achoo!",
-      "vi": "Hắt xì!"
+      "vi": "Hắt xì!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "feeling-sick-021",
       "speaker": "parent",
       "level": 2,
       "en": "Let's take your temperature.",
-      "vi": "Mình cặp nhiệt độ nha con."
+      "vi": "Mình cặp nhiệt độ nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "feeling-sick-022",
       "speaker": "parent",
       "level": 2,
       "en": "Open wide. Say ahh.",
-      "vi": "Há miệng ra. Nói aaa nào."
+      "vi": "Há miệng ra. Nói aaa nào.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "feeling-sick-023",
@@ -278,6 +381,11 @@
           "en": "cheeks",
           "vi": "má"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -285,7 +393,10 @@
       "speaker": "parent",
       "level": 2,
       "en": "Blow your nose. Good job!",
-      "vi": "Con hỉ mũi nè. Giỏi lắm!"
+      "vi": "Con hỉ mũi nè. Giỏi lắm!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "feeling-sick-025",
@@ -310,6 +421,10 @@
           "en": "cherry",
           "vi": "anh đào"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -335,6 +450,11 @@
           "en": "cuddle",
           "vi": "ôm nhau"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -342,28 +462,266 @@
       "speaker": "parent",
       "level": 2,
       "en": "You're being so brave.",
-      "vi": "Con dũng cảm lắm nè."
+      "vi": "Con dũng cảm lắm nè.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "feeling-sick-028",
       "speaker": "child",
       "level": 2,
       "en": "My nose is runny.",
-      "vi": "Con bị sổ mũi."
+      "vi": "Con bị sổ mũi.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "feeling-sick-029",
       "speaker": "child",
       "level": 2,
       "en": "I want to lie down.",
-      "vi": "Con muốn nằm."
+      "vi": "Con muốn nằm.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "feeling-sick-030",
       "speaker": "child",
       "level": 1,
       "en": "More hugs, please.",
-      "vi": "Ôm con nữa đi."
+      "vi": "Ôm con nữa đi.",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "feeling-sick-031",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Uh-oh, did you throw up? It's okay.",
+      "vi": "Ui, con ói hả? Không sao đâu nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "feeling-sick-032",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You're staying home today. You need to rest.",
+      "vi": "Hôm nay con ở nhà nha. Con cần nghỉ ngơi.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feeling-sick-033",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's put a cool cloth on your ___.",
+      "vi": "Mình đắp khăn mát lên ___ con nha.",
+      "slots": [
+        {
+          "en": "forehead",
+          "vi": "trán"
+        },
+        {
+          "en": "neck",
+          "vi": "cổ"
+        },
+        {
+          "en": "arms",
+          "vi": "tay"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "feeling-sick-034",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Wash your hands so the germs go away.",
+      "vi": "Rửa tay đi con, cho hết vi trùng nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "feeling-sick-035",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Do you want ___ while you rest?",
+      "vi": "Trong lúc nghỉ, con muốn ___ không?",
+      "slots": [
+        {
+          "en": "a story",
+          "vi": "nghe kể chuyện"
+        },
+        {
+          "en": "some music",
+          "vi": "nghe nhạc"
+        },
+        {
+          "en": "a movie",
+          "vi": "xem phim"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feeling-sick-036",
+      "speaker": "child",
+      "level": 1,
+      "en": "I threw up.",
+      "vi": "Con ói rồi.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "feeling-sick-037",
+      "speaker": "child",
+      "level": 2,
+      "en": "My ___ feels funny.",
+      "vi": "___ con thấy khó chịu.",
+      "slots": [
+        {
+          "en": "tummy",
+          "vi": "Bụng"
+        },
+        {
+          "en": "head",
+          "vi": "Đầu"
+        },
+        {
+          "en": "throat",
+          "vi": "Cổ họng"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "feeling-sick-038",
+      "speaker": "parent",
+      "level": 3,
+      "en": "On a scale of one to ten, how bad does it hurt?",
+      "vi": "Nếu chấm từ một tới mười thì con đau cỡ nào?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "feeling-sick-039",
+      "speaker": "parent",
+      "level": 2,
+      "en": "When did it start hurting?",
+      "vi": "Con bắt đầu đau từ lúc nào?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "feeling-sick-040",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you feel worse, come wake me up, okay?",
+      "vi": "Nếu thấy mệt hơn thì gọi dậy liền nha con.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "feeling-sick-041",
+      "speaker": "parent",
+      "level": 3,
+      "en": "I'll let your teacher know you're sick.",
+      "vi": "Để nhắn cô giáo là con bị bệnh nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "feeling-sick-042",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You should ___ so you get better faster.",
+      "vi": "Con nên ___ cho mau khỏe nha.",
+      "slots": [
+        {
+          "en": "drink lots of water",
+          "vi": "uống nhiều nước"
+        },
+        {
+          "en": "get some sleep",
+          "vi": "ngủ một giấc"
+        },
+        {
+          "en": "stay in bed today",
+          "vi": "nằm nghỉ hôm nay"
+        },
+        {
+          "en": "eat a little soup",
+          "vi": "ăn chút súp"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "feeling-sick-043",
+      "speaker": "child",
+      "level": 2,
+      "en": "I think I'm getting a ___.",
+      "vi": "Chắc con sắp bị ___ rồi.",
+      "slots": [
+        {
+          "en": "cold",
+          "vi": "cảm"
+        },
+        {
+          "en": "fever",
+          "vi": "sốt"
+        },
+        {
+          "en": "sore throat",
+          "vi": "đau họng"
+        },
+        {
+          "en": "headache",
+          "vi": "nhức đầu"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "feeling-sick-044",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I stay home from school today?",
+      "vi": "Hôm nay con ở nhà nghỉ học được không?",
+      "ages": [
+        "7-9"
+      ]
     }
   ],
   "dialogues": [
@@ -402,6 +760,10 @@
           "en": "Come here. You'll feel better soon.",
           "vi": "Lại đây con. Con sẽ khỏe lại sớm thôi."
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -439,6 +801,9 @@
           "en": "All gone!",
           "vi": "Hết rồi!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -476,6 +841,120 @@
           "en": "Yay! I'm so happy!",
           "vi": "Hoan hô! Ba vui quá!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "feeling-sick-d04",
+      "titleEn": "Staying home",
+      "titleVi": "Ở nhà nghỉ",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mommy, my tummy feels funny.",
+          "vi": "Mẹ ơi, bụng con thấy khó chịu."
+        },
+        {
+          "speaker": "mom",
+          "en": "Oh no. Do you feel like you're going to throw up?",
+          "vi": "Ôi. Con thấy muốn ói không?"
+        },
+        {
+          "speaker": "child",
+          "en": "No. It just hurts a little.",
+          "vi": "Không. Chỉ hơi đau thôi."
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay. You're staying home today. Let's rest on the couch.",
+          "vi": "Ừ. Hôm nay con ở nhà nha. Mình nằm nghỉ trên ghế sofa."
+        },
+        {
+          "speaker": "child",
+          "en": "Can I watch a show?",
+          "vi": "Con xem phim được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure, just one. And sip some water, okay?",
+          "vi": "Được, một tập thôi nha. Uống chút nước nữa nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Can you sit with me?",
+          "vi": "Dạ. Mẹ ngồi với con nha?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Of course. I'm right here.",
+          "vi": "Tất nhiên rồi. Mẹ ở ngay đây nè."
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "feeling-sick-d05",
+      "titleEn": "A sore throat",
+      "titleVi": "Đau họng",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Hey, you look tired. Are you feeling okay?",
+          "vi": "Ủa, nhìn con mệt vậy. Con có khỏe không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Not really. My throat really hurts when I swallow.",
+          "vi": "Không khỏe lắm. Con nuốt là đau họng lắm."
+        },
+        {
+          "speaker": "dad",
+          "en": "When did it start hurting?",
+          "vi": "Con bắt đầu đau từ lúc nào?"
+        },
+        {
+          "speaker": "child",
+          "en": "Last night, but I thought it would go away.",
+          "vi": "Từ tối qua, mà con tưởng nó tự hết."
+        },
+        {
+          "speaker": "dad",
+          "en": "Let me feel your forehead. Hmm, you're pretty warm.",
+          "vi": "Để ba sờ trán coi. Hmm, người con hơi nóng đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Do I have to go to the doctor?",
+          "vi": "Con có phải đi bác sĩ không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "If it still hurts tomorrow, we'll go, okay?",
+          "vi": "Nếu mai còn đau thì mình đi khám nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Can I stay home from school today?",
+          "vi": "Dạ. Hôm nay con ở nhà nghỉ học được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yes. I'll let your teacher know you're sick.",
+          "vi": "Được. Để ba nhắn cô giáo là con bị bệnh."
+        },
+        {
+          "speaker": "child",
+          "en": "Thanks, Dad. I think I'll go back to bed.",
+          "vi": "Cảm ơn ba. Chắc con đi ngủ tiếp đây."
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

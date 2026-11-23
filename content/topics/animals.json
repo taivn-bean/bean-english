@@ -28,6 +28,9 @@
           "en": "pig",
           "vi": "heo"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -35,7 +38,10 @@
       "speaker": "parent",
       "level": 2,
       "en": "The cow says moo!",
-      "vi": "Con bò kêu ụm bò!"
+      "vi": "Con bò kêu ụm bò!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "animals-003",
@@ -64,6 +70,10 @@
           "en": "fish",
           "vi": "cá"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -89,6 +99,9 @@
           "en": "crab",
           "vi": "cua"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -110,6 +123,9 @@
           "en": "kangaroo",
           "vi": "chuột túi"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -135,6 +151,10 @@
           "en": "horse",
           "vi": "ngựa"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -142,56 +162,86 @@
       "speaker": "parent",
       "level": 2,
       "en": "Pet the kitty softly.",
-      "vi": "Vuốt mèo nhẹ nhẹ thôi nha."
+      "vi": "Vuốt mèo nhẹ nhẹ thôi nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "animals-008",
       "speaker": "parent",
       "level": 2,
       "en": "Roar like a lion!",
-      "vi": "Gầm như sư tử nào!"
+      "vi": "Gầm như sư tử nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "animals-009",
       "speaker": "parent",
       "level": 2,
       "en": "Shh, the kitty is sleeping.",
-      "vi": "Suỵt, mèo đang ngủ đó."
+      "vi": "Suỵt, mèo đang ngủ đó.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "animals-010",
       "speaker": "parent",
       "level": 2,
       "en": "Let's feed the fish.",
-      "vi": "Mình cho cá ăn nha."
+      "vi": "Mình cho cá ăn nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "animals-011",
       "speaker": "parent",
       "level": 1,
       "en": "So fluffy!",
-      "vi": "Lông mềm quá!"
+      "vi": "Lông mềm quá!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "animals-012",
       "speaker": "parent",
       "level": 3,
       "en": "The bird has wings, so it can fly.",
-      "vi": "Con chim có cánh nên bay được nè."
+      "vi": "Con chim có cánh nên bay được nè.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "animals-013",
       "speaker": "parent",
       "level": 3,
       "en": "Let's ask first before we pet the doggy.",
-      "vi": "Mình hỏi chủ trước rồi mới vuốt cún nha."
+      "vi": "Mình hỏi chủ trước rồi mới vuốt cún nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "animals-014",
       "speaker": "parent",
       "level": 3,
       "en": "The monkey is eating a banana. Yum, yum!",
-      "vi": "Con khỉ đang ăn chuối kìa. Măm măm!"
+      "vi": "Con khỉ đang ăn chuối kìa. Măm măm!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "animals-015",
@@ -220,6 +270,10 @@
           "en": "fish",
           "vi": "cá"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -227,35 +281,50 @@
       "speaker": "child",
       "level": 1,
       "en": "Moo, moo!",
-      "vi": "Ụm bò, ụm bò!"
+      "vi": "Ụm bò, ụm bò!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "animals-017",
       "speaker": "child",
       "level": 1,
       "en": "Woof, woof!",
-      "vi": "Gâu gâu!"
+      "vi": "Gâu gâu!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "animals-018",
       "speaker": "child",
       "level": 1,
       "en": "Meow!",
-      "vi": "Meo meo!"
+      "vi": "Meo meo!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "animals-019",
       "speaker": "child",
       "level": 1,
       "en": "Big elephant!",
-      "vi": "Con voi to quá!"
+      "vi": "Con voi to quá!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "animals-020",
       "speaker": "child",
       "level": 1,
       "en": "Quack, quack!",
-      "vi": "Cạp cạp!"
+      "vi": "Cạp cạp!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "animals-021",
@@ -280,6 +349,10 @@
           "en": "elephant",
           "vi": "voi"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -305,6 +378,9 @@
           "en": "frog",
           "vi": "ếch"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -330,6 +406,9 @@
           "en": "cows",
           "vi": "bò"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -337,28 +416,45 @@
       "speaker": "parent",
       "level": 3,
       "en": "Look, the doggy is wagging his tail!",
-      "vi": "Nhìn nè, cún đang vẫy đuôi kìa!"
+      "vi": "Nhìn nè, cún đang vẫy đuôi kìa!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "animals-025",
       "speaker": "parent",
       "level": 2,
       "en": "Let's go to the zoo!",
-      "vi": "Mình đi sở thú nha!"
+      "vi": "Mình đi sở thú nha!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "animals-026",
       "speaker": "parent",
       "level": 2,
       "en": "Wash your hands after petting.",
-      "vi": "Vuốt thú cưng xong nhớ rửa tay nha."
+      "vi": "Vuốt thú cưng xong nhớ rửa tay nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "animals-027",
       "speaker": "parent",
       "level": 2,
       "en": "The bee says buzz.",
-      "vi": "Con ong kêu vo ve."
+      "vi": "Con ong kêu vo ve.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "animals-028",
@@ -366,21 +462,30 @@
       "level": 1,
       "en": "Oink, oink!",
       "ipa": "/ɔɪŋk ɔɪŋk/",
-      "vi": "Ủn ỉn!"
+      "vi": "Ủn ỉn!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "animals-029",
       "speaker": "child",
       "level": 1,
       "en": "Baa, baa!",
-      "vi": "Be be!"
+      "vi": "Be be!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "animals-030",
       "speaker": "child",
       "level": 1,
       "en": "Hi, doggy!",
-      "vi": "Chào cún!"
+      "vi": "Chào cún!",
+      "ages": [
+        "3-5"
+      ]
     }
   ],
   "dialogues": [
@@ -419,6 +524,9 @@
           "en": "Quack, quack!",
           "vi": "Cạp cạp!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -456,6 +564,9 @@
           "en": "Roar!",
           "vi": "Gừm!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -493,6 +604,9 @@
           "en": "I like kittens!",
           "vi": "Con thích mèo con!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     }
   ]

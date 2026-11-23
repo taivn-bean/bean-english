@@ -6,7 +6,12 @@
       "speaker": "parent",
       "level": 1,
       "en": "Are you hungry?",
-      "vi": "Con đói chưa?"
+      "vi": "Con đói chưa?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "mealtime-002",
@@ -35,6 +40,11 @@
           "en": "noodles",
           "vi": "ăn mì"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -42,14 +52,23 @@
       "speaker": "parent",
       "level": 1,
       "en": "Let's eat!",
-      "vi": "Mình ăn thôi!"
+      "vi": "Mình ăn thôi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "mealtime-004",
       "speaker": "parent",
       "level": 1,
       "en": "Sit down, please.",
-      "vi": "Con ngồi xuống nào."
+      "vi": "Con ngồi xuống nào.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "mealtime-005",
@@ -70,6 +89,9 @@
           "en": "car",
           "vi": "xe hơi"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -77,21 +99,33 @@
       "speaker": "parent",
       "level": 1,
       "en": "Is it yummy?",
-      "vi": "Ngon không con?"
+      "vi": "Ngon không con?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "mealtime-007",
       "speaker": "parent",
       "level": 2,
       "en": "Hot! Blow on it.",
-      "vi": "Nóng đó! Thổi phù phù nào."
+      "vi": "Nóng đó! Thổi phù phù nào.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "mealtime-008",
       "speaker": "parent",
       "level": 2,
       "en": "Take one more bite.",
-      "vi": "Ăn thêm một miếng nữa nha."
+      "vi": "Ăn thêm một miếng nữa nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "mealtime-009",
@@ -116,6 +150,9 @@
           "en": "chopsticks",
           "vi": "đũa"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -123,14 +160,20 @@
       "speaker": "parent",
       "level": 1,
       "en": "Chew, chew, chew!",
-      "vi": "Nhai, nhai, nhai nào!"
+      "vi": "Nhai, nhai, nhai nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "mealtime-011",
       "speaker": "parent",
       "level": 1,
       "en": "Wow, all gone!",
-      "vi": "Oa, hết sạch rồi!"
+      "vi": "Oa, hết sạch rồi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "mealtime-012",
@@ -159,6 +202,9 @@
           "en": "crunchy",
           "vi": "giòn"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -166,21 +212,33 @@
       "speaker": "parent",
       "level": 3,
       "en": "Sit nicely and eat with your spoon.",
-      "vi": "Con ngồi ngoan rồi ăn bằng muỗng nha."
+      "vi": "Con ngồi ngoan rồi ăn bằng muỗng nha.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "mealtime-014",
       "speaker": "parent",
       "level": 3,
       "en": "Veggies help you grow big and strong.",
-      "vi": "Ăn rau giúp con mau lớn và khỏe mạnh."
+      "vi": "Ăn rau giúp con mau lớn và khỏe mạnh.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "mealtime-015",
       "speaker": "child",
       "level": 1,
       "en": "I'm hungry!",
-      "vi": "Con đói bụng!"
+      "vi": "Con đói bụng!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "mealtime-016",
@@ -205,6 +263,10 @@
           "en": "noodles",
           "vi": "mì"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -212,42 +274,66 @@
       "speaker": "child",
       "level": 1,
       "en": "Yummy!",
-      "vi": "Ngon quá!"
+      "vi": "Ngon quá!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "mealtime-018",
       "speaker": "child",
       "level": 1,
       "en": "I'm full!",
-      "vi": "Con no rồi!"
+      "vi": "Con no rồi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "mealtime-019",
       "speaker": "child",
       "level": 1,
       "en": "No, thank you.",
-      "vi": "Dạ thôi, con không ăn nữa."
+      "vi": "Dạ thôi, con không ăn nữa.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "mealtime-020",
       "speaker": "child",
       "level": 1,
       "en": "Hot, hot!",
-      "vi": "Nóng, nóng quá!"
+      "vi": "Nóng, nóng quá!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "mealtime-021",
       "speaker": "parent",
       "level": 1,
       "en": "Bib on!",
-      "vi": "Đeo yếm vào nào!"
+      "vi": "Đeo yếm vào nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "mealtime-022",
       "speaker": "parent",
       "level": 2,
       "en": "Do you want to try it?",
-      "vi": "Con ăn thử chút không?"
+      "vi": "Con ăn thử chút không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "mealtime-023",
@@ -276,6 +362,10 @@
           "en": "banana",
           "vi": "chuối"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -283,7 +373,10 @@
       "speaker": "parent",
       "level": 3,
       "en": "Food stays on the plate. Put it here, please.",
-      "vi": "Đồ ăn để trên dĩa thôi con. Con để vô đây nha."
+      "vi": "Đồ ăn để trên dĩa thôi con. Con để vô đây nha.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "mealtime-025",
@@ -308,6 +401,11 @@
           "en": "napkin",
           "vi": "khăn giấy"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -315,14 +413,22 @@
       "speaker": "parent",
       "level": 2,
       "en": "You tried something new!",
-      "vi": "Con dám ăn thử món mới, giỏi quá!"
+      "vi": "Con dám ăn thử món mới, giỏi quá!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "mealtime-027",
       "speaker": "parent",
       "level": 2,
       "en": "Let me wipe your face.",
-      "vi": "Để lau mặt cho con nha."
+      "vi": "Để lau mặt cho con nha.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "mealtime-028",
@@ -347,6 +453,11 @@
           "en": "egg",
           "vi": "trứng"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -354,14 +465,22 @@
       "speaker": "child",
       "level": 1,
       "en": "Spoon, please!",
-      "vi": "Cho con cái muỗng!"
+      "vi": "Cho con cái muỗng!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "mealtime-030",
       "speaker": "child",
       "level": 1,
       "en": "Thank you, Mommy!",
-      "vi": "Con cảm ơn mẹ!"
+      "vi": "Con cảm ơn mẹ!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "mealtime-031",
@@ -382,6 +501,11 @@
           "en": "Dinner",
           "vi": "tối"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -389,14 +513,23 @@
       "speaker": "parent",
       "level": 1,
       "en": "Small bites, please.",
-      "vi": "Ăn từng miếng nhỏ thôi con."
+      "vi": "Ăn từng miếng nhỏ thôi con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "mealtime-033",
       "speaker": "parent",
       "level": 2,
       "en": "Are you all done?",
-      "vi": "Con ăn xong chưa?"
+      "vi": "Con ăn xong chưa?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "mealtime-034",
@@ -421,6 +554,10 @@
           "en": "noodles",
           "vi": "mì"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -428,14 +565,23 @@
       "speaker": "parent",
       "level": 1,
       "en": "Drink some water.",
-      "vi": "Uống chút nước nha con."
+      "vi": "Uống chút nước nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "mealtime-036",
       "speaker": "parent",
       "level": 2,
       "en": "Is your tummy full?",
-      "vi": "Bụng con no chưa?"
+      "vi": "Bụng con no chưa?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "mealtime-037",
@@ -464,6 +610,11 @@
           "ipa": "/mː ðɪs ˈtʃɪkən smɛlz soʊ ɡʊd/",
           "vi": "gà"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -471,21 +622,266 @@
       "speaker": "child",
       "level": 2,
       "en": "I don't like it.",
-      "vi": "Con không thích món này."
+      "vi": "Con không thích món này.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "mealtime-039",
       "speaker": "child",
       "level": 1,
       "en": "I spilled it!",
-      "vi": "Con làm đổ rồi!"
+      "vi": "Con làm đổ rồi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "mealtime-040",
       "speaker": "child",
       "level": 2,
       "en": "I can eat by myself!",
-      "vi": "Con tự ăn được!"
+      "vi": "Con tự ăn được!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "mealtime-041",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you put the ___ on the table?",
+      "vi": "Con để ___ lên bàn giúp nha.",
+      "slots": [
+        {
+          "en": "spoons",
+          "vi": "muỗng"
+        },
+        {
+          "en": "bowls",
+          "vi": "chén"
+        },
+        {
+          "en": "chopsticks",
+          "vi": "đũa"
+        },
+        {
+          "en": "napkins",
+          "vi": "khăn giấy"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "mealtime-042",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What did you eat at school today?",
+      "vi": "Hôm nay ở trường con ăn gì?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "mealtime-043",
+      "speaker": "parent",
+      "level": 3,
+      "en": "No snacks now, or you won't be hungry for dinner.",
+      "vi": "Giờ đừng ăn vặt nha, không thì tới bữa tối con không đói đâu.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "mealtime-044",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You can have ___ after you finish your veggies.",
+      "vi": "Ăn hết rau rồi con được ăn ___.",
+      "slots": [
+        {
+          "en": "dessert",
+          "vi": "tráng miệng"
+        },
+        {
+          "en": "fruit",
+          "vi": "trái cây"
+        },
+        {
+          "en": "ice cream",
+          "vi": "kem"
+        },
+        {
+          "en": "a cookie",
+          "vi": "bánh quy"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "mealtime-045",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Please chew with your mouth closed.",
+      "vi": "Con nhai ngậm miệng lại nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "mealtime-046",
+      "speaker": "child",
+      "level": 1,
+      "en": "I ate everything!",
+      "vi": "Con ăn hết sạch rồi!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "mealtime-047",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I be excused?",
+      "vi": "Con ăn xong rồi, con đứng dậy được chưa?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "mealtime-048",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you set the table, please?",
+      "vi": "Con dọn chén đũa ra bàn giúp nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "mealtime-049",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How was lunch at school?",
+      "vi": "Bữa trưa ở trường hôm nay sao con?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "mealtime-050",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You don't have to finish it, but try one bite.",
+      "vi": "Con không cần ăn hết, nhưng thử một miếng nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "mealtime-051",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you help me ___?",
+      "vi": "Con phụ ___ nha?",
+      "slots": [
+        {
+          "en": "wash the veggies",
+          "vi": "rửa rau"
+        },
+        {
+          "en": "clear the table",
+          "vi": "dọn bàn"
+        },
+        {
+          "en": "load the dishwasher",
+          "vi": "xếp chén vào máy rửa chén"
+        },
+        {
+          "en": "wash the dishes",
+          "vi": "rửa chén"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "mealtime-052",
+      "speaker": "child",
+      "level": 3,
+      "en": "I'm not very hungry. I had a big snack after school.",
+      "vi": "Con không đói lắm. Lúc tan học con ăn vặt nhiều rồi.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "mealtime-053",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What should we have for dinner on ___?",
+      "vi": "Tối ___ mình ăn gì ta?",
+      "slots": [
+        {
+          "en": "Friday",
+          "vi": "thứ Sáu"
+        },
+        {
+          "en": "Saturday",
+          "vi": "thứ Bảy"
+        },
+        {
+          "en": "Sunday",
+          "vi": "Chủ nhật"
+        },
+        {
+          "en": "your birthday",
+          "vi": "sinh nhật con"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "mealtime-054",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I make my own ___?",
+      "vi": "Con tự làm ___ được không?",
+      "slots": [
+        {
+          "en": "sandwich",
+          "vi": "bánh mì kẹp"
+        },
+        {
+          "en": "breakfast",
+          "vi": "bữa sáng"
+        },
+        {
+          "en": "lunch",
+          "vi": "bữa trưa"
+        },
+        {
+          "en": "snack",
+          "vi": "đồ ăn vặt"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
     }
   ],
   "dialogues": [
@@ -524,6 +920,10 @@
           "en": "Yummy!",
           "vi": "Ngon quá!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -556,6 +956,9 @@
           "en": "Wow, all gone!",
           "vi": "Oa, hết sạch rồi!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -603,6 +1006,124 @@
           "en": "Thank you, Mommy!",
           "vi": "Con cảm ơn mẹ!"
         }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "mealtime-d04",
+      "titleEn": "Setting the table",
+      "titleVi": "Dọn bàn ăn",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Dinner's almost ready! Can you put the spoons on the table?",
+          "vi": "Sắp ăn tối rồi! Con để muỗng lên bàn giúp ba nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "How many?",
+          "vi": "Mấy cái hả ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, let's count. Mommy, Daddy, you, and Grandma.",
+          "vi": "Hừm, mình đếm nha. Mẹ, ba, con, với bà."
+        },
+        {
+          "speaker": "child",
+          "en": "Four spoons! Can I have a cookie?",
+          "vi": "Bốn cái muỗng! Con ăn bánh quy được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Not now, or you won't be hungry for dinner.",
+          "vi": "Giờ thì chưa, không thì tới bữa tối con không đói đâu."
+        },
+        {
+          "speaker": "child",
+          "en": "After dinner?",
+          "vi": "Ăn tối xong nha ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Okay, after you finish your veggies.",
+          "vi": "Ừ, ăn hết rau rồi mới được."
+        },
+        {
+          "speaker": "child",
+          "en": "Deal!",
+          "vi": "Chốt vậy nha!"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "mealtime-d05",
+      "titleEn": "How was lunch?",
+      "titleVi": "Bữa trưa ở trường",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "So, how was lunch at school?",
+          "vi": "Sao con, bữa trưa ở trường hôm nay thế nào?"
+        },
+        {
+          "speaker": "child",
+          "en": "Not great. They had fish again, and I don't really like it.",
+          "vi": "Không ngon lắm. Lại ăn cá nữa, mà con không thích cá lắm."
+        },
+        {
+          "speaker": "mom",
+          "en": "Oh no. Did you eat anything?",
+          "vi": "Trời. Vậy con có ăn gì không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Just the rice and some fruit. I'm starving!",
+          "vi": "Con ăn cơm với chút trái cây thôi. Giờ con đói lắm rồi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Well, good news. We're having chicken tonight.",
+          "vi": "Vậy tin vui nè. Tối nay ăn gà đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Yes! Can I help?",
+          "vi": "Yeah! Con phụ được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure. Can you wash the veggies?",
+          "vi": "Được chứ. Con rửa rau giúp mẹ nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "Do I have to eat the broccoli too?",
+          "vi": "Con có phải ăn bông cải xanh luôn không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "You don't have to finish it, but try one bite.",
+          "vi": "Con không cần ăn hết, nhưng thử một miếng nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, one bite. But I'm going to eat lots of chicken.",
+          "vi": "Dạ, một miếng thôi. Mà con sẽ ăn thiệt nhiều gà."
+        },
+        {
+          "speaker": "mom",
+          "en": "Ha! Fair enough.",
+          "vi": "Haha! Vậy cũng được."
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

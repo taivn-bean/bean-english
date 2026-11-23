@@ -6,14 +6,23 @@
       "speaker": "parent",
       "level": 1,
       "en": "What's this?",
-      "vi": "Cái gì đây con?"
+      "vi": "Cái gì đây con?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-002",
       "speaker": "parent",
       "level": 2,
       "en": "What color is it?",
-      "vi": "Nó màu gì vậy con?"
+      "vi": "Nó màu gì vậy con?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "questions-answers-003",
@@ -42,6 +51,10 @@
           "en": "shoe",
           "vi": "Chiếc giày"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -49,21 +62,36 @@
       "speaker": "parent",
       "level": 1,
       "en": "Who is that?",
-      "vi": "Ai đó con?"
+      "vi": "Ai đó con?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-005",
       "speaker": "parent",
       "level": 2,
       "en": "What do you want?",
-      "vi": "Con muốn gì nè?"
+      "vi": "Con muốn gì nè?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-006",
       "speaker": "parent",
       "level": 1,
       "en": "Which one?",
-      "vi": "Cái nào con?"
+      "vi": "Cái nào con?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-007",
@@ -88,6 +116,10 @@
           "en": "ducks",
           "vi": "con vịt"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -95,28 +127,46 @@
       "speaker": "parent",
       "level": 2,
       "en": "Is it big or small?",
-      "vi": "Nó to hay nhỏ vậy con?"
+      "vi": "Nó to hay nhỏ vậy con?",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "questions-answers-009",
       "speaker": "parent",
       "level": 2,
       "en": "Do you like it?",
-      "vi": "Con thích không?"
+      "vi": "Con thích không?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-010",
       "speaker": "parent",
       "level": 2,
       "en": "How do you feel?",
-      "vi": "Con thấy sao rồi?"
+      "vi": "Con thấy sao rồi?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-011",
       "speaker": "parent",
       "level": 2,
       "en": "What did you do today?",
-      "vi": "Hôm nay con làm gì nè?"
+      "vi": "Hôm nay con làm gì nè?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-012",
@@ -141,6 +191,10 @@
           "en": "cat",
           "vi": "Con mèo"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -166,6 +220,9 @@
           "en": "truck",
           "vi": "xe tải"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -173,21 +230,36 @@
       "speaker": "parent",
       "level": 2,
       "en": "What are you doing?",
-      "vi": "Con đang làm gì đó?"
+      "vi": "Con đang làm gì đó?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-015",
       "speaker": "parent",
       "level": 1,
       "en": "Whose is this?",
-      "vi": "Cái này của ai?"
+      "vi": "Cái này của ai?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-016",
       "speaker": "parent",
       "level": 3,
       "en": "Do you want this one or that one?",
-      "vi": "Con muốn cái này hay cái kia?"
+      "vi": "Con muốn cái này hay cái kia?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-017",
@@ -212,6 +284,11 @@
           "en": "basket",
           "vi": "giỏ"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -237,6 +314,11 @@
           "en": "toy",
           "vi": "đồ chơi"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -266,6 +348,10 @@
           "en": "flower",
           "vi": "bông hoa"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -273,42 +359,72 @@
       "speaker": "child",
       "level": 1,
       "en": "That one!",
-      "vi": "Cái kia!"
+      "vi": "Cái kia!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-021",
       "speaker": "child",
       "level": 1,
       "en": "Yes, I do!",
-      "vi": "Dạ, con thích!"
+      "vi": "Dạ, con thích!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-022",
       "speaker": "child",
       "level": 1,
       "en": "Not this one.",
-      "vi": "Không phải cái này."
+      "vi": "Không phải cái này.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-023",
       "speaker": "child",
       "level": 1,
       "en": "I don't know.",
-      "vi": "Con không biết."
+      "vi": "Con không biết.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-024",
       "speaker": "child",
       "level": 1,
       "en": "I like it!",
-      "vi": "Con thích lắm!"
+      "vi": "Con thích lắm!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-025",
       "speaker": "child",
       "level": 1,
       "en": "Over there!",
-      "vi": "Ở đằng kia!"
+      "vi": "Ở đằng kia!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "questions-answers-026",
@@ -333,6 +449,10 @@
           "en": "four apples",
           "vi": "bốn trái táo"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -358,6 +478,10 @@
           "en": "blue",
           "vi": "màu xanh"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -383,6 +507,10 @@
           "en": "my friend",
           "vi": "bạn con"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -390,7 +518,11 @@
       "speaker": "child",
       "level": 1,
       "en": "It's mine!",
-      "vi": "Của con!"
+      "vi": "Của con!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "questions-answers-030",
@@ -415,6 +547,294 @@
           "en": "flying",
           "vi": "đang bay"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "questions-answers-031",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Who did you play with today?",
+      "vi": "Hôm nay con chơi với ai?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "questions-answers-032",
+      "speaker": "parent",
+      "level": 2,
+      "en": "And then what happened?",
+      "vi": "Rồi sao nữa con?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "questions-answers-033",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Where did you put your ___?",
+      "vi": "Con để ___ ở đâu rồi?",
+      "slots": [
+        {
+          "en": "shoes",
+          "vi": "giày"
+        },
+        {
+          "en": "backpack",
+          "vi": "cặp"
+        },
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        },
+        {
+          "en": "library book",
+          "vi": "sách thư viện"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "questions-answers-034",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Which one is ___?",
+      "vi": "Cái nào ___?",
+      "slots": [
+        {
+          "en": "bigger",
+          "vi": "to hơn"
+        },
+        {
+          "en": "longer",
+          "vi": "dài hơn"
+        },
+        {
+          "en": "heavier",
+          "vi": "nặng hơn"
+        },
+        {
+          "en": "faster",
+          "vi": "nhanh hơn"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "questions-answers-035",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How did that make you feel?",
+      "vi": "Chuyện đó làm con thấy sao?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "questions-answers-036",
+      "speaker": "child",
+      "level": 2,
+      "en": "I played ___ at recess.",
+      "vi": "Giờ ra chơi con chơi ___.",
+      "slots": [
+        {
+          "en": "tag",
+          "vi": "đuổi bắt"
+        },
+        {
+          "en": "soccer",
+          "vi": "đá banh"
+        },
+        {
+          "en": "hide-and-seek",
+          "vi": "trốn tìm"
+        },
+        {
+          "en": "on the slide",
+          "vi": "cầu tuột"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "questions-answers-037",
+      "speaker": "child",
+      "level": 2,
+      "en": "Because I was ___.",
+      "vi": "Tại con ___.",
+      "slots": [
+        {
+          "en": "tired",
+          "vi": "mệt"
+        },
+        {
+          "en": "hungry",
+          "vi": "đói"
+        },
+        {
+          "en": "sad",
+          "vi": "buồn"
+        },
+        {
+          "en": "scared",
+          "vi": "sợ"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "questions-answers-038",
+      "speaker": "parent",
+      "level": 3,
+      "en": "What do you think will happen next?",
+      "vi": "Con nghĩ chuyện gì sẽ xảy ra tiếp theo?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "questions-answers-039",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What makes you say that?",
+      "vi": "Sao con nói vậy?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "questions-answers-040",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you tell me more about ___?",
+      "vi": "Con kể thêm về ___ cho nghe nha?",
+      "slots": [
+        {
+          "en": "your project",
+          "vi": "dự án của con"
+        },
+        {
+          "en": "your new friend",
+          "vi": "bạn mới của con"
+        },
+        {
+          "en": "the field trip",
+          "vi": "chuyến dã ngoại"
+        },
+        {
+          "en": "the book",
+          "vi": "cuốn sách đó"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "questions-answers-041",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you could have any ___, what would it be?",
+      "vi": "Nếu được chọn bất kỳ ___ nào, con chọn gì?",
+      "slots": [
+        {
+          "en": "pet",
+          "vi": "con thú cưng"
+        },
+        {
+          "en": "superpower",
+          "vi": "siêu năng lực"
+        },
+        {
+          "en": "job",
+          "vi": "nghề"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "questions-answers-042",
+      "speaker": "child",
+      "level": 2,
+      "en": "I like ___ because it's fun.",
+      "vi": "Con thích ___ vì vui lắm.",
+      "slots": [
+        {
+          "en": "soccer",
+          "vi": "đá banh"
+        },
+        {
+          "en": "drawing",
+          "vi": "vẽ"
+        },
+        {
+          "en": "reading",
+          "vi": "đọc sách"
+        },
+        {
+          "en": "math",
+          "vi": "môn toán"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "questions-answers-043",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I think about it for a minute?",
+      "vi": "Cho con suy nghĩ một chút nha?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "questions-answers-044",
+      "speaker": "child",
+      "level": 2,
+      "en": "I'd rather ___.",
+      "vi": "Con thích ___ hơn.",
+      "slots": [
+        {
+          "en": "go to the park",
+          "vi": "đi công viên"
+        },
+        {
+          "en": "stay home",
+          "vi": "ở nhà"
+        },
+        {
+          "en": "read a book",
+          "vi": "đọc sách"
+        },
+        {
+          "en": "play outside",
+          "vi": "chơi ngoài trời"
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ],
@@ -454,6 +874,10 @@
           "en": "Yes, I do!",
           "vi": "Dạ, con thích!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -491,6 +915,9 @@
           "en": "Red!",
           "vi": "Màu đỏ!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -528,6 +955,130 @@
           "en": "So much fun!",
           "vi": "Vui lắm!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "questions-answers-d04",
+      "titleEn": "Who did you play with?",
+      "titleVi": "Con chơi với ai?",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Who did you play with today?",
+          "vi": "Hôm nay con chơi với ai?"
+        },
+        {
+          "speaker": "child",
+          "en": "I played with my friends at recess.",
+          "vi": "Giờ ra chơi con chơi với mấy bạn."
+        },
+        {
+          "speaker": "mom",
+          "en": "Fun! What did you play?",
+          "vi": "Vui ghê! Mấy đứa chơi gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "We played tag. I was it!",
+          "vi": "Tụi con chơi đuổi bắt. Con làm người đuổi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Did you catch anyone?",
+          "vi": "Con bắt được ai không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes! I caught two kids.",
+          "vi": "Có! Con bắt được hai bạn."
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow! How did that make you feel?",
+          "vi": "Oa! Vậy con thấy sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Happy! But then I fell down.",
+          "vi": "Vui lắm! Mà sau đó con bị té."
+        },
+        {
+          "speaker": "mom",
+          "en": "Oh no! Are you okay?",
+          "vi": "Ôi! Con có sao không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yeah. I didn't even cry!",
+          "vi": "Dạ không. Con không có khóc luôn!"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "questions-answers-d05",
+      "titleEn": "Talking about a book",
+      "titleVi": "Nói chuyện về cuốn sách",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "So, what did you think of the book?",
+          "vi": "Sao, con thấy cuốn sách đó thế nào?"
+        },
+        {
+          "speaker": "child",
+          "en": "I liked it, but the ending was kind of sad.",
+          "vi": "Con thích, mà đoạn kết hơi buồn."
+        },
+        {
+          "speaker": "dad",
+          "en": "Why do you think that?",
+          "vi": "Sao con thấy vậy?"
+        },
+        {
+          "speaker": "child",
+          "en": "Because the dog had to leave the family.",
+          "vi": "Tại con chó phải rời khỏi gia đình."
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, that is sad. What do you think will happen next?",
+          "vi": "Hmm, buồn thật. Con nghĩ chuyện gì sẽ xảy ra tiếp?"
+        },
+        {
+          "speaker": "child",
+          "en": "Maybe he'll find his way back home.",
+          "vi": "Chắc nó sẽ tìm được đường về nhà."
+        },
+        {
+          "speaker": "dad",
+          "en": "I hope so. If you could have any pet, what would it be?",
+          "vi": "Ba cũng mong vậy. Nếu được chọn bất kỳ con thú cưng nào, con chọn con gì?"
+        },
+        {
+          "speaker": "child",
+          "en": "A dog, for sure! Can we get one?",
+          "vi": "Chắc chắn là chó rồi! Nhà mình nuôi một con được không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "That's a big question. Let me think about it.",
+          "vi": "Chuyện này lớn đó. Để ba suy nghĩ đã."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, but think fast!",
+          "vi": "Dạ, mà ba nghĩ nhanh nha!"
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

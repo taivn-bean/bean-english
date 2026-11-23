@@ -1,13 +1,14 @@
 import { useSuspenseQuery } from '@tanstack/react-query'
-import { createFileRoute } from '@tanstack/react-router'
+import { createFileRoute, Link } from '@tanstack/react-router'
 import clsx from 'clsx'
-import { Check, Pencil, Trash2, UserPlus } from 'lucide-react'
+import { BookHeart, Check, Flame, Pencil, Trash2, UserPlus } from 'lucide-react'
 import { type FormEvent, useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import { Avatar } from '../components/Avatar'
 import { PageHeader, ProgressBar } from '../components/Layout'
 import { TopicIcon } from '../components/TopicIcon'
-import { useProfiles, useProgressMap } from '../hooks/useProfile'
-import { contentIndexQuery } from '../lib/content'
+import { useAgeFilter, useProfiles, useProgressMap } from '../hooks/useProfile'
+import { AGE_BANDS, contentIndexQuery, type TopicSummary } from '../lib/content'
 import { db, PROFILE_COLORS, type Profile } from '../lib/db'
 import { useSettings } from '../lib/settings'
 
@@ -21,11 +22,15 @@ function ProgressPage() {
   const { lang } = useSettings()
   const { data } = useSuspenseQuery(contentIndexQuery)
   const progress = useProgressMap()
+  const { band, showAll, fits } = useAgeFilter()
 
-  const total = data.topics.reduce((n, tp) => n + tp.phraseIds.length, 0)
-  const all = [...progress.values()]
-  const parentTotal = all.filter((p) => p.parentLearned).length
-  const childTotal = all.filter((p) => p.childSaid).length
+  // Stats count only phrases of the child's age band (or everything with "show all ages").
+  const topics = data.topics.filter((tp) => fits(tp.ages))
+  const idsFor = (tp: TopicSummary) => (showAll ? tp.phraseIds : tp.phrasesByAge[band])
+  const allIds = topics.flatMap(idsFor)
+  const total = allIds.length
+  const parentTotal = allIds.filter((id) => progress.get(id)?.parentLearned).length
+  const childTotal = allIds.filter((id) => progress.get(id)?.childSaid).length
 
   return (
     <>
@@ -33,14 +38,24 @@ function ProgressPage() {
       <main className="space-y-5 px-4">
         <ProfileManager />
 
+        <nav className="grid grid-cols-2 gap-3">
+          <Link to="/avatar" className="flex min-h-12 items-center justify-center gap-2 rounded-2xl border border-line bg-surface font-semibold text-leaf-700">
+            <Flame size={18} className="text-peach" /> {t('avatar.title')}
+          </Link>
+          <Link to="/diary" className="flex min-h-12 items-center justify-center gap-2 rounded-2xl border border-line bg-surface font-semibold text-leaf-700">
+            <BookHeart size={18} /> {t('diary.title')}
+          </Link>
+        </nav>
+
         <section className="grid grid-cols-2 gap-3">
           <Stat label={t('progress.parentLearned')} value={parentTotal} total={total} color="bg-leaf-400" />
           <Stat label={t('progress.childSaid')} value={childTotal} total={total} color="bg-peach" />
         </section>
 
         <ul className="space-y-2">
-          {data.topics.map((topic) => {
-            const rows = topic.phraseIds.map((id) => progress.get(id))
+          {topics.map((topic) => {
+            const ids = idsFor(topic)
+            const rows = ids.map((id) => progress.get(id))
             const parent = rows.filter((r) => r?.parentLearned).length
             const child = rows.filter((r) => r?.childSaid).length
             return (
@@ -48,8 +63,8 @@ function ProgressPage() {
                 <TopicIcon name={topic.icon} size={22} className="shrink-0 text-leaf-600" />
                 <div className="min-w-0 flex-1 space-y-1">
                   <p className="truncate text-sm font-semibold">{lang === 'vi' ? topic.titleVi : topic.titleEn}</p>
-                  <ProgressBar value={parent} total={topic.phraseIds.length} />
-                  <ProgressBar value={child} total={topic.phraseIds.length} color="bg-peach" />
+                  <ProgressBar value={parent} total={ids.length} />
+                  <ProgressBar value={child} total={ids.length} color="bg-peach" />
                 </div>
                 <span className="w-12 text-right text-xs text-muted">
                   {parent}/{child}
@@ -82,6 +97,7 @@ function ProfileManager() {
   const { activeProfileId, set } = useSettings()
   const [editing, setEditing] = useState<number | 'new' | null>(null)
   const [name, setName] = useState('')
+  const active = profiles.find((p) => p.id === activeProfileId)
 
   const startEdit = (p?: Profile) => {
     setEditing(p?.id ?? 'new')
@@ -97,6 +113,7 @@ function ProfileManager() {
         name: trimmed,
         color: PROFILE_COLORS[profiles.length % PROFILE_COLORS.length],
         createdAt: Date.now(),
+        ageBand: '3-5',
       } as Profile)
       set({ activeProfileId: id })
     } else if (editing != null) {
@@ -107,7 +124,8 @@ function ProfileManager() {
 
   const remove = async (p: Profile) => {
     if (!confirm(t('progress.deleteConfirm', { name: p.name }))) return
-    await db.transaction('rw', db.profiles, db.progress, db.favorites, async () => {
+    await db.transaction('rw', [db.profiles, db.progress, db.favorites, db.activity], async () => {
+      await db.activity.where({ profileId: p.id }).delete()
       await db.progress.where({ profileId: p.id }).delete()
       await db.favorites.where({ profileId: p.id }).delete()
       await db.profiles.delete(p.id)
@@ -126,9 +144,7 @@ function ProfileManager() {
             ) : (
               <>
                 <button onClick={() => set({ activeProfileId: p.id })} className="flex min-h-11 flex-1 items-center gap-3 text-left">
-                  <span className="grid size-10 place-items-center rounded-full font-bold text-white" style={{ background: p.color }}>
-                    {p.name.slice(0, 1).toUpperCase()}
-                  </span>
+                  <Avatar avatar={p.avatar} color={p.color} size={40} title={p.name} />
                   <span className="font-semibold">{p.name}</span>
                   {p.id === activeProfileId && <Check size={18} className="text-leaf-600" aria-label={t('progress.active')} />}
                 </button>
@@ -144,6 +160,7 @@ function ProfileManager() {
             )}
           </li>
         ))}
+        {active && <AgeBandPicker profile={active} />}
         <li className="flex rounded-2xl border border-dashed border-leaf-200 p-2">
           {editing === 'new' ? (
             <NameForm name={name} setName={setName} onSubmit={save} onCancel={() => setEditing(null)} />
@@ -155,6 +172,35 @@ function ProfileManager() {
         </li>
       </ul>
     </section>
+  )
+}
+
+/** Manual age band for the selected child (drives which phrases/topics are shown). */
+function AgeBandPicker({ profile }: { profile: Profile }) {
+  const { t } = useTranslation()
+  const current = profile.ageBand ?? '3-5'
+  return (
+    <li className="space-y-2 rounded-2xl border border-line bg-surface p-3">
+      <p className="text-sm font-semibold">
+        {t('age.label')}: {profile.name}
+      </p>
+      <div className="grid grid-cols-3 gap-2" role="radiogroup" aria-label={t('age.label')}>
+        {AGE_BANDS.map((b) => (
+          <button
+            key={b}
+            role="radio"
+            aria-checked={current === b}
+            onClick={() => db.profiles.update(profile.id, { ageBand: b })}
+            className={clsx(
+              'min-h-11 rounded-xl border text-sm font-semibold',
+              current === b ? 'border-leaf-500 bg-leaf-500 text-white' : 'border-line bg-leaf-50 text-ink',
+            )}
+          >
+            {t(`age.band.${b}`)}
+          </button>
+        ))}
+      </div>
+    </li>
   )
 }
 

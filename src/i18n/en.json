@@ -113,5 +113,72 @@
     "importConfirm": "Replace all current data with the backup from {{date}}?",
     "imported": "Data restored ✓",
     "invalid": "Invalid file"
+  },
+  "offline": {
+    "notDownloaded": "Not offline",
+    "suggestTitle": "Download audio for {{band}}",
+    "suggestDesc": "{{count}} topics · {{size}} — listen without internet",
+    "download": "Download",
+    "downloadTopic": "Download",
+    "shellReady": "App & text content ready offline",
+    "packsTitle": "Offline audio packs",
+    "topicsDone": "{{done}}/{{total}} topics downloaded",
+    "pageDesc": "Choose topics to listen to without internet. Other topics still show text but need internet for audio.",
+    "used": "Downloaded audio: {{size}}",
+    "downloadBand": "Get {{band}} ({{size}})",
+    "downloadAll": "Get all ({{size}})",
+    "removeAll": "Delete all downloaded audio",
+    "removeAllConfirm": "Delete all offline audio? You can download it again later.",
+    "needOnline": "You need internet to download.",
+    "remove": "Delete"
+  },
+  "age": {
+    "label": "Age",
+    "band": {
+      "3-5": "Ages 3–5",
+      "5-7": "Ages 5–7",
+      "7-9": "Ages 7–9"
+    },
+    "showAll": "Show content for all ages",
+    "showAllHint": "By default only phrases for the selected child's age are shown.",
+    "empty": "No phrases for {{band}} in this topic yet."
+  },
+  "avatar": {
+    "title": "Avatar & streak",
+    "animal": "Animal",
+    "color": "Background",
+    "accessory": "Accessory",
+    "unlockAt": "🔒 {{days}} days",
+    "animals": {
+      "cat": "Cat",
+      "dog": "Puppy",
+      "bunny": "Bunny",
+      "bear": "Bear",
+      "panda": "Panda",
+      "fox": "Fox"
+    },
+    "accessories": {
+      "none": "None",
+      "bow": "Bow",
+      "glasses": "Glasses",
+      "party-hat": "Party hat",
+      "crown": "Crown"
+    }
+  },
+  "streak": {
+    "chip": "{{count}} days",
+    "current": "Current streak",
+    "best": "Best",
+    "doneToday": "Done for today 🎉 See you tomorrow!",
+    "notYet": "Not yet today — play one phrase to keep the streak!",
+    "calendar": "Last 4 weeks"
+  },
+  "diary": {
+    "title": "Child's diary",
+    "count": "{{name}} can say {{count}} phrases",
+    "empty": "When your child says a phrase, tap \"Child said it\" on it — the moment will be saved here.",
+    "notePlaceholder": "Note (e.g. said it at the park)",
+    "share": "Share",
+    "shareTitle": "English phrases {{name}} can say 🐱"
   }
 }

@@ -1,10 +1,11 @@
 import { useQuery } from '@tanstack/react-query'
 import { createFileRoute } from '@tanstack/react-router'
 import clsx from 'clsx'
-import { CircleCheck, Download, Loader, Upload } from 'lucide-react'
+import { Download, Upload } from 'lucide-react'
 import { type ChangeEvent, type ReactNode, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { PageHeader } from '../components/Layout'
+import { OfflineStatus } from '../components/OfflineStatus'
 import { InstallHint } from '../components/PwaPrompts'
 import { exportBackup, parseBackup, restoreBackup } from '../lib/backup'
 import { contentIndexQuery } from '../lib/content'
@@ -16,16 +17,6 @@ function SettingsPage() {
   const { t } = useTranslation()
   const s = useSettings()
   const { data: index } = useQuery(contentIndexQuery)
-  const offline = useQuery({
-    queryKey: ['offline-status'],
-    queryFn: async () => {
-      const ready = !!navigator.serviceWorker?.controller
-      const est = await navigator.storage?.estimate?.()
-      return { ready, used: est?.usage }
-    },
-    staleTime: 0,
-    refetchInterval: (q) => (q.state.data?.ready ? false : 3000),
-  })
 
   return (
     <>
@@ -40,15 +31,17 @@ function SettingsPage() {
           <input type="checkbox" checked={s.showIpa} onChange={(e) => s.set({ showIpa: e.target.checked })} className="size-6 accent-leaf-500" />
         </label>
 
+        <label className="flex min-h-12 items-center justify-between gap-3 rounded-2xl border border-line bg-surface px-4 py-2">
+          <span>
+            <span className="block font-medium">{t('age.showAll')}</span>
+            <span className="block text-xs text-muted">{t('age.showAllHint')}</span>
+          </span>
+          <input type="checkbox" checked={s.showAllAges} onChange={(e) => s.set({ showAllAges: e.target.checked })} className="size-6 shrink-0 accent-leaf-500" />
+        </label>
+
         <Field label={t('settings.offline')}>
-          <div className="space-y-1 rounded-2xl border border-line bg-surface p-4 text-sm">
-            <p className="flex items-center gap-2 font-medium">
-              {offline.data?.ready ? <CircleCheck size={18} className="text-leaf-600" /> : <Loader size={18} className="animate-spin" />}
-              {offline.data?.ready ? t('settings.offlineReady') : t('settings.offlineNotReady')}
-            </p>
-            {offline.data?.used != null && <p className="text-muted">{t('settings.storage', { used: `${(offline.data.used / 1024 / 1024).toFixed(1)} MB` })}</p>}
-            {index && <p className="text-muted">{t('settings.version')}: {index.contentVersion}</p>}
-          </div>
+          <OfflineStatus />
+          {index && <p className="px-1 text-xs text-muted">{t('settings.version')}: {index.contentVersion}</p>}
         </Field>
 
         <BackupSection />

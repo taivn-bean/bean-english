@@ -32,6 +32,10 @@
           "en": "orange",
           "vi": "cam"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -57,6 +61,10 @@
           "en": "green",
           "vi": "xanh lá"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -86,6 +94,10 @@
           "en": "heart",
           "vi": "trái tim"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -93,14 +105,21 @@
       "speaker": "parent",
       "level": 2,
       "en": "What shape is this?",
-      "vi": "Đây là hình gì nè?"
+      "vi": "Đây là hình gì nè?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "colors-shapes-005",
       "speaker": "parent",
       "level": 3,
       "en": "A ball is round, like a circle.",
-      "vi": "Trái banh tròn, giống hình tròn nè."
+      "vi": "Trái banh tròn, giống hình tròn nè.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "colors-shapes-006",
@@ -129,6 +148,10 @@
           "en": "green",
           "vi": "xanh lá"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -136,56 +159,92 @@
       "speaker": "parent",
       "level": 1,
       "en": "Pick a color!",
-      "vi": "Con chọn màu đi!"
+      "vi": "Con chọn màu đi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "colors-shapes-008",
       "speaker": "parent",
       "level": 2,
       "en": "What's your favorite color?",
-      "vi": "Con thích màu gì nhất?"
+      "vi": "Con thích màu gì nhất?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "colors-shapes-009",
       "speaker": "parent",
       "level": 3,
       "en": "The sky is blue and the grass is green.",
-      "vi": "Bầu trời màu xanh dương, còn cỏ màu xanh lá."
+      "vi": "Bầu trời màu xanh dương, còn cỏ màu xanh lá.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "colors-shapes-010",
       "speaker": "parent",
       "level": 3,
       "en": "A triangle has three sides. Let's count them!",
-      "vi": "Hình tam giác có ba cạnh. Mình đếm thử nha!"
+      "vi": "Hình tam giác có ba cạnh. Mình đếm thử nha!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "colors-shapes-011",
       "speaker": "parent",
       "level": 1,
       "en": "So colorful!",
-      "vi": "Nhiều màu đẹp quá!"
+      "vi": "Nhiều màu đẹp quá!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "colors-shapes-012",
       "speaker": "parent",
       "level": 2,
       "en": "Let's put the red ones here.",
-      "vi": "Mình để mấy cái màu đỏ ở đây nha."
+      "vi": "Mình để mấy cái màu đỏ ở đây nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "colors-shapes-013",
       "speaker": "parent",
       "level": 2,
       "en": "What a pretty picture!",
-      "vi": "Con vẽ đẹp quá!"
+      "vi": "Con vẽ đẹp quá!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "colors-shapes-014",
       "speaker": "parent",
       "level": 2,
       "en": "Red and yellow make orange!",
-      "vi": "Đỏ trộn với vàng ra màu cam nè!"
+      "vi": "Đỏ trộn với vàng ra màu cam nè!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "colors-shapes-015",
@@ -214,6 +273,9 @@
           "en": "heart",
           "vi": "trái tim"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -239,6 +301,9 @@
           "en": "purple",
           "vi": "tím"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -246,28 +311,45 @@
       "speaker": "child",
       "level": 2,
       "en": "Pink is my favorite!",
-      "vi": "Con thích màu hồng nhất!"
+      "vi": "Con thích màu hồng nhất!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "colors-shapes-018",
       "speaker": "child",
       "level": 2,
       "en": "Look what I drew!",
-      "vi": "Coi con vẽ nè!"
+      "vi": "Coi con vẽ nè!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "colors-shapes-019",
       "speaker": "child",
       "level": 1,
       "en": "More crayons, please!",
-      "vi": "Cho con thêm bút màu!"
+      "vi": "Cho con thêm bút màu!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "colors-shapes-020",
       "speaker": "child",
       "level": 1,
       "en": "Green like grass!",
-      "vi": "Xanh lá như cỏ!"
+      "vi": "Xanh lá như cỏ!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "colors-shapes-021",
@@ -296,6 +378,10 @@
           "en": "purple",
           "vi": "tím"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -321,6 +407,9 @@
           "en": "clock",
           "vi": "đồng hồ"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -346,6 +435,9 @@
           "en": "green",
           "vi": "xanh lá"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -353,49 +445,76 @@
       "speaker": "parent",
       "level": 2,
       "en": "Let's mix the colors!",
-      "vi": "Mình trộn màu nha!"
+      "vi": "Mình trộn màu nha!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "colors-shapes-025",
       "speaker": "parent",
       "level": 2,
       "en": "Crayons are for paper.",
-      "vi": "Bút màu là để vẽ trên giấy nha con."
+      "vi": "Bút màu là để vẽ trên giấy nha con.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "colors-shapes-026",
       "speaker": "parent",
       "level": 2,
       "en": "Let's put the caps back on.",
-      "vi": "Mình đậy nắp bút lại nha."
+      "vi": "Mình đậy nắp bút lại nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "colors-shapes-027",
       "speaker": "parent",
       "level": 1,
       "en": "Round and round!",
-      "vi": "Vẽ vòng tròn, vòng tròn nè!"
+      "vi": "Vẽ vòng tròn, vòng tròn nè!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "colors-shapes-028",
       "speaker": "child",
       "level": 2,
       "en": "I made a circle!",
-      "vi": "Con vẽ hình tròn rồi!"
+      "vi": "Con vẽ hình tròn rồi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "colors-shapes-029",
       "speaker": "child",
       "level": 1,
       "en": "Rainbow colors!",
-      "vi": "Màu cầu vồng!"
+      "vi": "Màu cầu vồng!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "colors-shapes-030",
       "speaker": "child",
       "level": 2,
       "en": "Red like an apple!",
-      "vi": "Đỏ như trái táo!"
+      "vi": "Đỏ như trái táo!",
+      "ages": [
+        "3-5"
+      ]
     }
   ],
   "dialogues": [
@@ -434,6 +553,10 @@
           "en": "More crayons, please!",
           "vi": "Cho con thêm bút màu!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -471,6 +594,9 @@
           "en": "Blue sky!",
           "vi": "Trời xanh!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -508,6 +634,10 @@
           "en": "A star!",
           "vi": "Hình ngôi sao!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     }
   ]

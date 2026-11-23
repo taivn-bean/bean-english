@@ -20,5 +20,18 @@
   {"id": "car-ride", "order": 17, "icon": "car", "titleEn": "In the car", "titleVi": "Đi xe"},
   {"id": "shopping", "order": 18, "icon": "shopping-cart", "titleEn": "At the store", "titleVi": "Đi siêu thị"},
   {"id": "feeling-sick", "order": 19, "icon": "thermometer", "titleEn": "Feeling sick", "titleVi": "Bé bị ốm"},
-  {"id": "tidy-up", "order": 20, "icon": "sparkles", "titleEn": "Tidy up", "titleVi": "Dọn dẹp"}
+  {"id": "tidy-up", "order": 20, "icon": "sparkles", "titleEn": "Tidy up", "titleVi": "Dọn dẹp"},
+  {"id": "school-day", "order": 21, "icon": "school", "titleEn": "School day", "titleVi": "Một ngày ở trường"},
+  {"id": "letters-sounds", "order": 22, "icon": "book-a", "titleEn": "Letters & sounds", "titleVi": "Chữ cái & âm"},
+  {"id": "days-time", "order": 23, "icon": "calendar-clock", "titleEn": "Days & time", "titleVi": "Ngày tháng & giờ"},
+  {"id": "playdates", "order": 24, "icon": "users", "titleEn": "Playing with friends", "titleVi": "Chơi cùng bạn"},
+  {"id": "games-rules", "order": 25, "icon": "dice-5", "titleEn": "Games & rules", "titleVi": "Trò chơi & luật chơi"},
+  {"id": "why-because", "order": 26, "icon": "lightbulb", "titleEn": "Why? Because…", "titleVi": "Tại sao? Vì…"},
+  {"id": "homework", "order": 27, "icon": "notebook-pen", "titleEn": "Homework", "titleVi": "Bài tập về nhà"},
+  {"id": "hobbies-sports", "order": 28, "icon": "trophy", "titleEn": "Hobbies & sports", "titleVi": "Sở thích & thể thao"},
+  {"id": "friendships", "order": 29, "icon": "handshake", "titleEn": "Friendships", "titleVi": "Tình bạn"},
+  {"id": "screen-time", "order": 30, "icon": "tablet-smartphone", "titleEn": "Screen time", "titleVi": "Giờ dùng thiết bị"},
+  {"id": "weekend-plans", "order": 31, "icon": "calendar-days", "titleEn": "Weekend plans", "titleVi": "Kế hoạch cuối tuần"},
+  {"id": "stories-opinions", "order": 32, "icon": "message-square-quote", "titleEn": "Stories & opinions", "titleVi": "Kể chuyện & nêu ý kiến"},
+  {"id": "money", "order": 33, "icon": "piggy-bank", "titleEn": "Money & saving", "titleVi": "Tiền & tiết kiệm"}
 ]

@@ -1,147 +1,870 @@
 {
   "topicId": "going-out",
   "phrases": [
-    { "id": "going-out-001", "speaker": "parent", "level": 1, "en": "Let's go!", "vi": "Mình đi thôi!" },
-    { "id": "going-out-002", "speaker": "parent", "level": 1, "en": "Shoes on, please.", "vi": "Mang giày vào nha con." },
     {
-      "id": "going-out-003", "speaker": "parent", "level": 2,
-      "en": "Let's go to the ___!", "vi": "Mình đi ___ nha!",
-      "slots": [
-        { "en": "park", "vi": "công viên" },
-        { "en": "store", "vi": "siêu thị" },
-        { "en": "zoo", "vi": "sở thú" },
-        { "en": "beach", "vi": "biển" },
-        { "en": "library", "vi": "thư viện" }
-      ]
-    },
-    { "id": "going-out-004", "speaker": "parent", "level": 2, "en": "Hold my hand, please.", "vi": "Nắm tay nha con." },
-    {
-      "id": "going-out-005", "speaker": "parent", "level": 2,
-      "en": "I see a ___!", "vi": "Có ___ kìa!",
-      "slots": [
-        { "en": "dog", "vi": "con chó" },
-        { "en": "bird", "vi": "con chim" },
-        { "en": "bus", "vi": "xe buýt" },
-        { "en": "cat", "vi": "con mèo" },
-        { "en": "plane", "vi": "máy bay" }
+      "id": "going-out-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Let's go!",
+      "vi": "Mình đi thôi!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
-      "id": "going-out-006", "speaker": "parent", "level": 2,
-      "en": "Do you want to ___?", "vi": "Con muốn ___ không?",
-      "slots": [
-        { "en": "swing", "vi": "chơi xích đu" },
-        { "en": "slide", "vi": "chơi cầu trượt" },
-        { "en": "run", "vi": "chạy" },
-        { "en": "play in the sand", "vi": "chơi cát" }
-      ]
-    },
-    { "id": "going-out-007", "speaker": "parent", "level": 2, "en": "Stay close to me, okay?", "vi": "Đi sát bên ba mẹ nha con." },
-    { "id": "going-out-008", "speaker": "parent", "level": 2, "en": "Time to buckle up.", "vi": "Thắt dây an toàn nào." },
-    {
-      "id": "going-out-009", "speaker": "parent", "level": 2,
-      "en": "It's ___ today!", "vi": "Hôm nay trời ___ quá!",
-      "slots": [
-        { "en": "sunny", "vi": "nắng" },
-        { "en": "windy", "vi": "gió" },
-        { "en": "cold", "vi": "lạnh" },
-        { "en": "hot", "vi": "nóng" },
-        { "en": "cloudy", "vi": "nhiều mây" }
+      "id": "going-out-002",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Shoes on, please.",
+      "vi": "Mang giày vào nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
-      "id": "going-out-010", "speaker": "parent", "level": 2,
-      "en": "We're going to see ___.", "vi": "Mình đi thăm ___ nha.",
+      "id": "going-out-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's go to the ___!",
+      "vi": "Mình đi ___ nha!",
       "slots": [
-        { "en": "Grandma", "vi": "bà" },
-        { "en": "Grandpa", "vi": "ông" },
-        { "en": "Auntie", "vi": "dì" },
-        { "en": "your friend", "vi": "bạn của con" }
-      ]
-    },
-    { "id": "going-out-011", "speaker": "parent", "level": 1, "en": "Wave bye-bye!", "vi": "Vẫy tay chào nào!" },
-    { "id": "going-out-012", "speaker": "parent", "level": 2, "en": "Can you see the moon?", "vi": "Con có thấy mặt trăng không?" },
-    { "id": "going-out-013", "speaker": "parent", "level": 2, "en": "Time to go home.", "vi": "Về nhà thôi con." },
-    { "id": "going-out-014", "speaker": "parent", "level": 3, "en": "You walked all the way to the park!", "vi": "Con tự đi bộ tới tận công viên luôn, giỏi quá!" },
-    { "id": "going-out-015", "speaker": "child", "level": 1, "en": "Go outside!", "vi": "Đi chơi!" },
-    { "id": "going-out-016", "speaker": "child", "level": 1, "en": "Up, please!", "vi": "Bế con với!" },
-    { "id": "going-out-017", "speaker": "child", "level": 1, "en": "Look, a doggy!", "vi": "Nhìn kìa, cún con!" },
-    { "id": "going-out-018", "speaker": "child", "level": 1, "en": "Swing, please!", "vi": "Con muốn chơi xích đu!" },
-    { "id": "going-out-019", "speaker": "child", "level": 1, "en": "Bye-bye!", "vi": "Bái bai!" },
-    { "id": "going-out-020", "speaker": "child", "level": 1, "en": "I'm tired.", "vi": "Con mệt rồi." },
-    {
-      "id": "going-out-021", "speaker": "parent", "level": 2,
-      "en": "Don't forget your ___!", "vi": "Nhớ đem theo ___ nha con!",
-      "slots": [
-        { "en": "hat", "vi": "nón" },
-        { "en": "jacket", "vi": "áo khoác" },
-        { "en": "water bottle", "vi": "bình nước" },
-        { "en": "backpack", "vi": "ba lô" }
-      ]
-    },
-    { "id": "going-out-022", "speaker": "parent", "level": 2, "en": "Can you push the button?", "vi": "Con bấm nút được không?" },
-    { "id": "going-out-023", "speaker": "parent", "level": 2, "en": "Let's get in the car.", "vi": "Mình lên xe nha con." },
-    {
-      "id": "going-out-024", "speaker": "parent", "level": 2,
-      "en": "Let's look for a ___.", "vi": "Mình cùng tìm ___ nha.",
-      "slots": [
-        { "en": "red car", "vi": "xe màu đỏ" },
-        { "en": "flower", "vi": "bông hoa" },
-        { "en": "bird", "vi": "con chim" },
-        { "en": "butterfly", "vi": "con bướm" }
+        {
+          "en": "park",
+          "vi": "công viên"
+        },
+        {
+          "en": "store",
+          "vi": "siêu thị"
+        },
+        {
+          "en": "zoo",
+          "vi": "sở thú"
+        },
+        {
+          "en": "beach",
+          "vi": "biển"
+        },
+        {
+          "en": "library",
+          "vi": "thư viện"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
-      "id": "going-out-025", "speaker": "parent", "level": 2,
-      "en": "Let's ride the ___!", "vi": "Mình đi ___ nha!",
-      "slots": [
-        { "en": "bus", "vi": "xe buýt" },
-        { "en": "train", "vi": "tàu lửa" },
-        { "en": "elevator", "vi": "thang máy" },
-        { "en": "escalator", "vi": "thang cuốn" }
+      "id": "going-out-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Hold my hand, please.",
+      "vi": "Nắm tay nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
-    { "id": "going-out-026", "speaker": "parent", "level": 1, "en": "Uh-oh, it's raining!", "vi": "Ôi, trời mưa rồi!" },
-    { "id": "going-out-027", "speaker": "parent", "level": 2, "en": "Sit in the cart, please.", "vi": "Ngồi vô xe đẩy nha con." },
-    { "id": "going-out-028", "speaker": "child", "level": 2, "en": "I want to walk.", "vi": "Con muốn tự đi." },
-    { "id": "going-out-029", "speaker": "child", "level": 1, "en": "Can I push?", "vi": "Cho con bấm nha?" },
-    { "id": "going-out-030", "speaker": "child", "level": 1, "en": "Big puddle!", "vi": "Vũng nước bự quá!" },
-    { "id": "going-out-031", "speaker": "parent", "level": 2, "en": "Let's put on sunscreen.", "vi": "Mình thoa kem chống nắng nha." },
-    { "id": "going-out-032", "speaker": "parent", "level": 3, "en": "Red light, stop! Green light, go!", "vi": "Đèn đỏ thì dừng! Đèn xanh thì đi!" },
     {
-      "id": "going-out-033", "speaker": "parent", "level": 2,
-      "en": "Let's walk to the ___.", "vi": "Mình đi bộ tới ___ nha.",
+      "id": "going-out-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I see a ___!",
+      "vi": "Có ___ kìa!",
       "slots": [
-        { "en": "corner", "vi": "góc đường" },
-        { "en": "bus stop", "vi": "trạm xe buýt" },
-        { "en": "playground", "vi": "sân chơi" },
-        { "en": "gate", "vi": "cổng" }
+        {
+          "en": "dog",
+          "vi": "con chó"
+        },
+        {
+          "en": "bird",
+          "vi": "con chim"
+        },
+        {
+          "en": "bus",
+          "vi": "xe buýt"
+        },
+        {
+          "en": "cat",
+          "vi": "con mèo"
+        },
+        {
+          "en": "plane",
+          "vi": "máy bay"
+        }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
-    { "id": "going-out-034", "speaker": "parent", "level": 2, "en": "Let's walk on the sidewalk.", "vi": "Mình đi trên vỉa hè nha." },
     {
-      "id": "going-out-035", "speaker": "parent", "level": 2,
-      "en": "Look at the big ___!", "vi": "Con nhìn ___ to quá kìa!",
+      "id": "going-out-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you want to ___?",
+      "vi": "Con muốn ___ không?",
       "slots": [
-        { "en": "truck", "vi": "chiếc xe tải" },
-        { "en": "tree", "vi": "cái cây" },
-        { "en": "dog", "vi": "con chó" },
-        { "en": "boat", "vi": "chiếc thuyền" }
+        {
+          "en": "swing",
+          "vi": "chơi xích đu"
+        },
+        {
+          "en": "slide",
+          "vi": "chơi cầu trượt"
+        },
+        {
+          "en": "run",
+          "vi": "chạy"
+        },
+        {
+          "en": "play in the sand",
+          "vi": "chơi cát"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
-    { "id": "going-out-036", "speaker": "parent", "level": 2, "en": "Are you ready to go?", "vi": "Con xong chưa, mình đi nè?" },
     {
-      "id": "going-out-037", "speaker": "parent", "level": 2,
-      "en": "First the ___, then home.", "vi": "Đi ___ xong rồi mình về nhà nha.",
-      "slots": [
-        { "en": "park", "vi": "công viên" },
-        { "en": "store", "vi": "siêu thị" },
-        { "en": "library", "vi": "thư viện" }
+      "id": "going-out-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Stay close to me, okay?",
+      "vi": "Đi sát bên ba mẹ nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
-    { "id": "going-out-038", "speaker": "child", "level": 2, "en": "Can I walk by myself?", "vi": "Con tự đi được không?" },
-    { "id": "going-out-039", "speaker": "child", "level": 2, "en": "I want to go home.", "vi": "Con muốn về nhà." },
-    { "id": "going-out-040", "speaker": "child", "level": 1, "en": "Stroller, please!", "vi": "Cho con ngồi xe đẩy!" }
+    {
+      "id": "going-out-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Time to buckle up.",
+      "vi": "Thắt dây an toàn nào.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "It's ___ today!",
+      "vi": "Hôm nay trời ___ quá!",
+      "slots": [
+        {
+          "en": "sunny",
+          "vi": "nắng"
+        },
+        {
+          "en": "windy",
+          "vi": "gió"
+        },
+        {
+          "en": "cold",
+          "vi": "lạnh"
+        },
+        {
+          "en": "hot",
+          "vi": "nóng"
+        },
+        {
+          "en": "cloudy",
+          "vi": "nhiều mây"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "We're going to see ___.",
+      "vi": "Mình đi thăm ___ nha.",
+      "slots": [
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "Auntie",
+          "vi": "dì"
+        },
+        {
+          "en": "your friend",
+          "vi": "bạn của con"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-011",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Wave bye-bye!",
+      "vi": "Vẫy tay chào nào!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you see the moon?",
+      "vi": "Con có thấy mặt trăng không?",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Time to go home.",
+      "vi": "Về nhà thôi con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You walked all the way to the park!",
+      "vi": "Con tự đi bộ tới tận công viên luôn, giỏi quá!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "Go outside!",
+      "vi": "Đi chơi!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "Up, please!",
+      "vi": "Bế con với!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "Look, a doggy!",
+      "vi": "Nhìn kìa, cún con!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Swing, please!",
+      "vi": "Con muốn chơi xích đu!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "Bye-bye!",
+      "vi": "Bái bai!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm tired.",
+      "vi": "Con mệt rồi.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Don't forget your ___!",
+      "vi": "Nhớ đem theo ___ nha con!",
+      "slots": [
+        {
+          "en": "hat",
+          "vi": "nón"
+        },
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        },
+        {
+          "en": "water bottle",
+          "vi": "bình nước"
+        },
+        {
+          "en": "backpack",
+          "vi": "ba lô"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you push the button?",
+      "vi": "Con bấm nút được không?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's get in the car.",
+      "vi": "Mình lên xe nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's look for a ___.",
+      "vi": "Mình cùng tìm ___ nha.",
+      "slots": [
+        {
+          "en": "red car",
+          "vi": "xe màu đỏ"
+        },
+        {
+          "en": "flower",
+          "vi": "bông hoa"
+        },
+        {
+          "en": "bird",
+          "vi": "con chim"
+        },
+        {
+          "en": "butterfly",
+          "vi": "con bướm"
+        }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's ride the ___!",
+      "vi": "Mình đi ___ nha!",
+      "slots": [
+        {
+          "en": "bus",
+          "vi": "xe buýt"
+        },
+        {
+          "en": "train",
+          "vi": "tàu lửa"
+        },
+        {
+          "en": "elevator",
+          "vi": "thang máy"
+        },
+        {
+          "en": "escalator",
+          "vi": "thang cuốn"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-026",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Uh-oh, it's raining!",
+      "vi": "Ôi, trời mưa rồi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Sit in the cart, please.",
+      "vi": "Ngồi vô xe đẩy nha con.",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "I want to walk.",
+      "vi": "Con muốn tự đi.",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "Can I push?",
+      "vi": "Cho con bấm nha?",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "Big puddle!",
+      "vi": "Vũng nước bự quá!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-031",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's put on sunscreen.",
+      "vi": "Mình thoa kem chống nắng nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-032",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Red light, stop! Green light, go!",
+      "vi": "Đèn đỏ thì dừng! Đèn xanh thì đi!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-033",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's walk to the ___.",
+      "vi": "Mình đi bộ tới ___ nha.",
+      "slots": [
+        {
+          "en": "corner",
+          "vi": "góc đường"
+        },
+        {
+          "en": "bus stop",
+          "vi": "trạm xe buýt"
+        },
+        {
+          "en": "playground",
+          "vi": "sân chơi"
+        },
+        {
+          "en": "gate",
+          "vi": "cổng"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-034",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's walk on the sidewalk.",
+      "vi": "Mình đi trên vỉa hè nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-035",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Look at the big ___!",
+      "vi": "Con nhìn ___ to quá kìa!",
+      "slots": [
+        {
+          "en": "truck",
+          "vi": "chiếc xe tải"
+        },
+        {
+          "en": "tree",
+          "vi": "cái cây"
+        },
+        {
+          "en": "dog",
+          "vi": "con chó"
+        },
+        {
+          "en": "boat",
+          "vi": "chiếc thuyền"
+        }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-036",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Are you ready to go?",
+      "vi": "Con xong chưa, mình đi nè?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-037",
+      "speaker": "parent",
+      "level": 2,
+      "en": "First the ___, then home.",
+      "vi": "Đi ___ xong rồi mình về nhà nha.",
+      "slots": [
+        {
+          "en": "park",
+          "vi": "công viên"
+        },
+        {
+          "en": "store",
+          "vi": "siêu thị"
+        },
+        {
+          "en": "library",
+          "vi": "thư viện"
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-038",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I walk by myself?",
+      "vi": "Con tự đi được không?",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-039",
+      "speaker": "child",
+      "level": 2,
+      "en": "I want to go home.",
+      "vi": "Con muốn về nhà.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-040",
+      "speaker": "child",
+      "level": 1,
+      "en": "Stroller, please!",
+      "vi": "Cho con ngồi xe đẩy!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-041",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Look both ways before you cross.",
+      "vi": "Nhìn hai bên trước khi qua đường nha con.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-042",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Please put your shoes on. We're leaving in ___ minutes.",
+      "vi": "Con mang giày vô đi. ___ phút nữa mình đi.",
+      "slots": [
+        {
+          "en": "five",
+          "vi": "Năm"
+        },
+        {
+          "en": "ten",
+          "vi": "Mười"
+        },
+        {
+          "en": "two",
+          "vi": "Hai"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-043",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you get lost, stay where you are.",
+      "vi": "Nếu con bị lạc thì đứng yên tại chỗ nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-044",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We can't buy toys today, but we can look.",
+      "vi": "Hôm nay mình không mua đồ chơi, nhưng mình xem được.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-045",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you want to bring ___?",
+      "vi": "Con muốn mang theo ___ không?",
+      "slots": [
+        {
+          "en": "a snack",
+          "vi": "đồ ăn vặt"
+        },
+        {
+          "en": "your scooter",
+          "vi": "xe trượt"
+        },
+        {
+          "en": "a book",
+          "vi": "sách"
+        },
+        {
+          "en": "your ball",
+          "vi": "trái banh"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-046",
+      "speaker": "child",
+      "level": 2,
+      "en": "Is it far from here?",
+      "vi": "Chỗ đó xa không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-047",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can we go to the playground?",
+      "vi": "Mình đi sân chơi được không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-048",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Where do you want to go this weekend?",
+      "vi": "Cuối tuần này con muốn đi đâu?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-049",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Before we go, check that you have your ___.",
+      "vi": "Trước khi đi, con kiểm tra coi có ___ chưa nha.",
+      "slots": [
+        {
+          "en": "water bottle",
+          "vi": "bình nước"
+        },
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        },
+        {
+          "en": "backpack",
+          "vi": "cặp"
+        },
+        {
+          "en": "library books",
+          "vi": "sách thư viện"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-050",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We're leaving in ten minutes, so start wrapping up.",
+      "vi": "Mười phút nữa mình đi, con chuẩn bị dọn dẹp đi nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-051",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You can ride your bike, but stay where I can see you.",
+      "vi": "Con chạy xe đạp được, nhưng đừng đi xa khỏi tầm mắt nha.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-052",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We're going to ___ after lunch.",
+      "vi": "Ăn trưa xong mình đi ___.",
+      "slots": [
+        {
+          "en": "the mall",
+          "vi": "trung tâm thương mại"
+        },
+        {
+          "en": "Grandma's",
+          "vi": "nhà bà"
+        },
+        {
+          "en": "the bookstore",
+          "vi": "nhà sách"
+        },
+        {
+          "en": "the pool",
+          "vi": "hồ bơi"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-053",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I bring a friend?",
+      "vi": "Con rủ bạn đi cùng được không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "going-out-054",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can we stay ___ more minutes?",
+      "vi": "Mình ở lại thêm ___ phút được không?",
+      "slots": [
+        {
+          "en": "ten",
+          "vi": "mười"
+        },
+        {
+          "en": "five",
+          "vi": "năm"
+        },
+        {
+          "en": "fifteen",
+          "vi": "mười lăm"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    }
   ],
   "dialogues": [
     {
@@ -149,13 +872,44 @@
       "titleEn": "Going to the park",
       "titleVi": "Đi công viên",
       "lines": [
-        { "speaker": "mom", "en": "Let's go to the park!", "vi": "Mình đi công viên nha!" },
-        { "speaker": "child", "en": "Yay!", "vi": "Thích quá!" },
-        { "speaker": "mom", "en": "Shoes on, please.", "vi": "Mang giày vào nha con." },
-        { "speaker": "child", "en": "Shoes on!", "vi": "Mang rồi!" },
-        { "speaker": "mom", "en": "Hold my hand, please.", "vi": "Nắm tay mẹ nha con." },
-        { "speaker": "child", "en": "Okay, Mommy.", "vi": "Dạ, mẹ." },
-        { "speaker": "mom", "en": "Let's go!", "vi": "Mình đi thôi!" }
+        {
+          "speaker": "mom",
+          "en": "Let's go to the park!",
+          "vi": "Mình đi công viên nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "Yay!",
+          "vi": "Thích quá!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Shoes on, please.",
+          "vi": "Mang giày vào nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Shoes on!",
+          "vi": "Mang rồi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Hold my hand, please.",
+          "vi": "Nắm tay mẹ nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, Mommy.",
+          "vi": "Dạ, mẹ."
+        },
+        {
+          "speaker": "mom",
+          "en": "Let's go!",
+          "vi": "Mình đi thôi!"
+        }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -163,13 +917,45 @@
       "titleEn": "Time to go home",
       "titleVi": "Về nhà thôi",
       "lines": [
-        { "speaker": "dad", "en": "Time to go home.", "vi": "Về nhà thôi con." },
-        { "speaker": "child", "en": "One more swing!", "vi": "Đu thêm lần nữa!" },
-        { "speaker": "dad", "en": "Okay, one more. Then home.", "vi": "Ừ, thêm một lần nữa thôi. Rồi về nha." },
-        { "speaker": "child", "en": "Okay, Daddy.", "vi": "Dạ, ba." },
-        { "speaker": "dad", "en": "Wave bye-bye to the park!", "vi": "Vẫy tay chào công viên nào!" },
-        { "speaker": "child", "en": "Bye-bye, park!", "vi": "Bái bai công viên!" },
-        { "speaker": "dad", "en": "Time to buckle up.", "vi": "Thắt dây an toàn nào." }
+        {
+          "speaker": "dad",
+          "en": "Time to go home.",
+          "vi": "Về nhà thôi con."
+        },
+        {
+          "speaker": "child",
+          "en": "One more swing!",
+          "vi": "Đu thêm lần nữa!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Okay, one more. Then home.",
+          "vi": "Ừ, thêm một lần nữa thôi. Rồi về nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, Daddy.",
+          "vi": "Dạ, ba."
+        },
+        {
+          "speaker": "dad",
+          "en": "Wave bye-bye to the park!",
+          "vi": "Vẫy tay chào công viên nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Bye-bye, park!",
+          "vi": "Bái bai công viên!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Time to buckle up.",
+          "vi": "Thắt dây an toàn nào."
+        }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -177,14 +963,164 @@
       "titleEn": "Riding the bus",
       "titleVi": "Đi xe buýt",
       "lines": [
-        { "speaker": "dad", "en": "Let's ride the bus!", "vi": "Mình đi xe buýt nha!" },
-        { "speaker": "child", "en": "Bus!", "vi": "Xe buýt!" },
-        { "speaker": "dad", "en": "Hold my hand, please.", "vi": "Nắm tay ba nha con." },
-        { "speaker": "child", "en": "Okay, Daddy.", "vi": "Dạ, ba." },
-        { "speaker": "dad", "en": "I see a bird! Can you see it?", "vi": "Có con chim kìa! Con thấy không?" },
-        { "speaker": "child", "en": "Yes! Bird!", "vi": "Dạ thấy! Con chim!" },
-        { "speaker": "dad", "en": "Wave bye-bye to the bird!", "vi": "Vẫy tay chào con chim nào!" },
-        { "speaker": "child", "en": "Bye-bye, bird!", "vi": "Bái bai chim!" }
+        {
+          "speaker": "dad",
+          "en": "Let's ride the bus!",
+          "vi": "Mình đi xe buýt nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "Bus!",
+          "vi": "Xe buýt!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hold my hand, please.",
+          "vi": "Nắm tay ba nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, Daddy.",
+          "vi": "Dạ, ba."
+        },
+        {
+          "speaker": "dad",
+          "en": "I see a bird! Can you see it?",
+          "vi": "Có con chim kìa! Con thấy không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes! Bird!",
+          "vi": "Dạ thấy! Con chim!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Wave bye-bye to the bird!",
+          "vi": "Vẫy tay chào con chim nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Bye-bye, bird!",
+          "vi": "Bái bai chim!"
+        }
+      ],
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "going-out-d04",
+      "titleEn": "Crossing the street",
+      "titleVi": "Qua đường",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Okay, we're at the corner. What do we do?",
+          "vi": "Rồi, tới góc đường rồi. Mình làm gì nè?"
+        },
+        {
+          "speaker": "child",
+          "en": "Stop and look!",
+          "vi": "Dừng lại rồi nhìn!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Right! Look both ways before you cross.",
+          "vi": "Đúng rồi! Nhìn hai bên trước khi qua đường."
+        },
+        {
+          "speaker": "child",
+          "en": "There's a car coming!",
+          "vi": "Có xe tới kìa!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Good eyes. Let's wait.",
+          "vi": "Con tinh mắt ghê. Mình chờ nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Now it's gone. Can we go?",
+          "vi": "Giờ xe đi rồi. Mình đi được chưa?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Yes. Hold my hand and let's walk.",
+          "vi": "Được rồi. Nắm tay mẹ rồi mình đi."
+        },
+        {
+          "speaker": "child",
+          "en": "I looked both ways all by myself!",
+          "vi": "Con tự nhìn hai bên luôn đó!"
+        },
+        {
+          "speaker": "mom",
+          "en": "You sure did. I'm proud of you!",
+          "vi": "Đúng vậy. Mẹ tự hào về con!"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "going-out-d05",
+      "titleEn": "Weekend plans",
+      "titleVi": "Kế hoạch cuối tuần",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Where do you want to go this weekend?",
+          "vi": "Cuối tuần này con muốn đi đâu?"
+        },
+        {
+          "speaker": "child",
+          "en": "Can we go to the water park?",
+          "vi": "Mình đi công viên nước được không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm, it's going to rain on Saturday.",
+          "vi": "Hừm, thứ Bảy trời sẽ mưa đó."
+        },
+        {
+          "speaker": "child",
+          "en": "What about Sunday?",
+          "vi": "Còn Chủ nhật thì sao?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sunday looks sunny. But we're visiting Grandma in the morning.",
+          "vi": "Chủ nhật trời nắng. Nhưng buổi sáng mình qua thăm bà."
+        },
+        {
+          "speaker": "child",
+          "en": "Then we can go in the afternoon!",
+          "vi": "Vậy chiều mình đi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Good thinking. Can you help me pack the bag on Saturday night?",
+          "vi": "Hay đó. Tối thứ Bảy con phụ ba soạn giỏ đồ nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "Sure! Can I bring a friend?",
+          "vi": "Dạ! Con rủ bạn đi cùng được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Let me check with your friend's mom first.",
+          "vi": "Để ba hỏi mẹ của bạn con trước đã."
+        },
+        {
+          "speaker": "child",
+          "en": "Yes! This is going to be the best weekend.",
+          "vi": "Yeah! Cuối tuần này sẽ vui nhất luôn."
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

@@ -17,7 +17,7 @@ type Props = {
 
 export function PhraseCard({ phrase, topicId, progress, favorite }: Props) {
   const { t } = useTranslation()
-  const { showIpa, activeProfileId } = useSettings()
+  const { showIpa, activeProfileId, showAllAges } = useSettings()
   const { current: playing, sequenceId } = useAudioState()
   const ref = useRef<HTMLElement>(null)
   const [slotIdx, setSlotIdx] = useState(0)
@@ -55,9 +55,12 @@ export function PhraseCard({ phrase, topicId, progress, favorite }: Props) {
           <Volume2 size={22} />
         </span>
         <span className="min-w-0 flex-1">
-          {isChild && (
-            <span className="mb-1 inline-block rounded-full bg-peach/20 px-2 py-0.5 text-xs font-semibold text-peach">
-              {t('topic.childSays')}
+          {(isChild || showAllAges) && (
+            <span className="mb-1 flex flex-wrap gap-1">
+              {isChild && <span className="rounded-full bg-peach/20 px-2 py-0.5 text-xs font-semibold text-peach">{t('topic.childSays')}</span>}
+              {showAllAges && phrase.ages.map((b) => (
+                <span key={b} className="rounded-full bg-leaf-100 px-2 py-0.5 text-xs font-semibold text-leaf-700">{b}</span>
+              ))}
             </span>
           )}
           <span lang="en" className="block text-[1.4rem] leading-snug font-semibold">

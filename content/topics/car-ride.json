@@ -6,42 +6,65 @@
       "speaker": "parent",
       "level": 2,
       "en": "Into the car we go!",
-      "vi": "Mình lên xe nào!"
+      "vi": "Mình lên xe nào!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "car-ride-002",
       "speaker": "parent",
       "level": 2,
       "en": "Climb into your car seat.",
-      "vi": "Con leo vô ghế ngồi nha."
+      "vi": "Con leo vô ghế ngồi nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "car-ride-003",
       "speaker": "parent",
       "level": 2,
       "en": "Click! All buckled in.",
-      "vi": "Tách! Cài dây xong rồi."
+      "vi": "Tách! Cài dây xong rồi.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "car-ride-004",
       "speaker": "parent",
       "level": 3,
       "en": "Stay in your car seat until we stop.",
-      "vi": "Con ngồi yên trong ghế tới khi xe dừng nha."
+      "vi": "Con ngồi yên trong ghế tới khi xe dừng nha.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "car-ride-005",
       "speaker": "parent",
       "level": 2,
       "en": "Keep your hands inside.",
-      "vi": "Để tay trong xe nha con."
+      "vi": "Để tay trong xe nha con.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "car-ride-006",
       "speaker": "parent",
       "level": 2,
       "en": "Beep beep! Here we go!",
-      "vi": "Bíp bíp! Mình đi nào!"
+      "vi": "Bíp bíp! Mình đi nào!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "car-ride-007",
@@ -66,6 +89,11 @@
           "en": "the park",
           "vi": "công viên"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -91,6 +119,10 @@
           "en": "fire truck",
           "vi": "xe cứu hỏa"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -112,6 +144,9 @@
           "en": "yellow",
           "vi": "vàng"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -119,14 +154,20 @@
       "speaker": "parent",
       "level": 1,
       "en": "Red means stop.",
-      "vi": "Đèn đỏ là dừng lại."
+      "vi": "Đèn đỏ là dừng lại.",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "car-ride-011",
       "speaker": "parent",
       "level": 1,
       "en": "Green means go!",
-      "vi": "Đèn xanh là đi!"
+      "vi": "Đèn xanh là đi!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "car-ride-012",
@@ -151,6 +192,9 @@
           "en": "yellow",
           "vi": "màu vàng"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -172,6 +216,11 @@
           "en": "your song",
           "vi": "nghe bài hát của con"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -179,42 +228,65 @@
       "speaker": "parent",
       "level": 1,
       "en": "We're almost there!",
-      "vi": "Sắp tới rồi con!"
+      "vi": "Sắp tới rồi con!",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "car-ride-015",
       "speaker": "child",
       "level": 2,
       "en": "Are we there yet?",
-      "vi": "Tới chưa vậy?"
+      "vi": "Tới chưa vậy?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "car-ride-016",
       "speaker": "child",
       "level": 1,
       "en": "Buckle me!",
-      "vi": "Cài dây cho con!"
+      "vi": "Cài dây cho con!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "car-ride-017",
       "speaker": "child",
       "level": 1,
       "en": "Big truck!",
-      "vi": "Xe tải bự!"
+      "vi": "Xe tải bự!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "car-ride-018",
       "speaker": "child",
       "level": 1,
       "en": "Beep beep!",
-      "vi": "Bíp bíp!"
+      "vi": "Bíp bíp!",
+      "ages": [
+        "3-5"
+      ]
     },
     {
       "id": "car-ride-019",
       "speaker": "child",
       "level": 1,
       "en": "Music, please!",
-      "vi": "Mở nhạc cho con nghe!"
+      "vi": "Mở nhạc cho con nghe!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "car-ride-020",
@@ -235,6 +307,9 @@
           "en": "truck",
           "vi": "xe tải"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -242,7 +317,11 @@
       "speaker": "parent",
       "level": 2,
       "en": "Look out the window!",
-      "vi": "Nhìn ra cửa sổ kìa con!"
+      "vi": "Nhìn ra cửa sổ kìa con!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "car-ride-022",
@@ -267,6 +346,11 @@
           "en": "green",
           "vi": "xanh lá"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
       ]
     },
     {
@@ -292,6 +376,9 @@
           "en": "our house",
           "vi": "nhà mình"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -313,6 +400,10 @@
           "en": "big bump",
           "vi": "cái gờ"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
       ]
     },
     {
@@ -320,42 +411,311 @@
       "speaker": "parent",
       "level": 2,
       "en": "Let's sing in the car!",
-      "vi": "Mình hát trên xe nha!"
+      "vi": "Mình hát trên xe nha!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "car-ride-026",
       "speaker": "parent",
       "level": 2,
       "en": "We're home! Let's get out.",
-      "vi": "Tới nhà rồi! Mình xuống xe nha."
+      "vi": "Tới nhà rồi! Mình xuống xe nha.",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "car-ride-027",
       "speaker": "parent",
       "level": 3,
       "en": "In the parking lot, hold my hand.",
-      "vi": "Ở bãi đậu xe thì nắm tay nha con."
+      "vi": "Ở bãi đậu xe thì nắm tay nha con.",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "car-ride-028",
       "speaker": "child",
       "level": 2,
       "en": "Where are we going?",
-      "vi": "Mình đi đâu vậy?"
+      "vi": "Mình đi đâu vậy?",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ]
     },
     {
       "id": "car-ride-029",
       "speaker": "child",
       "level": 1,
       "en": "I'm buckled!",
-      "vi": "Con cài dây rồi!"
+      "vi": "Con cài dây rồi!",
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
     },
     {
       "id": "car-ride-030",
       "speaker": "child",
       "level": 1,
       "en": "Bye-bye, house!",
-      "vi": "Tạm biệt nhà nha!"
+      "vi": "Tạm biệt nhà nha!",
+      "ages": [
+        "3-5"
+      ]
+    },
+    {
+      "id": "car-ride-031",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you have everything you need?",
+      "vi": "Con mang đủ đồ chưa?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "car-ride-032",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you buckle yourself in?",
+      "vi": "Con tự cài dây được không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "car-ride-033",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's count all the ___ we see.",
+      "vi": "Mình đếm hết ___ mình thấy nha.",
+      "slots": [
+        {
+          "en": "red cars",
+          "vi": "mấy chiếc xe màu đỏ"
+        },
+        {
+          "en": "buses",
+          "vi": "mấy chiếc xe buýt"
+        },
+        {
+          "en": "motorcycles",
+          "vi": "mấy chiếc xe máy"
+        },
+        {
+          "en": "dogs",
+          "vi": "mấy con chó"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "car-ride-034",
+      "speaker": "parent",
+      "level": 2,
+      "en": "We'll be there in ___ minutes.",
+      "vi": "___ phút nữa là tới nha.",
+      "slots": [
+        {
+          "en": "five",
+          "vi": "Năm"
+        },
+        {
+          "en": "ten",
+          "vi": "Mười"
+        },
+        {
+          "en": "twenty",
+          "vi": "Hai mươi"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "car-ride-035",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Feet down, please. No kicking the seat.",
+      "vi": "Con để chân xuống nha, đừng đá ghế.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "car-ride-036",
+      "speaker": "child",
+      "level": 2,
+      "en": "I'm bored. How much longer?",
+      "vi": "Con chán quá. Còn bao lâu nữa?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "car-ride-037",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can we play ___?",
+      "vi": "Mình chơi ___ được không?",
+      "slots": [
+        {
+          "en": "I spy",
+          "vi": "trò đoán đồ vật"
+        },
+        {
+          "en": "a word game",
+          "vi": "trò chơi chữ"
+        },
+        {
+          "en": "rock, paper, scissors",
+          "vi": "oẳn tù tì"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "car-ride-038",
+      "speaker": "parent",
+      "level": 3,
+      "en": "No screens in the car today. Let's just talk.",
+      "vi": "Hôm nay đi xe không xem màn hình nha. Mình nói chuyện với nhau đi.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "car-ride-039",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you help me look for ___?",
+      "vi": "Con phụ tìm ___ với nha.",
+      "slots": [
+        {
+          "en": "a parking spot",
+          "vi": "chỗ đậu xe"
+        },
+        {
+          "en": "a gas station",
+          "vi": "cây xăng"
+        },
+        {
+          "en": "our exit",
+          "vi": "lối ra của mình"
+        },
+        {
+          "en": "the restaurant",
+          "vi": "nhà hàng"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "car-ride-040",
+      "speaker": "parent",
+      "level": 3,
+      "en": "There's a lot of traffic, so it might take a while.",
+      "vi": "Kẹt xe quá, chắc đi hơi lâu đó con.",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "car-ride-041",
+      "speaker": "parent",
+      "level": 3,
+      "en": "If you feel carsick, tell me right away.",
+      "vi": "Nếu con thấy say xe thì nói liền nha.",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "car-ride-042",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We'll stop at ___ on the way home.",
+      "vi": "Trên đường về mình ghé ___ nha.",
+      "slots": [
+        {
+          "en": "the gas station",
+          "vi": "cây xăng"
+        },
+        {
+          "en": "the store",
+          "vi": "siêu thị"
+        },
+        {
+          "en": "Grandma's",
+          "vi": "nhà bà"
+        },
+        {
+          "en": "the bakery",
+          "vi": "tiệm bánh"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "car-ride-043",
+      "speaker": "child",
+      "level": 3,
+      "en": "Can I sit in the front seat?",
+      "vi": "Con ngồi ghế trước được không?",
+      "ages": [
+        "7-9"
+      ]
+    },
+    {
+      "id": "car-ride-044",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I ___ in the car?",
+      "vi": "Con ___ trong xe được không?",
+      "slots": [
+        {
+          "en": "read",
+          "vi": "đọc sách"
+        },
+        {
+          "en": "play a game",
+          "vi": "chơi game"
+        },
+        {
+          "en": "take a nap",
+          "vi": "ngủ một chút"
+        },
+        {
+          "en": "draw",
+          "vi": "vẽ"
+        }
+      ],
+      "ages": [
+        "7-9"
+      ]
     }
   ],
   "dialogues": [
@@ -389,6 +749,9 @@
           "en": "Beep beep! Here we go!",
           "vi": "Bíp bíp! Mình đi nào!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -426,6 +789,9 @@
           "en": "Go, car, go!",
           "vi": "Chạy đi, xe hơi ơi!"
         }
+      ],
+      "ages": [
+        "3-5"
       ]
     },
     {
@@ -463,6 +829,120 @@
           "en": "We're almost there!",
           "vi": "Sắp tới rồi con!"
         }
+      ],
+      "ages": [
+        "3-5",
+        "5-7"
+      ]
+    },
+    {
+      "id": "car-ride-d04",
+      "titleEn": "How much longer?",
+      "titleVi": "Còn bao lâu nữa?",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "I'm bored. How much longer?",
+          "vi": "Con chán quá. Còn bao lâu nữa ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "About twenty minutes. Want to play a game?",
+          "vi": "Khoảng hai mươi phút nữa. Con muốn chơi trò gì không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Can we play I spy?",
+          "vi": "Mình chơi trò đoán đồ vật nha?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sure! I spy something yellow.",
+          "vi": "Được! Ba thấy một thứ màu vàng."
+        },
+        {
+          "speaker": "child",
+          "en": "Is it the bus?",
+          "vi": "Là chiếc xe buýt hả?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Nope! Try again.",
+          "vi": "Không phải! Con đoán lại đi."
+        },
+        {
+          "speaker": "child",
+          "en": "The taxi over there!",
+          "vi": "Chiếc taxi đằng kia!"
+        },
+        {
+          "speaker": "dad",
+          "en": "You got it! Your turn.",
+          "vi": "Đúng rồi! Tới lượt con đó."
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "car-ride-d05",
+      "titleEn": "Can I sit in the front?",
+      "titleVi": "Con ngồi ghế trước được không?",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, can I sit in the front seat today?",
+          "vi": "Mẹ ơi, hôm nay con ngồi ghế trước được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Not yet, sweetie. Kids are safer in the back until they're bigger.",
+          "vi": "Chưa được con. Con nít ngồi phía sau an toàn hơn, tới khi lớn hơn nha."
+        },
+        {
+          "speaker": "child",
+          "en": "But my friend sits in the front.",
+          "vi": "Nhưng bạn con được ngồi phía trước mà."
+        },
+        {
+          "speaker": "mom",
+          "en": "I know. Every family has its own rules, and ours is about keeping you safe.",
+          "vi": "Mẹ biết. Mỗi nhà có luật riêng, còn luật nhà mình là để con được an toàn."
+        },
+        {
+          "speaker": "child",
+          "en": "That's not fair.",
+          "vi": "Vậy là không công bằng."
+        },
+        {
+          "speaker": "mom",
+          "en": "I get it. How about you pick the music instead?",
+          "vi": "Mẹ hiểu mà. Hay là con chọn nhạc nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, fine. Can I play my favorite song?",
+          "vi": "Thôi được. Con mở bài con thích nhất nha?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure. And can you help me look for the gas station?",
+          "vi": "Được chứ. Con phụ mẹ tìm cây xăng luôn nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "Deal! It's right after the bridge, right?",
+          "vi": "Chốt! Nó ở ngay sau cây cầu đúng không mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Right. Thanks, buddy!",
+          "vi": "Đúng rồi. Cảm ơn con nha!"
+        }
+      ],
+      "ages": [
+        "7-9"
       ]
     }
   ]

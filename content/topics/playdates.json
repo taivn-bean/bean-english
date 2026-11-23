@@ -1,0 +1,755 @@
+{
+  "topicId": "playdates",
+  "phrases": [
+    {
+      "id": "playdates-001",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Do you want to invite ___ over?",
+      "vi": "Con muốn rủ ___ qua nhà chơi không?",
+      "slots": [
+        {
+          "en": "Minh",
+          "vi": "Minh"
+        },
+        {
+          "en": "Lily",
+          "vi": "Lily"
+        },
+        {
+          "en": "a friend from school",
+          "vi": "một bạn ở trường"
+        },
+        {
+          "en": "your cousins",
+          "vi": "mấy anh chị em họ"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Your friend's here! Go say hi.",
+      "vi": "Bạn tới rồi kìa! Con ra chào bạn đi.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-003",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Why don't you show Minh your ___?",
+      "vi": "Con cho Minh coi ___ của con đi.",
+      "slots": [
+        {
+          "en": "room",
+          "vi": "phòng"
+        },
+        {
+          "en": "new puzzle",
+          "vi": "bộ xếp hình mới"
+        },
+        {
+          "en": "toy cars",
+          "vi": "mấy chiếc xe đồ chơi"
+        },
+        {
+          "en": "drawings",
+          "vi": "mấy bức tranh"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's share with your friend, okay?",
+      "vi": "Con chia sẻ với bạn nha?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-005",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Is there a toy you don't want to share? Let's put it away first.",
+      "vi": "Có món đồ chơi nào con không muốn cho bạn mượn không? Mình cất nó đi trước nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-006",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Ask your friend, \"Can I have a turn?\"",
+      "vi": "Con hỏi bạn: \"Cho mình chơi với được không?\"",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-007",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's take turns. ___ goes first, then you.",
+      "vi": "Mình chơi lần lượt nha. ___ trước, rồi tới con.",
+      "slots": [
+        {
+          "en": "Minh",
+          "vi": "Minh"
+        },
+        {
+          "en": "Your friend",
+          "vi": "Bạn"
+        },
+        {
+          "en": "Your sister",
+          "vi": "Em"
+        },
+        {
+          "en": "Lily",
+          "vi": "Lily"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-008",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's set a timer. Five minutes each, okay?",
+      "vi": "Mình hẹn giờ nha. Mỗi đứa năm phút, được không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "No grabbing, please. Ask nicely instead.",
+      "vi": "Không giật đồ nha con. Hỏi bạn đàng hoàng nè.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-010",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Uh-oh, your friend looks sad. What happened?",
+      "vi": "Ối, bạn có vẻ buồn kìa. Có chuyện gì vậy con?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you say sorry to ___?",
+      "vi": "Con xin lỗi ___ được không?",
+      "slots": [
+        {
+          "en": "Minh",
+          "vi": "Minh"
+        },
+        {
+          "en": "your friend",
+          "vi": "bạn"
+        },
+        {
+          "en": "your brother",
+          "vi": "em"
+        },
+        {
+          "en": "Lily",
+          "vi": "Lily"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How can you make it better?",
+      "vi": "Con làm gì để bạn vui lại nè?",
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "playdates-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you guys want some ___?",
+      "vi": "Mấy đứa muốn ___ không?",
+      "slots": [
+        {
+          "en": "watermelon",
+          "vi": "ăn dưa hấu"
+        },
+        {
+          "en": "juice",
+          "vi": "uống nước trái cây"
+        },
+        {
+          "en": "cookies",
+          "vi": "ăn bánh quy"
+        },
+        {
+          "en": "popcorn",
+          "vi": "ăn bắp rang"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "___ more minutes, then it's time to go.",
+      "vi": "___ phút nữa là phải về rồi nha.",
+      "slots": [
+        {
+          "en": "Five",
+          "vi": "Năm"
+        },
+        {
+          "en": "Ten",
+          "vi": "Mười"
+        },
+        {
+          "en": "Two",
+          "vi": "Hai"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-015",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's clean up together before your friend leaves.",
+      "vi": "Mình cùng dọn dẹp trước khi bạn về nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-016",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Walk your friend to the door, okay?",
+      "vi": "Con tiễn bạn ra cửa nha.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-017",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Did you have fun with ___ today?",
+      "vi": "Hôm nay con chơi với ___ có vui không?",
+      "slots": [
+        {
+          "en": "Minh",
+          "vi": "Minh"
+        },
+        {
+          "en": "your friends",
+          "vi": "các bạn"
+        },
+        {
+          "en": "your cousins",
+          "vi": "anh chị em họ"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "playdates-018",
+      "speaker": "parent",
+      "level": 3,
+      "en": "You can ask, \"Can I play with you?\"",
+      "vi": "Con có thể hỏi: \"Cho mình chơi chung với được không?\"",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-019",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Wait for your turn on the ___.",
+      "vi": "Con chờ tới lượt chơi ___ nha.",
+      "slots": [
+        {
+          "en": "slide",
+          "vi": "cầu tuột"
+        },
+        {
+          "en": "swing",
+          "vi": "xích đu"
+        },
+        {
+          "en": "seesaw",
+          "vi": "bập bênh"
+        },
+        {
+          "en": "monkey bars",
+          "vi": "xà leo"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-020",
+      "speaker": "parent",
+      "level": 3,
+      "en": "That was so nice of you to share.",
+      "vi": "Con biết chia sẻ với bạn, giỏi lắm!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-021",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can ___ come over?",
+      "vi": "Cho ___ qua nhà mình chơi được không?",
+      "slots": [
+        {
+          "en": "Minh",
+          "vi": "Minh"
+        },
+        {
+          "en": "Lily",
+          "vi": "Lily"
+        },
+        {
+          "en": "Bao",
+          "vi": "Bảo"
+        },
+        {
+          "en": "my friend from school",
+          "vi": "bạn ở trường con"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-022",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I play too?",
+      "vi": "Cho mình chơi với được không?",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-023",
+      "speaker": "child",
+      "level": 2,
+      "en": "Hey, it's my turn!",
+      "vi": "Ê, tới lượt mình mà!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-024",
+      "speaker": "child",
+      "level": 2,
+      "en": "You can go first.",
+      "vi": "Bạn đi trước đi.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-025",
+      "speaker": "child",
+      "level": 2,
+      "en": "I'm sorry I ___.",
+      "vi": "Mình xin lỗi vì đã ___.",
+      "slots": [
+        {
+          "en": "pushed you",
+          "vi": "xô bạn"
+        },
+        {
+          "en": "took your toy",
+          "vi": "giành đồ chơi của bạn"
+        },
+        {
+          "en": "broke your tower",
+          "vi": "làm đổ tháp của bạn"
+        },
+        {
+          "en": "yelled at you",
+          "vi": "la bạn"
+        }
+      ],
+      "ages": [
+        "5-7",
+        "7-9"
+      ]
+    },
+    {
+      "id": "playdates-026",
+      "speaker": "child",
+      "level": 2,
+      "en": "It's okay. Let's keep playing.",
+      "vi": "Không sao. Mình chơi tiếp đi.",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-027",
+      "speaker": "child",
+      "level": 2,
+      "en": "Let's play ___ together!",
+      "vi": "Mình chơi ___ chung đi!",
+      "slots": [
+        {
+          "en": "dinosaurs",
+          "vi": "khủng long"
+        },
+        {
+          "en": "house",
+          "vi": "đồ hàng"
+        },
+        {
+          "en": "Legos",
+          "vi": "Lego",
+          "ipa": "/lɛts pleɪ ˈlɛɡoʊz təˈɡɛðɚ/"
+        },
+        {
+          "en": "tag",
+          "vi": "rượt bắt"
+        }
+      ],
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-028",
+      "speaker": "child",
+      "level": 3,
+      "en": "I don't want to go home yet!",
+      "vi": "Con chưa muốn về đâu!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-029",
+      "speaker": "child",
+      "level": 2,
+      "en": "We built a huge castle!",
+      "vi": "Tụi con xây được lâu đài to lắm!",
+      "ages": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "playdates-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "He won't share with me.",
+      "vi": "Bạn không cho con chơi chung.",
+      "ages": [
+        "5-7"
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "playdates-d01",
+      "titleEn": "A friend comes over",
+      "titleVi": "Bạn tới nhà chơi",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Hey, Minh's here! Go say hi.",
+          "vi": "Minh tới rồi kìa! Con ra chào bạn đi.",
+          "ipa": "/heɪ mɪnz hiɹ ɡoʊ seɪ haɪ/"
+        },
+        {
+          "speaker": "child",
+          "en": "Hi, Minh! Come see my room!",
+          "vi": "Chào Minh! Vô coi phòng mình nè!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wait, shoes off first, guys.",
+          "vi": "Khoan, mấy đứa cởi giày ra trước đã."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay! Mom, can we play Legos?",
+          "vi": "Dạ! Mẹ ơi, tụi con chơi Lego được không?",
+          "ipa": "/ˌoʊˈkeɪ mɑm kæn wi pleɪ ˈlɛɡoʊz/"
+        },
+        {
+          "speaker": "mom",
+          "en": "Sure. Is there anything you don't want to share?",
+          "vi": "Được chứ. Có món nào con không muốn cho bạn mượn không?"
+        },
+        {
+          "speaker": "child",
+          "en": "My new robot.",
+          "vi": "Con robot mới của con."
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay, let's put it on the shelf for now.",
+          "vi": "Vậy mình để nó lên kệ trước nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Thanks, Mom!",
+          "vi": "Cảm ơn mẹ!"
+        }
+      ]
+    },
+    {
+      "id": "playdates-d02",
+      "titleEn": "Waiting for the scooter",
+      "titleVi": "Chờ tới lượt chơi xe trượt",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Dad! Minh won't give me the scooter!",
+          "vi": "Ba ơi! Minh không đưa xe trượt cho con!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Hmm. Who had it first?",
+          "vi": "Hừm. Ai lấy trước?"
+        },
+        {
+          "speaker": "child",
+          "en": "He did. But I want it now!",
+          "vi": "Bạn lấy trước. Mà con muốn chơi bây giờ!"
+        },
+        {
+          "speaker": "dad",
+          "en": "I know waiting is hard. How about we set a timer?",
+          "vi": "Ba biết chờ thì khó lắm. Hay mình hẹn giờ nha?"
+        },
+        {
+          "speaker": "child",
+          "en": "How long?",
+          "vi": "Bao lâu ạ?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Five minutes each. Then you switch.",
+          "vi": "Mỗi đứa năm phút. Rồi đổi nhau."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay. Can I go next?",
+          "vi": "Dạ. Con chơi kế tiếp được không?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yep, you're next. Thanks for waiting!",
+          "vi": "Ừ, tới con kế tiếp. Cảm ơn con đã chờ nha!"
+        }
+      ]
+    },
+    {
+      "id": "playdates-d03",
+      "titleEn": "Saying sorry",
+      "titleVi": "Xin lỗi bạn",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Uh-oh, Lily's crying. What happened?",
+          "vi": "Ối, Lily khóc kìa. Có chuyện gì vậy con?"
+        },
+        {
+          "speaker": "child",
+          "en": "I knocked down her tower.",
+          "vi": "Con làm đổ tháp của bạn."
+        },
+        {
+          "speaker": "mom",
+          "en": "Was it an accident?",
+          "vi": "Con lỡ tay hả?"
+        },
+        {
+          "speaker": "child",
+          "en": "No... I was mad.",
+          "vi": "Không... tại con giận."
+        },
+        {
+          "speaker": "mom",
+          "en": "Thanks for telling me the truth. What can you say to Lily?",
+          "vi": "Cảm ơn con đã nói thật. Giờ con nói gì với Lily nè?"
+        },
+        {
+          "speaker": "child",
+          "en": "I'm sorry, Lily.",
+          "vi": "Mình xin lỗi Lily."
+        },
+        {
+          "speaker": "mom",
+          "en": "Good. Can you help her build it again?",
+          "vi": "Giỏi. Con phụ bạn xây lại được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yeah! Let's build it even taller!",
+          "vi": "Dạ! Mình xây cao hơn nữa đi!"
+        }
+      ]
+    },
+    {
+      "id": "playdates-d04",
+      "titleEn": "Time to go home",
+      "titleVi": "Tới giờ bạn về",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Five more minutes, guys. Then Bao has to go home.",
+          "vi": "Năm phút nữa nha mấy đứa. Rồi Bảo phải về rồi."
+        },
+        {
+          "speaker": "child",
+          "en": "No! I don't want him to go!",
+          "vi": "Không! Con không muốn bạn về đâu!"
+        },
+        {
+          "speaker": "dad",
+          "en": "I know. You two had so much fun.",
+          "vi": "Ba biết. Hai đứa chơi vui quá mà."
+        },
+        {
+          "speaker": "child",
+          "en": "Can he stay for dinner?",
+          "vi": "Bạn ở lại ăn cơm được không ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Not today, buddy. But we can invite him again soon.",
+          "vi": "Hôm nay thì không được rồi con. Nhưng mình sẽ rủ bạn qua chơi nữa nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Next Saturday?",
+          "vi": "Thứ Bảy tới nha ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Let's ask his mom. Now, let's clean up together.",
+          "vi": "Để hỏi mẹ bạn đã. Giờ mình dọn dẹp chung nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Bye, Bao! Thanks for coming!",
+          "vi": "Tạm biệt Bảo! Cảm ơn bạn đã qua chơi!"
+        }
+      ]
+    },
+    {
+      "id": "playdates-d05",
+      "titleEn": "Sharing the swing",
+      "titleVi": "Chờ chơi xích đu",
+      "ages": [
+        "5-7"
+      ],
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Mom, that girl is on the swing. I want it!",
+          "vi": "Mẹ ơi, bạn kia đang chơi xích đu. Con muốn chơi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "You can ask her. Say, \"Can I have a turn when you're done?\"",
+          "vi": "Con hỏi bạn thử: \"Bạn chơi xong cho mình chơi với nha?\""
+        },
+        {
+          "speaker": "child",
+          "en": "Can I have a turn when you're done?",
+          "vi": "Bạn chơi xong cho mình chơi với được không?"
+        },
+        {
+          "speaker": "mom",
+          "en": "She said yes! Let's wait over here.",
+          "vi": "Bạn chịu rồi kìa! Mình đứng đây chờ nha."
+        },
+        {
+          "speaker": "child",
+          "en": "She's done! My turn!",
+          "vi": "Bạn chơi xong rồi! Tới lượt con!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Great job asking nicely. Hold on tight!",
+          "vi": "Con hỏi lịch sự giỏi lắm. Nắm chặt nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "Push me higher, Mom!",
+          "vi": "Mẹ đẩy cao nữa đi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay! One, two, three, whee!",
+          "vi": "Được! Một, hai, ba, vèo!",
+          "ipa": "/ˌoʊˈkeɪ wʌn tu θɹi wi/"
+        }
+      ]
+    }
+  ]
+}
