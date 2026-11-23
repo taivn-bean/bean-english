@@ -226,6 +226,126 @@
       "level": 1,
       "en": "Not yet!",
       "vi": "Chưa đâu!"
+    },
+    {
+      "id": "wake-up-021",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Rise and shine!",
+      "vi": "Dậy thôi, nắng lên rồi con!"
+    },
+    {
+      "id": "wake-up-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's make the bed together.",
+      "vi": "Mình cùng dọn giường nha."
+    },
+    {
+      "id": "wake-up-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's say hi to the ___.",
+      "vi": "Mình chào ___ nào.",
+      "slots": [
+        {
+          "en": "sun",
+          "vi": "ông mặt trời"
+        },
+        {
+          "en": "birds",
+          "vi": "mấy chú chim"
+        },
+        {
+          "en": "flowers",
+          "vi": "mấy bông hoa"
+        },
+        {
+          "en": "kitty",
+          "vi": "bé mèo"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you want ___ first?",
+      "vi": "Con muốn ___ trước không?",
+      "slots": [
+        {
+          "en": "milk",
+          "vi": "uống sữa"
+        },
+        {
+          "en": "water",
+          "vi": "uống nước"
+        },
+        {
+          "en": "a hug",
+          "vi": "ôm một cái"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You woke up all by yourself!",
+      "vi": "Con tự thức dậy luôn, giỏi quá!"
+    },
+    {
+      "id": "wake-up-026",
+      "speaker": "parent",
+      "level": 3,
+      "en": "No jumping on the bed. Let's hop on the floor.",
+      "vi": "Không nhảy trên giường nha. Mình nhảy dưới sàn nè."
+    },
+    {
+      "id": "wake-up-027",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Your hair is so ___ this morning!",
+      "vi": "Sáng nay tóc con ___ quá!",
+      "slots": [
+        {
+          "en": "messy",
+          "vi": "rối"
+        },
+        {
+          "en": "fluffy",
+          "vi": "bông xù"
+        },
+        {
+          "en": "silly",
+          "vi": "ngộ nghĩnh"
+        },
+        {
+          "en": "curly",
+          "vi": "xoăn"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "Hug me, please!",
+      "vi": "Ôm con với!"
+    },
+    {
+      "id": "wake-up-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "Milk, please!",
+      "vi": "Cho con sữa với!"
+    },
+    {
+      "id": "wake-up-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "The sun is up!",
+      "vi": "Mặt trời lên rồi!"
     }
   ],
   "dialogues": [
@@ -300,6 +420,43 @@
           "speaker": "child",
           "en": "Good morning, Mommy!",
           "vi": "Con chào mẹ ạ!"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-d03",
+      "titleEn": "Messy hair morning",
+      "titleVi": "Buổi sáng tóc rối",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Rise and shine! Your hair is so messy this morning!",
+          "vi": "Dậy thôi, nắng lên rồi con! Sáng nay tóc con rối quá!"
+        },
+        {
+          "speaker": "child",
+          "en": "Hug me, please!",
+          "vi": "Ôm con với!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Okay! Do you want milk first?",
+          "vi": "Được rồi! Con muốn uống sữa trước không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Milk, please!",
+          "vi": "Cho con sữa với!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Here you go! Now let's make the bed together.",
+          "vi": "Đây nè! Giờ mình cùng dọn giường nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay!",
+          "vi": "Dạ!"
         }
       ]
     }

@@ -1,0 +1,373 @@
+{
+  "topicId": "greetings-manners",
+  "phrases": [
+    {
+      "id": "greetings-manners-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Say hello!",
+      "vi": "Con chào đi nào!"
+    },
+    {
+      "id": "greetings-manners-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Say hi to ___.",
+      "vi": "Con chào ___ đi nào.",
+      "slots": [
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "your teacher",
+          "vi": "cô giáo"
+        },
+        {
+          "en": "the baby",
+          "vi": "em bé"
+        },
+        {
+          "en": "Uncle",
+          "vi": "chú"
+        }
+      ]
+    },
+    {
+      "id": "greetings-manners-003",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Wave hello!",
+      "vi": "Vẫy tay chào nào!"
+    },
+    {
+      "id": "greetings-manners-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you say ___?",
+      "vi": "Con nói ___ được không?",
+      "slots": [
+        {
+          "en": "thank you",
+          "vi": "cảm ơn"
+        },
+        {
+          "en": "sorry",
+          "vi": "xin lỗi"
+        },
+        {
+          "en": "hello",
+          "vi": "xin chào"
+        },
+        {
+          "en": "bye-bye",
+          "vi": "tạm biệt"
+        },
+        {
+          "en": "good morning",
+          "vi": "chào buổi sáng"
+        }
+      ]
+    },
+    {
+      "id": "greetings-manners-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What do you say?",
+      "vi": "Con phải nói gì ta?"
+    },
+    {
+      "id": "greetings-manners-006",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Such nice manners!",
+      "vi": "Con lễ phép giỏi quá!"
+    },
+    {
+      "id": "greetings-manners-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's give ___ a high five!",
+      "vi": "Mình đập tay với ___ nào!",
+      "slots": [
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "your friend",
+          "vi": "bạn"
+        },
+        {
+          "en": "Uncle",
+          "vi": "chú"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        }
+      ]
+    },
+    {
+      "id": "greetings-manners-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's share with ___.",
+      "vi": "Mình chia cho ___ với nha.",
+      "slots": [
+        {
+          "en": "your friend",
+          "vi": "bạn"
+        },
+        {
+          "en": "the baby",
+          "vi": "em bé"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        }
+      ]
+    },
+    {
+      "id": "greetings-manners-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Use kind words, please.",
+      "vi": "Con nói chuyện dễ thương nha."
+    },
+    {
+      "id": "greetings-manners-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Wait your turn, please.",
+      "vi": "Con chờ tới lượt mình nha."
+    },
+    {
+      "id": "greetings-manners-011",
+      "speaker": "parent",
+      "level": 3,
+      "en": "When someone gives you something, say thank you.",
+      "vi": "Khi ai cho con cái gì, con nói cảm ơn nha."
+    },
+    {
+      "id": "greetings-manners-012",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Your friend is sad. Let's say sorry.",
+      "vi": "Bạn buồn rồi kìa. Mình xin lỗi bạn nha."
+    },
+    {
+      "id": "greetings-manners-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Thank you for sharing!",
+      "vi": "Cảm ơn con đã chia sẻ nha!"
+    },
+    {
+      "id": "greetings-manners-014",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Good job saying thank you!",
+      "vi": "Con biết nói cảm ơn, giỏi quá!"
+    },
+    {
+      "id": "greetings-manners-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "Hello!",
+      "vi": "Xin chào!"
+    },
+    {
+      "id": "greetings-manners-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "Thank you, ___!",
+      "vi": "Con cảm ơn ___!",
+      "slots": [
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "teacher",
+          "vi": "cô"
+        },
+        {
+          "en": "Mommy",
+          "vi": "mẹ"
+        },
+        {
+          "en": "Daddy",
+          "vi": "ba"
+        }
+      ]
+    },
+    {
+      "id": "greetings-manners-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "Bye, ___!",
+      "vi": "Tạm biệt ___!",
+      "slots": [
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "teacher",
+          "vi": "cô"
+        },
+        {
+          "en": "Mommy",
+          "vi": "mẹ"
+        },
+        {
+          "en": "Daddy",
+          "vi": "ba"
+        }
+      ]
+    },
+    {
+      "id": "greetings-manners-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Sorry!",
+      "vi": "Con xin lỗi!"
+    },
+    {
+      "id": "greetings-manners-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "Excuse me, Mommy.",
+      "vi": "Mẹ ơi, cho con hỏi."
+    },
+    {
+      "id": "greetings-manners-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Yes, please!",
+      "vi": "Dạ, con muốn!"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "greetings-manners-d01",
+      "titleEn": "Visiting Grandma",
+      "titleVi": "Thăm bà",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Look, Grandma is here! Say hi to Grandma.",
+          "vi": "Bà tới rồi kìa! Con chào bà đi nào."
+        },
+        {
+          "speaker": "child",
+          "en": "Hello, Grandma!",
+          "vi": "Con chào bà!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Such nice manners!",
+          "vi": "Con lễ phép giỏi quá!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Grandma has a cookie for you. What do you say?",
+          "vi": "Bà cho con bánh nè. Con phải nói gì ta?"
+        },
+        {
+          "speaker": "child",
+          "en": "Thank you, Grandma!",
+          "vi": "Con cảm ơn bà!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Good job saying thank you!",
+          "vi": "Con biết nói cảm ơn, giỏi quá!"
+        }
+      ]
+    },
+    {
+      "id": "greetings-manners-d02",
+      "titleEn": "Sharing with a friend",
+      "titleVi": "Chia đồ chơi với bạn",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Your friend wants a turn. Let's share with your friend.",
+          "vi": "Bạn muốn chơi kìa. Mình chia cho bạn với nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay!",
+          "vi": "Dạ!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Thank you for sharing!",
+          "vi": "Cảm ơn con đã chia sẻ nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "My turn?",
+          "vi": "Tới con chưa mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wait your turn, please.",
+          "vi": "Con chờ tới lượt mình nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay, Mommy.",
+          "vi": "Dạ, mẹ."
+        }
+      ]
+    },
+    {
+      "id": "greetings-manners-d03",
+      "titleEn": "Saying goodbye",
+      "titleVi": "Chào tạm biệt",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Time to go home. Say bye-bye to your teacher.",
+          "vi": "Tới giờ về rồi. Con chào cô giáo đi nào."
+        },
+        {
+          "speaker": "child",
+          "en": "Bye, teacher!",
+          "vi": "Tạm biệt cô!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Can you say thank you, too?",
+          "vi": "Con cảm ơn cô nữa được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Thank you, teacher!",
+          "vi": "Con cảm ơn cô!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Such nice manners!",
+          "vi": "Con lễ phép giỏi quá!"
+        }
+      ]
+    }
+  ]
+}

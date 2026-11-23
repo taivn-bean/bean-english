@@ -1,5 +1,6 @@
 import {
-  Bath, Blocks, Heart, type LucideIcon, type LucideProps, Moon, ShieldCheck, Shirt, Smile, Sunrise, Toothbrush, Trees, Utensils,
+  Bath, Blocks, Car, CloudSun, Hand, HandHeart, Hash, Heart, type LucideIcon, type LucideProps, Moon, Palette, PawPrint,
+  ShieldCheck, Shirt, ShoppingCart, Smile, Sparkles, Sunrise, Thermometer, Toothbrush, Trees, Utensils,
 } from 'lucide-react'
 
 // Explicit map keeps the bundle small (no dynamic import of all icons). Add new topic icons here.
@@ -14,6 +15,16 @@ const ICONS: Record<string, LucideIcon> = {
   'shield-check': ShieldCheck,
   bath: Bath,
   moon: Moon,
+  'hand-heart': HandHeart,
+  hand: Hand,
+  'paw-print': PawPrint,
+  palette: Palette,
+  hash: Hash,
+  'cloud-sun': CloudSun,
+  car: Car,
+  'shopping-cart': ShoppingCart,
+  thermometer: Thermometer,
+  sparkles: Sparkles,
 }
 
 export function TopicIcon({ name, ...props }: { name: string } & LucideProps) {

@@ -47,12 +47,11 @@ Nguồn nội dung (do agent soạn) nằm ở `content/`. Script `scripts/build
   ]
 }
 ```
-- Mỗi chủ đề: **20 phrases** (~14 parent, ~6 child), **ít nhất 5 câu có `slots`**, **2 dialogues**.
-- `ipa` tuỳ chọn trên phrase/line: chỉ điền khi muốn ghi đè IPA tự sinh (từ CMU dict).
+- Mỗi chủ đề: **≥20 phrases** (~70% parent, ~30% child), **≥25% câu có `slots`**, **≥2 dialogues**. Thêm câu mới thì nối tiếp id, không đánh số lại.
+- `ipa` tuỳ chọn trên phrase / dialogue line / slot (slot: IPA của cả câu đã điền): chỉ điền khi muốn ghi đè IPA tự sinh (từ CMU dict).
 
 ## Audio (sinh tự động)
 Một giọng duy nhất cho mọi câu (D23). File `public/audio/<uttId>.m4a`:
 - phrase → `<phraseId>`; slot variant → `<phraseId>-s<n>`; dialogue line → `<dialogueId>-l<n>`.
 - `speaker` vẫn giữ để hiển thị (nhãn Ba/Mẹ/Bé), không ảnh hưởng audio.
-- dialogue line → giọng đúng theo `speaker`.
 - Cấu hình giọng: `scripts/voices.json`.

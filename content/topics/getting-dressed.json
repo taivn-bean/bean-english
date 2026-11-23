@@ -238,6 +238,130 @@
       "level": 1,
       "en": "Look at me!",
       "vi": "Nhìn con nè!"
+    },
+    {
+      "id": "getting-dressed-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Push your arm through.",
+      "vi": "Xỏ tay qua nào con."
+    },
+    {
+      "id": "getting-dressed-022",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Oops, wrong foot!",
+      "vi": "Ối, mang lộn chân rồi!"
+    },
+    {
+      "id": "getting-dressed-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Sit down for your shoes.",
+      "vi": "Con ngồi xuống mang giày nha."
+    },
+    {
+      "id": "getting-dressed-024",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Your shirt has a ___ on it!",
+      "vi": "Áo con có hình ___ nè!",
+      "slots": [
+        {
+          "en": "dinosaur",
+          "vi": "con khủng long"
+        },
+        {
+          "en": "star",
+          "vi": "ngôi sao"
+        },
+        {
+          "en": "car",
+          "vi": "xe hơi"
+        },
+        {
+          "en": "flower",
+          "vi": "bông hoa"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-025",
+      "speaker": "parent",
+      "level": 3,
+      "en": "That one is dirty. Let's pick a clean one.",
+      "vi": "Cái đó dơ rồi con. Mình chọn cái sạch nha."
+    },
+    {
+      "id": "getting-dressed-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's take off your ___.",
+      "vi": "Mình cởi ___ ra nha.",
+      "slots": [
+        {
+          "en": "socks",
+          "vi": "vớ"
+        },
+        {
+          "en": "shoes",
+          "vi": "giày"
+        },
+        {
+          "en": "hat",
+          "vi": "nón"
+        },
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's do the buttons.",
+      "vi": "Mình cài nút áo nha."
+    },
+    {
+      "id": "getting-dressed-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "My ___, please!",
+      "vi": "Đưa ___ cho con!",
+      "slots": [
+        {
+          "en": "shoes",
+          "vi": "giày"
+        },
+        {
+          "en": "hat",
+          "vi": "nón"
+        },
+        {
+          "en": "socks",
+          "vi": "vớ"
+        },
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "This one!",
+      "vi": "Cái này nè!"
+    },
+    {
+      "id": "getting-dressed-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "Too tight!",
+      "vi": "Chật quá!"
     }
   ],
   "dialogues": [
@@ -312,6 +436,48 @@
           "speaker": "child",
           "en": "I'm ready!",
           "vi": "Con xong rồi!"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-d03",
+      "titleEn": "Wrong foot!",
+      "titleVi": "Mang lộn chân rồi!",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Sit down for your shoes.",
+          "vi": "Con ngồi xuống mang giày nha."
+        },
+        {
+          "speaker": "child",
+          "en": "My shoes, please!",
+          "vi": "Đưa giày cho con!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Here you go! Can you do it yourself?",
+          "vi": "Nè con! Con tự làm được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "By myself!",
+          "vi": "Con tự làm!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Oops, wrong foot! Let's switch.",
+          "vi": "Ối, mang lộn chân rồi! Mình đổi lại nha."
+        },
+        {
+          "speaker": "child",
+          "en": "This one!",
+          "vi": "Cái này nè!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yes! You did it!",
+          "vi": "Đúng rồi! Con giỏi quá!"
         }
       ]
     }

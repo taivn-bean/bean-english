@@ -1,0 +1,362 @@
+{
+  "topicId": "feeling-sick",
+  "phrases": [
+    {
+      "id": "feeling-sick-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Are you okay?",
+      "vi": "Con có sao không?"
+    },
+    {
+      "id": "feeling-sick-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Does your ___ hurt?",
+      "vi": "Con đau ___ hả?",
+      "slots": [
+        {
+          "en": "tummy",
+          "vi": "bụng"
+        },
+        {
+          "en": "head",
+          "vi": "đầu"
+        },
+        {
+          "en": "throat",
+          "vi": "họng"
+        },
+        {
+          "en": "ear",
+          "vi": "tai"
+        }
+      ]
+    },
+    {
+      "id": "feeling-sick-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Show me where it hurts.",
+      "vi": "Con chỉ coi đau chỗ nào nè."
+    },
+    {
+      "id": "feeling-sick-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You feel a little warm.",
+      "vi": "Người con hơi ấm ấm nè."
+    },
+    {
+      "id": "feeling-sick-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Time for your medicine.",
+      "vi": "Tới giờ uống thuốc rồi con."
+    },
+    {
+      "id": "feeling-sick-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You need lots of ___.",
+      "vi": "Con cần ___ thật nhiều nha.",
+      "slots": [
+        {
+          "en": "rest",
+          "vi": "nghỉ ngơi"
+        },
+        {
+          "en": "water",
+          "vi": "uống nước"
+        },
+        {
+          "en": "sleep",
+          "vi": "ngủ"
+        },
+        {
+          "en": "hugs",
+          "vi": "được ôm"
+        }
+      ]
+    },
+    {
+      "id": "feeling-sick-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Have a little ___.",
+      "vi": "Con ___ một chút nha.",
+      "slots": [
+        {
+          "en": "water",
+          "vi": "uống nước"
+        },
+        {
+          "en": "juice",
+          "vi": "uống nước trái cây"
+        },
+        {
+          "en": "soup",
+          "vi": "ăn súp"
+        },
+        {
+          "en": "medicine",
+          "vi": "uống thuốc"
+        }
+      ]
+    },
+    {
+      "id": "feeling-sick-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Cuddle up with your ___.",
+      "vi": "Ôm ___ của con nè.",
+      "slots": [
+        {
+          "en": "teddy",
+          "vi": "gấu bông"
+        },
+        {
+          "en": "blanket",
+          "vi": "cái mền"
+        },
+        {
+          "en": "bunny",
+          "vi": "thỏ bông"
+        }
+      ]
+    },
+    {
+      "id": "feeling-sick-009",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Oh, poor sweetie.",
+      "vi": "Ôi, thương con quá."
+    },
+    {
+      "id": "feeling-sick-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You'll feel better soon.",
+      "vi": "Con sẽ khỏe lại sớm thôi."
+    },
+    {
+      "id": "feeling-sick-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I'm here with you.",
+      "vi": "Ở bên con đây nè."
+    },
+    {
+      "id": "feeling-sick-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "The doctor will help you.",
+      "vi": "Bác sĩ sẽ giúp con khỏe lại."
+    },
+    {
+      "id": "feeling-sick-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Cover your cough, please.",
+      "vi": "Ho thì che miệng lại nha con."
+    },
+    {
+      "id": "feeling-sick-014",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you need a ___?",
+      "vi": "Con có cần ___ không?",
+      "slots": [
+        {
+          "en": "tissue",
+          "vi": "khăn giấy"
+        },
+        {
+          "en": "blanket",
+          "vi": "mền"
+        },
+        {
+          "en": "pillow",
+          "vi": "cái gối"
+        },
+        {
+          "en": "drink of water",
+          "vi": "uống nước"
+        }
+      ]
+    },
+    {
+      "id": "feeling-sick-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "My ___ hurts.",
+      "vi": "Con đau ___.",
+      "slots": [
+        {
+          "en": "tummy",
+          "vi": "bụng"
+        },
+        {
+          "en": "head",
+          "vi": "đầu"
+        },
+        {
+          "en": "throat",
+          "vi": "họng"
+        },
+        {
+          "en": "ear",
+          "vi": "tai"
+        }
+      ]
+    },
+    {
+      "id": "feeling-sick-016",
+      "speaker": "child",
+      "level": 2,
+      "en": "I don't feel good.",
+      "vi": "Con thấy không khỏe."
+    },
+    {
+      "id": "feeling-sick-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "Hold me, please.",
+      "vi": "Ôm con đi."
+    },
+    {
+      "id": "feeling-sick-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Tissue, please.",
+      "vi": "Cho con khăn giấy."
+    },
+    {
+      "id": "feeling-sick-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm feeling better!",
+      "vi": "Con đỡ rồi!"
+    },
+    {
+      "id": "feeling-sick-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Achoo!",
+      "vi": "Hắt xì!"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "feeling-sick-d01",
+      "titleEn": "Tummy ache",
+      "titleVi": "Đau bụng",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "My tummy hurts.",
+          "vi": "Con đau bụng."
+        },
+        {
+          "speaker": "mom",
+          "en": "Oh, poor sweetie. Show me where it hurts.",
+          "vi": "Ôi, thương con quá. Chỉ mẹ coi đau chỗ nào nè."
+        },
+        {
+          "speaker": "child",
+          "en": "Right here.",
+          "vi": "Chỗ này nè."
+        },
+        {
+          "speaker": "mom",
+          "en": "Cuddle up with your teddy. You need lots of rest.",
+          "vi": "Ôm gấu bông của con nè. Con cần nghỉ ngơi thật nhiều nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Hold me, please.",
+          "vi": "Ôm con đi mẹ."
+        },
+        {
+          "speaker": "mom",
+          "en": "Come here. You'll feel better soon.",
+          "vi": "Lại đây con. Con sẽ khỏe lại sớm thôi."
+        }
+      ]
+    },
+    {
+      "id": "feeling-sick-d02",
+      "titleEn": "Medicine time",
+      "titleVi": "Giờ uống thuốc",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "You feel a little warm.",
+          "vi": "Người con hơi ấm ấm nè."
+        },
+        {
+          "speaker": "child",
+          "en": "I don't feel good.",
+          "vi": "Con thấy không khỏe."
+        },
+        {
+          "speaker": "dad",
+          "en": "Time for your medicine. Open up!",
+          "vi": "Tới giờ uống thuốc rồi con. Há miệng nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Gulp!",
+          "vi": "Ực!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Good job! Have a little water.",
+          "vi": "Giỏi quá! Con uống nước một chút nha."
+        },
+        {
+          "speaker": "child",
+          "en": "All gone!",
+          "vi": "Hết rồi!"
+        }
+      ]
+    },
+    {
+      "id": "feeling-sick-d03",
+      "titleEn": "Feeling better",
+      "titleVi": "Khỏe hơn rồi",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Achoo!",
+          "vi": "Hắt xì!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Bless you! Do you need a tissue?",
+          "vi": "Ôi, hắt xì rồi! Con có cần khăn giấy không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Tissue, please.",
+          "vi": "Cho con khăn giấy."
+        },
+        {
+          "speaker": "dad",
+          "en": "Here you go. How do you feel?",
+          "vi": "Nè con. Con thấy sao rồi?"
+        },
+        {
+          "speaker": "child",
+          "en": "I'm feeling better!",
+          "vi": "Con đỡ rồi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yay! I'm so happy!",
+          "vi": "Hoan hô! Ba vui quá!"
+        }
+      ]
+    }
+  ]
+}

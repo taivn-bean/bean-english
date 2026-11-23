@@ -1,0 +1,386 @@
+{
+  "topicId": "colors-shapes",
+  "phrases": [
+    {
+      "id": "colors-shapes-001",
+      "speaker": "parent",
+      "level": 2,
+      "en": "This one is ___.",
+      "vi": "Cái này màu ___.",
+      "slots": [
+        {
+          "en": "red",
+          "vi": "đỏ"
+        },
+        {
+          "en": "blue",
+          "vi": "xanh dương"
+        },
+        {
+          "en": "yellow",
+          "vi": "vàng"
+        },
+        {
+          "en": "green",
+          "vi": "xanh lá"
+        },
+        {
+          "en": "pink",
+          "vi": "hồng"
+        },
+        {
+          "en": "orange",
+          "vi": "cam"
+        }
+      ]
+    },
+    {
+      "id": "colors-shapes-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you find something ___?",
+      "vi": "Con tìm cái gì màu ___ được không?",
+      "slots": [
+        {
+          "en": "red",
+          "vi": "đỏ"
+        },
+        {
+          "en": "blue",
+          "vi": "xanh dương"
+        },
+        {
+          "en": "yellow",
+          "vi": "vàng"
+        },
+        {
+          "en": "green",
+          "vi": "xanh lá"
+        }
+      ]
+    },
+    {
+      "id": "colors-shapes-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's draw a ___!",
+      "vi": "Mình vẽ hình ___ nha!",
+      "slots": [
+        {
+          "en": "circle",
+          "vi": "tròn"
+        },
+        {
+          "en": "square",
+          "vi": "vuông"
+        },
+        {
+          "en": "triangle",
+          "vi": "tam giác"
+        },
+        {
+          "en": "star",
+          "vi": "ngôi sao"
+        },
+        {
+          "en": "heart",
+          "vi": "trái tim"
+        }
+      ]
+    },
+    {
+      "id": "colors-shapes-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What shape is this?",
+      "vi": "Đây là hình gì nè?"
+    },
+    {
+      "id": "colors-shapes-005",
+      "speaker": "parent",
+      "level": 3,
+      "en": "A ball is round, like a circle.",
+      "vi": "Trái banh tròn, giống hình tròn nè."
+    },
+    {
+      "id": "colors-shapes-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's color it ___.",
+      "vi": "Mình tô màu ___ nha.",
+      "slots": [
+        {
+          "en": "red",
+          "vi": "đỏ"
+        },
+        {
+          "en": "blue",
+          "vi": "xanh dương"
+        },
+        {
+          "en": "yellow",
+          "vi": "vàng"
+        },
+        {
+          "en": "purple",
+          "vi": "tím"
+        },
+        {
+          "en": "green",
+          "vi": "xanh lá"
+        }
+      ]
+    },
+    {
+      "id": "colors-shapes-007",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Pick a color!",
+      "vi": "Con chọn màu đi!"
+    },
+    {
+      "id": "colors-shapes-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What's your favorite color?",
+      "vi": "Con thích màu gì nhất?"
+    },
+    {
+      "id": "colors-shapes-009",
+      "speaker": "parent",
+      "level": 3,
+      "en": "The sky is blue and the grass is green.",
+      "vi": "Bầu trời màu xanh dương, còn cỏ màu xanh lá."
+    },
+    {
+      "id": "colors-shapes-010",
+      "speaker": "parent",
+      "level": 3,
+      "en": "A triangle has three sides. Let's count them!",
+      "vi": "Hình tam giác có ba cạnh. Mình đếm thử nha!"
+    },
+    {
+      "id": "colors-shapes-011",
+      "speaker": "parent",
+      "level": 1,
+      "en": "So colorful!",
+      "vi": "Nhiều màu đẹp quá!"
+    },
+    {
+      "id": "colors-shapes-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's put the red ones here.",
+      "vi": "Mình để mấy cái màu đỏ ở đây nha."
+    },
+    {
+      "id": "colors-shapes-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What a pretty picture!",
+      "vi": "Con vẽ đẹp quá!"
+    },
+    {
+      "id": "colors-shapes-014",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Red and yellow make orange!",
+      "vi": "Đỏ trộn với vàng ra màu cam nè!"
+    },
+    {
+      "id": "colors-shapes-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "A ___!",
+      "vi": "Hình ___!",
+      "slots": [
+        {
+          "en": "circle",
+          "vi": "tròn"
+        },
+        {
+          "en": "square",
+          "vi": "vuông"
+        },
+        {
+          "en": "triangle",
+          "vi": "tam giác"
+        },
+        {
+          "en": "star",
+          "vi": "ngôi sao"
+        },
+        {
+          "en": "heart",
+          "vi": "trái tim"
+        }
+      ]
+    },
+    {
+      "id": "colors-shapes-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "I want ___!",
+      "vi": "Con muốn màu ___!",
+      "slots": [
+        {
+          "en": "blue",
+          "vi": "xanh dương"
+        },
+        {
+          "en": "pink",
+          "vi": "hồng"
+        },
+        {
+          "en": "green",
+          "vi": "xanh lá"
+        },
+        {
+          "en": "purple",
+          "vi": "tím"
+        }
+      ]
+    },
+    {
+      "id": "colors-shapes-017",
+      "speaker": "child",
+      "level": 2,
+      "en": "Pink is my favorite!",
+      "vi": "Con thích màu hồng nhất!"
+    },
+    {
+      "id": "colors-shapes-018",
+      "speaker": "child",
+      "level": 2,
+      "en": "Look what I drew!",
+      "vi": "Coi con vẽ nè!"
+    },
+    {
+      "id": "colors-shapes-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "More crayons, please!",
+      "vi": "Cho con thêm bút màu!"
+    },
+    {
+      "id": "colors-shapes-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Green like grass!",
+      "vi": "Xanh lá như cỏ!"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "colors-shapes-d01",
+      "titleEn": "Drawing together",
+      "titleVi": "Cùng vẽ tranh",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Let's draw a circle!",
+          "vi": "Mình vẽ hình tròn nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "A circle!",
+          "vi": "Hình tròn!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Pick a color!",
+          "vi": "Con chọn màu đi!"
+        },
+        {
+          "speaker": "child",
+          "en": "I want blue!",
+          "vi": "Con muốn màu xanh dương!"
+        },
+        {
+          "speaker": "mom",
+          "en": "What a pretty picture!",
+          "vi": "Con vẽ đẹp quá!"
+        },
+        {
+          "speaker": "child",
+          "en": "More crayons, please!",
+          "vi": "Cho con thêm bút màu!"
+        }
+      ]
+    },
+    {
+      "id": "colors-shapes-d02",
+      "titleEn": "Color hunt",
+      "titleVi": "Đi tìm màu",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Can you find something red?",
+          "vi": "Con tìm cái gì màu đỏ được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "This one!",
+          "vi": "Cái này nè!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yes! This one is red. Can you find something green?",
+          "vi": "Đúng rồi! Cái này màu đỏ. Con tìm cái gì màu xanh lá được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Green like grass!",
+          "vi": "Xanh lá như cỏ!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Great job! The sky is blue and the grass is green.",
+          "vi": "Giỏi quá! Bầu trời màu xanh dương, còn cỏ màu xanh lá."
+        },
+        {
+          "speaker": "child",
+          "en": "Blue sky!",
+          "vi": "Trời xanh!"
+        }
+      ]
+    },
+    {
+      "id": "colors-shapes-d03",
+      "titleEn": "Shapes",
+      "titleVi": "Hình khối",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "What shape is this?",
+          "vi": "Đây là hình gì nè?"
+        },
+        {
+          "speaker": "child",
+          "en": "A triangle!",
+          "vi": "Hình tam giác!"
+        },
+        {
+          "speaker": "mom",
+          "en": "A triangle has three sides. Let's count them!",
+          "vi": "Hình tam giác có ba cạnh. Mình đếm thử nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "One, two, three!",
+          "vi": "Một, hai, ba!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Wow, three sides! Let's draw a star!",
+          "vi": "Oa, ba cạnh! Mình vẽ hình ngôi sao nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "A star!",
+          "vi": "Hình ngôi sao!"
+        }
+      ]
+    }
+  ]
+}

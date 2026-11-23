@@ -1,0 +1,374 @@
+{
+  "topicId": "weather",
+  "phrases": [
+    {
+      "id": "weather-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Look outside!",
+      "vi": "Nhìn ra ngoài kìa con!"
+    },
+    {
+      "id": "weather-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What's the weather like?",
+      "vi": "Trời hôm nay sao vậy con?"
+    },
+    {
+      "id": "weather-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Is it ___ outside?",
+      "vi": "Ngoài trời ___ không con?",
+      "slots": [
+        {
+          "en": "sunny",
+          "vi": "có nắng"
+        },
+        {
+          "en": "raining",
+          "vi": "có mưa"
+        },
+        {
+          "en": "windy",
+          "vi": "có gió"
+        },
+        {
+          "en": "cold",
+          "vi": "lạnh"
+        },
+        {
+          "en": "hot",
+          "vi": "nóng"
+        }
+      ]
+    },
+    {
+      "id": "weather-004",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Drip, drop, rain!",
+      "vi": "Tí tách, mưa rơi!"
+    },
+    {
+      "id": "weather-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you hear the ___?",
+      "vi": "Con có nghe ___ không?",
+      "slots": [
+        {
+          "en": "rain",
+          "vi": "tiếng mưa"
+        },
+        {
+          "en": "wind",
+          "vi": "tiếng gió"
+        },
+        {
+          "en": "thunder",
+          "vi": "tiếng sấm"
+        },
+        {
+          "en": "birds",
+          "vi": "tiếng chim hót"
+        }
+      ]
+    },
+    {
+      "id": "weather-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's take your ___.",
+      "vi": "Mình mang theo ___ của con nha.",
+      "slots": [
+        {
+          "en": "umbrella",
+          "vi": "cây dù"
+        },
+        {
+          "en": "raincoat",
+          "vi": "áo mưa"
+        },
+        {
+          "en": "hat",
+          "vi": "nón"
+        },
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        }
+      ]
+    },
+    {
+      "id": "weather-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's jump in the puddles!",
+      "vi": "Mình nhảy vũng nước nào!"
+    },
+    {
+      "id": "weather-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you feel ___?",
+      "vi": "Con thấy ___ không?",
+      "slots": [
+        {
+          "en": "cold",
+          "vi": "lạnh"
+        },
+        {
+          "en": "hot",
+          "vi": "nóng"
+        },
+        {
+          "en": "warm",
+          "vi": "ấm"
+        },
+        {
+          "en": "wet",
+          "vi": "ướt"
+        }
+      ]
+    },
+    {
+      "id": "weather-009",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Look at the ___ in the sky!",
+      "vi": "Nhìn ___ trên trời kìa!",
+      "slots": [
+        {
+          "en": "rainbow",
+          "vi": "cầu vồng"
+        },
+        {
+          "en": "clouds",
+          "vi": "mây"
+        },
+        {
+          "en": "birds",
+          "vi": "mấy con chim"
+        },
+        {
+          "en": "stars",
+          "vi": "mấy ngôi sao"
+        },
+        {
+          "en": "airplane",
+          "vi": "máy bay"
+        }
+      ]
+    },
+    {
+      "id": "weather-010",
+      "speaker": "parent",
+      "level": 1,
+      "en": "It's just thunder.",
+      "vi": "Chỉ là tiếng sấm thôi con."
+    },
+    {
+      "id": "weather-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You're safe inside with me.",
+      "vi": "Con ở trong nhà an toàn mà."
+    },
+    {
+      "id": "weather-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "The wind is blowing!",
+      "vi": "Gió đang thổi kìa!"
+    },
+    {
+      "id": "weather-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Wear your hat. It's sunny.",
+      "vi": "Đội nón vào nha, trời nắng đó."
+    },
+    {
+      "id": "weather-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "When it rains, the flowers get a drink.",
+      "vi": "Trời mưa là cây hoa được uống nước đó con."
+    },
+    {
+      "id": "weather-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "It's raining!",
+      "vi": "Mưa rồi!"
+    },
+    {
+      "id": "weather-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "Look, a rainbow!",
+      "vi": "Nhìn kìa, cầu vồng!"
+    },
+    {
+      "id": "weather-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm cold.",
+      "vi": "Con lạnh quá."
+    },
+    {
+      "id": "weather-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Jump, jump!",
+      "vi": "Nhảy, nhảy!"
+    },
+    {
+      "id": "weather-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "Umbrella, please!",
+      "vi": "Cho con cây dù!"
+    },
+    {
+      "id": "weather-020",
+      "speaker": "child",
+      "level": 2,
+      "en": "I see the ___!",
+      "vi": "Con thấy ___ rồi!",
+      "slots": [
+        {
+          "en": "rainbow",
+          "vi": "cầu vồng"
+        },
+        {
+          "en": "moon",
+          "vi": "ông trăng"
+        },
+        {
+          "en": "clouds",
+          "vi": "mây"
+        },
+        {
+          "en": "stars",
+          "vi": "sao"
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "weather-d01",
+      "titleEn": "Rainy day",
+      "titleVi": "Trời mưa",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Look outside!",
+          "vi": "Nhìn ra ngoài kìa con!"
+        },
+        {
+          "speaker": "child",
+          "en": "It's raining!",
+          "vi": "Mưa rồi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Let's take your umbrella.",
+          "vi": "Mình mang theo cây dù của con nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Umbrella, please!",
+          "vi": "Cho con cây dù!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Here you go! Let's jump in the puddles!",
+          "vi": "Nè con! Mình nhảy vũng nước nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Jump, jump!",
+          "vi": "Nhảy, nhảy!"
+        }
+      ]
+    },
+    {
+      "id": "weather-d02",
+      "titleEn": "Thunder",
+      "titleVi": "Sấm sét",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Can you hear the thunder?",
+          "vi": "Con có nghe tiếng sấm không?"
+        },
+        {
+          "speaker": "child",
+          "en": "So loud!",
+          "vi": "To quá!"
+        },
+        {
+          "speaker": "dad",
+          "en": "It's just thunder.",
+          "vi": "Chỉ là tiếng sấm thôi con."
+        },
+        {
+          "speaker": "child",
+          "en": "Hug, Daddy!",
+          "vi": "Ôm con đi ba!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Big hug! You're safe inside with me.",
+          "vi": "Ba ôm con nè! Con ở trong nhà với ba, an toàn mà."
+        },
+        {
+          "speaker": "child",
+          "en": "I'm okay.",
+          "vi": "Con không sao."
+        }
+      ]
+    },
+    {
+      "id": "weather-d03",
+      "titleEn": "Sunny day",
+      "titleVi": "Trời nắng",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "What's the weather like?",
+          "vi": "Trời hôm nay sao vậy con?"
+        },
+        {
+          "speaker": "child",
+          "en": "Sunny!",
+          "vi": "Nắng!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Wear your hat. It's sunny.",
+          "vi": "Đội nón vào nha, trời nắng đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Hat on!",
+          "vi": "Đội rồi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Look at the birds in the sky!",
+          "vi": "Nhìn mấy con chim trên trời kìa!"
+        },
+        {
+          "speaker": "child",
+          "en": "Hi, birdie!",
+          "vi": "Chào chim nhỏ!"
+        }
+      ]
+    }
+  ]
+}

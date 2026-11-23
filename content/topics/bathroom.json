@@ -236,6 +236,118 @@
       "level": 1,
       "en": "Look, clean teeth!",
       "vi": "Nhìn nè, răng sạch rồi!"
+    },
+    {
+      "id": "bathroom-021",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Rub, rub, rub!",
+      "vi": "Chà, chà, chà nào!"
+    },
+    {
+      "id": "bathroom-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Rinse off the soap.",
+      "vi": "Xả sạch xà phòng nha con."
+    },
+    {
+      "id": "bathroom-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Dry your ___ with the towel.",
+      "vi": "Lau khô ___ bằng khăn nha.",
+      "slots": [
+        {
+          "en": "hands",
+          "vi": "tay"
+        },
+        {
+          "en": "face",
+          "vi": "mặt"
+        },
+        {
+          "en": "feet",
+          "vi": "chân"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Turn off the water, please.",
+      "vi": "Con khóa vòi nước lại nha."
+    },
+    {
+      "id": "bathroom-025",
+      "speaker": "parent",
+      "level": 3,
+      "en": "It's okay. Accidents happen. Let's get clean pants.",
+      "vi": "Không sao đâu con. Ai cũng có lúc vậy mà. Mình thay quần sạch nha."
+    },
+    {
+      "id": "bathroom-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Wipe your ___, please.",
+      "vi": "Con lau ___ đi nha.",
+      "slots": [
+        {
+          "en": "nose",
+          "vi": "mũi"
+        },
+        {
+          "en": "mouth",
+          "vi": "miệng"
+        },
+        {
+          "en": "face",
+          "vi": "mặt"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-027",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Keep the water in the sink, please.",
+      "vi": "Mình để nước trong bồn rửa thôi nha con."
+    },
+    {
+      "id": "bathroom-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "Wipe my ___, please.",
+      "vi": "Lau ___ cho con với.",
+      "slots": [
+        {
+          "en": "nose",
+          "vi": "mũi"
+        },
+        {
+          "en": "mouth",
+          "vi": "miệng"
+        },
+        {
+          "en": "hands",
+          "vi": "tay"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "Water off!",
+      "vi": "Khóa nước rồi!"
+    },
+    {
+      "id": "bathroom-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "Uh-oh, wet pants!",
+      "vi": "Ối, ướt quần rồi!"
     }
   ],
   "dialogues": [
@@ -315,6 +427,43 @@
           "speaker": "dad",
           "en": "Wash your hands after you go potty.",
           "vi": "Đi vệ sinh xong thì rửa tay nha con."
+        }
+      ]
+    },
+    {
+      "id": "bathroom-d03",
+      "titleEn": "Little accident",
+      "titleVi": "Lỡ tè ướt quần",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Uh-oh, wet pants!",
+          "vi": "Ối, ướt quần rồi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "It's okay. Accidents happen. Let's get clean pants.",
+          "vi": "Không sao đâu con. Ai cũng có lúc vậy mà. Mình thay quần sạch nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay.",
+          "vi": "Dạ."
+        },
+        {
+          "speaker": "dad",
+          "en": "Now let's wash your hands. Rub, rub, rub!",
+          "vi": "Giờ mình rửa tay nào. Chà, chà, chà nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Water off!",
+          "vi": "Khóa nước rồi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Dry your hands with the towel. You did it!",
+          "vi": "Lau khô tay bằng khăn nha. Con giỏi quá!"
         }
       ]
     }

@@ -1,0 +1,392 @@
+{
+  "topicId": "body-parts",
+  "phrases": [
+    {
+      "id": "body-parts-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Touch your ___!",
+      "vi": "Con chạm vào ___ nào!",
+      "slots": [
+        {
+          "en": "nose",
+          "vi": "mũi"
+        },
+        {
+          "en": "ears",
+          "vi": "tai"
+        },
+        {
+          "en": "head",
+          "vi": "đầu"
+        },
+        {
+          "en": "toes",
+          "vi": "ngón chân"
+        },
+        {
+          "en": "tummy",
+          "vi": "bụng"
+        }
+      ]
+    },
+    {
+      "id": "body-parts-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you point to your ___?",
+      "vi": "Con chỉ vào ___ được không?",
+      "slots": [
+        {
+          "en": "eyes",
+          "vi": "mắt"
+        },
+        {
+          "en": "mouth",
+          "vi": "miệng"
+        },
+        {
+          "en": "knees",
+          "vi": "đầu gối"
+        },
+        {
+          "en": "elbow",
+          "vi": "cùi chỏ"
+        },
+        {
+          "en": "chin",
+          "vi": "cằm"
+        }
+      ]
+    },
+    {
+      "id": "body-parts-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How many ___ do you have?",
+      "vi": "Con có mấy ___?",
+      "slots": [
+        {
+          "en": "eyes",
+          "vi": "con mắt"
+        },
+        {
+          "en": "ears",
+          "vi": "cái tai"
+        },
+        {
+          "en": "hands",
+          "vi": "bàn tay"
+        },
+        {
+          "en": "fingers",
+          "vi": "ngón tay"
+        },
+        {
+          "en": "noses",
+          "vi": "cái mũi"
+        }
+      ]
+    },
+    {
+      "id": "body-parts-004",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Wiggle your ___!",
+      "vi": "Nhúc nhích ___ nào!",
+      "slots": [
+        {
+          "en": "fingers",
+          "vi": "ngón tay"
+        },
+        {
+          "en": "toes",
+          "vi": "ngón chân"
+        },
+        {
+          "en": "nose",
+          "vi": "cái mũi"
+        }
+      ]
+    },
+    {
+      "id": "body-parts-005",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Clap your hands!",
+      "vi": "Vỗ tay nào!"
+    },
+    {
+      "id": "body-parts-006",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Stomp your feet!",
+      "vi": "Dậm chân nào!"
+    },
+    {
+      "id": "body-parts-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "This is your ___.",
+      "vi": "Đây là ___ của con.",
+      "slots": [
+        {
+          "en": "nose",
+          "vi": "mũi"
+        },
+        {
+          "en": "hair",
+          "vi": "tóc"
+        },
+        {
+          "en": "arm",
+          "vi": "cánh tay"
+        },
+        {
+          "en": "leg",
+          "vi": "chân"
+        },
+        {
+          "en": "belly button",
+          "vi": "rốn"
+        }
+      ]
+    },
+    {
+      "id": "body-parts-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Head, shoulders, knees, and toes!",
+      "vi": "Đầu, vai, đầu gối, ngón chân!"
+    },
+    {
+      "id": "body-parts-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Where's your belly button?",
+      "vi": "Rốn của con đâu rồi?"
+    },
+    {
+      "id": "body-parts-010",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Tickle, tickle!",
+      "vi": "Thọc lét, thọc lét nè!"
+    },
+    {
+      "id": "body-parts-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Show me your muscles!",
+      "vi": "Gồng cơ bắp coi nào!"
+    },
+    {
+      "id": "body-parts-012",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We see with our eyes and hear with our ears.",
+      "vi": "Mình nhìn bằng mắt và nghe bằng tai nè."
+    },
+    {
+      "id": "body-parts-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Your nose helps you smell yummy food.",
+      "vi": "Cái mũi giúp con ngửi mùi đồ ăn thơm nè."
+    },
+    {
+      "id": "body-parts-014",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You have ten little toes!",
+      "vi": "Con có mười ngón chân nhỏ xíu nè!"
+    },
+    {
+      "id": "body-parts-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "Here's my ___!",
+      "vi": "___ của con nè!",
+      "slots": [
+        {
+          "en": "nose",
+          "vi": "Mũi"
+        },
+        {
+          "en": "mouth",
+          "vi": "Miệng"
+        },
+        {
+          "en": "tummy",
+          "vi": "Bụng"
+        },
+        {
+          "en": "chin",
+          "vi": "Cằm"
+        },
+        {
+          "en": "hand",
+          "vi": "Tay"
+        }
+      ]
+    },
+    {
+      "id": "body-parts-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "Ten toes!",
+      "vi": "Mười ngón chân!"
+    },
+    {
+      "id": "body-parts-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "It tickles!",
+      "vi": "Nhột quá!"
+    },
+    {
+      "id": "body-parts-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Look, big muscles!",
+      "vi": "Nhìn nè, cơ bắp nè!"
+    },
+    {
+      "id": "body-parts-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "Clap, clap, clap!",
+      "vi": "Vỗ tay, vỗ tay!"
+    },
+    {
+      "id": "body-parts-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Tickle me!",
+      "vi": "Thọc lét con đi!"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "body-parts-d01",
+      "titleEn": "Touch your nose",
+      "titleVi": "Chạm vào mũi",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Touch your nose!",
+          "vi": "Con chạm vào mũi nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Here's my nose!",
+          "vi": "Mũi của con nè!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Can you point to your eyes?",
+          "vi": "Con chỉ vào mắt được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Here! Two eyes!",
+          "vi": "Đây nè! Hai con mắt!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Great job! Clap your hands!",
+          "vi": "Giỏi quá! Vỗ tay nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Clap, clap, clap!",
+          "vi": "Vỗ tay, vỗ tay!"
+        }
+      ]
+    },
+    {
+      "id": "body-parts-d02",
+      "titleEn": "Tickle time",
+      "titleVi": "Thọc lét",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Where's your belly button?",
+          "vi": "Rốn của con đâu rồi?"
+        },
+        {
+          "speaker": "child",
+          "en": "My tummy!",
+          "vi": "Bụng con nè!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Tickle, tickle!",
+          "vi": "Thọc lét, thọc lét nè!"
+        },
+        {
+          "speaker": "child",
+          "en": "It tickles!",
+          "vi": "Nhột quá!"
+        },
+        {
+          "speaker": "mom",
+          "en": "More tickles?",
+          "vi": "Thọc lét nữa không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Tickle me!",
+          "vi": "Thọc lét con đi!"
+        }
+      ]
+    },
+    {
+      "id": "body-parts-d03",
+      "titleEn": "Head and toes",
+      "titleVi": "Từ đầu tới chân",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Let's sing! Head, shoulders, knees, and toes!",
+          "vi": "Mình hát nha! Đầu, vai, đầu gối, ngón chân!"
+        },
+        {
+          "speaker": "child",
+          "en": "Knees and toes!",
+          "vi": "Đầu gối, ngón chân!"
+        },
+        {
+          "speaker": "dad",
+          "en": "How many toes do you have?",
+          "vi": "Con có mấy ngón chân?"
+        },
+        {
+          "speaker": "child",
+          "en": "Ten toes!",
+          "vi": "Mười ngón chân!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Wiggle your toes!",
+          "vi": "Nhúc nhích ngón chân nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Wiggle, wiggle!",
+          "vi": "Nhúc nhích nè!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Show me your muscles!",
+          "vi": "Gồng cơ bắp coi nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Look, big muscles!",
+          "vi": "Nhìn nè, cơ bắp nè!"
+        }
+      ]
+    }
+  ]
+}

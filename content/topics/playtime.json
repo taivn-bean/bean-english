@@ -230,6 +230,130 @@
       "level": 1,
       "en": "Catch!",
       "vi": "Bắt nè!"
+    },
+    {
+      "id": "playtime-021",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Ready, set, go!",
+      "vi": "Một, hai, ba, bắt đầu!"
+    },
+    {
+      "id": "playtime-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you share with ___?",
+      "vi": "Con cho ___ chơi chung được không?",
+      "slots": [
+        {
+          "en": "your friend",
+          "vi": "bạn"
+        },
+        {
+          "en": "your sister",
+          "vi": "chị"
+        },
+        {
+          "en": "your brother",
+          "vi": "anh"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        }
+      ]
+    },
+    {
+      "id": "playtime-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's play hide-and-seek!",
+      "vi": "Mình chơi trốn tìm nha!"
+    },
+    {
+      "id": "playtime-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's pretend to be ___!",
+      "vi": "Mình giả làm ___ nha!",
+      "slots": [
+        {
+          "en": "a lion",
+          "vi": "sư tử"
+        },
+        {
+          "en": "a bunny",
+          "vi": "thỏ con"
+        },
+        {
+          "en": "a doggy",
+          "vi": "cún con"
+        },
+        {
+          "en": "a bird",
+          "vi": "chim"
+        }
+      ]
+    },
+    {
+      "id": "playtime-025",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Blocks are for building. Let's throw the ball instead.",
+      "vi": "Khối gỗ là để xây thôi con. Mình ném bóng nha."
+    },
+    {
+      "id": "playtime-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you draw a ___?",
+      "vi": "Con vẽ ___ được không?",
+      "slots": [
+        {
+          "en": "circle",
+          "vi": "hình tròn"
+        },
+        {
+          "en": "sun",
+          "vi": "ông mặt trời"
+        },
+        {
+          "en": "cat",
+          "vi": "con mèo"
+        },
+        {
+          "en": "flower",
+          "vi": "bông hoa"
+        }
+      ]
+    },
+    {
+      "id": "playtime-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You're so good at sharing!",
+      "vi": "Con biết chia đồ chơi, giỏi quá!"
+    },
+    {
+      "id": "playtime-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "Can I play?",
+      "vi": "Cho con chơi với!"
+    },
+    {
+      "id": "playtime-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "Found you!",
+      "vi": "Thấy rồi nha!"
+    },
+    {
+      "id": "playtime-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm a lion!",
+      "vi": "Con là sư tử nè!"
     }
   ],
   "dialogues": [
@@ -309,6 +433,53 @@
           "speaker": "mom",
           "en": "When we finish, let's put the toys away.",
           "vi": "Chơi xong mình cất đồ chơi nha con."
+        }
+      ]
+    },
+    {
+      "id": "playtime-d03",
+      "titleEn": "Hide-and-seek",
+      "titleVi": "Chơi trốn tìm",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Let's play hide-and-seek!",
+          "vi": "Mình chơi trốn tìm nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes!",
+          "vi": "Dạ!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Ready, set, go! Where are you?",
+          "vi": "Một, hai, ba, bắt đầu! Con đâu rồi ta?"
+        },
+        {
+          "speaker": "child",
+          "en": "Find me!",
+          "vi": "Tìm con đi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "I see you!",
+          "vi": "Thấy con rồi nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "Again!",
+          "vi": "Chơi nữa đi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay! Your turn!",
+          "vi": "Được rồi! Tới lượt con!"
+        },
+        {
+          "speaker": "child",
+          "en": "Found you!",
+          "vi": "Thấy rồi nha!"
         }
       ]
     }

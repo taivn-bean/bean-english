@@ -1,0 +1,367 @@
+{
+  "topicId": "numbers-counting",
+  "phrases": [
+    {
+      "id": "numbers-counting-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Let's count!",
+      "vi": "Mình đếm nha!"
+    },
+    {
+      "id": "numbers-counting-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How many ___ do you see?",
+      "vi": "Con thấy mấy ___?",
+      "slots": [
+        {
+          "en": "birds",
+          "vi": "con chim"
+        },
+        {
+          "en": "cars",
+          "vi": "chiếc xe"
+        },
+        {
+          "en": "apples",
+          "vi": "trái táo"
+        },
+        {
+          "en": "balloons",
+          "vi": "trái bong bóng"
+        },
+        {
+          "en": "stars",
+          "vi": "ngôi sao"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you show me ___ fingers?",
+      "vi": "Con giơ ___ ngón tay coi nào?",
+      "slots": [
+        {
+          "en": "two",
+          "vi": "hai"
+        },
+        {
+          "en": "three",
+          "vi": "ba"
+        },
+        {
+          "en": "four",
+          "vi": "bốn"
+        },
+        {
+          "en": "five",
+          "vi": "năm"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's count to ___!",
+      "vi": "Mình đếm tới ___ nha!",
+      "slots": [
+        {
+          "en": "five",
+          "vi": "năm"
+        },
+        {
+          "en": "ten",
+          "vi": "mười"
+        },
+        {
+          "en": "three",
+          "vi": "ba"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-005",
+      "speaker": "parent",
+      "level": 1,
+      "en": "One more!",
+      "vi": "Thêm một cái nữa!"
+    },
+    {
+      "id": "numbers-counting-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "There are ___ ducks!",
+      "vi": "Có ___ con vịt nè!",
+      "slots": [
+        {
+          "en": "two",
+          "vi": "hai"
+        },
+        {
+          "en": "three",
+          "vi": "ba"
+        },
+        {
+          "en": "four",
+          "vi": "bốn"
+        },
+        {
+          "en": "five",
+          "vi": "năm"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-007",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Count with me!",
+      "vi": "Mình cùng đếm nào!"
+    },
+    {
+      "id": "numbers-counting-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Which one has more?",
+      "vi": "Bên nào nhiều hơn?"
+    },
+    {
+      "id": "numbers-counting-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How old are you?",
+      "vi": "Con mấy tuổi rồi?"
+    },
+    {
+      "id": "numbers-counting-010",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Put one block in the box, then one more.",
+      "vi": "Bỏ một khối vào hộp, rồi thêm một khối nữa."
+    },
+    {
+      "id": "numbers-counting-011",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's count the stairs as we walk up.",
+      "vi": "Mình vừa leo cầu thang vừa đếm nha."
+    },
+    {
+      "id": "numbers-counting-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Wow, you counted to ten!",
+      "vi": "Oa, con đếm tới mười rồi!"
+    },
+    {
+      "id": "numbers-counting-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How many are there?",
+      "vi": "Có mấy cái vậy con?"
+    },
+    {
+      "id": "numbers-counting-014",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Count them with your finger.",
+      "vi": "Con lấy ngón tay chỉ từng cái mà đếm nha."
+    },
+    {
+      "id": "numbers-counting-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "One, two, three!",
+      "vi": "Một, hai, ba!"
+    },
+    {
+      "id": "numbers-counting-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm ___!",
+      "vi": "Con ___ tuổi!",
+      "slots": [
+        {
+          "en": "three",
+          "vi": "ba"
+        },
+        {
+          "en": "two",
+          "vi": "hai"
+        },
+        {
+          "en": "four",
+          "vi": "bốn"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "I have ___!",
+      "vi": "Con có ___ cái!",
+      "slots": [
+        {
+          "en": "one",
+          "vi": "một"
+        },
+        {
+          "en": "two",
+          "vi": "hai"
+        },
+        {
+          "en": "three",
+          "vi": "ba"
+        },
+        {
+          "en": "five",
+          "vi": "năm"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Let me count!",
+      "vi": "Để con đếm!"
+    },
+    {
+      "id": "numbers-counting-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "So many!",
+      "vi": "Nhiều quá!"
+    },
+    {
+      "id": "numbers-counting-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Five fingers!",
+      "vi": "Năm ngón tay!"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "numbers-counting-d01",
+      "titleEn": "Counting ducks",
+      "titleVi": "Đếm vịt",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Look! How many ducks do you see?",
+          "vi": "Nhìn kìa! Con thấy mấy con vịt?"
+        },
+        {
+          "speaker": "child",
+          "en": "Let me count!",
+          "vi": "Để con đếm!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Count them with your finger.",
+          "vi": "Con lấy ngón tay chỉ từng con mà đếm nha."
+        },
+        {
+          "speaker": "child",
+          "en": "One, two, three!",
+          "vi": "Một, hai, ba!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yes! There are three ducks!",
+          "vi": "Đúng rồi! Có ba con vịt nè!"
+        },
+        {
+          "speaker": "child",
+          "en": "Three ducks!",
+          "vi": "Ba con vịt!"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-d02",
+      "titleEn": "How old are you?",
+      "titleVi": "Con mấy tuổi?",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "How old are you?",
+          "vi": "Con mấy tuổi rồi?"
+        },
+        {
+          "speaker": "child",
+          "en": "I'm three!",
+          "vi": "Con ba tuổi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Can you show me three fingers?",
+          "vi": "Con giơ ba ngón tay coi nào?"
+        },
+        {
+          "speaker": "child",
+          "en": "Like this!",
+          "vi": "Vầy nè!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow, three fingers! Let's count to five!",
+          "vi": "Oa, ba ngón tay! Mình đếm tới năm nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "Five fingers!",
+          "vi": "Năm ngón tay!"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-d03",
+      "titleEn": "Counting stairs",
+      "titleVi": "Đếm bậc thang",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Let's count the stairs as we walk up.",
+          "vi": "Mình vừa leo cầu thang vừa đếm nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay! One, two!",
+          "vi": "Dạ! Một, hai!"
+        },
+        {
+          "speaker": "dad",
+          "en": "One more!",
+          "vi": "Thêm một bậc nữa!"
+        },
+        {
+          "speaker": "child",
+          "en": "Three!",
+          "vi": "Ba!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Keep going! Count with me!",
+          "vi": "Đếm tiếp nào! Mình cùng đếm nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "Four, five, six!",
+          "vi": "Bốn, năm, sáu!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Wow, six stairs! Great counting!",
+          "vi": "Oa, sáu bậc! Con đếm giỏi quá!"
+        }
+      ]
+    }
+  ]
+}

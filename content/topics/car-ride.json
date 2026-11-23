@@ -1,0 +1,349 @@
+{
+  "topicId": "car-ride",
+  "phrases": [
+    {
+      "id": "car-ride-001",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Into the car we go!",
+      "vi": "Mình lên xe nào!"
+    },
+    {
+      "id": "car-ride-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Climb into your car seat.",
+      "vi": "Con leo vô ghế ngồi nha."
+    },
+    {
+      "id": "car-ride-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Click! All buckled in.",
+      "vi": "Tách! Cài dây xong rồi."
+    },
+    {
+      "id": "car-ride-004",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Stay in your car seat until we stop.",
+      "vi": "Con ngồi yên trong ghế tới khi xe dừng nha."
+    },
+    {
+      "id": "car-ride-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Keep your hands inside.",
+      "vi": "Để tay trong xe nha con."
+    },
+    {
+      "id": "car-ride-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Beep beep! Here we go!",
+      "vi": "Bíp bíp! Mình đi nào!"
+    },
+    {
+      "id": "car-ride-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "We're driving to ___.",
+      "vi": "Mình đang đi ___ nè.",
+      "slots": [
+        {
+          "en": "Grandma's house",
+          "vi": "nhà bà"
+        },
+        {
+          "en": "school",
+          "vi": "tới trường"
+        },
+        {
+          "en": "the store",
+          "vi": "siêu thị"
+        },
+        {
+          "en": "the park",
+          "vi": "công viên"
+        }
+      ]
+    },
+    {
+      "id": "car-ride-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you see the ___?",
+      "vi": "Con có thấy ___ không?",
+      "slots": [
+        {
+          "en": "big truck",
+          "vi": "xe tải bự"
+        },
+        {
+          "en": "bus",
+          "vi": "xe buýt"
+        },
+        {
+          "en": "motorcycle",
+          "vi": "xe máy"
+        },
+        {
+          "en": "fire truck",
+          "vi": "xe cứu hỏa"
+        }
+      ]
+    },
+    {
+      "id": "car-ride-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "The light is ___.",
+      "vi": "Đèn ___ rồi kìa.",
+      "slots": [
+        {
+          "en": "red",
+          "vi": "đỏ"
+        },
+        {
+          "en": "green",
+          "vi": "xanh"
+        },
+        {
+          "en": "yellow",
+          "vi": "vàng"
+        }
+      ]
+    },
+    {
+      "id": "car-ride-010",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Red means stop.",
+      "vi": "Đèn đỏ là dừng lại."
+    },
+    {
+      "id": "car-ride-011",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Green means go!",
+      "vi": "Đèn xanh là đi!"
+    },
+    {
+      "id": "car-ride-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How many ___ cars?",
+      "vi": "Có mấy chiếc xe ___ vậy con?",
+      "slots": [
+        {
+          "en": "red",
+          "vi": "màu đỏ"
+        },
+        {
+          "en": "blue",
+          "vi": "màu xanh"
+        },
+        {
+          "en": "white",
+          "vi": "màu trắng"
+        },
+        {
+          "en": "yellow",
+          "vi": "màu vàng"
+        }
+      ]
+    },
+    {
+      "id": "car-ride-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Do you want to listen to ___?",
+      "vi": "Con muốn ___ không?",
+      "slots": [
+        {
+          "en": "music",
+          "vi": "nghe nhạc"
+        },
+        {
+          "en": "a story",
+          "vi": "nghe kể chuyện"
+        },
+        {
+          "en": "your song",
+          "vi": "nghe bài hát của con"
+        }
+      ]
+    },
+    {
+      "id": "car-ride-014",
+      "speaker": "parent",
+      "level": 1,
+      "en": "We're almost there!",
+      "vi": "Sắp tới rồi con!"
+    },
+    {
+      "id": "car-ride-015",
+      "speaker": "child",
+      "level": 2,
+      "en": "Are we there yet?",
+      "vi": "Tới chưa vậy?"
+    },
+    {
+      "id": "car-ride-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "Buckle me!",
+      "vi": "Cài dây cho con!"
+    },
+    {
+      "id": "car-ride-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "Big truck!",
+      "vi": "Xe tải bự!"
+    },
+    {
+      "id": "car-ride-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Beep beep!",
+      "vi": "Bíp bíp!"
+    },
+    {
+      "id": "car-ride-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "Music, please!",
+      "vi": "Mở nhạc cho con nghe!"
+    },
+    {
+      "id": "car-ride-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Go, ___, go!",
+      "vi": "Chạy đi, ___ ơi!",
+      "slots": [
+        {
+          "en": "car",
+          "vi": "xe hơi"
+        },
+        {
+          "en": "bus",
+          "vi": "xe buýt"
+        },
+        {
+          "en": "truck",
+          "vi": "xe tải"
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "car-ride-d01",
+      "titleEn": "Buckle up",
+      "titleVi": "Cài dây an toàn",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Into the car we go!",
+          "vi": "Mình lên xe nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Buckle me!",
+          "vi": "Cài dây cho con!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Click! All buckled in.",
+          "vi": "Tách! Cài dây xong rồi."
+        },
+        {
+          "speaker": "child",
+          "en": "Beep beep!",
+          "vi": "Bíp bíp!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Beep beep! Here we go!",
+          "vi": "Bíp bíp! Mình đi nào!"
+        }
+      ]
+    },
+    {
+      "id": "car-ride-d02",
+      "titleEn": "Red light, green light",
+      "titleVi": "Đèn đỏ, đèn xanh",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "The light is red.",
+          "vi": "Đèn đỏ rồi kìa."
+        },
+        {
+          "speaker": "child",
+          "en": "Red light!",
+          "vi": "Đèn đỏ!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Red means stop.",
+          "vi": "Đèn đỏ là dừng lại."
+        },
+        {
+          "speaker": "child",
+          "en": "Green now!",
+          "vi": "Xanh rồi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Green means go!",
+          "vi": "Đèn xanh là đi!"
+        },
+        {
+          "speaker": "child",
+          "en": "Go, car, go!",
+          "vi": "Chạy đi, xe hơi ơi!"
+        }
+      ]
+    },
+    {
+      "id": "car-ride-d03",
+      "titleEn": "Are we there yet?",
+      "titleVi": "Tới chưa?",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Are we there yet?",
+          "vi": "Tới chưa mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Not yet. We're driving to Grandma's house.",
+          "vi": "Chưa con. Mình đang đi nhà bà nè."
+        },
+        {
+          "speaker": "child",
+          "en": "Music, please!",
+          "vi": "Mở nhạc cho con nghe!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Do you want to listen to music?",
+          "vi": "Con muốn nghe nhạc không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes! Music!",
+          "vi": "Dạ! Nghe nhạc!"
+        },
+        {
+          "speaker": "mom",
+          "en": "We're almost there!",
+          "vi": "Sắp tới rồi con!"
+        }
+      ]
+    }
+  ]
+}

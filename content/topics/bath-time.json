@@ -67,7 +67,44 @@
     { "id": "bath-time-017", "speaker": "child", "level": 1, "en": "Too hot!", "vi": "Nóng quá!" },
     { "id": "bath-time-018", "speaker": "child", "level": 1, "en": "All done!", "vi": "Con tắm xong rồi!" },
     { "id": "bath-time-019", "speaker": "child", "level": 1, "en": "Splash!", "vi": "Té nè!" },
-    { "id": "bath-time-020", "speaker": "child", "level": 1, "en": "Towel, please!", "vi": "Cho con cái khăn!" }
+    { "id": "bath-time-020", "speaker": "child", "level": 1, "en": "Towel, please!", "vi": "Cho con cái khăn!" },
+    {
+      "id": "bath-time-021", "speaker": "parent", "level": 2,
+      "en": "Let's dry your ___.", "vi": "Mình lau khô ___ nha.",
+      "slots": [
+        { "en": "hair", "vi": "tóc" },
+        { "en": "face", "vi": "mặt" },
+        { "en": "feet", "vi": "chân" },
+        { "en": "back", "vi": "lưng" }
+      ]
+    },
+    { "id": "bath-time-022", "speaker": "parent", "level": 2, "en": "Look up at the ceiling.", "vi": "Ngước lên nhìn trần nhà nha con." },
+    {
+      "id": "bath-time-023", "speaker": "parent", "level": 2,
+      "en": "There's a bubble on your ___!", "vi": "Có bong bóng trên ___ con kìa!",
+      "slots": [
+        { "en": "nose", "vi": "mũi" },
+        { "en": "head", "vi": "đầu" },
+        { "en": "chin", "vi": "cằm" },
+        { "en": "toes", "vi": "ngón chân" }
+      ]
+    },
+    { "id": "bath-time-024", "speaker": "parent", "level": 2, "en": "Let's pull the plug.", "vi": "Mình xả nước ra nha." },
+    { "id": "bath-time-025", "speaker": "parent", "level": 1, "en": "Where's the duck?", "vi": "Con vịt đâu rồi ta?" },
+    {
+      "id": "bath-time-026", "speaker": "parent", "level": 2,
+      "en": "Let's put lotion on your ___.", "vi": "Mình thoa kem dưỡng lên ___ nha.",
+      "slots": [
+        { "en": "arms", "vi": "tay" },
+        { "en": "legs", "vi": "chân" },
+        { "en": "tummy", "vi": "bụng" },
+        { "en": "face", "vi": "mặt" }
+      ]
+    },
+    { "id": "bath-time-027", "speaker": "parent", "level": 2, "en": "Arms out for the towel!", "vi": "Dang tay ra quấn khăn nào!" },
+    { "id": "bath-time-028", "speaker": "child", "level": 1, "en": "More bubbles!", "vi": "Thêm bong bóng nữa!" },
+    { "id": "bath-time-029", "speaker": "child", "level": 1, "en": "Bye-bye, water!", "vi": "Bái bai nước!" },
+    { "id": "bath-time-030", "speaker": "child", "level": 1, "en": "Too cold!", "vi": "Lạnh quá!" }
   ],
   "dialogues": [
     {
@@ -96,6 +133,20 @@
         { "speaker": "dad", "en": "All clean! Now it's time to get out.", "vi": "Sạch rồi! Mình ra thôi nha." },
         { "speaker": "child", "en": "Towel, please!", "vi": "Cho con cái khăn!" },
         { "speaker": "dad", "en": "You smell so nice!", "vi": "Con thơm quá!" }
+      ]
+    },
+    {
+      "id": "bath-time-d03",
+      "titleEn": "Drying off",
+      "titleVi": "Lau khô người",
+      "lines": [
+        { "speaker": "mom", "en": "Let's pull the plug.", "vi": "Mình xả nước ra nha." },
+        { "speaker": "child", "en": "Bye-bye, water!", "vi": "Bái bai nước!" },
+        { "speaker": "mom", "en": "Arms out for the towel!", "vi": "Dang tay ra quấn khăn nào!" },
+        { "speaker": "child", "en": "Arms out!", "vi": "Dang tay nè!" },
+        { "speaker": "mom", "en": "Let's dry your hair.", "vi": "Mình lau khô tóc nha." },
+        { "speaker": "child", "en": "Too cold!", "vi": "Lạnh quá!" },
+        { "speaker": "mom", "en": "Here's a big warm hug!", "vi": "Mẹ ôm con thật ấm nè!" }
       ]
     }
   ]

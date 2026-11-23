@@ -1,0 +1,372 @@
+{
+  "topicId": "tidy-up",
+  "phrases": [
+    {
+      "id": "tidy-up-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Clean-up time!",
+      "vi": "Tới giờ dọn dẹp rồi!"
+    },
+    {
+      "id": "tidy-up-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's tidy up together.",
+      "vi": "Mình cùng dọn dẹp nha."
+    },
+    {
+      "id": "tidy-up-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you help me clean up?",
+      "vi": "Con phụ dọn dẹp được không?"
+    },
+    {
+      "id": "tidy-up-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "The ___ go in the box.",
+      "vi": "Bỏ ___ vô hộp nha.",
+      "slots": [
+        {
+          "en": "blocks",
+          "vi": "khối xếp hình"
+        },
+        {
+          "en": "balls",
+          "vi": "banh"
+        },
+        {
+          "en": "cars",
+          "vi": "xe đồ chơi"
+        },
+        {
+          "en": "dolls",
+          "vi": "búp bê"
+        }
+      ]
+    },
+    {
+      "id": "tidy-up-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Where does the ___ go?",
+      "vi": "Cất ___ ở đâu ta?",
+      "slots": [
+        {
+          "en": "book",
+          "vi": "cuốn sách"
+        },
+        {
+          "en": "teddy",
+          "vi": "gấu bông"
+        },
+        {
+          "en": "ball",
+          "vi": "trái banh"
+        },
+        {
+          "en": "car",
+          "vi": "chiếc xe"
+        }
+      ]
+    },
+    {
+      "id": "tidy-up-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Pick up the ___ blocks.",
+      "vi": "Nhặt mấy khối ___ nào.",
+      "slots": [
+        {
+          "en": "red",
+          "vi": "màu đỏ"
+        },
+        {
+          "en": "blue",
+          "vi": "màu xanh dương"
+        },
+        {
+          "en": "yellow",
+          "vi": "màu vàng"
+        },
+        {
+          "en": "green",
+          "vi": "màu xanh lá"
+        }
+      ]
+    },
+    {
+      "id": "tidy-up-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "One, two, three, in!",
+      "vi": "Một, hai, ba, vô!"
+    },
+    {
+      "id": "tidy-up-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Books go on the shelf.",
+      "vi": "Sách thì để lên kệ nha."
+    },
+    {
+      "id": "tidy-up-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Put your ___ in the basket.",
+      "vi": "Bỏ ___ của con vô giỏ đồ nha.",
+      "slots": [
+        {
+          "en": "socks",
+          "vi": "vớ"
+        },
+        {
+          "en": "shirt",
+          "vi": "áo"
+        },
+        {
+          "en": "pajamas",
+          "vi": "đồ ngủ"
+        },
+        {
+          "en": "dirty clothes",
+          "vi": "đồ dơ"
+        }
+      ]
+    },
+    {
+      "id": "tidy-up-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Throw the ___ in the trash.",
+      "vi": "Bỏ ___ vô thùng rác nha.",
+      "slots": [
+        {
+          "en": "paper",
+          "vi": "giấy"
+        },
+        {
+          "en": "tissue",
+          "vi": "khăn giấy"
+        },
+        {
+          "en": "banana peel",
+          "vi": "vỏ chuối"
+        }
+      ]
+    },
+    {
+      "id": "tidy-up-011",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Uh-oh! Big mess!",
+      "vi": "Ui, bừa quá trời!"
+    },
+    {
+      "id": "tidy-up-012",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Wow, so clean!",
+      "vi": "Oa, sạch quá trời!"
+    },
+    {
+      "id": "tidy-up-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Thank you for helping!",
+      "vi": "Cảm ơn con đã phụ nha!"
+    },
+    {
+      "id": "tidy-up-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "First we clean up, then we read a book.",
+      "vi": "Mình dọn xong rồi mới đọc sách nha."
+    },
+    {
+      "id": "tidy-up-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "I can help!",
+      "vi": "Con phụ được!"
+    },
+    {
+      "id": "tidy-up-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "Too many toys!",
+      "vi": "Nhiều đồ chơi quá!"
+    },
+    {
+      "id": "tidy-up-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "In the box!",
+      "vi": "Bỏ vô hộp!"
+    },
+    {
+      "id": "tidy-up-018",
+      "speaker": "child",
+      "level": 2,
+      "en": "Where does it go?",
+      "vi": "Cái này để đâu?"
+    },
+    {
+      "id": "tidy-up-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "All tidy!",
+      "vi": "Gọn gàng rồi!"
+    },
+    {
+      "id": "tidy-up-020",
+      "speaker": "child",
+      "level": 2,
+      "en": "I put the ___ away!",
+      "vi": "Con cất ___ rồi!",
+      "slots": [
+        {
+          "en": "blocks",
+          "vi": "khối xếp hình"
+        },
+        {
+          "en": "cars",
+          "vi": "xe"
+        },
+        {
+          "en": "books",
+          "vi": "sách"
+        },
+        {
+          "en": "crayons",
+          "vi": "bút màu"
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "tidy-up-d01",
+      "titleEn": "Clean-up time",
+      "titleVi": "Giờ dọn dẹp",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Clean-up time!",
+          "vi": "Tới giờ dọn dẹp rồi!"
+        },
+        {
+          "speaker": "child",
+          "en": "Too many toys!",
+          "vi": "Nhiều đồ chơi quá!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Let's tidy up together. Can you help me?",
+          "vi": "Mình cùng dọn nha. Con phụ mẹ được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "I can help!",
+          "vi": "Con phụ được!"
+        },
+        {
+          "speaker": "mom",
+          "en": "The blocks go in the box.",
+          "vi": "Bỏ khối xếp hình vô hộp nha."
+        },
+        {
+          "speaker": "child",
+          "en": "In the box!",
+          "vi": "Bỏ vô hộp!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow, so clean! Thank you for helping!",
+          "vi": "Oa, sạch quá trời! Cảm ơn con đã phụ nha!"
+        }
+      ]
+    },
+    {
+      "id": "tidy-up-d02",
+      "titleEn": "Where does it go?",
+      "titleVi": "Cái này để đâu?",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Where does it go?",
+          "vi": "Cái này để đâu ba?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Books go on the shelf.",
+          "vi": "Sách thì để lên kệ nha."
+        },
+        {
+          "speaker": "child",
+          "en": "On the shelf!",
+          "vi": "Lên kệ!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Pick up the red blocks.",
+          "vi": "Nhặt mấy khối màu đỏ nào."
+        },
+        {
+          "speaker": "child",
+          "en": "Red blocks!",
+          "vi": "Khối đỏ nè!"
+        },
+        {
+          "speaker": "dad",
+          "en": "One, two, three, in!",
+          "vi": "Một, hai, ba, vô!"
+        },
+        {
+          "speaker": "child",
+          "en": "All tidy!",
+          "vi": "Gọn gàng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "tidy-up-d03",
+      "titleEn": "Clean up, then read",
+      "titleVi": "Dọn xong rồi đọc sách",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "First we clean up, then we read a book.",
+          "vi": "Mình dọn xong rồi mới đọc sách nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Book first!",
+          "vi": "Đọc sách trước!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Clean up first. Then the book!",
+          "vi": "Dọn trước nha con. Rồi mới đọc sách!"
+        },
+        {
+          "speaker": "child",
+          "en": "Cars away!",
+          "vi": "Cất xe!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Wow, so clean! Now let's read!",
+          "vi": "Oa, sạch quá trời! Giờ mình đọc sách nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Yay, book!",
+          "vi": "Hoan hô, đọc sách!"
+        }
+      ]
+    }
+  ]
+}

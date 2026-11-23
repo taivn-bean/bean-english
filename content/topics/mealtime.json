@@ -234,6 +234,134 @@
       "level": 1,
       "en": "Hot, hot!",
       "vi": "Nóng, nóng quá!"
+    },
+    {
+      "id": "mealtime-021",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Bib on!",
+      "vi": "Đeo yếm vào nào!"
+    },
+    {
+      "id": "mealtime-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you want to try it?",
+      "vi": "Con ăn thử chút không?"
+    },
+    {
+      "id": "mealtime-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's try some ___.",
+      "vi": "Mình ăn thử chút ___ nha.",
+      "slots": [
+        {
+          "en": "carrots",
+          "vi": "cà rốt"
+        },
+        {
+          "en": "broccoli",
+          "vi": "bông cải xanh"
+        },
+        {
+          "en": "fish",
+          "vi": "cá"
+        },
+        {
+          "en": "egg",
+          "vi": "trứng"
+        },
+        {
+          "en": "banana",
+          "vi": "chuối"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-024",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Food stays on the plate. Put it here, please.",
+      "vi": "Đồ ăn để trên dĩa thôi con. Con để vô đây nha."
+    },
+    {
+      "id": "mealtime-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you pass me the ___?",
+      "vi": "Con đưa cái ___ đây được không?",
+      "slots": [
+        {
+          "en": "spoon",
+          "vi": "muỗng"
+        },
+        {
+          "en": "bowl",
+          "vi": "chén"
+        },
+        {
+          "en": "cup",
+          "vi": "ly"
+        },
+        {
+          "en": "napkin",
+          "vi": "khăn giấy"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You tried something new!",
+      "vi": "Con dám ăn thử món mới, giỏi quá!"
+    },
+    {
+      "id": "mealtime-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let me wipe your face.",
+      "vi": "Để lau mặt cho con nha."
+    },
+    {
+      "id": "mealtime-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I have some ___?",
+      "vi": "Cho con ít ___ được không?",
+      "slots": [
+        {
+          "en": "water",
+          "vi": "nước"
+        },
+        {
+          "en": "rice",
+          "vi": "cơm"
+        },
+        {
+          "en": "banana",
+          "vi": "chuối"
+        },
+        {
+          "en": "egg",
+          "vi": "trứng"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "Spoon, please!",
+      "vi": "Cho con cái muỗng!"
+    },
+    {
+      "id": "mealtime-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "Thank you, Mommy!",
+      "vi": "Con cảm ơn mẹ!"
     }
   ],
   "dialogues": [
@@ -303,6 +431,53 @@
           "speaker": "dad",
           "en": "Wow, all gone!",
           "vi": "Oa, hết sạch rồi!"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-d03",
+      "titleEn": "Trying veggies",
+      "titleVi": "Ăn thử rau",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Bib on! Let's try some carrots.",
+          "vi": "Đeo yếm vào nào! Mình ăn thử chút cà rốt nha."
+        },
+        {
+          "speaker": "child",
+          "en": "No, thank you.",
+          "vi": "Dạ thôi, con không ăn đâu."
+        },
+        {
+          "speaker": "mom",
+          "en": "Just a little. Do you want to try it?",
+          "vi": "Một chút xíu thôi. Con ăn thử chút không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Okay.",
+          "vi": "Dạ."
+        },
+        {
+          "speaker": "mom",
+          "en": "You tried something new!",
+          "vi": "Con dám ăn thử món mới, giỏi quá!"
+        },
+        {
+          "speaker": "child",
+          "en": "Yummy!",
+          "vi": "Ngon quá!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Let me wipe your face.",
+          "vi": "Để lau mặt cho con nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Thank you, Mommy!",
+          "vi": "Con cảm ơn mẹ!"
         }
       ]
     }

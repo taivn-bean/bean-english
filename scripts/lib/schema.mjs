@@ -12,7 +12,8 @@ export const TopicMeta = z.object({
   titleVi: z.string().min(1),
 })
 
-const Slot = z.object({ en: z.string().min(1), vi: z.string().min(1) })
+// slot.ipa: optional override for the whole filled sentence
+const Slot = z.object({ en: z.string().min(1), vi: z.string().min(1), ipa: z.string().optional() })
 
 const Phrase = z
   .object({

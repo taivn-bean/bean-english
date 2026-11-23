@@ -40,7 +40,7 @@ Ba mẹ mở app → chọn tình huống (ăn, tắm, đi ngủ, chơi...) → 
 | D22 | Bản dùng thử: trong 24h kể từ 2026-11-23 | Q20 |
 
 ## Chưa chốt
-- Q11 (danh sách tính năng): MVP tạm gồm duyệt chủ đề + nghe, câu mẫu thay từ, hội thoại phát lần lượt, yêu thích, tiến độ, hồ sơ bé, cài đặt (ngôn ngữ, giọng, hướng dẫn cài). Làm sau: tìm kiếm, chế độ cho bé tự bấm, ghi âm.
+- Q11 (danh sách tính năng): MVP tạm gồm duyệt chủ đề + nghe, câu mẫu thay từ, hội thoại phát lần lượt, yêu thích, tiến độ, hồ sơ bé, cài đặt (ngôn ngữ, IPA, hướng dẫn cài). Làm sau: tìm kiếm, chế độ cho bé tự bấm, ghi âm.
 - Q19 (dung lượng): ước tính audio < 15MB → precache toàn bộ.
 
 ## Rủi ro kỹ thuật đã biết (iOS PWA)

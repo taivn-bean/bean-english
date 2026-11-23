@@ -1,0 +1,371 @@
+{
+  "topicId": "shopping",
+  "phrases": [
+    {
+      "id": "shopping-001",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's get a cart.",
+      "vi": "Mình lấy xe đẩy nha."
+    },
+    {
+      "id": "shopping-002",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Do you want to sit in the cart?",
+      "vi": "Con muốn ngồi trên xe đẩy không?"
+    },
+    {
+      "id": "shopping-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "We need some ___.",
+      "vi": "Mình cần mua ___.",
+      "slots": [
+        {
+          "en": "bananas",
+          "vi": "chuối"
+        },
+        {
+          "en": "milk",
+          "vi": "sữa"
+        },
+        {
+          "en": "eggs",
+          "vi": "trứng"
+        },
+        {
+          "en": "bread",
+          "vi": "bánh mì"
+        },
+        {
+          "en": "rice",
+          "vi": "gạo"
+        }
+      ]
+    },
+    {
+      "id": "shopping-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's look for the ___.",
+      "vi": "Mình tìm ___ nha.",
+      "slots": [
+        {
+          "en": "apples",
+          "vi": "táo"
+        },
+        {
+          "en": "bananas",
+          "vi": "chuối"
+        },
+        {
+          "en": "milk",
+          "vi": "sữa"
+        },
+        {
+          "en": "yogurt",
+          "vi": "sữa chua"
+        }
+      ]
+    },
+    {
+      "id": "shopping-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Put the ___ in the cart.",
+      "vi": "Bỏ ___ vô xe đẩy nha.",
+      "slots": [
+        {
+          "en": "bananas",
+          "vi": "chuối"
+        },
+        {
+          "en": "apples",
+          "vi": "táo"
+        },
+        {
+          "en": "bread",
+          "vi": "bánh mì"
+        },
+        {
+          "en": "carrots",
+          "vi": "cà rốt"
+        }
+      ]
+    },
+    {
+      "id": "shopping-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How many ___ do we need?",
+      "vi": "Mình cần mấy ___?",
+      "slots": [
+        {
+          "en": "apples",
+          "vi": "trái táo"
+        },
+        {
+          "en": "oranges",
+          "vi": "trái cam"
+        },
+        {
+          "en": "carrots",
+          "vi": "củ cà rốt"
+        },
+        {
+          "en": "eggs",
+          "vi": "quả trứng"
+        }
+      ]
+    },
+    {
+      "id": "shopping-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Look at all the ___!",
+      "vi": "Nhìn nè, nhiều ___ quá!",
+      "slots": [
+        {
+          "en": "fruit",
+          "vi": "trái cây"
+        },
+        {
+          "en": "vegetables",
+          "vi": "rau củ"
+        },
+        {
+          "en": "toys",
+          "vi": "đồ chơi"
+        },
+        {
+          "en": "flowers",
+          "vi": "hoa"
+        }
+      ]
+    },
+    {
+      "id": "shopping-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Stay by the cart.",
+      "vi": "Đứng cạnh xe đẩy nha con."
+    },
+    {
+      "id": "shopping-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "We look with our eyes.",
+      "vi": "Mình chỉ nhìn bằng mắt thôi nha."
+    },
+    {
+      "id": "shopping-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Not today. Maybe next time.",
+      "vi": "Hôm nay chưa mua nha. Để lần sau."
+    },
+    {
+      "id": "shopping-011",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Let's pay now.",
+      "vi": "Mình đi tính tiền nào."
+    },
+    {
+      "id": "shopping-012",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you help me carry the bag?",
+      "vi": "Con phụ xách túi được không?"
+    },
+    {
+      "id": "shopping-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What a big helper!",
+      "vi": "Con phụ giỏi quá!"
+    },
+    {
+      "id": "shopping-014",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Wow, that's heavy!",
+      "vi": "Ui, nặng quá!"
+    },
+    {
+      "id": "shopping-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "I want that!",
+      "vi": "Con muốn cái đó!"
+    },
+    {
+      "id": "shopping-016",
+      "speaker": "child",
+      "level": 2,
+      "en": "I want to push!",
+      "vi": "Con muốn đẩy!"
+    },
+    {
+      "id": "shopping-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "Cookies, please!",
+      "vi": "Cho con bánh quy!"
+    },
+    {
+      "id": "shopping-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "I found it!",
+      "vi": "Con tìm thấy rồi!"
+    },
+    {
+      "id": "shopping-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "In the cart!",
+      "vi": "Bỏ vô xe!"
+    },
+    {
+      "id": "shopping-020",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I hold the ___?",
+      "vi": "Con cầm ___ được không?",
+      "slots": [
+        {
+          "en": "bag",
+          "vi": "cái túi"
+        },
+        {
+          "en": "apple",
+          "vi": "trái táo"
+        },
+        {
+          "en": "bread",
+          "vi": "bánh mì"
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "shopping-d01",
+      "titleEn": "Pushing the cart",
+      "titleVi": "Đẩy xe",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Let's get a cart.",
+          "vi": "Mình lấy xe đẩy nha."
+        },
+        {
+          "speaker": "child",
+          "en": "I want to push!",
+          "vi": "Con muốn đẩy!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay! Push slowly, please.",
+          "vi": "Ừ! Đẩy từ từ nha con."
+        },
+        {
+          "speaker": "child",
+          "en": "Push, push!",
+          "vi": "Đẩy, đẩy!"
+        },
+        {
+          "speaker": "mom",
+          "en": "What a big helper!",
+          "vi": "Con phụ giỏi quá!"
+        }
+      ]
+    },
+    {
+      "id": "shopping-d02",
+      "titleEn": "Finding fruit",
+      "titleVi": "Tìm trái cây",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "We need some bananas. Can you find them?",
+          "vi": "Mình cần mua chuối. Con tìm được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "I found it!",
+          "vi": "Con tìm thấy rồi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Put the bananas in the cart.",
+          "vi": "Bỏ chuối vô xe đẩy nha."
+        },
+        {
+          "speaker": "child",
+          "en": "In the cart!",
+          "vi": "Bỏ vô xe!"
+        },
+        {
+          "speaker": "dad",
+          "en": "How many apples do we need?",
+          "vi": "Mình cần mấy trái táo?"
+        },
+        {
+          "speaker": "child",
+          "en": "Two apples!",
+          "vi": "Hai trái!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Good counting!",
+          "vi": "Con đếm giỏi quá!"
+        }
+      ]
+    },
+    {
+      "id": "shopping-d03",
+      "titleEn": "Not today",
+      "titleVi": "Hôm nay chưa mua",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "I want that!",
+          "vi": "Con muốn cái đó!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Not today. Maybe next time.",
+          "vi": "Hôm nay chưa mua nha. Để lần sau."
+        },
+        {
+          "speaker": "child",
+          "en": "Please, Mommy?",
+          "vi": "Đi mà mẹ?"
+        },
+        {
+          "speaker": "mom",
+          "en": "Not today. Let's pay now.",
+          "vi": "Hôm nay không mua nha. Mình đi tính tiền nào."
+        },
+        {
+          "speaker": "child",
+          "en": "Okay.",
+          "vi": "Dạ."
+        },
+        {
+          "speaker": "mom",
+          "en": "Can you help me carry the bag?",
+          "vi": "Con phụ mẹ xách túi được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "I'm strong!",
+          "vi": "Con khỏe lắm!"
+        }
+      ]
+    }
+  ]
+}

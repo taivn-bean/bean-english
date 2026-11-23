@@ -68,7 +68,44 @@
     { "id": "going-out-017", "speaker": "child", "level": 1, "en": "Look, a doggy!", "vi": "Nhìn kìa, cún con!" },
     { "id": "going-out-018", "speaker": "child", "level": 1, "en": "Swing, please!", "vi": "Con muốn chơi xích đu!" },
     { "id": "going-out-019", "speaker": "child", "level": 1, "en": "Bye-bye!", "vi": "Bái bai!" },
-    { "id": "going-out-020", "speaker": "child", "level": 1, "en": "I'm tired.", "vi": "Con mệt rồi." }
+    { "id": "going-out-020", "speaker": "child", "level": 1, "en": "I'm tired.", "vi": "Con mệt rồi." },
+    {
+      "id": "going-out-021", "speaker": "parent", "level": 2,
+      "en": "Don't forget your ___!", "vi": "Nhớ đem theo ___ nha con!",
+      "slots": [
+        { "en": "hat", "vi": "nón" },
+        { "en": "jacket", "vi": "áo khoác" },
+        { "en": "water bottle", "vi": "bình nước" },
+        { "en": "backpack", "vi": "ba lô" }
+      ]
+    },
+    { "id": "going-out-022", "speaker": "parent", "level": 2, "en": "Can you push the button?", "vi": "Con bấm nút được không?" },
+    { "id": "going-out-023", "speaker": "parent", "level": 2, "en": "Let's get in the car.", "vi": "Mình lên xe nha con." },
+    {
+      "id": "going-out-024", "speaker": "parent", "level": 2,
+      "en": "Let's look for a ___.", "vi": "Mình cùng tìm ___ nha.",
+      "slots": [
+        { "en": "red car", "vi": "xe màu đỏ" },
+        { "en": "flower", "vi": "bông hoa" },
+        { "en": "bird", "vi": "con chim" },
+        { "en": "butterfly", "vi": "con bướm" }
+      ]
+    },
+    {
+      "id": "going-out-025", "speaker": "parent", "level": 2,
+      "en": "Let's ride the ___!", "vi": "Mình đi ___ nha!",
+      "slots": [
+        { "en": "bus", "vi": "xe buýt" },
+        { "en": "train", "vi": "tàu lửa" },
+        { "en": "elevator", "vi": "thang máy" },
+        { "en": "escalator", "vi": "thang cuốn" }
+      ]
+    },
+    { "id": "going-out-026", "speaker": "parent", "level": 1, "en": "Uh-oh, it's raining!", "vi": "Ôi, trời mưa rồi!" },
+    { "id": "going-out-027", "speaker": "parent", "level": 2, "en": "Sit in the cart, please.", "vi": "Ngồi vô xe đẩy nha con." },
+    { "id": "going-out-028", "speaker": "child", "level": 2, "en": "I want to walk.", "vi": "Con muốn tự đi." },
+    { "id": "going-out-029", "speaker": "child", "level": 1, "en": "Can I push?", "vi": "Cho con bấm nha?" },
+    { "id": "going-out-030", "speaker": "child", "level": 1, "en": "Big puddle!", "vi": "Vũng nước bự quá!" }
   ],
   "dialogues": [
     {
@@ -97,6 +134,21 @@
         { "speaker": "dad", "en": "Wave bye-bye to the park!", "vi": "Vẫy tay chào công viên nào!" },
         { "speaker": "child", "en": "Bye-bye, park!", "vi": "Bái bai công viên!" },
         { "speaker": "dad", "en": "Time to buckle up.", "vi": "Thắt dây an toàn nào." }
+      ]
+    },
+    {
+      "id": "going-out-d03",
+      "titleEn": "Riding the bus",
+      "titleVi": "Đi xe buýt",
+      "lines": [
+        { "speaker": "dad", "en": "Let's ride the bus!", "vi": "Mình đi xe buýt nha!" },
+        { "speaker": "child", "en": "Bus!", "vi": "Xe buýt!" },
+        { "speaker": "dad", "en": "Hold my hand, please.", "vi": "Nắm tay ba nha con." },
+        { "speaker": "child", "en": "Okay, Daddy.", "vi": "Dạ, ba." },
+        { "speaker": "dad", "en": "I see a bird! Can you see it?", "vi": "Có con chim kìa! Con thấy không?" },
+        { "speaker": "child", "en": "Yes! Bird!", "vi": "Dạ thấy! Con chim!" },
+        { "speaker": "dad", "en": "Wave bye-bye to the bird!", "vi": "Vẫy tay chào con chim nào!" },
+        { "speaker": "child", "en": "Bye-bye, bird!", "vi": "Bái bai chim!" }
       ]
     }
   ]

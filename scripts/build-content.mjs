@@ -61,7 +61,7 @@ for (const meta of topics) {
       ...p,
       slots: p.slots.map((s, i) => {
         const en = fill(p.en, s.en)
-        return { ...s, fullEn: en, fullVi: fill(p.vi, s.vi), ipa: ipaFor(en), audio: addUtt(`${p.id}-s${i}`, en) }
+        return { ...s, fullEn: en, fullVi: fill(p.vi, s.vi), ipa: ipaFor(en, s.ipa), audio: addUtt(`${p.id}-s${i}`, en) }
       }),
     }
   })

@@ -1,0 +1,374 @@
+{
+  "topicId": "animals",
+  "phrases": [
+    {
+      "id": "animals-001",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What does the ___ say?",
+      "vi": "Con ___ kêu sao?",
+      "slots": [
+        {
+          "en": "cow",
+          "vi": "bò"
+        },
+        {
+          "en": "dog",
+          "vi": "chó"
+        },
+        {
+          "en": "cat",
+          "vi": "mèo"
+        },
+        {
+          "en": "duck",
+          "vi": "vịt"
+        },
+        {
+          "en": "pig",
+          "vi": "heo"
+        }
+      ]
+    },
+    {
+      "id": "animals-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "The cow says moo!",
+      "vi": "Con bò kêu ụm bò!"
+    },
+    {
+      "id": "animals-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you see the ___?",
+      "vi": "Con có thấy con ___ không?",
+      "slots": [
+        {
+          "en": "elephant",
+          "vi": "voi"
+        },
+        {
+          "en": "lion",
+          "vi": "sư tử"
+        },
+        {
+          "en": "monkey",
+          "vi": "khỉ"
+        },
+        {
+          "en": "giraffe",
+          "vi": "hươu cao cổ"
+        },
+        {
+          "en": "fish",
+          "vi": "cá"
+        }
+      ]
+    },
+    {
+      "id": "animals-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's walk like a ___!",
+      "vi": "Mình đi giống con ___ nào!",
+      "slots": [
+        {
+          "en": "duck",
+          "vi": "vịt"
+        },
+        {
+          "en": "penguin",
+          "vi": "chim cánh cụt"
+        },
+        {
+          "en": "bear",
+          "vi": "gấu"
+        },
+        {
+          "en": "crab",
+          "vi": "cua"
+        }
+      ]
+    },
+    {
+      "id": "animals-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you hop like a ___?",
+      "vi": "Con nhảy giống con ___ được không?",
+      "slots": [
+        {
+          "en": "bunny",
+          "vi": "thỏ"
+        },
+        {
+          "en": "frog",
+          "vi": "ếch"
+        },
+        {
+          "en": "kangaroo",
+          "vi": "chuột túi"
+        }
+      ]
+    },
+    {
+      "id": "animals-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "The ___ is so big!",
+      "vi": "Con ___ to quá!",
+      "slots": [
+        {
+          "en": "elephant",
+          "vi": "voi"
+        },
+        {
+          "en": "giraffe",
+          "vi": "hươu cao cổ"
+        },
+        {
+          "en": "whale",
+          "vi": "cá voi"
+        },
+        {
+          "en": "horse",
+          "vi": "ngựa"
+        }
+      ]
+    },
+    {
+      "id": "animals-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Pet the kitty softly.",
+      "vi": "Vuốt mèo nhẹ nhẹ thôi nha."
+    },
+    {
+      "id": "animals-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Roar like a lion!",
+      "vi": "Gầm như sư tử nào!"
+    },
+    {
+      "id": "animals-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Shh, the kitty is sleeping.",
+      "vi": "Suỵt, mèo đang ngủ đó."
+    },
+    {
+      "id": "animals-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's feed the fish.",
+      "vi": "Mình cho cá ăn nha."
+    },
+    {
+      "id": "animals-011",
+      "speaker": "parent",
+      "level": 1,
+      "en": "So fluffy!",
+      "vi": "Lông mềm quá!"
+    },
+    {
+      "id": "animals-012",
+      "speaker": "parent",
+      "level": 3,
+      "en": "The bird has wings, so it can fly.",
+      "vi": "Con chim có cánh nên bay được nè."
+    },
+    {
+      "id": "animals-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's ask first before we pet the doggy.",
+      "vi": "Mình hỏi chủ trước rồi mới vuốt cún nha."
+    },
+    {
+      "id": "animals-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "The monkey is eating a banana. Yum, yum!",
+      "vi": "Con khỉ đang ăn chuối kìa. Măm măm!"
+    },
+    {
+      "id": "animals-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "I like ___!",
+      "vi": "Con thích ___!",
+      "slots": [
+        {
+          "en": "puppies",
+          "vi": "cún con"
+        },
+        {
+          "en": "kittens",
+          "vi": "mèo con"
+        },
+        {
+          "en": "bunnies",
+          "vi": "thỏ con"
+        },
+        {
+          "en": "ducks",
+          "vi": "vịt"
+        },
+        {
+          "en": "fish",
+          "vi": "cá"
+        }
+      ]
+    },
+    {
+      "id": "animals-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "Moo, moo!",
+      "vi": "Ụm bò, ụm bò!"
+    },
+    {
+      "id": "animals-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "Woof, woof!",
+      "vi": "Gâu gâu!"
+    },
+    {
+      "id": "animals-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Meow!",
+      "vi": "Meo meo!"
+    },
+    {
+      "id": "animals-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "Big elephant!",
+      "vi": "Con voi to quá!"
+    },
+    {
+      "id": "animals-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Quack, quack!",
+      "vi": "Cạp cạp!"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "animals-d01",
+      "titleEn": "Animal sounds",
+      "titleVi": "Tiếng kêu con vật",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "What does the cow say?",
+          "vi": "Con bò kêu sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Moo, moo!",
+          "vi": "Ụm bò, ụm bò!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Yes! The cow says moo! What does the dog say?",
+          "vi": "Đúng rồi! Con bò kêu ụm bò! Con chó kêu sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Woof, woof!",
+          "vi": "Gâu gâu!"
+        },
+        {
+          "speaker": "dad",
+          "en": "What does the duck say?",
+          "vi": "Con vịt kêu sao?"
+        },
+        {
+          "speaker": "child",
+          "en": "Quack, quack!",
+          "vi": "Cạp cạp!"
+        }
+      ]
+    },
+    {
+      "id": "animals-d02",
+      "titleEn": "At the zoo",
+      "titleVi": "Đi sở thú",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Do you see the elephant?",
+          "vi": "Con có thấy con voi không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Big elephant!",
+          "vi": "Con voi to quá!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Look, the monkey is eating a banana. Yum, yum!",
+          "vi": "Nhìn kìa, con khỉ đang ăn chuối. Măm măm!"
+        },
+        {
+          "speaker": "child",
+          "en": "Funny monkey!",
+          "vi": "Khỉ ngộ quá!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Roar like a lion!",
+          "vi": "Gầm như sư tử nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Roar!",
+          "vi": "Gừm!"
+        }
+      ]
+    },
+    {
+      "id": "animals-d03",
+      "titleEn": "The sleepy kitty",
+      "titleVi": "Bé mèo ngủ say",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Shh, the kitty is sleeping.",
+          "vi": "Suỵt, mèo đang ngủ đó."
+        },
+        {
+          "speaker": "child",
+          "en": "Shh!",
+          "vi": "Suỵt!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Now the kitty is awake. Pet the kitty softly.",
+          "vi": "Mèo dậy rồi kìa. Vuốt mèo nhẹ nhẹ thôi nha."
+        },
+        {
+          "speaker": "child",
+          "en": "Soft kitty!",
+          "vi": "Mèo mềm quá!"
+        },
+        {
+          "speaker": "mom",
+          "en": "So fluffy! Do you like the kitty?",
+          "vi": "Lông mượt quá ha! Con thích mèo không?"
+        },
+        {
+          "speaker": "child",
+          "en": "I like kittens!",
+          "vi": "Con thích mèo con!"
+        }
+      ]
+    }
+  ]
+}

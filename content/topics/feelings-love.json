@@ -68,7 +68,44 @@
     { "id": "feelings-love-017", "speaker": "child", "level": 2, "en": "I love you, Daddy!", "vi": "Con thương ba!" },
     { "id": "feelings-love-018", "speaker": "child", "level": 1, "en": "I'm okay now.", "vi": "Con hết buồn rồi." },
     { "id": "feelings-love-019", "speaker": "child", "level": 1, "en": "Me too!", "vi": "Con cũng vậy!" },
-    { "id": "feelings-love-020", "speaker": "child", "level": 1, "en": "Sorry, Mommy.", "vi": "Con xin lỗi mẹ." }
+    { "id": "feelings-love-020", "speaker": "child", "level": 1, "en": "Sorry, Mommy.", "vi": "Con xin lỗi mẹ." },
+    { "id": "feelings-love-021", "speaker": "parent", "level": 2, "en": "Do you need a hug?", "vi": "Con muốn được ôm không?" },
+    { "id": "feelings-love-022", "speaker": "parent", "level": 1, "en": "What happened?", "vi": "Sao vậy con?" },
+    { "id": "feelings-love-023", "speaker": "parent", "level": 2, "en": "It's okay to be mad.", "vi": "Giận cũng được mà con." },
+    {
+      "id": "feelings-love-024", "speaker": "parent", "level": 3,
+      "en": "When you're mad, you can ___.", "vi": "Khi giận, con có thể ___.",
+      "slots": [
+        { "en": "stomp your feet", "vi": "dậm chân" },
+        { "en": "squeeze your pillow", "vi": "bóp cái gối" },
+        { "en": "take a big breath", "vi": "hít một hơi thật sâu" },
+        { "en": "ask for a hug", "vi": "xin ôm một cái" }
+      ]
+    },
+    { "id": "feelings-love-025", "speaker": "parent", "level": 2, "en": "I missed you so much!", "vi": "Nhớ con quá trời!" },
+    {
+      "id": "feelings-love-026", "speaker": "parent", "level": 2,
+      "en": "Did the ___ scare you?", "vi": "Con sợ ___ hả?",
+      "slots": [
+        { "en": "thunder", "vi": "tiếng sấm" },
+        { "en": "loud noise", "vi": "tiếng ồn lớn" },
+        { "en": "doggy", "vi": "con cún" },
+        { "en": "dark", "vi": "bóng tối" }
+      ]
+    },
+    { "id": "feelings-love-027", "speaker": "parent", "level": 2, "en": "Let's calm down together.", "vi": "Mình cùng bình tĩnh lại nha." },
+    {
+      "id": "feelings-love-028", "speaker": "child", "level": 2,
+      "en": "I'm scared of the ___.", "vi": "Con sợ ___.",
+      "slots": [
+        { "en": "dark", "vi": "bóng tối" },
+        { "en": "thunder", "vi": "tiếng sấm" },
+        { "en": "doggy", "vi": "con cún" },
+        { "en": "bug", "vi": "con bọ" }
+      ]
+    },
+    { "id": "feelings-love-029", "speaker": "child", "level": 1, "en": "I missed you!", "vi": "Con nhớ ba mẹ!" },
+    { "id": "feelings-love-030", "speaker": "child", "level": 1, "en": "Kiss, please!", "vi": "Thơm con đi!" }
   ],
   "dialogues": [
     {
@@ -96,6 +133,21 @@
         { "speaker": "child", "en": "Me too!", "vi": "Con cũng vậy!" },
         { "speaker": "dad", "en": "Show me a happy face!", "vi": "Làm mặt vui cho ba xem nào!" },
         { "speaker": "child", "en": "Happy face!", "vi": "Mặt vui nè!" }
+      ]
+    },
+    {
+      "id": "feelings-love-d03",
+      "titleEn": "Scared of thunder",
+      "titleVi": "Sợ tiếng sấm",
+      "lines": [
+        { "speaker": "child", "en": "Daddy! Thunder!", "vi": "Ba ơi! Sấm!" },
+        { "speaker": "dad", "en": "Did the thunder scare you?", "vi": "Con sợ tiếng sấm hả?" },
+        { "speaker": "child", "en": "Yes. Scared.", "vi": "Dạ. Sợ." },
+        { "speaker": "dad", "en": "I'm right here. Do you need a hug?", "vi": "Có ba đây rồi. Con muốn được ôm không?" },
+        { "speaker": "child", "en": "Hug, please!", "vi": "Ôm con đi!" },
+        { "speaker": "dad", "en": "Let's take a deep breath together.", "vi": "Mình cùng hít thở thật sâu nha." },
+        { "speaker": "child", "en": "I'm okay now.", "vi": "Con hết sợ rồi." },
+        { "speaker": "dad", "en": "You're so brave!", "vi": "Con dũng cảm quá!" }
       ]
     }
   ]
