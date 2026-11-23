@@ -268,6 +268,134 @@
       "level": 1,
       "en": "Green like grass!",
       "vi": "Xanh lá như cỏ!"
+    },
+    {
+      "id": "colors-shapes-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I see something ___!",
+      "vi": "Mình thấy một thứ màu ___ nè!",
+      "slots": [
+        {
+          "en": "red",
+          "vi": "đỏ"
+        },
+        {
+          "en": "blue",
+          "vi": "xanh dương"
+        },
+        {
+          "en": "yellow",
+          "vi": "vàng"
+        },
+        {
+          "en": "green",
+          "vi": "xanh lá"
+        },
+        {
+          "en": "purple",
+          "vi": "tím"
+        }
+      ]
+    },
+    {
+      "id": "colors-shapes-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Look, the ___ is round!",
+      "vi": "Nhìn nè, ___ tròn vo!",
+      "slots": [
+        {
+          "en": "ball",
+          "vi": "trái banh"
+        },
+        {
+          "en": "plate",
+          "vi": "cái dĩa"
+        },
+        {
+          "en": "moon",
+          "vi": "ông trăng"
+        },
+        {
+          "en": "clock",
+          "vi": "đồng hồ"
+        }
+      ]
+    },
+    {
+      "id": "colors-shapes-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's stack the ___ blocks.",
+      "vi": "Mình chồng mấy khối màu ___ nha.",
+      "slots": [
+        {
+          "en": "red",
+          "vi": "đỏ"
+        },
+        {
+          "en": "blue",
+          "vi": "xanh dương"
+        },
+        {
+          "en": "yellow",
+          "vi": "vàng"
+        },
+        {
+          "en": "green",
+          "vi": "xanh lá"
+        }
+      ]
+    },
+    {
+      "id": "colors-shapes-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's mix the colors!",
+      "vi": "Mình trộn màu nha!"
+    },
+    {
+      "id": "colors-shapes-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Crayons are for paper.",
+      "vi": "Bút màu là để vẽ trên giấy nha con."
+    },
+    {
+      "id": "colors-shapes-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's put the caps back on.",
+      "vi": "Mình đậy nắp bút lại nha."
+    },
+    {
+      "id": "colors-shapes-027",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Round and round!",
+      "vi": "Vẽ vòng tròn, vòng tròn nè!"
+    },
+    {
+      "id": "colors-shapes-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "I made a circle!",
+      "vi": "Con vẽ hình tròn rồi!"
+    },
+    {
+      "id": "colors-shapes-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "Rainbow colors!",
+      "vi": "Màu cầu vồng!"
+    },
+    {
+      "id": "colors-shapes-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "Red like an apple!",
+      "vi": "Đỏ như trái táo!"
     }
   ],
   "dialogues": [

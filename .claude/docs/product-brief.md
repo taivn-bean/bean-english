@@ -37,10 +37,11 @@ Ba mẹ mở app → chọn tình huống (ăn, tắm, đi ngủ, chơi...) → 
 | D20 | Stack: Vite + React + TS, TanStack Router + Query, Dexie, i18next, Tailwind, vite-plugin-pwa, Zod, lucide | yêu cầu |
 | D21 | Offline-first, nhưng nội dung đi qua lớp fetch (TanStack Query + `contentVersion`) để phase sau lấy nội dung mới từ server | yêu cầu |
 | D23 | Chỉ 1 giọng cho toàn bộ audio: **Evan (Enhanced)** (giọng bé tổng hợp nghe không tự nhiên) | user, 2026-11-23 |
+| D24 | Tính năng đợt 2: gợi ý theo giờ + "3 câu" mỗi buổi, tìm kiếm VI/EN không dấu (MiniSearch), sao lưu/khôi phục JSON, nghe liên tục (playlist, lặp, Media Session) | user, 2026-11-23 |
 | D22 | Bản dùng thử: trong 24h kể từ 2026-11-23 | Q20 |
 
 ## Chưa chốt
-- Q11 (danh sách tính năng): MVP tạm gồm duyệt chủ đề + nghe, câu mẫu thay từ, hội thoại phát lần lượt, yêu thích, tiến độ, hồ sơ bé, cài đặt (ngôn ngữ, IPA, hướng dẫn cài). Làm sau: tìm kiếm, chế độ cho bé tự bấm, ghi âm.
+- Q11 (danh sách tính năng): MVP tạm gồm duyệt chủ đề + nghe, câu mẫu thay từ, hội thoại phát lần lượt, yêu thích, tiến độ, hồ sơ bé, cài đặt (ngôn ngữ, IPA, hướng dẫn cài). Đã làm thêm: D24. Backlog tiếp: ôn tập flashcard cho ba mẹ, chế độ bé bấm, nhật ký "Bé nói được", chuỗi ngày, tự thêm câu, ghi âm, chia sẻ câu, backend phase 2.
 - Q19 (dung lượng): ước tính audio < 15MB → precache toàn bộ.
 
 ## Rủi ro kỹ thuật đã biết (iOS PWA)

@@ -264,6 +264,130 @@
       "level": 1,
       "en": "Tickle me!",
       "vi": "Thọc lét con đi!"
+    },
+    {
+      "id": "body-parts-021",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Shake your ___!",
+      "vi": "Lắc ___ nào!",
+      "slots": [
+        {
+          "en": "hands",
+          "vi": "tay"
+        },
+        {
+          "en": "head",
+          "vi": "đầu"
+        },
+        {
+          "en": "hips",
+          "vi": "mông"
+        },
+        {
+          "en": "arms",
+          "vi": "cánh tay"
+        }
+      ]
+    },
+    {
+      "id": "body-parts-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you find teddy's ___?",
+      "vi": "Con tìm ___ của gấu bông được không?",
+      "slots": [
+        {
+          "en": "ears",
+          "vi": "tai"
+        },
+        {
+          "en": "nose",
+          "vi": "mũi"
+        },
+        {
+          "en": "eyes",
+          "vi": "mắt"
+        },
+        {
+          "en": "tummy",
+          "vi": "bụng"
+        }
+      ]
+    },
+    {
+      "id": "body-parts-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Put your hands on your ___.",
+      "vi": "Để tay lên ___ nào.",
+      "slots": [
+        {
+          "en": "head",
+          "vi": "đầu"
+        },
+        {
+          "en": "knees",
+          "vi": "đầu gối"
+        },
+        {
+          "en": "shoulders",
+          "vi": "vai"
+        },
+        {
+          "en": "tummy",
+          "vi": "bụng"
+        }
+      ]
+    },
+    {
+      "id": "body-parts-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Stick out your tongue!",
+      "vi": "Lè lưỡi ra nào!"
+    },
+    {
+      "id": "body-parts-025",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Blink your eyes!",
+      "vi": "Chớp chớp mắt nào!"
+    },
+    {
+      "id": "body-parts-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Your heart goes thump, thump.",
+      "vi": "Tim con đập thình thịch nè."
+    },
+    {
+      "id": "body-parts-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Stand on one foot!",
+      "vi": "Đứng một chân coi nào!"
+    },
+    {
+      "id": "body-parts-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "Two eyes!",
+      "vi": "Hai con mắt!"
+    },
+    {
+      "id": "body-parts-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "Thump, thump!",
+      "vi": "Thình thịch!"
+    },
+    {
+      "id": "body-parts-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "Look at my tongue!",
+      "vi": "Nhìn lưỡi con nè!"
     }
   ],
   "dialogues": [

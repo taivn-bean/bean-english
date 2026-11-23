@@ -362,6 +362,126 @@
       "level": 1,
       "en": "Too tight!",
       "vi": "Chật quá!"
+    },
+    {
+      "id": "getting-dressed-031",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Pop your head through!",
+      "vi": "Chui đầu ra nào!"
+    },
+    {
+      "id": "getting-dressed-032",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Oops, it's backward!",
+      "vi": "Ối, mặc ngược rồi!"
+    },
+    {
+      "id": "getting-dressed-033",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you find your ___?",
+      "vi": "Con tìm ___ của con được không?",
+      "slots": [
+        {
+          "en": "socks",
+          "vi": "vớ"
+        },
+        {
+          "en": "shoes",
+          "vi": "giày"
+        },
+        {
+          "en": "hat",
+          "vi": "nón"
+        },
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-034",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Pull up your ___.",
+      "vi": "Kéo ___ lên nào.",
+      "slots": [
+        {
+          "en": "pants",
+          "vi": "quần"
+        },
+        {
+          "en": "socks",
+          "vi": "vớ"
+        },
+        {
+          "en": "shorts",
+          "vi": "quần đùi"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-035",
+      "speaker": "parent",
+      "level": 2,
+      "en": "This one or that one?",
+      "vi": "Cái này hay cái kia?"
+    },
+    {
+      "id": "getting-dressed-036",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's put your ___ in the hamper.",
+      "vi": "Mình bỏ ___ vô giỏ đồ dơ nha.",
+      "slots": [
+        {
+          "en": "pajamas",
+          "vi": "đồ ngủ"
+        },
+        {
+          "en": "socks",
+          "vi": "vớ"
+        },
+        {
+          "en": "shirt",
+          "vi": "áo"
+        },
+        {
+          "en": "pants",
+          "vi": "quần"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-037",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Stand still, please.",
+      "vi": "Đứng yên chút nha con."
+    },
+    {
+      "id": "getting-dressed-038",
+      "speaker": "child",
+      "level": 1,
+      "en": "Take it off!",
+      "vi": "Cởi ra đi!"
+    },
+    {
+      "id": "getting-dressed-039",
+      "speaker": "child",
+      "level": 1,
+      "en": "Too big!",
+      "vi": "Rộng quá!"
+    },
+    {
+      "id": "getting-dressed-040",
+      "speaker": "child",
+      "level": 2,
+      "en": "I want to pick!",
+      "vi": "Con muốn tự chọn!"
     }
   ],
   "dialogues": [

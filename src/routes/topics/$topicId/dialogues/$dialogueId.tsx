@@ -1,11 +1,10 @@
 import { useSuspenseQuery } from '@tanstack/react-query'
 import { createFileRoute, notFound } from '@tanstack/react-router'
 import clsx from 'clsx'
-import { Play, Square } from 'lucide-react'
-import { useEffect } from 'react'
+import { Play } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
 import { PageHeader } from '../../../../components/Layout'
-import { play, playSequence, stop, usePlaying } from '../../../../lib/audio'
+import { play, playSequence, useAudioState } from '../../../../lib/audio'
 import { topicQuery } from '../../../../lib/content'
 import { useSettings } from '../../../../lib/settings'
 
@@ -29,16 +28,15 @@ function DialoguePage() {
   const { lang, showIpa } = useSettings()
   const { data: topic } = useSuspenseQuery(topicQuery(topicId))
   const dialogue = topic.dialogues.find((d) => d.id === dialogueId)!
-  const playing = usePlaying()
-  const isPlayingAll = playing != null && dialogue.lines.some((l) => l.audio === playing)
-
-  useEffect(() => stop, []) // stop audio when leaving the page
+  const { current: playing, sequenceId } = useAudioState()
+  const isPlayingAll = sequenceId === dialogue.id
+  const title = lang === 'vi' ? dialogue.titleVi : dialogue.titleEn
 
   return (
     <>
       <PageHeader
         back
-        title={lang === 'vi' ? dialogue.titleVi : dialogue.titleEn}
+        title={title}
         subtitle={lang === 'vi' ? topic.titleVi : topic.titleEn}
       />
       <main className="space-y-3 px-4">
@@ -66,15 +64,17 @@ function DialoguePage() {
         })}
       </main>
 
-      <div className="fixed inset-x-0 bottom-20 z-10 flex justify-center pb-[env(safe-area-inset-bottom)]">
+      {!isPlayingAll && (
+      <div className="fixed inset-x-0 bottom-24 z-10 flex justify-center">
         <button
-          onClick={() => (isPlayingAll ? stop() : playSequence(dialogue.lines.map((l) => l.audio)))}
+          onClick={() => playSequence(dialogue.id, dialogue.lines.map((l) => ({ key: l.audio, title: l.en })), { gapMs: 500, label: title })}
           className="flex items-center gap-2 rounded-full bg-leaf-600 px-6 py-3 font-bold text-white shadow-lg active:scale-95"
         >
-          {isPlayingAll ? <Square size={20} /> : <Play size={20} />}
-          {isPlayingAll ? t('dialogue.stop') : t('dialogue.playAll')}
+          <Play size={20} />
+          {t('dialogue.playAll')}
         </button>
       </div>
+      )}
     </>
   )
 }

@@ -105,7 +105,43 @@
     { "id": "going-out-027", "speaker": "parent", "level": 2, "en": "Sit in the cart, please.", "vi": "Ngồi vô xe đẩy nha con." },
     { "id": "going-out-028", "speaker": "child", "level": 2, "en": "I want to walk.", "vi": "Con muốn tự đi." },
     { "id": "going-out-029", "speaker": "child", "level": 1, "en": "Can I push?", "vi": "Cho con bấm nha?" },
-    { "id": "going-out-030", "speaker": "child", "level": 1, "en": "Big puddle!", "vi": "Vũng nước bự quá!" }
+    { "id": "going-out-030", "speaker": "child", "level": 1, "en": "Big puddle!", "vi": "Vũng nước bự quá!" },
+    { "id": "going-out-031", "speaker": "parent", "level": 2, "en": "Let's put on sunscreen.", "vi": "Mình thoa kem chống nắng nha." },
+    { "id": "going-out-032", "speaker": "parent", "level": 3, "en": "Red light, stop! Green light, go!", "vi": "Đèn đỏ thì dừng! Đèn xanh thì đi!" },
+    {
+      "id": "going-out-033", "speaker": "parent", "level": 2,
+      "en": "Let's walk to the ___.", "vi": "Mình đi bộ tới ___ nha.",
+      "slots": [
+        { "en": "corner", "vi": "góc đường" },
+        { "en": "bus stop", "vi": "trạm xe buýt" },
+        { "en": "playground", "vi": "sân chơi" },
+        { "en": "gate", "vi": "cổng" }
+      ]
+    },
+    { "id": "going-out-034", "speaker": "parent", "level": 2, "en": "Let's walk on the sidewalk.", "vi": "Mình đi trên vỉa hè nha." },
+    {
+      "id": "going-out-035", "speaker": "parent", "level": 2,
+      "en": "Look at the big ___!", "vi": "Con nhìn ___ to quá kìa!",
+      "slots": [
+        { "en": "truck", "vi": "chiếc xe tải" },
+        { "en": "tree", "vi": "cái cây" },
+        { "en": "dog", "vi": "con chó" },
+        { "en": "boat", "vi": "chiếc thuyền" }
+      ]
+    },
+    { "id": "going-out-036", "speaker": "parent", "level": 2, "en": "Are you ready to go?", "vi": "Con xong chưa, mình đi nè?" },
+    {
+      "id": "going-out-037", "speaker": "parent", "level": 2,
+      "en": "First the ___, then home.", "vi": "Đi ___ xong rồi mình về nhà nha.",
+      "slots": [
+        { "en": "park", "vi": "công viên" },
+        { "en": "store", "vi": "siêu thị" },
+        { "en": "library", "vi": "thư viện" }
+      ]
+    },
+    { "id": "going-out-038", "speaker": "child", "level": 2, "en": "Can I walk by myself?", "vi": "Con tự đi được không?" },
+    { "id": "going-out-039", "speaker": "child", "level": 2, "en": "I want to go home.", "vi": "Con muốn về nhà." },
+    { "id": "going-out-040", "speaker": "child", "level": 1, "en": "Stroller, please!", "vi": "Cho con ngồi xe đẩy!" }
   ],
   "dialogues": [
     {

@@ -256,6 +256,134 @@
           "vi": "sao"
         }
       ]
+    },
+    {
+      "id": "weather-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What a ___ day!",
+      "vi": "Hôm nay trời ___ ghê!",
+      "slots": [
+        {
+          "en": "sunny",
+          "vi": "nắng"
+        },
+        {
+          "en": "rainy",
+          "vi": "mưa"
+        },
+        {
+          "en": "windy",
+          "vi": "gió nhiều"
+        },
+        {
+          "en": "cloudy",
+          "vi": "nhiều mây"
+        },
+        {
+          "en": "cold",
+          "vi": "lạnh"
+        }
+      ]
+    },
+    {
+      "id": "weather-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's put on your ___.",
+      "vi": "Mình ___ vô nha.",
+      "slots": [
+        {
+          "en": "rain boots",
+          "vi": "mang ủng"
+        },
+        {
+          "en": "raincoat",
+          "vi": "mặc áo mưa"
+        },
+        {
+          "en": "jacket",
+          "vi": "mặc áo khoác"
+        },
+        {
+          "en": "sun hat",
+          "vi": "đội nón"
+        }
+      ]
+    },
+    {
+      "id": "weather-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "The sun is so bright!",
+      "vi": "Mặt trời chói quá!"
+    },
+    {
+      "id": "weather-024",
+      "speaker": "parent",
+      "level": 1,
+      "en": "No more rain!",
+      "vi": "Hết mưa rồi!"
+    },
+    {
+      "id": "weather-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's stay inside today.",
+      "vi": "Hôm nay mình ở trong nhà nha."
+    },
+    {
+      "id": "weather-026",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's watch the rain from the window.",
+      "vi": "Mình ngồi coi mưa qua cửa sổ nha."
+    },
+    {
+      "id": "weather-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Your ___ are all wet!",
+      "vi": "Ướt hết ___ rồi con!",
+      "slots": [
+        {
+          "en": "shoes",
+          "vi": "giày"
+        },
+        {
+          "en": "socks",
+          "vi": "vớ"
+        },
+        {
+          "en": "pants",
+          "vi": "quần"
+        },
+        {
+          "en": "feet",
+          "vi": "chân"
+        }
+      ]
+    },
+    {
+      "id": "weather-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm hot!",
+      "vi": "Con nóng quá!"
+    },
+    {
+      "id": "weather-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "Too windy!",
+      "vi": "Gió quá!"
+    },
+    {
+      "id": "weather-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "Can I go outside?",
+      "vi": "Con ra ngoài chơi được không?"
     }
   ],
   "dialogues": [

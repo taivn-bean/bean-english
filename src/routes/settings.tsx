@@ -1,11 +1,12 @@
 import { useQuery } from '@tanstack/react-query'
 import { createFileRoute } from '@tanstack/react-router'
 import clsx from 'clsx'
-import { CircleCheck, Loader } from 'lucide-react'
-import type { ReactNode } from 'react'
+import { CircleCheck, Download, Loader, Upload } from 'lucide-react'
+import { type ChangeEvent, type ReactNode, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { PageHeader } from '../components/Layout'
 import { InstallHint } from '../components/PwaPrompts'
+import { exportBackup, parseBackup, restoreBackup } from '../lib/backup'
 import { contentIndexQuery } from '../lib/content'
 import { useSettings } from '../lib/settings'
 
@@ -50,9 +51,48 @@ function SettingsPage() {
           </div>
         </Field>
 
+        <BackupSection />
+
         <InstallHint force />
       </main>
     </>
+  )
+}
+
+function BackupSection() {
+  const { t } = useTranslation()
+  const [message, setMessage] = useState<string | null>(null)
+
+  const onFile = async (e: ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0]
+    e.target.value = '' // allow picking the same file again
+    if (!file) return
+    try {
+      const data = await parseBackup(file)
+      if (!confirm(t('backup.importConfirm', { date: new Date(data.exportedAt).toLocaleString() }))) return
+      await restoreBackup(data)
+      setMessage(t('backup.imported'))
+    } catch {
+      setMessage(t('backup.invalid'))
+    }
+  }
+
+  return (
+    <Field label={t('backup.title')}>
+      <div className="space-y-3 rounded-2xl border border-line bg-surface p-4">
+        <p className="text-sm text-muted">{t('backup.desc')}</p>
+        <div className="grid grid-cols-2 gap-2">
+          <button onClick={() => exportBackup()} className="flex min-h-11 items-center justify-center gap-2 rounded-xl bg-leaf-500 px-3 text-sm font-semibold text-white">
+            <Download size={18} /> {t('backup.export')}
+          </button>
+          <label className="flex min-h-11 cursor-pointer items-center justify-center gap-2 rounded-xl border border-leaf-400 px-3 text-sm font-semibold text-leaf-700">
+            <Upload size={18} /> {t('backup.import')}
+            <input type="file" accept="application/json,.json" onChange={onFile} className="sr-only" />
+          </label>
+        </div>
+        {message && <p className="text-sm font-medium" role="status">{message}</p>}
+      </div>
+    </Field>
   )
 }
 

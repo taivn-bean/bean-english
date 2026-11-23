@@ -3,8 +3,9 @@ import { createFileRoute } from '@tanstack/react-router'
 import { useTranslation } from 'react-i18next'
 import { PageHeader } from '../components/Layout'
 import { PhraseCard } from '../components/PhraseCard'
+import { PlayAllButton } from '../components/PlaylistBar'
 import { useFavorites, useProgressMap } from '../hooks/useProfile'
-import { contentIndexQuery, topicQuery } from '../lib/content'
+import { contentIndexQuery, topicQuery, toPlaylist, type Phrase } from '../lib/content'
 
 export const Route = createFileRoute('/favorites')({
   loader: ({ context }) => context.queryClient.ensureQueryData(contentIndexQuery),
@@ -22,9 +23,14 @@ function FavoritesPage() {
   const topics = useQueries({ queries: topicIds.map((id) => topicQuery(id)) })
   const phrases = new Map(topics.flatMap((q) => q.data?.phrases.map((p) => [p.id, p] as const) ?? []))
 
+  const favPhrases = favorites.map((f) => phrases.get(f.phraseId)).filter((p): p is Phrase => !!p)
+
   return (
     <>
-      <PageHeader title={t('favorites.title')} />
+      <PageHeader
+        title={t('favorites.title')}
+        right={<PlayAllButton id="favorites" label={t('favorites.title')} items={toPlaylist(favPhrases)} />}
+      />
       <main className="space-y-3 px-4">
         {favorites.length === 0 && <p className="rounded-3xl bg-leaf-50 p-6 text-center text-muted">{t('favorites.empty')}</p>}
         {favorites.map((f) => {

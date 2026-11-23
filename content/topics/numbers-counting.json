@@ -244,6 +244,166 @@
       "level": 1,
       "en": "Five fingers!",
       "vi": "Năm ngón tay!"
+    },
+    {
+      "id": "numbers-counting-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's count your ___.",
+      "vi": "Mình đếm ___ của con nha.",
+      "slots": [
+        {
+          "en": "toes",
+          "vi": "ngón chân"
+        },
+        {
+          "en": "fingers",
+          "vi": "ngón tay"
+        },
+        {
+          "en": "cars",
+          "vi": "xe"
+        },
+        {
+          "en": "blocks",
+          "vi": "khối xếp hình"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Give me ___ blocks, please.",
+      "vi": "Con đưa ___ khối xếp hình nha.",
+      "slots": [
+        {
+          "en": "two",
+          "vi": "hai"
+        },
+        {
+          "en": "three",
+          "vi": "ba"
+        },
+        {
+          "en": "four",
+          "vi": "bốn"
+        },
+        {
+          "en": "five",
+          "vi": "năm"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-023",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Let's count again!",
+      "vi": "Mình đếm lại nha!"
+    },
+    {
+      "id": "numbers-counting-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What comes after ___?",
+      "vi": "Sau số ___ là số mấy?",
+      "slots": [
+        {
+          "en": "two",
+          "vi": "hai"
+        },
+        {
+          "en": "three",
+          "vi": "ba"
+        },
+        {
+          "en": "four",
+          "vi": "bốn"
+        },
+        {
+          "en": "five",
+          "vi": "năm"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "One for you, one for me.",
+      "vi": "Một cái cho con, một cái cho mình."
+    },
+    {
+      "id": "numbers-counting-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you find the number ___?",
+      "vi": "Con tìm số ___ coi nào?",
+      "slots": [
+        {
+          "en": "two",
+          "vi": "hai"
+        },
+        {
+          "en": "five",
+          "vi": "năm"
+        },
+        {
+          "en": "three",
+          "vi": "ba"
+        },
+        {
+          "en": "seven",
+          "vi": "bảy"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-027",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's count the ___ on the page.",
+      "vi": "Mình đếm ___ trong trang sách nha.",
+      "slots": [
+        {
+          "en": "dogs",
+          "vi": "mấy con chó"
+        },
+        {
+          "en": "apples",
+          "vi": "mấy trái táo"
+        },
+        {
+          "en": "stars",
+          "vi": "mấy ngôi sao"
+        },
+        {
+          "en": "fish",
+          "vi": "mấy con cá"
+        }
+      ]
+    },
+    {
+      "id": "numbers-counting-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "I can count!",
+      "vi": "Con biết đếm!"
+    },
+    {
+      "id": "numbers-counting-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm counting!",
+      "vi": "Con đang đếm nè!"
+    },
+    {
+      "id": "numbers-counting-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "I have two hands!",
+      "vi": "Con có hai bàn tay!"
     }
   ],
   "dialogues": [

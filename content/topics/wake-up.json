@@ -346,6 +346,127 @@
       "level": 2,
       "en": "The sun is up!",
       "vi": "Mặt trời lên rồi!"
+    },
+    {
+      "id": "wake-up-031",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Morning, sleepyhead!",
+      "ipa": "/ˈmɔɹnɪŋ ˈslipiˌhɛd/",
+      "vi": "Chào buổi sáng, bé ham ngủ!"
+    },
+    {
+      "id": "wake-up-032",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Did you have a dream?",
+      "vi": "Con có nằm mơ không?"
+    },
+    {
+      "id": "wake-up-033",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's turn on the ___.",
+      "vi": "Mình bật ___ lên nha.",
+      "slots": [
+        {
+          "en": "light",
+          "vi": "đèn"
+        },
+        {
+          "en": "fan",
+          "vi": "quạt"
+        },
+        {
+          "en": "music",
+          "vi": "nhạc"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-034",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's change your diaper.",
+      "vi": "Mình thay tã nha con."
+    },
+    {
+      "id": "wake-up-035",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's go see ___.",
+      "vi": "Mình đi gặp ___ nha.",
+      "slots": [
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "the kitty",
+          "vi": "bé mèo"
+        },
+        {
+          "en": "your brother",
+          "vi": "anh hai"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-036",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's go downstairs and eat breakfast.",
+      "vi": "Mình xuống nhà ăn sáng nha con."
+    },
+    {
+      "id": "wake-up-037",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Shh, ___ is still sleeping.",
+      "vi": "Suỵt, ___ còn đang ngủ đó.",
+      "slots": [
+        {
+          "en": "Daddy",
+          "vi": "ba"
+        },
+        {
+          "en": "the baby",
+          "vi": "em bé"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "your sister",
+          "vi": "chị hai"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-038",
+      "speaker": "child",
+      "level": 1,
+      "en": "Is it morning?",
+      "vi": "Sáng rồi hả?"
+    },
+    {
+      "id": "wake-up-039",
+      "speaker": "child",
+      "level": 2,
+      "en": "I had a dream!",
+      "vi": "Con nằm mơ nè!"
+    },
+    {
+      "id": "wake-up-040",
+      "speaker": "child",
+      "level": 1,
+      "en": "Lights on!",
+      "vi": "Bật đèn lên!"
     }
   ],
   "dialogues": [

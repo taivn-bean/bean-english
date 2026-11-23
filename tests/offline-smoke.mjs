@@ -44,6 +44,11 @@ await playAll.waitFor({ timeout: 5000 }).catch(() => {})
 check('dialogue offline', await playAll.isVisible())
 await page.screenshot({ path: `${outDir}/dialogue.png` })
 
+await page.goto(`${base}/search?q=doi`)
+await page.locator('article').first().waitFor({ timeout: 5000 }).catch(() => {})
+check('search offline, accent-insensitive ("doi" → đói)', (await page.locator('article', { hasText: 'đói' }).count()) > 0)
+await page.screenshot({ path: `${outDir}/search.png` })
+
 await page.goto(`${base}/progress`)
 await page.locator('p.text-2xl').nth(1).filter({ hasText: /^1/ }).waitFor({ timeout: 3000 }).catch(() => {})
 const childStat = (await page.locator('p.text-2xl').nth(1).innerText()).replace(/\s/g, '')

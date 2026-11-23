@@ -354,6 +354,130 @@
       "level": 1,
       "en": "I'm a lion!",
       "vi": "Con là sư tử nè!"
+    },
+    {
+      "id": "playtime-031",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What are you making?",
+      "vi": "Con đang làm gì đó?"
+    },
+    {
+      "id": "playtime-032",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Vroom, vroom!",
+      "vi": "Brừm brừm!"
+    },
+    {
+      "id": "playtime-033",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's build a ___!",
+      "vi": "Mình xây ___ nha!",
+      "slots": [
+        {
+          "en": "tower",
+          "vi": "cái tháp"
+        },
+        {
+          "en": "house",
+          "vi": "ngôi nhà"
+        },
+        {
+          "en": "bridge",
+          "vi": "cây cầu"
+        },
+        {
+          "en": "road",
+          "vi": "con đường"
+        }
+      ]
+    },
+    {
+      "id": "playtime-034",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Knock it down!",
+      "vi": "Đẩy cho đổ luôn nè!"
+    },
+    {
+      "id": "playtime-035",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you put the ___ on top?",
+      "vi": "Con đặt ___ lên trên được không?",
+      "slots": [
+        {
+          "en": "red block",
+          "vi": "khối màu đỏ"
+        },
+        {
+          "en": "blue block",
+          "vi": "khối màu xanh"
+        },
+        {
+          "en": "yellow block",
+          "vi": "khối màu vàng"
+        },
+        {
+          "en": "big block",
+          "vi": "khối to"
+        }
+      ]
+    },
+    {
+      "id": "playtime-036",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Ready or not, here I come!",
+      "vi": "Trốn kỹ chưa? Đi tìm nè!"
+    },
+    {
+      "id": "playtime-037",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's feed the ___.",
+      "vi": "Mình cho ___ ăn nha.",
+      "slots": [
+        {
+          "en": "doll",
+          "vi": "búp bê"
+        },
+        {
+          "en": "teddy",
+          "vi": "gấu bông"
+        },
+        {
+          "en": "baby",
+          "vi": "em bé"
+        },
+        {
+          "en": "doggy",
+          "vi": "cún"
+        }
+      ]
+    },
+    {
+      "id": "playtime-038",
+      "speaker": "child",
+      "level": 1,
+      "en": "Watch me!",
+      "vi": "Xem con nè!"
+    },
+    {
+      "id": "playtime-039",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm hiding!",
+      "vi": "Con trốn rồi nè!"
+    },
+    {
+      "id": "playtime-040",
+      "speaker": "child",
+      "level": 1,
+      "en": "Fix it, please!",
+      "vi": "Sửa giùm con với!"
     }
   ],
   "dialogues": [

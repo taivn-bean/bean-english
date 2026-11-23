@@ -1,5 +1,5 @@
 import {
-  Bath, Blocks, Car, CloudSun, Hand, HandHeart, Hash, Heart, type LucideIcon, type LucideProps, Moon, Palette, PawPrint,
+  Bath, Blocks, Car, CircleQuestionMark, CloudSun, Hand, HandHeart, Hash, Heart, type LucideIcon, type LucideProps, MessageCircleMore, Moon, Palette, PawPrint,
   ShieldCheck, Shirt, ShoppingCart, Smile, Sparkles, Sunrise, Thermometer, Toothbrush, Trees, Utensils,
 } from 'lucide-react'
 
@@ -25,6 +25,8 @@ const ICONS: Record<string, LucideIcon> = {
   'shopping-cart': ShoppingCart,
   thermometer: Thermometer,
   sparkles: Sparkles,
+  'message-circle-more': MessageCircleMore,
+  'circle-question-mark': CircleQuestionMark,
 }
 
 export function TopicIcon({ name, ...props }: { name: string } & LucideProps) {

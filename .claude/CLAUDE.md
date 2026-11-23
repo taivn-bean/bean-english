@@ -47,8 +47,9 @@ scripts/                 build-content.mjs (zod + IPA + audio keys), gen-audio.m
 public/content/          SINH TỰ ĐỘNG (gitignored) — app fetch qua TanStack Query
 public/audio/            SINH TỰ ĐỘNG nhưng COMMIT (Cloudflare build không có `say`)
 src/routes/              TanStack Router file-based (routeTree.gen.ts tự sinh)
-src/components/          UI dùng chung · src/lib/ content, audio, db (Dexie), settings (zustand)
-src/hooks/               hooks dữ liệu local (profiles, progress, favorites) · src/i18n/ vi.json, en.json
+src/components/          UI dùng chung (PhraseCard, PlaylistBar, Layout…)
+src/lib/                 content, audio (player + playlist), db (Dexie), settings (zustand), suggestions (gợi ý theo giờ), backup
+src/hooks/               useProfile (profiles, progress, favorites), useContent (load nhiều topic) · src/i18n/ vi.json, en.json
 ```
 - Thêm chủ đề: thêm vào `content/topics.json` + file `content/topics/<id>.json`, icon mới thì thêm vào `src/components/TopicIcon.tsx`, rồi `pnpm audio`.
 - Đổi giọng (1 giọng cho tất cả): sửa `scripts/voices.json` rồi `pnpm audio`.

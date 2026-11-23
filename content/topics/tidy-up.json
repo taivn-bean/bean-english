@@ -244,6 +244,136 @@
           "vi": "bút màu"
         }
       ]
+    },
+    {
+      "id": "tidy-up-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's race to clean up!",
+      "vi": "Mình thi dọn nhanh nha!"
+    },
+    {
+      "id": "tidy-up-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you find all the ___?",
+      "vi": "Con tìm hết ___ được không?",
+      "slots": [
+        {
+          "en": "blocks",
+          "vi": "mấy khối xếp hình"
+        },
+        {
+          "en": "cars",
+          "vi": "mấy chiếc xe"
+        },
+        {
+          "en": "crayons",
+          "vi": "mấy cây bút màu"
+        },
+        {
+          "en": "balls",
+          "vi": "mấy trái banh"
+        }
+      ]
+    },
+    {
+      "id": "tidy-up-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Put the lid on the ___.",
+      "vi": "Đậy nắp ___ lại nha.",
+      "slots": [
+        {
+          "en": "box",
+          "vi": "hộp"
+        },
+        {
+          "en": "markers",
+          "vi": "bút lông"
+        },
+        {
+          "en": "paint",
+          "vi": "hũ màu"
+        }
+      ]
+    },
+    {
+      "id": "tidy-up-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's sing the clean-up song!",
+      "vi": "Mình hát bài dọn dẹp nha!"
+    },
+    {
+      "id": "tidy-up-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's wipe the ___.",
+      "vi": "Mình lau ___ nha.",
+      "slots": [
+        {
+          "en": "table",
+          "vi": "bàn"
+        },
+        {
+          "en": "floor",
+          "vi": "sàn nhà"
+        },
+        {
+          "en": "chair",
+          "vi": "ghế"
+        }
+      ]
+    },
+    {
+      "id": "tidy-up-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Almost done! Just ___ more.",
+      "vi": "Sắp xong rồi! Còn ___ cái nữa thôi.",
+      "slots": [
+        {
+          "en": "one",
+          "vi": "một"
+        },
+        {
+          "en": "two",
+          "vi": "hai"
+        },
+        {
+          "en": "three",
+          "vi": "ba"
+        }
+      ]
+    },
+    {
+      "id": "tidy-up-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Toys go back where they live.",
+      "vi": "Đồ chơi thì cất về chỗ của nó nha."
+    },
+    {
+      "id": "tidy-up-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "Done! All clean!",
+      "vi": "Xong rồi! Sạch hết rồi!"
+    },
+    {
+      "id": "tidy-up-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "This goes here!",
+      "vi": "Cái này để đây!"
+    },
+    {
+      "id": "tidy-up-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "Let's race!",
+      "vi": "Mình thi nha!"
     }
   ],
   "dialogues": [

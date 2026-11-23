@@ -47,3 +47,10 @@ export const topicQuery = (topicId: string) =>
   })
 
 export const audioUrl = (key: string) => `/audio/${key}.m4a`
+
+/** Audio key of a phrase (slot phrases use the given slot, default first). */
+export const phraseAudio = (p: Phrase, slotIdx = 0) => (p.slots ? p.slots[slotIdx]?.audio : p.audio) ?? ''
+
+/** Hands-free playlist for a list of phrases. */
+export const toPlaylist = (phrases: Phrase[]) =>
+  phrases.map((p) => ({ key: phraseAudio(p), title: p.slots ? p.slots[0].fullEn : p.en })).filter((i) => i.key)

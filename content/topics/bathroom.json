@@ -348,6 +348,126 @@
       "level": 1,
       "en": "Uh-oh, wet pants!",
       "vi": "Ối, ướt quần rồi!"
+    },
+    {
+      "id": "bathroom-031",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Pull down your pants.",
+      "vi": "Kéo quần xuống nào con."
+    },
+    {
+      "id": "bathroom-032",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's get some soap.",
+      "vi": "Mình lấy chút xà phòng nha."
+    },
+    {
+      "id": "bathroom-033",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Show me your ___.",
+      "vi": "Cho xem ___ của con nào.",
+      "slots": [
+        {
+          "en": "teeth",
+          "vi": "răng"
+        },
+        {
+          "en": "hands",
+          "vi": "tay"
+        },
+        {
+          "en": "tongue",
+          "vi": "lưỡi"
+        },
+        {
+          "en": "fingers",
+          "vi": "ngón tay"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-034",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's try the big toilet.",
+      "vi": "Mình thử ngồi bồn cầu lớn nha."
+    },
+    {
+      "id": "bathroom-035",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Put the ___ back, please.",
+      "vi": "Con để ___ lại chỗ cũ nha.",
+      "slots": [
+        {
+          "en": "toothbrush",
+          "vi": "bàn chải"
+        },
+        {
+          "en": "cup",
+          "vi": "ly"
+        },
+        {
+          "en": "towel",
+          "vi": "khăn"
+        },
+        {
+          "en": "soap",
+          "vi": "xà phòng"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-036",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's sing a song while we wash.",
+      "vi": "Mình vừa rửa vừa hát nha."
+    },
+    {
+      "id": "bathroom-037",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Is your diaper ___?",
+      "vi": "Tã con có ___ không?",
+      "slots": [
+        {
+          "en": "wet",
+          "vi": "ướt"
+        },
+        {
+          "en": "dirty",
+          "vi": "dơ"
+        },
+        {
+          "en": "dry",
+          "vi": "khô"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-038",
+      "speaker": "child",
+      "level": 1,
+      "en": "Clean hands!",
+      "vi": "Tay sạch rồi!"
+    },
+    {
+      "id": "bathroom-039",
+      "speaker": "child",
+      "level": 1,
+      "en": "I went potty!",
+      "vi": "Con đi vệ sinh rồi!"
+    },
+    {
+      "id": "bathroom-040",
+      "speaker": "child",
+      "level": 1,
+      "en": "Stinky!",
+      "vi": "Thúi quá!"
     }
   ],
   "dialogues": [

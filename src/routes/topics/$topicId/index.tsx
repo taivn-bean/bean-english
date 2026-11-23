@@ -6,8 +6,9 @@ import { useTranslation } from 'react-i18next'
 import { z } from 'zod'
 import { PageHeader } from '../../../components/Layout'
 import { PhraseCard } from '../../../components/PhraseCard'
+import { PlayAllButton } from '../../../components/PlaylistBar'
 import { useFavorites, useProgressMap } from '../../../hooks/useProfile'
-import { topicQuery } from '../../../lib/content'
+import { topicQuery, toPlaylist } from '../../../lib/content'
 import { useSettings } from '../../../lib/settings'
 
 export const Route = createFileRoute('/topics/$topicId/')({
@@ -28,7 +29,12 @@ function TopicPage() {
 
   return (
     <>
-      <PageHeader back title={lang === 'vi' ? topic.titleVi : topic.titleEn} subtitle={lang === 'vi' ? topic.titleEn : topic.titleVi} />
+      <PageHeader
+        back
+        title={lang === 'vi' ? topic.titleVi : topic.titleEn}
+        subtitle={lang === 'vi' ? topic.titleEn : topic.titleVi}
+        right={<PlayAllButton id={`topic:${topicId}`} label={lang === 'vi' ? topic.titleVi : topic.titleEn} items={toPlaylist(topic.phrases)} />}
+      />
 
       <div className="sticky top-[calc(max(env(safe-area-inset-top),0.75rem)+3.5rem)] z-10 bg-bg/90 px-4 pb-3 backdrop-blur">
         <div className="grid grid-cols-2 rounded-full bg-leaf-100 p-1" role="tablist">

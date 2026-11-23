@@ -256,6 +256,131 @@
       "level": 1,
       "en": "Quack, quack!",
       "vi": "Cạp cạp!"
+    },
+    {
+      "id": "animals-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Look at the baby ___!",
+      "vi": "Nhìn ___ con kìa!",
+      "slots": [
+        {
+          "en": "duck",
+          "vi": "vịt"
+        },
+        {
+          "en": "cow",
+          "vi": "bò"
+        },
+        {
+          "en": "monkey",
+          "vi": "khỉ"
+        },
+        {
+          "en": "elephant",
+          "vi": "voi"
+        }
+      ]
+    },
+    {
+      "id": "animals-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's swim like a ___!",
+      "vi": "Mình bơi giống con ___ nào!",
+      "slots": [
+        {
+          "en": "fish",
+          "vi": "cá"
+        },
+        {
+          "en": "duck",
+          "vi": "vịt"
+        },
+        {
+          "en": "turtle",
+          "vi": "rùa"
+        },
+        {
+          "en": "frog",
+          "vi": "ếch"
+        }
+      ]
+    },
+    {
+      "id": "animals-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How many ___ can you see?",
+      "vi": "Con thấy có mấy con ___?",
+      "slots": [
+        {
+          "en": "ducks",
+          "vi": "vịt"
+        },
+        {
+          "en": "birds",
+          "vi": "chim"
+        },
+        {
+          "en": "fish",
+          "vi": "cá"
+        },
+        {
+          "en": "cows",
+          "vi": "bò"
+        }
+      ]
+    },
+    {
+      "id": "animals-024",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Look, the doggy is wagging his tail!",
+      "vi": "Nhìn nè, cún đang vẫy đuôi kìa!"
+    },
+    {
+      "id": "animals-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's go to the zoo!",
+      "vi": "Mình đi sở thú nha!"
+    },
+    {
+      "id": "animals-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Wash your hands after petting.",
+      "vi": "Vuốt thú cưng xong nhớ rửa tay nha."
+    },
+    {
+      "id": "animals-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "The bee says buzz.",
+      "vi": "Con ong kêu vo ve."
+    },
+    {
+      "id": "animals-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "Oink, oink!",
+      "ipa": "/ɔɪŋk ɔɪŋk/",
+      "vi": "Ủn ỉn!"
+    },
+    {
+      "id": "animals-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "Baa, baa!",
+      "vi": "Be be!"
+    },
+    {
+      "id": "animals-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "Hi, doggy!",
+      "vi": "Chào cún!"
     }
   ],
   "dialogues": [

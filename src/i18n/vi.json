@@ -1,9 +1,29 @@
 {
-  "app": { "name": "Bean English", "tagline": "Nói tiếng Anh cùng bé mỗi ngày" },
-  "nav": { "topics": "Chủ đề", "favorites": "Yêu thích", "progress": "Tiến độ", "settings": "Cài đặt" },
+  "app": {
+    "name": "Bean English",
+    "tagline": "Nói tiếng Anh cùng bé mỗi ngày"
+  },
+  "nav": {
+    "topics": "Chủ đề",
+    "favorites": "Yêu thích",
+    "progress": "Tiến độ",
+    "settings": "Cài đặt",
+    "search": "Tìm"
+  },
   "home": {
     "greeting": "Hôm nay mình nói gì với {{name}}?",
-    "learned": "{{count}}/{{total}} câu"
+    "learned": "{{count}}/{{total}} câu",
+    "suggested": "Gợi ý lúc này",
+    "todayPicks": "3 câu cho {{period}}",
+    "allTopics": "Tất cả chủ đề",
+    "searchPlaceholder": "Tìm câu… (vd: đói, tắm, sleep)",
+    "period": {
+      "morning": "buổi sáng",
+      "noon": "buổi trưa",
+      "afternoon": "buổi chiều",
+      "evening": "buổi tối",
+      "night": "đêm nay"
+    }
   },
   "topic": {
     "phrases": "Mẫu câu",
@@ -18,7 +38,13 @@
     "childSaid": "Bé nói được",
     "swapWord": "Đổi từ"
   },
-  "dialogue": { "playAll": "Phát cả đoạn", "stop": "Dừng", "mom": "Mẹ", "dad": "Ba", "child": "Bé" },
+  "dialogue": {
+    "playAll": "Phát cả đoạn",
+    "stop": "Dừng",
+    "mom": "Mẹ",
+    "dad": "Ba",
+    "child": "Bé"
+  },
   "favorites": {
     "title": "Câu yêu thích",
     "empty": "Chưa có câu yêu thích — bấm ⭐ ở câu bất kỳ để lưu lại."
@@ -54,6 +80,38 @@
     "steps": "Mở bằng Safari → bấm nút Chia sẻ (□↑) → chọn \"Thêm vào MH chính\". Sau đó mở app từ biểu tượng để dùng offline.",
     "dismiss": "Để sau"
   },
-  "update": { "available": "Có nội dung mới", "reload": "Cập nhật", "offlineReady": "Đã có thể dùng offline 🎉" },
-  "common": { "back": "Quay lại", "loading": "Đang tải…", "error": "Không tải được dữ liệu", "retry": "Thử lại", "defaultChild": "Bé" }
+  "update": {
+    "available": "Có nội dung mới",
+    "reload": "Cập nhật",
+    "offlineReady": "Đã có thể dùng offline 🎉"
+  },
+  "common": {
+    "back": "Quay lại",
+    "loading": "Đang tải…",
+    "error": "Không tải được dữ liệu",
+    "retry": "Thử lại",
+    "defaultChild": "Bé"
+  },
+  "search": {
+    "title": "Tìm câu",
+    "placeholder": "Gõ tiếng Việt hoặc tiếng Anh",
+    "hint": "Ví dụ: đói, đánh răng, ngủ, \"come here\"",
+    "noResults": "Không tìm thấy câu nào cho \"{{q}}\"",
+    "results": "{{count}} câu"
+  },
+  "playlist": {
+    "playAll": "Nghe hết",
+    "stop": "Dừng",
+    "loop": "Lặp lại",
+    "nowPlaying": "Đang phát"
+  },
+  "backup": {
+    "title": "Sao lưu dữ liệu",
+    "desc": "Lưu hồ sơ bé, tiến độ và câu yêu thích ra file. Nên sao lưu định kỳ vì iPhone có thể tự xoá dữ liệu web.",
+    "export": "Xuất file sao lưu",
+    "import": "Khôi phục từ file",
+    "importConfirm": "Thay toàn bộ dữ liệu hiện tại bằng bản sao lưu ngày {{date}}?",
+    "imported": "Đã khôi phục dữ liệu ✓",
+    "invalid": "File không hợp lệ"
+  }
 }

@@ -1,4 +1,6 @@
 [
+  {"id": "daily-talk", "order": -1, "icon": "message-circle-more", "titleEn": "Everyday talk", "titleVi": "Câu nói hằng ngày"},
+  {"id": "questions-answers", "order": 0, "icon": "circle-question-mark", "titleEn": "Questions & answers", "titleVi": "Hỏi & đáp"},
   {"id": "wake-up", "order": 1, "icon": "sunrise", "titleEn": "Waking up", "titleVi": "Thức dậy"},
   {"id": "bathroom", "order": 2, "icon": "toothbrush", "titleEn": "Teeth & potty", "titleVi": "Đánh răng & đi vệ sinh"},
   {"id": "mealtime", "order": 3, "icon": "utensils", "titleEn": "Mealtime", "titleVi": "Giờ ăn"},

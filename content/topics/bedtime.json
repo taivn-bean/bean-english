@@ -101,7 +101,44 @@
     { "id": "bedtime-027", "speaker": "parent", "level": 3, "en": "I'll leave the door open a little.", "vi": "Để cửa mở hé một chút nha con." },
     { "id": "bedtime-028", "speaker": "child", "level": 1, "en": "Night-night!", "vi": "Ngủ ngon nha!" },
     { "id": "bedtime-029", "speaker": "child", "level": 1, "en": "Read this one!", "vi": "Đọc cuốn này đi!" },
-    { "id": "bedtime-030", "speaker": "child", "level": 1, "en": "Light on, please.", "vi": "Bật đèn cho con." }
+    { "id": "bedtime-030", "speaker": "child", "level": 1, "en": "Light on, please.", "vi": "Bật đèn cho con." },
+    { "id": "bedtime-031", "speaker": "parent", "level": 1, "en": "Are you sleepy?", "vi": "Con buồn ngủ chưa?" },
+    {
+      "id": "bedtime-032", "speaker": "parent", "level": 2,
+      "en": "Give ___ a goodnight kiss.", "vi": "Thơm ___ chúc ngủ ngon đi con.",
+      "slots": [
+        { "en": "Daddy", "vi": "ba" },
+        { "en": "Mommy", "vi": "mẹ" },
+        { "en": "Grandma", "vi": "bà" },
+        { "en": "teddy", "vi": "gấu bông" }
+      ]
+    },
+    {
+      "id": "bedtime-033", "speaker": "parent", "level": 2,
+      "en": "Where's your ___? Let's find it.", "vi": "Con để ___ đâu rồi? Mình tìm nha.",
+      "slots": [
+        { "en": "teddy", "vi": "gấu bông" },
+        { "en": "pillow", "vi": "gối" },
+        { "en": "blanket", "vi": "mền" },
+        { "en": "bunny", "vi": "thỏ bông" }
+      ]
+    },
+    {
+      "id": "bedtime-034", "speaker": "parent", "level": 2,
+      "en": "Let's put ___ to bed.", "vi": "Mình cho ___ đi ngủ nha.",
+      "slots": [
+        { "en": "teddy", "vi": "gấu bông" },
+        { "en": "your dolly", "vi": "búp bê" },
+        { "en": "bunny", "vi": "thỏ bông" },
+        { "en": "the toys", "vi": "đồ chơi" }
+      ]
+    },
+    { "id": "bedtime-035", "speaker": "parent", "level": 1, "en": "Hugs and kisses!", "vi": "Ôm một cái, thơm một cái nè!" },
+    { "id": "bedtime-036", "speaker": "parent", "level": 2, "en": "Rest your head on the pillow.", "vi": "Ngả đầu lên gối nha con." },
+    { "id": "bedtime-037", "speaker": "parent", "level": 2, "en": "I'll check on you soon.", "vi": "Chút xíu nữa vô coi con nha." },
+    { "id": "bedtime-038", "speaker": "child", "level": 2, "en": "Sing a song, please!", "vi": "Hát cho con nghe đi!" },
+    { "id": "bedtime-039", "speaker": "child", "level": 1, "en": "One more hug!", "vi": "Ôm con thêm cái nữa!" },
+    { "id": "bedtime-040", "speaker": "child", "level": 1, "en": "Door open, please!", "vi": "Mở cửa ra cho con nha!" }
   ],
   "dialogues": [
     {

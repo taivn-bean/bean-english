@@ -104,7 +104,42 @@
     { "id": "bath-time-027", "speaker": "parent", "level": 2, "en": "Arms out for the towel!", "vi": "Dang tay ra quấn khăn nào!" },
     { "id": "bath-time-028", "speaker": "child", "level": 1, "en": "More bubbles!", "vi": "Thêm bong bóng nữa!" },
     { "id": "bath-time-029", "speaker": "child", "level": 1, "en": "Bye-bye, water!", "vi": "Bái bai nước!" },
-    { "id": "bath-time-030", "speaker": "child", "level": 1, "en": "Too cold!", "vi": "Lạnh quá!" }
+    { "id": "bath-time-030", "speaker": "child", "level": 1, "en": "Too cold!", "vi": "Lạnh quá!" },
+    { "id": "bath-time-031", "speaker": "parent", "level": 2, "en": "Let me check the water.", "vi": "Để thử nước coi ấm chưa nha." },
+    { "id": "bath-time-032", "speaker": "parent", "level": 1, "en": "Time to rinse!", "vi": "Xả nước cho sạch nha!" },
+    { "id": "bath-time-033", "speaker": "parent", "level": 1, "en": "Lean back, please.", "vi": "Ngả đầu ra sau nha con." },
+    {
+      "id": "bath-time-034", "speaker": "parent", "level": 2,
+      "en": "Can you fill the ___?", "vi": "Con đổ đầy nước vô ___ được không?",
+      "slots": [
+        { "en": "cup", "vi": "cái ly" },
+        { "en": "bucket", "vi": "cái xô" },
+        { "en": "bottle", "vi": "cái chai" }
+      ]
+    },
+    {
+      "id": "bath-time-035", "speaker": "parent", "level": 2,
+      "en": "Look, the ___ is floating!", "vi": "Nhìn kìa, ___ nổi lên rồi!",
+      "slots": [
+        { "en": "duck", "vi": "con vịt" },
+        { "en": "boat", "vi": "chiếc thuyền" },
+        { "en": "ball", "vi": "trái banh" },
+        { "en": "sponge", "vi": "miếng bọt biển" }
+      ]
+    },
+    {
+      "id": "bath-time-036", "speaker": "parent", "level": 2,
+      "en": "Let's rinse off the ___.", "vi": "Mình xả sạch ___ nha.",
+      "slots": [
+        { "en": "soap", "vi": "xà bông" },
+        { "en": "bubbles", "vi": "bọt" },
+        { "en": "shampoo", "vi": "dầu gội" }
+      ]
+    },
+    { "id": "bath-time-037", "speaker": "parent", "level": 2, "en": "Your fingers are all wrinkly!", "ipa": "/jɔɹ ˈfɪŋɡɚz ɑɹ ɔl ˈɹɪŋkli/", "vi": "Ngón tay con nhăn nheo hết rồi kìa!" },
+    { "id": "bath-time-038", "speaker": "child", "level": 2, "en": "Soap in my eyes!", "vi": "Xà bông vô mắt con!" },
+    { "id": "bath-time-039", "speaker": "child", "level": 1, "en": "I'm all clean!", "vi": "Con sạch rồi!" },
+    { "id": "bath-time-040", "speaker": "child", "level": 1, "en": "Wrinkly fingers!", "ipa": "/ˈɹɪŋkli ˈfɪŋɡɚz/", "vi": "Ngón tay nhăn nheo!" }
   ],
   "dialogues": [
     {

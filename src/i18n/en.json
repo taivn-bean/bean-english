@@ -1,9 +1,29 @@
 {
-  "app": { "name": "Bean English", "tagline": "Speak English with your little one every day" },
-  "nav": { "topics": "Topics", "favorites": "Favorites", "progress": "Progress", "settings": "Settings" },
+  "app": {
+    "name": "Bean English",
+    "tagline": "Speak English with your little one every day"
+  },
+  "nav": {
+    "topics": "Topics",
+    "favorites": "Favorites",
+    "progress": "Progress",
+    "settings": "Settings",
+    "search": "Search"
+  },
   "home": {
     "greeting": "What shall we say to {{name}} today?",
-    "learned": "{{count}}/{{total}} phrases"
+    "learned": "{{count}}/{{total}} phrases",
+    "suggested": "Right now",
+    "todayPicks": "3 phrases for this {{period}}",
+    "allTopics": "All topics",
+    "searchPlaceholder": "Search phrases… (e.g. hungry, bath)",
+    "period": {
+      "morning": "morning",
+      "noon": "noon",
+      "afternoon": "afternoon",
+      "evening": "evening",
+      "night": "night"
+    }
   },
   "topic": {
     "phrases": "Phrases",
@@ -18,7 +38,13 @@
     "childSaid": "Child said it",
     "swapWord": "Swap word"
   },
-  "dialogue": { "playAll": "Play all", "stop": "Stop", "mom": "Mom", "dad": "Dad", "child": "Child" },
+  "dialogue": {
+    "playAll": "Play all",
+    "stop": "Stop",
+    "mom": "Mom",
+    "dad": "Dad",
+    "child": "Child"
+  },
   "favorites": {
     "title": "Favorite phrases",
     "empty": "No favorites yet — tap ⭐ on any phrase to save it."
@@ -54,6 +80,38 @@
     "steps": "Open in Safari → tap Share (□↑) → \"Add to Home Screen\". Then open the app from its icon to use it offline.",
     "dismiss": "Later"
   },
-  "update": { "available": "New content available", "reload": "Update", "offlineReady": "Ready to work offline 🎉" },
-  "common": { "back": "Back", "loading": "Loading…", "error": "Couldn't load data", "retry": "Retry", "defaultChild": "Kiddo" }
+  "update": {
+    "available": "New content available",
+    "reload": "Update",
+    "offlineReady": "Ready to work offline 🎉"
+  },
+  "common": {
+    "back": "Back",
+    "loading": "Loading…",
+    "error": "Couldn't load data",
+    "retry": "Retry",
+    "defaultChild": "Kiddo"
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Type English or Vietnamese",
+    "hint": "e.g. hungry, brush teeth, sleep, \"đói\"",
+    "noResults": "No phrases found for \"{{q}}\"",
+    "results": "{{count}} phrases"
+  },
+  "playlist": {
+    "playAll": "Play all",
+    "stop": "Stop",
+    "loop": "Repeat",
+    "nowPlaying": "Now playing"
+  },
+  "backup": {
+    "title": "Backup",
+    "desc": "Save child profiles, progress and favorites to a file. Back up regularly — iPhone may clear web data.",
+    "export": "Export backup",
+    "import": "Restore from file",
+    "importConfirm": "Replace all current data with the backup from {{date}}?",
+    "imported": "Data restored ✓",
+    "invalid": "Invalid file"
+  }
 }

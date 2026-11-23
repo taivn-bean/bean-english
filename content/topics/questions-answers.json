@@ -1,0 +1,534 @@
+{
+  "topicId": "questions-answers",
+  "phrases": [
+    {
+      "id": "questions-answers-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "What's this?",
+      "vi": "Cái gì đây con?"
+    },
+    {
+      "id": "questions-answers-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What color is it?",
+      "vi": "Nó màu gì vậy con?"
+    },
+    {
+      "id": "questions-answers-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Where is the ___?",
+      "vi": "___ đâu rồi con?",
+      "slots": [
+        {
+          "en": "ball",
+          "vi": "Trái banh"
+        },
+        {
+          "en": "cat",
+          "vi": "Con mèo"
+        },
+        {
+          "en": "car",
+          "vi": "Xe hơi"
+        },
+        {
+          "en": "teddy bear",
+          "vi": "Gấu bông"
+        },
+        {
+          "en": "shoe",
+          "vi": "Chiếc giày"
+        }
+      ]
+    },
+    {
+      "id": "questions-answers-004",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Who is that?",
+      "vi": "Ai đó con?"
+    },
+    {
+      "id": "questions-answers-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What do you want?",
+      "vi": "Con muốn gì nè?"
+    },
+    {
+      "id": "questions-answers-006",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Which one?",
+      "vi": "Cái nào con?"
+    },
+    {
+      "id": "questions-answers-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How many ___ are there?",
+      "vi": "Có mấy ___ vậy con?",
+      "slots": [
+        {
+          "en": "birds",
+          "vi": "con chim"
+        },
+        {
+          "en": "cars",
+          "vi": "chiếc xe"
+        },
+        {
+          "en": "apples",
+          "vi": "trái táo"
+        },
+        {
+          "en": "ducks",
+          "vi": "con vịt"
+        }
+      ]
+    },
+    {
+      "id": "questions-answers-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Is it big or small?",
+      "vi": "Nó to hay nhỏ vậy con?"
+    },
+    {
+      "id": "questions-answers-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you like it?",
+      "vi": "Con thích không?"
+    },
+    {
+      "id": "questions-answers-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "How do you feel?",
+      "vi": "Con thấy sao rồi?"
+    },
+    {
+      "id": "questions-answers-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What did you do today?",
+      "vi": "Hôm nay con làm gì nè?"
+    },
+    {
+      "id": "questions-answers-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What's the ___ doing?",
+      "vi": "___ đang làm gì vậy con?",
+      "slots": [
+        {
+          "en": "dog",
+          "vi": "Con chó"
+        },
+        {
+          "en": "baby",
+          "vi": "Em bé"
+        },
+        {
+          "en": "bird",
+          "vi": "Con chim"
+        },
+        {
+          "en": "cat",
+          "vi": "Con mèo"
+        }
+      ]
+    },
+    {
+      "id": "questions-answers-013",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Is this a ___?",
+      "vi": "Đây có phải ___ không?",
+      "slots": [
+        {
+          "en": "cat",
+          "vi": "con mèo"
+        },
+        {
+          "en": "ball",
+          "vi": "trái banh"
+        },
+        {
+          "en": "banana",
+          "vi": "trái chuối"
+        },
+        {
+          "en": "truck",
+          "vi": "xe tải"
+        }
+      ]
+    },
+    {
+      "id": "questions-answers-014",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What are you doing?",
+      "vi": "Con đang làm gì đó?"
+    },
+    {
+      "id": "questions-answers-015",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Whose is this?",
+      "vi": "Cái này của ai?"
+    },
+    {
+      "id": "questions-answers-016",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Do you want this one or that one?",
+      "vi": "Con muốn cái này hay cái kia?"
+    },
+    {
+      "id": "questions-answers-017",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What's in the ___?",
+      "vi": "Trong ___ có gì vậy con?",
+      "slots": [
+        {
+          "en": "box",
+          "vi": "hộp"
+        },
+        {
+          "en": "bag",
+          "vi": "túi"
+        },
+        {
+          "en": "cup",
+          "vi": "ly"
+        },
+        {
+          "en": "basket",
+          "vi": "giỏ"
+        }
+      ]
+    },
+    {
+      "id": "questions-answers-018",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What's your favorite ___?",
+      "vi": "Con thích ___ gì nhất?",
+      "slots": [
+        {
+          "en": "food",
+          "vi": "món"
+        },
+        {
+          "en": "song",
+          "vi": "bài hát"
+        },
+        {
+          "en": "animal",
+          "vi": "con vật"
+        },
+        {
+          "en": "toy",
+          "vi": "đồ chơi"
+        }
+      ]
+    },
+    {
+      "id": "questions-answers-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "It's a ___.",
+      "vi": "Đó là ___.",
+      "slots": [
+        {
+          "en": "ball",
+          "vi": "trái banh"
+        },
+        {
+          "en": "dog",
+          "vi": "con chó"
+        },
+        {
+          "en": "car",
+          "vi": "xe hơi"
+        },
+        {
+          "en": "book",
+          "vi": "cuốn sách"
+        },
+        {
+          "en": "flower",
+          "vi": "bông hoa"
+        }
+      ]
+    },
+    {
+      "id": "questions-answers-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "That one!",
+      "vi": "Cái kia!"
+    },
+    {
+      "id": "questions-answers-021",
+      "speaker": "child",
+      "level": 1,
+      "en": "Yes, I do!",
+      "vi": "Dạ, con thích!"
+    },
+    {
+      "id": "questions-answers-022",
+      "speaker": "child",
+      "level": 1,
+      "en": "Not this one.",
+      "vi": "Không phải cái này."
+    },
+    {
+      "id": "questions-answers-023",
+      "speaker": "child",
+      "level": 1,
+      "en": "I don't know.",
+      "vi": "Con không biết."
+    },
+    {
+      "id": "questions-answers-024",
+      "speaker": "child",
+      "level": 1,
+      "en": "I like it!",
+      "vi": "Con thích lắm!"
+    },
+    {
+      "id": "questions-answers-025",
+      "speaker": "child",
+      "level": 1,
+      "en": "Over there!",
+      "vi": "Ở đằng kia!"
+    },
+    {
+      "id": "questions-answers-026",
+      "speaker": "child",
+      "level": 2,
+      "en": "I see ___.",
+      "vi": "Con thấy ___.",
+      "slots": [
+        {
+          "en": "two birds",
+          "vi": "hai con chim"
+        },
+        {
+          "en": "three cars",
+          "vi": "ba chiếc xe"
+        },
+        {
+          "en": "one duck",
+          "vi": "một con vịt"
+        },
+        {
+          "en": "four apples",
+          "vi": "bốn trái táo"
+        }
+      ]
+    },
+    {
+      "id": "questions-answers-027",
+      "speaker": "child",
+      "level": 1,
+      "en": "The ___ one!",
+      "vi": "Cái ___ đó!",
+      "slots": [
+        {
+          "en": "big",
+          "vi": "to"
+        },
+        {
+          "en": "small",
+          "vi": "nhỏ"
+        },
+        {
+          "en": "red",
+          "vi": "màu đỏ"
+        },
+        {
+          "en": "blue",
+          "vi": "màu xanh"
+        }
+      ]
+    },
+    {
+      "id": "questions-answers-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "That's ___!",
+      "vi": "Đó là ___!",
+      "slots": [
+        {
+          "en": "Daddy",
+          "vi": "ba"
+        },
+        {
+          "en": "Mommy",
+          "vi": "mẹ"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "my friend",
+          "vi": "bạn con"
+        }
+      ]
+    },
+    {
+      "id": "questions-answers-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "It's mine!",
+      "vi": "Của con!"
+    },
+    {
+      "id": "questions-answers-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "He's ___!",
+      "vi": "Nó ___ đó!",
+      "slots": [
+        {
+          "en": "sleeping",
+          "vi": "đang ngủ"
+        },
+        {
+          "en": "eating",
+          "vi": "đang ăn"
+        },
+        {
+          "en": "running",
+          "vi": "đang chạy"
+        },
+        {
+          "en": "flying",
+          "vi": "đang bay"
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "questions-answers-d01",
+      "titleEn": "What's this?",
+      "titleVi": "Cái gì đây?",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "What's this?",
+          "vi": "Cái gì đây con?"
+        },
+        {
+          "speaker": "child",
+          "en": "It's a dog.",
+          "vi": "Đó là con chó."
+        },
+        {
+          "speaker": "dad",
+          "en": "What's the dog doing?",
+          "vi": "Con chó đang làm gì vậy con?"
+        },
+        {
+          "speaker": "child",
+          "en": "He's sleeping!",
+          "vi": "Nó đang ngủ đó!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Shh! Do you like it?",
+          "vi": "Suỵt! Con thích không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes, I do!",
+          "vi": "Dạ, con thích!"
+        }
+      ]
+    },
+    {
+      "id": "questions-answers-d02",
+      "titleEn": "Which one?",
+      "titleVi": "Cái nào?",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Do you want this one or that one?",
+          "vi": "Con muốn cái này hay cái kia?"
+        },
+        {
+          "speaker": "child",
+          "en": "That one!",
+          "vi": "Cái kia!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Is it big or small?",
+          "vi": "Nó to hay nhỏ vậy con?"
+        },
+        {
+          "speaker": "child",
+          "en": "Big!",
+          "vi": "To!"
+        },
+        {
+          "speaker": "mom",
+          "en": "What color is it?",
+          "vi": "Nó màu gì vậy con?"
+        },
+        {
+          "speaker": "child",
+          "en": "Red!",
+          "vi": "Màu đỏ!"
+        }
+      ]
+    },
+    {
+      "id": "questions-answers-d03",
+      "titleEn": "How was your day?",
+      "titleVi": "Hôm nay của con",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "What did you do today?",
+          "vi": "Hôm nay con làm gì nè?"
+        },
+        {
+          "speaker": "child",
+          "en": "I don't know.",
+          "vi": "Con không biết."
+        },
+        {
+          "speaker": "dad",
+          "en": "Did you play with your friends?",
+          "vi": "Con có chơi với các bạn không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes!",
+          "vi": "Dạ có!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Did you have fun?",
+          "vi": "Con chơi vui không?"
+        },
+        {
+          "speaker": "child",
+          "en": "So much fun!",
+          "vi": "Vui lắm!"
+        }
+      ]
+    }
+  ]
+}

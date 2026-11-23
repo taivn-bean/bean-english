@@ -244,6 +244,126 @@
       "level": 1,
       "en": "Achoo!",
       "vi": "Hắt xì!"
+    },
+    {
+      "id": "feeling-sick-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's take your temperature.",
+      "vi": "Mình cặp nhiệt độ nha con."
+    },
+    {
+      "id": "feeling-sick-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Open wide. Say ahh.",
+      "vi": "Há miệng ra. Nói aaa nào."
+    },
+    {
+      "id": "feeling-sick-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let me feel your ___.",
+      "vi": "Để sờ ___ con coi nào.",
+      "slots": [
+        {
+          "en": "forehead",
+          "vi": "trán"
+        },
+        {
+          "en": "tummy",
+          "vi": "bụng"
+        },
+        {
+          "en": "cheeks",
+          "vi": "má"
+        }
+      ]
+    },
+    {
+      "id": "feeling-sick-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Blow your nose. Good job!",
+      "vi": "Con hỉ mũi nè. Giỏi lắm!"
+    },
+    {
+      "id": "feeling-sick-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "This medicine tastes like ___.",
+      "vi": "Thuốc này có vị ___ nè.",
+      "slots": [
+        {
+          "en": "grapes",
+          "vi": "nho"
+        },
+        {
+          "en": "strawberry",
+          "vi": "dâu"
+        },
+        {
+          "en": "orange",
+          "vi": "cam"
+        },
+        {
+          "en": "cherry",
+          "vi": "anh đào"
+        }
+      ]
+    },
+    {
+      "id": "feeling-sick-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's stay home and ___.",
+      "vi": "Mình ở nhà ___ nha.",
+      "slots": [
+        {
+          "en": "rest",
+          "vi": "nghỉ ngơi"
+        },
+        {
+          "en": "sleep",
+          "vi": "ngủ"
+        },
+        {
+          "en": "read books",
+          "vi": "đọc sách"
+        },
+        {
+          "en": "cuddle",
+          "vi": "ôm nhau"
+        }
+      ]
+    },
+    {
+      "id": "feeling-sick-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You're being so brave.",
+      "vi": "Con dũng cảm lắm nè."
+    },
+    {
+      "id": "feeling-sick-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "My nose is runny.",
+      "vi": "Con bị sổ mũi."
+    },
+    {
+      "id": "feeling-sick-029",
+      "speaker": "child",
+      "level": 2,
+      "en": "I want to lie down.",
+      "vi": "Con muốn nằm."
+    },
+    {
+      "id": "feeling-sick-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "More hugs, please.",
+      "vi": "Ôm con nữa đi."
     }
   ],
   "dialogues": [

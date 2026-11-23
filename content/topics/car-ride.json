@@ -236,6 +236,126 @@
           "vi": "xe tải"
         }
       ]
+    },
+    {
+      "id": "car-ride-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Look out the window!",
+      "vi": "Nhìn ra cửa sổ kìa con!"
+    },
+    {
+      "id": "car-ride-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I spy something ___!",
+      "vi": "Có một thứ màu ___, con đoán coi!",
+      "slots": [
+        {
+          "en": "red",
+          "vi": "đỏ"
+        },
+        {
+          "en": "blue",
+          "vi": "xanh dương"
+        },
+        {
+          "en": "yellow",
+          "vi": "vàng"
+        },
+        {
+          "en": "green",
+          "vi": "xanh lá"
+        }
+      ]
+    },
+    {
+      "id": "car-ride-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Wave bye-bye to ___!",
+      "vi": "Vẫy tay chào ___ đi con!",
+      "slots": [
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "the doggy",
+          "vi": "con cún"
+        },
+        {
+          "en": "our house",
+          "vi": "nhà mình"
+        }
+      ]
+    },
+    {
+      "id": "car-ride-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "We're going over a ___!",
+      "vi": "Mình đang chạy qua ___ nè!",
+      "slots": [
+        {
+          "en": "bridge",
+          "vi": "cây cầu"
+        },
+        {
+          "en": "hill",
+          "vi": "con dốc"
+        },
+        {
+          "en": "big bump",
+          "vi": "cái gờ"
+        }
+      ]
+    },
+    {
+      "id": "car-ride-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's sing in the car!",
+      "vi": "Mình hát trên xe nha!"
+    },
+    {
+      "id": "car-ride-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "We're home! Let's get out.",
+      "vi": "Tới nhà rồi! Mình xuống xe nha."
+    },
+    {
+      "id": "car-ride-027",
+      "speaker": "parent",
+      "level": 3,
+      "en": "In the parking lot, hold my hand.",
+      "vi": "Ở bãi đậu xe thì nắm tay nha con."
+    },
+    {
+      "id": "car-ride-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "Where are we going?",
+      "vi": "Mình đi đâu vậy?"
+    },
+    {
+      "id": "car-ride-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm buckled!",
+      "vi": "Con cài dây rồi!"
+    },
+    {
+      "id": "car-ride-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "Bye-bye, house!",
+      "vi": "Tạm biệt nhà nha!"
     }
   ],
   "dialogues": [

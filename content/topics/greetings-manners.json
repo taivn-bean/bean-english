@@ -260,6 +260,134 @@
       "level": 1,
       "en": "Yes, please!",
       "vi": "Dạ, con muốn!"
+    },
+    {
+      "id": "greetings-manners-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's say bye to ___.",
+      "vi": "Con chào tạm biệt ___ đi nào.",
+      "slots": [
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "your friend",
+          "vi": "bạn"
+        },
+        {
+          "en": "the bus driver",
+          "vi": "chú tài xế"
+        }
+      ]
+    },
+    {
+      "id": "greetings-manners-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's hold the door for ___.",
+      "vi": "Mình giữ cửa cho ___ nha.",
+      "slots": [
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "the baby",
+          "vi": "em bé"
+        },
+        {
+          "en": "your friend",
+          "vi": "bạn"
+        }
+      ]
+    },
+    {
+      "id": "greetings-manners-023",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Look, ___ is here! Let's say hi.",
+      "vi": "Kìa, ___ tới rồi! Con chào đi nào.",
+      "slots": [
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        },
+        {
+          "en": "Auntie",
+          "vi": "dì"
+        },
+        {
+          "en": "Uncle",
+          "vi": "chú"
+        },
+        {
+          "en": "your teacher",
+          "vi": "cô giáo"
+        }
+      ]
+    },
+    {
+      "id": "greetings-manners-024",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Ask nicely, please.",
+      "vi": "Con xin cho lễ phép nha."
+    },
+    {
+      "id": "greetings-manners-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Take it with two hands.",
+      "vi": "Con nhận bằng hai tay nha."
+    },
+    {
+      "id": "greetings-manners-026",
+      "speaker": "parent",
+      "level": 2,
+      "en": "That was so kind!",
+      "vi": "Con dễ thương quá!"
+    },
+    {
+      "id": "greetings-manners-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Cover your mouth when you cough.",
+      "vi": "Ho thì che miệng lại nha con."
+    },
+    {
+      "id": "greetings-manners-028",
+      "speaker": "child",
+      "level": 1,
+      "en": "You're welcome!",
+      "vi": "Dạ, không có chi!"
+    },
+    {
+      "id": "greetings-manners-029",
+      "speaker": "child",
+      "level": 2,
+      "en": "Thank you very much!",
+      "vi": "Con cảm ơn nhiều lắm!"
+    },
+    {
+      "id": "greetings-manners-030",
+      "speaker": "child",
+      "level": 1,
+      "en": "Here you go!",
+      "vi": "Nè, con đưa nè!"
     }
   ],
   "dialogues": [

@@ -101,7 +101,43 @@
     },
     { "id": "safety-028", "speaker": "child", "level": 1, "en": "Wait for me!", "vi": "Đợi con với!" },
     { "id": "safety-029", "speaker": "child", "level": 1, "en": "Green light!", "vi": "Đèn xanh rồi!" },
-    { "id": "safety-030", "speaker": "child", "level": 1, "en": "Too high!", "vi": "Cao quá!" }
+    { "id": "safety-030", "speaker": "child", "level": 1, "en": "Too high!", "vi": "Cao quá!" },
+    { "id": "safety-031", "speaker": "parent", "level": 1, "en": "Let's buckle up!", "vi": "Mình cài dây an toàn nào!" },
+    { "id": "safety-032", "speaker": "parent", "level": 1, "en": "Helmet on, please.", "vi": "Đội mũ bảo hiểm vô nha con." },
+    { "id": "safety-033", "speaker": "parent", "level": 2, "en": "Fingers away from the door.", "vi": "Để tay xa cánh cửa ra nha con." },
+    { "id": "safety-034", "speaker": "parent", "level": 2, "en": "Only food goes in your mouth.", "vi": "Chỉ có đồ ăn mới bỏ vô miệng nha con." },
+    {
+      "id": "safety-035", "speaker": "parent", "level": 2,
+      "en": "Hold on tight to the ___.", "vi": "Nắm chặt ___ nha con.",
+      "slots": [
+        { "en": "handle", "vi": "tay cầm" },
+        { "en": "cart", "vi": "xe đẩy" },
+        { "en": "rope", "vi": "sợi dây" },
+        { "en": "swing", "vi": "dây xích đu" }
+      ]
+    },
+    {
+      "id": "safety-036", "speaker": "parent", "level": 2,
+      "en": "Let's walk on the ___.", "vi": "Mình đi trên ___ nha con.",
+      "slots": [
+        { "en": "sidewalk", "vi": "vỉa hè" },
+        { "en": "path", "vi": "lối đi" },
+        { "en": "crosswalk", "vi": "vạch qua đường" }
+      ]
+    },
+    {
+      "id": "safety-037", "speaker": "parent", "level": 3,
+      "en": "Let's wait for the ___ to stop.", "vi": "Mình đợi ___ dừng hẳn nha con.",
+      "slots": [
+        { "en": "car", "vi": "xe hơi" },
+        { "en": "bus", "vi": "xe buýt" },
+        { "en": "motorbike", "vi": "xe máy" },
+        { "en": "swing", "vi": "xích đu" }
+      ]
+    },
+    { "id": "safety-038", "speaker": "child", "level": 1, "en": "Seat belt on!", "vi": "Con cài dây rồi!" },
+    { "id": "safety-039", "speaker": "child", "level": 1, "en": "My helmet!", "vi": "Mũ bảo hiểm của con!" },
+    { "id": "safety-040", "speaker": "child", "level": 1, "en": "Be careful!", "vi": "Cẩn thận nha!" }
   ],
   "dialogues": [
     {

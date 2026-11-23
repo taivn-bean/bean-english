@@ -105,7 +105,42 @@
       ]
     },
     { "id": "feelings-love-029", "speaker": "child", "level": 1, "en": "I missed you!", "vi": "Con nhớ ba mẹ!" },
-    { "id": "feelings-love-030", "speaker": "child", "level": 1, "en": "Kiss, please!", "vi": "Thơm con đi!" }
+    { "id": "feelings-love-030", "speaker": "child", "level": 1, "en": "Kiss, please!", "vi": "Thơm con đi!" },
+    { "id": "feelings-love-031", "speaker": "parent", "level": 2, "en": "You were so brave!", "vi": "Con dũng cảm lắm luôn!" },
+    { "id": "feelings-love-032", "speaker": "parent", "level": 2, "en": "Let's dry your tears.", "vi": "Mình lau nước mắt nha con." },
+    {
+      "id": "feelings-love-033", "speaker": "parent", "level": 2,
+      "en": "I love your ___!", "vi": "Thích ___ của con ghê!",
+      "slots": [
+        { "en": "smile", "vi": "nụ cười" },
+        { "en": "hugs", "vi": "cái ôm" },
+        { "en": "giggles", "vi": "tiếng cười khúc khích" },
+        { "en": "kisses", "vi": "mấy cái thơm" }
+      ]
+    },
+    {
+      "id": "feelings-love-034", "speaker": "parent", "level": 2,
+      "en": "I love you ___!", "vi": "Thương con ___!",
+      "slots": [
+        { "en": "so much", "vi": "nhiều lắm" },
+        { "en": "to the moon", "vi": "tới trời luôn" },
+        { "en": "all the time", "vi": "hoài hoài" }
+      ]
+    },
+    { "id": "feelings-love-035", "speaker": "parent", "level": 2, "en": "You make me so happy!", "vi": "Có con vui ghê!" },
+    {
+      "id": "feelings-love-036", "speaker": "parent", "level": 2,
+      "en": "Let's do a ___ hug!", "vi": "Mình ôm ___ nha!",
+      "slots": [
+        { "en": "bear", "vi": "kiểu gấu thật chặt" },
+        { "en": "family", "vi": "cả nhà" },
+        { "en": "big", "vi": "thật chặt" }
+      ]
+    },
+    { "id": "feelings-love-037", "speaker": "parent", "level": 1, "en": "You're safe now.", "vi": "Con an toàn rồi nè." },
+    { "id": "feelings-love-038", "speaker": "child", "level": 2, "en": "I love you too!", "vi": "Con cũng thương ba mẹ!" },
+    { "id": "feelings-love-039", "speaker": "child", "level": 1, "en": "Don't go!", "vi": "Đừng đi mà!" },
+    { "id": "feelings-love-040", "speaker": "child", "level": 2, "en": "Stay with me, please.", "vi": "Ở lại với con đi." }
   ],
   "dialogues": [
     {

@@ -248,6 +248,122 @@
           "vi": "bánh mì"
         }
       ]
+    },
+    {
+      "id": "shopping-021",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's pick some ___.",
+      "vi": "Mình lựa ___ nha.",
+      "slots": [
+        {
+          "en": "apples",
+          "vi": "táo"
+        },
+        {
+          "en": "tomatoes",
+          "vi": "cà chua"
+        },
+        {
+          "en": "oranges",
+          "vi": "cam"
+        },
+        {
+          "en": "bananas",
+          "vi": "chuối"
+        }
+      ]
+    },
+    {
+      "id": "shopping-022",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's put it on the belt.",
+      "vi": "Mình để đồ lên băng chuyền nha."
+    },
+    {
+      "id": "shopping-023",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's make a list.",
+      "vi": "Mình ghi ra mấy món cần mua nha."
+    },
+    {
+      "id": "shopping-024",
+      "speaker": "parent",
+      "level": 2,
+      "en": "We have ___ at home.",
+      "vi": "Ở nhà mình còn ___ rồi.",
+      "slots": [
+        {
+          "en": "cookies",
+          "vi": "bánh quy"
+        },
+        {
+          "en": "milk",
+          "vi": "sữa"
+        },
+        {
+          "en": "bananas",
+          "vi": "chuối"
+        }
+      ]
+    },
+    {
+      "id": "shopping-025",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's wait in line.",
+      "vi": "Mình xếp hàng chờ nha."
+    },
+    {
+      "id": "shopping-026",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Let's go shopping!",
+      "vi": "Mình đi mua đồ nha!"
+    },
+    {
+      "id": "shopping-027",
+      "speaker": "parent",
+      "level": 2,
+      "en": "You can choose one ___.",
+      "vi": "Con được chọn một ___ thôi nha.",
+      "slots": [
+        {
+          "en": "cookie",
+          "vi": "cái bánh quy"
+        },
+        {
+          "en": "apple",
+          "vi": "trái táo"
+        },
+        {
+          "en": "balloon",
+          "vi": "trái bong bóng"
+        }
+      ]
+    },
+    {
+      "id": "shopping-028",
+      "speaker": "child",
+      "level": 2,
+      "en": "Is that for me?",
+      "vi": "Cái đó cho con hả?"
+    },
+    {
+      "id": "shopping-029",
+      "speaker": "child",
+      "level": 1,
+      "en": "Can I pay?",
+      "vi": "Con trả tiền được không?"
+    },
+    {
+      "id": "shopping-030",
+      "speaker": "child",
+      "level": 2,
+      "en": "I can carry it!",
+      "vi": "Con xách được!"
     }
   ],
   "dialogues": [

@@ -362,6 +362,130 @@
       "level": 1,
       "en": "Thank you, Mommy!",
       "vi": "Con cảm ơn mẹ!"
+    },
+    {
+      "id": "mealtime-031",
+      "speaker": "parent",
+      "level": 1,
+      "en": "___ is ready!",
+      "vi": "Ăn ___ thôi con!",
+      "slots": [
+        {
+          "en": "Breakfast",
+          "vi": "sáng"
+        },
+        {
+          "en": "Lunch",
+          "vi": "trưa"
+        },
+        {
+          "en": "Dinner",
+          "vi": "tối"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-032",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Small bites, please.",
+      "vi": "Ăn từng miếng nhỏ thôi con."
+    },
+    {
+      "id": "mealtime-033",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Are you all done?",
+      "vi": "Con ăn xong chưa?"
+    },
+    {
+      "id": "mealtime-034",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's cut the ___.",
+      "vi": "Mình cắt nhỏ ___ nha.",
+      "slots": [
+        {
+          "en": "apple",
+          "vi": "táo"
+        },
+        {
+          "en": "banana",
+          "vi": "chuối"
+        },
+        {
+          "en": "meat",
+          "vi": "thịt"
+        },
+        {
+          "en": "noodles",
+          "vi": "mì"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-035",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Drink some water.",
+      "vi": "Uống chút nước nha con."
+    },
+    {
+      "id": "mealtime-036",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Is your tummy full?",
+      "vi": "Bụng con no chưa?"
+    },
+    {
+      "id": "mealtime-037",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Mmm, this ___ smells so good!",
+      "vi": "Ừm, ___ này thơm quá!",
+      "slots": [
+        {
+          "en": "soup",
+          "ipa": "/mː ðɪs sup smɛlz soʊ ɡʊd/",
+          "vi": "canh"
+        },
+        {
+          "en": "rice",
+          "ipa": "/mː ðɪs ɹaɪs smɛlz soʊ ɡʊd/",
+          "vi": "cơm"
+        },
+        {
+          "en": "fish",
+          "ipa": "/mː ðɪs fɪʃ smɛlz soʊ ɡʊd/",
+          "vi": "cá"
+        },
+        {
+          "en": "chicken",
+          "ipa": "/mː ðɪs ˈtʃɪkən smɛlz soʊ ɡʊd/",
+          "vi": "gà"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-038",
+      "speaker": "child",
+      "level": 2,
+      "en": "I don't like it.",
+      "vi": "Con không thích món này."
+    },
+    {
+      "id": "mealtime-039",
+      "speaker": "child",
+      "level": 1,
+      "en": "I spilled it!",
+      "vi": "Con làm đổ rồi!"
+    },
+    {
+      "id": "mealtime-040",
+      "speaker": "child",
+      "level": 2,
+      "en": "I can eat by myself!",
+      "vi": "Con tự ăn được!"
     }
   ],
   "dialogues": [

@@ -3,6 +3,7 @@ import { createRootRouteWithContext, Outlet } from '@tanstack/react-router'
 import { useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import { BottomNav, ErrorState } from '../components/Layout'
+import { PlaylistBar } from '../components/PlaylistBar'
 import { UpdateBanner } from '../components/PwaPrompts'
 import { db, ensureDefaultProfile, requestPersistentStorage } from '../lib/db'
 import { useSettings } from '../lib/settings'
@@ -31,6 +32,7 @@ function RootLayout() {
   return (
     <div className="mx-auto min-h-dvh max-w-xl pb-24">
       <Outlet />
+      <PlaylistBar />
       <UpdateBanner />
       <BottomNav />
     </div>

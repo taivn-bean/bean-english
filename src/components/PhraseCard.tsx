@@ -1,9 +1,9 @@
 import clsx from 'clsx'
 import { Check, MessageCircleHeart, Star, Volume2 } from 'lucide-react'
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { toggleFavorite, toggleProgress } from '../hooks/useProfile'
-import { play, usePlaying } from '../lib/audio'
+import { play, useAudioState } from '../lib/audio'
 import type { Phrase } from '../lib/content'
 import type { Progress } from '../lib/db'
 import { useSettings } from '../lib/settings'
@@ -18,7 +18,8 @@ type Props = {
 export function PhraseCard({ phrase, topicId, progress, favorite }: Props) {
   const { t } = useTranslation()
   const { showIpa, activeProfileId } = useSettings()
-  const playing = usePlaying()
+  const { current: playing, sequenceId } = useAudioState()
+  const ref = useRef<HTMLElement>(null)
   const [slotIdx, setSlotIdx] = useState(0)
 
   const slot = phrase.slots?.[slotIdx]
@@ -27,6 +28,11 @@ export function PhraseCard({ phrase, topicId, progress, favorite }: Props) {
   const isPlaying = audioKey != null && playing === audioKey
   const isChild = phrase.speaker === 'child'
 
+  // Hands-free playlist: keep the phrase being read on screen.
+  useEffect(() => {
+    if (isPlaying && sequenceId) ref.current?.scrollIntoView({ block: 'center', behavior: 'smooth' })
+  }, [isPlaying, sequenceId])
+
   const [enBefore, enAfter] = phrase.slots ? phrase.en.split('___') : [phrase.en, '']
   const [viBefore, viAfter] = phrase.slots ? phrase.vi.split('___') : [phrase.vi, '']
 
@@ -34,7 +40,7 @@ export function PhraseCard({ phrase, topicId, progress, favorite }: Props) {
     activeProfileId != null && toggleProgress(activeProfileId, topicId, phrase.id, field)
 
   return (
-    <article className={clsx('rounded-3xl border bg-surface p-4 shadow-sm', isChild ? 'border-peach/50' : 'border-line')}>
+    <article ref={ref} className={clsx('rounded-3xl border bg-surface p-4 shadow-sm', isChild ? 'border-peach/50' : 'border-line')}>
       <button
         onClick={() => audioKey && play(audioKey)}
         className={clsx('flex w-full items-start gap-3 rounded-2xl text-left', isPlaying && 'is-playing')}
