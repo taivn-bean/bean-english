@@ -1,0 +1,322 @@
+{
+  "topicId": "bathroom",
+  "phrases": [
+    {
+      "id": "bathroom-001",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Time to ___!",
+      "vi": "Đến giờ ___ rồi con!",
+      "slots": [
+        {
+          "en": "brush your teeth",
+          "vi": "đánh răng"
+        },
+        {
+          "en": "go potty",
+          "vi": "đi vệ sinh"
+        },
+        {
+          "en": "wash your hands",
+          "vi": "rửa tay"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you need to go potty?",
+      "vi": "Con có muốn đi vệ sinh không?"
+    },
+    {
+      "id": "bathroom-003",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Open wide!",
+      "vi": "Há miệng to ra nào!"
+    },
+    {
+      "id": "bathroom-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's wash your ___!",
+      "vi": "Mình rửa ___ nào!",
+      "slots": [
+        {
+          "en": "hands",
+          "vi": "tay"
+        },
+        {
+          "en": "face",
+          "vi": "mặt"
+        },
+        {
+          "en": "feet",
+          "vi": "chân"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-005",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Up and down!",
+      "vi": "Chải lên, chải xuống nào!"
+    },
+    {
+      "id": "bathroom-006",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Now brush the ___ teeth.",
+      "vi": "Giờ chải răng ___ nha.",
+      "slots": [
+        {
+          "en": "top",
+          "vi": "ở trên"
+        },
+        {
+          "en": "bottom",
+          "vi": "ở dưới"
+        },
+        {
+          "en": "front",
+          "vi": "phía trước"
+        },
+        {
+          "en": "back",
+          "vi": "phía trong"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-007",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Spit it out!",
+      "vi": "Nhổ ra nào con!"
+    },
+    {
+      "id": "bathroom-008",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Here's your ___.",
+      "vi": "Đây là ___ của con.",
+      "slots": [
+        {
+          "en": "toothbrush",
+          "vi": "bàn chải"
+        },
+        {
+          "en": "toothpaste",
+          "vi": "kem đánh răng"
+        },
+        {
+          "en": "cup",
+          "vi": "ly"
+        },
+        {
+          "en": "towel",
+          "vi": "khăn"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Sit on the potty, please.",
+      "vi": "Con ngồi lên bô nào."
+    },
+    {
+      "id": "bathroom-010",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Flush the toilet!",
+      "vi": "Bấm xả nước nào con!"
+    },
+    {
+      "id": "bathroom-011",
+      "speaker": "parent",
+      "level": 1,
+      "en": "You did it!",
+      "vi": "Con giỏi quá!"
+    },
+    {
+      "id": "bathroom-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you ___?",
+      "vi": "Con ___ được không?",
+      "slots": [
+        {
+          "en": "open wide",
+          "vi": "há miệng to"
+        },
+        {
+          "en": "spit",
+          "vi": "nhổ ra"
+        },
+        {
+          "en": "flush",
+          "vi": "bấm xả nước"
+        },
+        {
+          "en": "pull up your pants",
+          "vi": "tự kéo quần lên"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "We brush our teeth every morning and night.",
+      "vi": "Sáng và tối mình đều đánh răng nha con."
+    },
+    {
+      "id": "bathroom-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Wash your hands after you go potty.",
+      "vi": "Đi vệ sinh xong thì rửa tay nha con."
+    },
+    {
+      "id": "bathroom-015",
+      "speaker": "child",
+      "level": 2,
+      "en": "I need to ___!",
+      "vi": "Con muốn ___!",
+      "slots": [
+        {
+          "en": "pee",
+          "vi": "đi tè"
+        },
+        {
+          "en": "poop",
+          "vi": "đi ị"
+        },
+        {
+          "en": "go potty",
+          "vi": "đi vệ sinh"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "Soapy hands!",
+      "vi": "Tay đầy xà phòng!"
+    },
+    {
+      "id": "bathroom-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "My turn!",
+      "vi": "Tới lượt con!"
+    },
+    {
+      "id": "bathroom-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "I did it!",
+      "vi": "Con làm được rồi!"
+    },
+    {
+      "id": "bathroom-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "Help me, please.",
+      "vi": "Giúp con với."
+    },
+    {
+      "id": "bathroom-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Look, clean teeth!",
+      "vi": "Nhìn nè, răng sạch rồi!"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "bathroom-d01",
+      "titleEn": "Brushing teeth",
+      "titleVi": "Đánh răng",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Time to brush your teeth!",
+          "vi": "Đến giờ đánh răng rồi con!"
+        },
+        {
+          "speaker": "child",
+          "en": "My turn!",
+          "vi": "Tới lượt con!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Okay! Open wide!",
+          "vi": "Được rồi! Há miệng to ra nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Aaah!", "ipa": "/ɑː/",
+          "vi": "Aaa!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Up and down! Now spit it out!",
+          "vi": "Chải lên, chải xuống nào! Giờ nhổ ra nào con!"
+        },
+        {
+          "speaker": "child",
+          "en": "Look, clean teeth!",
+          "vi": "Nhìn nè, răng sạch rồi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "You did it!",
+          "vi": "Con giỏi quá!"
+        }
+      ]
+    },
+    {
+      "id": "bathroom-d02",
+      "titleEn": "Potty time",
+      "titleVi": "Đi vệ sinh",
+      "lines": [
+        {
+          "speaker": "child",
+          "en": "Potty, please!",
+          "vi": "Con muốn đi vệ sinh!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Sit on the potty, please.",
+          "vi": "Con ngồi lên bô nào."
+        },
+        {
+          "speaker": "child",
+          "en": "I did it!",
+          "vi": "Con làm được rồi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "You did it! Let's wash your hands!",
+          "vi": "Con giỏi quá! Mình rửa tay nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Soapy hands!",
+          "vi": "Tay đầy xà phòng!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Wash your hands after you go potty.",
+          "vi": "Đi vệ sinh xong thì rửa tay nha con."
+        }
+      ]
+    }
+  ]
+}

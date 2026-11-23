@@ -1,0 +1,62 @@
+{
+  "app": { "name": "Bean English", "tagline": "Speak English with your little one every day" },
+  "nav": { "topics": "Topics", "favorites": "Favorites", "progress": "Progress", "settings": "Settings" },
+  "home": {
+    "greeting": "What shall we say to {{name}} today?",
+    "learned": "{{count}}/{{total}} phrases"
+  },
+  "topic": {
+    "phrases": "Phrases",
+    "dialogues": "Dialogues",
+    "childSays": "Child says",
+    "tapToHear": "Tap to listen",
+    "lines": "{{count}} lines"
+  },
+  "phrase": {
+    "favorite": "Favorite",
+    "parentLearned": "I know it",
+    "childSaid": "Child said it",
+    "swapWord": "Swap word"
+  },
+  "dialogue": { "playAll": "Play all", "stop": "Stop", "mom": "Mom", "dad": "Dad", "child": "Child" },
+  "favorites": {
+    "title": "Favorite phrases",
+    "empty": "No favorites yet — tap ⭐ on any phrase to save it."
+  },
+  "progress": {
+    "title": "Child progress",
+    "parentLearned": "Parent knows",
+    "childSaid": "Child says",
+    "profiles": "Children",
+    "addProfile": "Add child",
+    "namePlaceholder": "Child's name",
+    "rename": "Rename",
+    "delete": "Delete",
+    "deleteConfirm": "Delete {{name}} and all their progress?",
+    "active": "Selected",
+    "select": "Select",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "App language",
+    "parentVoice": "Voice for parent phrases",
+    "voiceMom": "Mom's voice",
+    "voiceDad": "Dad's voice",
+    "showIpa": "Show IPA",
+    "offline": "Offline use",
+    "offlineReady": "Ready to use offline",
+    "offlineNotReady": "Downloading offline data… keep the app open while online",
+    "storage": "Storage used: {{used}}",
+    "install": "Add to Home Screen",
+    "version": "Content version"
+  },
+  "install": {
+    "title": "Install Bean on iPhone",
+    "steps": "Open in Safari → tap Share (□↑) → \"Add to Home Screen\". Then open the app from its icon to use it offline.",
+    "dismiss": "Later"
+  },
+  "update": { "available": "New content available", "reload": "Update", "offlineReady": "Ready to work offline 🎉" },
+  "common": { "back": "Back", "loading": "Loading…", "error": "Couldn't load data", "retry": "Retry", "defaultChild": "Kiddo" }
+}

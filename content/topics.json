@@ -1,0 +1,12 @@
+[
+  { "id": "wake-up",         "order": 1,  "icon": "sunrise",       "titleEn": "Waking up",        "titleVi": "Thức dậy" },
+  { "id": "bathroom",        "order": 2,  "icon": "toothbrush",    "titleEn": "Teeth & potty",    "titleVi": "Đánh răng & đi vệ sinh" },
+  { "id": "mealtime",        "order": 3,  "icon": "utensils",      "titleEn": "Mealtime",         "titleVi": "Giờ ăn" },
+  { "id": "getting-dressed", "order": 4,  "icon": "shirt",         "titleEn": "Getting dressed",  "titleVi": "Mặc đồ" },
+  { "id": "playtime",        "order": 5,  "icon": "blocks",        "titleEn": "Playtime",         "titleVi": "Giờ chơi" },
+  { "id": "going-out",       "order": 6,  "icon": "trees",         "titleEn": "Going out",        "titleVi": "Đi ra ngoài" },
+  { "id": "feelings-love",   "order": 7,  "icon": "heart",         "titleEn": "Feelings & love",  "titleVi": "Cảm xúc & yêu thương" },
+  { "id": "safety",          "order": 8,  "icon": "shield-check",  "titleEn": "Staying safe",     "titleVi": "An toàn" },
+  { "id": "bath-time",       "order": 9,  "icon": "bath",          "titleEn": "Bath time",        "titleVi": "Giờ tắm" },
+  { "id": "bedtime",         "order": 10, "icon": "moon",          "titleEn": "Bedtime",          "titleVi": "Đi ngủ" }
+]

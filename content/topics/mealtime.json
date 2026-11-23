@@ -1,0 +1,310 @@
+{
+  "topicId": "mealtime",
+  "phrases": [
+    {
+      "id": "mealtime-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Are you hungry?",
+      "vi": "Con đói chưa?"
+    },
+    {
+      "id": "mealtime-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you want some ___?",
+      "vi": "Con muốn ___ không?",
+      "slots": [
+        {
+          "en": "rice",
+          "vi": "ăn cơm"
+        },
+        {
+          "en": "milk",
+          "vi": "uống sữa"
+        },
+        {
+          "en": "water",
+          "vi": "uống nước"
+        },
+        {
+          "en": "soup",
+          "vi": "ăn canh"
+        },
+        {
+          "en": "noodles",
+          "vi": "ăn mì"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-003",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Let's eat!",
+      "vi": "Mình ăn thôi!"
+    },
+    {
+      "id": "mealtime-004",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Sit down, please.",
+      "vi": "Con ngồi xuống nào."
+    },
+    {
+      "id": "mealtime-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Here comes the ___!",
+      "vi": "Ơ kìa, ___ tới rồi nè!",
+      "slots": [
+        {
+          "en": "airplane",
+          "vi": "máy bay"
+        },
+        {
+          "en": "train",
+          "vi": "tàu hỏa"
+        },
+        {
+          "en": "car",
+          "vi": "xe hơi"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-006",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Is it yummy?",
+      "vi": "Ngon không con?"
+    },
+    {
+      "id": "mealtime-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Hot! Blow on it.",
+      "vi": "Nóng đó! Thổi phù phù nào."
+    },
+    {
+      "id": "mealtime-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Take one more bite.",
+      "vi": "Ăn thêm một miếng nữa nha."
+    },
+    {
+      "id": "mealtime-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you use your ___?",
+      "vi": "Con tự cầm ___ được không?",
+      "slots": [
+        {
+          "en": "spoon",
+          "vi": "muỗng"
+        },
+        {
+          "en": "fork",
+          "vi": "nĩa"
+        },
+        {
+          "en": "cup",
+          "vi": "ly"
+        },
+        {
+          "en": "chopsticks",
+          "vi": "đũa"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-010",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Chew, chew, chew!",
+      "vi": "Nhai, nhai, nhai nào!"
+    },
+    {
+      "id": "mealtime-011",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Wow, all gone!",
+      "vi": "Oa, hết sạch rồi!"
+    },
+    {
+      "id": "mealtime-012",
+      "speaker": "parent",
+      "level": 1,
+      "en": "It's ___!",
+      "vi": "Món này ___ quá!",
+      "slots": [
+        {
+          "en": "yummy",
+          "vi": "ngon"
+        },
+        {
+          "en": "hot",
+          "vi": "nóng"
+        },
+        {
+          "en": "cold",
+          "vi": "lạnh"
+        },
+        {
+          "en": "sweet",
+          "vi": "ngọt"
+        },
+        {
+          "en": "crunchy",
+          "vi": "giòn"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Sit nicely and eat with your spoon.",
+      "vi": "Con ngồi ngoan rồi ăn bằng muỗng nha."
+    },
+    {
+      "id": "mealtime-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Veggies help you grow big and strong.",
+      "vi": "Ăn rau giúp con mau lớn và khỏe mạnh."
+    },
+    {
+      "id": "mealtime-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm hungry!",
+      "vi": "Con đói bụng!"
+    },
+    {
+      "id": "mealtime-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "More ___, please!",
+      "vi": "Cho con thêm ___ nha!",
+      "slots": [
+        {
+          "en": "rice",
+          "vi": "cơm"
+        },
+        {
+          "en": "milk",
+          "vi": "sữa"
+        },
+        {
+          "en": "water",
+          "vi": "nước"
+        },
+        {
+          "en": "noodles",
+          "vi": "mì"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "Yummy!",
+      "vi": "Ngon quá!"
+    },
+    {
+      "id": "mealtime-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm full!",
+      "vi": "Con no rồi!"
+    },
+    {
+      "id": "mealtime-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "No, thank you.",
+      "vi": "Dạ thôi, con không ăn nữa."
+    },
+    {
+      "id": "mealtime-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Hot, hot!",
+      "vi": "Nóng, nóng quá!"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "mealtime-d01",
+      "titleEn": "Breakfast time",
+      "titleVi": "Bữa sáng",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Are you hungry?",
+          "vi": "Con đói chưa?"
+        },
+        {
+          "speaker": "child",
+          "en": "I'm hungry!",
+          "vi": "Con đói bụng!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Let's eat! Do you want some rice?",
+          "vi": "Mình ăn thôi! Con muốn ăn cơm không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes, please!",
+          "vi": "Dạ, con muốn!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Hot! Blow on it.",
+          "vi": "Nóng đó! Thổi phù phù nào."
+        },
+        {
+          "speaker": "child",
+          "en": "Yummy!",
+          "vi": "Ngon quá!"
+        }
+      ]
+    },
+    {
+      "id": "mealtime-d02",
+      "titleEn": "All done",
+      "titleVi": "Ăn xong rồi",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Can you use your spoon?",
+          "vi": "Con tự cầm muỗng được không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes!",
+          "vi": "Dạ được!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Good! Take one more bite.",
+          "vi": "Giỏi quá! Ăn thêm một miếng nữa nha."
+        },
+        {
+          "speaker": "child",
+          "en": "I'm full!",
+          "vi": "Con no rồi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Wow, all gone!",
+          "vi": "Oa, hết sạch rồi!"
+        }
+      ]
+    }
+  ]
+}

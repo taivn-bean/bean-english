@@ -1,0 +1,307 @@
+{
+  "topicId": "wake-up",
+  "phrases": [
+    {
+      "id": "wake-up-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Good morning!",
+      "vi": "Chào buổi sáng con yêu!"
+    },
+    {
+      "id": "wake-up-002",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Wake up, sweetie!",
+      "vi": "Dậy thôi con yêu!"
+    },
+    {
+      "id": "wake-up-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Did you sleep well?",
+      "vi": "Con ngủ có ngon không?"
+    },
+    {
+      "id": "wake-up-004",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Time to get up!",
+      "vi": "Đến giờ dậy rồi con ơi!"
+    },
+    {
+      "id": "wake-up-005",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Big stretch!",
+      "vi": "Vươn vai thật dài nào!"
+    },
+    {
+      "id": "wake-up-006",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Open your eyes!",
+      "vi": "Mở mắt ra nào con!"
+    },
+    {
+      "id": "wake-up-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Are you still sleepy?",
+      "vi": "Con còn buồn ngủ hả?"
+    },
+    {
+      "id": "wake-up-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's open the ___!",
+      "vi": "Mình mở ___ ra nào!",
+      "slots": [
+        {
+          "en": "curtains",
+          "vi": "rèm"
+        },
+        {
+          "en": "window",
+          "vi": "cửa sổ"
+        },
+        {
+          "en": "door",
+          "vi": "cửa"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-009",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Look, it's ___!",
+      "vi": "Con nhìn nè, trời ___ quá!",
+      "slots": [
+        {
+          "en": "sunny",
+          "vi": "nắng"
+        },
+        {
+          "en": "rainy",
+          "vi": "mưa"
+        },
+        {
+          "en": "cloudy",
+          "vi": "nhiều mây"
+        },
+        {
+          "en": "windy",
+          "vi": "gió"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-010",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Give me a big hug!",
+      "vi": "Ôm một cái thật chặt nào!"
+    },
+    {
+      "id": "wake-up-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Where is your ___?",
+      "vi": "Con ơi, ___ của con đâu rồi?",
+      "slots": [
+        {
+          "en": "teddy",
+          "vi": "gấu bông"
+        },
+        {
+          "en": "blanket",
+          "vi": "chăn"
+        },
+        {
+          "en": "pillow",
+          "vi": "gối"
+        },
+        {
+          "en": "bunny",
+          "vi": "thỏ bông"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Say good morning to ___.",
+      "vi": "Con chào ___ đi nào!",
+      "slots": [
+        {
+          "en": "Daddy",
+          "vi": "ba"
+        },
+        {
+          "en": "Mommy",
+          "vi": "mẹ"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's get up and wash your face.",
+      "vi": "Mình dậy đi rửa mặt nào con."
+    },
+    {
+      "id": "wake-up-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "The sun is up, and the birds are singing.",
+      "vi": "Mặt trời lên rồi, chim hót líu lo kìa."
+    },
+    {
+      "id": "wake-up-015",
+      "speaker": "child",
+      "level": 1,
+      "en": "Good morning, ___!",
+      "vi": "Con chào ___ ạ!",
+      "slots": [
+        {
+          "en": "Mommy",
+          "vi": "mẹ"
+        },
+        {
+          "en": "Daddy",
+          "vi": "ba"
+        },
+        {
+          "en": "Grandma",
+          "vi": "bà"
+        },
+        {
+          "en": "Grandpa",
+          "vi": "ông"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm sleepy.",
+      "vi": "Con buồn ngủ."
+    },
+    {
+      "id": "wake-up-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm up!",
+      "vi": "Con dậy rồi!"
+    },
+    {
+      "id": "wake-up-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Carry me!",
+      "vi": "Bế con đi!"
+    },
+    {
+      "id": "wake-up-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "Where's Teddy?",
+      "vi": "Gấu bông đâu rồi?"
+    },
+    {
+      "id": "wake-up-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Not yet!",
+      "vi": "Chưa đâu!"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "wake-up-d01",
+      "titleEn": "Good morning, sweetie",
+      "titleVi": "Chào buổi sáng con yêu",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Good morning! Wake up, sweetie!",
+          "vi": "Chào buổi sáng! Dậy thôi con yêu!"
+        },
+        {
+          "speaker": "child",
+          "en": "I'm sleepy.",
+          "vi": "Con buồn ngủ."
+        },
+        {
+          "speaker": "mom",
+          "en": "Big stretch! Open your eyes!",
+          "vi": "Vươn vai thật dài nào! Mở mắt ra nào con!"
+        },
+        {
+          "speaker": "child",
+          "en": "Not yet!",
+          "vi": "Chưa đâu!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Give me a big hug!",
+          "vi": "Ôm mẹ một cái thật chặt nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "I'm up!",
+          "vi": "Con dậy rồi!"
+        }
+      ]
+    },
+    {
+      "id": "wake-up-d02",
+      "titleEn": "Sunny morning",
+      "titleVi": "Buổi sáng đầy nắng",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Did you sleep well?",
+          "vi": "Con ngủ có ngon không?"
+        },
+        {
+          "speaker": "child",
+          "en": "Yes!",
+          "vi": "Dạ có!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Let's open the curtains! Look, it's sunny!",
+          "vi": "Mình mở rèm ra nào! Con nhìn nè, trời nắng quá!"
+        },
+        {
+          "speaker": "child",
+          "en": "Where's Teddy?",
+          "vi": "Gấu bông đâu rồi?"
+        },
+        {
+          "speaker": "dad",
+          "en": "Here! Say good morning to Mommy.",
+          "vi": "Đây nè! Con chào mẹ đi nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Good morning, Mommy!",
+          "vi": "Con chào mẹ ạ!"
+        }
+      ]
+    }
+  ]
+}

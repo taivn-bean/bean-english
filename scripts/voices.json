@@ -1,0 +1,5 @@
+{
+  "mom": { "voice": "Samantha", "rate": 160 },
+  "dad": { "voice": "Evan (Enhanced)", "rate": 160 },
+  "child": { "voice": "Junior", "rate": 165 }
+}

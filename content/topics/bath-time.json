@@ -1,0 +1,102 @@
+{
+  "topicId": "bath-time",
+  "phrases": [
+    { "id": "bath-time-001", "speaker": "parent", "level": 2, "en": "Time for a bath!", "vi": "Tới giờ tắm rồi!" },
+    { "id": "bath-time-002", "speaker": "parent", "level": 1, "en": "Clothes off, please.", "vi": "Cởi đồ ra nha con." },
+    { "id": "bath-time-003", "speaker": "parent", "level": 1, "en": "In you go!", "vi": "Vô bồn nào!" },
+    {
+      "id": "bath-time-004", "speaker": "parent", "level": 2,
+      "en": "Let's wash your ___.", "vi": "Mình rửa ___ cho sạch nha.",
+      "slots": [
+        { "en": "tummy", "vi": "bụng" },
+        { "en": "hands", "vi": "tay" },
+        { "en": "feet", "vi": "chân" },
+        { "en": "face", "vi": "mặt" },
+        { "en": "back", "vi": "lưng" }
+      ]
+    },
+    { "id": "bath-time-005", "speaker": "parent", "level": 2, "en": "Is the water warm?", "vi": "Nước ấm không con?" },
+    { "id": "bath-time-006", "speaker": "parent", "level": 2, "en": "Close your eyes, please.", "vi": "Nhắm mắt lại nha con." },
+    { "id": "bath-time-007", "speaker": "parent", "level": 2, "en": "Time to wash your hair.", "vi": "Gội đầu nha con." },
+    {
+      "id": "bath-time-008", "speaker": "parent", "level": 2,
+      "en": "Can you wash your ___?", "vi": "Con tự rửa ___ được không?",
+      "slots": [
+        { "en": "hands", "vi": "tay" },
+        { "en": "tummy", "vi": "bụng" },
+        { "en": "knees", "vi": "đầu gối" },
+        { "en": "toes", "vi": "ngón chân" },
+        { "en": "arms", "vi": "cánh tay" }
+      ]
+    },
+    {
+      "id": "bath-time-009", "speaker": "parent", "level": 2,
+      "en": "Do you want the ___?", "vi": "Con muốn chơi ___ không?",
+      "slots": [
+        { "en": "duck", "vi": "con vịt" },
+        { "en": "boat", "vi": "chiếc thuyền" },
+        { "en": "cup", "vi": "cái ly" },
+        { "en": "fish", "vi": "con cá" }
+      ]
+    },
+    { "id": "bath-time-010", "speaker": "parent", "level": 1, "en": "Gentle splashes, please.", "vi": "Té nước nhẹ thôi nha con." },
+    { "id": "bath-time-011", "speaker": "parent", "level": 2, "en": "Stay sitting in the tub.", "vi": "Ngồi yên trong bồn nha con." },
+    {
+      "id": "bath-time-012", "speaker": "parent", "level": 2,
+      "en": "Let's pour water on your ___.", "vi": "Mình dội nước lên ___ nha.",
+      "slots": [
+        { "en": "hands", "vi": "tay" },
+        { "en": "tummy", "vi": "bụng" },
+        { "en": "back", "vi": "lưng" },
+        { "en": "legs", "vi": "chân" }
+      ]
+    },
+    { "id": "bath-time-013", "speaker": "parent", "level": 3, "en": "All clean! Now it's time to get out.", "vi": "Sạch rồi! Mình ra thôi nha." },
+    { "id": "bath-time-014", "speaker": "parent", "level": 2, "en": "You smell so nice!", "vi": "Con thơm quá!" },
+    { "id": "bath-time-015", "speaker": "child", "level": 1, "en": "Bubbles!", "vi": "Bong bóng!" },
+    {
+      "id": "bath-time-016", "speaker": "child", "level": 2,
+      "en": "I want the ___.", "vi": "Con muốn ___.",
+      "slots": [
+        { "en": "duck", "vi": "con vịt" },
+        { "en": "boat", "vi": "chiếc thuyền" },
+        { "en": "cup", "vi": "cái ly" },
+        { "en": "fish", "vi": "con cá" }
+      ]
+    },
+    { "id": "bath-time-017", "speaker": "child", "level": 1, "en": "Too hot!", "vi": "Nóng quá!" },
+    { "id": "bath-time-018", "speaker": "child", "level": 1, "en": "All done!", "vi": "Con tắm xong rồi!" },
+    { "id": "bath-time-019", "speaker": "child", "level": 1, "en": "Splash!", "vi": "Té nè!" },
+    { "id": "bath-time-020", "speaker": "child", "level": 1, "en": "Towel, please!", "vi": "Cho con cái khăn!" }
+  ],
+  "dialogues": [
+    {
+      "id": "bath-time-d01",
+      "titleEn": "Into the tub",
+      "titleVi": "Vô bồn tắm",
+      "lines": [
+        { "speaker": "mom", "en": "Time for a bath!", "vi": "Tới giờ tắm rồi!" },
+        { "speaker": "child", "en": "Bubbles!", "vi": "Bong bóng!" },
+        { "speaker": "mom", "en": "Clothes off, please. In you go!", "vi": "Cởi đồ ra nha con. Vô bồn nào!" },
+        { "speaker": "child", "en": "Splash!", "vi": "Té nè!" },
+        { "speaker": "mom", "en": "Gentle splashes, please.", "vi": "Té nước nhẹ thôi nha con." },
+        { "speaker": "child", "en": "Duck, please!", "vi": "Cho con con vịt!" },
+        { "speaker": "mom", "en": "Here's your duck!", "vi": "Con vịt của con nè!" }
+      ]
+    },
+    {
+      "id": "bath-time-d02",
+      "titleEn": "Washing hair",
+      "titleVi": "Gội đầu",
+      "lines": [
+        { "speaker": "dad", "en": "Time to wash your hair.", "vi": "Gội đầu nha con." },
+        { "speaker": "child", "en": "Okay, Daddy.", "vi": "Dạ, ba." },
+        { "speaker": "dad", "en": "Close your eyes, please.", "vi": "Nhắm mắt lại nha con." },
+        { "speaker": "child", "en": "Eyes closed!", "vi": "Nhắm rồi!" },
+        { "speaker": "dad", "en": "All clean! Now it's time to get out.", "vi": "Sạch rồi! Mình ra thôi nha." },
+        { "speaker": "child", "en": "Towel, please!", "vi": "Cho con cái khăn!" },
+        { "speaker": "dad", "en": "You smell so nice!", "vi": "Con thơm quá!" }
+      ]
+    }
+  ]
+}

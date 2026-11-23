@@ -1,0 +1,62 @@
+{
+  "app": { "name": "Bean English", "tagline": "Nói tiếng Anh cùng bé mỗi ngày" },
+  "nav": { "topics": "Chủ đề", "favorites": "Yêu thích", "progress": "Tiến độ", "settings": "Cài đặt" },
+  "home": {
+    "greeting": "Hôm nay mình nói gì với {{name}}?",
+    "learned": "{{count}}/{{total}} câu"
+  },
+  "topic": {
+    "phrases": "Mẫu câu",
+    "dialogues": "Hội thoại",
+    "childSays": "Bé nói",
+    "tapToHear": "Chạm để nghe",
+    "lines": "{{count}} câu"
+  },
+  "phrase": {
+    "favorite": "Yêu thích",
+    "parentLearned": "Ba mẹ thuộc",
+    "childSaid": "Bé nói được",
+    "swapWord": "Đổi từ"
+  },
+  "dialogue": { "playAll": "Phát cả đoạn", "stop": "Dừng", "mom": "Mẹ", "dad": "Ba", "child": "Bé" },
+  "favorites": {
+    "title": "Câu yêu thích",
+    "empty": "Chưa có câu yêu thích — bấm ⭐ ở câu bất kỳ để lưu lại."
+  },
+  "progress": {
+    "title": "Tiến độ của bé",
+    "parentLearned": "Ba mẹ thuộc",
+    "childSaid": "Bé nói được",
+    "profiles": "Hồ sơ các bé",
+    "addProfile": "Thêm bé",
+    "namePlaceholder": "Tên bé",
+    "rename": "Đổi tên",
+    "delete": "Xoá",
+    "deleteConfirm": "Xoá hồ sơ {{name}} và toàn bộ tiến độ?",
+    "active": "Đang chọn",
+    "select": "Chọn",
+    "save": "Lưu",
+    "cancel": "Huỷ"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "language": "Ngôn ngữ giao diện",
+    "parentVoice": "Giọng đọc câu của ba mẹ",
+    "voiceMom": "Giọng mẹ",
+    "voiceDad": "Giọng ba",
+    "showIpa": "Hiện phiên âm IPA",
+    "offline": "Dùng offline",
+    "offlineReady": "Đã sẵn sàng dùng offline",
+    "offlineNotReady": "Đang tải dữ liệu offline… giữ app mở khi có mạng",
+    "storage": "Dung lượng đã dùng: {{used}}",
+    "install": "Cài lên màn hình chính",
+    "version": "Phiên bản nội dung"
+  },
+  "install": {
+    "title": "Cài Bean lên iPhone",
+    "steps": "Mở bằng Safari → bấm nút Chia sẻ (□↑) → chọn \"Thêm vào MH chính\". Sau đó mở app từ biểu tượng để dùng offline.",
+    "dismiss": "Để sau"
+  },
+  "update": { "available": "Có nội dung mới", "reload": "Cập nhật", "offlineReady": "Đã có thể dùng offline 🎉" },
+  "common": { "back": "Quay lại", "loading": "Đang tải…", "error": "Không tải được dữ liệu", "retry": "Thử lại", "defaultChild": "Bé" }
+}

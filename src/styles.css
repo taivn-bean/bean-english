@@ -1,0 +1,66 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: ui-rounded, 'SF Pro Rounded', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+  --color-bg: #f3faf2;
+  --color-surface: #ffffff;
+  --color-ink: #1f3324;
+  --color-muted: #5e7563;
+  --color-line: #d9ead6;
+  --color-leaf-50: #eef8ec;
+  --color-leaf-100: #dff1dc;
+  --color-leaf-200: #c3e5be;
+  --color-leaf-400: #7cc576;
+  --color-leaf-500: #5aae54;
+  --color-leaf-600: #468d41;
+  --color-leaf-700: #36703a;
+  --color-peach: #f2a65a;
+  --color-rose: #e57fa8;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #13211a;
+    --color-surface: #1c2e24;
+    --color-ink: #e6f2e4;
+    --color-muted: #9fb8a3;
+    --color-line: #2c4434;
+    --color-leaf-50: #1d3326;
+    --color-leaf-100: #24402f;
+    --color-leaf-200: #2f5a3c;
+  }
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  overscroll-behavior-y: none;
+}
+button {
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+.pt-safe {
+  padding-top: max(env(safe-area-inset-top), 0.75rem);
+}
+.pb-safe {
+  padding-bottom: max(env(safe-area-inset-bottom), 0.5rem);
+}
+
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--color-leaf-400) 60%, transparent); }
+  100% { box-shadow: 0 0 0 12px transparent; }
+}
+.is-playing {
+  animation: pulse-ring 1s ease-out infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .is-playing { animation: none; outline: 3px solid var(--color-leaf-400); }
+}

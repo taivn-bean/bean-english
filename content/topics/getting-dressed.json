@@ -1,0 +1,319 @@
+{
+  "topicId": "getting-dressed",
+  "phrases": [
+    {
+      "id": "getting-dressed-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Arms up!",
+      "vi": "Giơ tay lên nào!"
+    },
+    {
+      "id": "getting-dressed-002",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Let's get dressed!",
+      "vi": "Mình thay đồ nha!"
+    },
+    {
+      "id": "getting-dressed-003",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Put on your ___.",
+      "vi": "Mình ___ vào nào.",
+      "slots": [
+        {
+          "en": "shirt",
+          "vi": "mặc áo"
+        },
+        {
+          "en": "pants",
+          "vi": "mặc quần"
+        },
+        {
+          "en": "socks",
+          "vi": "mang vớ"
+        },
+        {
+          "en": "shoes",
+          "vi": "mang giày"
+        },
+        {
+          "en": "hat",
+          "vi": "đội nón"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-004",
+      "speaker": "parent",
+      "level": 1,
+      "en": "One leg in!",
+      "vi": "Xỏ một chân vào nào!"
+    },
+    {
+      "id": "getting-dressed-005",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Which ___ do you want?",
+      "vi": "Con chọn ___ nào?",
+      "slots": [
+        {
+          "en": "shirt",
+          "vi": "áo"
+        },
+        {
+          "en": "hat",
+          "vi": "nón"
+        },
+        {
+          "en": "dress",
+          "vi": "đầm"
+        },
+        {
+          "en": "socks",
+          "vi": "đôi vớ"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-006",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Peekaboo!", "ipa": "/ˈpikəbu/",
+      "vi": "Ú òa!"
+    },
+    {
+      "id": "getting-dressed-007",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Do you want the ___ one?",
+      "vi": "Con muốn cái ___ không?",
+      "slots": [
+        {
+          "en": "red",
+          "vi": "màu đỏ"
+        },
+        {
+          "en": "blue",
+          "vi": "màu xanh dương"
+        },
+        {
+          "en": "yellow",
+          "vi": "màu vàng"
+        },
+        {
+          "en": "pink",
+          "vi": "màu hồng"
+        },
+        {
+          "en": "green",
+          "vi": "màu xanh lá"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-008",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Zip it up!",
+      "vi": "Kéo khóa lên nào!"
+    },
+    {
+      "id": "getting-dressed-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Can you do it yourself?",
+      "vi": "Con tự làm được không?"
+    },
+    {
+      "id": "getting-dressed-010",
+      "speaker": "parent",
+      "level": 1,
+      "en": "You look great!",
+      "vi": "Con mặc đẹp quá!"
+    },
+    {
+      "id": "getting-dressed-011",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's wear a ___.",
+      "vi": "Mình mặc ___ nha.",
+      "slots": [
+        {
+          "en": "jacket",
+          "vi": "áo khoác"
+        },
+        {
+          "en": "sweater",
+          "vi": "áo len"
+        },
+        {
+          "en": "raincoat",
+          "vi": "áo mưa"
+        },
+        {
+          "en": "dress",
+          "vi": "đầm"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Where are your ___?",
+      "vi": "Con ơi, ___ của con đâu rồi?",
+      "slots": [
+        {
+          "en": "shoes",
+          "vi": "giày"
+        },
+        {
+          "en": "socks",
+          "vi": "vớ"
+        },
+        {
+          "en": "pants",
+          "vi": "quần"
+        },
+        {
+          "en": "pajamas",
+          "vi": "đồ ngủ"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-013",
+      "speaker": "parent",
+      "level": 3,
+      "en": "First your shirt, then your pants, then your socks.",
+      "vi": "Mặc áo trước, rồi tới quần, rồi tới vớ nha."
+    },
+    {
+      "id": "getting-dressed-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Let's take off your pajamas and put on clothes.",
+      "vi": "Mình cởi đồ ngủ ra rồi mặc quần áo nha."
+    },
+    {
+      "id": "getting-dressed-015",
+      "speaker": "child",
+      "level": 2,
+      "en": "I can do it!",
+      "vi": "Con tự làm được!"
+    },
+    {
+      "id": "getting-dressed-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm stuck!",
+      "vi": "Con bị kẹt rồi!"
+    },
+    {
+      "id": "getting-dressed-017",
+      "speaker": "child",
+      "level": 1,
+      "en": "Red one!",
+      "vi": "Cái màu đỏ!"
+    },
+    {
+      "id": "getting-dressed-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Shoes on!",
+      "vi": "Con mang giày rồi!"
+    },
+    {
+      "id": "getting-dressed-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "I'm ready!",
+      "vi": "Con xong rồi!"
+    },
+    {
+      "id": "getting-dressed-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Look at me!",
+      "vi": "Nhìn con nè!"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "getting-dressed-d01",
+      "titleEn": "Arms up!",
+      "titleVi": "Giơ tay lên nào!",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Let's get dressed! Arms up!",
+          "vi": "Mình thay đồ nha! Giơ tay lên nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "I'm stuck!",
+          "vi": "Con bị kẹt rồi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Peekaboo! Now put on your pants.", "ipa": "/ˈpikəbu naʊ pʊt ɑn jɔɹ pænts/",
+          "vi": "Ú òa! Giờ mình mặc quần vào nào."
+        },
+        {
+          "speaker": "child",
+          "en": "By myself!",
+          "vi": "Con tự làm!"
+        },
+        {
+          "speaker": "mom",
+          "en": "One leg in! You look great!",
+          "vi": "Xỏ một chân vào nào! Con mặc đẹp quá!"
+        },
+        {
+          "speaker": "child",
+          "en": "Look at me!",
+          "vi": "Nhìn con nè!"
+        }
+      ]
+    },
+    {
+      "id": "getting-dressed-d02",
+      "titleEn": "Which shirt?",
+      "titleVi": "Chọn áo nào?",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Which shirt do you want?",
+          "vi": "Con chọn áo nào?"
+        },
+        {
+          "speaker": "child",
+          "en": "Red one!",
+          "vi": "Cái màu đỏ!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Where are your shoes?",
+          "vi": "Con ơi, giày của con đâu rồi?"
+        },
+        {
+          "speaker": "child",
+          "en": "Shoes on!",
+          "vi": "Con mang giày rồi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Let's wear a jacket. Zip it up!",
+          "vi": "Mình mặc áo khoác nha. Kéo khóa lên nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "I'm ready!",
+          "vi": "Con xong rồi!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "topicId": "playtime",
+  "phrases": [
+    {
+      "id": "playtime-001",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Let's play!",
+      "vi": "Mình chơi nào!"
+    },
+    {
+      "id": "playtime-002",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's play with ___!",
+      "vi": "Mình chơi ___ nha!",
+      "slots": [
+        {
+          "en": "blocks",
+          "vi": "xếp hình"
+        },
+        {
+          "en": "the ball",
+          "vi": "bóng"
+        },
+        {
+          "en": "cars",
+          "vi": "xe"
+        },
+        {
+          "en": "dolls",
+          "vi": "búp bê"
+        }
+      ]
+    },
+    {
+      "id": "playtime-003",
+      "speaker": "parent",
+      "level": 3,
+      "en": "Can you build a tall tower with the blocks?",
+      "vi": "Con xây cái tháp thật cao bằng khối gỗ được không?"
+    },
+    {
+      "id": "playtime-004",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Your turn!",
+      "vi": "Tới lượt con!"
+    },
+    {
+      "id": "playtime-005",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Let's take turns.",
+      "vi": "Mình thay phiên nhau nha."
+    },
+    {
+      "id": "playtime-006",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Uh-oh, it fell!",
+      "vi": "Ối, đổ rồi!"
+    },
+    {
+      "id": "playtime-007",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Roll the ball!",
+      "vi": "Lăn bóng nào!"
+    },
+    {
+      "id": "playtime-008",
+      "speaker": "parent",
+      "level": 2,
+      "en": "What color is this?",
+      "vi": "Cái này màu gì nè?"
+    },
+    {
+      "id": "playtime-009",
+      "speaker": "parent",
+      "level": 2,
+      "en": "I see a ___.",
+      "vi": "Nhìn nè, có ___!",
+      "slots": [
+        {
+          "en": "duck",
+          "vi": "con vịt"
+        },
+        {
+          "en": "car",
+          "vi": "chiếc xe"
+        },
+        {
+          "en": "ball",
+          "vi": "quả bóng"
+        },
+        {
+          "en": "train",
+          "vi": "đoàn tàu"
+        }
+      ]
+    },
+    {
+      "id": "playtime-010",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Gentle, please.",
+      "vi": "Nhẹ tay thôi con."
+    },
+    {
+      "id": "playtime-011",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Wow, so tall!",
+      "vi": "Oa, cao quá!"
+    },
+    {
+      "id": "playtime-012",
+      "speaker": "parent",
+      "level": 2,
+      "en": "Let's count the ___!",
+      "vi": "Mình cùng đếm mấy ___ nào!",
+      "slots": [
+        {
+          "en": "blocks",
+          "vi": "khối gỗ"
+        },
+        {
+          "en": "cars",
+          "vi": "chiếc xe"
+        },
+        {
+          "en": "balls",
+          "vi": "quả bóng"
+        },
+        {
+          "en": "ducks",
+          "vi": "con vịt"
+        }
+      ]
+    },
+    {
+      "id": "playtime-013",
+      "speaker": "parent",
+      "level": 1,
+      "en": "Where's the ___?",
+      "vi": "Ủa, ___ đâu rồi?",
+      "slots": [
+        {
+          "en": "ball",
+          "vi": "quả bóng"
+        },
+        {
+          "en": "car",
+          "vi": "chiếc xe"
+        },
+        {
+          "en": "duck",
+          "vi": "con vịt"
+        },
+        {
+          "en": "block",
+          "vi": "khối gỗ"
+        }
+      ]
+    },
+    {
+      "id": "playtime-014",
+      "speaker": "parent",
+      "level": 3,
+      "en": "When we finish, let's put the toys away.",
+      "vi": "Chơi xong mình cất đồ chơi nha con."
+    },
+    {
+      "id": "playtime-015",
+      "speaker": "child",
+      "level": 2,
+      "en": "I want the ___!",
+      "vi": "Con muốn ___!",
+      "slots": [
+        {
+          "en": "ball",
+          "vi": "quả bóng"
+        },
+        {
+          "en": "car",
+          "vi": "chiếc xe"
+        },
+        {
+          "en": "blocks",
+          "vi": "khối gỗ"
+        },
+        {
+          "en": "duck",
+          "vi": "con vịt"
+        }
+      ]
+    },
+    {
+      "id": "playtime-016",
+      "speaker": "child",
+      "level": 1,
+      "en": "Again!",
+      "vi": "Chơi nữa đi!"
+    },
+    {
+      "id": "playtime-017",
+      "speaker": "child",
+      "level": 2,
+      "en": "Look at my tower!",
+      "vi": "Nhìn tháp của con nè!"
+    },
+    {
+      "id": "playtime-018",
+      "speaker": "child",
+      "level": 1,
+      "en": "Uh-oh!",
+      "vi": "Ối!"
+    },
+    {
+      "id": "playtime-019",
+      "speaker": "child",
+      "level": 1,
+      "en": "Play with me!",
+      "vi": "Chơi với con đi!"
+    },
+    {
+      "id": "playtime-020",
+      "speaker": "child",
+      "level": 1,
+      "en": "Catch!",
+      "vi": "Bắt nè!"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "playtime-d01",
+      "titleEn": "Building blocks",
+      "titleVi": "Xếp khối gỗ",
+      "lines": [
+        {
+          "speaker": "dad",
+          "en": "Let's play with blocks!",
+          "vi": "Mình chơi xếp hình nha!"
+        },
+        {
+          "speaker": "child",
+          "en": "Play with me!",
+          "vi": "Chơi với con đi!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Wow, so tall!",
+          "vi": "Oa, cao quá!"
+        },
+        {
+          "speaker": "child",
+          "en": "Uh-oh!",
+          "vi": "Ối!"
+        },
+        {
+          "speaker": "dad",
+          "en": "Uh-oh, it fell! Your turn!",
+          "vi": "Ối, đổ rồi! Tới lượt con!"
+        },
+        {
+          "speaker": "child",
+          "en": "Again!",
+          "vi": "Chơi nữa đi!"
+        }
+      ]
+    },
+    {
+      "id": "playtime-d02",
+      "titleEn": "Ball game",
+      "titleVi": "Chơi bóng",
+      "lines": [
+        {
+          "speaker": "mom",
+          "en": "Where's the ball?",
+          "vi": "Ủa, quả bóng đâu rồi?"
+        },
+        {
+          "speaker": "child",
+          "en": "Here!",
+          "vi": "Đây nè!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Roll the ball!",
+          "vi": "Lăn bóng nào!"
+        },
+        {
+          "speaker": "child",
+          "en": "Catch!",
+          "vi": "Bắt nè!"
+        },
+        {
+          "speaker": "mom",
+          "en": "Let's take turns. Your turn!",
+          "vi": "Mình thay phiên nhau nha. Tới lượt con!"
+        },
+        {
+          "speaker": "child",
+          "en": "Again!",
+          "vi": "Chơi nữa đi!"
+        },
+        {
+          "speaker": "mom",
+          "en": "When we finish, let's put the toys away.",
+          "vi": "Chơi xong mình cất đồ chơi nha con."
+        }
+      ]
+    }
+  ]
+}
