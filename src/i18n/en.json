@@ -221,7 +221,8 @@
     "allDecks": "See all {{count}} decks",
     "swipeHint": "Tip: swipe right = Got it · swipe left = Not yet",
     "cheer": "Great job!",
-    "shuffle": "Shuffle cards"
+    "shuffle": "Shuffle cards",
+    "hearWord": "Hear the word"
   },
   "today": {
     "title": "{{name}}'s day",
@@ -258,5 +259,160 @@
     "error": "Something went wrong. Check your connection and try again.",
     "installFirst": "To get notifications on iPhone: tap Share → Add to Home Screen, then open Bean from the home-screen icon.",
     "unsupported": "This browser doesn't support notifications."
+  },
+  "tour": {
+    "step": "Step {{n}}/{{total}}",
+    "next": "Next",
+    "back": "Back",
+    "done": "Got it",
+    "skip": "Skip tips",
+    "replay": "Show tips again",
+    "replayDone": "Done! Tips will show again as you open each page.",
+    "home": {
+      "home-today": {
+        "title": "Today",
+        "body": "Start each day here: review the word cards due, continue the topic you were on, and see your child's streak."
+      },
+      "home-search": {
+        "title": "Quick search",
+        "body": "Type Vietnamese or English (e.g. đói, bath, sleep) to find the phrase you need right now."
+      },
+      "home-suggested": {
+        "title": "Ideas for right now",
+        "body": "Topics and 3 phrases picked for this time of day: waking up, meals, bath, bedtime…"
+      },
+      "home-topic": {
+        "title": "Topics",
+        "body": "Each topic has phrases and short dialogues. The green bar shows how many you've learned."
+      },
+      "home-avatar": {
+        "title": "Your child's corner",
+        "body": "Tap the avatar to see the streak, stickers, word cards and to change the avatar."
+      }
+    },
+    "topic": {
+      "topic-tabs": {
+        "title": "Phrases & dialogues",
+        "body": "Switch between single phrases and short parent–child dialogues."
+      },
+      "phrase-play": {
+        "title": "Tap to listen",
+        "body": "Tap a phrase to hear it, then say it to your child. Orange phrases are for your child to say."
+      },
+      "phrase-actions": {
+        "title": "Track progress",
+        "body": "✓ I know it · 💬 my child said it · ☆ save to favorites. Progress is kept per child."
+      },
+      "phrase-slots": {
+        "title": "Swap a word",
+        "body": "Tap another word to make a new sentence — a different food, toy and so on."
+      },
+      "topic-play-all": {
+        "title": "Play the whole topic",
+        "body": "Plays every phrase in a row — handy when your hands are busy."
+      },
+      "topic-offline": {
+        "title": "Use offline",
+        "body": "Download this topic's audio to listen without a connection."
+      }
+    },
+    "dialogue": {
+      "dialogue-line": {
+        "title": "Each line",
+        "body": "Tap a line to hear it. Each colour is a speaker: mom, dad or child."
+      },
+      "dialogue-play": {
+        "title": "Play it all",
+        "body": "Hear the whole dialogue, then act it out together with your child."
+      }
+    },
+    "cards": {
+      "cards-review": {
+        "title": "Today's review",
+        "body": "Words your child knows come back less often (1, 3, 7, 14… days); missed ones come back soon. The badge on the Cards tab counts cards due."
+      },
+      "cards-deck": {
+        "title": "Decks by topic",
+        "body": "Open a deck to see its words and learn new ones — up to 10 new words per session."
+      }
+    },
+    "deck": {
+      "deck-study": {
+        "title": "Study",
+        "body": "Starts a session: cards due first, then new words."
+      },
+      "deck-word": {
+        "title": "Word details",
+        "body": "Tap a word to hear it and see 5 example sentences to use with your child."
+      },
+      "deck-offline": {
+        "title": "Use offline",
+        "body": "Download this deck's audio to study without a connection."
+      }
+    },
+    "study": {
+      "study-card": {
+        "title": "Listen and guess",
+        "body": "Show the picture, tap the speaker and let your child guess. Tap the card to flip it for the answer and examples."
+      },
+      "study-flip": {
+        "title": "Did they know it?",
+        "body": "After flipping: swipe right (Know it) if they did, swipe left (Again) to see the word again sooner."
+      },
+      "study-shuffle": {
+        "title": "Shuffle",
+        "body": "On: cards come in random order. Off: in order."
+      }
+    },
+    "progress": {
+      "progress-child": {
+        "title": "Each child",
+        "body": "More than one child? Tap to switch — each has their own progress. The gear adds or edits profiles."
+      },
+      "progress-stats": {
+        "title": "Totals",
+        "body": "Phrases you know, phrases your child said, words learned and the current streak."
+      },
+      "progress-week": {
+        "title": "Last 7 days",
+        "body": "Each bar is a day's activity: phrases played, marks and card reviews."
+      }
+    },
+    "avatar": {
+      "avatar-streak": {
+        "title": "Streak",
+        "body": "Any day with a phrase played or a card reviewed counts. Longer streaks unlock avatar accessories."
+      },
+      "avatar-stickers": {
+        "title": "Stickers",
+        "body": "Earned at milestones: sessions, words learned, streak days, phrases your child said."
+      },
+      "avatar-look": {
+        "title": "Change the avatar",
+        "body": "Pick an animal, colour and unlocked accessories — kids love choosing!"
+      }
+    },
+    "settings": {
+      "settings-profiles": {
+        "title": "Child profiles",
+        "body": "Add a child with name and age — content is filtered to their age."
+      },
+      "settings-reminder": {
+        "title": "Daily reminder",
+        "body": "Get a notification at the time you choose. On iPhone, open the app from its home-screen icon."
+      },
+      "settings-offline": {
+        "title": "Use offline",
+        "body": "See storage used and download audio for use without a connection."
+      },
+      "settings-backup": {
+        "title": "Backup",
+        "body": "Export a file to keep progress safe or move it to another device."
+      },
+      "settings-tour": {
+        "title": "Show tips again",
+        "body": "Want to see these tips again? Tap here any time."
+      }
+    }
   }
 }

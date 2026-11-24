@@ -1,7 +1,7 @@
 import { useQuery } from '@tanstack/react-query'
 import { createFileRoute } from '@tanstack/react-router'
 import clsx from 'clsx'
-import { Download, Upload } from 'lucide-react'
+import { CircleHelp, Download, Upload } from 'lucide-react'
 import { type ChangeEvent, type ReactNode, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { PageHeader } from '@/shared/ui/Layout'
@@ -12,6 +12,7 @@ import { ReminderSettings } from '@/features/reminders/ReminderSettings'
 import { exportBackup, parseBackup, restoreBackup } from '@/features/backup/backup'
 import { contentIndexQuery } from '@/features/content/content'
 import { useSettings } from '@/shared/settings'
+import { FeatureTour } from '@/features/tour/FeatureTour'
 
 export const Route = createFileRoute('/settings')({ component: SettingsPage })
 
@@ -24,7 +25,7 @@ function SettingsPage() {
     <>
       <PageHeader title={t('settings.title')} />
       <main className="space-y-5 px-4">
-        <div id="profiles" className="scroll-mt-20">
+        <div id="profiles" className="scroll-mt-20" data-tour="settings-profiles">
           <ProfileManager />
         </div>
 
@@ -45,18 +46,52 @@ function SettingsPage() {
           <input type="checkbox" checked={s.showAllAges} onChange={(e) => s.set({ showAllAges: e.target.checked })} className="size-6 shrink-0 accent-leaf-500" />
         </label>
 
-        <ReminderSettings />
+        <div data-tour="settings-reminder">
+          <ReminderSettings />
+        </div>
 
-        <Field label={t('settings.offline')}>
-          <OfflineStatus />
-          {index && <p className="px-1 text-xs text-muted">{t('settings.version')}: {index.contentVersion}</p>}
-        </Field>
+        <div data-tour="settings-offline">
+          <Field label={t('settings.offline')}>
+            <OfflineStatus />
+            {index && <p className="px-1 text-xs text-muted">{t('settings.version')}: {index.contentVersion}</p>}
+          </Field>
+        </div>
 
-        <BackupSection />
+        <div data-tour="settings-backup">
+          <BackupSection />
+        </div>
+
+        <TourReplay />
 
         <InstallHint force />
       </main>
+      <FeatureTour id="settings" />
     </>
+  )
+}
+
+/** Show every feature's tour again (each one on its own page, next time it's opened). */
+function TourReplay() {
+  const { t } = useTranslation()
+  const set = useSettings((s) => s.set)
+  const [done, setDone] = useState(false)
+  return (
+    <div className="space-y-1" data-tour="settings-tour">
+      <button
+        onClick={() => {
+          set({ toursSeen: ['settings'] })
+          setDone(true)
+        }}
+        className="flex min-h-12 w-full items-center gap-3 rounded-2xl border border-line bg-surface px-4 font-medium"
+      >
+        <CircleHelp size={22} className="text-leaf-600" /> {t('tour.replay')}
+      </button>
+      {done && (
+        <p className="px-1 text-sm text-muted" role="status">
+          {t('tour.replayDone')}
+        </p>
+      )}
+    </div>
   )
 }
 

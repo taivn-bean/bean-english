@@ -46,6 +46,7 @@ export function PhraseCard({ phrase, topicId, progress, favorite }: Props) {
           onClick={() => audioKey && play(audioKey)}
           className={clsx('flex min-w-0 flex-1 items-start gap-3 rounded-2xl p-1 text-left', isPlaying && 'is-playing')}
           aria-label={`${t('topic.tapToHear')}: ${slot?.fullEn ?? phrase.en}`}
+          data-tour="phrase-play"
         >
           <span className={clsx('mt-0.5 grid size-11 shrink-0 place-items-center rounded-full text-white', isChild ? 'bg-peach' : 'bg-leaf-500')}>
             <Volume2 size={22} />
@@ -77,7 +78,7 @@ export function PhraseCard({ phrase, topicId, progress, favorite }: Props) {
         </button>
 
         {/* compact actions column: parent learned · child said · favorite (legend on the topic page) */}
-        <div className="flex shrink-0 flex-col gap-1">
+        <div className="flex shrink-0 flex-col gap-1" data-tour="phrase-actions">
           <IconToggle active={!!progress?.parentLearned} onClick={() => toggle('parentLearned')} label={t('phrase.parentLearned')} tone="leaf">
             <Check size={20} strokeWidth={2.5} />
           </IconToggle>
@@ -96,7 +97,7 @@ export function PhraseCard({ phrase, topicId, progress, favorite }: Props) {
       </div>
 
       {phrase.slots && (
-        <div className="mt-2 flex flex-wrap gap-2 pl-1" role="group" aria-label={t('phrase.swapWord')}>
+        <div className="mt-2 flex flex-wrap gap-2 pl-1" data-tour="phrase-slots" role="group" aria-label={t('phrase.swapWord')}>
           {phrase.slots.map((s, i) => (
             <button
               key={s.en}

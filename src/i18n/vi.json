@@ -221,7 +221,8 @@
     "allDecks": "Xem tất cả {{count}} bộ thẻ",
     "swipeHint": "Mẹo: vuốt phải = Nhớ rồi · vuốt trái = Chưa nhớ",
     "cheer": "Giỏi quá!",
-    "shuffle": "Trộn thẻ"
+    "shuffle": "Trộn thẻ",
+    "hearWord": "Nghe lại từ"
   },
   "today": {
     "title": "Hôm nay của {{name}}",
@@ -258,5 +259,160 @@
     "error": "Có lỗi, kiểm tra mạng rồi thử lại.",
     "installFirst": "Để nhận thông báo trên iPhone: bấm Chia sẻ → Thêm vào MH chính, rồi mở Bean từ icon ngoài màn hình chính.",
     "unsupported": "Trình duyệt này chưa hỗ trợ thông báo."
+  },
+  "tour": {
+    "step": "Bước {{n}}/{{total}}",
+    "next": "Tiếp",
+    "back": "Lùi",
+    "done": "Đã hiểu",
+    "skip": "Bỏ qua hướng dẫn",
+    "replay": "Xem lại hướng dẫn",
+    "replayDone": "Xong! Hướng dẫn sẽ hiện lại khi bạn mở từng trang.",
+    "home": {
+      "home-today": {
+        "title": "Việc hôm nay",
+        "body": "Mỗi ngày bắt đầu ở đây: ôn thẻ từ đến hạn, học tiếp chủ đề đang dở, và xem chuỗi ngày học của bé."
+      },
+      "home-search": {
+        "title": "Tìm câu nhanh",
+        "body": "Gõ tiếng Việt hoặc tiếng Anh (vd: đói, tắm, sleep) để tìm ngay câu cần nói với bé."
+      },
+      "home-suggested": {
+        "title": "Gợi ý theo giờ",
+        "body": "App tự gợi ý chủ đề và 3 câu hợp với lúc này: sáng thức dậy, giờ ăn, đi tắm, đi ngủ…"
+      },
+      "home-topic": {
+        "title": "Chủ đề",
+        "body": "Mỗi chủ đề có mẫu câu và hội thoại ngắn. Thanh xanh cho biết ba mẹ đã thuộc bao nhiêu câu."
+      },
+      "home-avatar": {
+        "title": "Góc của bé",
+        "body": "Chạm vào avatar để xem chuỗi ngày học, sticker, thẻ từ và đổi hình cho bé."
+      }
+    },
+    "topic": {
+      "topic-tabs": {
+        "title": "Mẫu câu & Hội thoại",
+        "body": "Chuyển giữa các câu lẻ và những đoạn hội thoại ngắn giữa ba mẹ và bé."
+      },
+      "phrase-play": {
+        "title": "Chạm để nghe",
+        "body": "Chạm vào câu để nghe giọng đọc chuẩn, rồi nói lại với bé. Câu viền cam là câu dành cho bé nói."
+      },
+      "phrase-actions": {
+        "title": "Đánh dấu tiến độ",
+        "body": "✓ Ba mẹ đã thuộc · 💬 Bé đã nói được · ☆ Lưu vào Yêu thích. Tiến độ lưu riêng cho từng bé."
+      },
+      "phrase-slots": {
+        "title": "Đổi từ",
+        "body": "Câu có ô đổi từ: chạm vào từ khác để có ngay câu mới, ví dụ đổi món ăn hay đồ chơi."
+      },
+      "topic-play-all": {
+        "title": "Phát cả chủ đề",
+        "body": "Phát lần lượt mọi câu — tiện khi tay đang bận bế bé hay nấu ăn."
+      },
+      "topic-offline": {
+        "title": "Dùng không cần mạng",
+        "body": "Tải audio của chủ đề này về máy để nghe cả khi không có mạng."
+      }
+    },
+    "dialogue": {
+      "dialogue-line": {
+        "title": "Từng lời thoại",
+        "body": "Chạm vào lời thoại để nghe. Mỗi màu là một người nói: mẹ, ba hoặc bé."
+      },
+      "dialogue-play": {
+        "title": "Phát cả đoạn",
+        "body": "Nghe cả đoạn liền mạch, rồi cùng bé đóng vai từng người."
+      }
+    },
+    "cards": {
+      "cards-review": {
+        "title": "Ôn thẻ hôm nay",
+        "body": "Từ bé nhớ sẽ được hỏi lại thưa dần (1, 3, 7, 14… ngày), từ chưa nhớ sẽ gặp lại sớm. Số đỏ trên tab Thẻ từ là số thẻ cần ôn."
+      },
+      "cards-deck": {
+        "title": "Bộ thẻ theo chủ đề",
+        "body": "Chọn một bộ để xem danh sách từ và học từ mới — mỗi lượt thêm tối đa 10 từ."
+      }
+    },
+    "deck": {
+      "deck-study": {
+        "title": "Học ngay",
+        "body": "Bắt đầu một lượt: ôn các thẻ đến hạn trước, rồi thêm từ mới."
+      },
+      "deck-word": {
+        "title": "Xem chi tiết từ",
+        "body": "Chạm vào một từ để nghe và xem 5 câu ví dụ nói cùng bé."
+      },
+      "deck-offline": {
+        "title": "Dùng không cần mạng",
+        "body": "Tải audio của bộ thẻ để học cả khi không có mạng."
+      }
+    },
+    "study": {
+      "study-card": {
+        "title": "Nghe rồi đoán",
+        "body": "Cho bé xem hình, bấm loa để nghe từ và đoán nghĩa. Chạm vào thẻ để lật xem đáp án và câu ví dụ."
+      },
+      "study-flip": {
+        "title": "Bé nhớ hay chưa?",
+        "body": "Sau khi lật: vuốt phải (Nhớ rồi) nếu bé nhớ, vuốt trái (Chưa nhớ) để gặp lại từ này sớm hơn."
+      },
+      "study-shuffle": {
+        "title": "Xáo thẻ",
+        "body": "Bật để thẻ ra theo thứ tự ngẫu nhiên, tắt để học theo thứ tự."
+      }
+    },
+    "progress": {
+      "progress-child": {
+        "title": "Từng bé",
+        "body": "Có nhiều bé? Chạm để chuyển, mỗi bé có tiến độ riêng. Bánh răng để thêm hoặc sửa hồ sơ."
+      },
+      "progress-stats": {
+        "title": "Con số tổng",
+        "body": "Số câu ba mẹ thuộc, câu bé nói được, số từ bé đã thuộc và chuỗi ngày học."
+      },
+      "progress-week": {
+        "title": "7 ngày qua",
+        "body": "Mỗi cột là số lần học trong ngày: nghe câu, đánh dấu, ôn thẻ."
+      }
+    },
+    "avatar": {
+      "avatar-streak": {
+        "title": "Chuỗi ngày học",
+        "body": "Ngày nào có nghe câu hoặc ôn thẻ là thêm 1 ngày. Chuỗi càng dài, càng mở khoá nhiều phụ kiện cho avatar."
+      },
+      "avatar-stickers": {
+        "title": "Sticker",
+        "body": "Bé nhận sticker khi đạt mốc: số lần học, số từ đã thuộc, chuỗi ngày, số câu bé nói được."
+      },
+      "avatar-look": {
+        "title": "Đổi hình cho bé",
+        "body": "Chọn con vật, màu và phụ kiện đã mở khoá — bé sẽ thích tự chọn đấy!"
+      }
+    },
+    "settings": {
+      "settings-profiles": {
+        "title": "Hồ sơ bé",
+        "body": "Thêm bé, đặt tên và độ tuổi — nội dung tự lọc theo tuổi của bé."
+      },
+      "settings-reminder": {
+        "title": "Nhắc học mỗi ngày",
+        "body": "Bật để nhận thông báo đúng giờ bạn chọn. Trên iPhone cần mở app từ biểu tượng ở màn hình chính."
+      },
+      "settings-offline": {
+        "title": "Dùng không cần mạng",
+        "body": "Xem dung lượng và tải audio để dùng khi không có mạng."
+      },
+      "settings-backup": {
+        "title": "Sao lưu",
+        "body": "Xuất file để giữ tiến độ an toàn hoặc chuyển sang máy khác."
+      },
+      "settings-tour": {
+        "title": "Xem lại hướng dẫn",
+        "body": "Muốn xem lại các hướng dẫn như thế này? Bấm ở đây bất cứ lúc nào."
+      }
+    }
   }
 }

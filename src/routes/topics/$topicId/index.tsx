@@ -14,6 +14,7 @@ import { downloadTopics } from '@/features/offline/offline'
 import { useAgeFilter, useFavorites, useProgressMap } from '@/features/profile/useProfile'
 import { topicQuery, toPlaylist } from '@/features/content/content'
 import { useSettings } from '@/shared/settings'
+import { FeatureTour } from '@/features/tour/FeatureTour'
 
 export const Route = createFileRoute('/topics/$topicId/')({
   // plain validator: keeps zod out of the startup bundle
@@ -47,11 +48,11 @@ function TopicPage() {
         back
         title={lang === 'vi' ? topic.titleVi : topic.titleEn}
         subtitle={lang === 'vi' ? topic.titleEn : topic.titleVi}
-        right={<PlayAllButton id={`topic:${topicId}`} label={lang === 'vi' ? topic.titleVi : topic.titleEn} items={toPlaylist(phrases)} />}
+        right={<span data-tour="topic-play-all"><PlayAllButton id={`topic:${topicId}`} label={lang === 'vi' ? topic.titleVi : topic.titleEn} items={toPlaylist(phrases)} /></span>}
       />
 
       <div className="sticky top-[calc(max(env(safe-area-inset-top),0.75rem)+3.5rem)] z-10 bg-bg/90 px-4 pb-3 backdrop-blur">
-        <div className="grid grid-cols-2 rounded-full bg-leaf-100 p-1" role="tablist">
+        <div className="grid grid-cols-2 rounded-full bg-leaf-100 p-1" role="tablist" data-tour="topic-tabs">
           {(['phrases', 'dialogues'] as const).map((key) => (
             <Link
               key={key}
@@ -70,7 +71,7 @@ function TopicPage() {
 
       <main className="space-y-3 px-4">
         {summary && !offline && (
-          <div className="flex items-center justify-between gap-2 rounded-2xl bg-leaf-50 px-3 py-2">
+          <div className="flex items-center justify-between gap-2 rounded-2xl bg-leaf-50 px-3 py-2" data-tour="topic-offline">
             <OfflineTag topic={summary} />
             {!downloading && (
               <button onClick={() => downloadTopics([summary]).catch(() => {})} className="text-sm font-semibold text-leaf-600">
@@ -107,6 +108,7 @@ function TopicPage() {
               </Link>
             ))}
       </main>
+      <FeatureTour id="topic" />
     </>
   )
 }

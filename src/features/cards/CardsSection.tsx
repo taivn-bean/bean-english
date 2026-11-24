@@ -64,10 +64,10 @@ export function DeckGrid({ decks }: { decks: DeckSummary[] }) {
   const stats = useCardStats()
   return (
     <ul className="grid grid-cols-2 gap-2">
-      {decks.map((d) => {
+      {decks.map((d, i) => {
         const s = stats.byDeck.get(d.id)
         return (
-          <li key={d.id}>
+          <li key={d.id} data-tour={i === 0 ? 'cards-deck' : undefined}>
             <Link
               to="/cards/$deckId"
               params={{ deckId: d.id }}

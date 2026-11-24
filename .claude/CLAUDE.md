@@ -63,6 +63,7 @@ src/shared/               dùng chung mọi feature: db.ts (Dexie schema), setti
 src/i18n/                 vi.json, en.json (en tải lười)
   rewards/                sticker thưởng (tính từ số liệu sẵn có), StickerAlbum, NewStickerPopup
   reminders/              nhắc học: đăng ký Web Push (push.ts), ReminderSettings
+  tour/                   hướng dẫn theo từng tính năng: tours.ts (bước = data-tour), FeatureTour (đặt trong trang), TourOverlay (tải lười)
 worker/                   Cloudflare Worker: /api/push/* + cron gửi nhắc (index.ts), webpush.ts (VAPID + aes128gcm, không lib)
 migrations/               schema D1 `bean-push` (wrangler d1 migrations apply bean-push --remote)
 public/push-sw.js         xử lý push/notificationclick, được importScripts vào SW của Workbox
@@ -72,3 +73,4 @@ public/push-sw.js         xử lý push/notificationclick, được importScript
 - Thêm bộ thẻ từ vựng: thêm vào `content/vocab.json` + `content/vocab/<deckId>.json` (id `v-…`), kiểm tra `node scripts/check-vocab.mjs <deckId>`, icon mới thêm vào `src/shared/ui/TopicIcon.tsx`, rồi `pnpm audio`.
 - Quy tắc import: dùng alias `@/` (`@/features/cards/cards`, `@/shared/db`); file cùng thư mục feature import `./x`. Không tạo barrel `index.ts` (giữ code-split + bundle khởi động nhỏ). Feature được import feature khác; thứ mà ≥3 feature cần thì chuyển vào `shared/`.
 - Thêm chuỗi UI: thêm key vào CẢ `vi.json` và `en.json`.
+- Hướng dẫn tính năng: mỗi trang 1 tour ngắn, tự hiện lần đầu mở trang. Thêm bước = gắn `data-tour="<target>"` vào phần tử + thêm target vào `src/features/tour/tours.ts` + chữ `tour.<tourId>.<target>.title|body` ở cả 2 file i18n. Trang mới: `<FeatureTour id="…" />`. Phần tử không có trên màn hình thì bước tự bỏ qua.

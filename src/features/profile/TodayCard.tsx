@@ -25,7 +25,7 @@ export function TodayCard({ topics, fallback }: { topics: TopicSummary[]; fallba
   const title = (tp: TopicSummary) => (lang === 'vi' ? tp.titleVi : tp.titleEn)
 
   return (
-    <section className="space-y-3 rounded-3xl border border-leaf-200 bg-leaf-50 p-4" aria-labelledby="today-title">
+    <section className="space-y-3 rounded-3xl border border-leaf-200 bg-leaf-50 p-4" aria-labelledby="today-title" data-tour="home-today">
       <div className="flex items-center justify-between gap-2">
         <h2 id="today-title" className="font-bold">
           {t('today.title', { name: profile?.name ?? t('common.defaultChild') })}

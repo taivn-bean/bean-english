@@ -1,6 +1,7 @@
 import { useRouterState } from '@tanstack/react-router'
 import { useTranslation } from 'react-i18next'
 import { Confetti } from '@/features/cards/Celebration'
+import { useTourActive } from '@/features/tour/tourState'
 import { markStickersSeen, useStickers } from './useStickers'
 
 /** Celebrates stickers the child just earned (once each). Waits while a card session is running. */
@@ -8,7 +9,8 @@ export function NewStickerPopup() {
   const { t } = useTranslation()
   const { fresh, profileId } = useStickers()
   const path = useRouterState({ select: (s) => s.location.pathname })
-  if (!fresh.length || profileId == null || path === '/cards/study') return null
+  const touring = useTourActive((s) => s.active)
+  if (!fresh.length || profileId == null || path === '/cards/study' || touring) return null
   const close = () => markStickersSeen(profileId, fresh.map((s) => s.id))
   return (
     <div className="fixed inset-0 z-50 grid place-items-center bg-ink/40 p-6" role="dialog" aria-modal="true" aria-labelledby="sticker-title">

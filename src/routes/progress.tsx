@@ -11,6 +11,7 @@ import { useActiveProfile, useAgeFilter, useProfiles, useProgressMap, useStreak,
 import { useSettings } from '@/shared/settings'
 import { PageHeader, ProgressBar } from '@/shared/ui/Layout'
 import { TopicIcon } from '@/shared/ui/TopicIcon'
+import { FeatureTour } from '@/features/tour/FeatureTour'
 
 export const Route = createFileRoute('/progress')({
   loader: ({ context }) => context.queryClient.ensureQueryData(contentIndexQuery),
@@ -40,7 +41,7 @@ function ProgressPage() {
       <main className="space-y-5 px-4">
         <ChildHeader />
 
-        <section className="grid grid-cols-2 gap-3">
+        <section className="grid grid-cols-2 gap-3" data-tour="progress-stats">
           <Stat label={t('progress.parentLearned')} value={parentTotal} total={total} color="bg-leaf-400" />
           <Stat label={t('progress.childSaid')} value={childTotal} total={total} color="bg-peach" />
           <Stat label={t('progress.wordsLearned')} value={cards.learned} icon={<Layers size={18} className="text-leaf-600" />} to="/cards" />
@@ -85,6 +86,7 @@ function ProgressPage() {
           </ul>
         </section>
       </main>
+      <FeatureTour id="progress" />
     </>
   )
 }
@@ -98,7 +100,7 @@ function ChildHeader() {
   const { band, showAll } = useAgeFilter()
   if (!profile) return null
   return (
-    <section className="space-y-3 rounded-3xl border border-line bg-surface p-4">
+    <section className="space-y-3 rounded-3xl border border-line bg-surface p-4" data-tour="progress-child">
       <div className="flex items-center gap-3">
         <Link to="/avatar" aria-label={t('avatar.title')}>
           <Avatar avatar={profile.avatar} color={profile.color} size={56} title={profile.name} />
@@ -144,7 +146,7 @@ function WeekChart() {
   const fmt = new Intl.DateTimeFormat(lang === 'vi' ? 'vi-VN' : 'en-US', { weekday: 'short' })
   const totalWeek = week.reduce((n, d) => n + d.count, 0)
   return (
-    <section className="space-y-3 rounded-3xl border border-line bg-surface p-4" aria-labelledby="week-title">
+    <section className="space-y-3 rounded-3xl border border-line bg-surface p-4" aria-labelledby="week-title" data-tour="progress-week">
       <div className="flex items-baseline justify-between gap-2">
         <h2 id="week-title" className="font-bold">
           {t('progress.week')}
@@ -158,7 +160,7 @@ function WeekChart() {
             <li key={day} className="flex h-full flex-1 flex-col items-center justify-end gap-1" aria-label={`${day}: ${count}`}>
               {count > 0 && <span className="text-[10px] text-muted">{count}</span>}
               <span
-                className={clsx('w-full max-w-8 rounded-t-lg', count ? (day === today ? 'bg-leaf-500' : 'bg-leaf-300') : 'bg-leaf-100')}
+                className={clsx('w-full max-w-8 rounded-t-lg', count ? (day === today ? 'bg-leaf-500' : 'bg-leaf-400') : 'bg-leaf-100')}
                 style={{ height: `${count ? Math.max(8, (count / max) * 80) : 4}%` }}
               />
               <span className={clsx('text-[11px]', day === today ? 'font-bold text-leaf-700' : 'text-muted')}>{fmt.format(new Date(y, m - 1, d))}</span>

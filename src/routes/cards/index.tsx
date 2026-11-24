@@ -6,6 +6,7 @@ import { PageHeader } from '@/shared/ui/Layout'
 import { useCardStats } from '@/features/cards/useCards'
 import { useAgeFilter } from '@/features/profile/useProfile'
 import { AGE_BANDS, contentIndexQuery } from '@/features/content/content'
+import { FeatureTour } from '@/features/tour/FeatureTour'
 
 export const Route = createFileRoute('/cards/')({
   loader: ({ context }) => context.queryClient.ensureQueryData(contentIndexQuery),
@@ -23,7 +24,9 @@ function DecksPage() {
     <>
       <PageHeader title={t('cards.title')} subtitle={t('cards.learnedTotal', { count: stats.learned })} />
       <main className="space-y-5 px-4">
-        <ReviewButton due={stats.due} hasCards={stats.total > 0} />
+        <div data-tour="cards-review">
+          <ReviewButton due={stats.due} hasCards={stats.total > 0} />
+        </div>
         {AGE_BANDS.map((b) => {
           const list = decks.filter((d) => d.ages[0] === b)
           if (!list.length) return null
@@ -35,6 +38,7 @@ function DecksPage() {
           )
         })}
       </main>
+      <FeatureTour id="cards" />
     </>
   )
 }

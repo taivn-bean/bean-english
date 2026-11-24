@@ -9,6 +9,7 @@ import { PageHeader } from '@/shared/ui/Layout'
 import { useActiveProfile, useStreak } from '@/features/profile/useProfile'
 import { ACCESSORY_UNLOCKS, addDays, dayKey } from '@/features/profile/activity'
 import { db, type AvatarConfig } from '@/shared/db'
+import { FeatureTour } from '@/features/tour/FeatureTour'
 
 export const Route = createFileRoute('/avatar')({ component: AvatarPage })
 
@@ -29,7 +30,7 @@ function AvatarPage() {
     <>
       <PageHeader back title={t('avatar.title')} subtitle={profile.name} />
       <main className="space-y-5 px-4">
-        <section className="flex flex-col items-center gap-3 rounded-3xl border border-line bg-surface p-5">
+        <section className="flex flex-col items-center gap-3 rounded-3xl border border-line bg-surface p-5" data-tour="avatar-streak">
           <Avatar avatar={avatar} color={profile.color} size={128} title={profile.name} />
           <div className="grid w-full grid-cols-2 gap-3">
             <StatCard icon={<Flame className="text-peach" />} value={streak.current} label={t('streak.current')} />
@@ -49,19 +50,23 @@ function AvatarPage() {
 
         <CardsSection />
 
-        <StickerAlbum />
+        <div data-tour="avatar-stickers">
+          <StickerAlbum />
+        </div>
 
         <Link to="/diary" className="flex min-h-12 items-center gap-3 rounded-2xl border border-line bg-surface px-4 font-semibold text-leaf-700">
           <BookHeart size={22} /> {t('diary.title')}
         </Link>
 
-        <Picker label={t('avatar.animal')}>
-          {AVATAR_ANIMALS.map((a) => (
-            <Choice key={a} active={avatar.animal === a} onClick={() => save({ animal: a })} label={t(`avatar.animals.${a}`)}>
-              <Avatar avatar={{ animal: a, accessory: 'none' }} color={profile.color} size={56} />
-            </Choice>
-          ))}
-        </Picker>
+        <div data-tour="avatar-look">
+          <Picker label={t('avatar.animal')}>
+            {AVATAR_ANIMALS.map((a) => (
+              <Choice key={a} active={avatar.animal === a} onClick={() => save({ animal: a })} label={t(`avatar.animals.${a}`)}>
+                <Avatar avatar={{ animal: a, accessory: 'none' }} color={profile.color} size={56} />
+              </Choice>
+            ))}
+          </Picker>
+        </div>
 
         <Picker label={t('avatar.color')}>
           {AVATAR_COLORS.map((c) => (
@@ -97,6 +102,7 @@ function AvatarPage() {
           })}
         </Picker>
       </main>
+      <FeatureTour id="avatar" />
     </>
   )
 }

@@ -19,6 +19,8 @@ type Settings = {
   stickersSeen: Record<number, string[]>
   /** daily reminder time "HH:MM" (whether it's on = the browser's push subscription) */
   reminderTime: string
+  /** feature tours already shown (finished or skipped) */
+  toursSeen: string[]
   set: (patch: Partial<Omit<Settings, 'set'>>) => void
 }
 
@@ -47,6 +49,7 @@ export const useSettings = create<Settings>()(
       shuffleCards: true,
       stickersSeen: {},
       reminderTime: '19:30',
+      toursSeen: [],
       set: (patch) => set(patch),
     }),
     { name: 'bean-settings', storage: safeStorage, version: 1 },

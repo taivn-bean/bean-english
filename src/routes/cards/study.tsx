@@ -11,7 +11,9 @@ import { useActiveProfile, useAgeFilter } from '@/features/profile/useProfile'
 import { Avatar } from '@/features/profile/Avatar'
 import { Confetti } from '@/features/cards/Celebration'
 import { SwipeCard } from '@/features/cards/SwipeCard'
-import { play, playSequence, stop, usePlaying } from '@/features/audio/audio'
+import { WordExamples } from '@/features/cards/WordExamples'
+import { FeatureTour } from '@/features/tour/FeatureTour'
+import { play, stop, usePlaying } from '@/features/audio/audio'
 import { deckOf, deckQueue, dueCards, MAX_REVIEW, rateCard, retryIndex, shuffle } from '@/features/cards/cards'
 import { deckQuery, type Deck, type Word } from '@/features/content/content'
 import { db } from '@/shared/db'
@@ -121,6 +123,7 @@ function StudyPage() {
               onClick={toggleShuffle}
               aria-pressed={shuffled}
               aria-label={t('cards.shuffle')}
+              data-tour="study-shuffle"
               title={t('cards.shuffle')}
               className={clsx(
                 'grid size-11 place-items-center rounded-full',
@@ -139,6 +142,7 @@ function StudyPage() {
           <Finished total={new Set(queue).size} known={known} empty={!queue.length} deckId={deckId} />
         ) : (
           <>
+            <div data-tour="study-card">
             <SwipeCard
               key={pos}
               flipped={flipped}
@@ -148,10 +152,12 @@ function StudyPage() {
               front={<Front word={current.word} icon={current.deck.icon} playing={playing === current.word.audio} />}
               back={<Back word={current.word} icon={current.deck.icon} playing={playing} />}
             />
+            </div>
 
             {!flipped ? (
               <button
                 onClick={() => setFlipped(true)}
+                data-tour="study-flip"
                 className="flex min-h-14 w-full items-center justify-center rounded-2xl bg-leaf-100 text-lg font-semibold text-leaf-700"
               >
                 {t('cards.flip')}
@@ -176,6 +182,7 @@ function StudyPage() {
           </>
         )}
       </main>
+      {!done && <FeatureTour id="study" />}
     </>
   )
 }
@@ -203,7 +210,6 @@ function Front({ word, icon, playing }: { word: Word; icon: string; playing: boo
 
 /** Back: the word, meaning and 5 example sentences to say together. */
 function Back({ word, icon, playing }: { word: Word; icon: string; playing: string | null }) {
-  const { t } = useTranslation()
   const showIpa = useSettings((s) => s.showIpa)
   const stopFlip = (fn: () => void) => (e: React.MouseEvent) => {
     e.stopPropagation()
@@ -223,33 +229,7 @@ function Back({ word, icon, playing }: { word: Word; icon: string; playing: stri
         <Volume2 size={26} className="shrink-0 text-leaf-600" />
       </button>
 
-      <div className="flex items-center justify-between">
-        <h3 className="text-sm font-semibold text-muted">{t('cards.examples')}</h3>
-        <button
-          onClick={stopFlip(() => void playSequence(`card-${word.id}`, word.examples.map((e) => ({ key: e.audio, title: e.en })), { gapMs: 900, label: word.en }))}
-          className="min-h-9 rounded-full bg-leaf-100 px-3 text-xs font-semibold text-leaf-700"
-        >
-          {t('cards.playAll')}
-        </button>
-      </div>
-      <ul className="space-y-2">
-        {word.examples.map((e) => (
-          <li key={e.audio}>
-            <button
-              onClick={stopFlip(() => void play(e.audio))}
-              className={clsx('flex w-full items-start gap-2 rounded-xl bg-leaf-50 p-2.5 text-left', playing === e.audio && 'is-playing')}
-            >
-              <Volume2 size={18} className="mt-0.5 shrink-0 text-leaf-600" />
-              <span className="min-w-0">
-                <span lang="en" className="block font-semibold">
-                  {e.en}
-                </span>
-                <span className="block text-sm text-muted">{e.vi}</span>
-              </span>
-            </button>
-          </li>
-        ))}
-      </ul>
+      <WordExamples word={word} guard={stopFlip} />
     </div>
   )
 }

@@ -16,6 +16,7 @@ import { TodayCard } from '@/features/profile/TodayCard'
 import { contentIndexQuery, type TopicSummary } from '@/features/content/content'
 import { useSettings } from '@/shared/settings'
 import { dailyPicks, suggestNow } from '@/features/content/suggestions'
+import { FeatureTour } from '@/features/tour/FeatureTour'
 
 export const Route = createFileRoute('/')({
   loader: ({ context }) => context.queryClient.ensureQueryData(contentIndexQuery),
@@ -48,7 +49,7 @@ function Home() {
     <>
       <header className="pt-safe space-y-3 px-4 pb-2">
         <div className="flex items-center gap-3">
-          <Link to="/avatar" aria-label={t('avatar.title')} className="shrink-0">
+          <Link to="/avatar" aria-label={t('avatar.title')} className="shrink-0" data-tour="home-avatar">
             <Avatar avatar={profile?.avatar} color={profile?.color} size={56} title={profile?.name} />
           </Link>
           <div className="min-w-0">
@@ -61,7 +62,7 @@ function Home() {
             </span>
           </div>
         </div>
-        <Link to="/search" className="flex min-h-12 items-center gap-2 rounded-2xl border border-line bg-surface px-3 text-muted">
+        <Link to="/search" data-tour="home-search" className="flex min-h-12 items-center gap-2 rounded-2xl border border-line bg-surface px-3 text-muted">
           <Search size={20} />
           <span className="truncate">{t('home.searchPlaceholder')}</span>
         </Link>
@@ -76,7 +77,7 @@ function Home() {
           <h2 className="flex items-center gap-1.5 text-sm font-semibold text-muted">
             <Clock size={16} /> {t('home.suggested')}
           </h2>
-          <ul className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 [scrollbar-width:none]">
+          <ul className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 [scrollbar-width:none]" data-tour="home-suggested">
             {suggested.map((topic) => (
               <li key={topic.id} className="shrink-0">
                 <Link
@@ -104,22 +105,23 @@ function Home() {
         <section className="space-y-3">
           <h2 className="text-sm font-semibold text-muted">{t('home.allTopics')}</h2>
           <ul className="grid grid-cols-2 gap-3">
-            {topics.map((topic) => {
+            {topics.map((topic, i) => {
               const ids = idsFor(topic)
-              return <TopicCard key={topic.id} topic={topic} total={ids.length} learned={ids.filter((id) => progress.get(id)?.parentLearned).length} />
+              return <TopicCard key={topic.id} first={i === 0} topic={topic} total={ids.length} learned={ids.filter((id) => progress.get(id)?.parentLearned).length} />
             })}
           </ul>
         </section>
       </main>
+      <FeatureTour id="home" />
     </>
   )
 }
 
-function TopicCard({ topic, learned, total }: { topic: TopicSummary; learned: number; total: number }) {
+function TopicCard({ topic, learned, total, first }: { topic: TopicSummary; learned: number; total: number; first?: boolean }) {
   const { t } = useTranslation()
   const lang = useSettings((s) => s.lang)
   return (
-    <li>
+    <li data-tour={first ? 'home-topic' : undefined}>
       <Link
         to="/topics/$topicId"
         params={{ topicId: topic.id }}
