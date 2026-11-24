@@ -1,6 +1,6 @@
 import i18n from 'i18next'
 import { initReactI18next } from 'react-i18next'
-import { useSettings, type Lang } from '../lib/settings'
+import { useSettings, type Lang } from '@/shared/settings'
 import vi from './vi.json'
 
 // Vietnamese (default + fallback) ships in the main bundle; English is a lazy chunk.

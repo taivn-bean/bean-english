@@ -1,0 +1,1672 @@
+{
+  "deckId": "v-cooking",
+  "words": [
+    {
+      "id": "v-cooking-001",
+      "en": "cook",
+      "vi": "nấu ăn",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, Daddy is cooking dinner!",
+          "vi": "Ưm, ba đang nấu cơm tối!"
+        },
+        {
+          "en": "What should we cook today?",
+          "vi": "Hôm nay mình nấu gì ta?"
+        },
+        {
+          "en": "Let's cook together!",
+          "vi": "Mình cùng nấu ăn nha!"
+        },
+        {
+          "en": "Cooking is so much fun.",
+          "vi": "Nấu ăn vui ghê."
+        },
+        {
+          "en": "I cooked eggs with Mommy!",
+          "vi": "Con nấu trứng với mẹ đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-002",
+      "en": "stir",
+      "vi": "khuấy",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Stir, stir, stir!",
+          "vi": "Khuấy, khuấy, khuấy!"
+        },
+        {
+          "en": "Can you stir the soup?",
+          "vi": "Con khuấy nồi canh được không?"
+        },
+        {
+          "en": "Stir it slowly, round and round.",
+          "vi": "Con khuấy từ từ, vòng vòng nha."
+        },
+        {
+          "en": "Stirring makes the sugar disappear.",
+          "vi": "Khuấy một hồi là đường tan hết."
+        },
+        {
+          "en": "I stirred the pancake batter!",
+          "vi": "Con khuấy bột bánh rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-003",
+      "en": "pour",
+      "vi": "rót, đổ",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, you poured it all by yourself!",
+          "vi": "Oa, con tự rót luôn hả!"
+        },
+        {
+          "en": "Do you want to pour the milk?",
+          "vi": "Con muốn tự rót sữa không?"
+        },
+        {
+          "en": "Pour slowly, a little at a time.",
+          "vi": "Con rót từ từ, từng chút thôi nha."
+        },
+        {
+          "en": "Pouring is tricky. You're doing great!",
+          "vi": "Rót khó lắm. Con làm giỏi lắm!"
+        },
+        {
+          "en": "Let me pour it!",
+          "vi": "Để con rót cho!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-004",
+      "en": "cut",
+      "vi": "cắt",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "There, all cut up!",
+          "vi": "Xong, cắt nhỏ hết rồi!"
+        },
+        {
+          "en": "Can you cut the banana?",
+          "vi": "Con cắt trái chuối được không?"
+        },
+        {
+          "en": "Cut it into little pieces.",
+          "vi": "Con cắt thành miếng nhỏ nha."
+        },
+        {
+          "en": "Soft bananas are easy to cut.",
+          "vi": "Chuối mềm thì cắt dễ lắm."
+        },
+        {
+          "en": "I cut my own pancake!",
+          "vi": "Con tự cắt bánh kếp!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-005",
+      "en": "chop",
+      "vi": "băm, cắt nhỏ",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Chop, chop, chop!",
+          "vi": "Băm, băm, băm!"
+        },
+        {
+          "en": "Do you want to watch me chop?",
+          "vi": "Con muốn coi mình băm không?"
+        },
+        {
+          "en": "Let's chop the carrots into small pieces.",
+          "vi": "Mình cắt nhỏ cà rốt nha."
+        },
+        {
+          "en": "Chopping takes time, so we go slow.",
+          "vi": "Băm cần thời gian, nên mình làm từ từ."
+        },
+        {
+          "en": "I chopped the mushrooms with a kid knife!",
+          "vi": "Con dùng dao cho trẻ em cắt nấm đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-006",
+      "en": "mix",
+      "vi": "trộn",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mix, mix, mix!",
+          "vi": "Trộn, trộn, trộn!"
+        },
+        {
+          "en": "Can you mix the salad?",
+          "vi": "Con trộn salad được không?"
+        },
+        {
+          "en": "Mix the flour and the eggs.",
+          "vi": "Con trộn bột với trứng nha."
+        },
+        {
+          "en": "Blue and yellow mix to make green!",
+          "vi": "Xanh dương trộn với vàng ra xanh lá!"
+        },
+        {
+          "en": "I mixed it really well!",
+          "vi": "Con trộn đều lắm rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-007",
+      "en": "bake",
+      "vi": "nướng bánh",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, something is baking!",
+          "vi": "Ưm, có gì đang nướng thơm quá!"
+        },
+        {
+          "en": "Do you want to bake cookies?",
+          "vi": "Con muốn nướng bánh quy không?"
+        },
+        {
+          "en": "Let's bake a cake for Grandma.",
+          "vi": "Mình nướng bánh tặng bà nha."
+        },
+        {
+          "en": "Baking makes the house smell so good.",
+          "vi": "Nướng bánh làm cả nhà thơm phức."
+        },
+        {
+          "en": "I baked cupcakes with Daddy!",
+          "vi": "Con nướng bánh cupcake với ba đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-008",
+      "en": "boil",
+      "vi": "luộc, đun sôi",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the water is boiling!",
+          "vi": "Nhìn nè, nước sôi rồi!"
+        },
+        {
+          "en": "How long do we boil the eggs?",
+          "vi": "Mình luộc trứng bao lâu ta?"
+        },
+        {
+          "en": "Let's boil some corn for a snack.",
+          "vi": "Mình luộc bắp ăn vặt nha."
+        },
+        {
+          "en": "Boiling water is too hot to touch.",
+          "vi": "Nước sôi nóng lắm, không được đụng đâu."
+        },
+        {
+          "en": "I like boiled eggs!",
+          "vi": "Con thích ăn trứng luộc!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-009",
+      "en": "fry",
+      "vi": "chiên",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Sizzle! The eggs are frying!",
+          "vi": "Xèo xèo! Trứng đang chiên nè!"
+        },
+        {
+          "en": "Should we fry some tofu?",
+          "vi": "Mình chiên đậu hũ nha?"
+        },
+        {
+          "en": "Let's fry some eggs for lunch.",
+          "vi": "Mình chiên trứng ăn trưa nha."
+        },
+        {
+          "en": "Fried food is yummy, but greasy.",
+          "vi": "Đồ chiên ngon mà nhiều dầu mỡ."
+        },
+        {
+          "en": "I want fried rice!",
+          "vi": "Con muốn ăn cơm chiên!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-010",
+      "en": "peel",
+      "vi": "lột, gọt vỏ",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, look at the long peel!",
+          "vi": "Ồ, nhìn vỏ dài chưa kìa!"
+        },
+        {
+          "en": "Can you peel it yourself?",
+          "vi": "Con tự lột được không?"
+        },
+        {
+          "en": "Peel the banana from the top.",
+          "vi": "Con lột chuối từ trên xuống nha."
+        },
+        {
+          "en": "Peeling eggs is tricky.",
+          "vi": "Lột trứng khó ghê."
+        },
+        {
+          "en": "I peeled the carrots with Daddy!",
+          "vi": "Con gọt cà rốt với ba đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-011",
+      "en": "roast",
+      "vi": "nướng (lò)",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Mm, roasted chicken for dinner!",
+          "vi": "Ưm, tối nay có gà nướng!"
+        },
+        {
+          "en": "Should we roast some sweet potatoes?",
+          "vi": "Mình nướng khoai lang nha?"
+        },
+        {
+          "en": "Let's roast the veggies in the oven.",
+          "vi": "Mình nướng rau củ trong lò nha."
+        },
+        {
+          "en": "Roasting makes the carrots taste sweet.",
+          "vi": "Nướng lên cà rốt ngọt hơn."
+        },
+        {
+          "en": "I want to roast marshmallows this weekend!",
+          "vi": "Cuối tuần con muốn nướng kẹo dẻo!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-012",
+      "en": "taste",
+      "vi": "nếm",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, this tastes amazing!",
+          "vi": "Ưm, cái này ngon tuyệt!"
+        },
+        {
+          "en": "Do you want to taste it?",
+          "vi": "Con muốn nếm thử không?"
+        },
+        {
+          "en": "Taste it and tell me.",
+          "vi": "Con nếm thử rồi nói mình nghe nha."
+        },
+        {
+          "en": "It tastes a little sweet.",
+          "vi": "Nó có vị hơi ngọt."
+        },
+        {
+          "en": "Can I taste the sauce?",
+          "vi": "Con nếm nước sốt được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-013",
+      "en": "crack",
+      "vi": "đập (trứng)",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Crack! The egg is open!",
+          "vi": "Cạch! Trứng bể rồi!"
+        },
+        {
+          "en": "Can you crack an egg?",
+          "vi": "Con đập trứng được không?"
+        },
+        {
+          "en": "Crack the egg on the bowl.",
+          "vi": "Con đập trứng vô thành chén nha."
+        },
+        {
+          "en": "Cracking eggs is a little messy.",
+          "vi": "Đập trứng hơi bừa bộn chút xíu."
+        },
+        {
+          "en": "I cracked two eggs!",
+          "vi": "Con đập được hai cái trứng!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-014",
+      "en": "spread",
+      "vi": "phết",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "There, spread nice and even!",
+          "vi": "Đó, phết đều rồi nè!"
+        },
+        {
+          "en": "Can you spread the butter?",
+          "vi": "Con phết bơ được không?"
+        },
+        {
+          "en": "Spread it to the edges.",
+          "vi": "Con phết tới mép bánh nha."
+        },
+        {
+          "en": "Spreading is easy with soft butter.",
+          "vi": "Bơ mềm thì phết dễ lắm."
+        },
+        {
+          "en": "I spread jam on my toast!",
+          "vi": "Con phết mứt lên bánh mì nướng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-015",
+      "en": "knead",
+      "vi": "nhồi bột",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, you're kneading like a real baker!",
+          "vi": "Nhìn nè, con nhồi bột như thợ làm bánh luôn!"
+        },
+        {
+          "en": "Do you want to help me knead the dough?",
+          "vi": "Con muốn phụ mình nhồi bột không?"
+        },
+        {
+          "en": "Push and fold the dough to knead it.",
+          "vi": "Con ấn rồi gấp bột lại để nhồi nha."
+        },
+        {
+          "en": "Kneading makes the dough nice and soft.",
+          "vi": "Nhồi bột thì bột mềm và dẻo."
+        },
+        {
+          "en": "I helped knead the bread dough!",
+          "vi": "Con phụ nhồi bột làm bánh mì đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-016",
+      "en": "sprinkle",
+      "vi": "rắc",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, rainbow sprinkles!",
+          "vi": "Ồ, cốm màu cầu vồng!"
+        },
+        {
+          "en": "Do you want to sprinkle the cheese?",
+          "vi": "Con muốn rắc phô mai không?"
+        },
+        {
+          "en": "Sprinkle a little salt on top.",
+          "vi": "Con rắc chút muối lên trên nha."
+        },
+        {
+          "en": "Sprinkles make it look so pretty.",
+          "vi": "Rắc cốm lên nhìn đẹp ghê."
+        },
+        {
+          "en": "I sprinkled sugar everywhere!",
+          "vi": "Con rắc đường tùm lum luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-017",
+      "en": "scoop",
+      "vi": "múc, xúc",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "One scoop, two scoops!",
+          "vi": "Một muỗng, hai muỗng!"
+        },
+        {
+          "en": "Can you scoop the ice cream?",
+          "vi": "Con múc kem được không?"
+        },
+        {
+          "en": "Scoop the flour into the bowl.",
+          "vi": "Con xúc bột bỏ vô tô nha."
+        },
+        {
+          "en": "This ice cream is hard to scoop.",
+          "vi": "Kem này cứng quá, khó múc."
+        },
+        {
+          "en": "I want two scoops, please!",
+          "vi": "Con muốn hai viên kem!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-018",
+      "en": "slice",
+      "vi": "cắt lát",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a thin slice!",
+          "vi": "Nhìn nè, một lát mỏng!"
+        },
+        {
+          "en": "How many slices do you want?",
+          "vi": "Con muốn mấy lát?"
+        },
+        {
+          "en": "Let's slice the bread.",
+          "vi": "Mình cắt bánh mì thành lát nha."
+        },
+        {
+          "en": "Thin slices are easy to eat.",
+          "vi": "Lát mỏng thì dễ ăn."
+        },
+        {
+          "en": "I ate two slices of pizza!",
+          "vi": "Con ăn hai miếng pizza!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-019",
+      "en": "grill",
+      "vi": "nướng (than)",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, smell the grill!",
+          "vi": "Ưm, ngửi mùi đồ nướng nè!"
+        },
+        {
+          "en": "Should we grill corn tonight?",
+          "vi": "Tối nay mình nướng bắp nha?"
+        },
+        {
+          "en": "Stay away from the hot grill.",
+          "vi": "Con tránh xa lò nướng nóng nha."
+        },
+        {
+          "en": "Grilled meat smells so yummy.",
+          "vi": "Thịt nướng thơm quá trời."
+        },
+        {
+          "en": "I love grilled chicken!",
+          "vi": "Con mê gà nướng!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-020",
+      "en": "mash",
+      "vi": "nghiền, dầm",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ta-da, it's all mashed!",
+          "vi": "Xong, nghiền nhuyễn hết rồi nè!"
+        },
+        {
+          "en": "Can you mash the banana?",
+          "vi": "Con dầm trái chuối được không?"
+        },
+        {
+          "en": "Mash it with your fork.",
+          "vi": "Con lấy nĩa dầm nó ra nha."
+        },
+        {
+          "en": "Mashed bananas are soft and sweet.",
+          "vi": "Chuối dầm mềm mà ngọt."
+        },
+        {
+          "en": "I mashed the potatoes!",
+          "vi": "Con nghiền khoai tây rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-021",
+      "en": "warm up",
+      "vi": "hâm nóng",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Okay, it's all warmed up!",
+          "vi": "Rồi, hâm nóng xong rồi!"
+        },
+        {
+          "en": "Should I warm up your milk?",
+          "vi": "Mình hâm sữa cho con nha?"
+        },
+        {
+          "en": "Let's warm up the soup.",
+          "vi": "Mình hâm lại canh nha."
+        },
+        {
+          "en": "Leftovers taste better warmed up.",
+          "vi": "Đồ ăn thừa hâm nóng lại ăn ngon hơn."
+        },
+        {
+          "en": "Can you warm up my rice?",
+          "vi": "Hâm cơm cho con nha?"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-022",
+      "en": "blend",
+      "vi": "xay",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, it's all blended!",
+          "vi": "Oa, xay nhuyễn hết rồi!"
+        },
+        {
+          "en": "Should we blend some mango?",
+          "vi": "Mình xay xoài nha?"
+        },
+        {
+          "en": "Blend it until it's smooth.",
+          "vi": "Xay tới khi nó mịn nha."
+        },
+        {
+          "en": "Blending turns fruit into a drink.",
+          "vi": "Xay trái cây ra thành nước uống."
+        },
+        {
+          "en": "I blended strawberries and milk!",
+          "vi": "Con xay dâu với sữa đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-023",
+      "en": "toast",
+      "vi": "nướng giòn",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, the bread is toasting!",
+          "vi": "Ồ, bánh mì đang nướng nè!"
+        },
+        {
+          "en": "Do you want your bread toasted?",
+          "vi": "Con muốn nướng bánh mì không?"
+        },
+        {
+          "en": "Let's toast two slices.",
+          "vi": "Mình nướng hai lát nha."
+        },
+        {
+          "en": "Toasted bread is warm and crunchy.",
+          "vi": "Bánh mì nướng nóng giòn."
+        },
+        {
+          "en": "I toasted my own bread!",
+          "vi": "Con tự nướng bánh mì đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-024",
+      "en": "grate",
+      "vi": "bào",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, grated cheese like snow!",
+          "vi": "Nhìn nè, phô mai bào như tuyết!"
+        },
+        {
+          "en": "Can you grate the carrot slowly?",
+          "vi": "Con bào cà rốt từ từ được không?"
+        },
+        {
+          "en": "Grate the cheese over the pasta, please.",
+          "vi": "Con bào phô mai lên mì nha."
+        },
+        {
+          "en": "Grating takes care, so keep your fingers back.",
+          "vi": "Bào phải cẩn thận, để ngón tay xa ra nha."
+        },
+        {
+          "en": "I grated a whole carrot by myself!",
+          "vi": "Con tự bào nguyên củ cà rốt luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-025",
+      "en": "measure",
+      "vi": "đong",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Perfect, you measured it just right!",
+          "vi": "Hoàn hảo, con đong vừa đúng luôn!"
+        },
+        {
+          "en": "Can you measure one cup of rice?",
+          "vi": "Con đong một ly gạo được không?"
+        },
+        {
+          "en": "Measure the sugar carefully, okay?",
+          "vi": "Con đong đường cẩn thận nha."
+        },
+        {
+          "en": "Measuring helps the cake turn out right.",
+          "vi": "Đong đúng thì bánh mới ngon."
+        },
+        {
+          "en": "I measured the flour for the cookies!",
+          "vi": "Con đong bột làm bánh quy đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-026",
+      "en": "dip",
+      "vi": "chấm",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Dip, dip, yum!",
+          "vi": "Chấm, chấm, ngon!"
+        },
+        {
+          "en": "Which sauce do you want to dip?",
+          "vi": "Con muốn chấm nước sốt nào?"
+        },
+        {
+          "en": "Dip your carrot in the sauce.",
+          "vi": "Con chấm cà rốt vô nước sốt nha."
+        },
+        {
+          "en": "Dipping makes veggies more fun.",
+          "vi": "Chấm rau ăn vui hơn."
+        },
+        {
+          "en": "I dipped my fries in ketchup!",
+          "vi": "Con chấm khoai tây chiên vô tương cà!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-027",
+      "en": "wrap",
+      "vi": "cuốn, gói",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little rice paper wrap!",
+          "vi": "Nhìn nè, cuốn bánh tráng nhỏ!"
+        },
+        {
+          "en": "Can you wrap it tight?",
+          "vi": "Con cuốn chặt được không?"
+        },
+        {
+          "en": "Wrap the sandwich for your lunch.",
+          "vi": "Con gói bánh mì kẹp mang đi ăn trưa nha."
+        },
+        {
+          "en": "Wrapping rolls takes practice.",
+          "vi": "Gói cuốn phải tập nhiều mới giỏi."
+        },
+        {
+          "en": "I wrapped my own roll!",
+          "vi": "Con tự cuốn được một cuốn!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-028",
+      "en": "set the table",
+      "vi": "dọn bàn ăn",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Time to set the table!",
+          "vi": "Tới giờ dọn bàn ăn rồi!"
+        },
+        {
+          "en": "Can you help set the table?",
+          "vi": "Con phụ dọn bàn ăn nha?"
+        },
+        {
+          "en": "Set the table with spoons and bowls.",
+          "vi": "Con dọn muỗng với chén ra bàn nha."
+        },
+        {
+          "en": "Setting the table is a big job.",
+          "vi": "Dọn bàn ăn là việc quan trọng đó."
+        },
+        {
+          "en": "I set the table for everyone!",
+          "vi": "Con dọn bàn cho cả nhà rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-029",
+      "en": "stir-fry",
+      "vi": "xào",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, beef stir-fry!",
+          "vi": "Ưm, bò xào!"
+        },
+        {
+          "en": "Should we stir-fry the noodles?",
+          "vi": "Mình xào mì nha?"
+        },
+        {
+          "en": "Let's stir-fry the veggies quickly.",
+          "vi": "Mình xào rau nhanh tay nha."
+        },
+        {
+          "en": "Stir-fry cooks fast in a hot pan.",
+          "vi": "Món xào nấu nhanh trong chảo nóng."
+        },
+        {
+          "en": "I want stir-fry for dinner!",
+          "vi": "Con muốn ăn món xào bữa tối!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-030",
+      "en": "serve",
+      "vi": "dọn ra, mời",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Dinner is served!",
+          "vi": "Mời cả nhà dùng bữa!"
+        },
+        {
+          "en": "Can you serve the rice to everyone?",
+          "vi": "Con xới cơm cho cả nhà được không?"
+        },
+        {
+          "en": "Serve Grandma first, okay?",
+          "vi": "Con mời bà trước nha."
+        },
+        {
+          "en": "Serving others first is good manners.",
+          "vi": "Mời người khác trước là lịch sự đó."
+        },
+        {
+          "en": "I served soup to everybody!",
+          "vi": "Con múc canh cho mọi người rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-031",
+      "en": "sip",
+      "vi": "ngụm, nhấp",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Just a little sip!",
+          "vi": "Chỉ một ngụm nhỏ thôi!"
+        },
+        {
+          "en": "Want a sip of my smoothie?",
+          "vi": "Con muốn uống thử một ngụm sinh tố không?",
+          "ipa": "/wɑnt ə sɪp ʌv maɪ ˈsmuði/"
+        },
+        {
+          "en": "Take small sips. It's hot.",
+          "vi": "Uống từng ngụm nhỏ nha. Nóng đó."
+        },
+        {
+          "en": "Little sips are better than big gulps.",
+          "vi": "Uống từng ngụm nhỏ thì tốt hơn uống ực ực."
+        },
+        {
+          "en": "Can I have a sip?",
+          "vi": "Cho con uống một ngụm nha?"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-032",
+      "en": "sweet",
+      "vi": "ngọt",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, so sweet!",
+          "vi": "Ưm, ngọt quá!"
+        },
+        {
+          "en": "Is it sweet or sour?",
+          "vi": "Nó ngọt hay chua?"
+        },
+        {
+          "en": "Try this. It's really sweet!",
+          "vi": "Thử cái này nè. Ngọt lắm!"
+        },
+        {
+          "en": "Ripe mangoes are very sweet.",
+          "vi": "Xoài chín ngọt lắm."
+        },
+        {
+          "en": "I like sweet things!",
+          "vi": "Con thích đồ ngọt!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-033",
+      "en": "sour",
+      "vi": "chua",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, that's sour!",
+          "vi": "Ui, chua quá!"
+        },
+        {
+          "en": "Is the lemon too sour?",
+          "vi": "Chanh chua quá hả con?"
+        },
+        {
+          "en": "Try a sour candy. Ready?",
+          "vi": "Thử viên kẹo chua nè. Sẵn sàng chưa?"
+        },
+        {
+          "en": "Sour things make your face scrunch up.",
+          "vi": "Đồ chua làm con nhăn mặt luôn."
+        },
+        {
+          "en": "That was so sour!",
+          "vi": "Chua dữ vậy!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-034",
+      "en": "salty",
+      "vi": "mặn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, salty!",
+          "vi": "Ồ, mặn quá!"
+        },
+        {
+          "en": "Is the soup too salty?",
+          "vi": "Canh mặn quá hả con?"
+        },
+        {
+          "en": "Have some water after salty snacks.",
+          "vi": "Ăn đồ mặn xong thì uống nước nha."
+        },
+        {
+          "en": "Chips are crunchy and salty.",
+          "vi": "Bánh snack giòn mà mặn."
+        },
+        {
+          "en": "The ocean water tasted salty!",
+          "vi": "Nước biển mặn chát!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-035",
+      "en": "spicy",
+      "vi": "cay",
+      "pos": "adjective",
+      "emoji": "🌶️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, spicy!",
+          "vi": "Ui, cay quá!"
+        },
+        {
+          "en": "Is it too spicy for you?",
+          "vi": "Cay quá với con hả?"
+        },
+        {
+          "en": "Drink some milk if it's spicy.",
+          "vi": "Cay thì uống chút sữa nha."
+        },
+        {
+          "en": "Red chilies are really spicy.",
+          "vi": "Ớt đỏ cay lắm."
+        },
+        {
+          "en": "My mouth is on fire! Too spicy!",
+          "vi": "Miệng con nóng ran! Cay quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-036",
+      "en": "bitter",
+      "vi": "đắng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yuck, that's bitter!",
+          "vi": "Ẹ, đắng quá!"
+        },
+        {
+          "en": "Is bitter melon too bitter for you?",
+          "vi": "Khổ qua đắng quá với con hả?"
+        },
+        {
+          "en": "Try one bite. It's only a little bitter.",
+          "vi": "Thử một miếng thôi. Chỉ hơi đắng chút xíu."
+        },
+        {
+          "en": "Coffee is bitter, so kids don't drink it.",
+          "vi": "Cà phê đắng, nên con nít không uống."
+        },
+        {
+          "en": "I tried bitter melon, and it was okay!",
+          "vi": "Con ăn thử khổ qua rồi, cũng được!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-037",
+      "en": "crunchy",
+      "vi": "giòn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Crunch, crunch! So crunchy!",
+          "vi": "Rộp rộp! Giòn quá!"
+        },
+        {
+          "en": "Is your apple crunchy?",
+          "vi": "Táo của con giòn không?"
+        },
+        {
+          "en": "Listen to this crunchy carrot!",
+          "vi": "Nghe tiếng cà rốt giòn nè!"
+        },
+        {
+          "en": "Crackers are crunchy and dry.",
+          "vi": "Bánh quy giòn và khô."
+        },
+        {
+          "en": "I like crunchy snacks!",
+          "vi": "Con thích đồ ăn giòn giòn!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-038",
+      "en": "crispy",
+      "vi": "giòn rụm",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, crispy chicken!",
+          "vi": "Ồ, gà giòn!"
+        },
+        {
+          "en": "Do you like crispy rice?",
+          "vi": "Con thích cơm cháy không?"
+        },
+        {
+          "en": "Bake it until it's nice and crispy.",
+          "vi": "Nướng tới khi giòn rụm nha."
+        },
+        {
+          "en": "The edges are brown and crispy.",
+          "vi": "Mép bánh vàng nâu, giòn rụm."
+        },
+        {
+          "en": "Mine is extra crispy!",
+          "vi": "Của con giòn ghê luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-039",
+      "en": "chewy",
+      "vi": "dai",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, chewy candy!",
+          "vi": "Ồ, kẹo dẻo!"
+        },
+        {
+          "en": "Is the meat too chewy?",
+          "vi": "Thịt dai quá hả con?"
+        },
+        {
+          "en": "Chew it well, it's chewy.",
+          "vi": "Nhai kỹ nha, nó dai đó."
+        },
+        {
+          "en": "Gummy bears are soft and chewy.",
+          "vi": "Kẹo dẻo hình gấu mềm mà dai."
+        },
+        {
+          "en": "This bread is so chewy!",
+          "vi": "Bánh mì này dai quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-040",
+      "en": "juicy",
+      "vi": "mọng nước",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, so juicy!",
+          "vi": "Oa, nhiều nước quá!"
+        },
+        {
+          "en": "Is your peach juicy?",
+          "vi": "Trái đào của con nhiều nước không?"
+        },
+        {
+          "en": "Pick the juiciest orange.",
+          "vi": "Con chọn trái cam mọng nước nhất nha."
+        },
+        {
+          "en": "Juicy fruit drips down your chin.",
+          "vi": "Trái cây mọng nước chảy xuống cằm luôn."
+        },
+        {
+          "en": "My watermelon is super juicy!",
+          "vi": "Dưa hấu của con mọng nước ghê!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-041",
+      "en": "creamy",
+      "vi": "béo, mịn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, so creamy!",
+          "vi": "Ưm, béo ngậy quá!"
+        },
+        {
+          "en": "Do you like creamy soup?",
+          "vi": "Con thích súp kem không?"
+        },
+        {
+          "en": "Stir it until it's creamy.",
+          "vi": "Khuấy tới khi nó mịn nha."
+        },
+        {
+          "en": "Mashed potatoes are soft and creamy.",
+          "vi": "Khoai tây nghiền mềm mà béo."
+        },
+        {
+          "en": "This milkshake is creamy!",
+          "vi": "Sữa lắc này béo quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-042",
+      "en": "yummy",
+      "vi": "ngon",
+      "pos": "adjective",
+      "emoji": "😋",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yummy!",
+          "vi": "Ngon quá!"
+        },
+        {
+          "en": "Is it yummy?",
+          "vi": "Ngon không con?"
+        },
+        {
+          "en": "Try it, it's yummy!",
+          "vi": "Thử đi, ngon lắm!"
+        },
+        {
+          "en": "That was a yummy lunch.",
+          "vi": "Bữa trưa ngon ghê."
+        },
+        {
+          "en": "Yummy in my tummy!",
+          "vi": "Ngon ơi là ngon!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-043",
+      "en": "yucky",
+      "vi": "dở, ghê",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, that's yucky!",
+          "vi": "Ui, dở ẹc!"
+        },
+        {
+          "en": "Why do you think it's yucky?",
+          "vi": "Sao con thấy nó dở?"
+        },
+        {
+          "en": "Try one bite before you say yucky.",
+          "vi": "Thử một miếng rồi hãy nói dở nha."
+        },
+        {
+          "en": "Old food tastes yucky.",
+          "vi": "Đồ ăn cũ thì dở lắm."
+        },
+        {
+          "en": "It looks yucky, but it's yummy!",
+          "vi": "Nhìn ghê mà ăn ngon!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-044",
+      "en": "delicious",
+      "vi": "ngon tuyệt",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, this is delicious!",
+          "vi": "Oa, ngon tuyệt!"
+        },
+        {
+          "en": "What's the most delicious thing you ate today?",
+          "vi": "Hôm nay con ăn món gì ngon nhất?"
+        },
+        {
+          "en": "Tell Grandma her soup is delicious.",
+          "vi": "Con khen bà nấu canh ngon nha."
+        },
+        {
+          "en": "Grandma's cooking is always delicious.",
+          "vi": "Bà nấu món gì cũng ngon."
+        },
+        {
+          "en": "This is the most delicious cake ever!",
+          "vi": "Đây là cái bánh ngon nhất luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-045",
+      "en": "fresh",
+      "vi": "tươi",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, fresh bread!",
+          "vi": "Ồ, bánh mì mới ra lò!"
+        },
+        {
+          "en": "Is this milk still fresh?",
+          "vi": "Sữa này còn tươi không ta?"
+        },
+        {
+          "en": "Let's buy fresh fruit at the market.",
+          "vi": "Mình ra chợ mua trái cây tươi nha."
+        },
+        {
+          "en": "Fresh veggies are crunchy and green.",
+          "vi": "Rau tươi giòn và xanh mướt."
+        },
+        {
+          "en": "We picked fresh strawberries!",
+          "vi": "Tụi con hái dâu tươi đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-046",
+      "en": "raw",
+      "vi": "sống (chưa nấu)",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oops, that's still raw!",
+          "vi": "Ui, cái đó còn sống!"
+        },
+        {
+          "en": "Can you eat carrots raw?",
+          "vi": "Cà rốt ăn sống được không?"
+        },
+        {
+          "en": "Wash your hands after touching raw meat.",
+          "vi": "Đụng vô thịt sống thì rửa tay nha."
+        },
+        {
+          "en": "Raw eggs can make your tummy sick.",
+          "vi": "Trứng sống có thể làm con đau bụng."
+        },
+        {
+          "en": "I like raw cucumbers better than cooked ones.",
+          "vi": "Con thích dưa leo sống hơn nấu chín."
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-047",
+      "en": "burnt",
+      "vi": "cháy, khét",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, the toast is burnt!",
+          "vi": "Ui, bánh mì cháy rồi!"
+        },
+        {
+          "en": "Do you smell something burnt?",
+          "vi": "Con có ngửi thấy mùi khét không?"
+        },
+        {
+          "en": "Turn the heat down so it doesn't get burnt.",
+          "vi": "Vặn lửa nhỏ lại cho khỏi bị cháy nha."
+        },
+        {
+          "en": "Burnt food tastes bitter.",
+          "vi": "Đồ ăn bị cháy thì đắng."
+        },
+        {
+          "en": "My marshmallow got burnt!",
+          "vi": "Kẹo dẻo của con bị cháy rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-048",
+      "en": "ripe",
+      "vi": "chín (trái cây)",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "This banana is ripe!",
+          "vi": "Trái chuối này chín rồi!"
+        },
+        {
+          "en": "Is the mango ripe yet?",
+          "vi": "Xoài chín chưa ta?"
+        },
+        {
+          "en": "Pick a ripe one, okay?",
+          "vi": "Con lựa trái chín nha."
+        },
+        {
+          "en": "Ripe bananas have brown spots.",
+          "vi": "Chuối chín có đốm nâu."
+        },
+        {
+          "en": "I found a ripe strawberry!",
+          "vi": "Con tìm được trái dâu chín!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-049",
+      "en": "recipe",
+      "vi": "công thức nấu ăn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a new recipe!",
+          "vi": "Ồ, công thức mới!"
+        },
+        {
+          "en": "What does the recipe say next?",
+          "vi": "Công thức nói bước tiếp theo là gì?"
+        },
+        {
+          "en": "Let's follow the recipe step by step.",
+          "vi": "Mình làm theo công thức từng bước nha."
+        },
+        {
+          "en": "This is Grandma's secret recipe.",
+          "vi": "Đây là công thức bí mật của bà."
+        },
+        {
+          "en": "Can we try a new recipe this weekend?",
+          "vi": "Cuối tuần mình thử món mới được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-050",
+      "en": "ingredients",
+      "vi": "nguyên liệu",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Okay, we have all the ingredients!",
+          "vi": "Rồi, mình có đủ nguyên liệu rồi!"
+        },
+        {
+          "en": "What ingredients do we need for pancakes?",
+          "vi": "Làm bánh kếp cần nguyên liệu gì ta?"
+        },
+        {
+          "en": "Let's put the ingredients on the counter first.",
+          "vi": "Mình bày nguyên liệu lên kệ bếp trước nha."
+        },
+        {
+          "en": "Eggs, flour, and milk are the main ingredients.",
+          "vi": "Trứng, bột và sữa là nguyên liệu chính."
+        },
+        {
+          "en": "I'll go get the ingredients from the fridge.",
+          "vi": "Con đi lấy nguyên liệu trong tủ lạnh nha."
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-051",
+      "en": "flavor",
+      "vi": "vị",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a new flavor!",
+          "vi": "Ồ, vị mới nè!"
+        },
+        {
+          "en": "Which flavor do you like best?",
+          "vi": "Con thích vị nào nhất?"
+        },
+        {
+          "en": "Pick one flavor for your ice cream.",
+          "vi": "Con chọn một vị kem nha."
+        },
+        {
+          "en": "Lime gives the soup a fresh flavor.",
+          "vi": "Chanh làm canh có vị thanh."
+        },
+        {
+          "en": "My favorite flavor is strawberry!",
+          "vi": "Con thích vị dâu nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-cooking-052",
+      "en": "leftovers",
+      "vi": "đồ ăn còn lại",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Leftover pizza for lunch!",
+          "vi": "Trưa nay ăn pizza còn lại!"
+        },
+        {
+          "en": "Should we have leftovers for dinner?",
+          "vi": "Tối nay mình ăn đồ còn lại nha?"
+        },
+        {
+          "en": "Put the leftovers in the fridge, please.",
+          "vi": "Con cất đồ ăn còn lại vô tủ lạnh nha."
+        },
+        {
+          "en": "Eating leftovers means we don't waste food.",
+          "vi": "Ăn đồ còn lại là để không phí đồ ăn."
+        },
+        {
+          "en": "I'll eat the leftovers tomorrow!",
+          "vi": "Mai con ăn phần còn lại nha!"
+        }
+      ]
+    }
+  ]
+}

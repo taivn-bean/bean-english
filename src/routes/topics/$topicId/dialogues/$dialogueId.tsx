@@ -3,10 +3,10 @@ import { createFileRoute, notFound } from '@tanstack/react-router'
 import clsx from 'clsx'
 import { Play } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
-import { PageHeader } from '../../../../components/Layout'
-import { play, playSequence, useAudioState } from '../../../../lib/audio'
-import { topicQuery } from '../../../../lib/content'
-import { useSettings } from '../../../../lib/settings'
+import { PageHeader } from '@/shared/ui/Layout'
+import { play, playSequence, useAudioState } from '@/features/audio/audio'
+import { topicQuery } from '@/features/content/content'
+import { useSettings } from '@/shared/settings'
 
 export const Route = createFileRoute('/topics/$topicId/dialogues/$dialogueId')({
   loader: async ({ context, params }) => {

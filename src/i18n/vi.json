@@ -8,7 +8,8 @@
     "favorites": "Yêu thích",
     "progress": "Tiến độ",
     "settings": "Cài đặt",
-    "search": "Tìm"
+    "search": "Tìm",
+    "cards": "Thẻ từ"
   },
   "home": {
     "greeting": "Hôm nay mình nói gì với {{name}}?",
@@ -62,7 +63,13 @@
     "active": "Đang chọn",
     "select": "Chọn",
     "save": "Lưu",
-    "cancel": "Huỷ"
+    "cancel": "Huỷ",
+    "wordsLearned": "Từ đã thuộc",
+    "byTopic": "Theo chủ đề",
+    "manageProfiles": "Quản lý hồ sơ các bé",
+    "switchChild": "Chọn bé",
+    "week": "7 ngày qua",
+    "weekTotal": "{{count}} lượt học"
   },
   "settings": {
     "title": "Cài đặt",
@@ -90,7 +97,8 @@
     "loading": "Đang tải…",
     "error": "Không tải được dữ liệu",
     "retry": "Thử lại",
-    "defaultChild": "Bé"
+    "defaultChild": "Bé",
+    "close": "Đóng"
   },
   "search": {
     "title": "Tìm câu",
@@ -180,5 +188,75 @@
     "notePlaceholder": "Ghi chú (vd: nói lúc đi công viên)",
     "share": "Chia sẻ",
     "shareTitle": "Những câu tiếng Anh {{name}} đã nói được 🐱"
+  },
+  "cards": {
+    "title": "Thẻ từ vựng",
+    "reviewToday": "Ôn thẻ hôm nay",
+    "count": "{{count}} thẻ",
+    "learnedTotal": "Đã thuộc {{count}} từ",
+    "noneDue": "Hôm nay đã ôn xong! Chọn một bộ thẻ để học từ mới.",
+    "startHint": "Chọn một bộ thẻ bên dưới để bắt đầu học từ mới.",
+    "learnedOf": "Đã thuộc {{learned}}/{{total}} từ",
+    "deckStatus": "{{due}} thẻ cần ôn · {{fresh}} từ mới",
+    "study": "Học ngay",
+    "status": {
+      "new": "Mới",
+      "learning": "Đang học",
+      "learned": "Đã thuộc"
+    },
+    "flip": "Lật thẻ",
+    "flipBack": "Lật lại",
+    "listen": "Nghe từ",
+    "frontHint": "Bé nghe rồi đoán xem là gì nha!",
+    "examples": "5 câu để nói cùng bé",
+    "playAll": "Nghe hết",
+    "again": "Chưa nhớ",
+    "known": "Nhớ rồi",
+    "doneTitle": "Giỏi quá! Xong rồi 🎉",
+    "doneDesc": "Đã ôn {{total}} từ, bé nhớ {{known}} lần.",
+    "nothingToStudy": "Không còn thẻ nào để học lúc này",
+    "backToDeck": "Về bộ thẻ",
+    "backToAvatar": "Về trang của bé",
+    "loadError": "Không tải được bộ thẻ. Kiểm tra mạng rồi thử lại.",
+    "allDecks": "Xem tất cả {{count}} bộ thẻ",
+    "swipeHint": "Mẹo: vuốt phải = Nhớ rồi · vuốt trái = Chưa nhớ",
+    "cheer": "Giỏi quá!",
+    "shuffle": "Trộn thẻ"
+  },
+  "today": {
+    "title": "Hôm nay của {{name}}",
+    "review": "Ôn thẻ từ",
+    "reviewDone": "Đã ôn xong hôm nay",
+    "startCards": "Học từ mới",
+    "continue": "Học tiếp",
+    "start": "Bắt đầu với"
+  },
+  "rewards": {
+    "title": "Sticker của bé",
+    "count": "{{earned}}/{{total}} sticker",
+    "newTitle": "Bé nhận được {{count}} sticker mới! 🎉",
+    "ok": "Tuyệt vời!",
+    "kind": {
+      "studied": "Học {{count}} từ",
+      "learned": "Thuộc {{count}} từ",
+      "bestStreak": "Chuỗi {{count}} ngày",
+      "childSaid": "Nói {{count}} câu"
+    }
+  },
+  "reminder": {
+    "title": "Nhắc học mỗi ngày",
+    "toggle": "Bật thông báo nhắc học",
+    "onHint": "Mỗi ngày lúc {{time}} kèm 1 câu tiếng Anh",
+    "offHint": "Nhận 1 thông báo mỗi ngày vào giờ bạn chọn",
+    "time": "Giờ nhắc",
+    "test": "Gửi thử",
+    "testSent": "Đã gửi thử — thông báo sẽ tới trong giây lát.",
+    "enabled": "Đã bật nhắc học 🎉",
+    "denied": "Thông báo đang bị chặn. Vào Cài đặt iPhone → Thông báo → Bean để bật lại.",
+    "dismissed": "Bạn chưa cho phép thông báo.",
+    "tooSoon": "Đợi 1 phút rồi gửi thử lại nha.",
+    "error": "Có lỗi, kiểm tra mạng rồi thử lại.",
+    "installFirst": "Để nhận thông báo trên iPhone: bấm Chia sẻ → Thêm vào MH chính, rồi mở Bean từ icon ngoài màn hình chính.",
+    "unsupported": "Trình duyệt này chưa hỗ trợ thông báo."
   }
 }

@@ -1,0 +1,1723 @@
+{
+  "deckId": "v-toys",
+  "words": [
+    {
+      "id": "v-toys-001",
+      "en": "toy",
+      "vi": "món đồ chơi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a new toy!",
+          "vi": "Oa, đồ chơi mới nè!"
+        },
+        {
+          "en": "Which toy do you want?",
+          "vi": "Con muốn món đồ chơi nào?"
+        },
+        {
+          "en": "Put your toys away, please.",
+          "vi": "Cất đồ chơi đi con nha."
+        },
+        {
+          "en": "This toy is so fun.",
+          "vi": "Món đồ chơi này vui ghê."
+        },
+        {
+          "en": "Can I play with this toy?",
+          "vi": "Con chơi món đồ chơi này được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-002",
+      "en": "ball",
+      "vi": "trái banh",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big red ball!",
+          "vi": "Nhìn kìa, trái banh đỏ bự!"
+        },
+        {
+          "en": "Where did the ball go?",
+          "vi": "Trái banh lăn đi đâu rồi?"
+        },
+        {
+          "en": "Roll the ball to me.",
+          "vi": "Lăn trái banh qua đây nè."
+        },
+        {
+          "en": "This ball is really bouncy.",
+          "vi": "Trái banh này nảy dữ lắm."
+        },
+        {
+          "en": "My ball! Throw it back!",
+          "vi": "Banh của con! Ném lại đi!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-003",
+      "en": "doll",
+      "vi": "con búp bê",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aw, what a cute doll!",
+          "vi": "Ôi, con búp bê dễ thương quá!"
+        },
+        {
+          "en": "What's your doll's name?",
+          "vi": "Búp bê của con tên gì?"
+        },
+        {
+          "en": "Can you put your doll to bed?",
+          "vi": "Con cho búp bê đi ngủ được không?"
+        },
+        {
+          "en": "Your doll has pretty hair.",
+          "vi": "Búp bê của con tóc đẹp ghê."
+        },
+        {
+          "en": "My doll is hungry!",
+          "vi": "Búp bê của con đói rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-004",
+      "en": "teddy bear",
+      "vi": "con gấu bông",
+      "pos": "noun",
+      "emoji": "🧸",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your teddy bear!",
+          "vi": "Gấu bông của con nè!"
+        },
+        {
+          "en": "Do you want your teddy bear?",
+          "vi": "Con muốn ôm gấu bông không?"
+        },
+        {
+          "en": "Give your teddy bear a hug.",
+          "vi": "Ôm gấu bông một cái đi con."
+        },
+        {
+          "en": "Your teddy bear is so soft.",
+          "vi": "Gấu bông của con mềm quá."
+        },
+        {
+          "en": "Teddy bear sleeps with me!",
+          "vi": "Gấu bông ngủ với con!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-005",
+      "en": "blocks",
+      "vi": "đồ chơi xếp hình",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, so many blocks!",
+          "vi": "Ồ, nhiều khối xếp hình quá!"
+        },
+        {
+          "en": "Do you want to play blocks?",
+          "vi": "Con muốn chơi xếp hình không?"
+        },
+        {
+          "en": "Let's stack the blocks up high.",
+          "vi": "Mình xếp mấy khối lên cao nha."
+        },
+        {
+          "en": "These blocks are really colorful.",
+          "vi": "Mấy khối này nhiều màu ghê."
+        },
+        {
+          "en": "I built it with blocks!",
+          "vi": "Con xếp bằng mấy khối đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-006",
+      "en": "puzzle",
+      "vi": "trò ghép hình",
+      "pos": "noun",
+      "emoji": "🧩",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, you finished the puzzle!",
+          "vi": "Hoan hô, con ghép xong rồi!"
+        },
+        {
+          "en": "Where does this puzzle piece go?",
+          "vi": "Miếng ghép này đặt ở đâu ta?"
+        },
+        {
+          "en": "Let's do a puzzle together.",
+          "vi": "Mình cùng ghép hình nha."
+        },
+        {
+          "en": "This puzzle is kind of tricky.",
+          "vi": "Bộ ghép hình này hơi khó à."
+        },
+        {
+          "en": "I can do this puzzle myself!",
+          "vi": "Con tự ghép được mà!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-007",
+      "en": "toy car",
+      "vi": "xe đồ chơi",
+      "pos": "noun",
+      "emoji": "🚗",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Vroom! Look at that toy car!",
+          "vi": "Brừm! Nhìn chiếc xe đồ chơi kìa!"
+        },
+        {
+          "en": "How many toy cars do you have?",
+          "vi": "Con có bao nhiêu chiếc xe đồ chơi?"
+        },
+        {
+          "en": "Push your toy car down here.",
+          "vi": "Đẩy xe đồ chơi xuống đây nè."
+        },
+        {
+          "en": "Your toy car is super fast!",
+          "vi": "Xe đồ chơi của con chạy nhanh ghê!"
+        },
+        {
+          "en": "My toy car won the race!",
+          "vi": "Xe của con thắng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-008",
+      "en": "robot",
+      "vi": "con rô-bốt",
+      "pos": "noun",
+      "emoji": "🤖",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Beep boop! It's a robot!",
+          "vi": "Bíp bíp! Con rô-bốt nè!"
+        },
+        {
+          "en": "Can your robot walk?",
+          "vi": "Rô-bốt của con biết đi không?"
+        },
+        {
+          "en": "Let's turn on the robot.",
+          "vi": "Mình bật rô-bốt lên nha."
+        },
+        {
+          "en": "This robot is really cool.",
+          "vi": "Con rô-bốt này ngầu ghê."
+        },
+        {
+          "en": "I want to build a robot.",
+          "vi": "Con muốn tự làm rô-bốt."
+        }
+      ]
+    },
+    {
+      "id": "v-toys-009",
+      "en": "stickers",
+      "vi": "hình dán",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, shiny stickers!",
+          "vi": "Ồ, hình dán lấp lánh nè!"
+        },
+        {
+          "en": "Which sticker do you like best?",
+          "vi": "Con thích hình dán nào nhất?"
+        },
+        {
+          "en": "Put the stickers on the paper, okay?",
+          "vi": "Dán hình lên giấy thôi nha."
+        },
+        {
+          "en": "These stickers are so cute.",
+          "vi": "Mấy hình dán này dễ thương quá."
+        },
+        {
+          "en": "I got a sticker today!",
+          "vi": "Hôm nay con được tặng hình dán!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-010",
+      "en": "bubbles",
+      "vi": "bong bóng xà phòng",
+      "pos": "noun",
+      "emoji": "🫧",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at all the bubbles!",
+          "vi": "Nhìn bong bóng nhiều chưa!"
+        },
+        {
+          "en": "Can you pop the bubbles?",
+          "vi": "Con chọc bể bong bóng được không?"
+        },
+        {
+          "en": "Blow the bubbles gently.",
+          "vi": "Thổi bong bóng nhẹ nhẹ thôi."
+        },
+        {
+          "en": "That bubble is so big!",
+          "vi": "Bong bóng đó bự ghê!"
+        },
+        {
+          "en": "More bubbles, please!",
+          "vi": "Thổi nữa đi, nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-011",
+      "en": "kite",
+      "vi": "con diều",
+      "pos": "noun",
+      "emoji": "🪁",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the kite is flying!",
+          "vi": "Nhìn kìa, con diều bay rồi!"
+        },
+        {
+          "en": "Do you want to fly a kite?",
+          "vi": "Con muốn thả diều không?"
+        },
+        {
+          "en": "Hold the kite string tight.",
+          "vi": "Nắm chặt dây diều nha."
+        },
+        {
+          "en": "Your kite is so high up!",
+          "vi": "Diều của con bay cao quá!"
+        },
+        {
+          "en": "My kite went up so high!",
+          "vi": "Diều của con bay cao lắm luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-012",
+      "en": "play dough",
+      "vi": "đất nặn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, squishy play dough!",
+          "vi": "Ồ, đất nặn mềm mềm nè!"
+        },
+        {
+          "en": "What can you make with play dough?",
+          "vi": "Con nặn được gì bằng đất nặn?"
+        },
+        {
+          "en": "Let's roll the play dough into snakes.",
+          "vi": "Mình lăn đất nặn thành con rắn nha."
+        },
+        {
+          "en": "This play dough smells funny.",
+          "vi": "Đất nặn này có mùi lạ ghê."
+        },
+        {
+          "en": "I made a cake with play dough!",
+          "vi": "Con nặn cái bánh bằng đất nặn!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-013",
+      "en": "toy box",
+      "vi": "thùng đồ chơi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's the toy box.",
+          "vi": "Thùng đồ chơi đây nè."
+        },
+        {
+          "en": "Is your car in the toy box?",
+          "vi": "Xe của con có trong thùng đồ chơi không?"
+        },
+        {
+          "en": "Put everything in the toy box.",
+          "vi": "Bỏ hết vô thùng đồ chơi nha."
+        },
+        {
+          "en": "The toy box is full now.",
+          "vi": "Thùng đồ chơi đầy rồi."
+        },
+        {
+          "en": "I cleaned up the toy box!",
+          "vi": "Con dọn thùng đồ chơi rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-014",
+      "en": "puppet",
+      "vi": "con rối",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hi there! I'm a puppet!",
+          "vi": "Chào bạn! Mình là con rối nè!"
+        },
+        {
+          "en": "Want to make the puppet talk?",
+          "vi": "Con muốn cho con rối nói chuyện không?"
+        },
+        {
+          "en": "Put the puppet on your hand.",
+          "vi": "Xỏ con rối vô tay đi con."
+        },
+        {
+          "en": "This puppet is so silly.",
+          "vi": "Con rối này ngộ ghê."
+        },
+        {
+          "en": "Let's do a puppet show!",
+          "vi": "Mình diễn múa rối đi!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-015",
+      "en": "dress-up",
+      "vi": "trò hóa trang",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, dress-up time!",
+          "vi": "Ồ, tới giờ hóa trang rồi!"
+        },
+        {
+          "en": "Do you want to play dress-up?",
+          "vi": "Con muốn chơi hóa trang không?"
+        },
+        {
+          "en": "Pick something from the dress-up box.",
+          "vi": "Chọn một bộ trong thùng hóa trang đi."
+        },
+        {
+          "en": "You look amazing in dress-up clothes!",
+          "vi": "Con mặc đồ hóa trang đẹp quá!"
+        },
+        {
+          "en": "I love playing dress-up!",
+          "vi": "Con thích chơi hóa trang lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-016",
+      "en": "balloon",
+      "vi": "trái bong bóng",
+      "pos": "noun",
+      "emoji": "🎈",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big balloon!",
+          "vi": "Oa, trái bong bóng bự quá!"
+        },
+        {
+          "en": "What color balloon do you want?",
+          "vi": "Con muốn bong bóng màu gì?"
+        },
+        {
+          "en": "Hold on to your balloon!",
+          "vi": "Cầm chặt bong bóng nha con!"
+        },
+        {
+          "en": "Uh-oh, the balloon popped.",
+          "vi": "Ui, bong bóng bể rồi."
+        },
+        {
+          "en": "My balloon flew away!",
+          "vi": "Bong bóng của con bay mất rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-017",
+      "en": "yo-yo",
+      "vi": "cái yo-yo",
+      "pos": "noun",
+      "emoji": "🪀",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, look at that yo-yo go!",
+          "vi": "Oa, nhìn cái yo-yo chạy kìa!"
+        },
+        {
+          "en": "Can you do a trick with your yo-yo?",
+          "vi": "Con làm được trò gì với yo-yo không?"
+        },
+        {
+          "en": "Wrap the string around the yo-yo first.",
+          "vi": "Quấn dây quanh yo-yo trước đã con."
+        },
+        {
+          "en": "A yo-yo takes lots of practice.",
+          "vi": "Chơi yo-yo phải tập nhiều lắm."
+        },
+        {
+          "en": "I learned a new yo-yo trick today!",
+          "vi": "Hôm nay con học được trò yo-yo mới!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-018",
+      "en": "train set",
+      "vi": "bộ tàu lửa đồ chơi",
+      "pos": "noun",
+      "emoji": "🚂",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Choo choo! Here's the train set!",
+          "vi": "Tu tu! Bộ tàu lửa nè!"
+        },
+        {
+          "en": "Can we build the train set?",
+          "vi": "Mình lắp bộ tàu lửa nha?"
+        },
+        {
+          "en": "Let's connect the train set tracks.",
+          "vi": "Mình nối đường ray tàu lửa nha."
+        },
+        {
+          "en": "This train set is really long.",
+          "vi": "Bộ tàu lửa này dài ghê."
+        },
+        {
+          "en": "I love my train set!",
+          "vi": "Con thích bộ tàu lửa lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-019",
+      "en": "dollhouse",
+      "vi": "nhà búp bê",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at this little dollhouse!",
+          "vi": "Nhìn ngôi nhà búp bê nhỏ xíu nè!"
+        },
+        {
+          "en": "Who lives in the dollhouse?",
+          "vi": "Ai sống trong nhà búp bê vậy?"
+        },
+        {
+          "en": "Put the bed in the dollhouse.",
+          "vi": "Đặt cái giường vô nhà búp bê đi."
+        },
+        {
+          "en": "The dollhouse has tiny chairs.",
+          "vi": "Nhà búp bê có ghế nhỏ xíu."
+        },
+        {
+          "en": "Let's play dollhouse together!",
+          "vi": "Mình chơi nhà búp bê chung nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-020",
+      "en": "stuffed animal",
+      "vi": "thú nhồi bông",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, a fluffy stuffed animal!",
+          "vi": "Ôi, thú nhồi bông mềm mịn quá!"
+        },
+        {
+          "en": "Which stuffed animal is your favorite?",
+          "vi": "Con thích con thú bông nào nhất?"
+        },
+        {
+          "en": "Pick one stuffed animal for bed.",
+          "vi": "Chọn một con thú bông để ngủ nha."
+        },
+        {
+          "en": "Your stuffed animals look sleepy.",
+          "vi": "Mấy con thú bông của con buồn ngủ rồi."
+        },
+        {
+          "en": "I have ten stuffed animals!",
+          "vi": "Con có mười con thú bông lận!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-021",
+      "en": "jump rope",
+      "vi": "dây nhảy",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hey, you found the jump rope!",
+          "vi": "Ê, con tìm được sợi dây nhảy rồi!"
+        },
+        {
+          "en": "How many times can you jump rope?",
+          "vi": "Con nhảy dây được bao nhiêu cái?"
+        },
+        {
+          "en": "Let's count while you jump rope.",
+          "vi": "Con nhảy dây đi, mình đếm cho."
+        },
+        {
+          "en": "Jump rope is great exercise.",
+          "vi": "Nhảy dây là tập thể dục rất tốt."
+        },
+        {
+          "en": "I did twenty jumps with the jump rope!",
+          "vi": "Con nhảy dây được hai mươi cái!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-022",
+      "en": "tea party",
+      "vi": "tiệc trà (chơi đóng vai)",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a fancy tea party!",
+          "vi": "Ồ, tiệc trà sang chảnh nè!"
+        },
+        {
+          "en": "Who's coming to your tea party?",
+          "vi": "Ai tới dự tiệc trà của con vậy?"
+        },
+        {
+          "en": "Can I join your tea party?",
+          "vi": "Cho mình dự tiệc trà với nha?"
+        },
+        {
+          "en": "This tea party is so much fun.",
+          "vi": "Tiệc trà này vui quá."
+        },
+        {
+          "en": "Teddy is at my tea party!",
+          "vi": "Gấu bông dự tiệc trà của con!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-023",
+      "en": "pretend",
+      "vi": "giả vờ, đóng vai",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's pretend we're puppies!",
+          "vi": "Mình giả làm cún con đi!"
+        },
+        {
+          "en": "What should we pretend today?",
+          "vi": "Hôm nay mình đóng vai gì ta?"
+        },
+        {
+          "en": "Pretend you're a little mouse.",
+          "vi": "Con giả làm chuột nhỏ đi."
+        },
+        {
+          "en": "You're really good at pretending.",
+          "vi": "Con đóng vai giỏi ghê."
+        },
+        {
+          "en": "I'm pretending to be a doctor!",
+          "vi": "Con đang giả làm bác sĩ!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-024",
+      "en": "magic wand",
+      "vi": "cây đũa thần",
+      "pos": "noun",
+      "emoji": "🪄",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ta-da! A magic wand!",
+          "vi": "Ta-đa! Cây đũa thần nè!"
+        },
+        {
+          "en": "What will your magic wand do?",
+          "vi": "Đũa thần của con làm phép gì?"
+        },
+        {
+          "en": "Wave your magic wand!",
+          "vi": "Vẫy đũa thần đi con!"
+        },
+        {
+          "en": "Your magic wand is so sparkly.",
+          "vi": "Đũa thần của con lấp lánh quá."
+        },
+        {
+          "en": "My magic wand made you a frog!",
+          "vi": "Đũa thần của con biến mình thành ếch rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-025",
+      "en": "crown",
+      "vi": "cái vương miện",
+      "pos": "noun",
+      "emoji": "👑",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a shiny gold crown!",
+          "vi": "Oa, vương miện vàng lấp lánh!"
+        },
+        {
+          "en": "Do you want to wear the crown?",
+          "vi": "Con muốn đội vương miện không?"
+        },
+        {
+          "en": "Put the crown on your head.",
+          "vi": "Đội vương miện lên đầu đi con."
+        },
+        {
+          "en": "That crown looks great on you.",
+          "vi": "Con đội vương miện đẹp ghê."
+        },
+        {
+          "en": "I'm the king! Look at my crown!",
+          "vi": "Con là vua! Nhìn vương miện nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-026",
+      "en": "superhero",
+      "vi": "siêu anh hùng",
+      "pos": "noun",
+      "emoji": "🦸",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here comes a superhero!",
+          "vi": "Siêu anh hùng tới rồi!"
+        },
+        {
+          "en": "Who's your favorite superhero?",
+          "vi": "Con thích siêu anh hùng nào nhất?"
+        },
+        {
+          "en": "Show me your superhero pose!",
+          "vi": "Tạo dáng siêu anh hùng cho mình coi!"
+        },
+        {
+          "en": "You're a real superhero, buddy.",
+          "vi": "Con đúng là siêu anh hùng luôn."
+        },
+        {
+          "en": "I'm a superhero! I can fly!",
+          "vi": "Con là siêu anh hùng! Con bay được!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-027",
+      "en": "princess",
+      "vi": "công chúa",
+      "pos": "noun",
+      "emoji": "👸",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Hello, princess!",
+          "vi": "Chào công chúa!"
+        },
+        {
+          "en": "Do you want to be a princess?",
+          "vi": "Con muốn làm công chúa không?"
+        },
+        {
+          "en": "Let's make a princess crown.",
+          "vi": "Mình làm vương miện công chúa nha."
+        },
+        {
+          "en": "What a beautiful princess dress!",
+          "vi": "Váy công chúa đẹp quá!"
+        },
+        {
+          "en": "I'm a princess today!",
+          "vi": "Hôm nay con là công chúa!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-028",
+      "en": "pirate",
+      "vi": "cướp biển",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ahoy! I'm a pirate!",
+          "vi": "A-hoi! Ta là cướp biển đây!"
+        },
+        {
+          "en": "Where's the pirate ship?",
+          "vi": "Tàu cướp biển đâu rồi?"
+        },
+        {
+          "en": "Let's play pirates on the couch!",
+          "vi": "Mình chơi cướp biển trên ghế sofa nha!"
+        },
+        {
+          "en": "That pirate hat is so funny.",
+          "vi": "Cái nón cướp biển ngộ ghê."
+        },
+        {
+          "en": "I'm the pirate captain!",
+          "vi": "Con là thuyền trưởng cướp biển!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-029",
+      "en": "toy kitchen",
+      "vi": "bộ đồ chơi nấu ăn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little toy kitchen!",
+          "vi": "Nhìn nè, bộ bếp đồ chơi nhỏ xíu!"
+        },
+        {
+          "en": "What's cooking in your toy kitchen?",
+          "vi": "Con nấu món gì trong bếp đồ chơi vậy?"
+        },
+        {
+          "en": "Let's cook in the toy kitchen!",
+          "vi": "Mình nấu ăn ở bếp đồ chơi nha!"
+        },
+        {
+          "en": "Your toy kitchen has a tiny stove.",
+          "vi": "Bếp đồ chơi của con có cái bếp nhỏ xíu."
+        },
+        {
+          "en": "I made pizza in my toy kitchen!",
+          "vi": "Con làm pizza ở bếp đồ chơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-030",
+      "en": "slime",
+      "vi": "chất nhờn ma quái (slime)",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, look at this slime!",
+          "vi": "Ồ, nhìn slime nè!"
+        },
+        {
+          "en": "Do you want to make slime?",
+          "vi": "Con muốn làm slime không?"
+        },
+        {
+          "en": "Keep the slime on the table, please.",
+          "vi": "Để slime trên bàn thôi nha con."
+        },
+        {
+          "en": "This slime stretches really far.",
+          "vi": "Slime này kéo dài ra ghê."
+        },
+        {
+          "en": "I made green slime at my friend's house!",
+          "vi": "Con làm slime xanh ở nhà bạn!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-031",
+      "en": "walkie-talkie",
+      "vi": "bộ đàm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Over and out! Here's your walkie-talkie!",
+          "vi": "Hết! Bộ đàm của con nè!"
+        },
+        {
+          "en": "Can you hear me on the walkie-talkie?",
+          "vi": "Con nghe mình qua bộ đàm không?"
+        },
+        {
+          "en": "Press the button to talk on the walkie-talkie.",
+          "vi": "Bấm nút rồi mới nói vô bộ đàm nha."
+        },
+        {
+          "en": "Walkie-talkies are perfect for hide-and-seek.",
+          "vi": "Chơi trốn tìm mà có bộ đàm là hết sẩy."
+        },
+        {
+          "en": "I talked to Daddy on the walkie-talkie from my room!",
+          "vi": "Con nói chuyện với ba qua bộ đàm từ phòng con!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-032",
+      "en": "toy phone",
+      "vi": "điện thoại đồ chơi",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Ring ring! It's your toy phone!",
+          "vi": "Reng reng! Điện thoại đồ chơi nè!"
+        },
+        {
+          "en": "Who's calling on your toy phone?",
+          "vi": "Ai gọi điện thoại đồ chơi vậy?"
+        },
+        {
+          "en": "Call Grandma on your toy phone!",
+          "vi": "Con gọi bà bằng điện thoại đồ chơi nha?"
+        },
+        {
+          "en": "Your toy phone plays music.",
+          "vi": "Điện thoại đồ chơi của con có nhạc."
+        },
+        {
+          "en": "Hello? It's me on my toy phone!",
+          "vi": "A-lô? Con nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-033",
+      "en": "water gun",
+      "vi": "súng nước",
+      "pos": "noun",
+      "emoji": "🔫",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Watch out, a water gun!",
+          "vi": "Coi chừng, súng nước kìa!"
+        },
+        {
+          "en": "Do you want to play with water guns outside?",
+          "vi": "Con muốn ra ngoài chơi súng nước không?"
+        },
+        {
+          "en": "Only spray the water gun at the plants, okay?",
+          "vi": "Chỉ xịt súng nước vô cây thôi nha."
+        },
+        {
+          "en": "Water guns are perfect for hot days.",
+          "vi": "Trời nóng chơi súng nước là hết sẩy."
+        },
+        {
+          "en": "I got Daddy with my water gun!",
+          "vi": "Con xịt trúng ba bằng súng nước rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-034",
+      "en": "action figure",
+      "vi": "mô hình nhân vật",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Cool, a new action figure!",
+          "vi": "Ngầu quá, mô hình nhân vật mới!"
+        },
+        {
+          "en": "Can your action figure bend its arms?",
+          "vi": "Mô hình của con co tay được không?"
+        },
+        {
+          "en": "Line up your action figures on the shelf.",
+          "vi": "Xếp mấy mô hình lên kệ đi con."
+        },
+        {
+          "en": "That action figure looks really strong.",
+          "vi": "Mô hình đó nhìn mạnh mẽ ghê."
+        },
+        {
+          "en": "I'm saving up for a new action figure.",
+          "vi": "Con đang để dành tiền mua mô hình mới."
+        }
+      ]
+    },
+    {
+      "id": "v-toys-035",
+      "en": "pinwheel",
+      "vi": "chong chóng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "ipa": "/ˈpɪnˌwil/",
+      "examples": [
+        {
+          "en": "Look, the pinwheel is spinning!",
+          "vi": "Nhìn kìa, chong chóng quay rồi!",
+          "ipa": "/lʊk ðə ˈpɪnˌwil ɪz ˈspɪnɪŋ/"
+        },
+        {
+          "en": "Can you make the pinwheel spin?",
+          "vi": "Con làm chong chóng quay được không?",
+          "ipa": "/kæn ju meɪk ðə ˈpɪnˌwil spɪn/"
+        },
+        {
+          "en": "Blow on the pinwheel!",
+          "vi": "Thổi vô chong chóng đi!",
+          "ipa": "/bloʊ ɑn ðə ˈpɪnˌwil/"
+        },
+        {
+          "en": "Your pinwheel is so colorful.",
+          "vi": "Chong chóng của con nhiều màu ghê.",
+          "ipa": "/jɔɹ ˈpɪnˌwil ɪz soʊ ˈkʌlɚfəl/"
+        },
+        {
+          "en": "My pinwheel goes so fast!",
+          "vi": "Chong chóng của con quay nhanh lắm!",
+          "ipa": "/maɪ ˈpɪnˌwil ɡoʊz soʊ fæst/"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-036",
+      "en": "marbles",
+      "vi": "bi (viên bi)",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at all these marbles!",
+          "vi": "Oa, nhìn nhiều bi quá!"
+        },
+        {
+          "en": "Do you want to play marbles with me?",
+          "vi": "Con muốn chơi bắn bi với mình không?"
+        },
+        {
+          "en": "Keep the marbles away from your baby brother.",
+          "vi": "Để bi xa em bé ra nha con."
+        },
+        {
+          "en": "This blue marble is really shiny.",
+          "vi": "Viên bi xanh này bóng ghê."
+        },
+        {
+          "en": "I won three marbles at recess!",
+          "vi": "Giờ ra chơi con thắng được ba viên bi!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-037",
+      "en": "hula hoop",
+      "vi": "vòng lắc",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, you can spin the hula hoop!",
+          "vi": "Oa, con lắc vòng được rồi!"
+        },
+        {
+          "en": "How long can you keep the hula hoop up?",
+          "vi": "Con lắc vòng được bao lâu?"
+        },
+        {
+          "en": "Move your hips to spin the hula hoop.",
+          "vi": "Lắc hông để vòng quay nha con."
+        },
+        {
+          "en": "The hula hoop is harder than it looks.",
+          "vi": "Lắc vòng khó hơn mình tưởng."
+        },
+        {
+          "en": "I did the hula hoop for one whole minute!",
+          "vi": "Con lắc vòng được nguyên một phút!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-038",
+      "en": "bouncy ball",
+      "vi": "banh nảy",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little bouncy ball!",
+          "vi": "Nhìn nè, trái banh nảy nhỏ xíu!"
+        },
+        {
+          "en": "How high can the bouncy ball go?",
+          "vi": "Banh nảy nảy cao cỡ nào?"
+        },
+        {
+          "en": "Bounce the bouncy ball to me.",
+          "vi": "Thả banh nảy qua đây nè."
+        },
+        {
+          "en": "This bouncy ball is super fast.",
+          "vi": "Banh nảy này nảy nhanh ghê."
+        },
+        {
+          "en": "My bouncy ball hit the ceiling!",
+          "vi": "Banh nảy của con đụng trần nhà luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-039",
+      "en": "doctor kit",
+      "vi": "bộ đồ chơi bác sĩ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's your doctor kit!",
+          "vi": "Bộ đồ chơi bác sĩ của con nè!"
+        },
+        {
+          "en": "What's in your doctor kit?",
+          "vi": "Trong bộ bác sĩ của con có gì?"
+        },
+        {
+          "en": "Check my heart with your doctor kit.",
+          "vi": "Lấy bộ bác sĩ khám tim cho mình đi."
+        },
+        {
+          "en": "Your doctor kit has a tiny needle.",
+          "vi": "Bộ bác sĩ của con có cây kim nhỏ xíu."
+        },
+        {
+          "en": "I'm the doctor! Get my doctor kit!",
+          "vi": "Con là bác sĩ! Đưa bộ đồ nghề đây!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-040",
+      "en": "fort",
+      "vi": "lều tự dựng, pháo đài",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a blanket fort!",
+          "vi": "Oa, lều bằng mền nè!"
+        },
+        {
+          "en": "Can I come into your fort?",
+          "vi": "Cho mình vô lều của con nha?"
+        },
+        {
+          "en": "Let's build a fort with pillows.",
+          "vi": "Mình dựng lều bằng gối nha."
+        },
+        {
+          "en": "It's so cozy inside the fort.",
+          "vi": "Trong lều ấm áp ghê."
+        },
+        {
+          "en": "This is my secret fort!",
+          "vi": "Đây là lều bí mật của con!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-041",
+      "en": "cape",
+      "vi": "áo choàng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at your red cape!",
+          "vi": "Nhìn áo choàng đỏ của con kìa!"
+        },
+        {
+          "en": "Do you want to wear your cape?",
+          "vi": "Con muốn mặc áo choàng không?"
+        },
+        {
+          "en": "Let me tie your cape.",
+          "vi": "Để mình cột áo choàng cho con."
+        },
+        {
+          "en": "Your cape flies when you run!",
+          "vi": "Con chạy là áo choàng bay phấp phới!"
+        },
+        {
+          "en": "My cape makes me super fast!",
+          "vi": "Áo choàng làm con chạy siêu nhanh!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-042",
+      "en": "treasure",
+      "vi": "kho báu",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, we found the treasure!",
+          "vi": "Yeah, mình tìm ra kho báu rồi!"
+        },
+        {
+          "en": "Where did the pirates hide the treasure?",
+          "vi": "Cướp biển giấu kho báu ở đâu ta?"
+        },
+        {
+          "en": "Let's go on a treasure hunt!",
+          "vi": "Mình đi săn kho báu nha!"
+        },
+        {
+          "en": "This treasure chest is so heavy.",
+          "vi": "Rương kho báu này nặng ghê."
+        },
+        {
+          "en": "I hid the treasure under my bed!",
+          "vi": "Con giấu kho báu dưới giường rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-043",
+      "en": "race track",
+      "vi": "đường đua đồ chơi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a long race track!",
+          "vi": "Nhìn nè, đường đua dài ghê!"
+        },
+        {
+          "en": "Can we build a race track?",
+          "vi": "Mình lắp đường đua nha?"
+        },
+        {
+          "en": "Put your car on the race track.",
+          "vi": "Đặt xe lên đường đua đi con."
+        },
+        {
+          "en": "This race track has a big loop.",
+          "vi": "Đường đua này có vòng xoay bự."
+        },
+        {
+          "en": "My car zoomed down the race track!",
+          "vi": "Xe con chạy vèo xuống đường đua!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-044",
+      "en": "castle",
+      "vi": "lâu đài",
+      "pos": "noun",
+      "emoji": "🏰",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big castle!",
+          "vi": "Oa, tòa lâu đài bự quá!"
+        },
+        {
+          "en": "Who lives in the castle?",
+          "vi": "Ai sống trong lâu đài vậy?"
+        },
+        {
+          "en": "Let's build a castle with blocks.",
+          "vi": "Mình xếp lâu đài bằng khối nha."
+        },
+        {
+          "en": "The castle has tall towers.",
+          "vi": "Lâu đài có mấy cái tháp cao."
+        },
+        {
+          "en": "This is my castle!",
+          "vi": "Đây là lâu đài của con!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-045",
+      "en": "dragon",
+      "vi": "con rồng",
+      "pos": "noun",
+      "emoji": "🐉",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Roar! Here comes a dragon!",
+          "vi": "Gừ! Con rồng tới kìa!"
+        },
+        {
+          "en": "What color is your dragon?",
+          "vi": "Con rồng của con màu gì?"
+        },
+        {
+          "en": "Let's pretend to be friendly dragons.",
+          "vi": "Mình giả làm rồng hiền nha."
+        },
+        {
+          "en": "This dragon has big wings.",
+          "vi": "Con rồng này có cánh bự ghê."
+        },
+        {
+          "en": "I'm a dragon! I can fly!",
+          "vi": "Con là rồng! Con bay được!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-046",
+      "en": "unicorn",
+      "vi": "kỳ lân",
+      "pos": "noun",
+      "emoji": "🦄",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a sparkly unicorn!",
+          "vi": "Nhìn nè, kỳ lân lấp lánh!"
+        },
+        {
+          "en": "What's your unicorn's name?",
+          "vi": "Kỳ lân của con tên gì?",
+          "ipa": "/wʌts jɔɹ ˈjunəˌkɔɹnz neɪm/"
+        },
+        {
+          "en": "Can you draw a unicorn for me?",
+          "vi": "Con vẽ kỳ lân cho mình nha?"
+        },
+        {
+          "en": "Unicorns have one horn.",
+          "vi": "Kỳ lân có một cái sừng.",
+          "ipa": "/ˈjunəˌkɔɹnz hæv wʌn hɔɹn/"
+        },
+        {
+          "en": "I love rainbow unicorns!",
+          "vi": "Con thích kỳ lân cầu vồng lắm!",
+          "ipa": "/aɪ lʌv ˈɹeɪnˌboʊ ˈjunəˌkɔɹnz/"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-047",
+      "en": "fairy",
+      "vi": "nàng tiên",
+      "pos": "noun",
+      "emoji": "🧚",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little fairy!",
+          "vi": "Nhìn kìa, nàng tiên nhỏ!"
+        },
+        {
+          "en": "Do fairies have wings?",
+          "vi": "Nàng tiên có cánh không ta?"
+        },
+        {
+          "en": "Let's fly like fairies!",
+          "vi": "Mình bay như nàng tiên nha!"
+        },
+        {
+          "en": "Your fairy wings are so pretty.",
+          "vi": "Đôi cánh tiên của con đẹp quá."
+        },
+        {
+          "en": "I'm a fairy princess!",
+          "vi": "Con là công chúa tiên!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-048",
+      "en": "mermaid",
+      "vi": "nàng tiên cá",
+      "pos": "noun",
+      "emoji": "🧜‍♀️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Hello, little mermaid!",
+          "vi": "Chào nàng tiên cá nhỏ!"
+        },
+        {
+          "en": "Where do mermaids live?",
+          "vi": "Tiên cá sống ở đâu ta?"
+        },
+        {
+          "en": "Swim like a mermaid!",
+          "vi": "Bơi như tiên cá đi con!"
+        },
+        {
+          "en": "Her mermaid tail is so shiny.",
+          "vi": "Đuôi tiên cá của bạn ấy lấp lánh ghê."
+        },
+        {
+          "en": "I want to be a mermaid!",
+          "vi": "Con muốn làm tiên cá!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-049",
+      "en": "playtime",
+      "vi": "giờ chơi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "ipa": "/ˈpleɪˌtaɪm/",
+      "examples": [
+        {
+          "en": "Yay, it's playtime!",
+          "vi": "Yeah, tới giờ chơi rồi!",
+          "ipa": "/jeɪ ɪts ˈpleɪˌtaɪm/"
+        },
+        {
+          "en": "What should we do at playtime?",
+          "vi": "Giờ chơi con muốn làm gì?",
+          "ipa": "/wʌt ʃʊd wi du æt ˈpleɪˌtaɪm/"
+        },
+        {
+          "en": "Finish your milk, then it's playtime.",
+          "vi": "Uống hết sữa đi rồi chơi nha.",
+          "ipa": "/ˈfɪnɪʃ jɔɹ mɪlk ðɛn ɪts ˈpleɪˌtaɪm/"
+        },
+        {
+          "en": "Playtime is over for today.",
+          "vi": "Hôm nay hết giờ chơi rồi.",
+          "ipa": "/ˈpleɪˌtaɪm ɪz ˈoʊvɚ fɔɹ təˈdeɪ/"
+        },
+        {
+          "en": "Five more minutes of playtime, please!",
+          "vi": "Cho con chơi thêm năm phút nữa nha!",
+          "ipa": "/faɪv mɔɹ ˈmɪnəts ʌv ˈpleɪˌtaɪm pliz/"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-050",
+      "en": "rocking horse",
+      "vi": "ngựa bập bênh",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Giddy up, rocking horse!",
+          "vi": "Phi nào, ngựa bập bênh!"
+        },
+        {
+          "en": "Want to ride the rocking horse?",
+          "vi": "Con muốn cưỡi ngựa bập bênh không?"
+        },
+        {
+          "en": "Hold on tight to the rocking horse.",
+          "vi": "Nắm chặt ngựa bập bênh nha."
+        },
+        {
+          "en": "The rocking horse goes back and forth.",
+          "vi": "Ngựa bập bênh lắc tới lắc lui."
+        },
+        {
+          "en": "Faster, rocking horse!",
+          "vi": "Nhanh lên, ngựa ơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-051",
+      "en": "Lego",
+      "vi": "đồ chơi Lego",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ouch! I stepped on a Lego!",
+          "vi": "Ui da! Giẫm phải miếng Lego rồi!"
+        },
+        {
+          "en": "What are you building with your Legos?",
+          "vi": "Con đang ráp gì bằng Lego vậy?",
+          "ipa": "/wʌt ɑɹ ju ˈbɪldɪŋ wɪð jɔɹ ˈlɛɡoʊz/"
+        },
+        {
+          "en": "Pick up the Legos, please.",
+          "vi": "Lượm Lego lên giùm nha con.",
+          "ipa": "/pɪk ʌp ðə ˈlɛɡoʊz pliz/"
+        },
+        {
+          "en": "Your Lego house looks awesome.",
+          "vi": "Ngôi nhà Lego của con đẹp quá."
+        },
+        {
+          "en": "I made a spaceship with Legos!",
+          "vi": "Con ráp tàu vũ trụ bằng Lego!",
+          "ipa": "/aɪ meɪd ə ˈspeɪˌsʃɪp wɪð ˈlɛɡoʊz/"
+        }
+      ]
+    },
+    {
+      "id": "v-toys-052",
+      "en": "spinning top",
+      "vi": "con quay",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, the spinning top is still going!",
+          "vi": "Oa, con quay vẫn còn quay kìa!"
+        },
+        {
+          "en": "Can you make your spinning top spin longer?",
+          "vi": "Con làm con quay quay lâu hơn được không?"
+        },
+        {
+          "en": "Twist the spinning top really fast.",
+          "vi": "Vặn con quay thật nhanh nha."
+        },
+        {
+          "en": "This spinning top makes a funny sound.",
+          "vi": "Con quay này kêu nghe vui ghê."
+        },
+        {
+          "en": "My spinning top beat yours!",
+          "vi": "Con quay của con thắng con quay của ba rồi!"
+        }
+      ]
+    }
+  ]
+}

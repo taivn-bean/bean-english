@@ -1,0 +1,1698 @@
+{
+  "deckId": "v-body",
+  "words": [
+    {
+      "id": "v-body-001",
+      "en": "head",
+      "vi": "cái đầu",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, you bumped your head!",
+          "vi": "Ui, con bị cụng đầu rồi!"
+        },
+        {
+          "en": "Does your head hurt?",
+          "vi": "Con có đau đầu không?"
+        },
+        {
+          "en": "Put your hands on your head.",
+          "vi": "Con để tay lên đầu nào."
+        },
+        {
+          "en": "Your head feels so warm.",
+          "vi": "Đầu con nóng hổi à."
+        },
+        {
+          "en": "I wear a helmet on my head!",
+          "vi": "Con đội nón bảo hiểm trên đầu nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-002",
+      "en": "hair",
+      "vi": "tóc",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, your hair is so long!",
+          "vi": "Wow, tóc con dài quá!"
+        },
+        {
+          "en": "Can I brush your hair?",
+          "vi": "Để chải tóc cho con nha?"
+        },
+        {
+          "en": "Let's wash your hair tonight.",
+          "vi": "Tối nay mình gội đầu nha."
+        },
+        {
+          "en": "Your hair smells so nice.",
+          "vi": "Tóc con thơm quá."
+        },
+        {
+          "en": "I got my hair cut!",
+          "vi": "Con mới cắt tóc nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-003",
+      "en": "face",
+      "vi": "gương mặt, khuôn mặt",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a happy face!",
+          "vi": "Mặt con vui ghê!"
+        },
+        {
+          "en": "Why the sad face?",
+          "vi": "Sao mặt buồn xo vậy?"
+        },
+        {
+          "en": "Let's wash your face.",
+          "vi": "Mình rửa mặt nha."
+        },
+        {
+          "en": "Your face is all sticky.",
+          "vi": "Mặt con dính nhem nhép hết rồi."
+        },
+        {
+          "en": "Look, I'm making a funny face!",
+          "vi": "Nhìn nè, con làm mặt hề nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-004",
+      "en": "eyes",
+      "vi": "đôi mắt",
+      "pos": "noun",
+      "emoji": "👀",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you have big brown eyes!",
+          "vi": "Wow, mắt con to và nâu ghê!"
+        },
+        {
+          "en": "Are your eyes tired?",
+          "vi": "Mắt con mỏi hả?"
+        },
+        {
+          "en": "Close your eyes tight, no peeking!",
+          "vi": "Nhắm mắt thật chặt, không được nhìn lén nha!"
+        },
+        {
+          "en": "Your eyes are just like Mommy's.",
+          "vi": "Mắt con giống mắt mẹ y chang."
+        },
+        {
+          "en": "I've got soap in my eyes!",
+          "vi": "Xà bông vô mắt con rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-005",
+      "en": "ears",
+      "vi": "đôi tai",
+      "pos": "noun",
+      "emoji": "👂",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, your ears are so cold!",
+          "vi": "Ồ, tai con lạnh ngắt!"
+        },
+        {
+          "en": "Can you wiggle your ears?",
+          "vi": "Con nhúc nhích tai được không?"
+        },
+        {
+          "en": "Cover your ears, it's loud!",
+          "vi": "Bịt tai lại, ồn quá!"
+        },
+        {
+          "en": "Bunnies have long ears.",
+          "vi": "Thỏ có tai dài."
+        },
+        {
+          "en": "My ears hurt!",
+          "vi": "Con đau tai!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-006",
+      "en": "nose",
+      "vi": "cái mũi",
+      "pos": "noun",
+      "emoji": "👃",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Boop, I got your nose!",
+          "vi": "Bíp, bắt được mũi con rồi!"
+        },
+        {
+          "en": "Is your nose runny?",
+          "vi": "Con bị sổ mũi hả?"
+        },
+        {
+          "en": "Wipe your nose, please.",
+          "vi": "Con lau mũi đi nha."
+        },
+        {
+          "en": "Your nose is so cute.",
+          "vi": "Mũi con dễ thương quá."
+        },
+        {
+          "en": "I can smell with my nose!",
+          "vi": "Con ngửi bằng mũi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-007",
+      "en": "mouth",
+      "vi": "cái miệng",
+      "pos": "noun",
+      "emoji": "👄",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, your mouth is so full!",
+          "vi": "Wow, miệng con đầy ắp luôn!"
+        },
+        {
+          "en": "What's in your mouth?",
+          "vi": "Trong miệng con có gì vậy?"
+        },
+        {
+          "en": "Open your mouth wide.",
+          "vi": "Há miệng to ra nào."
+        },
+        {
+          "en": "Your mouth is red from the watermelon.",
+          "vi": "Miệng con đỏ hết vì ăn dưa hấu."
+        },
+        {
+          "en": "I put a grape in my mouth!",
+          "vi": "Con bỏ trái nho vô miệng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-008",
+      "en": "teeth",
+      "vi": "răng",
+      "pos": "noun",
+      "emoji": "🦷",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at your shiny teeth!",
+          "vi": "Wow, răng con sáng bóng!"
+        },
+        {
+          "en": "Did you brush your teeth yet?",
+          "vi": "Con đánh răng chưa?"
+        },
+        {
+          "en": "Show me your teeth!",
+          "vi": "Cho xem răng con nào!"
+        },
+        {
+          "en": "Your teeth are so clean.",
+          "vi": "Răng con sạch quá."
+        },
+        {
+          "en": "I have a wiggly tooth!",
+          "vi": "Con có cái răng lung lay nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-009",
+      "en": "tongue",
+      "vi": "cái lưỡi",
+      "pos": "noun",
+      "emoji": "👅",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ha, your tongue is purple!",
+          "vi": "Ha, lưỡi con tím luôn kìa!"
+        },
+        {
+          "en": "Can you roll your tongue?",
+          "vi": "Con cuộn lưỡi được không?"
+        },
+        {
+          "en": "Stick out your tongue, please.",
+          "vi": "Lè lưỡi ra coi nào."
+        },
+        {
+          "en": "Your tongue helps you taste food.",
+          "vi": "Cái lưỡi giúp con nếm thức ăn."
+        },
+        {
+          "en": "Ouch, I bit my tongue!",
+          "vi": "Ui, con cắn trúng lưỡi!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-010",
+      "en": "lips",
+      "vi": "đôi môi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, your lips are so dry.",
+          "vi": "Ôi, môi con khô quá."
+        },
+        {
+          "en": "Do you want some lip balm?",
+          "vi": "Con muốn thoa son dưỡng môi không?"
+        },
+        {
+          "en": "Press your lips together.",
+          "vi": "Mím môi lại nào."
+        },
+        {
+          "en": "Your lips are pink and soft.",
+          "vi": "Môi con hồng hồng mềm mềm."
+        },
+        {
+          "en": "I have milk on my lips!",
+          "vi": "Môi con dính sữa nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-011",
+      "en": "cheeks",
+      "vi": "đôi má",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aw, look at those chubby cheeks!",
+          "vi": "Ôi, nhìn đôi má phúng phính kìa!"
+        },
+        {
+          "en": "Why are your cheeks so red?",
+          "vi": "Sao má con đỏ vậy?"
+        },
+        {
+          "en": "Puff up your cheeks like a fish!",
+          "vi": "Phồng má lên như con cá nào!"
+        },
+        {
+          "en": "Your cheeks are so soft.",
+          "vi": "Má con mềm quá."
+        },
+        {
+          "en": "Grandma kissed my cheek!",
+          "vi": "Bà hôn má con nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-012",
+      "en": "chin",
+      "vi": "cái cằm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oops, there's rice on your chin!",
+          "vi": "Ủa, cằm con dính cơm kìa!"
+        },
+        {
+          "en": "Where's your chin?",
+          "vi": "Cằm con đâu nè?"
+        },
+        {
+          "en": "Lift your chin up a bit.",
+          "vi": "Ngước cằm lên chút nào."
+        },
+        {
+          "en": "Daddy has a scratchy chin.",
+          "vi": "Cằm ba lởm chởm râu."
+        },
+        {
+          "en": "I bumped my chin!",
+          "vi": "Con bị đụng cằm!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-013",
+      "en": "neck",
+      "vi": "cái cổ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a tickle on your neck!",
+          "vi": "Ui, cù cổ con nè!"
+        },
+        {
+          "en": "Is your neck sore?",
+          "vi": "Cổ con bị đau hả?"
+        },
+        {
+          "en": "Wrap your scarf around your neck.",
+          "vi": "Quấn khăn quanh cổ đi con."
+        },
+        {
+          "en": "Giraffes have really long necks.",
+          "vi": "Hươu cao cổ có cái cổ dài ghê."
+        },
+        {
+          "en": "A mosquito bit my neck!",
+          "vi": "Muỗi cắn cổ con nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-014",
+      "en": "shoulders",
+      "vi": "đôi vai",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Up on Daddy's shoulders!",
+          "vi": "Lên vai ba ngồi nè!"
+        },
+        {
+          "en": "Can you touch your shoulders?",
+          "vi": "Con chạm vai được không?"
+        },
+        {
+          "en": "Shrug your shoulders like this.",
+          "vi": "Nhún vai như vầy nè."
+        },
+        {
+          "en": "Your shoulders are getting so strong.",
+          "vi": "Vai con càng ngày càng khoẻ."
+        },
+        {
+          "en": "I sat on Daddy's shoulders!",
+          "vi": "Con được ngồi trên vai ba!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-015",
+      "en": "arm",
+      "vi": "cánh tay",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, your arms are so long!",
+          "vi": "Wow, tay con dài ghê!"
+        },
+        {
+          "en": "Can you lift your arms up high?",
+          "vi": "Con giơ tay lên cao được không?"
+        },
+        {
+          "en": "Put your arm in the sleeve.",
+          "vi": "Xỏ tay vô tay áo nè."
+        },
+        {
+          "en": "Your arm feels cold.",
+          "vi": "Tay con lạnh ghê."
+        },
+        {
+          "en": "I hurt my arm!",
+          "vi": "Con bị đau tay!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-016",
+      "en": "elbow",
+      "vi": "cùi chỏ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oops, watch your elbow!",
+          "vi": "Ui, coi chừng cùi chỏ!"
+        },
+        {
+          "en": "Where's your elbow?",
+          "vi": "Cùi chỏ con đâu nè?"
+        },
+        {
+          "en": "Take your elbows off the table, please.",
+          "vi": "Con bỏ cùi chỏ xuống khỏi bàn nha."
+        },
+        {
+          "en": "Your elbow has a little scrape.",
+          "vi": "Cùi chỏ con bị trầy chút xíu."
+        },
+        {
+          "en": "My elbow is all dirty!",
+          "vi": "Cùi chỏ con dơ hết rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-017",
+      "en": "hand",
+      "vi": "bàn tay",
+      "pos": "noun",
+      "emoji": "✋",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, your hands are so clean!",
+          "vi": "Wow, tay con sạch quá!"
+        },
+        {
+          "en": "Can I hold your hand?",
+          "vi": "Cho mình nắm tay con nha?"
+        },
+        {
+          "en": "Wash your hands, please.",
+          "vi": "Con rửa tay đi nha."
+        },
+        {
+          "en": "Your hands are so tiny.",
+          "vi": "Tay con nhỏ xíu."
+        },
+        {
+          "en": "I can clap my hands!",
+          "vi": "Con vỗ tay được nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-018",
+      "en": "finger",
+      "vi": "ngón tay",
+      "pos": "noun",
+      "emoji": "👆",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, ten little fingers!",
+          "vi": "Wow, mười ngón tay nhỏ xíu!"
+        },
+        {
+          "en": "How many fingers am I holding up?",
+          "vi": "Mình đang giơ mấy ngón tay nè?"
+        },
+        {
+          "en": "Point with your finger.",
+          "vi": "Chỉ bằng ngón tay nè."
+        },
+        {
+          "en": "Your fingers are blue from painting!",
+          "vi": "Ngón tay con xanh lè vì tô màu!"
+        },
+        {
+          "en": "I pinched my finger!",
+          "vi": "Con bị kẹp ngón tay!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-019",
+      "en": "thumb",
+      "vi": "ngón cái",
+      "pos": "noun",
+      "emoji": "👍",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Thumbs up, great job!",
+          "vi": "Giơ ngón cái, giỏi lắm!"
+        },
+        {
+          "en": "Where's your thumb?",
+          "vi": "Ngón cái con đâu?"
+        },
+        {
+          "en": "Take your thumb out of your mouth.",
+          "vi": "Bỏ ngón cái ra khỏi miệng nha con."
+        },
+        {
+          "en": "Your thumb is the shortest finger.",
+          "vi": "Ngón cái là ngón ngắn nhất."
+        },
+        {
+          "en": "I can wiggle my thumb!",
+          "vi": "Con nhúc nhích ngón cái được nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-020",
+      "en": "fingernails",
+      "vi": "móng tay",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, your fingernails are so long!",
+          "vi": "Ôi, móng tay con dài quá!"
+        },
+        {
+          "en": "Can I cut your fingernails?",
+          "vi": "Cho mình cắt móng tay con nha?"
+        },
+        {
+          "en": "Let's clean under your fingernails.",
+          "vi": "Mình làm sạch móng tay nha."
+        },
+        {
+          "en": "Your fingernails are all dirty.",
+          "vi": "Móng tay con dơ quá."
+        },
+        {
+          "en": "I painted my fingernails pink!",
+          "vi": "Con sơn móng tay màu hồng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-021",
+      "en": "tummy",
+      "vi": "cái bụng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, I hear your tummy rumbling!",
+          "vi": "Ồ, nghe bụng con kêu ọt ọt nè!"
+        },
+        {
+          "en": "Does your tummy hurt?",
+          "vi": "Con đau bụng hả?"
+        },
+        {
+          "en": "Rub your tummy like this.",
+          "vi": "Xoa bụng như vầy nè."
+        },
+        {
+          "en": "Your tummy is so full.",
+          "vi": "Bụng con no căng rồi."
+        },
+        {
+          "en": "My tummy is hungry!",
+          "vi": "Bụng con đói rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-022",
+      "en": "belly button",
+      "vi": "cái rốn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ha, there's your belly button!",
+          "vi": "Ha, rốn con kìa!"
+        },
+        {
+          "en": "Where's your belly button?",
+          "vi": "Rốn con đâu nè?"
+        },
+        {
+          "en": "Point to your belly button.",
+          "vi": "Chỉ vô rốn con đi."
+        },
+        {
+          "en": "Your belly button is so tiny.",
+          "vi": "Rốn con nhỏ xíu à."
+        },
+        {
+          "en": "Everybody has a belly button!",
+          "vi": "Ai cũng có rốn hết á!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-023",
+      "en": "back",
+      "vi": "cái lưng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Piggyback ride on Daddy's back!",
+          "vi": "Cõng trên lưng ba nè!"
+        },
+        {
+          "en": "Does your back itch?",
+          "vi": "Lưng con ngứa hả?"
+        },
+        {
+          "en": "Lie down on your back.",
+          "vi": "Nằm ngửa ra nào."
+        },
+        {
+          "en": "Your back is all sweaty.",
+          "vi": "Lưng con ướt mồ hôi hết rồi."
+        },
+        {
+          "en": "Scratch my back, please!",
+          "vi": "Gãi lưng cho con với!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-024",
+      "en": "heel",
+      "vi": "gót chân",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oh, your heel is so dirty!",
+          "vi": "Ôi, gót chân con dơ quá!"
+        },
+        {
+          "en": "Does your heel hurt?",
+          "vi": "Gót chân con đau hả?"
+        },
+        {
+          "en": "Walk on your heels like a penguin!",
+          "vi": "Đi bằng gót chân như chim cánh cụt nè!"
+        },
+        {
+          "en": "This shoe rubs your heel.",
+          "vi": "Đôi giày này cọ vào gót chân con."
+        },
+        {
+          "en": "I can stand on my heels!",
+          "vi": "Con đứng bằng gót chân được nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-025",
+      "en": "leg",
+      "vi": "cái chân",
+      "pos": "noun",
+      "emoji": "🦵",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, your legs are getting long!",
+          "vi": "Wow, chân con dài ra rồi!"
+        },
+        {
+          "en": "Are your legs tired?",
+          "vi": "Chân con mỏi hả?"
+        },
+        {
+          "en": "Stretch your legs out.",
+          "vi": "Duỗi chân ra nào."
+        },
+        {
+          "en": "Spiders have eight legs.",
+          "vi": "Con nhện có tám chân."
+        },
+        {
+          "en": "My legs can run so fast!",
+          "vi": "Chân con chạy nhanh lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-026",
+      "en": "knee",
+      "vi": "đầu gối",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, you scraped your knee!",
+          "vi": "Ôi, con bị trầy đầu gối rồi!"
+        },
+        {
+          "en": "Can you bend your knees?",
+          "vi": "Con co đầu gối được không?"
+        },
+        {
+          "en": "Bend your knees and jump!",
+          "vi": "Co gối lại rồi nhảy nào!"
+        },
+        {
+          "en": "Your knees are all muddy.",
+          "vi": "Đầu gối con dính bùn hết rồi."
+        },
+        {
+          "en": "I fell and hurt my knee!",
+          "vi": "Con té đau đầu gối!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-027",
+      "en": "foot",
+      "vi": "bàn chân",
+      "pos": "noun",
+      "emoji": "🦶",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at your tiny feet!",
+          "vi": "Nhìn bàn chân nhỏ xíu của con nè!"
+        },
+        {
+          "en": "Which foot goes first?",
+          "vi": "Chân nào đi trước nè?"
+        },
+        {
+          "en": "Put your foot in the shoe.",
+          "vi": "Xỏ chân vô giày nào."
+        },
+        {
+          "en": "Your feet are so cold.",
+          "vi": "Chân con lạnh ngắt."
+        },
+        {
+          "en": "I can hop on one foot!",
+          "vi": "Con nhảy lò cò được nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-028",
+      "en": "toes",
+      "vi": "ngón chân",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, I'm gonna tickle your toes!",
+          "vi": "Ui, cù ngón chân con nè!"
+        },
+        {
+          "en": "How many toes do you have?",
+          "vi": "Con có mấy ngón chân?"
+        },
+        {
+          "en": "Wiggle your toes in the sand!",
+          "vi": "Ngọ nguậy ngón chân trong cát nè!"
+        },
+        {
+          "en": "Your toes are so cute.",
+          "vi": "Ngón chân con dễ thương quá."
+        },
+        {
+          "en": "I can touch my toes!",
+          "vi": "Con chạm được tới ngón chân nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-029",
+      "en": "ankle",
+      "vi": "mắt cá chân",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, your sock fell down to your ankle!",
+          "vi": "Ủa, vớ tụt xuống mắt cá chân rồi kìa!"
+        },
+        {
+          "en": "Did you twist your ankle?",
+          "vi": "Con bị trặc mắt cá chân hả?"
+        },
+        {
+          "en": "Turn your ankles in a circle.",
+          "vi": "Xoay mắt cá chân vòng tròn nè."
+        },
+        {
+          "en": "Your ankle looks a little puffy.",
+          "vi": "Mắt cá chân con hơi sưng."
+        },
+        {
+          "en": "My ankle feels better now!",
+          "vi": "Mắt cá chân con đỡ rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-030",
+      "en": "wrist",
+      "vi": "cổ tay",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a watch on your wrist!",
+          "vi": "Ồ, đeo đồng hồ trên cổ tay nè!"
+        },
+        {
+          "en": "Does your wrist hurt?",
+          "vi": "Cổ tay con đau hả?"
+        },
+        {
+          "en": "Shake your wrists to warm up.",
+          "vi": "Lắc cổ tay khởi động nào."
+        },
+        {
+          "en": "Your wrist bends this way, not that way.",
+          "vi": "Cổ tay mình gập theo hướng này, không phải hướng kia."
+        },
+        {
+          "en": "I wore a bracelet on my wrist!",
+          "vi": "Con đeo vòng trên cổ tay nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-031",
+      "en": "chest",
+      "vi": "ngực",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look how your chest goes up and down!",
+          "vi": "Wow, nhìn ngực con phồng lên xẹp xuống kìa!"
+        },
+        {
+          "en": "Does your chest feel tight?",
+          "vi": "Ngực con thấy tức không?"
+        },
+        {
+          "en": "Cross your arms over your chest.",
+          "vi": "Khoanh tay trước ngực nào."
+        },
+        {
+          "en": "Your heart is inside your chest.",
+          "vi": "Tim nằm trong lồng ngực đó."
+        },
+        {
+          "en": "I can feel my heart in my chest!",
+          "vi": "Con cảm được tim đập trong ngực!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-032",
+      "en": "skin",
+      "vi": "làn da",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, your skin is so soft!",
+          "vi": "Ồ, da con mềm quá!"
+        },
+        {
+          "en": "Is your skin itchy?",
+          "vi": "Da con ngứa hả?"
+        },
+        {
+          "en": "Let's put lotion on your skin.",
+          "vi": "Mình thoa kem dưỡng lên da nha."
+        },
+        {
+          "en": "Skin keeps germs out of your body.",
+          "vi": "Da giúp ngăn vi trùng vào cơ thể."
+        },
+        {
+          "en": "My skin got pink in the sun!",
+          "vi": "Da con bị ửng đỏ vì nắng!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-033",
+      "en": "eyebrows",
+      "vi": "lông mày",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ha, your eyebrows go up and down!",
+          "vi": "Ha, lông mày con nhướng lên nhướng xuống!"
+        },
+        {
+          "en": "Can you wiggle your eyebrows?",
+          "vi": "Con nhướng lông mày được không?"
+        },
+        {
+          "en": "Raise your eyebrows like you're surprised!",
+          "vi": "Nhướng mày lên như đang ngạc nhiên nè!"
+        },
+        {
+          "en": "Daddy has thick eyebrows.",
+          "vi": "Ba có lông mày rậm."
+        },
+        {
+          "en": "I drew eyebrows on my picture!",
+          "vi": "Con vẽ lông mày cho bức tranh nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-034",
+      "en": "eyelashes",
+      "vi": "lông mi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you have such long eyelashes!",
+          "vi": "Wow, lông mi con dài ghê!"
+        },
+        {
+          "en": "Is there an eyelash on your cheek?",
+          "vi": "Có sợi lông mi rớt trên má con hả?"
+        },
+        {
+          "en": "Make a wish on this eyelash!",
+          "vi": "Ước một điều với sợi lông mi này đi!"
+        },
+        {
+          "en": "Your eyelashes tickle my cheek.",
+          "vi": "Lông mi con cọ vô má nhột ghê."
+        },
+        {
+          "en": "I have eyelashes like Mommy!",
+          "vi": "Con có lông mi giống mẹ nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-035",
+      "en": "forehead",
+      "vi": "cái trán",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's a kiss on your forehead!",
+          "vi": "Hôn lên trán con một cái nè!"
+        },
+        {
+          "en": "Is your forehead hot?",
+          "vi": "Trán con nóng hả?"
+        },
+        {
+          "en": "Let me feel your forehead.",
+          "vi": "Để sờ trán con coi."
+        },
+        {
+          "en": "Your forehead is a little warm.",
+          "vi": "Trán con hơi ấm."
+        },
+        {
+          "en": "I bumped my forehead on the table!",
+          "vi": "Con bị đụng trán vô bàn!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-036",
+      "en": "body",
+      "vi": "cơ thể",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, your body is so strong!",
+          "vi": "Wow, cơ thể con khoẻ ghê!"
+        },
+        {
+          "en": "Which body part is this?",
+          "vi": "Đây là bộ phận nào trên cơ thể?"
+        },
+        {
+          "en": "Shake your whole body!",
+          "vi": "Lắc cả người nào!"
+        },
+        {
+          "en": "Your body needs sleep to grow.",
+          "vi": "Cơ thể con cần ngủ để lớn."
+        },
+        {
+          "en": "My body is tired from running!",
+          "vi": "Người con mệt vì chạy nhiều!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-037",
+      "en": "heartbeat",
+      "vi": "nhịp tim",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Listen, I can hear your heartbeat!",
+          "vi": "Nghe nè, mình nghe được nhịp tim con!"
+        },
+        {
+          "en": "Can you feel your heartbeat?",
+          "vi": "Con cảm được nhịp tim không?"
+        },
+        {
+          "en": "Put your ear here for my heartbeat.",
+          "vi": "Áp tai vô đây nghe tim mình đập nè."
+        },
+        {
+          "en": "Your heartbeat gets fast when you run.",
+          "vi": "Chạy là tim con đập nhanh."
+        },
+        {
+          "en": "My heartbeat is going so fast!",
+          "vi": "Tim con đập nhanh quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-038",
+      "en": "brain",
+      "vi": "bộ não",
+      "pos": "noun",
+      "emoji": "🧠",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a smart brain!",
+          "vi": "Wow, bộ não thông minh ghê!"
+        },
+        {
+          "en": "What does your brain do?",
+          "vi": "Bộ não của con làm gì ta?"
+        },
+        {
+          "en": "Use your brain to solve it.",
+          "vi": "Dùng đầu óc giải đi con."
+        },
+        {
+          "en": "Your brain grows when you learn.",
+          "vi": "Não con phát triển khi con học."
+        },
+        {
+          "en": "My brain is tired from thinking!",
+          "vi": "Đầu óc con mệt vì suy nghĩ nhiều quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-039",
+      "en": "bones",
+      "vi": "xương",
+      "pos": "noun",
+      "emoji": "🦴",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you have over two hundred bones!",
+          "vi": "Wow, cơ thể con có hơn hai trăm cái xương đó!"
+        },
+        {
+          "en": "Can you feel the bones in your hand?",
+          "vi": "Con sờ thấy xương trong bàn tay không?"
+        },
+        {
+          "en": "Drink milk to keep your bones strong.",
+          "vi": "Uống sữa cho xương chắc khoẻ nha."
+        },
+        {
+          "en": "Your bones hold your body up.",
+          "vi": "Xương giúp nâng đỡ cơ thể con."
+        },
+        {
+          "en": "Dogs love chewing on bones!",
+          "vi": "Chó thích gặm xương lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-040",
+      "en": "muscles",
+      "vi": "cơ bắp",
+      "pos": "noun",
+      "emoji": "💪",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at those muscles!",
+          "vi": "Wow, nhìn cơ bắp kìa!"
+        },
+        {
+          "en": "Can you show me your muscles?",
+          "vi": "Khoe cơ bắp cho mình coi được không?"
+        },
+        {
+          "en": "Let's stretch our muscles.",
+          "vi": "Mình giãn cơ nha."
+        },
+        {
+          "en": "Playing makes your muscles stronger.",
+          "vi": "Chơi nhiều thì cơ bắp khoẻ hơn."
+        },
+        {
+          "en": "I have big muscles like Daddy!",
+          "vi": "Con có cơ bắp to như ba!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-041",
+      "en": "throat",
+      "vi": "cổ họng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, your throat is all red!",
+          "vi": "Ôi, cổ họng con đỏ hết rồi!"
+        },
+        {
+          "en": "Does your throat hurt?",
+          "vi": "Con đau họng hả?"
+        },
+        {
+          "en": "Drink warm water for your throat.",
+          "vi": "Uống nước ấm cho đỡ họng nha."
+        },
+        {
+          "en": "Food goes down your throat to your tummy.",
+          "vi": "Thức ăn đi qua cổ họng xuống bụng."
+        },
+        {
+          "en": "My throat feels better today!",
+          "vi": "Hôm nay họng con đỡ rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-042",
+      "en": "hips",
+      "vi": "hông",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ha, look at you shake your hips!",
+          "vi": "Ha, nhìn con lắc hông kìa!"
+        },
+        {
+          "en": "Where are your hips?",
+          "vi": "Hông con đâu nè?"
+        },
+        {
+          "en": "Put your hands on your hips.",
+          "vi": "Chống tay lên hông nào."
+        },
+        {
+          "en": "Grandma's hip hurts when it rains.",
+          "vi": "Trời mưa là hông bà đau."
+        },
+        {
+          "en": "I wiggle my hips like a duck!",
+          "vi": "Con lắc hông như con vịt nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-043",
+      "en": "armpit",
+      "vi": "cái nách",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ha, tickle tickle under your armpit!",
+          "vi": "Ha, cù lét dưới nách nè!"
+        },
+        {
+          "en": "Are your armpits ticklish?",
+          "vi": "Nách con có nhột không?"
+        },
+        {
+          "en": "Lift your arms, let's wash your armpits.",
+          "vi": "Giơ tay lên, mình rửa nách nha."
+        },
+        {
+          "en": "Your armpits are a little stinky!",
+          "vi": "Nách con hơi hôi nha!"
+        },
+        {
+          "en": "My armpit makes funny noises!",
+          "vi": "Nách con kêu ra tiếng vui ghê!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-044",
+      "en": "lap",
+      "vi": "lòng, đùi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aw, the puppy jumped on your lap!",
+          "vi": "Ôi, con cún nhảy lên đùi con kìa!"
+        },
+        {
+          "en": "Want to sit on my lap?",
+          "vi": "Con muốn ngồi trong lòng mình không?"
+        },
+        {
+          "en": "Put the napkin on your lap.",
+          "vi": "Để khăn ăn lên đùi nha."
+        },
+        {
+          "en": "Grandma's lap is so comfy.",
+          "vi": "Ngồi lòng bà êm ghê."
+        },
+        {
+          "en": "I sat on Grandpa's lap!",
+          "vi": "Con ngồi trong lòng ông đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-045",
+      "en": "pinky",
+      "vi": "ngón út",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Pinky promise!",
+          "vi": "Móc ngoéo nha!"
+        },
+        {
+          "en": "Which one is your pinky?",
+          "vi": "Ngón út con là ngón nào?"
+        },
+        {
+          "en": "Hook your pinky with mine.",
+          "vi": "Móc ngón út với mình nè."
+        },
+        {
+          "en": "Your pinky is the smallest finger.",
+          "vi": "Ngón út là ngón nhỏ nhất."
+        },
+        {
+          "en": "I hurt my pinky toe!",
+          "vi": "Con bị đau ngón út ở chân!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-046",
+      "en": "fist",
+      "vi": "nắm tay",
+      "pos": "noun",
+      "emoji": "✊",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Fist bump!",
+          "vi": "Cụng tay nào!"
+        },
+        {
+          "en": "Can you make a fist?",
+          "vi": "Con nắm tay lại được không?"
+        },
+        {
+          "en": "Squeeze your fists tight, then let go.",
+          "vi": "Nắm chặt tay lại, rồi thả ra."
+        },
+        {
+          "en": "Your fist is so small.",
+          "vi": "Nắm tay con nhỏ xíu à."
+        },
+        {
+          "en": "I hid a coin in my fist!",
+          "vi": "Con giấu đồng xu trong nắm tay nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-047",
+      "en": "beard",
+      "vi": "râu",
+      "pos": "noun",
+      "emoji": "🧔",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ha, Grandpa's beard is so white!",
+          "vi": "Ha, râu ông trắng xoá!"
+        },
+        {
+          "en": "Does Daddy have a beard?",
+          "vi": "Ba có để râu không?"
+        },
+        {
+          "en": "Touch Daddy's beard, it's scratchy!",
+          "vi": "Sờ râu ba coi, nhám ghê!"
+        },
+        {
+          "en": "Daddy's beard tickles your cheek.",
+          "vi": "Râu ba cạ vô má con nhột ghê."
+        },
+        {
+          "en": "I drew a beard on my face!",
+          "vi": "Con vẽ râu lên mặt nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-048",
+      "en": "voice",
+      "vi": "giọng nói",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a beautiful voice!",
+          "vi": "Giọng hay quá!"
+        },
+        {
+          "en": "Can you use your quiet voice?",
+          "vi": "Con nói nhỏ nhỏ được không?"
+        },
+        {
+          "en": "Sing it with your big voice!",
+          "vi": "Hát to giọng lên nào!"
+        },
+        {
+          "en": "Your voice sounds sleepy.",
+          "vi": "Giọng con nghe buồn ngủ ghê."
+        },
+        {
+          "en": "I lost my voice from shouting!",
+          "vi": "Con hét quá nên mất giọng luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-049",
+      "en": "sweat",
+      "vi": "mồ hôi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, you're dripping with sweat!",
+          "vi": "Ồ, con ướt đẫm mồ hôi!"
+        },
+        {
+          "en": "Are you sweating?",
+          "vi": "Con đổ mồ hôi hả?"
+        },
+        {
+          "en": "Wipe the sweat off your face.",
+          "vi": "Lau mồ hôi trên mặt đi con."
+        },
+        {
+          "en": "Sweat helps your body cool down.",
+          "vi": "Mồ hôi giúp cơ thể mát lại."
+        },
+        {
+          "en": "I'm all sweaty from playing!",
+          "vi": "Con chơi đổ mồ hôi hết rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-050",
+      "en": "hiccups",
+      "vi": "nấc cụt",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, you've got the hiccups!",
+          "vi": "Ôi, con bị nấc cụt rồi!"
+        },
+        {
+          "en": "Do you still have hiccups?",
+          "vi": "Con còn nấc không?"
+        },
+        {
+          "en": "Sip some water for your hiccups.",
+          "vi": "Uống từng ngụm nước cho hết nấc nha."
+        },
+        {
+          "en": "Hiccups sound so funny.",
+          "vi": "Tiếng nấc cụt nghe vui ghê."
+        },
+        {
+          "en": "My hiccups went away!",
+          "vi": "Con hết nấc rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-051",
+      "en": "burp",
+      "vi": "ợ",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oops, a big burp!",
+          "vi": "Ui, ợ một cái to ghê!"
+        },
+        {
+          "en": "Did you just burp?",
+          "vi": "Con mới ợ hả?"
+        },
+        {
+          "en": "Say \"excuse me\" after you burp.",
+          "vi": "Ợ xong thì nói \"xin lỗi\" nha."
+        },
+        {
+          "en": "The baby needs to burp.",
+          "vi": "Em bé cần được vỗ ợ hơi."
+        },
+        {
+          "en": "Burp! Oops, excuse me!",
+          "vi": "Ợ! Ui, xin lỗi nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-body-052",
+      "en": "goose bumps",
+      "vi": "nổi da gà",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, you've got goose bumps!",
+          "vi": "Ồ, con nổi da gà kìa!"
+        },
+        {
+          "en": "Do you get goose bumps when you're cold?",
+          "vi": "Lạnh là con nổi da gà hả?"
+        },
+        {
+          "en": "Feel my arm, goose bumps!",
+          "vi": "Sờ tay mình nè, nổi da gà luôn!"
+        },
+        {
+          "en": "This song is so beautiful, it gives me goose bumps.",
+          "vi": "Bài hát này hay tới nỗi nổi da gà."
+        },
+        {
+          "en": "I got goose bumps in the cold pool!",
+          "vi": "Con nổi da gà khi xuống hồ bơi lạnh!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1690 @@
+{
+  "deckId": "v-family",
+  "words": [
+    {
+      "id": "v-family-001",
+      "en": "mommy",
+      "vi": "mẹ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mommy's home!",
+          "vi": "Mẹ về rồi nè!"
+        },
+        {
+          "en": "Where's Mommy?",
+          "vi": "Mẹ đâu rồi?"
+        },
+        {
+          "en": "Go give Mommy a hug.",
+          "vi": "Con ra ôm mẹ một cái đi."
+        },
+        {
+          "en": "Mommy is in the kitchen.",
+          "vi": "Mẹ đang ở trong bếp."
+        },
+        {
+          "en": "I want Mommy!",
+          "vi": "Con muốn mẹ cơ!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-002",
+      "en": "daddy",
+      "vi": "ba",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, it's Daddy!",
+          "vi": "Nhìn kìa, ba kìa!"
+        },
+        {
+          "en": "Can you call Daddy?",
+          "vi": "Con gọi ba được không?"
+        },
+        {
+          "en": "Let's wait for Daddy.",
+          "vi": "Mình chờ ba nha."
+        },
+        {
+          "en": "Daddy is so tall.",
+          "vi": "Ba cao ghê."
+        },
+        {
+          "en": "Daddy, play with me!",
+          "vi": "Ba ơi, chơi với con đi!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-003",
+      "en": "baby",
+      "vi": "em bé",
+      "pos": "noun",
+      "emoji": "👶",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, a tiny baby!",
+          "vi": "Ôi, em bé xíu xiu!"
+        },
+        {
+          "en": "Is the baby sleeping?",
+          "vi": "Em bé đang ngủ hả?"
+        },
+        {
+          "en": "Be gentle with the baby.",
+          "vi": "Nhẹ tay với em bé nha."
+        },
+        {
+          "en": "The baby is so cute.",
+          "vi": "Em bé dễ thương quá."
+        },
+        {
+          "en": "I was a baby once!",
+          "vi": "Hồi xưa con cũng là em bé nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-004",
+      "en": "brother",
+      "vi": "anh trai, em trai",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, it's your big brother!",
+          "vi": "Nhìn kìa, anh hai kìa!"
+        },
+        {
+          "en": "Where's your little brother?",
+          "vi": "Em trai con đâu rồi?"
+        },
+        {
+          "en": "Can you help your brother, please?",
+          "vi": "Con phụ anh hai một chút được không?"
+        },
+        {
+          "en": "Your brother is really funny.",
+          "vi": "Anh hai con vui tính ghê."
+        },
+        {
+          "en": "My brother took my car!",
+          "vi": "Anh hai lấy xe của con!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-005",
+      "en": "sister",
+      "vi": "chị gái, em gái",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, your big sister's here!",
+          "vi": "A, chị hai về rồi!"
+        },
+        {
+          "en": "Do you love your little sister?",
+          "vi": "Con có thương em gái không?"
+        },
+        {
+          "en": "Share with your sister, okay?",
+          "vi": "Chia cho em gái với nha?"
+        },
+        {
+          "en": "Your sister is so kind.",
+          "vi": "Chị hai con tốt bụng quá."
+        },
+        {
+          "en": "I want to play with my sister!",
+          "vi": "Con muốn chơi với chị hai!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-006",
+      "en": "grandma",
+      "vi": "bà",
+      "pos": "noun",
+      "emoji": "👵",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, Grandma's here!",
+          "vi": "A, bà tới rồi!"
+        },
+        {
+          "en": "Do you want to call Grandma?",
+          "vi": "Con muốn gọi điện cho bà không?"
+        },
+        {
+          "en": "Let's make a card for Grandma.",
+          "vi": "Mình làm tấm thiệp tặng bà nha."
+        },
+        {
+          "en": "Grandma makes the best soup.",
+          "vi": "Bà nấu canh ngon nhất luôn."
+        },
+        {
+          "en": "I miss Grandma!",
+          "vi": "Con nhớ bà quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-007",
+      "en": "grandpa",
+      "vi": "ông",
+      "pos": "noun",
+      "emoji": "👴",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, Grandpa's waving!",
+          "vi": "Nhìn kìa, ông đang vẫy tay!"
+        },
+        {
+          "en": "Where did Grandpa go?",
+          "vi": "Ông đi đâu rồi?"
+        },
+        {
+          "en": "Go show Grandpa your drawing.",
+          "vi": "Con đem tranh khoe ông đi."
+        },
+        {
+          "en": "Grandpa tells funny stories.",
+          "vi": "Ông kể chuyện vui ghê."
+        },
+        {
+          "en": "Grandpa took me fishing!",
+          "vi": "Ông dẫn con đi câu cá nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-008",
+      "en": "family",
+      "vi": "gia đình",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "This is our family!",
+          "vi": "Đây là gia đình mình nè!"
+        },
+        {
+          "en": "Who's in your family?",
+          "vi": "Nhà con có những ai?"
+        },
+        {
+          "en": "Let's draw our family.",
+          "vi": "Mình vẽ gia đình mình nha."
+        },
+        {
+          "en": "I love our family so much.",
+          "vi": "Thương gia đình mình lắm."
+        },
+        {
+          "en": "My family went to the beach!",
+          "vi": "Nhà con đi biển đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-009",
+      "en": "aunt",
+      "vi": "cô, dì",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Your aunt is here!",
+          "vi": "Dì con tới rồi kìa!"
+        },
+        {
+          "en": "Do you remember your aunt?",
+          "vi": "Con còn nhớ dì không?"
+        },
+        {
+          "en": "Say hi to your aunt.",
+          "vi": "Con chào dì đi."
+        },
+        {
+          "en": "Your aunt is really fun.",
+          "vi": "Dì con vui tính lắm."
+        },
+        {
+          "en": "My aunt gave me a book!",
+          "vi": "Dì cho con cuốn sách nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-010",
+      "en": "uncle",
+      "vi": "chú, cậu",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Your uncle's coming over today!",
+          "vi": "Hôm nay chú con qua chơi đó!"
+        },
+        {
+          "en": "Where does your uncle work?",
+          "vi": "Chú con làm ở đâu ha?"
+        },
+        {
+          "en": "Go thank your uncle.",
+          "vi": "Con cảm ơn chú đi nào."
+        },
+        {
+          "en": "Your uncle is so strong.",
+          "vi": "Chú con khoẻ ghê."
+        },
+        {
+          "en": "My uncle let me ride his bike!",
+          "vi": "Chú cho con chạy xe đạp của chú nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-011",
+      "en": "cousin",
+      "vi": "anh chị em họ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, your cousins are here!",
+          "vi": "A, anh chị em họ tới rồi!"
+        },
+        {
+          "en": "Want to play with your cousin?",
+          "vi": "Con muốn chơi với em họ không?"
+        },
+        {
+          "en": "Let's go see your cousins on Sunday.",
+          "vi": "Chủ nhật mình đi thăm anh chị em họ nha."
+        },
+        {
+          "en": "Your cousin is so big now!",
+          "vi": "Em họ con lớn quá trời!"
+        },
+        {
+          "en": "I had a sleepover at my cousin's!",
+          "vi": "Con ngủ lại nhà anh họ đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-012",
+      "en": "boy",
+      "vi": "bé trai, cậu bé",
+      "pos": "noun",
+      "emoji": "👦",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at that little boy!",
+          "vi": "Nhìn cậu bé kia kìa!"
+        },
+        {
+          "en": "Is the baby a boy?",
+          "vi": "Em bé là con trai hả?"
+        },
+        {
+          "en": "Go ask that boy to play.",
+          "vi": "Con qua rủ cậu bé kia chơi đi."
+        },
+        {
+          "en": "That boy is really kind.",
+          "vi": "Cậu bé đó tốt bụng ghê."
+        },
+        {
+          "en": "I'm a big boy now!",
+          "vi": "Con lớn rồi nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-013",
+      "en": "girl",
+      "vi": "bé gái, cô bé",
+      "pos": "noun",
+      "emoji": "👧",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a smart girl!",
+          "vi": "Con gái giỏi quá!"
+        },
+        {
+          "en": "Who's that girl in the red dress?",
+          "vi": "Cô bé mặc đầm đỏ kia là ai vậy?"
+        },
+        {
+          "en": "Say hi to the girl next door.",
+          "vi": "Con chào cô bé nhà kế bên đi."
+        },
+        {
+          "en": "That girl is really good at drawing.",
+          "vi": "Cô bé đó vẽ đẹp ghê."
+        },
+        {
+          "en": "I'm a big girl!",
+          "vi": "Con lớn rồi đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-014",
+      "en": "man",
+      "vi": "người đàn ông, chú",
+      "pos": "noun",
+      "emoji": "👨",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a man with a big dog!",
+          "vi": "Nhìn kìa, chú kia dắt con chó bự!"
+        },
+        {
+          "en": "Who's that man?",
+          "vi": "Chú kia là ai vậy?"
+        },
+        {
+          "en": "Let's ask that man for help.",
+          "vi": "Mình nhờ chú kia giúp nha."
+        },
+        {
+          "en": "The man at the store was nice.",
+          "vi": "Chú ở cửa hàng dễ thương ghê."
+        },
+        {
+          "en": "A man gave me a sticker!",
+          "vi": "Có chú cho con hình dán nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-015",
+      "en": "woman",
+      "vi": "người phụ nữ",
+      "pos": "noun",
+      "emoji": "👩",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, that woman is waving at us!",
+          "vi": "Nhìn kìa, cô kia đang vẫy tay với mình kìa!"
+        },
+        {
+          "en": "Do you know that woman?",
+          "vi": "Con có biết cô đó không?"
+        },
+        {
+          "en": "Let's ask the woman at the desk.",
+          "vi": "Mình hỏi cô ở quầy nha."
+        },
+        {
+          "en": "She's a really strong woman.",
+          "vi": "Cô ấy là người phụ nữ rất mạnh mẽ."
+        },
+        {
+          "en": "A woman helped me find my shoe.",
+          "vi": "Có cô giúp con tìm chiếc giày đó."
+        }
+      ]
+    },
+    {
+      "id": "v-family-016",
+      "en": "lady",
+      "vi": "cô, bà (người phụ nữ)",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the lady has a puppy!",
+          "vi": "Nhìn kìa, cô kia có con cún!"
+        },
+        {
+          "en": "Who's that lady?",
+          "vi": "Cô đó là ai vậy?"
+        },
+        {
+          "en": "Say thank you to the lady.",
+          "vi": "Con cảm ơn cô đi."
+        },
+        {
+          "en": "The lady at the bakery is nice.",
+          "vi": "Cô ở tiệm bánh dễ thương ghê."
+        },
+        {
+          "en": "The lady gave me a balloon!",
+          "vi": "Cô cho con trái bong bóng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-017",
+      "en": "kid",
+      "vi": "đứa trẻ, bạn nhỏ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, so many kids at the park!",
+          "vi": "Wow, công viên đông bạn nhỏ quá!"
+        },
+        {
+          "en": "Do you know that kid?",
+          "vi": "Con có quen bạn đó không?"
+        },
+        {
+          "en": "Go play with the other kids.",
+          "vi": "Con ra chơi với các bạn đi."
+        },
+        {
+          "en": "You're such a good kid.",
+          "vi": "Con ngoan quá."
+        },
+        {
+          "en": "That kid is in my class!",
+          "vi": "Bạn đó học chung lớp con nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-018",
+      "en": "people",
+      "vi": "mọi người, người ta",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at all the people!",
+          "vi": "Wow, nhìn đông người quá!"
+        },
+        {
+          "en": "How many people are in our family?",
+          "vi": "Nhà mình có mấy người?"
+        },
+        {
+          "en": "Let's let the people go first.",
+          "vi": "Mình nhường mọi người đi trước nha."
+        },
+        {
+          "en": "Some people are really tall.",
+          "vi": "Có người cao lắm luôn."
+        },
+        {
+          "en": "The zoo had so many people!",
+          "vi": "Sở thú đông người ghê!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-019",
+      "en": "person",
+      "vi": "người",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a person on the roof!",
+          "vi": "Nhìn kìa, có người trên mái nhà!"
+        },
+        {
+          "en": "Which person is your teacher?",
+          "vi": "Người nào là cô giáo con vậy?"
+        },
+        {
+          "en": "Give one cookie to each person.",
+          "vi": "Chia mỗi người một cái bánh nha."
+        },
+        {
+          "en": "Grandma is a very kind person.",
+          "vi": "Bà là người rất tốt bụng."
+        },
+        {
+          "en": "I'm the first person in line!",
+          "vi": "Con là người đầu tiên trong hàng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-020",
+      "en": "neighbor",
+      "vi": "hàng xóm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's our neighbor!",
+          "vi": "Nhìn kìa, hàng xóm nhà mình kìa!"
+        },
+        {
+          "en": "Do you know our new neighbors?",
+          "vi": "Con biết hàng xóm mới nhà mình chưa?"
+        },
+        {
+          "en": "Let's bring cookies to our neighbor.",
+          "vi": "Mình mang ít bánh qua cho hàng xóm nha."
+        },
+        {
+          "en": "Our neighbors are so friendly.",
+          "vi": "Hàng xóm nhà mình thân thiện ghê."
+        },
+        {
+          "en": "Our neighbor has a new puppy!",
+          "vi": "Nhà hàng xóm mới có con cún nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-021",
+      "en": "parents",
+      "vi": "ba mẹ, phụ huynh",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "These are my parents!",
+          "vi": "Đây là ba mẹ con nè!"
+        },
+        {
+          "en": "Where are your friend's parents?",
+          "vi": "Ba mẹ của bạn con đâu rồi?"
+        },
+        {
+          "en": "Wave to your friend's parents.",
+          "vi": "Con vẫy tay chào ba mẹ của bạn đi."
+        },
+        {
+          "en": "Lots of parents came to the school show.",
+          "vi": "Nhiều phụ huynh tới xem văn nghệ ở trường lắm."
+        },
+        {
+          "en": "My parents are the best!",
+          "vi": "Ba mẹ con là nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-022",
+      "en": "grandparents",
+      "vi": "ông bà",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "We're visiting your grandparents!",
+          "vi": "Mình đi thăm ông bà nè!"
+        },
+        {
+          "en": "Do you want to call your grandparents?",
+          "vi": "Con muốn gọi cho ông bà không?"
+        },
+        {
+          "en": "Let's send your grandparents a photo.",
+          "vi": "Mình gửi hình cho ông bà nha."
+        },
+        {
+          "en": "Your grandparents love you so much.",
+          "vi": "Ông bà thương con lắm."
+        },
+        {
+          "en": "I stayed at my grandparents' house!",
+          "vi": "Con ở nhà ông bà đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-023",
+      "en": "twins",
+      "vi": "cặp song sinh",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, they're twins!",
+          "vi": "Nhìn kìa, hai bạn là song sinh đó!"
+        },
+        {
+          "en": "Can you tell the twins apart?",
+          "vi": "Con phân biệt được hai bạn song sinh không?"
+        },
+        {
+          "en": "Let's invite the twins to play.",
+          "vi": "Mình rủ cặp song sinh qua chơi nha."
+        },
+        {
+          "en": "The twins look exactly the same.",
+          "vi": "Hai bạn song sinh giống y chang nhau."
+        },
+        {
+          "en": "There are twins in my class!",
+          "vi": "Lớp con có cặp song sinh đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-024",
+      "en": "grown-up",
+      "vi": "người lớn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're so grown-up!",
+          "vi": "Wow, con ra dáng người lớn ghê!"
+        },
+        {
+          "en": "Is there a grown-up with you?",
+          "vi": "Có người lớn đi với con không?"
+        },
+        {
+          "en": "Always hold a grown-up's hand.",
+          "vi": "Lúc nào cũng nắm tay người lớn nha."
+        },
+        {
+          "en": "Crossing the street is a grown-up job.",
+          "vi": "Băng qua đường là việc của người lớn."
+        },
+        {
+          "en": "When I'm a grown-up, I'll drive!",
+          "vi": "Khi lớn lên con sẽ lái xe!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-025",
+      "en": "son",
+      "vi": "con trai",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that's my son up there!",
+          "vi": "Wow, con trai mình trên đó kìa!"
+        },
+        {
+          "en": "Is that your son?",
+          "vi": "Đó là con trai chị hả?"
+        },
+        {
+          "en": "Come here, son.",
+          "vi": "Lại đây con trai."
+        },
+        {
+          "en": "You're the best son ever.",
+          "vi": "Con là đứa con trai tuyệt nhất."
+        },
+        {
+          "en": "Daddy is Grandpa's son!",
+          "vi": "Ba là con trai của ông nội đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-026",
+      "en": "daughter",
+      "vi": "con gái",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's my daughter!",
+          "vi": "Đây là con gái mình nè!"
+        },
+        {
+          "en": "Is she your daughter?",
+          "vi": "Bé đó là con gái chị hả?"
+        },
+        {
+          "en": "Ask your aunt how her daughter is.",
+          "vi": "Con hỏi dì xem con gái dì sao rồi."
+        },
+        {
+          "en": "I'm so lucky you're my daughter.",
+          "vi": "Có con gái như con thật là may mắn."
+        },
+        {
+          "en": "Mommy is Grandma's daughter!",
+          "vi": "Mẹ là con gái của bà đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-027",
+      "en": "husband",
+      "vi": "chồng",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, your aunt's husband is here!",
+          "vi": "Nhìn kìa, dượng tới rồi!"
+        },
+        {
+          "en": "Who is your aunt's husband?",
+          "vi": "Chồng của dì là ai, con biết không?"
+        },
+        {
+          "en": "Let's bring your aunt and her husband some tea.",
+          "vi": "Mình mời dì với dượng ly trà nha."
+        },
+        {
+          "en": "Daddy is Mommy's husband.",
+          "vi": "Ba là chồng của mẹ."
+        },
+        {
+          "en": "My uncle is my aunt's husband.",
+          "vi": "Chú là chồng của cô con đó."
+        }
+      ]
+    },
+    {
+      "id": "v-family-028",
+      "en": "wife",
+      "vi": "vợ",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Your uncle and his wife are here!",
+          "vi": "Chú với thím tới rồi kìa!"
+        },
+        {
+          "en": "Did you meet your uncle's wife?",
+          "vi": "Con gặp thím chưa?"
+        },
+        {
+          "en": "Go say hello to your uncle's wife.",
+          "vi": "Con ra chào thím đi."
+        },
+        {
+          "en": "Mommy is Daddy's wife.",
+          "vi": "Mẹ là vợ của ba."
+        },
+        {
+          "en": "Grandma has been Grandpa's wife for fifty years.",
+          "vi": "Bà làm vợ của ông năm mươi năm rồi đó."
+        }
+      ]
+    },
+    {
+      "id": "v-family-029",
+      "en": "name",
+      "vi": "tên",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a pretty name!",
+          "vi": "Tên đẹp quá!"
+        },
+        {
+          "en": "What's your name?",
+          "vi": "Con tên gì?"
+        },
+        {
+          "en": "Tell her your name.",
+          "vi": "Con nói tên con cho bạn biết đi."
+        },
+        {
+          "en": "Your name is so special.",
+          "vi": "Tên của con đặc biệt lắm."
+        },
+        {
+          "en": "I can write my name!",
+          "vi": "Con viết được tên mình rồi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-030",
+      "en": "toddler",
+      "vi": "em bé mới biết đi",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, look at that toddler walking!",
+          "vi": "Ôi, nhìn em bé đang tập đi kìa!"
+        },
+        {
+          "en": "Is the toddler okay?",
+          "vi": "Em bé có sao không?"
+        },
+        {
+          "en": "Be gentle, he's just a toddler.",
+          "vi": "Nhẹ nhàng thôi, em còn nhỏ xíu à."
+        },
+        {
+          "en": "Toddlers love to copy big kids.",
+          "vi": "Mấy em nhỏ thích bắt chước anh chị lắm."
+        },
+        {
+          "en": "When I was a toddler, I couldn't talk.",
+          "vi": "Hồi nhỏ xíu con chưa biết nói."
+        }
+      ]
+    },
+    {
+      "id": "v-family-031",
+      "en": "teenager",
+      "vi": "thiếu niên, tuổi teen",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, your cousin is a teenager now!",
+          "vi": "Wow, anh họ con thành thiếu niên rồi đó!"
+        },
+        {
+          "en": "How old is a teenager?",
+          "vi": "Tuổi teen là bao nhiêu tuổi ha?"
+        },
+        {
+          "en": "Go ask the teenagers if you can join.",
+          "vi": "Con thử hỏi mấy anh chị lớn cho chơi chung đi."
+        },
+        {
+          "en": "Teenagers need lots of sleep.",
+          "vi": "Tuổi teen cần ngủ nhiều lắm."
+        },
+        {
+          "en": "I'll be a teenager when I'm thirteen.",
+          "vi": "Mười ba tuổi là con thành thiếu niên rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-family-032",
+      "en": "relatives",
+      "vi": "họ hàng",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, all our relatives are here for New Year!",
+          "vi": "Wow, họ hàng tới đông đủ ăn Tết rồi!"
+        },
+        {
+          "en": "Which relatives are coming tomorrow?",
+          "vi": "Mai họ hàng nào tới vậy?"
+        },
+        {
+          "en": "Let's greet all our relatives politely.",
+          "vi": "Mình lễ phép chào hết họ hàng nha."
+        },
+        {
+          "en": "We have relatives all over the country.",
+          "vi": "Nhà mình có họ hàng khắp nơi."
+        },
+        {
+          "en": "We're going to visit relatives in the countryside.",
+          "vi": "Mình sẽ về quê thăm họ hàng."
+        }
+      ]
+    },
+    {
+      "id": "v-family-033",
+      "en": "nephew",
+      "vi": "cháu trai (con của anh chị em)",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, your aunt is so proud of her nephew!",
+          "vi": "Ôi, dì tự hào về cháu trai lắm đó!"
+        },
+        {
+          "en": "Did you know you're your aunt's nephew?",
+          "vi": "Con có biết con là cháu trai của dì không?"
+        },
+        {
+          "en": "Go give your uncle a hug, you're his favorite nephew!",
+          "vi": "Ra ôm chú đi, con là đứa cháu chú cưng nhất đó!"
+        },
+        {
+          "en": "A nephew is your brother's or sister's son.",
+          "vi": "Cháu trai là con trai của anh chị em mình."
+        },
+        {
+          "en": "Daddy has two nephews, and they're my cousins.",
+          "vi": "Ba có hai đứa cháu trai, là anh họ con đó."
+        }
+      ]
+    },
+    {
+      "id": "v-family-034",
+      "en": "niece",
+      "vi": "cháu gái (con của anh chị em)",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, your aunt loves her little niece!",
+          "vi": "Ôi, dì thương đứa cháu gái nhỏ lắm!"
+        },
+        {
+          "en": "Is your cousin Mommy's niece?",
+          "vi": "Em họ con là cháu gái của mẹ hả?"
+        },
+        {
+          "en": "Let's make a birthday card for Daddy's niece.",
+          "vi": "Mình làm thiệp sinh nhật cho cháu gái của ba nha."
+        },
+        {
+          "en": "A niece is your sister's or brother's daughter.",
+          "vi": "Cháu gái là con gái của anh chị em mình."
+        },
+        {
+          "en": "My aunt said I'm her favorite niece!",
+          "vi": "Dì nói con là đứa cháu gái dì thương nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-035",
+      "en": "grandson",
+      "vi": "cháu trai (của ông bà)",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Grandma's here to see her grandson!",
+          "vi": "Bà tới thăm cháu trai nè!"
+        },
+        {
+          "en": "Do you know you're Grandpa's grandson?",
+          "vi": "Con có biết con là cháu trai của ông không?"
+        },
+        {
+          "en": "Go tell Grandma her grandson is ready!",
+          "vi": "Con ra nói với bà là cháu trai của bà sẵn sàng rồi!"
+        },
+        {
+          "en": "Grandpa is so proud of his grandson.",
+          "vi": "Ông tự hào về cháu trai lắm."
+        },
+        {
+          "en": "I'm Grandma's only grandson!",
+          "vi": "Con là cháu trai duy nhất của bà đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-036",
+      "en": "granddaughter",
+      "vi": "cháu gái (của ông bà)",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Grandma's little granddaughter is here!",
+          "vi": "Cháu gái nhỏ của bà tới rồi nè!"
+        },
+        {
+          "en": "Who is Grandpa's granddaughter?",
+          "vi": "Ai là cháu gái của ông nè?"
+        },
+        {
+          "en": "Let's send Grandma a photo of her granddaughter.",
+          "vi": "Mình gửi hình cháu gái cho bà xem nha."
+        },
+        {
+          "en": "Grandma says her granddaughter is so smart.",
+          "vi": "Bà khen cháu gái bà thông minh lắm."
+        },
+        {
+          "en": "I'm Grandpa's favorite granddaughter!",
+          "vi": "Con là cháu gái cưng của ông đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-037",
+      "en": "great-grandma",
+      "vi": "bà cố",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, Great-Grandma is ninety!",
+          "vi": "Wow, bà cố chín mươi tuổi rồi đó!"
+        },
+        {
+          "en": "Do you remember Great-Grandma?",
+          "vi": "Con còn nhớ bà cố không?"
+        },
+        {
+          "en": "Speak loudly so Great-Grandma can hear.",
+          "vi": "Con nói to lên cho bà cố nghe nha."
+        },
+        {
+          "en": "Great-Grandma is Grandma's mommy.",
+          "vi": "Bà cố là mẹ của bà đó."
+        },
+        {
+          "en": "I gave Great-Grandma a big hug!",
+          "vi": "Con ôm bà cố một cái thật chặt!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-038",
+      "en": "great-grandpa",
+      "vi": "ông cố",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, here's an old photo of Great-Grandpa!",
+          "vi": "Nhìn nè, hình cũ của ông cố nè!"
+        },
+        {
+          "en": "What was Great-Grandpa like?",
+          "vi": "Ông cố là người như thế nào vậy?"
+        },
+        {
+          "en": "Let's ask Grandpa about Great-Grandpa.",
+          "vi": "Mình hỏi ông về ông cố nha."
+        },
+        {
+          "en": "Great-Grandpa was a farmer long ago.",
+          "vi": "Ngày xưa ông cố làm nông đó."
+        },
+        {
+          "en": "Great-Grandpa told me a funny story!",
+          "vi": "Ông cố kể con nghe chuyện vui lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-039",
+      "en": "family photo",
+      "vi": "hình gia đình",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, our family photo!",
+          "vi": "Nhìn nè, hình cả nhà mình!"
+        },
+        {
+          "en": "Where's our family photo from the beach?",
+          "vi": "Hình cả nhà đi biển đâu rồi ta?"
+        },
+        {
+          "en": "Smile for the family photo!",
+          "vi": "Cười lên chụp hình gia đình nào!"
+        },
+        {
+          "en": "I love this family photo.",
+          "vi": "Mình thích tấm hình gia đình này lắm."
+        },
+        {
+          "en": "We took a family photo!",
+          "vi": "Cả nhà mình chụp hình chung nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-040",
+      "en": "nickname",
+      "vi": "tên ở nhà, biệt danh",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That's a cute nickname!",
+          "vi": "Tên ở nhà dễ thương ghê!"
+        },
+        {
+          "en": "What's your nickname at school?",
+          "vi": "Ở trường con có biệt danh gì không?"
+        },
+        {
+          "en": "Let's think of a nickname for the puppy.",
+          "vi": "Mình nghĩ biệt danh cho con cún nha."
+        },
+        {
+          "en": "Grandpa's nickname for you is so sweet.",
+          "vi": "Ông đặt tên ở nhà cho con dễ thương lắm."
+        },
+        {
+          "en": "My friends gave me a funny nickname!",
+          "vi": "Bạn bè đặt cho con biệt danh vui lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-041",
+      "en": "last name",
+      "vi": "họ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, our last name is on the mailbox!",
+          "vi": "Nhìn kìa, họ nhà mình ghi trên hộp thư đó!"
+        },
+        {
+          "en": "What's your last name?",
+          "vi": "Con họ gì?"
+        },
+        {
+          "en": "Write your last name here.",
+          "vi": "Con viết họ của con vô đây nè."
+        },
+        {
+          "en": "In Vietnam, the last name comes first.",
+          "vi": "Ở Việt Nam, họ đứng trước tên."
+        },
+        {
+          "en": "I have the same last name as Daddy!",
+          "vi": "Con cùng họ với ba nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-042",
+      "en": "middle name",
+      "vi": "tên đệm, tên lót",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, you have a pretty middle name!",
+          "vi": "Ồ, tên lót của con hay ghê!"
+        },
+        {
+          "en": "What's Daddy's middle name?",
+          "vi": "Tên lót của ba là gì?"
+        },
+        {
+          "en": "Write your middle name here too.",
+          "vi": "Con ghi luôn tên lót vô đây nha."
+        },
+        {
+          "en": "Most Vietnamese names have a middle name.",
+          "vi": "Hầu hết tên Việt Nam đều có tên lót."
+        },
+        {
+          "en": "My middle name is the same as Grandpa's!",
+          "vi": "Tên lót của con giống của ông nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-043",
+      "en": "together",
+      "vi": "cùng nhau",
+      "pos": "adverb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, we're all together!",
+          "vi": "A, cả nhà mình đông đủ rồi!"
+        },
+        {
+          "en": "Can we play together?",
+          "vi": "Mình chơi chung được không?"
+        },
+        {
+          "en": "Let's clean up together.",
+          "vi": "Mình cùng dọn dẹp nha."
+        },
+        {
+          "en": "Families eat dinner together.",
+          "vi": "Gia đình cùng ăn tối với nhau."
+        },
+        {
+          "en": "My brother and I built it together!",
+          "vi": "Con với anh hai cùng xây đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-044",
+      "en": "newborn",
+      "vi": "em bé sơ sinh",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, a newborn baby!",
+          "vi": "Ôi, em bé sơ sinh!"
+        },
+        {
+          "en": "Do you know what newborns eat?",
+          "vi": "Con có biết em bé sơ sinh ăn gì không?"
+        },
+        {
+          "en": "Whisper, the newborn is sleeping.",
+          "vi": "Nói nhỏ thôi, em bé sơ sinh đang ngủ."
+        },
+        {
+          "en": "Newborns sleep almost all day.",
+          "vi": "Em bé sơ sinh ngủ gần như cả ngày."
+        },
+        {
+          "en": "I saw my aunt's newborn baby!",
+          "vi": "Con được thấy em bé mới sinh của dì rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-045",
+      "en": "stranger",
+      "vi": "người lạ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, that man is a stranger.",
+          "vi": "Ồ, chú đó là người lạ."
+        },
+        {
+          "en": "Is she a stranger or a friend?",
+          "vi": "Cô đó là người lạ hay người quen?"
+        },
+        {
+          "en": "Stay close to me around strangers.",
+          "vi": "Gần người lạ thì đứng sát bên mình nha."
+        },
+        {
+          "en": "A stranger is someone we don't know.",
+          "vi": "Người lạ là người mình không quen."
+        },
+        {
+          "en": "I won't go anywhere with a stranger.",
+          "vi": "Con sẽ không đi đâu với người lạ hết."
+        }
+      ]
+    },
+    {
+      "id": "v-family-046",
+      "en": "family tree",
+      "vi": "cây gia phả",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look how big our family tree is!",
+          "vi": "Wow, cây gia phả nhà mình lớn quá!"
+        },
+        {
+          "en": "Who's at the top of our family tree?",
+          "vi": "Ai đứng đầu cây gia phả nhà mình vậy?"
+        },
+        {
+          "en": "Let's draw a family tree together.",
+          "vi": "Mình cùng vẽ cây gia phả nha."
+        },
+        {
+          "en": "A family tree shows how everyone is related.",
+          "vi": "Cây gia phả cho thấy mọi người có họ hàng với nhau ra sao."
+        },
+        {
+          "en": "I'm going to put Great-Grandma on my family tree.",
+          "vi": "Con sẽ thêm bà cố vào cây gia phả của con."
+        }
+      ]
+    },
+    {
+      "id": "v-family-047",
+      "en": "only child",
+      "vi": "con một",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, Daddy was an only child!",
+          "vi": "Ồ, ba là con một đó!"
+        },
+        {
+          "en": "Is your friend an only child?",
+          "vi": "Bạn con là con một hả?"
+        },
+        {
+          "en": "Let's invite your friend over, she's an only child.",
+          "vi": "Mình rủ bạn qua chơi đi, bạn ấy là con một mà."
+        },
+        {
+          "en": "An only child has no brothers or sisters.",
+          "vi": "Con một là không có anh chị em nào."
+        },
+        {
+          "en": "If I were an only child, I'd get all the toys!",
+          "vi": "Nếu con là con một thì đồ chơi là của con hết!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-048",
+      "en": "look like",
+      "vi": "giống (ai đó)",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you look just like Daddy!",
+          "vi": "Wow, con giống ba y chang!"
+        },
+        {
+          "en": "Who do you look like more?",
+          "vi": "Con giống ai nhiều hơn?"
+        },
+        {
+          "en": "Let's see if the baby looks like you!",
+          "vi": "Mình coi em bé có giống con không nha!"
+        },
+        {
+          "en": "Your sister looks like Grandma when she smiles.",
+          "vi": "Em gái con cười lên giống bà ghê."
+        },
+        {
+          "en": "People say I look like Mommy!",
+          "vi": "Ai cũng nói con giống mẹ!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-049",
+      "en": "ancestors",
+      "vi": "ông bà tổ tiên",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, this altar is for our ancestors.",
+          "vi": "Nhìn nè, bàn thờ này là để thờ ông bà tổ tiên."
+        },
+        {
+          "en": "Do you know who our ancestors were?",
+          "vi": "Con có biết tổ tiên mình là ai không?"
+        },
+        {
+          "en": "Let's light incense for our ancestors.",
+          "vi": "Mình thắp nhang cho ông bà tổ tiên nha."
+        },
+        {
+          "en": "Our ancestors lived in the countryside long ago.",
+          "vi": "Ngày xưa tổ tiên mình sống ở miền quê."
+        },
+        {
+          "en": "At New Year, we always remember our ancestors.",
+          "vi": "Tết nào mình cũng nhớ tới ông bà tổ tiên."
+        }
+      ]
+    },
+    {
+      "id": "v-family-050",
+      "en": "guest",
+      "vi": "khách",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, our guests are here!",
+          "vi": "A, khách tới rồi!"
+        },
+        {
+          "en": "Who's our special guest today?",
+          "vi": "Hôm nay ai là khách đặc biệt nhà mình ta?"
+        },
+        {
+          "en": "Let's get a chair for our guest.",
+          "vi": "Mình lấy ghế cho khách ngồi nha."
+        },
+        {
+          "en": "Guests take their shoes off here.",
+          "vi": "Khách vô nhà thì cởi giày ở đây."
+        },
+        {
+          "en": "My friend was our dinner guest!",
+          "vi": "Bạn con tới nhà mình ăn tối làm khách nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-051",
+      "en": "everyone",
+      "vi": "mọi người",
+      "pos": "pronoun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Good morning, everyone!",
+          "vi": "Chào buổi sáng cả nhà!"
+        },
+        {
+          "en": "Is everyone ready?",
+          "vi": "Mọi người sẵn sàng chưa?"
+        },
+        {
+          "en": "Let's wait for everyone.",
+          "vi": "Mình chờ mọi người nha."
+        },
+        {
+          "en": "Everyone loves your singing.",
+          "vi": "Ai cũng thích nghe con hát."
+        },
+        {
+          "en": "Everyone came to my party!",
+          "vi": "Ai cũng tới dự tiệc của con hết!"
+        }
+      ]
+    },
+    {
+      "id": "v-family-052",
+      "en": "siblings",
+      "vi": "anh chị em ruột",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, your friend has four siblings!",
+          "vi": "Wow, bạn con có tới bốn anh chị em!"
+        },
+        {
+          "en": "Do you have any siblings?",
+          "vi": "Bạn có anh chị em không?"
+        },
+        {
+          "en": "Try to be patient with your siblings.",
+          "vi": "Ráng kiên nhẫn với anh chị em nha."
+        },
+        {
+          "en": "Siblings fight sometimes, and that's normal.",
+          "vi": "Anh chị em đôi khi cũng cãi nhau, chuyện bình thường thôi."
+        },
+        {
+          "en": "I think siblings should take turns choosing.",
+          "vi": "Con nghĩ anh chị em nên thay phiên nhau chọn."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1725 @@
+{
+  "deckId": "v-animals",
+  "words": [
+    {
+      "id": "v-animals-001",
+      "en": "dog",
+      "vi": "con chó",
+      "pos": "noun",
+      "emoji": "🐶",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big dog!",
+          "vi": "Nhìn kìa, con chó bự quá!"
+        },
+        {
+          "en": "Can you pet the dog gently?",
+          "vi": "Con vuốt con chó nhẹ nhẹ được không?"
+        },
+        {
+          "en": "Let's say hi to the dog.",
+          "vi": "Mình chào con chó đi."
+        },
+        {
+          "en": "The dog is so fluffy.",
+          "vi": "Con chó lông xù quá trời."
+        },
+        {
+          "en": "Woof woof! I'm a dog!",
+          "vi": "Gâu gâu! Con là con chó nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-002",
+      "en": "cat",
+      "vi": "con mèo",
+      "pos": "noun",
+      "emoji": "🐱",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oh, there's a cat!",
+          "vi": "Ồ, có con mèo kìa!"
+        },
+        {
+          "en": "What does the cat say?",
+          "vi": "Con mèo kêu sao con?"
+        },
+        {
+          "en": "Pet the cat softly, okay?",
+          "vi": "Vuốt con mèo nhẹ thôi nha?"
+        },
+        {
+          "en": "The cat is sleeping. Shh!",
+          "vi": "Con mèo đang ngủ. Suỵt!"
+        },
+        {
+          "en": "Meow! I'm a little cat.",
+          "vi": "Meo! Con là mèo con nè."
+        }
+      ]
+    },
+    {
+      "id": "v-animals-003",
+      "en": "puppy",
+      "vi": "con chó con",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aw, a tiny puppy!",
+          "vi": "Ôi, con chó con nhỏ xíu!"
+        },
+        {
+          "en": "Do you want to hold the puppy?",
+          "vi": "Con muốn bế con chó con không?"
+        },
+        {
+          "en": "Let's give the puppy some water.",
+          "vi": "Mình cho chó con uống nước nha."
+        },
+        {
+          "en": "The puppy wants to play with you.",
+          "vi": "Chó con muốn chơi với con đó."
+        },
+        {
+          "en": "Can I have a puppy, please?",
+          "vi": "Cho con nuôi một con chó con nha?"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-004",
+      "en": "kitten",
+      "vi": "con mèo con",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little kitten!",
+          "vi": "Nhìn kìa, con mèo con nè!"
+        },
+        {
+          "en": "Is the kitten hungry?",
+          "vi": "Mèo con đói bụng hả?"
+        },
+        {
+          "en": "Be gentle with the kitten.",
+          "vi": "Nhẹ tay với mèo con nha."
+        },
+        {
+          "en": "The kitten is so soft.",
+          "vi": "Mèo con mềm quá."
+        },
+        {
+          "en": "The kitten licked my hand!",
+          "vi": "Mèo con liếm tay con nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-005",
+      "en": "bunny",
+      "vi": "con thỏ",
+      "pos": "noun",
+      "emoji": "🐰",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Hop hop, a bunny!",
+          "vi": "Nhảy nhảy, con thỏ kìa!"
+        },
+        {
+          "en": "What do bunnies eat?",
+          "vi": "Thỏ ăn gì vậy con?"
+        },
+        {
+          "en": "Let's hop like a bunny!",
+          "vi": "Mình nhảy như con thỏ nào!"
+        },
+        {
+          "en": "The bunny has long ears.",
+          "vi": "Con thỏ có đôi tai dài."
+        },
+        {
+          "en": "I want to feed the bunny!",
+          "vi": "Con muốn cho thỏ ăn!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-006",
+      "en": "hamster",
+      "vi": "con chuột hamster",
+      "pos": "noun",
+      "emoji": "🐹",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little hamster!",
+          "vi": "Nhìn kìa, con chuột hamster!"
+        },
+        {
+          "en": "Is the hamster sleeping?",
+          "vi": "Con hamster đang ngủ hả?"
+        },
+        {
+          "en": "Let's watch the hamster run.",
+          "vi": "Mình coi con hamster chạy nha."
+        },
+        {
+          "en": "The hamster has chubby cheeks.",
+          "vi": "Con hamster có hai má phúng phính."
+        },
+        {
+          "en": "The hamster's in his wheel!",
+          "vi": "Con hamster đang chạy trong bánh xe kìa!",
+          "ipa": "/ðə ˈhæmstɚz ɪn hɪz wil/"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-007",
+      "en": "bird",
+      "vi": "con chim",
+      "pos": "noun",
+      "emoji": "🐦",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Listen, a bird is singing!",
+          "vi": "Nghe nè, có con chim đang hót!"
+        },
+        {
+          "en": "Where's the bird going?",
+          "vi": "Con chim bay đi đâu vậy?"
+        },
+        {
+          "en": "Let's count the birds.",
+          "vi": "Mình đếm mấy con chim nha."
+        },
+        {
+          "en": "The bird is so pretty.",
+          "vi": "Con chim đẹp quá."
+        },
+        {
+          "en": "Bye-bye, bird!",
+          "vi": "Tạm biệt chim nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-008",
+      "en": "parrot",
+      "vi": "con vẹt",
+      "pos": "noun",
+      "emoji": "🦜",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a colorful parrot!",
+          "vi": "Wow, con vẹt nhiều màu quá!"
+        },
+        {
+          "en": "Can the parrot talk?",
+          "vi": "Con vẹt biết nói hả?"
+        },
+        {
+          "en": "Say hello to the parrot.",
+          "vi": "Con chào con vẹt đi."
+        },
+        {
+          "en": "The parrot is green and red.",
+          "vi": "Con vẹt màu xanh lá với đỏ."
+        },
+        {
+          "en": "The parrot said hello to me!",
+          "vi": "Con vẹt chào con đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-009",
+      "en": "chicken",
+      "vi": "con gà",
+      "pos": "noun",
+      "emoji": "🐔",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a chicken! Cluck, cluck!",
+          "vi": "Nhìn kìa, con gà! Cục cục!"
+        },
+        {
+          "en": "How many chickens do you see?",
+          "vi": "Con thấy mấy con gà?"
+        },
+        {
+          "en": "Let's give the chickens some rice.",
+          "vi": "Mình cho gà ăn lúa nha."
+        },
+        {
+          "en": "The chicken is pecking the ground.",
+          "vi": "Con gà đang mổ đất."
+        },
+        {
+          "en": "I saw baby chickens at Grandma's!",
+          "vi": "Con thấy gà con ở nhà bà!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-010",
+      "en": "duck",
+      "vi": "con vịt",
+      "pos": "noun",
+      "emoji": "🦆",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Quack quack! A duck!",
+          "vi": "Cạp cạp! Con vịt!"
+        },
+        {
+          "en": "Where are the ducks swimming?",
+          "vi": "Mấy con vịt bơi ở đâu vậy?"
+        },
+        {
+          "en": "Let's walk like a duck!",
+          "vi": "Mình đi lạch bạch như con vịt nào!"
+        },
+        {
+          "en": "The duck is swimming in the pond.",
+          "vi": "Con vịt đang bơi dưới ao."
+        },
+        {
+          "en": "I fed the ducks at the park!",
+          "vi": "Con cho vịt ăn ở công viên!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-011",
+      "en": "cow",
+      "vi": "con bò",
+      "pos": "noun",
+      "emoji": "🐮",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Moo! Look at the cow!",
+          "vi": "Ò ò! Nhìn con bò kìa!"
+        },
+        {
+          "en": "What does a cow say?",
+          "vi": "Con bò kêu sao?"
+        },
+        {
+          "en": "Can you moo like a cow?",
+          "vi": "Con kêu ò ò như con bò được không?"
+        },
+        {
+          "en": "The cow is eating grass.",
+          "vi": "Con bò đang ăn cỏ."
+        },
+        {
+          "en": "Milk comes from cows, right?",
+          "vi": "Sữa là từ con bò đúng không?"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-012",
+      "en": "pig",
+      "vi": "con heo",
+      "pos": "noun",
+      "emoji": "🐷",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oink oink! A pig!",
+          "vi": "Ụt ịt! Con heo!",
+          "ipa": "/ɔɪŋk ɔɪŋk ə pɪɡ/"
+        },
+        {
+          "en": "Where's the little pig?",
+          "vi": "Con heo nhỏ đâu rồi?"
+        },
+        {
+          "en": "Let's oink like a pig!",
+          "vi": "Mình kêu ụt ịt như con heo nào!",
+          "ipa": "/lɛts ɔɪŋk laɪk ə pɪɡ/"
+        },
+        {
+          "en": "The pig is pink and round.",
+          "vi": "Con heo màu hồng, tròn vo."
+        },
+        {
+          "en": "The pig rolled in the mud!",
+          "vi": "Con heo lăn trong bùn kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-013",
+      "en": "horse",
+      "vi": "con ngựa",
+      "pos": "noun",
+      "emoji": "🐴",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big horse!",
+          "vi": "Wow, con ngựa bự quá!"
+        },
+        {
+          "en": "Do you want to ride a horse?",
+          "vi": "Con muốn cưỡi ngựa không?"
+        },
+        {
+          "en": "Let's gallop like a horse!",
+          "vi": "Mình phi như con ngựa nào!"
+        },
+        {
+          "en": "The horse runs so fast.",
+          "vi": "Con ngựa chạy nhanh ghê."
+        },
+        {
+          "en": "I rode a horse today!",
+          "vi": "Hôm nay con được cưỡi ngựa!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-014",
+      "en": "sheep",
+      "vi": "con cừu",
+      "pos": "noun",
+      "emoji": "🐑",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Baa! Look at the sheep!",
+          "vi": "Be be! Nhìn con cừu kìa!"
+        },
+        {
+          "en": "How many sheep can you count?",
+          "vi": "Con đếm được mấy con cừu?"
+        },
+        {
+          "en": "Touch the sheep softly.",
+          "vi": "Sờ con cừu nhẹ nhẹ nha."
+        },
+        {
+          "en": "The sheep is so woolly and white.",
+          "vi": "Con cừu lông xù trắng tinh."
+        },
+        {
+          "en": "The sheep says baa!",
+          "vi": "Con cừu kêu be be!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-015",
+      "en": "goat",
+      "vi": "con dê",
+      "pos": "noun",
+      "emoji": "🐐",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a goat!",
+          "vi": "Nhìn kìa, con dê!"
+        },
+        {
+          "en": "Does the goat have horns?",
+          "vi": "Con dê có sừng không con?"
+        },
+        {
+          "en": "Let's feed the goat some leaves.",
+          "vi": "Mình cho dê ăn lá nha."
+        },
+        {
+          "en": "The baby goat is so cute.",
+          "vi": "Dê con dễ thương quá."
+        },
+        {
+          "en": "The goat ate my paper!",
+          "vi": "Con dê ăn tờ giấy của con rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-016",
+      "en": "frog",
+      "vi": "con ếch",
+      "pos": "noun",
+      "emoji": "🐸",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ribbit! A frog!",
+          "vi": "Ộp ộp! Con ếch!"
+        },
+        {
+          "en": "Can you jump like a frog?",
+          "vi": "Con nhảy như con ếch được không?"
+        },
+        {
+          "en": "Let's find the frog.",
+          "vi": "Mình đi tìm con ếch nha."
+        },
+        {
+          "en": "The frog is green and slimy.",
+          "vi": "Con ếch màu xanh, nhớt nhớt."
+        },
+        {
+          "en": "The frog jumped so high!",
+          "vi": "Con ếch nhảy cao quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-017",
+      "en": "turtle",
+      "vi": "con rùa",
+      "pos": "noun",
+      "emoji": "🐢",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a turtle!",
+          "vi": "Nhìn kìa, con rùa!"
+        },
+        {
+          "en": "Where did the turtle's head go?",
+          "vi": "Đầu con rùa đâu mất rồi?"
+        },
+        {
+          "en": "Let's walk slowly like a turtle.",
+          "vi": "Mình đi chậm chậm như con rùa nào."
+        },
+        {
+          "en": "The turtle has a hard shell.",
+          "vi": "Con rùa có cái mai cứng."
+        },
+        {
+          "en": "The turtle is so slow!",
+          "vi": "Con rùa đi chậm quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-018",
+      "en": "mouse",
+      "vi": "con chuột",
+      "pos": "noun",
+      "emoji": "🐭",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Squeak! A little mouse!",
+          "vi": "Chít chít! Con chuột nhỏ!"
+        },
+        {
+          "en": "Where's the mouse hiding?",
+          "vi": "Con chuột trốn đâu rồi?"
+        },
+        {
+          "en": "Tiptoe like a quiet mouse.",
+          "vi": "Đi nhón chân êm như con chuột nha."
+        },
+        {
+          "en": "The mouse is tiny and gray.",
+          "vi": "Con chuột nhỏ xíu, màu xám."
+        },
+        {
+          "en": "I'm a mouse! Squeak, squeak!",
+          "vi": "Con là con chuột! Chít chít!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-019",
+      "en": "lion",
+      "vi": "con sư tử",
+      "pos": "noun",
+      "emoji": "🦁",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Roar! It's a lion!",
+          "vi": "Gừm! Con sư tử nè!"
+        },
+        {
+          "en": "Can you roar like a lion?",
+          "vi": "Con gầm như sư tử được không?"
+        },
+        {
+          "en": "Let's find the lion at the zoo.",
+          "vi": "Mình đi tìm con sư tử ở sở thú nha."
+        },
+        {
+          "en": "The lion has a big, fluffy mane.",
+          "vi": "Con sư tử có cái bờm to xù."
+        },
+        {
+          "en": "I'm a lion! Roar!",
+          "vi": "Con là sư tử! Gừm!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-020",
+      "en": "tiger",
+      "vi": "con cọp",
+      "pos": "noun",
+      "emoji": "🐯",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a tiger!",
+          "vi": "Wow, con cọp!"
+        },
+        {
+          "en": "What color is the tiger?",
+          "vi": "Con cọp màu gì?"
+        },
+        {
+          "en": "Show me your tiger face!",
+          "vi": "Làm mặt con cọp cho mình coi nào!"
+        },
+        {
+          "en": "The tiger has orange and black stripes.",
+          "vi": "Con cọp có sọc cam với đen."
+        },
+        {
+          "en": "The tiger was sleeping at the zoo.",
+          "vi": "Con cọp ở sở thú đang ngủ."
+        }
+      ]
+    },
+    {
+      "id": "v-animals-021",
+      "en": "elephant",
+      "vi": "con voi",
+      "pos": "noun",
+      "emoji": "🐘",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at the big elephant!",
+          "vi": "Nhìn con voi bự kìa!"
+        },
+        {
+          "en": "Can you see the elephant's trunk?",
+          "vi": "Con thấy cái vòi của con voi không?"
+        },
+        {
+          "en": "Let's stomp like an elephant!",
+          "vi": "Mình dậm chân như con voi nào!"
+        },
+        {
+          "en": "The elephant is so big.",
+          "vi": "Con voi to quá trời."
+        },
+        {
+          "en": "Elephants are my favorite!",
+          "vi": "Con thích voi nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-022",
+      "en": "monkey",
+      "vi": "con khỉ",
+      "pos": "noun",
+      "emoji": "🐵",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh ooh, a monkey!",
+          "vi": "U u, con khỉ!"
+        },
+        {
+          "en": "What's the monkey eating?",
+          "vi": "Con khỉ đang ăn gì vậy?"
+        },
+        {
+          "en": "Let's swing like monkeys!",
+          "vi": "Mình đu như mấy con khỉ nào!"
+        },
+        {
+          "en": "The monkey is so silly.",
+          "vi": "Con khỉ lém lỉnh ghê."
+        },
+        {
+          "en": "You're my little monkey!",
+          "vi": "Con là con khỉ nhỏ của mình!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-023",
+      "en": "giraffe",
+      "vi": "con hươu cao cổ",
+      "pos": "noun",
+      "emoji": "🦒",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a tall giraffe!",
+          "vi": "Wow, con hươu cao cổ cao quá!"
+        },
+        {
+          "en": "Why is the giraffe so tall?",
+          "vi": "Sao con hươu cao cổ cao vậy ta?"
+        },
+        {
+          "en": "Stretch up tall like a giraffe!",
+          "vi": "Vươn người cao lên như hươu cao cổ nào!"
+        },
+        {
+          "en": "The giraffe has a long neck.",
+          "vi": "Con hươu cao cổ có cái cổ dài."
+        },
+        {
+          "en": "The giraffe is eating leaves!",
+          "vi": "Con hươu cao cổ đang ăn lá kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-024",
+      "en": "zebra",
+      "vi": "con ngựa vằn",
+      "pos": "noun",
+      "emoji": "🦓",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a zebra!",
+          "vi": "Nhìn kìa, con ngựa vằn!"
+        },
+        {
+          "en": "What color is the zebra?",
+          "vi": "Con ngựa vằn màu gì?"
+        },
+        {
+          "en": "Let's count the zebra's stripes.",
+          "vi": "Mình đếm sọc của con ngựa vằn nha.",
+          "ipa": "/lɛts kaʊnt ðə ˈzibɹəz stɹaɪps/"
+        },
+        {
+          "en": "The zebra has black and white stripes.",
+          "vi": "Con ngựa vằn có sọc đen trắng."
+        },
+        {
+          "en": "The zebra looks like a horse!",
+          "vi": "Con ngựa vằn giống con ngựa ghê!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-025",
+      "en": "bear",
+      "vi": "con gấu",
+      "pos": "noun",
+      "emoji": "🐻",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big brown bear!",
+          "vi": "Nhìn kìa, con gấu nâu bự!"
+        },
+        {
+          "en": "Do you want a bear hug?",
+          "vi": "Con muốn ôm kiểu gấu không?"
+        },
+        {
+          "en": "Let's walk like a bear!",
+          "vi": "Mình đi như con gấu nào!"
+        },
+        {
+          "en": "The bear looks sleepy.",
+          "vi": "Con gấu trông buồn ngủ ghê."
+        },
+        {
+          "en": "I love bears!",
+          "vi": "Con thích gấu lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-026",
+      "en": "panda",
+      "vi": "con gấu trúc",
+      "pos": "noun",
+      "emoji": "🐼",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aw, a panda!",
+          "vi": "Ôi, con gấu trúc!"
+        },
+        {
+          "en": "What does a panda eat?",
+          "vi": "Gấu trúc ăn gì vậy?"
+        },
+        {
+          "en": "Let's draw a panda together.",
+          "vi": "Mình vẽ con gấu trúc chung nha."
+        },
+        {
+          "en": "The panda is black and white.",
+          "vi": "Con gấu trúc màu đen trắng."
+        },
+        {
+          "en": "The panda is eating bamboo!",
+          "vi": "Con gấu trúc đang ăn tre kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-027",
+      "en": "kangaroo",
+      "vi": "con chuột túi",
+      "pos": "noun",
+      "emoji": "🦘",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Boing! A kangaroo!",
+          "vi": "Tưng tưng! Con chuột túi!",
+          "ipa": "/bɔɪŋ ə ˌkæŋɡɚˈu/"
+        },
+        {
+          "en": "Where's the baby kangaroo?",
+          "vi": "Chuột túi con đâu rồi?"
+        },
+        {
+          "en": "Let's jump like a kangaroo!",
+          "vi": "Mình nhảy như con chuột túi nào!"
+        },
+        {
+          "en": "The kangaroo has a pocket.",
+          "vi": "Con chuột túi có cái túi trước bụng."
+        },
+        {
+          "en": "The baby kangaroo is in the pocket!",
+          "vi": "Chuột túi con nằm trong túi kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-028",
+      "en": "koala",
+      "vi": "con gấu koala",
+      "pos": "noun",
+      "emoji": "🐨",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a sleepy koala!",
+          "vi": "Nhìn kìa, con gấu koala buồn ngủ!"
+        },
+        {
+          "en": "Where's the koala sitting?",
+          "vi": "Con koala ngồi ở đâu?"
+        },
+        {
+          "en": "Hug me like a koala!",
+          "vi": "Ôm mình như con koala đi!"
+        },
+        {
+          "en": "The koala is so fuzzy.",
+          "vi": "Con koala lông mịn quá."
+        },
+        {
+          "en": "The koala is hugging the tree!",
+          "vi": "Con koala đang ôm cái cây kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-029",
+      "en": "hippo",
+      "vi": "con hà mã",
+      "pos": "noun",
+      "emoji": "🦛",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big hippo!",
+          "vi": "Wow, con hà mã bự quá!"
+        },
+        {
+          "en": "Where's the hippo hiding?",
+          "vi": "Con hà mã trốn đâu rồi?"
+        },
+        {
+          "en": "Open your mouth wide like a hippo!",
+          "vi": "Há miệng thật to như hà mã nào!"
+        },
+        {
+          "en": "The hippo loves the water.",
+          "vi": "Con hà mã thích nước lắm."
+        },
+        {
+          "en": "The hippo yawned!",
+          "vi": "Con hà mã ngáp kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-030",
+      "en": "crocodile",
+      "vi": "con cá sấu",
+      "pos": "noun",
+      "emoji": "🐊",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Snap snap! A crocodile!",
+          "vi": "Táp táp! Con cá sấu!"
+        },
+        {
+          "en": "Does a crocodile have big teeth?",
+          "vi": "Cá sấu có răng to không?"
+        },
+        {
+          "en": "Let's crawl like a crocodile!",
+          "vi": "Mình bò như con cá sấu nào!"
+        },
+        {
+          "en": "The crocodile is long and green.",
+          "vi": "Con cá sấu dài và màu xanh."
+        },
+        {
+          "en": "I saw a crocodile in the water!",
+          "vi": "Con thấy cá sấu dưới nước!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-031",
+      "en": "snake",
+      "vi": "con rắn",
+      "pos": "noun",
+      "emoji": "🐍",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Hiss! It's a snake!",
+          "vi": "Xì xì! Con rắn nè!"
+        },
+        {
+          "en": "Does a snake have legs?",
+          "vi": "Con rắn có chân không?"
+        },
+        {
+          "en": "Let's make a snake with play dough.",
+          "vi": "Mình nặn con rắn bằng đất nặn nha."
+        },
+        {
+          "en": "The snake is long and wiggly.",
+          "vi": "Con rắn dài và uốn éo."
+        },
+        {
+          "en": "I'm a snake! Hiss, hiss!",
+          "vi": "Con là con rắn! Xì xì!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-032",
+      "en": "deer",
+      "vi": "con nai",
+      "pos": "noun",
+      "emoji": "🦌",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Shh, look, a deer!",
+          "vi": "Suỵt, nhìn kìa, con nai!"
+        },
+        {
+          "en": "Did you see the baby deer?",
+          "vi": "Con thấy nai con chưa?"
+        },
+        {
+          "en": "Let's be quiet so the deer stays.",
+          "vi": "Mình im lặng để con nai đừng chạy nha."
+        },
+        {
+          "en": "The deer has big brown eyes.",
+          "vi": "Con nai có đôi mắt nâu to."
+        },
+        {
+          "en": "The deer ran into the trees!",
+          "vi": "Con nai chạy vô rừng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-033",
+      "en": "fox",
+      "vi": "con cáo",
+      "pos": "noun",
+      "emoji": "🦊",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, an orange fox!",
+          "vi": "Nhìn kìa, con cáo màu cam!"
+        },
+        {
+          "en": "Where's the fox going?",
+          "vi": "Con cáo đi đâu vậy?"
+        },
+        {
+          "en": "Let's sneak like a fox.",
+          "vi": "Mình rón rén như con cáo nào."
+        },
+        {
+          "en": "The fox is very clever.",
+          "vi": "Con cáo lanh lắm."
+        },
+        {
+          "en": "I read a story about a fox!",
+          "vi": "Con đọc truyện về con cáo đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-034",
+      "en": "squirrel",
+      "vi": "con sóc",
+      "pos": "noun",
+      "emoji": "🐿️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a squirrel up there!",
+          "vi": "Nhìn kìa, con sóc trên kia!"
+        },
+        {
+          "en": "Where did the squirrel go?",
+          "vi": "Con sóc chạy đâu rồi?"
+        },
+        {
+          "en": "Let's watch the squirrel climb.",
+          "vi": "Mình coi con sóc leo cây nha."
+        },
+        {
+          "en": "The squirrel has a bushy tail.",
+          "vi": "Con sóc có cái đuôi xù."
+        },
+        {
+          "en": "The squirrel is eating a nut!",
+          "vi": "Con sóc đang ăn hạt kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-035",
+      "en": "owl",
+      "vi": "con cú",
+      "pos": "noun",
+      "emoji": "🦉",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Hoo hoo! An owl!",
+          "vi": "Hu hu! Con cú!"
+        },
+        {
+          "en": "When do owls wake up? At night!",
+          "vi": "Cú thức dậy lúc nào? Ban đêm!"
+        },
+        {
+          "en": "Make big eyes like an owl!",
+          "vi": "Mở mắt to như con cú nào!"
+        },
+        {
+          "en": "The owl has big round eyes.",
+          "vi": "Con cú có đôi mắt to tròn."
+        },
+        {
+          "en": "I can say hoo like an owl!",
+          "vi": "Con kêu hu hu như con cú được nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-036",
+      "en": "penguin",
+      "vi": "con chim cánh cụt",
+      "pos": "noun",
+      "emoji": "🐧",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a penguin!",
+          "vi": "Nhìn kìa, con chim cánh cụt!"
+        },
+        {
+          "en": "Can penguins fly?",
+          "vi": "Chim cánh cụt bay được không?"
+        },
+        {
+          "en": "Let's waddle like a penguin!",
+          "vi": "Mình đi lạch bạch như chim cánh cụt nào!"
+        },
+        {
+          "en": "The penguin is black and white.",
+          "vi": "Chim cánh cụt màu đen trắng."
+        },
+        {
+          "en": "The penguin slid on its tummy!",
+          "vi": "Chim cánh cụt trượt bằng bụng kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-037",
+      "en": "peacock",
+      "vi": "con công",
+      "pos": "noun",
+      "emoji": "🦚",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a peacock!",
+          "vi": "Wow, con công!"
+        },
+        {
+          "en": "Do you see the peacock's tail?",
+          "vi": "Con thấy đuôi con công không?",
+          "ipa": "/du ju si ðə ˈpiˌkɑks teɪl/"
+        },
+        {
+          "en": "Let's count the colors on the peacock.",
+          "vi": "Mình đếm màu trên con công nha."
+        },
+        {
+          "en": "The peacock is so beautiful.",
+          "vi": "Con công đẹp quá trời."
+        },
+        {
+          "en": "The peacock opened its tail!",
+          "vi": "Con công xòe đuôi rồi kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-038",
+      "en": "camel",
+      "vi": "con lạc đà",
+      "pos": "noun",
+      "emoji": "🐪",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a camel!",
+          "vi": "Nhìn kìa, con lạc đà!"
+        },
+        {
+          "en": "Where's the camel's hump?",
+          "vi": "Cái bướu của con lạc đà đâu?"
+        },
+        {
+          "en": "Let's ride the camel, bumpy bumpy!",
+          "vi": "Mình cưỡi lạc đà nào, xóc xóc!"
+        },
+        {
+          "en": "The camel lives in the desert.",
+          "vi": "Con lạc đà sống ở sa mạc."
+        },
+        {
+          "en": "The camel has a big hump!",
+          "vi": "Con lạc đà có cái bướu to!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-039",
+      "en": "water buffalo",
+      "vi": "con trâu",
+      "pos": "noun",
+      "emoji": "🐃",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a water buffalo!",
+          "vi": "Nhìn kìa, con trâu!"
+        },
+        {
+          "en": "Where's the water buffalo going?",
+          "vi": "Con trâu đi đâu vậy?"
+        },
+        {
+          "en": "Let's wave at the water buffalo.",
+          "vi": "Mình vẫy tay chào con trâu nha."
+        },
+        {
+          "en": "The water buffalo has big horns.",
+          "vi": "Con trâu có cặp sừng to."
+        },
+        {
+          "en": "I rode a water buffalo!",
+          "vi": "Con được cưỡi trâu đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-040",
+      "en": "rooster",
+      "vi": "con gà trống",
+      "pos": "noun",
+      "emoji": "🐓",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Cock-a-doodle-doo! A rooster!",
+          "vi": "Ò ó o! Con gà trống!"
+        },
+        {
+          "en": "When does the rooster crow?",
+          "vi": "Gà trống gáy lúc nào?"
+        },
+        {
+          "en": "Let's crow like a rooster!",
+          "vi": "Mình gáy như gà trống nào!"
+        },
+        {
+          "en": "The rooster has a red comb.",
+          "vi": "Con gà trống có cái mào đỏ."
+        },
+        {
+          "en": "The rooster woke me up!",
+          "vi": "Con gà trống đánh thức con dậy!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-041",
+      "en": "eagle",
+      "vi": "con đại bàng",
+      "pos": "noun",
+      "emoji": "🦅",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look how high the eagle flies!",
+          "vi": "Coi con đại bàng bay cao chưa kìa!"
+        },
+        {
+          "en": "Can you see the eagle?",
+          "vi": "Con thấy con đại bàng không?"
+        },
+        {
+          "en": "Spread your arms like an eagle!",
+          "vi": "Dang tay ra như con đại bàng nào!"
+        },
+        {
+          "en": "The eagle has big, strong wings.",
+          "vi": "Đại bàng có đôi cánh to khỏe."
+        },
+        {
+          "en": "I want to fly like an eagle!",
+          "vi": "Con muốn bay như đại bàng!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-042",
+      "en": "lizard",
+      "vi": "con thằn lằn",
+      "pos": "noun",
+      "emoji": "🦎",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a lizard on the wall!",
+          "vi": "Nhìn kìa, con thằn lằn trên tường!"
+        },
+        {
+          "en": "Where did the lizard go?",
+          "vi": "Con thằn lằn chạy đâu rồi?"
+        },
+        {
+          "en": "Don't touch the lizard, just look.",
+          "vi": "Đừng đụng con thằn lằn, coi thôi nha."
+        },
+        {
+          "en": "The lizard is so fast.",
+          "vi": "Con thằn lằn chạy nhanh ghê."
+        },
+        {
+          "en": "The lizard ran behind the picture!",
+          "vi": "Con thằn lằn chạy ra sau bức tranh rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-043",
+      "en": "gorilla",
+      "vi": "con khỉ đột",
+      "pos": "noun",
+      "emoji": "🦍",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big gorilla!",
+          "vi": "Wow, con khỉ đột bự quá!"
+        },
+        {
+          "en": "What's the gorilla doing?",
+          "vi": "Con khỉ đột đang làm gì vậy?"
+        },
+        {
+          "en": "Beat your chest like a gorilla!",
+          "vi": "Đấm ngực như con khỉ đột nào!"
+        },
+        {
+          "en": "The gorilla is so strong.",
+          "vi": "Con khỉ đột khỏe ghê."
+        },
+        {
+          "en": "The gorilla is eating a banana!",
+          "vi": "Con khỉ đột đang ăn chuối kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-044",
+      "en": "animal",
+      "vi": "con vật",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at all the animals!",
+          "vi": "Nhìn nhiều con vật chưa kìa!"
+        },
+        {
+          "en": "What's your favorite animal?",
+          "vi": "Con thích con vật nào nhất?"
+        },
+        {
+          "en": "Let's make animal sounds!",
+          "vi": "Mình giả tiếng con vật nào!"
+        },
+        {
+          "en": "Some animals sleep in the daytime.",
+          "vi": "Có những con vật ngủ ban ngày."
+        },
+        {
+          "en": "I want to see the animals!",
+          "vi": "Con muốn đi coi mấy con vật!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-045",
+      "en": "pet",
+      "vi": "thú cưng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, what a cute pet!",
+          "vi": "Ồ, thú cưng dễ thương quá!"
+        },
+        {
+          "en": "What pet would you like?",
+          "vi": "Con muốn nuôi con gì?"
+        },
+        {
+          "en": "Let's give the pet some food.",
+          "vi": "Mình cho thú cưng ăn nha."
+        },
+        {
+          "en": "A pet needs lots of love.",
+          "vi": "Thú cưng cần được thương nhiều lắm."
+        },
+        {
+          "en": "Can we get a pet?",
+          "vi": "Nhà mình nuôi thú cưng được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-046",
+      "en": "tail",
+      "vi": "cái đuôi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the dog is wagging its tail!",
+          "vi": "Nhìn kìa, con chó đang vẫy đuôi!"
+        },
+        {
+          "en": "Who has a long tail?",
+          "vi": "Con nào có đuôi dài?"
+        },
+        {
+          "en": "Don't pull the cat's tail, okay?",
+          "vi": "Đừng kéo đuôi con mèo nha?"
+        },
+        {
+          "en": "The monkey's tail is so long.",
+          "vi": "Đuôi con khỉ dài ghê."
+        },
+        {
+          "en": "I have a pretend tail!",
+          "vi": "Con có cái đuôi giả nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-047",
+      "en": "paw",
+      "vi": "cái chân (thú)",
+      "pos": "noun",
+      "emoji": "🐾",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at the puppy's little paws!",
+          "vi": "Nhìn mấy cái chân nhỏ của chó con kìa!",
+          "ipa": "/lʊk æt ðə ˈpʌpiz ˈlɪtəl pɔz/"
+        },
+        {
+          "en": "Can the dog give you a paw?",
+          "vi": "Con chó bắt tay con được không?"
+        },
+        {
+          "en": "Let's wipe the dog's paws.",
+          "vi": "Mình lau chân cho con chó nha."
+        },
+        {
+          "en": "The kitten's paws are so soft.",
+          "vi": "Chân mèo con mềm quá.",
+          "ipa": "/ðə ˈkɪtənz pɔz ɑɹ soʊ sɑft/"
+        },
+        {
+          "en": "Look, paw prints in the mud!",
+          "vi": "Nhìn kìa, dấu chân thú trên bùn!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-048",
+      "en": "feather",
+      "vi": "cái lông vũ",
+      "pos": "noun",
+      "emoji": "🪶",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, I found a feather!",
+          "vi": "Ồ, con lượm được cái lông chim!"
+        },
+        {
+          "en": "Whose feather is this?",
+          "vi": "Cái lông này của con chim nào vậy?"
+        },
+        {
+          "en": "Let's tickle with the feather!",
+          "vi": "Mình lấy lông chim cù lét nào!"
+        },
+        {
+          "en": "The feather is so light and soft.",
+          "vi": "Cái lông chim nhẹ và mềm quá."
+        },
+        {
+          "en": "Birds have feathers to keep warm.",
+          "vi": "Chim có lông để giữ ấm."
+        }
+      ]
+    },
+    {
+      "id": "v-animals-049",
+      "en": "wing",
+      "vi": "cái cánh",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the bird is flapping its wings!",
+          "vi": "Nhìn kìa, con chim đang vỗ cánh!"
+        },
+        {
+          "en": "How many wings does a bird have?",
+          "vi": "Con chim có mấy cái cánh?"
+        },
+        {
+          "en": "Flap your wings like a bird!",
+          "vi": "Vỗ cánh như con chim nào!"
+        },
+        {
+          "en": "The eagle's wings are so big.",
+          "vi": "Cánh con đại bàng to quá."
+        },
+        {
+          "en": "I wish I had wings!",
+          "vi": "Ước gì con có cánh!"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-050",
+      "en": "fur",
+      "vi": "bộ lông (thú)",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, feel the soft fur!",
+          "vi": "Ồ, sờ thử bộ lông mềm nè!"
+        },
+        {
+          "en": "What color is the cat's fur?",
+          "vi": "Lông con mèo màu gì?"
+        },
+        {
+          "en": "Brush the dog's fur gently.",
+          "vi": "Chải lông con chó nhẹ nhẹ nha."
+        },
+        {
+          "en": "The bear has thick, warm fur.",
+          "vi": "Con gấu có bộ lông dày và ấm."
+        },
+        {
+          "en": "The bunny's fur is so fluffy!",
+          "vi": "Lông con thỏ xù quá!",
+          "ipa": "/ðə ˈbʌniz fɝ ɪz soʊ ˈflʌfi/"
+        }
+      ]
+    },
+    {
+      "id": "v-animals-051",
+      "en": "beak",
+      "vi": "cái mỏ (chim)",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at the bird's beak!",
+          "vi": "Nhìn cái mỏ con chim kìa!"
+        },
+        {
+          "en": "What color is the duck's beak?",
+          "vi": "Mỏ con vịt màu gì?"
+        },
+        {
+          "en": "Make a beak with your fingers!",
+          "vi": "Lấy ngón tay làm cái mỏ chim nào!"
+        },
+        {
+          "en": "The parrot's beak is big and strong.",
+          "vi": "Mỏ con vẹt to và cứng.",
+          "ipa": "/ðə ˈpɛɹəts bik ɪz bɪɡ ənd stɹɔŋ/"
+        },
+        {
+          "en": "Birds eat with their beaks.",
+          "vi": "Chim ăn bằng cái mỏ."
+        }
+      ]
+    },
+    {
+      "id": "v-animals-052",
+      "en": "nest",
+      "vi": "cái tổ chim",
+      "pos": "noun",
+      "emoji": "🪹",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a bird's nest up there!",
+          "vi": "Nhìn kìa, có cái tổ chim trên đó!"
+        },
+        {
+          "en": "Are there eggs in the nest?",
+          "vi": "Trong tổ có trứng không con?"
+        },
+        {
+          "en": "Let's look at the nest quietly.",
+          "vi": "Mình coi cái tổ nhẹ nhàng thôi nha."
+        },
+        {
+          "en": "The nest is made of little sticks.",
+          "vi": "Cái tổ làm bằng mấy cành cây nhỏ."
+        },
+        {
+          "en": "The baby birds are in the nest!",
+          "vi": "Chim con nằm trong tổ kìa!"
+        }
+      ]
+    }
+  ]
+}

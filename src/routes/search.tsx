@@ -3,12 +3,12 @@ import { Search, X } from 'lucide-react'
 import MiniSearch from 'minisearch'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-import { PageHeader } from '../components/Layout'
-import { PhraseCard } from '../components/PhraseCard'
-import { useTopics } from '../hooks/useContent'
-import { useAgeFilter, useFavorites, useProgressMap } from '../hooks/useProfile'
-import type { Phrase, Topic } from '../lib/content'
-import { useSettings } from '../lib/settings'
+import { PageHeader } from '@/shared/ui/Layout'
+import { PhraseCard } from '@/features/content/PhraseCard'
+import { useTopics } from '@/features/content/useContent'
+import { useAgeFilter, useFavorites, useProgressMap } from '@/features/profile/useProfile'
+import type { Phrase, Topic } from '@/features/content/content'
+import { useSettings } from '@/shared/settings'
 
 export const Route = createFileRoute('/search')({
   // plain validator: keeps zod out of the startup bundle

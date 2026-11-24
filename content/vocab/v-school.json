@@ -1,0 +1,1708 @@
+{
+  "deckId": "v-school",
+  "words": [
+    {
+      "id": "v-school-001",
+      "en": "school",
+      "vi": "trường học",
+      "pos": "noun",
+      "emoji": "🏫",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's your school!",
+          "vi": "Nhìn kìa, trường của con kìa!"
+        },
+        {
+          "en": "How was school today?",
+          "vi": "Hôm nay đi học vui không con?"
+        },
+        {
+          "en": "Let's get ready for school.",
+          "vi": "Mình chuẩn bị đi học nha."
+        },
+        {
+          "en": "Your school is so big!",
+          "vi": "Trường con to quá trời!"
+        },
+        {
+          "en": "I love my school!",
+          "vi": "Con thích trường con lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-002",
+      "en": "teacher",
+      "vi": "cô giáo / thầy giáo",
+      "pos": "noun",
+      "emoji": "🧑‍🏫",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, it's your teacher!",
+          "vi": "Nhìn kìa, cô giáo con kìa!"
+        },
+        {
+          "en": "What's your teacher's name?",
+          "vi": "Cô giáo con tên gì?"
+        },
+        {
+          "en": "Say good morning to your teacher.",
+          "vi": "Con chào cô đi."
+        },
+        {
+          "en": "Your teacher is so nice.",
+          "vi": "Cô giáo con hiền ghê."
+        },
+        {
+          "en": "My teacher told us a story!",
+          "vi": "Cô kể chuyện cho tụi con nghe!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-003",
+      "en": "classroom",
+      "vi": "lớp học",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a colorful classroom!",
+          "vi": "Wow, lớp học nhiều màu ghê!"
+        },
+        {
+          "en": "Where's your classroom?",
+          "vi": "Lớp con ở đâu?"
+        },
+        {
+          "en": "Can you show me your classroom?",
+          "vi": "Con dẫn mình đi xem lớp con nha?"
+        },
+        {
+          "en": "Your classroom is so bright and cozy.",
+          "vi": "Lớp con sáng sủa, ấm cúng quá."
+        },
+        {
+          "en": "We have fish in our classroom!",
+          "vi": "Lớp con có nuôi cá nữa đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-004",
+      "en": "class",
+      "vi": "lớp / tiết học",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hurry, class starts soon!",
+          "vi": "Nhanh lên, sắp vào lớp rồi!"
+        },
+        {
+          "en": "How many kids are in your class?",
+          "vi": "Lớp con có bao nhiêu bạn?"
+        },
+        {
+          "en": "Don't be late for class, okay?",
+          "vi": "Đừng đi học trễ nha con."
+        },
+        {
+          "en": "Your class sounds really fun.",
+          "vi": "Nghe lớp con vui ghê."
+        },
+        {
+          "en": "We had art class this morning!",
+          "vi": "Sáng nay tụi con có tiết vẽ!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-005",
+      "en": "student",
+      "vi": "học sinh",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at all the students!",
+          "vi": "Nhìn kìa, học sinh đông quá!"
+        },
+        {
+          "en": "Are you a good student?",
+          "vi": "Con có phải học sinh ngoan không?"
+        },
+        {
+          "en": "Be a kind student today, okay?",
+          "vi": "Hôm nay làm học sinh tử tế nha con."
+        },
+        {
+          "en": "You're such a hard-working student.",
+          "vi": "Con chăm học quá."
+        },
+        {
+          "en": "There's a new student in my class.",
+          "vi": "Lớp con có bạn học sinh mới."
+        }
+      ]
+    },
+    {
+      "id": "v-school-006",
+      "en": "classmate",
+      "vi": "bạn cùng lớp",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, is that your classmate?",
+          "vi": "Ủa, bạn cùng lớp của con hả?"
+        },
+        {
+          "en": "Which classmate do you sit with?",
+          "vi": "Con ngồi cạnh bạn nào trong lớp?"
+        },
+        {
+          "en": "Let's say hi to your classmates.",
+          "vi": "Mình chào các bạn cùng lớp đi con."
+        },
+        {
+          "en": "Your classmates seem really friendly.",
+          "vi": "Mấy bạn cùng lớp con dễ thương ghê."
+        },
+        {
+          "en": "I played tag with my classmates.",
+          "vi": "Con chơi đuổi bắt với mấy bạn cùng lớp."
+        }
+      ]
+    },
+    {
+      "id": "v-school-007",
+      "en": "principal",
+      "vi": "thầy / cô hiệu trưởng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, that's the principal!",
+          "vi": "Nhìn kìa, cô hiệu trưởng đó!"
+        },
+        {
+          "en": "Do you know the principal's name?",
+          "vi": "Con biết tên thầy hiệu trưởng không?"
+        },
+        {
+          "en": "Say hello to the principal, okay?",
+          "vi": "Con chào thầy hiệu trưởng nha."
+        },
+        {
+          "en": "The principal seems really kind.",
+          "vi": "Cô hiệu trưởng có vẻ hiền lắm."
+        },
+        {
+          "en": "The principal came to our class today!",
+          "vi": "Hôm nay thầy hiệu trưởng vô lớp con đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-008",
+      "en": "desk",
+      "vi": "cái bàn học",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your desk!",
+          "vi": "Bàn học của con nè!"
+        },
+        {
+          "en": "Where's your desk at school?",
+          "vi": "Ở trường con ngồi bàn nào?"
+        },
+        {
+          "en": "Let's clean up your desk.",
+          "vi": "Mình dọn bàn học nha."
+        },
+        {
+          "en": "Your desk is so neat today!",
+          "vi": "Hôm nay bàn học con gọn ghê!"
+        },
+        {
+          "en": "My desk is by the window!",
+          "vi": "Bàn con ngồi ở gần cửa sổ đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-009",
+      "en": "backpack",
+      "vi": "cái cặp / ba lô",
+      "pos": "noun",
+      "emoji": "🎒",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Don't forget your backpack!",
+          "vi": "Đừng quên cái cặp nha con!"
+        },
+        {
+          "en": "Where's your backpack?",
+          "vi": "Cặp của con đâu rồi?"
+        },
+        {
+          "en": "Put your backpack on, please.",
+          "vi": "Con đeo cặp vô đi."
+        },
+        {
+          "en": "Wow, your backpack is heavy!",
+          "vi": "Trời, cặp con nặng quá!"
+        },
+        {
+          "en": "I can carry my backpack!",
+          "vi": "Con tự đeo cặp được!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-010",
+      "en": "pencil",
+      "vi": "cây bút chì",
+      "pos": "noun",
+      "emoji": "✏️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a yellow pencil!",
+          "vi": "Nhìn nè, cây bút chì màu vàng!"
+        },
+        {
+          "en": "Do you have a pencil?",
+          "vi": "Con có bút chì không?"
+        },
+        {
+          "en": "Hold your pencil like this.",
+          "vi": "Con cầm bút chì như vầy nè."
+        },
+        {
+          "en": "This pencil is too short now.",
+          "vi": "Cây bút chì này ngắn quá rồi."
+        },
+        {
+          "en": "I need a new pencil.",
+          "vi": "Con cần cây bút chì mới."
+        }
+      ]
+    },
+    {
+      "id": "v-school-011",
+      "en": "pen",
+      "vi": "cây bút mực",
+      "pos": "noun",
+      "emoji": "🖊️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, here's a pen!",
+          "vi": "À, có cây bút nè!"
+        },
+        {
+          "en": "Can I borrow your pen?",
+          "vi": "Cho mình mượn cây bút được không?"
+        },
+        {
+          "en": "Write your name with this pen.",
+          "vi": "Con viết tên bằng cây bút này nha."
+        },
+        {
+          "en": "This pen is out of ink.",
+          "vi": "Cây bút này hết mực rồi."
+        },
+        {
+          "en": "I can write with a pen now!",
+          "vi": "Giờ con viết bút mực được rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-012",
+      "en": "eraser",
+      "vi": "cục gôm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your eraser!",
+          "vi": "Cục gôm của con nè!"
+        },
+        {
+          "en": "Where did your eraser go?",
+          "vi": "Cục gôm của con đâu mất rồi?"
+        },
+        {
+          "en": "Use your eraser, it's okay.",
+          "vi": "Con dùng cục gôm bôi đi, không sao đâu."
+        },
+        {
+          "en": "This eraser smells like strawberries!",
+          "vi": "Cục gôm này thơm mùi dâu ghê!"
+        },
+        {
+          "en": "I lost my eraser again.",
+          "vi": "Con lại làm mất cục gôm rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-school-013",
+      "en": "pencil case",
+      "vi": "hộp bút",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a new pencil case!",
+          "vi": "Ồ, hộp bút mới nè!"
+        },
+        {
+          "en": "What's in your pencil case?",
+          "vi": "Trong hộp bút con có gì?"
+        },
+        {
+          "en": "Put your pencils in your pencil case.",
+          "vi": "Con cất bút chì vô hộp bút nha."
+        },
+        {
+          "en": "Your pencil case is so full!",
+          "vi": "Hộp bút con đầy ắp luôn!"
+        },
+        {
+          "en": "I want a dinosaur pencil case!",
+          "vi": "Con muốn hộp bút hình khủng long!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-014",
+      "en": "sharpener",
+      "vi": "đồ chuốt bút chì",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the sharpener.",
+          "vi": "Đồ chuốt bút chì nè.",
+          "ipa": "/hɪɹz ðə ˈʃɑɹpənɚ/"
+        },
+        {
+          "en": "Do you have a sharpener?",
+          "vi": "Con có đồ chuốt bút chì không?",
+          "ipa": "/du ju hæv ə ˈʃɑɹpənɚ/"
+        },
+        {
+          "en": "Use the sharpener over the trash can.",
+          "vi": "Con chuốt bút chì trên thùng rác nha.",
+          "ipa": "/jus ðə ˈʃɑɹpənɚ ˈoʊvɚ ðə tɹæʃ kæn/"
+        },
+        {
+          "en": "This sharpener works really well.",
+          "vi": "Cái đồ chuốt này chuốt bén ghê.",
+          "ipa": "/ðɪs ˈʃɑɹpənɚ wɝks ˈɹɪli wɛl/"
+        },
+        {
+          "en": "I sharpened all my pencils!",
+          "vi": "Con chuốt hết bút chì rồi!"
+        }
+      ],
+      "ipa": "/ˈʃɑɹpənɚ/"
+    },
+    {
+      "id": "v-school-015",
+      "en": "ruler",
+      "vi": "cây thước",
+      "pos": "noun",
+      "emoji": "📏",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a long ruler!",
+          "vi": "Nhìn nè, cây thước dài ghê!"
+        },
+        {
+          "en": "Can you find your ruler?",
+          "vi": "Con tìm cây thước được không?"
+        },
+        {
+          "en": "Use a ruler to draw a straight line.",
+          "vi": "Con dùng thước kẻ đường thẳng nha."
+        },
+        {
+          "en": "This ruler bends, look!",
+          "vi": "Cây thước này uốn cong được nè!"
+        },
+        {
+          "en": "I measured my book with a ruler!",
+          "vi": "Con lấy thước đo cuốn sách rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-016",
+      "en": "paper",
+      "vi": "giấy",
+      "pos": "noun",
+      "emoji": "📄",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's some paper!",
+          "vi": "Giấy nè con!"
+        },
+        {
+          "en": "Do you need more paper?",
+          "vi": "Con cần thêm giấy không?"
+        },
+        {
+          "en": "Fold the paper in half.",
+          "vi": "Con gấp đôi tờ giấy lại."
+        },
+        {
+          "en": "This paper is so soft.",
+          "vi": "Tờ giấy này mềm ghê."
+        },
+        {
+          "en": "I drew on the paper!",
+          "vi": "Con vẽ lên giấy rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-017",
+      "en": "glue",
+      "vi": "hồ dán / keo dán",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, sticky glue!",
+          "vi": "Ối, hồ dán dính quá!"
+        },
+        {
+          "en": "Where's the glue stick?",
+          "vi": "Thỏi keo dán đâu rồi?"
+        },
+        {
+          "en": "Just a little glue, okay?",
+          "vi": "Bôi chút xíu keo thôi nha."
+        },
+        {
+          "en": "The glue is still wet.",
+          "vi": "Keo vẫn còn ướt đó."
+        },
+        {
+          "en": "I glued the pictures on!",
+          "vi": "Con dán hình lên rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-018",
+      "en": "scissors",
+      "vi": "cây kéo",
+      "pos": "noun",
+      "emoji": "✂️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here are your scissors.",
+          "vi": "Cây kéo của con nè."
+        },
+        {
+          "en": "Can you cut with scissors?",
+          "vi": "Con cắt bằng kéo được không?"
+        },
+        {
+          "en": "Walk slowly with the scissors, please.",
+          "vi": "Cầm kéo thì đi từ từ nha con."
+        },
+        {
+          "en": "These scissors are safe for kids.",
+          "vi": "Cây kéo này an toàn cho trẻ em."
+        },
+        {
+          "en": "I cut out a heart with scissors!",
+          "vi": "Con cắt được hình trái tim bằng kéo nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-019",
+      "en": "notebook",
+      "vi": "cuốn tập",
+      "pos": "noun",
+      "emoji": "📓",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your notebook.",
+          "vi": "Cuốn tập của con nè."
+        },
+        {
+          "en": "Which notebook is for math?",
+          "vi": "Cuốn tập nào là tập toán?"
+        },
+        {
+          "en": "Write the date in your notebook.",
+          "vi": "Con ghi ngày vô tập nha."
+        },
+        {
+          "en": "Your notebook looks so neat.",
+          "vi": "Tập của con sạch đẹp ghê."
+        },
+        {
+          "en": "I filled up my whole notebook!",
+          "vi": "Con viết hết nguyên cuốn tập rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-020",
+      "en": "book",
+      "vi": "cuốn sách",
+      "pos": "noun",
+      "emoji": "📖",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a new book!",
+          "vi": "Ồ, sách mới nè!"
+        },
+        {
+          "en": "Which book do you want?",
+          "vi": "Con muốn cuốn sách nào?"
+        },
+        {
+          "en": "Let's read a book together.",
+          "vi": "Mình đọc sách chung nha."
+        },
+        {
+          "en": "This book is so funny!",
+          "vi": "Cuốn sách này mắc cười quá!"
+        },
+        {
+          "en": "I want this book, please!",
+          "vi": "Con muốn cuốn này!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-021",
+      "en": "page",
+      "vi": "trang sách",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at this page!",
+          "vi": "Nhìn trang này nè!"
+        },
+        {
+          "en": "What page are we on?",
+          "vi": "Mình đang ở trang mấy rồi?"
+        },
+        {
+          "en": "Can you turn the page?",
+          "vi": "Con lật trang giùm được không?"
+        },
+        {
+          "en": "This page has so many animals!",
+          "vi": "Trang này có nhiều con vật ghê!"
+        },
+        {
+          "en": "I'll read the next page!",
+          "vi": "Con đọc trang kế nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-022",
+      "en": "folder",
+      "vi": "bìa kẹp hồ sơ",
+      "pos": "noun",
+      "emoji": "📁",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your blue folder.",
+          "vi": "Bìa kẹp màu xanh của con nè."
+        },
+        {
+          "en": "Did you check your folder?",
+          "vi": "Con xem bìa kẹp chưa?"
+        },
+        {
+          "en": "Put the note in your folder.",
+          "vi": "Con bỏ tờ giấy báo vô bìa kẹp nha."
+        },
+        {
+          "en": "Your folder is full of papers.",
+          "vi": "Bìa kẹp của con đầy giấy luôn."
+        },
+        {
+          "en": "My teacher put a note in my folder.",
+          "vi": "Cô bỏ giấy báo vô bìa kẹp của con."
+        }
+      ]
+    },
+    {
+      "id": "v-school-023",
+      "en": "whiteboard",
+      "vi": "cái bảng trắng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big whiteboard!",
+          "vi": "Nhìn kìa, cái bảng trắng to ghê!",
+          "ipa": "/lʊk ə bɪɡ waɪtbɔɹd/"
+        },
+        {
+          "en": "What did your teacher write on the whiteboard?",
+          "vi": "Cô viết gì lên bảng trắng vậy con?",
+          "ipa": "/wʌt dɪd jɔɹ ˈtitʃɚ ɹaɪt ɑn ðə waɪtbɔɹd/"
+        },
+        {
+          "en": "Let's draw on the little whiteboard.",
+          "vi": "Mình vẽ lên cái bảng trắng nhỏ đi.",
+          "ipa": "/lɛts dɹɔ ɑn ðə ˈlɪtəl waɪtbɔɹd/"
+        },
+        {
+          "en": "The whiteboard is so clean now.",
+          "vi": "Bảng trắng sạch trơn rồi.",
+          "ipa": "/ðə waɪtbɔɹd ɪz soʊ klin naʊ/"
+        },
+        {
+          "en": "I wrote my name on the whiteboard!",
+          "vi": "Con viết tên mình lên bảng trắng!",
+          "ipa": "/aɪ ɹoʊt maɪ neɪm ɑn ðə waɪtbɔɹd/"
+        }
+      ],
+      "ipa": "/waɪtbɔɹd/"
+    },
+    {
+      "id": "v-school-024",
+      "en": "marker",
+      "vi": "cây bút lông",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a red marker!",
+          "vi": "Ồ, cây bút lông màu đỏ!"
+        },
+        {
+          "en": "Can you close the marker?",
+          "vi": "Con đậy nắp bút lông lại được không?"
+        },
+        {
+          "en": "Markers go on paper only, okay?",
+          "vi": "Bút lông chỉ vẽ lên giấy thôi nha."
+        },
+        {
+          "en": "This marker is all dried out.",
+          "vi": "Cây bút lông này khô mực rồi."
+        },
+        {
+          "en": "I want the green marker!",
+          "vi": "Con muốn cây bút lông màu xanh lá!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-025",
+      "en": "homework",
+      "vi": "bài tập về nhà",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Homework time!",
+          "vi": "Tới giờ làm bài tập rồi!"
+        },
+        {
+          "en": "Do you have homework today?",
+          "vi": "Hôm nay con có bài tập về nhà không?"
+        },
+        {
+          "en": "Let's finish your homework first.",
+          "vi": "Mình làm xong bài tập trước đã nha."
+        },
+        {
+          "en": "Your homework looks really neat.",
+          "vi": "Bài tập của con sạch đẹp ghê."
+        },
+        {
+          "en": "I already finished my homework!",
+          "vi": "Con làm xong bài tập rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-026",
+      "en": "worksheet",
+      "vi": "phiếu bài tập",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your worksheet.",
+          "vi": "Phiếu bài tập của con nè."
+        },
+        {
+          "en": "How many worksheets do you have?",
+          "vi": "Con có mấy phiếu bài tập?"
+        },
+        {
+          "en": "Read the worksheet carefully first.",
+          "vi": "Con đọc kỹ phiếu bài tập trước nha."
+        },
+        {
+          "en": "This worksheet looks pretty easy.",
+          "vi": "Phiếu bài tập này có vẻ dễ."
+        },
+        {
+          "en": "I got a sticker on my worksheet!",
+          "vi": "Con được dán sticker lên phiếu bài tập!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-027",
+      "en": "recess",
+      "vi": "giờ ra chơi",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, it's recess!",
+          "vi": "Yeah, ra chơi rồi!"
+        },
+        {
+          "en": "What did you play at recess?",
+          "vi": "Giờ ra chơi con chơi gì?"
+        },
+        {
+          "en": "Drink some water at recess, okay?",
+          "vi": "Ra chơi nhớ uống nước nha con."
+        },
+        {
+          "en": "Recess is the best part of the day!",
+          "vi": "Giờ ra chơi là vui nhất trong ngày!"
+        },
+        {
+          "en": "We played soccer at recess.",
+          "vi": "Ra chơi tụi con đá banh."
+        }
+      ]
+    },
+    {
+      "id": "v-school-028",
+      "en": "lunchtime",
+      "vi": "giờ ăn trưa",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's lunchtime!",
+          "vi": "Tới giờ ăn trưa rồi!"
+        },
+        {
+          "en": "Who did you sit with at lunchtime?",
+          "vi": "Giờ ăn trưa con ngồi với ai?"
+        },
+        {
+          "en": "Wash your hands before lunchtime.",
+          "vi": "Rửa tay trước giờ ăn trưa nha con."
+        },
+        {
+          "en": "Lunchtime is so noisy at school.",
+          "vi": "Giờ ăn trưa ở trường ồn ghê."
+        },
+        {
+          "en": "I was so hungry at lunchtime!",
+          "vi": "Tới giờ ăn trưa con đói lắm luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-029",
+      "en": "lunch box",
+      "vi": "hộp cơm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your lunch box!",
+          "vi": "Hộp cơm của con nè!"
+        },
+        {
+          "en": "Did you finish your lunch box?",
+          "vi": "Con ăn hết hộp cơm chưa?"
+        },
+        {
+          "en": "Put your lunch box in your backpack.",
+          "vi": "Con bỏ hộp cơm vô cặp nha."
+        },
+        {
+          "en": "Your lunch box is empty, good job!",
+          "vi": "Hộp cơm sạch trơn, giỏi quá!"
+        },
+        {
+          "en": "I forgot my lunch box today.",
+          "vi": "Hôm nay con quên hộp cơm rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-school-030",
+      "en": "test",
+      "vi": "bài kiểm tra",
+      "pos": "noun",
+      "emoji": "📝",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, a spelling test!",
+          "vi": "À, bài kiểm tra chính tả nè!"
+        },
+        {
+          "en": "When is your math test?",
+          "vi": "Khi nào con kiểm tra toán?"
+        },
+        {
+          "en": "Let's practice for your test.",
+          "vi": "Mình ôn bài để kiểm tra nha."
+        },
+        {
+          "en": "Don't worry, the test is pretty short.",
+          "vi": "Đừng lo, bài kiểm tra ngắn thôi."
+        },
+        {
+          "en": "I think I did well on the test!",
+          "vi": "Con nghĩ con làm bài kiểm tra tốt đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-031",
+      "en": "spelling",
+      "vi": "đánh vần / chính tả",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Spelling time!",
+          "vi": "Tới giờ đánh vần rồi!"
+        },
+        {
+          "en": "How is your spelling going?",
+          "vi": "Dạo này con đánh vần sao rồi?"
+        },
+        {
+          "en": "Let's practice your spelling words.",
+          "vi": "Mình tập mấy từ chính tả nha."
+        },
+        {
+          "en": "Your spelling is getting so good!",
+          "vi": "Con đánh vần ngày càng giỏi!"
+        },
+        {
+          "en": "I got all my spelling words right!",
+          "vi": "Con viết đúng hết mấy từ chính tả!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-032",
+      "en": "reading",
+      "vi": "đọc / môn đọc",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Reading time!",
+          "vi": "Tới giờ đọc sách rồi!"
+        },
+        {
+          "en": "Do you like reading?",
+          "vi": "Con có thích đọc sách không?"
+        },
+        {
+          "en": "Let's do some reading before bed.",
+          "vi": "Đọc sách chút trước khi ngủ nha."
+        },
+        {
+          "en": "Your reading is getting really good.",
+          "vi": "Con đọc ngày càng giỏi đó."
+        },
+        {
+          "en": "Reading is my favorite subject!",
+          "vi": "Môn đọc là môn con thích nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-033",
+      "en": "writing",
+      "vi": "viết / môn viết",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, nice writing!",
+          "vi": "Wow, con viết đẹp quá!"
+        },
+        {
+          "en": "Can you read me your writing?",
+          "vi": "Con đọc bài viết cho mình nghe được không?"
+        },
+        {
+          "en": "Take your time with your writing.",
+          "vi": "Con viết từ từ thôi nha."
+        },
+        {
+          "en": "Your writing is so neat today.",
+          "vi": "Hôm nay chữ con đẹp ghê."
+        },
+        {
+          "en": "I did a lot of writing today.",
+          "vi": "Hôm nay con viết nhiều lắm."
+        }
+      ]
+    },
+    {
+      "id": "v-school-034",
+      "en": "math",
+      "vi": "toán",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, math homework!",
+          "vi": "Ồ, bài tập toán nè!"
+        },
+        {
+          "en": "Is math easy or hard?",
+          "vi": "Toán dễ hay khó con?"
+        },
+        {
+          "en": "Let's do some math together.",
+          "vi": "Mình làm toán chung nha."
+        },
+        {
+          "en": "You're getting really good at math!",
+          "vi": "Con học toán ngày càng giỏi!"
+        },
+        {
+          "en": "Math is my favorite!",
+          "vi": "Con thích môn toán nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-035",
+      "en": "letter",
+      "vi": "chữ cái",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, that's the letter A!",
+          "vi": "Nhìn nè, chữ A đó!"
+        },
+        {
+          "en": "What letter is this?",
+          "vi": "Đây là chữ gì?"
+        },
+        {
+          "en": "Can you find the letter B?",
+          "vi": "Con tìm chữ B được không?"
+        },
+        {
+          "en": "That's a big letter!",
+          "vi": "Chữ to quá!"
+        },
+        {
+          "en": "That letter is in my name!",
+          "vi": "Chữ đó có trong tên con!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-036",
+      "en": "word",
+      "vi": "từ / chữ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Good word!",
+          "vi": "Từ hay quá!"
+        },
+        {
+          "en": "What does this word mean?",
+          "vi": "Từ này nghĩa là gì?"
+        },
+        {
+          "en": "Can you read this word?",
+          "vi": "Con đọc từ này được không?"
+        },
+        {
+          "en": "That's a really long word!",
+          "vi": "Từ này dài quá trời!"
+        },
+        {
+          "en": "I learned a new word today!",
+          "vi": "Hôm nay con học được một từ mới!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-037",
+      "en": "sentence",
+      "vi": "câu",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a great sentence!",
+          "vi": "Wow, câu này hay quá!"
+        },
+        {
+          "en": "Can you read this sentence?",
+          "vi": "Con đọc câu này được không?"
+        },
+        {
+          "en": "Write one sentence about your day.",
+          "vi": "Con viết một câu về ngày hôm nay nha."
+        },
+        {
+          "en": "That sentence is really long.",
+          "vi": "Câu đó dài ghê."
+        },
+        {
+          "en": "I wrote three sentences by myself!",
+          "vi": "Con tự viết được ba câu luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-038",
+      "en": "alphabet",
+      "vi": "bảng chữ cái",
+      "pos": "noun",
+      "emoji": "🔤",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Let's sing the alphabet!",
+          "vi": "Mình hát bảng chữ cái nha!"
+        },
+        {
+          "en": "Do you know the whole alphabet?",
+          "vi": "Con thuộc hết bảng chữ cái chưa?"
+        },
+        {
+          "en": "Point to the alphabet on the wall.",
+          "vi": "Con chỉ bảng chữ cái trên tường đi."
+        },
+        {
+          "en": "The alphabet has twenty-six letters.",
+          "vi": "Bảng chữ cái có hai mươi sáu chữ."
+        },
+        {
+          "en": "I can say the alphabet!",
+          "vi": "Con đọc được bảng chữ cái!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-039",
+      "en": "lesson",
+      "vi": "bài học",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a fun lesson!",
+          "vi": "Bài học vui ghê!"
+        },
+        {
+          "en": "What was your lesson about today?",
+          "vi": "Hôm nay con học bài gì?"
+        },
+        {
+          "en": "Listen carefully during the lesson.",
+          "vi": "Trong giờ học con nghe kỹ nha."
+        },
+        {
+          "en": "That lesson sounds really interesting.",
+          "vi": "Bài đó nghe hay ghê."
+        },
+        {
+          "en": "We had a lesson about frogs!",
+          "vi": "Tụi con được học bài về con ếch!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-040",
+      "en": "learn",
+      "vi": "học",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look what you learned!",
+          "vi": "Nhìn nè, con học được rồi đó!"
+        },
+        {
+          "en": "What did you learn today?",
+          "vi": "Hôm nay con học được gì?"
+        },
+        {
+          "en": "Let's learn a new song.",
+          "vi": "Mình học bài hát mới nha."
+        },
+        {
+          "en": "Learning new things is so fun!",
+          "vi": "Học điều mới vui ghê!"
+        },
+        {
+          "en": "I learned how to tie my shoes!",
+          "vi": "Con học được cách cột dây giày rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-041",
+      "en": "study",
+      "vi": "học bài / ôn bài",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Time to study!",
+          "vi": "Tới giờ học bài rồi!"
+        },
+        {
+          "en": "Do you need to study for your test?",
+          "vi": "Con có cần ôn bài để kiểm tra không?"
+        },
+        {
+          "en": "Let's study for twenty minutes, then take a break.",
+          "vi": "Mình học hai mươi phút rồi nghỉ chút nha."
+        },
+        {
+          "en": "You studied really hard this week.",
+          "vi": "Tuần này con học chăm lắm đó."
+        },
+        {
+          "en": "I'm going to study after dinner.",
+          "vi": "Ăn tối xong con sẽ học bài."
+        }
+      ]
+    },
+    {
+      "id": "v-school-042",
+      "en": "raise your hand",
+      "vi": "giơ tay",
+      "pos": "phrase",
+      "emoji": "✋",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Raise your hand!",
+          "vi": "Giơ tay lên nào!"
+        },
+        {
+          "en": "Did you raise your hand in class?",
+          "vi": "Trong lớp con có giơ tay phát biểu không?"
+        },
+        {
+          "en": "Raise your hand for a turn.",
+          "vi": "Muốn tới lượt thì giơ tay nha."
+        },
+        {
+          "en": "I'm proud you raised your hand today.",
+          "vi": "Mình tự hào vì hôm nay con dám giơ tay."
+        },
+        {
+          "en": "I raised my hand and answered!",
+          "vi": "Con giơ tay rồi trả lời luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-043",
+      "en": "line up",
+      "vi": "xếp hàng",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Okay, line up!",
+          "vi": "Rồi, xếp hàng nào!"
+        },
+        {
+          "en": "Where do you line up at school?",
+          "vi": "Ở trường con xếp hàng ở đâu?"
+        },
+        {
+          "en": "Let's line up by the door.",
+          "vi": "Mình xếp hàng ở cửa nha."
+        },
+        {
+          "en": "You lined up so nicely!",
+          "vi": "Con xếp hàng ngay ngắn quá!"
+        },
+        {
+          "en": "I was first in line!",
+          "vi": "Con đứng đầu hàng đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-044",
+      "en": "grade",
+      "vi": "lớp (mấy)",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, second grade already!",
+          "vi": "Wow, lên lớp hai rồi!"
+        },
+        {
+          "en": "What grade are you in?",
+          "vi": "Con học lớp mấy?"
+        },
+        {
+          "en": "Tell your friend what grade you're in.",
+          "vi": "Con nói bạn nghe con học lớp mấy đi."
+        },
+        {
+          "en": "Third grade is going to be fun.",
+          "vi": "Lớp ba chắc vui lắm đó."
+        },
+        {
+          "en": "I'll be in first grade next year!",
+          "vi": "Năm sau con lên lớp một!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-045",
+      "en": "kindergarten",
+      "vi": "lớp lá / mẫu giáo lớn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Hooray, kindergarten!",
+          "vi": "Yeah, vô lớp lá rồi!"
+        },
+        {
+          "en": "Are you excited for kindergarten?",
+          "vi": "Con háo hức đi học lớp lá không?"
+        },
+        {
+          "en": "Let's visit your kindergarten class.",
+          "vi": "Mình đi xem lớp lá của con nha."
+        },
+        {
+          "en": "Kindergarten is going to be so fun.",
+          "vi": "Học lớp lá vui lắm đó con."
+        },
+        {
+          "en": "I'm a big kid in kindergarten now!",
+          "vi": "Giờ con là bé lớn học lớp lá rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-046",
+      "en": "preschool",
+      "vi": "trường mầm non",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Here's your preschool!",
+          "vi": "Trường mầm non của con nè!"
+        },
+        {
+          "en": "Did you have fun at preschool?",
+          "vi": "Ở trường mầm non con chơi vui không?"
+        },
+        {
+          "en": "Let's go to preschool!",
+          "vi": "Mình đi học nào!"
+        },
+        {
+          "en": "Your preschool is so colorful.",
+          "vi": "Trường mầm non của con nhiều màu ghê."
+        },
+        {
+          "en": "I painted at preschool!",
+          "vi": "Ở trường con được tô màu nước!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-047",
+      "en": "show and tell",
+      "vi": "giờ mang đồ tới lớp kể",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, show and tell!",
+          "vi": "Ồ, tới giờ mang đồ đi kể rồi!"
+        },
+        {
+          "en": "What's for show and tell?",
+          "vi": "Con mang gì lên lớp khoe đây?"
+        },
+        {
+          "en": "Let's pick something for show and tell.",
+          "vi": "Mình chọn món đồ để mang lên lớp kể nha."
+        },
+        {
+          "en": "Show and tell sounds so fun!",
+          "vi": "Giờ khoe đồ nghe vui ghê!"
+        },
+        {
+          "en": "My truck for show and tell!",
+          "vi": "Con mang xe tải đi khoe nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-048",
+      "en": "field trip",
+      "vi": "chuyến đi dã ngoại",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, a field trip!",
+          "vi": "Yeah, được đi dã ngoại!"
+        },
+        {
+          "en": "Where's your field trip going?",
+          "vi": "Lớp con đi dã ngoại ở đâu?"
+        },
+        {
+          "en": "Bring your hat for the field trip.",
+          "vi": "Đi dã ngoại nhớ mang theo nón nha."
+        },
+        {
+          "en": "The field trip sounds really exciting.",
+          "vi": "Chuyến dã ngoại nghe thú vị ghê."
+        },
+        {
+          "en": "We saw elephants on our field trip!",
+          "vi": "Đi dã ngoại tụi con được thấy voi!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-049",
+      "en": "project",
+      "vi": "bài dự án",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at your project!",
+          "vi": "Wow, nhìn bài dự án của con nè!"
+        },
+        {
+          "en": "When is your project due?",
+          "vi": "Khi nào phải nộp bài dự án vậy con?"
+        },
+        {
+          "en": "Let's plan your project step by step.",
+          "vi": "Mình lên kế hoạch làm dự án từng bước nha."
+        },
+        {
+          "en": "Your project looks amazing, you worked so hard.",
+          "vi": "Dự án của con đẹp quá, con làm cực ghê."
+        },
+        {
+          "en": "I'm doing my project about volcanoes.",
+          "vi": "Con làm dự án về núi lửa."
+        }
+      ]
+    },
+    {
+      "id": "v-school-050",
+      "en": "report card",
+      "vi": "phiếu điểm / sổ liên lạc",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, your report card is here!",
+          "vi": "À, phiếu điểm của con về rồi nè!"
+        },
+        {
+          "en": "Can I see your report card?",
+          "vi": "Cho mình xem phiếu điểm được không?"
+        },
+        {
+          "en": "Let's look at your report card together.",
+          "vi": "Mình cùng xem phiếu điểm nha."
+        },
+        {
+          "en": "I'm so proud of your report card.",
+          "vi": "Mình tự hào về phiếu điểm của con lắm."
+        },
+        {
+          "en": "I got better grades on my report card!",
+          "vi": "Phiếu điểm của con lần này cao hơn đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-051",
+      "en": "circle time",
+      "vi": "giờ ngồi vòng tròn",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Circle time!",
+          "vi": "Tới giờ ngồi vòng tròn rồi!"
+        },
+        {
+          "en": "What did you sing at circle time?",
+          "vi": "Giờ ngồi vòng tròn con hát bài gì?"
+        },
+        {
+          "en": "Let's sit down for circle time.",
+          "vi": "Mình ngồi vòng tròn nào."
+        },
+        {
+          "en": "Circle time is my favorite!",
+          "vi": "Con thích giờ ngồi vòng tròn nhất!"
+        },
+        {
+          "en": "I sang at circle time!",
+          "vi": "Giờ ngồi vòng tròn con có hát!"
+        }
+      ]
+    },
+    {
+      "id": "v-school-052",
+      "en": "name tag",
+      "vi": "bảng tên",
+      "pos": "noun",
+      "emoji": "📛",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, your name tag!",
+          "vi": "Nhìn nè, bảng tên của con!"
+        },
+        {
+          "en": "Where's your name tag?",
+          "vi": "Bảng tên của con đâu?"
+        },
+        {
+          "en": "Put your name tag on, please.",
+          "vi": "Con đeo bảng tên vô nha."
+        },
+        {
+          "en": "Your name tag is so cute.",
+          "vi": "Bảng tên của con dễ thương ghê."
+        },
+        {
+          "en": "My name tag has a star!",
+          "vi": "Bảng tên của con có ngôi sao!"
+        }
+      ]
+    }
+  ]
+}

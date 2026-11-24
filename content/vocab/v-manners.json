@@ -1,0 +1,1695 @@
+{
+  "deckId": "v-manners",
+  "words": [
+    {
+      "id": "v-manners-001",
+      "en": "friend",
+      "vi": "bạn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's your friend!",
+          "vi": "Nhìn kìa, bạn của con kìa!"
+        },
+        {
+          "en": "Who's your friend?",
+          "vi": "Bạn của con tên gì?"
+        },
+        {
+          "en": "Go say hi to your friend.",
+          "vi": "Con ra chào bạn đi."
+        },
+        {
+          "en": "Your friend is so funny.",
+          "vi": "Bạn con vui tính ghê."
+        },
+        {
+          "en": "I played with my friend today!",
+          "vi": "Hôm nay con chơi với bạn nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-002",
+      "en": "best friend",
+      "vi": "bạn thân",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That's your best friend, right?",
+          "vi": "Đó là bạn thân của con phải không?"
+        },
+        {
+          "en": "Who's your best friend at school?",
+          "vi": "Ở trường bạn thân của con là ai?"
+        },
+        {
+          "en": "Let's invite your best friend over.",
+          "vi": "Mình rủ bạn thân của con qua nhà chơi nha."
+        },
+        {
+          "en": "Best friends help each other.",
+          "vi": "Bạn thân thì giúp đỡ nhau."
+        },
+        {
+          "en": "You're my best friend, Mommy!",
+          "vi": "Mẹ là bạn thân nhất của con!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-003",
+      "en": "buddy",
+      "vi": "bạn nhỏ, anh bạn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hey, buddy!",
+          "vi": "Ê, anh bạn nhỏ!"
+        },
+        {
+          "en": "How are you doing, buddy?",
+          "vi": "Con sao rồi, anh bạn?"
+        },
+        {
+          "en": "Come here, buddy.",
+          "vi": "Lại đây nè con."
+        },
+        {
+          "en": "You're such a good buddy.",
+          "vi": "Con là bạn tốt ghê."
+        },
+        {
+          "en": "My buddy sits next to me.",
+          "vi": "Bạn của con ngồi kế bên con."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-004",
+      "en": "hello",
+      "vi": "xin chào",
+      "pos": "other",
+      "emoji": "👋",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hello there!",
+          "vi": "Chào con nè!"
+        },
+        {
+          "en": "Can you say hello?",
+          "vi": "Con chào đi nào?"
+        },
+        {
+          "en": "Say hello to Grandma.",
+          "vi": "Con chào bà đi."
+        },
+        {
+          "en": "A big hello makes Grandma happy.",
+          "vi": "Con chào to là bà vui lắm."
+        },
+        {
+          "en": "Hello, I'm home!",
+          "vi": "Con chào cả nhà, con về rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-005",
+      "en": "goodbye",
+      "vi": "tạm biệt",
+      "pos": "other",
+      "emoji": "👋",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Goodbye, see you soon!",
+          "vi": "Tạm biệt, hẹn gặp lại nha!"
+        },
+        {
+          "en": "Did you say goodbye?",
+          "vi": "Con chào tạm biệt chưa?"
+        },
+        {
+          "en": "Wave goodbye to your friends.",
+          "vi": "Vẫy tay tạm biệt các bạn đi con."
+        },
+        {
+          "en": "Saying goodbye can feel a little sad.",
+          "vi": "Lúc tạm biệt có khi thấy hơi buồn."
+        },
+        {
+          "en": "Goodbye, teacher!",
+          "vi": "Con chào cô ạ!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-006",
+      "en": "please",
+      "vi": "làm ơn, nha",
+      "pos": "other",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "More, please!",
+          "vi": "Cho con thêm nữa nha!"
+        },
+        {
+          "en": "What's the magic word? Please!",
+          "vi": "Phải nói sao ta? Nói \"làm ơn\" nè!"
+        },
+        {
+          "en": "Can you say please?",
+          "vi": "Con nói lễ phép đi nào?"
+        },
+        {
+          "en": "Asking with please sounds so nice.",
+          "vi": "Nhờ mà có \"làm ơn\" nghe dễ thương lắm."
+        },
+        {
+          "en": "Water, please!",
+          "vi": "Cho con nước nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-007",
+      "en": "thank you",
+      "vi": "cảm ơn",
+      "pos": "phrase",
+      "emoji": "🙏",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Thank you so much!",
+          "vi": "Cảm ơn con nhiều nha!"
+        },
+        {
+          "en": "Did you say thank you?",
+          "vi": "Con cảm ơn chưa?"
+        },
+        {
+          "en": "Say thank you to the nice lady.",
+          "vi": "Con cảm ơn cô đi."
+        },
+        {
+          "en": "Thank you for helping me.",
+          "vi": "Cảm ơn con đã giúp mình."
+        },
+        {
+          "en": "Thank you, Daddy!",
+          "vi": "Con cảm ơn ba!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-008",
+      "en": "no thank you",
+      "vi": "dạ thôi, con cảm ơn",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "No, thank you!",
+          "vi": "Dạ thôi, con cảm ơn!"
+        },
+        {
+          "en": "Can you say no, thank you?",
+          "vi": "Con nói \"dạ thôi, cảm ơn\" được không?"
+        },
+        {
+          "en": "Just say no, thank you, nicely.",
+          "vi": "Con chỉ cần nói \"dạ thôi, cảm ơn\" lịch sự là được."
+        },
+        {
+          "en": "No, thank you is a polite answer.",
+          "vi": "\"Dạ thôi, cảm ơn\" là câu trả lời lịch sự."
+        },
+        {
+          "en": "No, thank you, I'm full.",
+          "vi": "Dạ thôi, con no rồi, cảm ơn."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-009",
+      "en": "you're welcome",
+      "vi": "không có chi",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "You're welcome, sweetie!",
+          "vi": "Không có chi đâu con!"
+        },
+        {
+          "en": "What do we say? You're welcome!",
+          "vi": "Mình nói sao ta? Không có chi!"
+        },
+        {
+          "en": "Say you're welcome back to her.",
+          "vi": "Con nói \"không có chi\" lại với bạn đi."
+        },
+        {
+          "en": "You're welcome is so polite.",
+          "vi": "Nói \"không có chi\" lịch sự lắm đó."
+        },
+        {
+          "en": "You're welcome, Grandpa!",
+          "vi": "Không có chi đâu ông!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-010",
+      "en": "sorry",
+      "vi": "xin lỗi",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oops, sorry!",
+          "vi": "Ui, xin lỗi nha!"
+        },
+        {
+          "en": "Can you say sorry to your sister?",
+          "vi": "Con xin lỗi em đi được không?"
+        },
+        {
+          "en": "Let's say sorry and give a hug.",
+          "vi": "Mình xin lỗi rồi ôm bạn một cái nha."
+        },
+        {
+          "en": "I'm really sorry I bumped you.",
+          "vi": "Xin lỗi con nha, mình lỡ đụng trúng con."
+        },
+        {
+          "en": "I'm sorry I took your toy.",
+          "vi": "Con xin lỗi vì lấy đồ chơi của bạn."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-011",
+      "en": "excuse me",
+      "vi": "xin lỗi, cho qua",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Excuse me!",
+          "vi": "Cho qua nha!"
+        },
+        {
+          "en": "What do you say? Excuse me!",
+          "vi": "Con nói sao? Xin lỗi cho qua!"
+        },
+        {
+          "en": "Need to pass? Say excuse me.",
+          "vi": "Muốn đi qua hả? Nói \"xin lỗi cho qua\" nha."
+        },
+        {
+          "en": "Excuse me is polite when you burp.",
+          "vi": "Lỡ ợ thì nói \"xin lỗi\" là lịch sự đó."
+        },
+        {
+          "en": "Excuse me, can I have some water?",
+          "vi": "Dạ xin lỗi, cho con xin ly nước được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-012",
+      "en": "bless you",
+      "vi": "chúc khoẻ (khi ai hắt xì)",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Bless you!",
+          "vi": "Chúc con khoẻ nha!"
+        },
+        {
+          "en": "Did you say bless you?",
+          "vi": "Con nói \"chúc khoẻ\" chưa?"
+        },
+        {
+          "en": "Say bless you to Daddy.",
+          "vi": "Con nói \"chúc ba khoẻ\" đi."
+        },
+        {
+          "en": "Saying bless you is a kind habit.",
+          "vi": "Nói \"chúc khoẻ\" khi ai hắt xì là thói quen dễ thương."
+        },
+        {
+          "en": "Bless you, Mommy!",
+          "vi": "Mẹ khoẻ nha mẹ!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-013",
+      "en": "may I",
+      "vi": "cho con xin, con được không",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "May I help you?",
+          "vi": "Mình giúp con được không?"
+        },
+        {
+          "en": "May I have a cookie, please?",
+          "vi": "Cho con xin một cái bánh quy nha?"
+        },
+        {
+          "en": "Start with may I when you ask.",
+          "vi": "Khi muốn xin gì, con mở đầu bằng \"cho con xin\" nha."
+        },
+        {
+          "en": "May I sounds really polite.",
+          "vi": "Nói \"cho con xin\" nghe lễ phép lắm."
+        },
+        {
+          "en": "May I go play outside?",
+          "vi": "Con ra ngoài chơi được không ạ?"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-014",
+      "en": "share",
+      "vi": "chia sẻ, chia",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you shared!",
+          "vi": "Wow, con biết chia cho bạn rồi!"
+        },
+        {
+          "en": "Can you share your crackers?",
+          "vi": "Con chia bánh cho bạn được không?"
+        },
+        {
+          "en": "Let's share the crayons.",
+          "vi": "Mình chia bút sáp xài chung nha."
+        },
+        {
+          "en": "Sharing makes friends happy.",
+          "vi": "Chia sẻ làm bạn bè vui đó."
+        },
+        {
+          "en": "I shared my snack with my friend!",
+          "vi": "Con chia đồ ăn cho bạn đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-015",
+      "en": "take turns",
+      "vi": "thay phiên, chờ tới lượt",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's take turns!",
+          "vi": "Mình thay phiên nhau nha!"
+        },
+        {
+          "en": "Can you two take turns?",
+          "vi": "Hai đứa thay phiên nhau được không?"
+        },
+        {
+          "en": "Take turns on the swing.",
+          "vi": "Chơi xích đu thì thay phiên nha."
+        },
+        {
+          "en": "Taking turns makes it fun for everyone.",
+          "vi": "Thay phiên nhau thì ai cũng vui."
+        },
+        {
+          "en": "We took turns with the ball!",
+          "vi": "Tụi con thay phiên chơi banh đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-016",
+      "en": "kind",
+      "vi": "tốt bụng",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That was so kind!",
+          "vi": "Con tốt bụng quá!"
+        },
+        {
+          "en": "What's a kind thing to do?",
+          "vi": "Mình làm việc tốt gì ta?"
+        },
+        {
+          "en": "Be kind to your friends.",
+          "vi": "Con đối xử tốt với bạn nha."
+        },
+        {
+          "en": "You have such a kind heart.",
+          "vi": "Con có tấm lòng tốt ghê."
+        },
+        {
+          "en": "I want to be kind!",
+          "vi": "Con muốn làm người tốt!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-017",
+      "en": "unkind",
+      "vi": "không tử tế",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hmm, that was a little unkind.",
+          "vi": "Hừm, vậy hơi không tử tế rồi con."
+        },
+        {
+          "en": "How would you feel if someone was unkind to you?",
+          "vi": "Nếu ai đó không tử tế với con, con thấy sao?"
+        },
+        {
+          "en": "Let's use words that aren't unkind.",
+          "vi": "Mình dùng lời lẽ tử tế thôi nha."
+        },
+        {
+          "en": "Unkind words can hurt feelings.",
+          "vi": "Lời nói không tử tế có thể làm người khác buồn."
+        },
+        {
+          "en": "I said something unkind, and I'm sorry.",
+          "vi": "Con lỡ nói lời không hay, con xin lỗi."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-018",
+      "en": "polite",
+      "vi": "lịch sự, lễ phép",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That was very polite!",
+          "vi": "Con lễ phép quá!"
+        },
+        {
+          "en": "What's a polite way to ask?",
+          "vi": "Hỏi sao cho lịch sự ta?"
+        },
+        {
+          "en": "Let's be polite at Grandma's house.",
+          "vi": "Qua nhà bà mình lễ phép nha."
+        },
+        {
+          "en": "Being polite makes people smile.",
+          "vi": "Lịch sự làm mọi người vui vẻ."
+        },
+        {
+          "en": "I was polite at the restaurant!",
+          "vi": "Ở nhà hàng con lịch sự lắm đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-019",
+      "en": "rude",
+      "vi": "bất lịch sự, hỗn",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oops, that sounded a little rude.",
+          "vi": "Ui, nghe vậy hơi bất lịch sự rồi."
+        },
+        {
+          "en": "Was that rude or polite?",
+          "vi": "Vậy là lịch sự hay bất lịch sự?"
+        },
+        {
+          "en": "Try asking again, but not in a rude way.",
+          "vi": "Con hỏi lại lần nữa, nói nhẹ nhàng hơn nha."
+        },
+        {
+          "en": "Grabbing toys is rude, so ask first.",
+          "vi": "Giật đồ chơi là bất lịch sự, nên hỏi trước nha."
+        },
+        {
+          "en": "I didn't mean to be rude.",
+          "vi": "Con không cố ý bất lịch sự đâu."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-020",
+      "en": "friendly",
+      "vi": "thân thiện",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a friendly smile!",
+          "vi": "Nụ cười thân thiện quá!"
+        },
+        {
+          "en": "Is your new friend friendly?",
+          "vi": "Bạn mới của con có thân thiện không?"
+        },
+        {
+          "en": "Be friendly to the new kid.",
+          "vi": "Con thân thiện với bạn mới nha."
+        },
+        {
+          "en": "Our neighbor is so friendly.",
+          "vi": "Hàng xóm mình thân thiện ghê."
+        },
+        {
+          "en": "The new girl is really friendly!",
+          "vi": "Bạn gái mới thân thiện lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-021",
+      "en": "fair",
+      "vi": "công bằng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Okay, that's fair!",
+          "vi": "Được, vậy là công bằng!"
+        },
+        {
+          "en": "Is that fair to your friend?",
+          "vi": "Vậy có công bằng với bạn không?"
+        },
+        {
+          "en": "Let's split it so it's fair.",
+          "vi": "Mình chia ra cho công bằng nha."
+        },
+        {
+          "en": "Everyone gets one, so it's fair.",
+          "vi": "Mỗi người một cái, vậy là công bằng."
+        },
+        {
+          "en": "That's not fair, it's my turn!",
+          "vi": "Vậy không công bằng, tới lượt con mà!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-022",
+      "en": "honest",
+      "vi": "thật thà",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Thanks for being honest!",
+          "vi": "Cảm ơn con đã thật thà nha!"
+        },
+        {
+          "en": "Can you give me an honest answer?",
+          "vi": "Con trả lời thật với mình được không?"
+        },
+        {
+          "en": "Always try to be honest, okay?",
+          "vi": "Lúc nào cũng ráng thật thà nha con?"
+        },
+        {
+          "en": "Being honest takes a lot of courage.",
+          "vi": "Thật thà cần nhiều can đảm lắm đó."
+        },
+        {
+          "en": "I was honest even though it was hard.",
+          "vi": "Con đã nói thật dù khó lắm."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-023",
+      "en": "tell the truth",
+      "vi": "nói thật",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Tell the truth, okay?",
+          "vi": "Nói thật nha con?"
+        },
+        {
+          "en": "Are you telling the truth?",
+          "vi": "Con có nói thật không đó?"
+        },
+        {
+          "en": "Please tell me the truth.",
+          "vi": "Con nói thật cho mình nghe nha."
+        },
+        {
+          "en": "I'm proud you told the truth.",
+          "vi": "Mình tự hào vì con đã nói thật."
+        },
+        {
+          "en": "I'm telling the truth!",
+          "vi": "Con nói thật mà!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-024",
+      "en": "manners",
+      "vi": "phép lịch sự",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, such good manners!",
+          "vi": "Wow, con lễ phép quá!"
+        },
+        {
+          "en": "Where are your manners?",
+          "vi": "Phép lịch sự của con đâu rồi?"
+        },
+        {
+          "en": "Let's use our table manners.",
+          "vi": "Mình ăn uống lịch sự nha."
+        },
+        {
+          "en": "Good manners make visits more fun.",
+          "vi": "Lịch sự thì đi chơi nhà ai cũng vui hơn."
+        },
+        {
+          "en": "I remembered my manners at the party!",
+          "vi": "Ở bữa tiệc con nhớ lễ phép đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-025",
+      "en": "respect",
+      "vi": "tôn trọng",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "I respect your choice.",
+          "vi": "Mình tôn trọng lựa chọn của con."
+        },
+        {
+          "en": "How can we show respect to Grandpa?",
+          "vi": "Mình thể hiện sự tôn trọng ông bằng cách nào?"
+        },
+        {
+          "en": "Let's respect other people's things.",
+          "vi": "Mình tôn trọng đồ của người khác nha."
+        },
+        {
+          "en": "Respect means treating others the way you want to be treated.",
+          "vi": "Tôn trọng là đối xử với người khác như mình muốn được đối xử."
+        },
+        {
+          "en": "I respect my teacher because she's fair.",
+          "vi": "Con tôn trọng cô giáo vì cô công bằng."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-026",
+      "en": "include",
+      "vi": "cho (bạn) chơi cùng",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Thanks for including your sister!",
+          "vi": "Cảm ơn con đã cho em chơi chung!"
+        },
+        {
+          "en": "Can you include the new kid?",
+          "vi": "Con rủ bạn mới chơi chung được không?"
+        },
+        {
+          "en": "Let's include everyone in the game.",
+          "vi": "Mình cho mọi người cùng chơi nha."
+        },
+        {
+          "en": "It feels good to be included.",
+          "vi": "Được rủ chơi chung thấy vui lắm."
+        },
+        {
+          "en": "We included him, and he was so happy!",
+          "vi": "Tụi con rủ bạn chơi chung, bạn vui lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-027",
+      "en": "join",
+      "vi": "tham gia, chơi chung",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Come join us!",
+          "vi": "Lại chơi chung nè!"
+        },
+        {
+          "en": "Can I join your game?",
+          "vi": "Cho mình chơi chung được không?"
+        },
+        {
+          "en": "Ask if you can join.",
+          "vi": "Con hỏi coi được chơi chung không nha."
+        },
+        {
+          "en": "It's fun when friends join in.",
+          "vi": "Có bạn chơi chung vui ghê."
+        },
+        {
+          "en": "Can I join you guys?",
+          "vi": "Cho con chơi với được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-028",
+      "en": "invite",
+      "vi": "mời, rủ",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, you got invited to a party!",
+          "vi": "Nhìn nè, con được mời đi tiệc!"
+        },
+        {
+          "en": "Who do you want to invite?",
+          "vi": "Con muốn mời ai?"
+        },
+        {
+          "en": "Let's invite your friend for lunch.",
+          "vi": "Mình mời bạn con qua ăn trưa nha."
+        },
+        {
+          "en": "It's so nice to be invited.",
+          "vi": "Được mời vui ghê."
+        },
+        {
+          "en": "I invited my whole class!",
+          "vi": "Con mời cả lớp luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-029",
+      "en": "play date",
+      "vi": "buổi hẹn chơi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, play date today!",
+          "vi": "Hay quá, hôm nay có hẹn đi chơi với bạn!"
+        },
+        {
+          "en": "Want a play date this weekend?",
+          "vi": "Cuối tuần con muốn hẹn bạn chơi không?"
+        },
+        {
+          "en": "Let's clean up before the play date.",
+          "vi": "Mình dọn dẹp trước khi bạn tới chơi nha."
+        },
+        {
+          "en": "That was such a fun play date.",
+          "vi": "Buổi chơi với bạn vui quá ha."
+        },
+        {
+          "en": "Can we have a play date soon?",
+          "vi": "Mình hẹn bạn qua chơi sớm nha?"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-030",
+      "en": "sleepover",
+      "vi": "ngủ lại nhà bạn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "A sleepover, how fun!",
+          "vi": "Ngủ lại nhà bạn hả, vui quá!"
+        },
+        {
+          "en": "Do you want to have a sleepover?",
+          "vi": "Con muốn rủ bạn ngủ lại nhà mình không?"
+        },
+        {
+          "en": "Let's pack your bag for the sleepover.",
+          "vi": "Mình soạn đồ cho con đi ngủ nhà bạn nha."
+        },
+        {
+          "en": "Sleepovers are fun, but sleep matters too.",
+          "vi": "Ngủ lại nhà bạn vui, nhưng cũng phải ngủ đủ nha."
+        },
+        {
+          "en": "We stayed up late at the sleepover!",
+          "vi": "Tối ngủ nhà bạn tụi con thức khuya lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-031",
+      "en": "thank-you card",
+      "vi": "thiệp cảm ơn",
+      "pos": "noun",
+      "emoji": "💌",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, we got a thank-you card!",
+          "vi": "Nhìn nè, mình nhận được thiệp cảm ơn!"
+        },
+        {
+          "en": "Who should we send a thank-you card to?",
+          "vi": "Mình nên gửi thiệp cảm ơn cho ai ta?"
+        },
+        {
+          "en": "Let's make a thank-you card for Grandma.",
+          "vi": "Mình làm thiệp cảm ơn tặng bà nha."
+        },
+        {
+          "en": "A thank-you card makes people feel special.",
+          "vi": "Thiệp cảm ơn làm người nhận thấy được trân trọng."
+        },
+        {
+          "en": "I drew hearts on my thank-you card!",
+          "vi": "Con vẽ trái tim lên thiệp cảm ơn nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-032",
+      "en": "apologize",
+      "vi": "xin lỗi",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Thanks for apologizing.",
+          "vi": "Cảm ơn con đã xin lỗi."
+        },
+        {
+          "en": "Do you think you should apologize?",
+          "vi": "Con có nghĩ con nên xin lỗi không?"
+        },
+        {
+          "en": "Go apologize to your brother, please.",
+          "vi": "Con đi xin lỗi anh hai đi nha."
+        },
+        {
+          "en": "A real apology means you won't do it again.",
+          "vi": "Xin lỗi thật lòng nghĩa là mình sẽ không làm vậy nữa."
+        },
+        {
+          "en": "I apologized, and we're friends again.",
+          "vi": "Con xin lỗi rồi, tụi con làm bạn lại rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-033",
+      "en": "forgive",
+      "vi": "tha thứ",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "I forgive you, sweetie.",
+          "vi": "Mình tha thứ cho con nha."
+        },
+        {
+          "en": "Can you forgive your friend?",
+          "vi": "Con tha lỗi cho bạn được không?"
+        },
+        {
+          "en": "Let's forgive and start over.",
+          "vi": "Mình bỏ qua rồi làm lại từ đầu nha."
+        },
+        {
+          "en": "Forgiving someone can make you feel lighter.",
+          "vi": "Tha thứ cho ai đó làm lòng mình nhẹ nhõm hơn."
+        },
+        {
+          "en": "I forgave my friend for breaking my tower.",
+          "vi": "Con tha thứ cho bạn làm đổ tháp của con."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-034",
+      "en": "make up",
+      "vi": "làm lành",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, you two made up!",
+          "vi": "Ôi, hai đứa làm lành rồi!"
+        },
+        {
+          "en": "Are you ready to make up?",
+          "vi": "Con sẵn sàng làm lành chưa?"
+        },
+        {
+          "en": "Let's hug and make up.",
+          "vi": "Mình ôm nhau rồi làm lành nha."
+        },
+        {
+          "en": "It feels good to make up after a fight.",
+          "vi": "Giận nhau xong làm lành thấy dễ chịu ghê."
+        },
+        {
+          "en": "We made up at recess!",
+          "vi": "Giờ ra chơi tụi con làm lành rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-035",
+      "en": "promise",
+      "vi": "hứa",
+      "pos": "verb",
+      "emoji": "🤞",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "I promise!",
+          "vi": "Mình hứa đó!"
+        },
+        {
+          "en": "Do you promise?",
+          "vi": "Con hứa không?"
+        },
+        {
+          "en": "Let's make a pinky promise.",
+          "vi": "Mình móc ngoéo hứa nha."
+        },
+        {
+          "en": "A promise is something you keep.",
+          "vi": "Đã hứa thì phải giữ lời."
+        },
+        {
+          "en": "I promise I'll clean my room.",
+          "vi": "Con hứa sẽ dọn phòng."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-036",
+      "en": "secret",
+      "vi": "bí mật",
+      "pos": "noun",
+      "emoji": "🤫",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, it's a secret!",
+          "vi": "Ồ, bí mật đó nha!"
+        },
+        {
+          "en": "Can you keep a secret?",
+          "vi": "Con giữ bí mật được không?"
+        },
+        {
+          "en": "Let's keep the surprise party a secret.",
+          "vi": "Mình giữ bí mật bữa tiệc bất ngờ nha."
+        },
+        {
+          "en": "Tell a grown-up about secrets that feel bad.",
+          "vi": "Bí mật nào làm con thấy không ổn thì kể cho người lớn nha."
+        },
+        {
+          "en": "I have a secret for you!",
+          "vi": "Con có bí mật muốn kể nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-037",
+      "en": "tease",
+      "vi": "chọc, ghẹo",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hey, no teasing, please.",
+          "vi": "Nè, đừng chọc nhau nha."
+        },
+        {
+          "en": "Did someone tease you today?",
+          "vi": "Hôm nay có ai chọc con không?"
+        },
+        {
+          "en": "If you get teased, tell a grown-up.",
+          "vi": "Nếu bị chọc thì kể cho người lớn nha."
+        },
+        {
+          "en": "Teasing can hurt even if it's a joke.",
+          "vi": "Chọc ghẹo dù giỡn cũng có thể làm bạn buồn."
+        },
+        {
+          "en": "He teased me, but I walked away.",
+          "vi": "Bạn chọc con, mà con bỏ đi chỗ khác."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-038",
+      "en": "bully",
+      "vi": "bắt nạt",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That sounds like bullying.",
+          "vi": "Nghe vậy là bị bắt nạt rồi đó."
+        },
+        {
+          "en": "Has anyone tried to bully you?",
+          "vi": "Có ai bắt nạt con không?"
+        },
+        {
+          "en": "If someone bullies you, tell me or your teacher.",
+          "vi": "Nếu ai bắt nạt con, kể cho mình hoặc cô giáo nghe nha."
+        },
+        {
+          "en": "Bullying is never okay, and it's never your fault.",
+          "vi": "Bắt nạt là không bao giờ được, và đó không phải lỗi của con."
+        },
+        {
+          "en": "I told the teacher when they bullied my friend.",
+          "vi": "Con đã báo cô khi mấy bạn bắt nạt bạn con."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-039",
+      "en": "argue",
+      "vi": "cãi nhau",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hey, no arguing, you two.",
+          "vi": "Nè, hai đứa đừng cãi nhau nữa."
+        },
+        {
+          "en": "What are you arguing about?",
+          "vi": "Hai đứa cãi nhau chuyện gì vậy?"
+        },
+        {
+          "en": "Let's talk calmly instead of arguing.",
+          "vi": "Mình nói chuyện bình tĩnh thay vì cãi nhau nha."
+        },
+        {
+          "en": "Friends argue sometimes, and that's okay.",
+          "vi": "Bạn bè đôi khi cũng cãi nhau, không sao hết."
+        },
+        {
+          "en": "We argued, but then we said sorry.",
+          "vi": "Tụi con cãi nhau, rồi xin lỗi nhau rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-040",
+      "en": "patient",
+      "vi": "kiên nhẫn",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Thank you for being so patient!",
+          "vi": "Cảm ơn con đã kiên nhẫn nha!"
+        },
+        {
+          "en": "Can you be patient for one minute?",
+          "vi": "Con kiên nhẫn đợi một phút được không?"
+        },
+        {
+          "en": "Let's be patient and wait our turn.",
+          "vi": "Mình kiên nhẫn chờ tới lượt nha."
+        },
+        {
+          "en": "Being patient is really hard sometimes.",
+          "vi": "Kiên nhẫn đôi khi khó thiệt."
+        },
+        {
+          "en": "I was patient in the long line!",
+          "vi": "Con kiên nhẫn đợi hàng dài lắm đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-041",
+      "en": "interrupt",
+      "vi": "ngắt lời, chen ngang",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oops, you interrupted me.",
+          "vi": "Ui, con ngắt lời mình rồi."
+        },
+        {
+          "en": "Can you wait, please, and not interrupt?",
+          "vi": "Con đợi chút, đừng chen ngang nha?"
+        },
+        {
+          "en": "Touch my arm instead of interrupting.",
+          "vi": "Con chạm tay mình thay vì nói chen ngang nha."
+        },
+        {
+          "en": "It's hard not to interrupt when you're excited.",
+          "vi": "Lúc háo hức thì khó mà không chen ngang ha."
+        },
+        {
+          "en": "Sorry for interrupting!",
+          "vi": "Con xin lỗi vì chen ngang!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-042",
+      "en": "inside voice",
+      "vi": "nói nhỏ (trong nhà)",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Inside voice, please.",
+          "vi": "Nói nhỏ thôi con."
+        },
+        {
+          "en": "Can you use your inside voice?",
+          "vi": "Con nói nhỏ lại được không?"
+        },
+        {
+          "en": "Let's use inside voices here.",
+          "vi": "Ở đây mình nói nhỏ nha."
+        },
+        {
+          "en": "Your inside voice sounds so nice.",
+          "vi": "Con nói nhỏ nghe dễ thương ghê."
+        },
+        {
+          "en": "I'm using my inside voice!",
+          "vi": "Con đang nói nhỏ nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-043",
+      "en": "personal space",
+      "vi": "khoảng cách riêng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oops, that's his personal space.",
+          "vi": "Ui, đó là khoảng cách riêng của bạn đó."
+        },
+        {
+          "en": "How much personal space do you need?",
+          "vi": "Con cần đứng cách ra bao xa?"
+        },
+        {
+          "en": "Give your friend some personal space.",
+          "vi": "Đứng cách bạn ra một chút nha con."
+        },
+        {
+          "en": "Everyone needs personal space sometimes.",
+          "vi": "Ai cũng có lúc cần khoảng riêng."
+        },
+        {
+          "en": "I need some personal space, please.",
+          "vi": "Cho con chút khoảng riêng nha."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-044",
+      "en": "ask nicely",
+      "vi": "hỏi lễ phép",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ask nicely, please.",
+          "vi": "Hỏi lễ phép nha con."
+        },
+        {
+          "en": "Can you ask nicely?",
+          "vi": "Con hỏi lại cho lễ phép được không?"
+        },
+        {
+          "en": "Let's try again and ask nicely.",
+          "vi": "Mình thử lại, hỏi lễ phép nha."
+        },
+        {
+          "en": "You asked so nicely!",
+          "vi": "Con hỏi lễ phép quá!"
+        },
+        {
+          "en": "I asked nicely and got a turn!",
+          "vi": "Con hỏi lễ phép nên được tới lượt nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-045",
+      "en": "shake hands",
+      "vi": "bắt tay",
+      "pos": "phrase",
+      "emoji": "🤝",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Nice, let's shake hands!",
+          "vi": "Hay, mình bắt tay nào!"
+        },
+        {
+          "en": "Can you shake hands with Uncle?",
+          "vi": "Con bắt tay chú được không?"
+        },
+        {
+          "en": "Look in his eyes when you shake hands.",
+          "vi": "Lúc bắt tay thì nhìn vô mắt người ta nha."
+        },
+        {
+          "en": "Good players shake hands after a game.",
+          "vi": "Chơi đẹp là bắt tay nhau sau trận."
+        },
+        {
+          "en": "I shook hands with the coach!",
+          "vi": "Con bắt tay thầy huấn luyện viên đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-046",
+      "en": "high five",
+      "vi": "đập tay",
+      "pos": "phrase",
+      "emoji": "🙌",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "High five!",
+          "vi": "Đập tay nào!"
+        },
+        {
+          "en": "Can I get a high five?",
+          "vi": "Đập tay với mình không?"
+        },
+        {
+          "en": "Give your friend a high five.",
+          "vi": "Đập tay với bạn đi con."
+        },
+        {
+          "en": "That was a great high five!",
+          "vi": "Đập tay đã quá!"
+        },
+        {
+          "en": "I gave my teacher a high five!",
+          "vi": "Con đập tay với cô giáo đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-047",
+      "en": "compliment",
+      "vi": "lời khen",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a nice compliment!",
+          "vi": "Lời khen dễ thương quá!"
+        },
+        {
+          "en": "Can you think of a compliment for your sister?",
+          "vi": "Con nghĩ ra lời khen nào cho em không?"
+        },
+        {
+          "en": "Let's give everyone one compliment at dinner.",
+          "vi": "Bữa tối mình khen mỗi người một câu nha."
+        },
+        {
+          "en": "A kind compliment can make someone's whole day.",
+          "vi": "Một lời khen dễ thương có thể làm ai đó vui cả ngày."
+        },
+        {
+          "en": "I got a compliment on my drawing today.",
+          "vi": "Hôm nay con được khen bức tranh đó."
+        }
+      ]
+    },
+    {
+      "id": "v-manners-048",
+      "en": "make friends",
+      "vi": "kết bạn",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "You made a friend!",
+          "vi": "Con kết bạn mới rồi kìa!"
+        },
+        {
+          "en": "Did you make friends at school?",
+          "vi": "Con có kết bạn ở trường không?"
+        },
+        {
+          "en": "Smile and say hi to make friends.",
+          "vi": "Cười rồi chào là kết bạn được đó."
+        },
+        {
+          "en": "Making friends takes a little time.",
+          "vi": "Kết bạn cần chút thời gian mà."
+        },
+        {
+          "en": "I made two new friends today!",
+          "vi": "Hôm nay con kết thêm hai bạn mới!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-049",
+      "en": "play together",
+      "vi": "chơi chung",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's play together!",
+          "vi": "Mình chơi chung nha!"
+        },
+        {
+          "en": "Can you two play together nicely?",
+          "vi": "Hai đứa chơi chung vui vẻ được không?"
+        },
+        {
+          "en": "Play together with the blocks.",
+          "vi": "Chơi xếp khối chung với nhau nha."
+        },
+        {
+          "en": "It's more fun to play together.",
+          "vi": "Chơi chung vui hơn mà."
+        },
+        {
+          "en": "We played together all day!",
+          "vi": "Tụi con chơi chung cả ngày luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-050",
+      "en": "cover your mouth",
+      "vi": "che miệng",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Cover your mouth, please!",
+          "vi": "Che miệng lại nha con!"
+        },
+        {
+          "en": "Did you cover your mouth?",
+          "vi": "Con che miệng chưa?"
+        },
+        {
+          "en": "Cover your mouth when you yawn.",
+          "vi": "Ngáp thì che miệng nha."
+        },
+        {
+          "en": "Covering your mouth keeps germs in.",
+          "vi": "Che miệng để vi trùng không bay ra."
+        },
+        {
+          "en": "I covered my mouth when I coughed!",
+          "vi": "Con ho có che miệng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-051",
+      "en": "hold the door",
+      "vi": "giữ cửa",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, thanks for holding the door!",
+          "vi": "Ồ, cảm ơn con đã giữ cửa!"
+        },
+        {
+          "en": "Can you hold the door for Grandma?",
+          "vi": "Con giữ cửa cho bà được không?"
+        },
+        {
+          "en": "Let's hold the door for the lady behind us.",
+          "vi": "Mình giữ cửa cho cô phía sau nha."
+        },
+        {
+          "en": "Holding the door is a kind thing to do.",
+          "vi": "Giữ cửa giùm người khác là việc tốt đó."
+        },
+        {
+          "en": "I held the door, and the man said thanks!",
+          "vi": "Con giữ cửa, chú đó cảm ơn con nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-manners-052",
+      "en": "trust",
+      "vi": "tin tưởng",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "I trust you.",
+          "vi": "Mình tin con."
+        },
+        {
+          "en": "Do you trust your best friend?",
+          "vi": "Con có tin bạn thân của con không?"
+        },
+        {
+          "en": "Let's build trust by keeping our promises.",
+          "vi": "Mình giữ lời hứa để người khác tin mình nha."
+        },
+        {
+          "en": "Trust takes time to grow.",
+          "vi": "Niềm tin cần thời gian mới có được."
+        },
+        {
+          "en": "You can trust me, I promise!",
+          "vi": "Ba mẹ tin con đi, con hứa mà!"
+        }
+      ]
+    }
+  ]
+}

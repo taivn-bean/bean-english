@@ -1,0 +1,1709 @@
+{
+  "deckId": "v-food",
+  "words": [
+    {
+      "id": "v-food-001",
+      "en": "rice",
+      "vi": "cơm",
+      "pos": "noun",
+      "emoji": "🍚",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yum, rice!",
+          "vi": "Cơm nè, ngon quá!"
+        },
+        {
+          "en": "Do you want more rice?",
+          "vi": "Con ăn thêm cơm nữa không?"
+        },
+        {
+          "en": "Take a bite of rice.",
+          "vi": "Con ăn một miếng cơm đi."
+        },
+        {
+          "en": "This rice is nice and warm.",
+          "vi": "Cơm này ấm ấm, ngon lắm."
+        },
+        {
+          "en": "More rice, please!",
+          "vi": "Cho con thêm cơm nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-002",
+      "en": "noodles",
+      "vi": "mì",
+      "pos": "noun",
+      "emoji": "🍜",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, noodles for lunch!",
+          "vi": "Ồ, trưa nay ăn mì nè!"
+        },
+        {
+          "en": "Are your noodles too long?",
+          "vi": "Mì dài quá hả con?"
+        },
+        {
+          "en": "Slurp your noodles slowly.",
+          "vi": "Con húp mì từ từ thôi."
+        },
+        {
+          "en": "These noodles are super long!",
+          "vi": "Sợi mì này dài ghê luôn!"
+        },
+        {
+          "en": "I love noodles!",
+          "vi": "Con thích ăn mì lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-003",
+      "en": "bread",
+      "vi": "bánh mì",
+      "pos": "noun",
+      "emoji": "🍞",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's your bread.",
+          "vi": "Bánh mì của con nè."
+        },
+        {
+          "en": "Do you want butter on your bread?",
+          "vi": "Con muốn phết bơ lên bánh mì không?"
+        },
+        {
+          "en": "Tear the bread in half.",
+          "vi": "Con xé đôi miếng bánh mì ra nha."
+        },
+        {
+          "en": "The bread smells so good.",
+          "vi": "Bánh mì thơm quá."
+        },
+        {
+          "en": "Can I have some bread?",
+          "vi": "Con ăn bánh mì được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-food-004",
+      "en": "egg",
+      "vi": "trứng",
+      "pos": "noun",
+      "emoji": "🥚",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, an egg!",
+          "vi": "Nhìn nè, cái trứng!"
+        },
+        {
+          "en": "How do you want your egg?",
+          "vi": "Con muốn ăn trứng kiểu gì?"
+        },
+        {
+          "en": "Let's crack the egg together.",
+          "vi": "Mình cùng đập trứng nha."
+        },
+        {
+          "en": "This egg is still warm.",
+          "vi": "Trứng này còn ấm nè."
+        },
+        {
+          "en": "I want a fried egg!",
+          "vi": "Con muốn ăn trứng chiên!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-005",
+      "en": "milk",
+      "vi": "sữa",
+      "pos": "noun",
+      "emoji": "🥛",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Milk time!",
+          "vi": "Tới giờ uống sữa rồi!"
+        },
+        {
+          "en": "Do you want warm milk?",
+          "vi": "Con uống sữa ấm không?"
+        },
+        {
+          "en": "Drink up your milk.",
+          "vi": "Con uống hết sữa đi."
+        },
+        {
+          "en": "Milk makes your bones strong.",
+          "vi": "Sữa giúp xương con chắc khỏe."
+        },
+        {
+          "en": "Can I have more milk?",
+          "vi": "Cho con thêm sữa được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-food-006",
+      "en": "juice",
+      "vi": "nước ép",
+      "pos": "noun",
+      "emoji": "🧃",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, apple juice!",
+          "vi": "Ồ, nước ép táo nè!"
+        },
+        {
+          "en": "Do you want some juice?",
+          "vi": "Con uống nước ép không?"
+        },
+        {
+          "en": "Hold your juice with two hands.",
+          "vi": "Con cầm nước ép bằng hai tay nha."
+        },
+        {
+          "en": "This juice is really sweet.",
+          "vi": "Nước ép này ngọt quá."
+        },
+        {
+          "en": "I spilled my juice!",
+          "vi": "Con làm đổ nước ép rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-007",
+      "en": "steamed bun",
+      "vi": "bánh bao",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a big steamed bun!",
+          "vi": "Ồ, cái bánh bao bự quá!"
+        },
+        {
+          "en": "Do you want a steamed bun?",
+          "vi": "Con ăn bánh bao không?"
+        },
+        {
+          "en": "Break the steamed bun in half.",
+          "vi": "Con bẻ đôi cái bánh bao ra nha."
+        },
+        {
+          "en": "Steamed buns are soft and fluffy.",
+          "vi": "Bánh bao mềm xốp ghê."
+        },
+        {
+          "en": "There's egg in my steamed bun!",
+          "vi": "Con thấy có trứng trong bánh bao nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-008",
+      "en": "soup",
+      "vi": "canh",
+      "pos": "noun",
+      "emoji": "🍲",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, soup time!",
+          "vi": "Ưm, ăn canh nè!"
+        },
+        {
+          "en": "Is the soup too hot?",
+          "vi": "Canh nóng quá hả con?"
+        },
+        {
+          "en": "Blow on your soup first.",
+          "vi": "Con thổi canh cho nguội đã."
+        },
+        {
+          "en": "This soup is so yummy.",
+          "vi": "Canh này ngon ghê."
+        },
+        {
+          "en": "I want more soup!",
+          "vi": "Con muốn ăn thêm canh!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-009",
+      "en": "porridge",
+      "vi": "cháo",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's your porridge.",
+          "vi": "Cháo của con nè."
+        },
+        {
+          "en": "Do you want porridge for breakfast?",
+          "vi": "Sáng nay con ăn cháo không?"
+        },
+        {
+          "en": "Eat your porridge slowly, okay?",
+          "vi": "Con ăn cháo từ từ nha."
+        },
+        {
+          "en": "Porridge is good when you're sick.",
+          "vi": "Bị bệnh thì ăn cháo là tốt nhất."
+        },
+        {
+          "en": "Grandma made me porridge!",
+          "vi": "Bà nấu cháo cho con nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-010",
+      "en": "cookie",
+      "vi": "bánh quy",
+      "pos": "noun",
+      "emoji": "🍪",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a cookie!",
+          "vi": "Oa, bánh quy!"
+        },
+        {
+          "en": "Do you want one cookie or two?",
+          "vi": "Con muốn một cái bánh quy hay hai cái?"
+        },
+        {
+          "en": "Let's share the cookies.",
+          "vi": "Mình chia bánh quy nha."
+        },
+        {
+          "en": "This cookie is so crunchy.",
+          "vi": "Bánh quy này giòn ghê."
+        },
+        {
+          "en": "One more cookie, please!",
+          "vi": "Cho con thêm một cái bánh quy nữa!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-011",
+      "en": "cake",
+      "vi": "bánh kem",
+      "pos": "noun",
+      "emoji": "🍰",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at that big cake!",
+          "vi": "Nhìn cái bánh kem bự chưa kìa!"
+        },
+        {
+          "en": "Who wants some cake?",
+          "vi": "Ai muốn ăn bánh kem nè?"
+        },
+        {
+          "en": "Let's cut the cake.",
+          "vi": "Mình cắt bánh kem nha."
+        },
+        {
+          "en": "The cake has strawberries on top.",
+          "vi": "Bánh kem có dâu ở trên nè."
+        },
+        {
+          "en": "I want the chocolate cake!",
+          "vi": "Con muốn bánh kem sô-cô-la!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-012",
+      "en": "candy",
+      "vi": "kẹo",
+      "pos": "noun",
+      "emoji": "🍬",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, candy!",
+          "vi": "Ồ, kẹo!"
+        },
+        {
+          "en": "Did someone give you candy?",
+          "vi": "Ai cho con kẹo vậy?"
+        },
+        {
+          "en": "Just one candy after lunch, okay?",
+          "vi": "Ăn trưa xong mới được một viên kẹo thôi nha."
+        },
+        {
+          "en": "Too much candy hurts your teeth.",
+          "vi": "Ăn nhiều kẹo quá là sâu răng đó."
+        },
+        {
+          "en": "Can I have a candy, please?",
+          "vi": "Con ăn một viên kẹo được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-food-013",
+      "en": "ice cream",
+      "vi": "kem",
+      "pos": "noun",
+      "emoji": "🍦",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, ice cream!",
+          "vi": "Yeah, kem!"
+        },
+        {
+          "en": "What flavor ice cream do you want?",
+          "vi": "Con muốn ăn kem vị gì?"
+        },
+        {
+          "en": "Lick your ice cream before it melts.",
+          "vi": "Con liếm kem đi kẻo chảy."
+        },
+        {
+          "en": "This ice cream is so cold!",
+          "vi": "Kem lạnh quá!"
+        },
+        {
+          "en": "I want chocolate ice cream!",
+          "vi": "Con muốn ăn kem sô-cô-la!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-014",
+      "en": "cheese",
+      "vi": "phô mai",
+      "pos": "noun",
+      "emoji": "🧀",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, cheese!",
+          "vi": "Ưm, phô mai!"
+        },
+        {
+          "en": "Do you want cheese on it?",
+          "vi": "Con muốn bỏ phô mai lên không?"
+        },
+        {
+          "en": "Try a little piece of cheese.",
+          "vi": "Con thử một miếng phô mai nhỏ nha."
+        },
+        {
+          "en": "This cheese is soft and yummy.",
+          "vi": "Phô mai này mềm mà ngon."
+        },
+        {
+          "en": "I like cheese sticks!",
+          "vi": "Con thích phô mai que!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-015",
+      "en": "meat",
+      "vi": "thịt",
+      "pos": "noun",
+      "emoji": "🍖",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's some meat for you.",
+          "vi": "Thịt cho con nè."
+        },
+        {
+          "en": "How much meat do you want?",
+          "vi": "Con muốn ăn bao nhiêu thịt?"
+        },
+        {
+          "en": "Eat some meat, then some veggies.",
+          "vi": "Con ăn thịt rồi ăn rau nha."
+        },
+        {
+          "en": "Meat helps you grow big and strong.",
+          "vi": "Ăn thịt giúp con lớn nhanh, khỏe mạnh."
+        },
+        {
+          "en": "I ate all my meat!",
+          "vi": "Con ăn hết thịt rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-016",
+      "en": "pork",
+      "vi": "thịt heo",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, pork and rice!",
+          "vi": "Ưm, cơm thịt heo!"
+        },
+        {
+          "en": "Do you want pork or chicken?",
+          "vi": "Con muốn ăn thịt heo hay thịt gà?"
+        },
+        {
+          "en": "Let me cut the pork for you.",
+          "vi": "Để mình cắt thịt heo cho con nha."
+        },
+        {
+          "en": "This pork is so soft.",
+          "vi": "Thịt heo này mềm ghê."
+        },
+        {
+          "en": "I like pork with rice!",
+          "vi": "Con thích ăn thịt heo với cơm!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-017",
+      "en": "beef",
+      "vi": "thịt bò",
+      "pos": "noun",
+      "emoji": "🥩",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, beef noodle soup!",
+          "vi": "Ồ, phở bò!"
+        },
+        {
+          "en": "Do you like beef or pork better?",
+          "vi": "Con thích thịt bò hay thịt heo hơn?"
+        },
+        {
+          "en": "Chew your beef really well.",
+          "vi": "Con nhai thịt bò kỹ nha."
+        },
+        {
+          "en": "Beef makes you strong.",
+          "vi": "Ăn thịt bò cho con khỏe."
+        },
+        {
+          "en": "I want more beef!",
+          "vi": "Con muốn thêm thịt bò!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-018",
+      "en": "sausage",
+      "vi": "xúc xích",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, sausages!",
+          "vi": "Nhìn nè, xúc xích!"
+        },
+        {
+          "en": "Do you want a sausage?",
+          "vi": "Con ăn xúc xích không?"
+        },
+        {
+          "en": "Let's cut your sausage in half.",
+          "vi": "Mình cắt đôi cây xúc xích nha."
+        },
+        {
+          "en": "The sausage smells so good.",
+          "vi": "Xúc xích thơm quá."
+        },
+        {
+          "en": "Sausages are my favorite!",
+          "vi": "Con thích xúc xích nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-019",
+      "en": "pizza",
+      "vi": "bánh pizza",
+      "pos": "noun",
+      "emoji": "🍕",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Pizza night!",
+          "vi": "Tối nay ăn pizza!"
+        },
+        {
+          "en": "Which slice of pizza do you want?",
+          "vi": "Con muốn miếng pizza nào?"
+        },
+        {
+          "en": "Let's make pizza together!",
+          "vi": "Mình cùng làm pizza nha!"
+        },
+        {
+          "en": "This pizza is so cheesy!",
+          "vi": "Pizza này nhiều phô mai ghê!"
+        },
+        {
+          "en": "Can we have pizza for dinner?",
+          "vi": "Tối nay mình ăn pizza được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-food-020",
+      "en": "sandwich",
+      "vi": "bánh mì kẹp",
+      "pos": "noun",
+      "emoji": "🥪",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's your sandwich!",
+          "vi": "Bánh mì kẹp của con nè!"
+        },
+        {
+          "en": "What do you want in your sandwich?",
+          "vi": "Con muốn kẹp gì trong bánh?"
+        },
+        {
+          "en": "Hold your sandwich with both hands.",
+          "vi": "Con cầm bánh mì kẹp bằng hai tay nha."
+        },
+        {
+          "en": "This sandwich is cut into triangles!",
+          "vi": "Bánh mì kẹp cắt hình tam giác nè!"
+        },
+        {
+          "en": "I made a sandwich all by myself!",
+          "vi": "Con tự làm bánh mì kẹp đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-021",
+      "en": "spaghetti",
+      "vi": "mì Ý",
+      "pos": "noun",
+      "emoji": "🍝",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, spaghetti!",
+          "vi": "Yeah, mì Ý!"
+        },
+        {
+          "en": "Do you want sauce on your spaghetti?",
+          "vi": "Con muốn rưới sốt lên mì Ý không?"
+        },
+        {
+          "en": "Twirl the spaghetti with your fork.",
+          "vi": "Con xoay nĩa cuộn mì Ý nha."
+        },
+        {
+          "en": "Uh-oh, spaghetti sauce on your shirt!",
+          "vi": "Ui, sốt mì Ý dính lên áo con rồi!"
+        },
+        {
+          "en": "Spaghetti is my favorite food!",
+          "vi": "Mì Ý là món con thích nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-022",
+      "en": "yogurt",
+      "vi": "sữa chua",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, strawberry yogurt!",
+          "vi": "Ồ, sữa chua dâu!"
+        },
+        {
+          "en": "Do you want yogurt for a snack?",
+          "vi": "Con muốn ăn sữa chua không?"
+        },
+        {
+          "en": "Use your spoon for the yogurt.",
+          "vi": "Con dùng muỗng ăn sữa chua nha."
+        },
+        {
+          "en": "This yogurt is cold and creamy.",
+          "vi": "Sữa chua này mát lạnh, béo béo."
+        },
+        {
+          "en": "I finished my yogurt!",
+          "vi": "Con ăn hết sữa chua rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-023",
+      "en": "butter",
+      "vi": "bơ",
+      "pos": "noun",
+      "emoji": "🧈",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, the butter is melting!",
+          "vi": "Ồ, bơ chảy ra rồi kìa!"
+        },
+        {
+          "en": "Do you want butter on your toast?",
+          "vi": "Con muốn phết bơ lên bánh mì nướng không?"
+        },
+        {
+          "en": "Can you pass the butter, please?",
+          "vi": "Con đưa giùm hộp bơ nha?"
+        },
+        {
+          "en": "Butter makes the bread taste yummy.",
+          "vi": "Phết bơ vào bánh mì ăn ngon hơn."
+        },
+        {
+          "en": "I want lots of butter!",
+          "vi": "Con muốn nhiều bơ!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-024",
+      "en": "jam",
+      "vi": "mứt",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, strawberry jam!",
+          "vi": "Ồ, mứt dâu!"
+        },
+        {
+          "en": "Do you want jam or butter?",
+          "vi": "Con muốn phết mứt hay bơ?"
+        },
+        {
+          "en": "Spread the jam with your spoon.",
+          "vi": "Con dùng muỗng phết mứt đi."
+        },
+        {
+          "en": "This jam is sticky and sweet.",
+          "vi": "Mứt này dính dính, ngọt ngọt."
+        },
+        {
+          "en": "I got jam on my fingers!",
+          "vi": "Mứt dính tay con rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-025",
+      "en": "honey",
+      "vi": "mật ong",
+      "pos": "noun",
+      "emoji": "🍯",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, honey!",
+          "vi": "Nhìn nè, mật ong!"
+        },
+        {
+          "en": "Do you want honey in your tea?",
+          "vi": "Con muốn bỏ mật ong vô trà không?"
+        },
+        {
+          "en": "Let's put a little honey on top.",
+          "vi": "Mình rưới chút mật ong lên trên nha."
+        },
+        {
+          "en": "Bees make honey. Isn't that cool?",
+          "vi": "Con ong làm ra mật ong đó. Hay không?"
+        },
+        {
+          "en": "Honey is so sticky!",
+          "vi": "Mật ong dính quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-026",
+      "en": "cereal",
+      "vi": "ngũ cốc",
+      "pos": "noun",
+      "emoji": "🥣",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Cereal for breakfast!",
+          "vi": "Sáng nay ăn ngũ cốc!"
+        },
+        {
+          "en": "Do you want milk on your cereal?",
+          "vi": "Con muốn chan sữa vào ngũ cốc không?"
+        },
+        {
+          "en": "Pour your cereal into the bowl.",
+          "vi": "Con đổ ngũ cốc vô chén đi."
+        },
+        {
+          "en": "Your cereal is getting soggy. Eat up!",
+          "vi": "Ngũ cốc mềm hết rồi kìa. Ăn nhanh nào!"
+        },
+        {
+          "en": "I can pour my own cereal!",
+          "vi": "Con tự đổ ngũ cốc được!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-027",
+      "en": "pancake",
+      "vi": "bánh kếp",
+      "pos": "noun",
+      "emoji": "🥞",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Pancakes for breakfast!",
+          "vi": "Sáng nay ăn bánh kếp!"
+        },
+        {
+          "en": "How many pancakes do you want?",
+          "vi": "Con muốn ăn mấy cái bánh kếp?"
+        },
+        {
+          "en": "Let's flip the pancake. Ready?",
+          "vi": "Mình lật bánh kếp nha. Sẵn sàng chưa?"
+        },
+        {
+          "en": "These pancakes are so fluffy!",
+          "vi": "Bánh kếp này xốp mềm ghê!"
+        },
+        {
+          "en": "Can I have syrup on my pancakes?",
+          "vi": "Con rưới si-rô lên bánh kếp được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-food-028",
+      "en": "fries",
+      "vi": "khoai tây chiên",
+      "pos": "noun",
+      "emoji": "🍟",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, french fries!",
+          "vi": "Ồ, khoai tây chiên!"
+        },
+        {
+          "en": "Do you want ketchup with your fries?",
+          "vi": "Con chấm khoai tây chiên với tương cà không?"
+        },
+        {
+          "en": "Let's share the fries, okay?",
+          "vi": "Mình chia khoai tây chiên nha."
+        },
+        {
+          "en": "These fries are crispy and salty.",
+          "vi": "Khoai tây chiên này giòn và mặn mặn."
+        },
+        {
+          "en": "Fries are my favorite!",
+          "vi": "Con mê khoai tây chiên lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-029",
+      "en": "popcorn",
+      "vi": "bắp rang bơ",
+      "pos": "noun",
+      "emoji": "🍿",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Popcorn time!",
+          "vi": "Ăn bắp rang bơ thôi!"
+        },
+        {
+          "en": "Can you hear the popcorn popping?",
+          "vi": "Con nghe bắp nổ lách tách không?"
+        },
+        {
+          "en": "Let's make popcorn for movie night!",
+          "vi": "Mình làm bắp rang bơ để xem phim nha!"
+        },
+        {
+          "en": "The popcorn smells so buttery.",
+          "vi": "Bắp rang thơm mùi bơ ghê."
+        },
+        {
+          "en": "I want a big bowl of popcorn!",
+          "vi": "Con muốn một tô bắp rang bơ bự!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-030",
+      "en": "chocolate",
+      "vi": "sô-cô-la",
+      "pos": "noun",
+      "emoji": "🍫",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, chocolate!",
+          "vi": "Oa, sô-cô-la!"
+        },
+        {
+          "en": "Do you want a piece of chocolate?",
+          "vi": "Con ăn một miếng sô-cô-la không?"
+        },
+        {
+          "en": "Save the chocolate for after dinner.",
+          "vi": "Để dành sô-cô-la ăn sau bữa tối nha."
+        },
+        {
+          "en": "Uh-oh, chocolate all over your face!",
+          "vi": "Ui, sô-cô-la dính đầy mặt con rồi!"
+        },
+        {
+          "en": "I love chocolate so much!",
+          "vi": "Con thích sô-cô-la lắm luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-031",
+      "en": "crackers",
+      "vi": "bánh quy mặn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here are some crackers.",
+          "vi": "Bánh quy mặn nè con."
+        },
+        {
+          "en": "Do you want crackers with cheese?",
+          "vi": "Con ăn bánh quy mặn với phô mai không?"
+        },
+        {
+          "en": "Put the crackers on your plate.",
+          "vi": "Con để bánh quy lên đĩa nha."
+        },
+        {
+          "en": "Oops, cracker crumbs everywhere!",
+          "vi": "Ui, vụn bánh rơi tùm lum rồi!"
+        },
+        {
+          "en": "I want more crackers!",
+          "vi": "Con muốn thêm bánh quy!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-032",
+      "en": "snack",
+      "vi": "đồ ăn vặt",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Snack time!",
+          "vi": "Tới giờ ăn xế rồi!"
+        },
+        {
+          "en": "What do you want for a snack?",
+          "vi": "Con muốn ăn xế món gì?"
+        },
+        {
+          "en": "Let's pack a snack for the park.",
+          "vi": "Mình mang đồ ăn vặt ra công viên nha."
+        },
+        {
+          "en": "This snack is crunchy and yummy.",
+          "vi": "Món ăn vặt này giòn mà ngon."
+        },
+        {
+          "en": "I'm hungry. Can I have a snack?",
+          "vi": "Con đói. Con ăn vặt chút được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-food-033",
+      "en": "breakfast",
+      "vi": "bữa sáng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Breakfast is ready!",
+          "vi": "Ăn sáng thôi con!"
+        },
+        {
+          "en": "What do you want for breakfast?",
+          "vi": "Sáng nay con muốn ăn gì?"
+        },
+        {
+          "en": "Come sit down for breakfast.",
+          "vi": "Con lại ngồi ăn sáng nè."
+        },
+        {
+          "en": "Breakfast gives you energy for school.",
+          "vi": "Ăn sáng để có sức đi học đó."
+        },
+        {
+          "en": "I had eggs for breakfast!",
+          "vi": "Sáng nay con ăn trứng!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-034",
+      "en": "lunch",
+      "vi": "bữa trưa",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, it's lunchtime!",
+          "vi": "Yeah, tới giờ ăn trưa rồi!"
+        },
+        {
+          "en": "What did you eat for lunch?",
+          "vi": "Trưa nay con ăn gì?"
+        },
+        {
+          "en": "Wash your hands before lunch.",
+          "vi": "Rửa tay rồi ăn trưa nha con."
+        },
+        {
+          "en": "Lunch is almost ready.",
+          "vi": "Sắp có cơm trưa rồi."
+        },
+        {
+          "en": "I ate all my lunch at school!",
+          "vi": "Con ăn hết cơm trưa ở trường đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-035",
+      "en": "dinner",
+      "vi": "bữa tối",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Dinner's ready!",
+          "vi": "Ăn cơm tối thôi!"
+        },
+        {
+          "en": "What should we have for dinner?",
+          "vi": "Tối nay mình ăn gì ta?"
+        },
+        {
+          "en": "Come to the table, it's dinnertime.",
+          "vi": "Lại bàn đi con, tới giờ ăn tối rồi."
+        },
+        {
+          "en": "We eat dinner together as a family.",
+          "vi": "Cả nhà mình cùng ăn tối với nhau."
+        },
+        {
+          "en": "I helped make dinner!",
+          "vi": "Con phụ nấu bữa tối đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-036",
+      "en": "dessert",
+      "vi": "món tráng miệng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, dessert time!",
+          "vi": "Ồ, tới giờ tráng miệng!"
+        },
+        {
+          "en": "What do you want for dessert?",
+          "vi": "Con muốn tráng miệng món gì?"
+        },
+        {
+          "en": "Finish your dinner, then dessert.",
+          "vi": "Ăn xong cơm tối rồi mới ăn tráng miệng nha."
+        },
+        {
+          "en": "Dessert is a little treat.",
+          "vi": "Tráng miệng là món ăn thêm chút xíu thôi."
+        },
+        {
+          "en": "Can we have dessert now?",
+          "vi": "Mình ăn tráng miệng bây giờ được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-food-037",
+      "en": "smoothie",
+      "vi": "sinh tố",
+      "pos": "noun",
+      "emoji": "🥤",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "ipa": "/ˈsmuði/",
+      "examples": [
+        {
+          "en": "Ooh, a mango smoothie!",
+          "vi": "Ồ, sinh tố xoài!",
+          "ipa": "/u ə ˈmæŋɡoʊ ˈsmuði/"
+        },
+        {
+          "en": "Do you want a smoothie?",
+          "vi": "Con uống sinh tố không?",
+          "ipa": "/du ju wɑnt ə ˈsmuði/"
+        },
+        {
+          "en": "Let's make a smoothie together.",
+          "vi": "Mình cùng làm sinh tố nha.",
+          "ipa": "/lɛts meɪk ə ˈsmuði təˈɡɛðɚ/"
+        },
+        {
+          "en": "This smoothie is cold and thick.",
+          "vi": "Sinh tố này lạnh mà sệt sệt.",
+          "ipa": "/ðɪs ˈsmuði ɪz koʊld ənd θɪk/"
+        },
+        {
+          "en": "I want a banana smoothie!",
+          "vi": "Con muốn sinh tố chuối!",
+          "ipa": "/aɪ wɑnt ə bəˈnænə ˈsmuði/"
+        }
+      ]
+    },
+    {
+      "id": "v-food-038",
+      "en": "tea",
+      "vi": "trà",
+      "pos": "noun",
+      "emoji": "🍵",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, Grandma's tea!",
+          "vi": "Nhìn nè, trà của bà!"
+        },
+        {
+          "en": "Want to have a tea party?",
+          "vi": "Con muốn chơi tiệc trà không?"
+        },
+        {
+          "en": "Let's bring Grandpa his tea.",
+          "vi": "Mình mang trà cho ông nha."
+        },
+        {
+          "en": "This tea smells like flowers.",
+          "vi": "Trà này thơm mùi hoa."
+        },
+        {
+          "en": "I made tea for my teddy!",
+          "vi": "Con pha trà cho gấu bông nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-039",
+      "en": "hot dog",
+      "vi": "bánh mì xúc xích",
+      "pos": "noun",
+      "emoji": "🌭",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Hot dogs for lunch!",
+          "vi": "Trưa nay ăn bánh mì xúc xích!"
+        },
+        {
+          "en": "Want ketchup on your hot dog?",
+          "vi": "Con muốn thêm tương cà vô bánh mì xúc xích không?"
+        },
+        {
+          "en": "Hold your hot dog tight!",
+          "vi": "Con cầm chặt bánh mì xúc xích nha!"
+        },
+        {
+          "en": "This hot dog is really long!",
+          "vi": "Bánh mì xúc xích này dài ghê!"
+        },
+        {
+          "en": "I ate two hot dogs!",
+          "vi": "Con ăn hai cái bánh mì xúc xích luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-040",
+      "en": "burger",
+      "vi": "bánh hamburger",
+      "pos": "noun",
+      "emoji": "🍔",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big burger!",
+          "vi": "Oa, bánh hamburger bự quá!"
+        },
+        {
+          "en": "Can you eat that whole burger?",
+          "vi": "Con ăn hết nguyên cái hamburger nổi không?"
+        },
+        {
+          "en": "Use two hands for your burger.",
+          "vi": "Con cầm hamburger bằng hai tay nha."
+        },
+        {
+          "en": "This burger is so juicy.",
+          "vi": "Hamburger này ngon ngọt ghê."
+        },
+        {
+          "en": "I want a cheeseburger!",
+          "vi": "Con muốn hamburger phô mai!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-041",
+      "en": "salt",
+      "vi": "muối",
+      "pos": "noun",
+      "emoji": "🧂",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "That's salt, not sugar!",
+          "vi": "Đó là muối, không phải đường đâu!"
+        },
+        {
+          "en": "Does it need more salt?",
+          "vi": "Có cần thêm muối không ta?"
+        },
+        {
+          "en": "Just a pinch of salt, okay?",
+          "vi": "Chỉ một nhúm muối thôi nha."
+        },
+        {
+          "en": "Too much salt isn't good for you.",
+          "vi": "Ăn mặn quá không tốt đâu con."
+        },
+        {
+          "en": "I put salt in the soup!",
+          "vi": "Con bỏ muối vô canh rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-042",
+      "en": "sugar",
+      "vi": "đường",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, it's sugar!",
+          "vi": "Nhìn nè, đường đó!"
+        },
+        {
+          "en": "How much sugar should we add?",
+          "vi": "Mình bỏ bao nhiêu đường ta?"
+        },
+        {
+          "en": "Can you scoop the sugar for me?",
+          "vi": "Con xúc đường giùm nha?"
+        },
+        {
+          "en": "Sugar makes things taste sweet.",
+          "vi": "Đường làm cho đồ ăn ngọt."
+        },
+        {
+          "en": "Can I lick the sugar?",
+          "vi": "Con liếm đường được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-food-043",
+      "en": "ketchup",
+      "vi": "tương cà",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, ketchup!",
+          "vi": "Ồ, tương cà!"
+        },
+        {
+          "en": "Where's the ketchup?",
+          "vi": "Chai tương cà đâu rồi?"
+        },
+        {
+          "en": "Squeeze the ketchup gently.",
+          "vi": "Con bóp chai tương cà nhẹ nhẹ thôi."
+        },
+        {
+          "en": "Ketchup is made from tomatoes.",
+          "vi": "Tương cà làm từ cà chua đó."
+        },
+        {
+          "en": "I want ketchup on everything!",
+          "vi": "Con muốn chấm tương cà mọi thứ!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-044",
+      "en": "tofu",
+      "vi": "đậu hũ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, fried tofu!",
+          "vi": "Ưm, đậu hũ chiên!"
+        },
+        {
+          "en": "Do you want tofu or egg?",
+          "vi": "Con muốn ăn đậu hũ hay trứng?"
+        },
+        {
+          "en": "Try a little bite of tofu.",
+          "vi": "Con thử một miếng đậu hũ nhỏ nha."
+        },
+        {
+          "en": "Tofu is soft and smooth.",
+          "vi": "Đậu hũ mềm mềm, mịn mịn."
+        },
+        {
+          "en": "I like tofu with soy sauce!",
+          "vi": "Con thích đậu hũ chấm xì dầu!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-045",
+      "en": "pho",
+      "vi": "phở",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yum, pho for breakfast!",
+          "vi": "Ngon quá, sáng nay ăn phở!"
+        },
+        {
+          "en": "Beef pho or chicken pho today?",
+          "vi": "Hôm nay con ăn phở bò hay phở gà?"
+        },
+        {
+          "en": "Let's add some herbs to your pho.",
+          "vi": "Mình bỏ chút rau thơm vô phở nha."
+        },
+        {
+          "en": "The pho smells amazing.",
+          "vi": "Phở thơm quá trời."
+        },
+        {
+          "en": "I finished my whole pho!",
+          "vi": "Con ăn hết tô phở rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-046",
+      "en": "spring rolls",
+      "vi": "chả giò",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, crispy spring rolls!",
+          "vi": "Ồ, chả giò giòn rụm!"
+        },
+        {
+          "en": "How many spring rolls do you want?",
+          "vi": "Con muốn ăn mấy cuốn chả giò?"
+        },
+        {
+          "en": "Dip your spring roll in the sauce.",
+          "vi": "Con chấm chả giò vô nước mắm nha."
+        },
+        {
+          "en": "Grandma's spring rolls are the best.",
+          "vi": "Chả giò bà làm là ngon nhất."
+        },
+        {
+          "en": "Can I help roll the spring rolls?",
+          "vi": "Con phụ cuốn chả giò được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-food-047",
+      "en": "sticky rice",
+      "vi": "xôi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yum, sticky rice!",
+          "vi": "Ngon quá, xôi nè!"
+        },
+        {
+          "en": "Do you want sticky rice for breakfast?",
+          "vi": "Sáng nay con ăn xôi không?"
+        },
+        {
+          "en": "Roll the sticky rice into a ball.",
+          "vi": "Con vo xôi thành viên tròn nha."
+        },
+        {
+          "en": "Sticky rice sticks to your fingers!",
+          "vi": "Xôi dính tay ghê!"
+        },
+        {
+          "en": "I want sticky rice with peanuts!",
+          "vi": "Con muốn ăn xôi đậu phộng!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-048",
+      "en": "lollipop",
+      "vi": "kẹo mút",
+      "pos": "noun",
+      "emoji": "🍭",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a rainbow lollipop!",
+          "vi": "Oa, kẹo mút cầu vồng!"
+        },
+        {
+          "en": "What color is your lollipop?",
+          "vi": "Kẹo mút của con màu gì?"
+        },
+        {
+          "en": "Sit down while you eat your lollipop.",
+          "vi": "Con ngồi xuống rồi hãy ăn kẹo mút nha."
+        },
+        {
+          "en": "Your lollipop made your tongue blue!",
+          "vi": "Kẹo mút làm lưỡi con xanh lè luôn!"
+        },
+        {
+          "en": "Can I have a lollipop?",
+          "vi": "Con ăn kẹo mút được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-food-049",
+      "en": "pudding",
+      "vi": "bánh pudding",
+      "pos": "noun",
+      "emoji": "🍮",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, chocolate pudding!",
+          "vi": "Ồ, bánh pudding sô-cô-la!"
+        },
+        {
+          "en": "Do you want pudding after dinner?",
+          "vi": "Ăn tối xong con ăn bánh pudding không?"
+        },
+        {
+          "en": "Scoop the pudding with your spoon.",
+          "vi": "Con lấy muỗng xúc bánh pudding nha."
+        },
+        {
+          "en": "This pudding is so smooth.",
+          "vi": "Bánh pudding này mịn ghê."
+        },
+        {
+          "en": "I licked the pudding cup clean!",
+          "vi": "Con liếm sạch hũ bánh pudding luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-050",
+      "en": "cupcake",
+      "vi": "bánh cupcake",
+      "pos": "noun",
+      "emoji": "🧁",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at the pink cupcakes!",
+          "vi": "Nhìn mấy cái bánh cupcake màu hồng kìa!"
+        },
+        {
+          "en": "Which cupcake do you want?",
+          "vi": "Con muốn cái bánh cupcake nào?"
+        },
+        {
+          "en": "Let's put sprinkles on the cupcakes!",
+          "vi": "Mình rắc cốm màu lên bánh cupcake nha!"
+        },
+        {
+          "en": "This cupcake has a lot of frosting.",
+          "vi": "Bánh cupcake này nhiều kem quá."
+        },
+        {
+          "en": "I want the cupcake with the cherry!",
+          "vi": "Con muốn cái bánh có trái cherry!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-051",
+      "en": "peanut butter",
+      "vi": "bơ đậu phộng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, peanut butter!",
+          "vi": "Ưm, bơ đậu phộng!"
+        },
+        {
+          "en": "Crunchy or smooth peanut butter?",
+          "vi": "Con thích bơ đậu phộng loại có hạt hay loại mịn?"
+        },
+        {
+          "en": "Let's make a peanut butter sandwich.",
+          "vi": "Mình làm bánh mì kẹp bơ đậu phộng nha."
+        },
+        {
+          "en": "Peanut butter is thick and sticky.",
+          "vi": "Bơ đậu phộng đặc sệt và dính."
+        },
+        {
+          "en": "I love peanut butter and jam!",
+          "vi": "Con thích bơ đậu phộng với mứt!"
+        }
+      ]
+    },
+    {
+      "id": "v-food-052",
+      "en": "food",
+      "vi": "đồ ăn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, yummy food!",
+          "vi": "Ưm, đồ ăn ngon quá!"
+        },
+        {
+          "en": "What's your favorite food?",
+          "vi": "Con thích món gì nhất?"
+        },
+        {
+          "en": "Keep your food on your plate, please.",
+          "vi": "Con để đồ ăn trong đĩa nha."
+        },
+        {
+          "en": "Good food helps you grow.",
+          "vi": "Ăn uống đầy đủ giúp con mau lớn."
+        },
+        {
+          "en": "I'm done with my food!",
+          "vi": "Con ăn xong rồi!"
+        }
+      ]
+    }
+  ]
+}

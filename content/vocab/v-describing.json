@@ -1,0 +1,1680 @@
+{
+  "deckId": "v-describing",
+  "words": [
+    {
+      "id": "v-describing-001",
+      "en": "shiny",
+      "vi": "sáng bóng",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a shiny new car!",
+          "vi": "Ồ, xe mới bóng loáng!"
+        },
+        {
+          "en": "Why is it so shiny?",
+          "vi": "Sao nó bóng loáng vậy ta?"
+        },
+        {
+          "en": "Let's wipe it until it's shiny.",
+          "vi": "Mình lau cho tới khi nó bóng loáng nha."
+        },
+        {
+          "en": "Your new shoes are so shiny.",
+          "vi": "Giày mới của con bóng quá."
+        },
+        {
+          "en": "I found a shiny shell!",
+          "vi": "Con nhặt được cái vỏ sò sáng bóng!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-002",
+      "en": "sparkly",
+      "vi": "lấp lánh",
+      "pos": "adjective",
+      "emoji": "✨",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, so sparkly!",
+          "vi": "Wow, lấp lánh quá!"
+        },
+        {
+          "en": "Do you want the sparkly stickers?",
+          "vi": "Con muốn mấy cái sticker lấp lánh không?"
+        },
+        {
+          "en": "Let's add some sparkly glitter.",
+          "vi": "Mình rắc thêm kim tuyến lấp lánh nha."
+        },
+        {
+          "en": "The water looks sparkly in the sun.",
+          "vi": "Mặt nước lấp lánh dưới nắng."
+        },
+        {
+          "en": "I want my sparkly shoes!",
+          "vi": "Con muốn mang giày lấp lánh!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-003",
+      "en": "fluffy",
+      "vi": "bông xù, xốp mềm",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aww, a fluffy kitten!",
+          "vi": "Aww, con mèo con lông xù!",
+          "ipa": "/aww ə ˈflʌfi ˈkɪtən/"
+        },
+        {
+          "en": "Do you want the fluffy towel?",
+          "vi": "Con muốn cái khăn bông mềm không?"
+        },
+        {
+          "en": "Feel how fluffy this pillow is!",
+          "vi": "Sờ thử coi gối này êm xốp ghê!"
+        },
+        {
+          "en": "The clouds look so fluffy today.",
+          "vi": "Hôm nay mây trông bồng bềnh ghê."
+        },
+        {
+          "en": "My pancake is fluffy!",
+          "vi": "Bánh kếp của con xốp mềm!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-004",
+      "en": "fuzzy",
+      "vi": "có lông tơ mịn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, fuzzy socks!",
+          "vi": "Ồ, vớ lông mềm!"
+        },
+        {
+          "en": "Is the peach fuzzy?",
+          "vi": "Trái đào có lông tơ không?"
+        },
+        {
+          "en": "Touch the fuzzy caterpillar gently.",
+          "vi": "Sờ con sâu lông nhẹ nhẹ thôi nha."
+        },
+        {
+          "en": "This blanket is soft and fuzzy.",
+          "vi": "Cái mền này mềm và có lông mịn."
+        },
+        {
+          "en": "My bear is fuzzy!",
+          "vi": "Gấu của con có lông mịn!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-005",
+      "en": "furry",
+      "vi": "có lông, lông xù",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a furry puppy!",
+          "vi": "Nhìn kìa, con cún lông xù!"
+        },
+        {
+          "en": "Is the bunny furry?",
+          "vi": "Con thỏ có nhiều lông không?"
+        },
+        {
+          "en": "Pet the furry kitty slowly.",
+          "vi": "Vuốt con mèo lông xù từ từ nha."
+        },
+        {
+          "en": "Bears have thick, furry coats.",
+          "vi": "Gấu có bộ lông dày."
+        },
+        {
+          "en": "I want a furry pet!",
+          "vi": "Con muốn nuôi con vật có lông!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-006",
+      "en": "sticky",
+      "vi": "dính, nhớp nháp",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, sticky fingers!",
+          "vi": "Ui, ngón tay dính nhớp!"
+        },
+        {
+          "en": "Is the tape still sticky?",
+          "vi": "Băng keo còn dính không?"
+        },
+        {
+          "en": "Wash off the sticky juice, please.",
+          "vi": "Rửa chỗ nước trái cây dính nhớp đi con."
+        },
+        {
+          "en": "Honey is really sticky.",
+          "vi": "Mật ong dính lắm."
+        },
+        {
+          "en": "My hands are all sticky!",
+          "vi": "Tay con dính nhớp hết rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-007",
+      "en": "slimy",
+      "vi": "nhớt, trơn nhớt",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a slimy snail!",
+          "vi": "Ồ, con ốc sên nhớt nhợt!"
+        },
+        {
+          "en": "Do worms feel slimy?",
+          "vi": "Giun sờ vô có nhớt không con?"
+        },
+        {
+          "en": "Go ahead and touch it. It's slimy!",
+          "vi": "Sờ thử đi. Nhớt nhợt lắm!"
+        },
+        {
+          "en": "Frogs feel cool and slimy.",
+          "vi": "Ếch sờ vô mát và nhớt."
+        },
+        {
+          "en": "I touched a slimy fish at the aquarium!",
+          "vi": "Con sờ con cá trơn nhớt ở thủy cung!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-008",
+      "en": "squishy",
+      "vi": "mềm nhũn, bóp được",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, it's so squishy!",
+          "vi": "Ồ, mềm nhũn ghê!"
+        },
+        {
+          "en": "Do you want the squishy ball?",
+          "vi": "Con muốn trái banh bóp không?"
+        },
+        {
+          "en": "Squeeze the squishy toy!",
+          "vi": "Bóp món đồ chơi mềm đi!"
+        },
+        {
+          "en": "This banana is too squishy.",
+          "vi": "Trái chuối này nhũn quá."
+        },
+        {
+          "en": "I love squishy mud!",
+          "vi": "Con thích bùn mềm nhũn!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-009",
+      "en": "bumpy",
+      "vi": "gồ ghề, sần sùi",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, bumpy road!",
+          "vi": "Whoa, đường gồ ghề quá!"
+        },
+        {
+          "en": "Does a toad have bumpy skin?",
+          "vi": "Con cóc có da sần sùi không?"
+        },
+        {
+          "en": "Hold on, it's going to be bumpy.",
+          "vi": "Bám chặt nha, đường xóc đó."
+        },
+        {
+          "en": "This rock feels bumpy.",
+          "vi": "Cục đá này sờ sần sùi."
+        },
+        {
+          "en": "The ride was so bumpy!",
+          "vi": "Đi xe xóc quá trời!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-010",
+      "en": "slippery",
+      "vi": "trơn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, it's slippery!",
+          "vi": "Whoa, trơn quá!"
+        },
+        {
+          "en": "Is the floor slippery?",
+          "vi": "Sàn có trơn không con?"
+        },
+        {
+          "en": "Careful, the bathroom floor is slippery.",
+          "vi": "Cẩn thận, sàn nhà tắm trơn đó."
+        },
+        {
+          "en": "Soap is so slippery.",
+          "vi": "Xà bông trơn ghê."
+        },
+        {
+          "en": "The fish was too slippery to hold!",
+          "vi": "Con cá trơn quá, con cầm không được!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-011",
+      "en": "bouncy",
+      "vi": "nảy, nhún",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a bouncy ball!",
+          "vi": "Wow, trái banh nảy!"
+        },
+        {
+          "en": "Want to try the bouncy castle?",
+          "vi": "Con muốn chơi nhà hơi nhún không?"
+        },
+        {
+          "en": "Let's pick the bouncy one.",
+          "vi": "Mình chọn cái nảy nảy nha."
+        },
+        {
+          "en": "This bed is so bouncy!",
+          "vi": "Cái giường này nhún ghê!"
+        },
+        {
+          "en": "I'm bouncy like a bunny!",
+          "vi": "Con nhún nhảy như con thỏ!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-012",
+      "en": "stretchy",
+      "vi": "co giãn, dai",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "ipa": "/ˈstɹɛtʃi/",
+      "examples": [
+        {
+          "en": "Wow, this slime is so stretchy!",
+          "vi": "Wow, slime này kéo giãn dai ghê!",
+          "ipa": "/waʊ ðɪs slaɪm ɪz soʊ ˈstɹɛtʃi/"
+        },
+        {
+          "en": "Are these pants stretchy?",
+          "vi": "Quần này có co giãn không?",
+          "ipa": "/ɑɹ ðiz pænts ˈstɹɛtʃi/"
+        },
+        {
+          "en": "Pull the stretchy band, but gently.",
+          "vi": "Kéo sợi dây thun, mà nhẹ nhẹ thôi nha.",
+          "ipa": "/pʊl ðə ˈstɹɛtʃi bænd bʌt ˈdʒɛntli/"
+        },
+        {
+          "en": "Gum is chewy and stretchy.",
+          "vi": "Kẹo gum dai và kéo giãn được.",
+          "ipa": "/ɡʌm ɪz ˈtʃui ənd ˈstɹɛtʃi/"
+        },
+        {
+          "en": "I made the cheese so stretchy!",
+          "vi": "Con kéo phô mai giãn dài ghê!",
+          "ipa": "/aɪ meɪd ðə tʃiz soʊ ˈstɹɛtʃi/"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-013",
+      "en": "wobbly",
+      "vi": "lung lay, lắc lư",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, the table is wobbly!",
+          "vi": "Whoa, cái bàn lung lay!"
+        },
+        {
+          "en": "Is the tower getting wobbly?",
+          "vi": "Cái tháp bắt đầu lắc lư hả?"
+        },
+        {
+          "en": "Hold the wobbly chair for me.",
+          "vi": "Giữ cái ghế lung lay giùm mình nha."
+        },
+        {
+          "en": "The jelly is so wobbly!",
+          "vi": "Thạch rung rinh ghê!"
+        },
+        {
+          "en": "My legs feel wobbly!",
+          "vi": "Chân con run run!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-014",
+      "en": "spiky",
+      "vi": "có gai, dựng đứng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ouch, it's spiky!",
+          "vi": "Ui, gai quá!"
+        },
+        {
+          "en": "Is a cactus spiky?",
+          "vi": "Cây xương rồng có gai không?"
+        },
+        {
+          "en": "Don't touch the spiky part. Hold it here.",
+          "vi": "Đừng đụng chỗ có gai, cầm ở đây nè."
+        },
+        {
+          "en": "Hedgehogs are small and spiky.",
+          "vi": "Con nhím nhỏ và có gai."
+        },
+        {
+          "en": "I made my hair spiky!",
+          "vi": "Con vuốt tóc dựng đứng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-015",
+      "en": "prickly",
+      "vi": "có gai, châm chích",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ouch, prickly!",
+          "vi": "Ui, gai đâm!"
+        },
+        {
+          "en": "Is the pineapple prickly?",
+          "vi": "Vỏ trái thơm có gai không con?"
+        },
+        {
+          "en": "Hold the prickly leaf by the stem.",
+          "vi": "Cầm cái lá có gai ở cuống thôi nha."
+        },
+        {
+          "en": "Daddy's beard feels prickly.",
+          "vi": "Râu của ba sờ vô châm chích."
+        },
+        {
+          "en": "I touched a prickly plant and it hurt!",
+          "vi": "Con đụng cây có gai, đau quá trời!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-016",
+      "en": "pointy",
+      "vi": "nhọn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a pointy hat!",
+          "vi": "Nhìn nè, cái nón nhọn!"
+        },
+        {
+          "en": "Which end is pointy?",
+          "vi": "Đầu nào nhọn con?"
+        },
+        {
+          "en": "Hold the pointy end down.",
+          "vi": "Cầm đầu nhọn chĩa xuống nha."
+        },
+        {
+          "en": "Shark teeth are pointy.",
+          "vi": "Răng cá mập nhọn hoắt."
+        },
+        {
+          "en": "My castle has pointy towers!",
+          "vi": "Lâu đài của con có tháp nhọn!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-017",
+      "en": "round",
+      "vi": "tròn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a round ball!",
+          "vi": "Nhìn nè, trái banh tròn!"
+        },
+        {
+          "en": "Is the moon round tonight?",
+          "vi": "Tối nay trăng tròn không?"
+        },
+        {
+          "en": "Roll the dough into a round ball.",
+          "vi": "Vo bột thành viên tròn nha."
+        },
+        {
+          "en": "Oranges are round.",
+          "vi": "Trái cam tròn tròn."
+        },
+        {
+          "en": "My cookie is round!",
+          "vi": "Bánh quy của con tròn!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-018",
+      "en": "flat",
+      "vi": "phẳng, dẹp; xẹp",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, a flat tire!",
+          "vi": "Ui, bánh xe xẹp rồi!"
+        },
+        {
+          "en": "Is the paper nice and flat?",
+          "vi": "Tờ giấy phẳng chưa con?"
+        },
+        {
+          "en": "Lay your drawing flat on the table.",
+          "vi": "Để bức vẽ nằm phẳng trên bàn nha."
+        },
+        {
+          "en": "Pancakes are round and flat.",
+          "vi": "Bánh kếp tròn và dẹp."
+        },
+        {
+          "en": "I squished it flat!",
+          "vi": "Con ép nó dẹp lép!",
+          "ipa": "/aɪ skwɪʃt ɪt flæt/"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-019",
+      "en": "curly",
+      "vi": "xoăn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, curly hair!",
+          "vi": "Ồ, tóc xoăn!"
+        },
+        {
+          "en": "Is the pig's tail curly?",
+          "vi": "Đuôi heo có xoăn không?"
+        },
+        {
+          "en": "Draw a curly tail on the pig.",
+          "vi": "Vẽ cái đuôi xoăn cho con heo nha."
+        },
+        {
+          "en": "Your hair is extra curly today.",
+          "vi": "Hôm nay tóc con xoăn tít."
+        },
+        {
+          "en": "I want curly fries!",
+          "vi": "Con muốn khoai tây chiên xoắn!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-020",
+      "en": "crooked",
+      "vi": "lệch, cong queo",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oops, the picture is crooked!",
+          "vi": "Ui, bức tranh treo bị lệch rồi!"
+        },
+        {
+          "en": "Is my hat crooked?",
+          "vi": "Nón của mình bị lệch hả?"
+        },
+        {
+          "en": "Fix your crooked collar, sweetie.",
+          "vi": "Sửa lại cổ áo bị lệch nha con."
+        },
+        {
+          "en": "That old tree has a crooked trunk.",
+          "vi": "Cây già đó có thân cong queo."
+        },
+        {
+          "en": "My line came out crooked.",
+          "vi": "Đường kẻ của con bị cong rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-describing-021",
+      "en": "hollow",
+      "vi": "rỗng (bên trong)",
+      "pos": "adjective",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, this tree is hollow inside!",
+          "vi": "Whoa, cây này rỗng ruột!"
+        },
+        {
+          "en": "Is the chocolate egg hollow?",
+          "vi": "Trứng sô cô la rỗng bên trong hả?"
+        },
+        {
+          "en": "Knock on the box to hear if it's hollow.",
+          "vi": "Gõ thử cái hộp nghe coi nó có rỗng không."
+        },
+        {
+          "en": "Owls sometimes sleep inside hollow trees.",
+          "vi": "Cú đôi khi ngủ trong những thân cây rỗng."
+        },
+        {
+          "en": "I think the wall sounds hollow right here.",
+          "vi": "Con nghĩ chỗ này của bức tường nghe rỗng rỗng."
+        }
+      ]
+    },
+    {
+      "id": "v-describing-022",
+      "en": "lumpy",
+      "vi": "vón cục, lồi lõm",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, lumpy oatmeal!",
+          "vi": "Ui, cháo yến mạch bị vón cục!"
+        },
+        {
+          "en": "Is your pillow lumpy?",
+          "vi": "Cái gối của con bị cộm hả?"
+        },
+        {
+          "en": "Stir the batter so it isn't lumpy.",
+          "vi": "Khuấy bột cho đều để không bị vón cục nha."
+        },
+        {
+          "en": "This old mattress feels lumpy.",
+          "vi": "Cái nệm cũ này nằm cộm cộm."
+        },
+        {
+          "en": "My clay snowman came out lumpy.",
+          "vi": "Người tuyết bằng đất sét của con bị lồi lõm."
+        }
+      ]
+    },
+    {
+      "id": "v-describing-023",
+      "en": "gooey",
+      "vi": "nhão, chảy dẻo",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, gooey cheese!",
+          "vi": "Ồ, phô mai chảy dẻo quá!"
+        },
+        {
+          "en": "Is the cookie still warm and gooey?",
+          "vi": "Bánh quy còn ấm và mềm dẻo không?"
+        },
+        {
+          "en": "Wipe off the gooey glue, please.",
+          "vi": "Lau chỗ keo nhão đi con."
+        },
+        {
+          "en": "Melted marshmallows are so gooey.",
+          "vi": "Kẹo dẻo nướng chảy nhão ghê."
+        },
+        {
+          "en": "I got gooey slime on my shirt!",
+          "vi": "Áo con dính slime nhão nhoét rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-024",
+      "en": "soggy",
+      "vi": "mềm nhũn (vì ướt)",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, soggy cereal!",
+          "vi": "Ui, ngũ cốc bị mềm nhũn!"
+        },
+        {
+          "en": "Is your sandwich soggy?",
+          "vi": "Bánh mì của con bị ướt nhũn hả?"
+        },
+        {
+          "en": "Eat your cereal before it gets soggy.",
+          "vi": "Ăn ngũ cốc đi kẻo nó mềm nhũn."
+        },
+        {
+          "en": "The paper got soggy in the rain.",
+          "vi": "Tờ giấy bị ướt nhũn vì mưa."
+        },
+        {
+          "en": "I don't like soggy fries.",
+          "vi": "Con không thích khoai chiên bị mềm."
+        }
+      ]
+    },
+    {
+      "id": "v-describing-025",
+      "en": "dusty",
+      "vi": "đầy bụi",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, this shelf is dusty!",
+          "vi": "Ồ, cái kệ này bụi quá!"
+        },
+        {
+          "en": "Why is your bike so dusty?",
+          "vi": "Sao xe đạp con bụi bặm vậy?"
+        },
+        {
+          "en": "Wipe the dusty table with a cloth.",
+          "vi": "Lấy khăn lau cái bàn đầy bụi nha."
+        },
+        {
+          "en": "The old books in the attic are dusty.",
+          "vi": "Mấy cuốn sách cũ trên gác bụi bặm lắm."
+        },
+        {
+          "en": "My shoes got dusty at the playground.",
+          "vi": "Giày con dính bụi ở sân chơi."
+        }
+      ]
+    },
+    {
+      "id": "v-describing-026",
+      "en": "glowing",
+      "vi": "phát sáng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a glowing firefly!",
+          "vi": "Nhìn kìa, con đom đóm phát sáng!"
+        },
+        {
+          "en": "Do you want glowing stars on your ceiling?",
+          "vi": "Con muốn dán sao dạ quang lên trần nhà không?"
+        },
+        {
+          "en": "Turn off the light and see what's glowing.",
+          "vi": "Tắt đèn đi rồi coi cái gì phát sáng nè."
+        },
+        {
+          "en": "The moon is glowing so bright tonight.",
+          "vi": "Tối nay trăng sáng rực ghê."
+        },
+        {
+          "en": "My bracelet was glowing in the dark!",
+          "vi": "Vòng tay của con phát sáng trong bóng tối!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-027",
+      "en": "colorful",
+      "vi": "nhiều màu sắc, sặc sỡ",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, so colorful!",
+          "vi": "Wow, nhiều màu sắc quá!"
+        },
+        {
+          "en": "Do you want the colorful straws?",
+          "vi": "Con muốn mấy ống hút nhiều màu không?"
+        },
+        {
+          "en": "Let's make a colorful card for Grandma.",
+          "vi": "Mình làm tấm thiệp nhiều màu tặng bà nha."
+        },
+        {
+          "en": "Your painting is so colorful!",
+          "vi": "Tranh của con rực rỡ ghê!"
+        },
+        {
+          "en": "I like colorful fish!",
+          "vi": "Con thích cá nhiều màu!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-028",
+      "en": "beautiful",
+      "vi": "đẹp",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a beautiful sunset!",
+          "vi": "Wow, hoàng hôn đẹp quá!"
+        },
+        {
+          "en": "Isn't that beautiful?",
+          "vi": "Đẹp ghê ha?"
+        },
+        {
+          "en": "Look at the beautiful flowers over there.",
+          "vi": "Nhìn mấy bông hoa đẹp đằng kia kìa."
+        },
+        {
+          "en": "You did a beautiful job cleaning up.",
+          "vi": "Con dọn dẹp giỏi quá."
+        },
+        {
+          "en": "I think the ocean is beautiful.",
+          "vi": "Con thấy biển đẹp lắm."
+        }
+      ]
+    },
+    {
+      "id": "v-describing-029",
+      "en": "pretty",
+      "vi": "xinh, đẹp",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, pretty flowers!",
+          "vi": "Ồ, hoa đẹp quá!"
+        },
+        {
+          "en": "Do you want a pretty clip?",
+          "vi": "Con muốn cái kẹp tóc xinh không?"
+        },
+        {
+          "en": "Let's pick a pretty card.",
+          "vi": "Mình chọn tấm thiệp xinh nha."
+        },
+        {
+          "en": "That's a pretty dress.",
+          "vi": "Cái đầm đó xinh ghê."
+        },
+        {
+          "en": "My picture is pretty!",
+          "vi": "Tranh của con đẹp nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-030",
+      "en": "cute",
+      "vi": "dễ thương",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aww, so cute!",
+          "vi": "Aww, dễ thương quá!",
+          "ipa": "/aww soʊ kjut/"
+        },
+        {
+          "en": "Isn't the puppy cute?",
+          "vi": "Con cún dễ thương ghê ha?"
+        },
+        {
+          "en": "Make a cute face for the photo!",
+          "vi": "Làm mặt dễ thương để chụp hình nè!"
+        },
+        {
+          "en": "Baby ducks are so cute.",
+          "vi": "Vịt con dễ thương lắm."
+        },
+        {
+          "en": "My bunny is cute!",
+          "vi": "Con thỏ của con dễ thương!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-031",
+      "en": "funny",
+      "vi": "buồn cười, vui",
+      "pos": "adjective",
+      "emoji": "😂",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "That's so funny!",
+          "vi": "Mắc cười quá!"
+        },
+        {
+          "en": "Did you hear the funny joke?",
+          "vi": "Con nghe câu chuyện cười đó chưa?"
+        },
+        {
+          "en": "Make a funny face!",
+          "vi": "Làm mặt hề đi!"
+        },
+        {
+          "en": "That clown looks so funny.",
+          "vi": "Chú hề đó nhìn mắc cười ghê."
+        },
+        {
+          "en": "Daddy is funny!",
+          "vi": "Ba vui tính ghê!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-032",
+      "en": "heavy",
+      "vi": "nặng",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, this bag is heavy!",
+          "vi": "Whoa, cái túi này nặng quá!"
+        },
+        {
+          "en": "Is it too heavy for you?",
+          "vi": "Nó nặng quá với con hả?"
+        },
+        {
+          "en": "Let's carry the heavy box together.",
+          "vi": "Mình cùng khiêng cái thùng nặng nha."
+        },
+        {
+          "en": "Rocks are really heavy.",
+          "vi": "Đá nặng lắm đó."
+        },
+        {
+          "en": "I can lift heavy things!",
+          "vi": "Con nhấc được đồ nặng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-033",
+      "en": "giant",
+      "vi": "khổng lồ",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, a giant pumpkin!",
+          "vi": "Whoa, trái bí ngô khổng lồ!"
+        },
+        {
+          "en": "Do you want a giant cookie?",
+          "vi": "Con muốn cái bánh quy khổng lồ không?"
+        },
+        {
+          "en": "Take giant steps, like a dinosaur!",
+          "vi": "Bước thật dài như khủng long nè!"
+        },
+        {
+          "en": "That's a giant tree.",
+          "vi": "Cái cây đó to khổng lồ."
+        },
+        {
+          "en": "I drew a giant dinosaur!",
+          "vi": "Con vẽ con khủng long khổng lồ!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-034",
+      "en": "noisy",
+      "vi": "ồn ào",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, it's noisy in here!",
+          "vi": "Wow, trong này ồn quá!"
+        },
+        {
+          "en": "Why is the street so noisy?",
+          "vi": "Sao ngoài đường ồn vậy?"
+        },
+        {
+          "en": "Let's play quietly. It's getting noisy.",
+          "vi": "Mình chơi nhỏ tiếng thôi nha, ồn quá rồi."
+        },
+        {
+          "en": "The birds are so noisy this morning.",
+          "vi": "Sáng nay chim kêu ồn ghê."
+        },
+        {
+          "en": "My class was really noisy today.",
+          "vi": "Hôm nay lớp con ồn quá trời."
+        }
+      ]
+    },
+    {
+      "id": "v-describing-035",
+      "en": "stinky",
+      "vi": "hôi",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oh, stinky socks!",
+          "vi": "Ôi, vớ hôi quá!"
+        },
+        {
+          "en": "Is that a stinky diaper?",
+          "vi": "Tã dơ có mùi rồi hả?"
+        },
+        {
+          "en": "Put your stinky shoes outside.",
+          "vi": "Để đôi giày hôi ra ngoài nha."
+        },
+        {
+          "en": "The trash is getting stinky.",
+          "vi": "Thùng rác bắt đầu hôi rồi."
+        },
+        {
+          "en": "My feet are stinky!",
+          "vi": "Chân con hôi rình!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-036",
+      "en": "gentle",
+      "vi": "nhẹ nhàng, dịu dàng",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aww, so gentle!",
+          "vi": "Aww, nhẹ nhàng ghê!",
+          "ipa": "/aww soʊ ˈdʒɛntəl/"
+        },
+        {
+          "en": "Can you be gentle with the baby?",
+          "vi": "Con nhẹ nhàng với em bé được không?"
+        },
+        {
+          "en": "Use gentle hands with the kitty.",
+          "vi": "Nhẹ tay với con mèo nha."
+        },
+        {
+          "en": "You're such a gentle big sister.",
+          "vi": "Con là chị hai dịu dàng ghê."
+        },
+        {
+          "en": "I was gentle with the puppy!",
+          "vi": "Con nhẹ nhàng với cún con mà!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-037",
+      "en": "careful",
+      "vi": "cẩn thận",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Careful!",
+          "vi": "Cẩn thận!"
+        },
+        {
+          "en": "Can you be careful with the glass?",
+          "vi": "Con cẩn thận với cái ly thủy tinh được không?"
+        },
+        {
+          "en": "Be careful on the stairs.",
+          "vi": "Đi cầu thang cẩn thận nha."
+        },
+        {
+          "en": "You were so careful with the eggs.",
+          "vi": "Con cầm trứng cẩn thận ghê."
+        },
+        {
+          "en": "I'll be careful, I promise!",
+          "vi": "Con sẽ cẩn thận, con hứa!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-038",
+      "en": "messy",
+      "vi": "bừa bộn, lem luốc",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, messy hands!",
+          "vi": "Whoa, tay lem luốc hết rồi!"
+        },
+        {
+          "en": "Is your room messy?",
+          "vi": "Phòng con bừa không?"
+        },
+        {
+          "en": "Let's clean up this messy table.",
+          "vi": "Mình dọn cái bàn bừa bộn này nha."
+        },
+        {
+          "en": "Painting is messy, but so fun!",
+          "vi": "Vẽ màu thì lem luốc mà vui lắm!"
+        },
+        {
+          "en": "My hair is messy!",
+          "vi": "Tóc con rối nùi!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-039",
+      "en": "tidy",
+      "vi": "gọn gàng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, your room is so tidy!",
+          "vi": "Wow, phòng con gọn gàng quá!"
+        },
+        {
+          "en": "Can you keep your desk tidy?",
+          "vi": "Con giữ bàn học gọn gàng được không?"
+        },
+        {
+          "en": "Let's tidy up before dinner.",
+          "vi": "Mình dọn dẹp gọn gàng trước bữa tối nha."
+        },
+        {
+          "en": "A tidy room makes it easy to find things.",
+          "vi": "Phòng gọn gàng thì dễ tìm đồ."
+        },
+        {
+          "en": "I made my bed nice and tidy!",
+          "vi": "Con tự dọn giường gọn gàng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-040",
+      "en": "busy",
+      "vi": "bận rộn; đông đúc",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're busy!",
+          "vi": "Wow, con bận rộn ghê!"
+        },
+        {
+          "en": "Are you busy right now?",
+          "vi": "Giờ con có bận không?"
+        },
+        {
+          "en": "Keep busy while I cook, okay?",
+          "vi": "Con chơi gì đó trong lúc mình nấu ăn nha."
+        },
+        {
+          "en": "The store is really busy today.",
+          "vi": "Hôm nay cửa hàng đông quá."
+        },
+        {
+          "en": "I'm busy building my castle!",
+          "vi": "Con đang bận xây lâu đài!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-041",
+      "en": "tangled",
+      "vi": "rối",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, your hair is all tangled!",
+          "vi": "Ui, tóc con rối hết rồi!"
+        },
+        {
+          "en": "Are your headphones tangled again?",
+          "vi": "Tai nghe của con lại rối nữa hả?"
+        },
+        {
+          "en": "Hold still while I brush out the tangled part.",
+          "vi": "Ngồi yên để mình chải chỗ tóc rối nha."
+        },
+        {
+          "en": "The kite string got tangled in the tree.",
+          "vi": "Dây diều bị vướng rối trên cây."
+        },
+        {
+          "en": "My necklace is tangled. Can you help me?",
+          "vi": "Dây chuyền của con bị rối. Giúp con với?"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-042",
+      "en": "fancy",
+      "vi": "sang trọng, cầu kỳ",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, fancy!",
+          "vi": "Ồ, sang trọng ghê!"
+        },
+        {
+          "en": "Do you want to wear something fancy?",
+          "vi": "Con muốn mặc đồ thật đẹp không?"
+        },
+        {
+          "en": "Let's set a fancy table for Grandma.",
+          "vi": "Mình bày bàn ăn thật đẹp đón bà nha."
+        },
+        {
+          "en": "That's a fancy cake with lots of flowers.",
+          "vi": "Cái bánh đó cầu kỳ, có nhiều hoa."
+        },
+        {
+          "en": "I wore my fancy dress to the party.",
+          "vi": "Con mặc đầm đẹp đi dự tiệc."
+        }
+      ]
+    },
+    {
+      "id": "v-describing-043",
+      "en": "wild",
+      "vi": "hoang dã; tung tóe",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, wild horses!",
+          "vi": "Wow, ngựa hoang!"
+        },
+        {
+          "en": "Do wild animals live in the forest?",
+          "vi": "Thú hoang sống trong rừng hả con?"
+        },
+        {
+          "en": "Let's just watch the wild birds.",
+          "vi": "Mình chỉ đứng ngắm chim hoang dã thôi nha."
+        },
+        {
+          "en": "Your hair looks wild this morning!",
+          "vi": "Sáng nay tóc con dựng tứ tung!"
+        },
+        {
+          "en": "We saw wild monkeys on our trip!",
+          "vi": "Tụi con thấy khỉ hoang trong chuyến đi!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-044",
+      "en": "amazing",
+      "vi": "tuyệt, kỳ diệu",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that's amazing!",
+          "vi": "Wow, tuyệt quá!"
+        },
+        {
+          "en": "Wasn't the show amazing?",
+          "vi": "Buổi biểu diễn tuyệt ghê ha?"
+        },
+        {
+          "en": "Come look at this amazing bug!",
+          "vi": "Lại xem con bọ hay ghê nè!"
+        },
+        {
+          "en": "You did an amazing job today.",
+          "vi": "Hôm nay con làm tuyệt lắm."
+        },
+        {
+          "en": "The fireworks were amazing!",
+          "vi": "Pháo hoa đẹp tuyệt!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-045",
+      "en": "awesome",
+      "vi": "tuyệt vời, đã",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Awesome!",
+          "vi": "Tuyệt vời!"
+        },
+        {
+          "en": "Want to see something awesome?",
+          "vi": "Con muốn xem cái này hay lắm không?"
+        },
+        {
+          "en": "Show Daddy your awesome drawing.",
+          "vi": "Cho ba xem bức vẽ tuyệt vời của con đi."
+        },
+        {
+          "en": "That slide is awesome!",
+          "vi": "Cầu tuột đó đã ghê!"
+        },
+        {
+          "en": "I had an awesome day!",
+          "vi": "Hôm nay con vui lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-046",
+      "en": "wonderful",
+      "vi": "tuyệt vời",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a wonderful surprise!",
+          "vi": "Bất ngờ tuyệt quá!"
+        },
+        {
+          "en": "Wasn't the beach wonderful?",
+          "vi": "Đi biển vui tuyệt ha?"
+        },
+        {
+          "en": "Have a wonderful day at school!",
+          "vi": "Chúc con một ngày vui ở trường nha!"
+        },
+        {
+          "en": "You're a wonderful helper.",
+          "vi": "Con là người phụ giúp tuyệt vời."
+        },
+        {
+          "en": "Grandma's soup was wonderful!",
+          "vi": "Canh của bà ngon tuyệt!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-047",
+      "en": "perfect",
+      "vi": "hoàn hảo, vừa đẹp",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Perfect!",
+          "vi": "Quá chuẩn!"
+        },
+        {
+          "en": "Is this spot perfect for our picnic?",
+          "vi": "Chỗ này hợp để mình picnic không?"
+        },
+        {
+          "en": "It doesn't have to be perfect, just try.",
+          "vi": "Không cần phải hoàn hảo, cứ thử đi."
+        },
+        {
+          "en": "The water is perfect, not too hot.",
+          "vi": "Nước vừa đẹp, không nóng quá."
+        },
+        {
+          "en": "My tower is perfect!",
+          "vi": "Cái tháp của con hoàn hảo luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-048",
+      "en": "special",
+      "vi": "đặc biệt",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a special treat!",
+          "vi": "Ồ, có món đặc biệt nè!"
+        },
+        {
+          "en": "What makes today special?",
+          "vi": "Hôm nay có gì đặc biệt vậy?"
+        },
+        {
+          "en": "Keep this special card safe.",
+          "vi": "Giữ tấm thiệp đặc biệt này cẩn thận nha."
+        },
+        {
+          "en": "You're so special to us.",
+          "vi": "Con rất đặc biệt với cả nhà."
+        },
+        {
+          "en": "Today is special because it's my birthday!",
+          "vi": "Hôm nay đặc biệt vì là sinh nhật con!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-049",
+      "en": "favorite",
+      "vi": "yêu thích nhất",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oh, your favorite!",
+          "vi": "Ồ, món con thích nhất nè!"
+        },
+        {
+          "en": "What's your favorite color?",
+          "vi": "Con thích màu gì nhất?"
+        },
+        {
+          "en": "Pick your favorite book.",
+          "vi": "Chọn cuốn sách con thích nhất đi."
+        },
+        {
+          "en": "This song is my favorite too.",
+          "vi": "Bài này mình cũng thích nhất."
+        },
+        {
+          "en": "Pizza is my favorite!",
+          "vi": "Con thích pizza nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-050",
+      "en": "important",
+      "vi": "quan trọng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "This is important, so listen.",
+          "vi": "Cái này quan trọng nè, nghe nha."
+        },
+        {
+          "en": "Why is it important to wash your hands?",
+          "vi": "Sao rửa tay lại quan trọng vậy con?"
+        },
+        {
+          "en": "Keep important papers in this folder.",
+          "vi": "Để giấy tờ quan trọng trong bìa này nha."
+        },
+        {
+          "en": "Sleep is really important for growing.",
+          "vi": "Ngủ đủ rất quan trọng để lớn."
+        },
+        {
+          "en": "I think being kind is the most important thing.",
+          "vi": "Con nghĩ tử tế là điều quan trọng nhất."
+        }
+      ]
+    },
+    {
+      "id": "v-describing-051",
+      "en": "useful",
+      "vi": "có ích, hữu ích",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, that's useful!",
+          "vi": "Ồ, cái đó có ích ghê!"
+        },
+        {
+          "en": "Is this box still useful?",
+          "vi": "Cái hộp này còn dùng được không?"
+        },
+        {
+          "en": "Bring something useful for the trip.",
+          "vi": "Mang theo đồ gì cần thiết cho chuyến đi nha."
+        },
+        {
+          "en": "A flashlight is useful when it's dark.",
+          "vi": "Đèn pin có ích khi trời tối."
+        },
+        {
+          "en": "I learned a useful trick today!",
+          "vi": "Hôm nay con học được một mẹo hay!"
+        }
+      ]
+    },
+    {
+      "id": "v-describing-052",
+      "en": "strange",
+      "vi": "lạ",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hmm, that's strange!",
+          "vi": "Hừm, lạ ghê!"
+        },
+        {
+          "en": "Did you hear that strange noise?",
+          "vi": "Con có nghe tiếng động lạ đó không?"
+        },
+        {
+          "en": "Tell me if anything feels strange.",
+          "vi": "Thấy có gì lạ thì nói mình nghe nha."
+        },
+        {
+          "en": "This fruit looks strange, but it's tasty.",
+          "vi": "Trái này nhìn lạ mà ăn ngon lắm."
+        },
+        {
+          "en": "I had a strange dream last night.",
+          "vi": "Tối qua con mơ một giấc lạ lắm."
+        }
+      ]
+    }
+  ]
+}

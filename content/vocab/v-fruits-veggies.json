@@ -1,0 +1,1731 @@
+{
+  "deckId": "v-fruits-veggies",
+  "words": [
+    {
+      "id": "v-fruits-veggies-001",
+      "en": "apple",
+      "vi": "trái táo",
+      "pos": "noun",
+      "emoji": "🍎",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a red apple!",
+          "vi": "Nhìn nè, trái táo đỏ!"
+        },
+        {
+          "en": "Do you want an apple?",
+          "vi": "Con ăn táo không?"
+        },
+        {
+          "en": "Take a big bite of apple!",
+          "vi": "Con cắn một miếng táo thật to đi!"
+        },
+        {
+          "en": "This apple is sweet and juicy.",
+          "vi": "Trái táo này ngọt mà nhiều nước."
+        },
+        {
+          "en": "I want a green apple!",
+          "vi": "Con muốn trái táo xanh!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-002",
+      "en": "banana",
+      "vi": "trái chuối",
+      "pos": "noun",
+      "emoji": "🍌",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a banana!",
+          "vi": "Ồ, trái chuối!"
+        },
+        {
+          "en": "Can you peel your banana?",
+          "vi": "Con tự lột vỏ chuối được không?"
+        },
+        {
+          "en": "Here, hold your banana like this.",
+          "vi": "Nè, con cầm trái chuối vầy nè."
+        },
+        {
+          "en": "This banana is nice and yellow.",
+          "vi": "Trái chuối này vàng ươm nè."
+        },
+        {
+          "en": "Monkeys love bananas, and so do I!",
+          "vi": "Khỉ thích chuối, con cũng thích!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-003",
+      "en": "mango",
+      "vi": "trái xoài",
+      "pos": "noun",
+      "emoji": "🥭",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yum, mango!",
+          "vi": "Ngon quá, xoài nè!"
+        },
+        {
+          "en": "Do you want a slice of mango?",
+          "vi": "Con ăn một miếng xoài không?"
+        },
+        {
+          "en": "Let's cut the mango together.",
+          "vi": "Mình cùng cắt xoài nha."
+        },
+        {
+          "en": "This mango is so sweet!",
+          "vi": "Xoài này ngọt quá trời!"
+        },
+        {
+          "en": "I got mango juice on my chin!",
+          "vi": "Nước xoài dính lên cằm con rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-004",
+      "en": "watermelon",
+      "vi": "trái dưa hấu",
+      "pos": "noun",
+      "emoji": "🍉",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big watermelon!",
+          "vi": "Oa, trái dưa hấu bự quá!"
+        },
+        {
+          "en": "Is watermelon red or green inside?",
+          "vi": "Bên trong dưa hấu màu đỏ hay xanh?"
+        },
+        {
+          "en": "Spit out the watermelon seeds, okay?",
+          "vi": "Con nhả hột dưa hấu ra nha."
+        },
+        {
+          "en": "Watermelon is so juicy and cold.",
+          "vi": "Dưa hấu mọng nước, mát lạnh."
+        },
+        {
+          "en": "I ate three slices of watermelon!",
+          "vi": "Con ăn ba miếng dưa hấu luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-005",
+      "en": "grapes",
+      "vi": "trái nho",
+      "pos": "noun",
+      "emoji": "🍇",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, purple grapes!",
+          "vi": "Nhìn nè, nho tím!"
+        },
+        {
+          "en": "How many grapes do you want?",
+          "vi": "Con muốn ăn mấy trái nho?"
+        },
+        {
+          "en": "Let's wash the grapes first.",
+          "vi": "Mình rửa nho trước nha."
+        },
+        {
+          "en": "These grapes are so sweet.",
+          "vi": "Nho này ngọt ghê."
+        },
+        {
+          "en": "I can eat ten grapes!",
+          "vi": "Con ăn được mười trái nho!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-006",
+      "en": "strawberry",
+      "vi": "trái dâu",
+      "pos": "noun",
+      "emoji": "🍓",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a big strawberry!",
+          "vi": "Ồ, trái dâu bự quá!"
+        },
+        {
+          "en": "Do you like strawberries?",
+          "vi": "Con thích dâu không?"
+        },
+        {
+          "en": "Pick the reddest strawberry.",
+          "vi": "Con chọn trái dâu đỏ nhất nha."
+        },
+        {
+          "en": "Strawberries have tiny seeds outside.",
+          "vi": "Trái dâu có hột nhỏ xíu ở bên ngoài."
+        },
+        {
+          "en": "I want more strawberries!",
+          "vi": "Con muốn thêm dâu!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-007",
+      "en": "pineapple",
+      "vi": "trái thơm",
+      "pos": "noun",
+      "emoji": "🍍",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a spiky pineapple!",
+          "vi": "Nhìn nè, trái thơm có gai!"
+        },
+        {
+          "en": "Have you tried pineapple?",
+          "vi": "Con ăn thơm chưa?"
+        },
+        {
+          "en": "Smell the pineapple. Mm!",
+          "vi": "Con ngửi trái thơm nè. Thơm ghê!"
+        },
+        {
+          "en": "Pineapple is sweet and a little sour.",
+          "vi": "Thơm ngọt mà hơi chua chua."
+        },
+        {
+          "en": "Pineapple makes my tongue tingle!",
+          "vi": "Ăn thơm con thấy rát lưỡi!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-008",
+      "en": "papaya",
+      "vi": "trái đu đủ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, orange papaya!",
+          "vi": "Ồ, đu đủ màu cam!"
+        },
+        {
+          "en": "Do you want some papaya?",
+          "vi": "Con ăn đu đủ không?"
+        },
+        {
+          "en": "Scoop out the papaya seeds.",
+          "vi": "Con múc hột đu đủ ra nha."
+        },
+        {
+          "en": "Papaya is soft and sweet.",
+          "vi": "Đu đủ mềm mà ngọt."
+        },
+        {
+          "en": "Grandma grows papaya in her yard!",
+          "vi": "Bà trồng đu đủ ở sân nhà đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-009",
+      "en": "dragon fruit",
+      "vi": "trái thanh long",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a pink dragon fruit!",
+          "vi": "Oa, trái thanh long màu hồng!"
+        },
+        {
+          "en": "What color is dragon fruit inside?",
+          "vi": "Bên trong thanh long màu gì ta?"
+        },
+        {
+          "en": "Let's cut the dragon fruit open.",
+          "vi": "Mình bổ trái thanh long ra nha."
+        },
+        {
+          "en": "Dragon fruit has tiny black seeds.",
+          "vi": "Thanh long có hột đen li ti."
+        },
+        {
+          "en": "Dragon fruit is my favorite!",
+          "vi": "Con thích thanh long nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-010",
+      "en": "durian",
+      "vi": "trái sầu riêng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "ipa": "/ˈdʊɹiən/",
+      "examples": [
+        {
+          "en": "Whoa, durian! It's so smelly!",
+          "vi": "Ui, sầu riêng! Mùi nồng quá!",
+          "ipa": "/woʊ ˈdʊɹiən ɪts soʊ ˈsmɛli/"
+        },
+        {
+          "en": "Do you like durian?",
+          "vi": "Con thích sầu riêng không?",
+          "ipa": "/du ju laɪk ˈdʊɹiən/"
+        },
+        {
+          "en": "Careful, durian is spiky outside.",
+          "vi": "Cẩn thận, sầu riêng có gai đó.",
+          "ipa": "/ˈkɛɹfəl ˈdʊɹiən ɪz ˈspaɪki ˈaʊtˈsaɪd/"
+        },
+        {
+          "en": "Durian smells strong but tastes sweet.",
+          "vi": "Sầu riêng mùi nồng mà ăn ngọt.",
+          "ipa": "/ˈdʊɹiən smɛlz stɹɔŋ bʌt teɪsts swit/"
+        },
+        {
+          "en": "Daddy loves durian, but I don't!",
+          "vi": "Ba mê sầu riêng, mà con thì không!",
+          "ipa": "/ˈdædi lʌvz ˈdʊɹiən bʌt aɪ doʊnt/"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-011",
+      "en": "coconut",
+      "vi": "trái dừa",
+      "pos": "noun",
+      "emoji": "🥥",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a coconut!",
+          "vi": "Nhìn nè, trái dừa!"
+        },
+        {
+          "en": "Do you want coconut water?",
+          "vi": "Con uống nước dừa không?"
+        },
+        {
+          "en": "Let's shake the coconut and listen.",
+          "vi": "Mình lắc trái dừa nghe thử nha."
+        },
+        {
+          "en": "Coconuts are hard on the outside.",
+          "vi": "Trái dừa bên ngoài cứng lắm."
+        },
+        {
+          "en": "I drank a whole coconut!",
+          "vi": "Con uống hết nguyên trái dừa!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-012",
+      "en": "lemon",
+      "vi": "trái chanh vàng",
+      "pos": "noun",
+      "emoji": "🍋",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a yellow lemon!",
+          "vi": "Ồ, trái chanh vàng!"
+        },
+        {
+          "en": "Want to taste the lemon?",
+          "vi": "Con muốn nếm thử chanh không?"
+        },
+        {
+          "en": "Squeeze the lemon really hard!",
+          "vi": "Con vắt chanh thật mạnh vào!"
+        },
+        {
+          "en": "Lemons are super sour!",
+          "vi": "Chanh chua lè luôn!"
+        },
+        {
+          "en": "I like lemon in my water!",
+          "vi": "Con thích bỏ chanh vô nước uống!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-013",
+      "en": "pear",
+      "vi": "trái lê",
+      "pos": "noun",
+      "emoji": "🍐",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a green pear!",
+          "vi": "Nhìn nè, trái lê xanh!"
+        },
+        {
+          "en": "Do you want apple or pear?",
+          "vi": "Con muốn ăn táo hay lê?"
+        },
+        {
+          "en": "Let's cut the pear into slices.",
+          "vi": "Mình cắt trái lê thành từng lát nha."
+        },
+        {
+          "en": "This pear is soft and juicy.",
+          "vi": "Trái lê này mềm, nhiều nước."
+        },
+        {
+          "en": "I ate the whole pear!",
+          "vi": "Con ăn hết nguyên trái lê!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-014",
+      "en": "peach",
+      "vi": "trái đào",
+      "pos": "noun",
+      "emoji": "🍑",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Mm, a fuzzy peach!",
+          "vi": "Ưm, trái đào có lông tơ!"
+        },
+        {
+          "en": "Is the peach soft yet?",
+          "vi": "Trái đào mềm chưa con?"
+        },
+        {
+          "en": "Wash the peach before you eat it.",
+          "vi": "Rửa trái đào rồi hãy ăn nha."
+        },
+        {
+          "en": "This peach smells so sweet.",
+          "vi": "Trái đào này thơm ngọt ghê."
+        },
+        {
+          "en": "Peaches are my favorite!",
+          "vi": "Con thích đào nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-015",
+      "en": "cherry",
+      "vi": "trái cherry",
+      "pos": "noun",
+      "emoji": "🍒",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, two cherries!",
+          "vi": "Nhìn nè, hai trái cherry!"
+        },
+        {
+          "en": "Do you want a cherry on top?",
+          "vi": "Con muốn để trái cherry lên trên không?"
+        },
+        {
+          "en": "Watch out for the cherry pit.",
+          "vi": "Coi chừng hột cherry nha."
+        },
+        {
+          "en": "Cherries are small and red.",
+          "vi": "Trái cherry nhỏ nhỏ, màu đỏ."
+        },
+        {
+          "en": "I found the biggest cherry!",
+          "vi": "Con tìm được trái cherry bự nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-016",
+      "en": "blueberries",
+      "vi": "trái việt quất",
+      "pos": "noun",
+      "emoji": "🫐",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, blueberries!",
+          "vi": "Ồ, việt quất!"
+        },
+        {
+          "en": "How many blueberries can you eat?",
+          "vi": "Con ăn được mấy trái việt quất?"
+        },
+        {
+          "en": "Count the blueberries with me!",
+          "vi": "Đếm việt quất với mình nha!"
+        },
+        {
+          "en": "Blueberries are tiny and round.",
+          "vi": "Việt quất nhỏ xíu, tròn tròn."
+        },
+        {
+          "en": "Blueberries made my lips purple!",
+          "vi": "Việt quất làm môi con tím luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-017",
+      "en": "kiwi",
+      "vi": "trái kiwi",
+      "pos": "noun",
+      "emoji": "🥝",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a fuzzy kiwi!",
+          "vi": "Nhìn nè, trái kiwi có lông!"
+        },
+        {
+          "en": "What color is a kiwi inside?",
+          "vi": "Bên trong trái kiwi màu gì?"
+        },
+        {
+          "en": "Let's scoop the kiwi with a spoon.",
+          "vi": "Mình lấy muỗng múc kiwi ăn nha."
+        },
+        {
+          "en": "Kiwi is green and a little sour.",
+          "vi": "Kiwi màu xanh, hơi chua chua."
+        },
+        {
+          "en": "I like kiwi with yogurt!",
+          "vi": "Con thích ăn kiwi với sữa chua!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-018",
+      "en": "avocado",
+      "vi": "trái bơ",
+      "pos": "noun",
+      "emoji": "🥑",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, an avocado!",
+          "vi": "Ồ, trái bơ!"
+        },
+        {
+          "en": "Want some avocado on your toast?",
+          "vi": "Con muốn ăn bơ với bánh mì không?"
+        },
+        {
+          "en": "Let's mash the avocado together.",
+          "vi": "Mình cùng dầm trái bơ nha."
+        },
+        {
+          "en": "Avocado is soft and creamy.",
+          "vi": "Bơ mềm và béo ngậy."
+        },
+        {
+          "en": "Avocados have a giant seed!",
+          "vi": "Trái bơ có hột bự chà bá!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-019",
+      "en": "guava",
+      "vi": "trái ổi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a green guava!",
+          "vi": "Nhìn nè, trái ổi xanh!"
+        },
+        {
+          "en": "Do you want guava with salt?",
+          "vi": "Con ăn ổi chấm muối không?"
+        },
+        {
+          "en": "Take a crunchy bite of guava.",
+          "vi": "Con cắn một miếng ổi giòn nè."
+        },
+        {
+          "en": "This guava smells really good.",
+          "vi": "Trái ổi này thơm quá."
+        },
+        {
+          "en": "I picked a guava from the tree!",
+          "vi": "Con hái được trái ổi trên cây!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-020",
+      "en": "longan",
+      "vi": "trái nhãn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a bunch of longans!",
+          "vi": "Ồ, chùm nhãn nè!",
+          "ipa": "/u ə bʌntʃ ʌv ˈlɔŋɡənz/"
+        },
+        {
+          "en": "Can you peel a longan?",
+          "vi": "Con tự bóc nhãn được không?"
+        },
+        {
+          "en": "Spit the longan seed in here.",
+          "vi": "Con nhả hột nhãn vô đây nè."
+        },
+        {
+          "en": "Longans are small and sweet.",
+          "vi": "Nhãn nhỏ mà ngọt.",
+          "ipa": "/ˈlɔŋɡənz ɑɹ smɔl ənd swit/"
+        },
+        {
+          "en": "I peeled ten longans!",
+          "vi": "Con bóc được mười trái nhãn!",
+          "ipa": "/aɪ pild tɛn ˈlɔŋɡənz/"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-021",
+      "en": "lychee",
+      "vi": "trái vải",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "ipa": "/ˈlitʃi/",
+      "examples": [
+        {
+          "en": "Look, red lychees!",
+          "vi": "Nhìn nè, vải đỏ!",
+          "ipa": "/lʊk ɹɛd ˈlitʃiz/"
+        },
+        {
+          "en": "Do you want a lychee?",
+          "vi": "Con ăn trái vải không?",
+          "ipa": "/du ju wɑnt ə ˈlitʃi/"
+        },
+        {
+          "en": "Let's peel the lychee together.",
+          "vi": "Mình cùng bóc vải nha.",
+          "ipa": "/lɛts pil ðə ˈlitʃi təˈɡɛðɚ/"
+        },
+        {
+          "en": "Lychees are white and juicy inside.",
+          "vi": "Bên trong trái vải trắng, nhiều nước.",
+          "ipa": "/ˈlitʃiz ɑɹ waɪt ənd ˈdʒusi ˌɪnˈsaɪd/"
+        },
+        {
+          "en": "This lychee is so sweet!",
+          "vi": "Trái vải này ngọt quá!",
+          "ipa": "/ðɪs ˈlitʃi ɪz soʊ swit/"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-022",
+      "en": "rambutan",
+      "vi": "trái chôm chôm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "ipa": "/ɹæmˈbutən/",
+      "examples": [
+        {
+          "en": "Wow, hairy rambutans!",
+          "vi": "Oa, chôm chôm có lông nè!",
+          "ipa": "/waʊ ˈhɛɹi ɹæmˈbutənz/"
+        },
+        {
+          "en": "Can you open the rambutan?",
+          "vi": "Con tự lột chôm chôm được không?",
+          "ipa": "/kæn ju ˈoʊpən ðə ɹæmˈbutən/"
+        },
+        {
+          "en": "Twist the rambutan open like this.",
+          "vi": "Con vặn trái chôm chôm như vầy nè.",
+          "ipa": "/twɪst ðə ɹæmˈbutən ˈoʊpən laɪk ðɪs/"
+        },
+        {
+          "en": "Rambutans look funny and hairy.",
+          "vi": "Chôm chôm nhìn ngộ ghê, có lông tua tủa.",
+          "ipa": "/ɹæmˈbutənz lʊk ˈfʌni ənd ˈhɛɹi/"
+        },
+        {
+          "en": "I ate so many rambutans!",
+          "vi": "Con ăn nhiều chôm chôm lắm!",
+          "ipa": "/aɪ eɪt soʊ ˈmɛni ɹæmˈbutənz/"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-023",
+      "en": "jackfruit",
+      "vi": "trái mít",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "ipa": "/ˈdʒækˌfɹut/",
+      "examples": [
+        {
+          "en": "Wow, that jackfruit is huge!",
+          "vi": "Oa, trái mít bự quá!",
+          "ipa": "/waʊ ðæt ˈdʒækˌfɹut ɪz hjudʒ/"
+        },
+        {
+          "en": "Do you want some jackfruit?",
+          "vi": "Con ăn mít không?",
+          "ipa": "/du ju wɑnt sʌm ˈdʒækˌfɹut/"
+        },
+        {
+          "en": "Smell the jackfruit. So sweet!",
+          "vi": "Con ngửi mít nè. Thơm ngọt ghê!",
+          "ipa": "/smɛl ðə ˈdʒækˌfɹut soʊ swit/"
+        },
+        {
+          "en": "Jackfruit is yellow and chewy.",
+          "vi": "Mít màu vàng, dai dai.",
+          "ipa": "/ˈdʒækˌfɹut ɪz ˈjɛloʊ ənd ˈtʃui/"
+        },
+        {
+          "en": "I like jackfruit more than durian!",
+          "vi": "Con thích mít hơn sầu riêng!",
+          "ipa": "/aɪ laɪk ˈdʒækˌfɹut mɔɹ ðæn ˈdʊɹiən/"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-024",
+      "en": "star fruit",
+      "vi": "trái khế",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a star fruit!",
+          "vi": "Nhìn nè, trái khế!"
+        },
+        {
+          "en": "Have you tried star fruit?",
+          "vi": "Con ăn khế chưa?"
+        },
+        {
+          "en": "Let's slice the star fruit.",
+          "vi": "Mình cắt lát trái khế nha."
+        },
+        {
+          "en": "Star fruit slices look like stars!",
+          "vi": "Khế cắt lát nhìn giống ngôi sao!"
+        },
+        {
+          "en": "Star fruit is a little sour!",
+          "vi": "Khế hơi chua!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-025",
+      "en": "mangosteen",
+      "vi": "trái măng cụt",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, purple mangosteens!",
+          "vi": "Ồ, măng cụt tím!"
+        },
+        {
+          "en": "Do you want a mangosteen?",
+          "vi": "Con ăn măng cụt không?"
+        },
+        {
+          "en": "Press the mangosteen gently to open it.",
+          "vi": "Con bóp nhẹ trái măng cụt cho nó mở ra."
+        },
+        {
+          "en": "Mangosteen is white and soft inside.",
+          "vi": "Bên trong măng cụt trắng và mềm."
+        },
+        {
+          "en": "Can I have one more mangosteen?",
+          "vi": "Cho con thêm một trái măng cụt nữa nha?"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-026",
+      "en": "tangerine",
+      "vi": "trái quýt",
+      "pos": "noun",
+      "emoji": "🍊",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little tangerine!",
+          "vi": "Nhìn nè, trái quýt nhỏ!"
+        },
+        {
+          "en": "Can you peel the tangerine yourself?",
+          "vi": "Con tự lột quýt được không?"
+        },
+        {
+          "en": "Let's share this tangerine.",
+          "vi": "Mình chia trái quýt này nha."
+        },
+        {
+          "en": "Tangerines are easy to peel.",
+          "vi": "Quýt dễ lột lắm."
+        },
+        {
+          "en": "My tangerine has no seeds!",
+          "vi": "Trái quýt của con không có hột!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-027",
+      "en": "fruit",
+      "vi": "trái cây",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Fruit time!",
+          "vi": "Ăn trái cây thôi!"
+        },
+        {
+          "en": "What fruit do you want today?",
+          "vi": "Hôm nay con muốn ăn trái gì?"
+        },
+        {
+          "en": "Pick one fruit from the bowl.",
+          "vi": "Con chọn một trái trong tô nha."
+        },
+        {
+          "en": "Fruit makes you healthy and strong.",
+          "vi": "Ăn trái cây giúp con khỏe mạnh."
+        },
+        {
+          "en": "I want fruit for dessert!",
+          "vi": "Con muốn tráng miệng bằng trái cây!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-028",
+      "en": "carrot",
+      "vi": "củ cà rốt",
+      "pos": "noun",
+      "emoji": "🥕",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, an orange carrot!",
+          "vi": "Nhìn nè, củ cà rốt màu cam!"
+        },
+        {
+          "en": "Do rabbits like carrots?",
+          "vi": "Thỏ có thích cà rốt không ta?"
+        },
+        {
+          "en": "Try a carrot stick, okay?",
+          "vi": "Con thử một que cà rốt nha?"
+        },
+        {
+          "en": "Carrots are crunchy and sweet.",
+          "vi": "Cà rốt giòn mà ngọt."
+        },
+        {
+          "en": "I ate all my carrots!",
+          "vi": "Con ăn hết cà rốt rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-029",
+      "en": "corn",
+      "vi": "trái bắp",
+      "pos": "noun",
+      "emoji": "🌽",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yum, corn on the cob!",
+          "vi": "Ngon quá, bắp nguyên trái!"
+        },
+        {
+          "en": "Do you want corn or peas?",
+          "vi": "Con muốn ăn bắp hay đậu Hà Lan?"
+        },
+        {
+          "en": "Hold the corn with both hands.",
+          "vi": "Con cầm trái bắp bằng hai tay nha."
+        },
+        {
+          "en": "Corn is yellow and sweet.",
+          "vi": "Bắp màu vàng, ngọt ngọt."
+        },
+        {
+          "en": "Corn got stuck in my teeth!",
+          "vi": "Bắp dắt răng con rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-030",
+      "en": "broccoli",
+      "vi": "bông cải xanh",
+      "pos": "noun",
+      "emoji": "🥦",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little broccoli tree!",
+          "vi": "Nhìn nè, bông cải xanh như cái cây nhỏ!"
+        },
+        {
+          "en": "Do you want more broccoli?",
+          "vi": "Con ăn thêm bông cải không?"
+        },
+        {
+          "en": "Try just one bite of broccoli.",
+          "vi": "Con thử một miếng bông cải thôi nha."
+        },
+        {
+          "en": "Broccoli is green and good for you.",
+          "vi": "Bông cải xanh tốt cho con lắm."
+        },
+        {
+          "en": "I'm a dinosaur eating broccoli trees!",
+          "vi": "Con là khủng long ăn cây bông cải nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-031",
+      "en": "potato",
+      "vi": "củ khoai tây",
+      "pos": "noun",
+      "emoji": "🥔",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big potato!",
+          "vi": "Nhìn nè, củ khoai tây bự!"
+        },
+        {
+          "en": "Do you want mashed potatoes?",
+          "vi": "Con ăn khoai tây nghiền không?"
+        },
+        {
+          "en": "Help me wash the potatoes.",
+          "vi": "Phụ mình rửa khoai tây nha."
+        },
+        {
+          "en": "Potatoes grow under the ground.",
+          "vi": "Khoai tây mọc dưới đất đó."
+        },
+        {
+          "en": "I helped peel the potatoes!",
+          "vi": "Con phụ gọt khoai tây đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-032",
+      "en": "sweet potato",
+      "vi": "củ khoai lang",
+      "pos": "noun",
+      "emoji": "🍠",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a purple sweet potato!",
+          "vi": "Ồ, củ khoai lang tím!"
+        },
+        {
+          "en": "Do you want a sweet potato?",
+          "vi": "Con ăn khoai lang không?"
+        },
+        {
+          "en": "Blow on the sweet potato first.",
+          "vi": "Con thổi khoai lang cho nguội đã."
+        },
+        {
+          "en": "Sweet potatoes are soft and sweet.",
+          "vi": "Khoai lang mềm mà ngọt."
+        },
+        {
+          "en": "Grandma roasted sweet potatoes for me!",
+          "vi": "Bà nướng khoai lang cho con nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-033",
+      "en": "tomato",
+      "vi": "trái cà chua",
+      "pos": "noun",
+      "emoji": "🍅",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a red tomato!",
+          "vi": "Nhìn nè, trái cà chua đỏ!"
+        },
+        {
+          "en": "Is a tomato a fruit?",
+          "vi": "Cà chua có phải là trái cây không ta?"
+        },
+        {
+          "en": "Put the tomatoes in the basket.",
+          "vi": "Con bỏ cà chua vô giỏ nha."
+        },
+        {
+          "en": "Cherry tomatoes are tiny and juicy.",
+          "vi": "Cà chua bi nhỏ xíu mà nhiều nước."
+        },
+        {
+          "en": "I picked a tomato in the garden!",
+          "vi": "Con hái được trái cà chua trong vườn!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-034",
+      "en": "cucumber",
+      "vi": "trái dưa leo",
+      "pos": "noun",
+      "emoji": "🥒",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a cool cucumber!",
+          "vi": "Ồ, dưa leo mát mát!"
+        },
+        {
+          "en": "Do you want cucumber slices?",
+          "vi": "Con ăn dưa leo cắt lát không?"
+        },
+        {
+          "en": "Have some cucumber with your rice.",
+          "vi": "Ăn dưa leo với cơm nha con."
+        },
+        {
+          "en": "Cucumbers are green and crunchy.",
+          "vi": "Dưa leo xanh và giòn."
+        },
+        {
+          "en": "Cucumber is my favorite veggie!",
+          "vi": "Dưa leo là rau con thích nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-035",
+      "en": "onion",
+      "vi": "củ hành",
+      "pos": "noun",
+      "emoji": "🧅",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, an onion!",
+          "vi": "Nhìn nè, củ hành!"
+        },
+        {
+          "en": "Does the onion make your eyes water?",
+          "vi": "Hành làm con cay mắt hả?"
+        },
+        {
+          "en": "Stand back while I chop the onion.",
+          "vi": "Con đứng xa ra lúc mình cắt hành nha."
+        },
+        {
+          "en": "Onions smell really strong.",
+          "vi": "Hành mùi nồng lắm."
+        },
+        {
+          "en": "No onions for me, please!",
+          "vi": "Con không ăn hành đâu!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-036",
+      "en": "garlic",
+      "vi": "củ tỏi",
+      "pos": "noun",
+      "emoji": "🧄",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, smell that garlic!",
+          "vi": "Ồ, ngửi mùi tỏi nè!"
+        },
+        {
+          "en": "Can you peel the garlic?",
+          "vi": "Con lột tỏi được không?"
+        },
+        {
+          "en": "Put the garlic in the bowl.",
+          "vi": "Con bỏ tỏi vô chén nha."
+        },
+        {
+          "en": "Garlic makes food smell so good.",
+          "vi": "Tỏi làm món ăn thơm lắm."
+        },
+        {
+          "en": "My hands smell like garlic!",
+          "vi": "Tay con có mùi tỏi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-037",
+      "en": "cabbage",
+      "vi": "bắp cải",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a round cabbage!",
+          "vi": "Nhìn nè, bắp cải tròn vo!"
+        },
+        {
+          "en": "Do you want cabbage soup?",
+          "vi": "Con ăn canh bắp cải không?"
+        },
+        {
+          "en": "Peel off one cabbage leaf.",
+          "vi": "Con lột một lá bắp cải ra nè."
+        },
+        {
+          "en": "This cabbage is so big and heavy!",
+          "vi": "Bắp cải này bự mà nặng ghê!"
+        },
+        {
+          "en": "Rabbits eat cabbage too!",
+          "vi": "Thỏ cũng ăn bắp cải nữa!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-038",
+      "en": "lettuce",
+      "vi": "xà lách",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, fresh lettuce!",
+          "vi": "Nhìn nè, xà lách tươi!"
+        },
+        {
+          "en": "Want lettuce in your sandwich?",
+          "vi": "Con muốn kẹp xà lách vô bánh mì không?"
+        },
+        {
+          "en": "Wash the lettuce leaves gently.",
+          "vi": "Con rửa lá xà lách nhẹ nhẹ thôi."
+        },
+        {
+          "en": "Lettuce leaves are soft and wavy.",
+          "vi": "Lá xà lách mềm, quăn quăn."
+        },
+        {
+          "en": "I wrapped my meat in lettuce!",
+          "vi": "Con cuốn thịt với xà lách nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-039",
+      "en": "pumpkin",
+      "vi": "trái bí đỏ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a giant pumpkin!",
+          "vi": "Oa, trái bí đỏ khổng lồ!"
+        },
+        {
+          "en": "What color is a pumpkin?",
+          "vi": "Trái bí đỏ màu gì nè?"
+        },
+        {
+          "en": "Let's make pumpkin soup.",
+          "vi": "Mình nấu canh bí đỏ nha."
+        },
+        {
+          "en": "Pumpkins are heavy and round.",
+          "vi": "Bí đỏ vừa nặng vừa tròn."
+        },
+        {
+          "en": "I carried the pumpkin all by myself!",
+          "vi": "Con tự ôm trái bí đỏ luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-040",
+      "en": "peas",
+      "vi": "đậu Hà Lan",
+      "pos": "noun",
+      "emoji": "🫛",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, tiny green peas!",
+          "vi": "Nhìn nè, hạt đậu Hà Lan xanh nhỏ xíu!"
+        },
+        {
+          "en": "Can you pick up one pea?",
+          "vi": "Con nhặt được một hạt đậu không?"
+        },
+        {
+          "en": "Let's count the peas on your plate.",
+          "vi": "Mình đếm đậu trên đĩa con nha."
+        },
+        {
+          "en": "Peas are small, round, and green.",
+          "vi": "Đậu Hà Lan nhỏ, tròn và xanh."
+        },
+        {
+          "en": "My peas rolled off the table!",
+          "vi": "Đậu của con lăn khỏi bàn rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-041",
+      "en": "green beans",
+      "vi": "đậu que",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, crunchy green beans!",
+          "vi": "Ồ, đậu que giòn giòn!"
+        },
+        {
+          "en": "How many green beans can you eat?",
+          "vi": "Con ăn được mấy cọng đậu que?"
+        },
+        {
+          "en": "Snap the green beans like this.",
+          "vi": "Con bẻ đậu que như vầy nè."
+        },
+        {
+          "en": "Green beans are long and skinny.",
+          "vi": "Đậu que dài và ốm nhom."
+        },
+        {
+          "en": "I ate five green beans!",
+          "vi": "Con ăn năm cọng đậu que rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-042",
+      "en": "spinach",
+      "vi": "cải bó xôi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, green spinach!",
+          "vi": "Nhìn nè, cải bó xôi!"
+        },
+        {
+          "en": "Do you want spinach in your soup?",
+          "vi": "Con muốn bỏ cải bó xôi vô canh không?"
+        },
+        {
+          "en": "Try a little spinach, okay?",
+          "vi": "Con thử chút cải bó xôi nha?"
+        },
+        {
+          "en": "Spinach makes you super strong!",
+          "vi": "Cải bó xôi làm con khỏe ghê luôn!"
+        },
+        {
+          "en": "I tried spinach today!",
+          "vi": "Hôm nay con ăn thử cải bó xôi rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-043",
+      "en": "mushroom",
+      "vi": "cây nấm",
+      "pos": "noun",
+      "emoji": "🍄",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a mushroom!",
+          "vi": "Nhìn nè, cây nấm!"
+        },
+        {
+          "en": "Do you like mushrooms?",
+          "vi": "Con thích ăn nấm không?"
+        },
+        {
+          "en": "Let's put mushrooms in the soup.",
+          "vi": "Mình bỏ nấm vô canh nha."
+        },
+        {
+          "en": "Mushrooms are soft and a little chewy.",
+          "vi": "Nấm mềm mà hơi dai dai."
+        },
+        {
+          "en": "I found mushrooms in my noodles!",
+          "vi": "Con thấy có nấm trong mì nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-044",
+      "en": "bell pepper",
+      "vi": "ớt chuông",
+      "pos": "noun",
+      "emoji": "🫑",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a red bell pepper!",
+          "vi": "Ồ, trái ớt chuông đỏ!"
+        },
+        {
+          "en": "Is a bell pepper spicy?",
+          "vi": "Ớt chuông có cay không ta?"
+        },
+        {
+          "en": "Pick a yellow bell pepper, please.",
+          "vi": "Con lấy trái ớt chuông vàng giùm nha."
+        },
+        {
+          "en": "Bell peppers are crunchy, not spicy.",
+          "vi": "Ớt chuông giòn, không cay đâu."
+        },
+        {
+          "en": "I like the red bell pepper best!",
+          "vi": "Con thích ớt chuông đỏ nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-045",
+      "en": "eggplant",
+      "vi": "trái cà tím",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a purple eggplant!",
+          "vi": "Nhìn nè, trái cà tím!"
+        },
+        {
+          "en": "What color is an eggplant?",
+          "vi": "Trái cà tím màu gì?"
+        },
+        {
+          "en": "Let's grill the eggplant tonight.",
+          "vi": "Tối nay mình nướng cà tím nha."
+        },
+        {
+          "en": "Cooked eggplant is soft and mushy.",
+          "vi": "Cà tím nấu chín mềm nhũn."
+        },
+        {
+          "en": "I tried eggplant. It's yummy!",
+          "vi": "Con ăn thử cà tím rồi. Ngon lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-046",
+      "en": "bean sprouts",
+      "vi": "giá",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, lots of bean sprouts!",
+          "vi": "Nhìn nè, nhiều giá quá!"
+        },
+        {
+          "en": "Want bean sprouts in your pho?",
+          "vi": "Con muốn bỏ giá vô phở không?"
+        },
+        {
+          "en": "Help me pick the bean sprouts.",
+          "vi": "Phụ mình nhặt giá nha."
+        },
+        {
+          "en": "Bean sprouts are white and crunchy.",
+          "vi": "Giá trắng trắng, giòn giòn."
+        },
+        {
+          "en": "I put bean sprouts in my noodles!",
+          "vi": "Con bỏ giá vô mì rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-047",
+      "en": "vegetables",
+      "vi": "rau củ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at all these vegetables!",
+          "vi": "Nhìn nè, nhiều rau củ quá!"
+        },
+        {
+          "en": "Which vegetables do you like?",
+          "vi": "Con thích rau củ nào?"
+        },
+        {
+          "en": "Eat your vegetables first, okay?",
+          "vi": "Con ăn rau trước nha."
+        },
+        {
+          "en": "Vegetables help your tummy feel good.",
+          "vi": "Ăn rau giúp bụng con dễ chịu."
+        },
+        {
+          "en": "I grew vegetables at school!",
+          "vi": "Con trồng rau ở trường đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-048",
+      "en": "salad",
+      "vi": "món salad",
+      "pos": "noun",
+      "emoji": "🥗",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a big salad!",
+          "vi": "Ồ, đĩa salad bự quá!"
+        },
+        {
+          "en": "What do you want in your salad?",
+          "vi": "Con muốn bỏ gì vô salad?"
+        },
+        {
+          "en": "Let's toss the salad together.",
+          "vi": "Mình cùng trộn salad nha."
+        },
+        {
+          "en": "This salad is fresh and crunchy.",
+          "vi": "Salad này tươi mà giòn."
+        },
+        {
+          "en": "I made a salad for Daddy!",
+          "vi": "Con làm salad cho ba nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-049",
+      "en": "lime",
+      "vi": "trái chanh",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little green lime!",
+          "vi": "Nhìn nè, trái chanh xanh nhỏ!"
+        },
+        {
+          "en": "Do you want lime in your pho?",
+          "vi": "Con muốn vắt chanh vô phở không?"
+        },
+        {
+          "en": "Roll the lime on the table first.",
+          "vi": "Con lăn trái chanh trên bàn trước nha."
+        },
+        {
+          "en": "Limes are green and very sour.",
+          "vi": "Chanh xanh chua lắm."
+        },
+        {
+          "en": "I like lime juice with sugar!",
+          "vi": "Con thích nước chanh đường!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-050",
+      "en": "cauliflower",
+      "vi": "bông cải trắng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a white cauliflower!",
+          "vi": "Nhìn nè, bông cải trắng!"
+        },
+        {
+          "en": "Does cauliflower look like a cloud?",
+          "vi": "Bông cải trắng nhìn giống đám mây không?"
+        },
+        {
+          "en": "Break the cauliflower into little pieces.",
+          "vi": "Con bẻ bông cải trắng thành miếng nhỏ nha."
+        },
+        {
+          "en": "Cauliflower is white, broccoli is green.",
+          "vi": "Bông cải trắng màu trắng, bông cải xanh màu xanh."
+        },
+        {
+          "en": "I like cauliflower with cheese!",
+          "vi": "Con thích bông cải trắng với phô mai!"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-051",
+      "en": "pomelo",
+      "vi": "trái bưởi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "ipa": "/ˈpɑməloʊ/",
+      "examples": [
+        {
+          "en": "Wow, a huge pomelo!",
+          "vi": "Oa, trái bưởi bự quá!",
+          "ipa": "/waʊ ə hjudʒ ˈpɑməloʊ/"
+        },
+        {
+          "en": "Do you want some pomelo?",
+          "vi": "Con ăn bưởi không?",
+          "ipa": "/du ju wɑnt sʌm ˈpɑməloʊ/"
+        },
+        {
+          "en": "Hold the pomelo with two hands.",
+          "vi": "Con ôm trái bưởi bằng hai tay nha.",
+          "ipa": "/hoʊld ðə ˈpɑməloʊ wɪð tu hændz/"
+        },
+        {
+          "en": "Pomelo is sweet and juicy.",
+          "vi": "Bưởi ngọt mà mọng nước.",
+          "ipa": "/ˈpɑməloʊ ɪz swit ənd ˈdʒusi/"
+        },
+        {
+          "en": "The pomelo is bigger than my head!",
+          "vi": "Trái bưởi còn bự hơn đầu con!",
+          "ipa": "/ðə ˈpɑməloʊ ɪz ˈbɪɡɚ ðæn maɪ hɛd/"
+        }
+      ]
+    },
+    {
+      "id": "v-fruits-veggies-052",
+      "en": "taro",
+      "vi": "củ khoai môn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a taro root!",
+          "vi": "Nhìn nè, củ khoai môn!"
+        },
+        {
+          "en": "Have you tried taro?",
+          "vi": "Con ăn khoai môn chưa?"
+        },
+        {
+          "en": "Taste the taro. It's soft!",
+          "vi": "Con nếm khoai môn đi. Mềm lắm!"
+        },
+        {
+          "en": "Taro is soft and a little sweet.",
+          "vi": "Khoai môn bùi bùi, hơi ngọt."
+        },
+        {
+          "en": "I want taro ice cream!",
+          "vi": "Con muốn ăn kem khoai môn!"
+        }
+      ]
+    }
+  ]
+}

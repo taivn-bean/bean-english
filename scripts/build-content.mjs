@@ -6,7 +6,7 @@
 import { createHash } from 'node:crypto'
 import { copyFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
-import { AGE_BANDS, TopicContent, TopicMeta, fill } from './lib/schema.mjs'
+import { AGE_BANDS, DeckContent, DeckMeta, TopicContent, TopicMeta, fill } from './lib/schema.mjs'
 import { toIpa } from './lib/ipa.mjs'
 import { PACK_DIR, loadLedger } from './lib/packs.mjs'
 
@@ -62,6 +62,7 @@ rmSync(OUT, { recursive: true, force: true })
 rmSync(PUBLIC_PACKS, { recursive: true, force: true })
 mkdirSync(PUBLIC_PACKS, { recursive: true })
 mkdirSync(join(OUT, 'topics'), { recursive: true })
+mkdirSync(join(OUT, 'vocab'), { recursive: true })
 mkdirSync(GEN, { recursive: true })
 
 const index = []
@@ -120,22 +121,62 @@ for (const meta of topics) {
   })
 }
 
+// ── Vocabulary flash-card decks (content/vocab.json + content/vocab/<deckId>.json) ──
+// Clip keys: word → <wordId>, examples → <wordId>-e<1..5>. Packs are grouped per deck (topicId = deckId).
+const decks = []
+const headwords = new Map()
+const deckList = existsSync(join(SRC, 'vocab.json')) ? DeckMeta.array().parse(readJson(join(SRC, 'vocab.json'))).sort((a, b) => a.order - b.order) : []
+for (const meta of deckList) {
+  const file = join(SRC, 'vocab', `${meta.id}.json`)
+  if (!existsSync(file)) continue
+  const parsed = DeckContent.safeParse(readJson(file))
+  if (!parsed.success) {
+    errors.push(`${meta.id}: ${parsed.error.issues.map((i) => `${i.path.join('.')} ${i.message}`).join('; ')}`)
+    continue
+  }
+  topicKeys = []
+  topicId = meta.id
+  const words = parsed.data.words.map((w) => {
+    unique(w.id)
+    const hw = w.en.toLowerCase()
+    if (headwords.has(hw)) errors.push(`duplicate word "${w.en}": ${headwords.get(hw)}, ${w.id}`)
+    headwords.set(hw, w.id)
+    return {
+      ...w,
+      ipa: ipaFor(w.en, w.ipa),
+      audio: addUtt(w.id, w.en),
+      examples: w.examples.map((e, i) => ({ ...e, ipa: ipaFor(e.en, e.ipa), audio: addUtt(`${w.id}-e${i + 1}`, e.en) })),
+    }
+  })
+  const audio = audioIndex(topicKeys)
+  const deckJson = JSON.stringify({ ...meta, audio, words })
+  versionHash.update(deckJson)
+  writeFileSync(join(OUT, 'vocab', `${meta.id}.json`), deckJson)
+  decks.push({
+    ...meta,
+    wordCount: words.length,
+    ages: AGE_BANDS.filter((b) => words.some((w) => w.ages.includes(b))),
+    wordsByAge: Object.fromEntries(AGE_BANDS.map((b) => [b, words.filter((w) => w.ages.includes(b)).length])),
+    packs: audio.packs,
+  })
+}
+
 if (errors.length) {
   console.error('✗ content errors:\n  ' + errors.join('\n  '))
   process.exit(1)
 }
 
-const body = JSON.stringify(index)
+const body = JSON.stringify([index, decks])
 const contentVersion = versionHash.update(body).digest('hex').slice(0, 10)
 for (const file of usedPacks) copyFileSync(join(PACK_DIR, file), join(PUBLIC_PACKS, file))
 const audioPacks = [...usedPacks].map((f) => ({ url: `/audio-packs/${f}`, bytes: ledger.packs[f].bytes }))
-writeFileSync(join(OUT, 'index.json'), JSON.stringify({ contentVersion, audioPacks, topics: index }))
+writeFileSync(join(OUT, 'index.json'), JSON.stringify({ contentVersion, audioPacks, topics: index, decks }))
 writeFileSync(join(GEN, 'utterances.json'), JSON.stringify(utterances, null, 1))
 
 const missingAudio = utterances.filter((u) => !ledger.clips[u.key])
 console.log(
   `✓ ${index.length} topics, ${index.reduce((n, t) => n + t.phraseIds.length, 0)} phrases, ` +
-    `${utterances.length} audio clips (${missingAudio.length} missing) · version ${contentVersion}`,
+    `${decks.length} decks / ${decks.reduce((n, d) => n + d.wordCount, 0)} words, ${utterances.length} audio clips (${missingAudio.length} missing) · version ${contentVersion}`,
 )
 if (unknownWords.size) console.warn(`⚠ IPA unknown words (add "ipa" override): ${[...unknownWords].join(', ')}`)
 if (strict && missingAudio.length) {

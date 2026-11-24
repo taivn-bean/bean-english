@@ -42,6 +42,21 @@ Schema: `.claude/docs/content-schema.md`. Files: `content/topics.json` (topic li
 - 5 dialogues, different situations, both parents appear across them.
 - Adding a band to an existing topic: ~6–8 phrases + 1–2 dialogues for that band, continuing ids.
 
+## Vocabulary flash-cards (content/vocab/<deckId>.json)
+Schema: content-schema.md § Flash-card. Validate: `node scripts/check-vocab.mjs <deckId>` (✓, no duplicates, no unknown IPA).
+- **Word choice:** high-frequency words a family really uses with a child of that band; concrete before abstract. Headword ≤3 words, lowercase (except proper nouns/"I"). Avoid homographs the TTS may misread in isolation (read, live, wind, tear, bow, lead) — or pick the unambiguous form ("reading").
+- Each English word lives in exactly **one** deck (the most specific one). Deck boundaries are given by the deck title; `check-vocab` flags duplicates across decks.
+- `vi`: the natural Vietnamese a parent would say, with classifier for nouns (con chó, trái táo, cái ghế), Southern wording consistent with the rest of the app.
+- `emoji`: only when one standard emoji clearly pictures the word (🐶 dog, 🍎 apple, 🌧️ rain). Abstract words (share, because, tomorrow) → omit; the app shows the deck icon.
+- `ages`: band(s) where a child would use/hear the word; early decks lean 3-5, later decks 5-7/7-9.
+- **5 examples, 5 different patterns**, each containing the word (inflected forms ok: dogs, ran):
+  1. naming/pointing or exclamation ("Look, a big dog!")
+  2. question ("Where's your dog?", "Do you want to…?")
+  3. instruction/invitation ("Let's…", "Can you…", "Put the…")
+  4. description/feeling/opinion ("The dog is so fluffy.")
+  5. a **child's line** or a sentence with a reason/past/future fitting the band ("I saw a dog at the park!")
+  Length by band: 3-5 ≤ 7 words; 5-7 ≤ 10; 7-9 ≤ 14. Real spoken English (contractions, Oh/Wow/Uh-oh), say-it-out-loud test, no character names (use Mommy, Daddy, Grandma, your friend, your teacher), no scary content. `vi` natural, never word-by-word; parent lines don't call the speaker mẹ/ba.
+
 ## Review checklist (run before finishing)
 - [ ] Every line passes the say-it-out-loud test for its band(s)
 - [ ] `vi` natural, matches intent and register

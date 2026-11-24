@@ -1,0 +1,1699 @@
+{
+  "deckId": "v-nature",
+  "words": [
+    {
+      "id": "v-nature-001",
+      "en": "tree",
+      "vi": "cái cây",
+      "pos": "noun",
+      "emoji": "🌳",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at that big tree!",
+          "vi": "Nhìn cái cây bự kìa!"
+        },
+        {
+          "en": "How tall is this tree?",
+          "vi": "Cái cây này cao cỡ nào ta?"
+        },
+        {
+          "en": "Let's sit under the tree.",
+          "vi": "Mình ngồi dưới gốc cây nha."
+        },
+        {
+          "en": "The tree has so many leaves.",
+          "vi": "Cái cây có nhiều lá quá."
+        },
+        {
+          "en": "I want to climb the tree!",
+          "vi": "Con muốn leo cây!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-002",
+      "en": "flower",
+      "vi": "bông hoa",
+      "pos": "noun",
+      "emoji": "🌸",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a pretty flower!",
+          "vi": "Ồ, bông hoa đẹp quá!"
+        },
+        {
+          "en": "What color is this flower?",
+          "vi": "Bông hoa này màu gì?"
+        },
+        {
+          "en": "Come smell this flower!",
+          "vi": "Lại ngửi bông hoa này nè!"
+        },
+        {
+          "en": "These flowers smell so nice.",
+          "vi": "Mấy bông hoa này thơm quá."
+        },
+        {
+          "en": "I picked a flower for you!",
+          "vi": "Con hái bông hoa tặng mình nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-003",
+      "en": "leaf",
+      "vi": "cái lá",
+      "pos": "noun",
+      "emoji": "🍃",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big green leaf!",
+          "vi": "Nhìn kìa, cái lá xanh to!"
+        },
+        {
+          "en": "Can you find a yellow leaf?",
+          "vi": "Con tìm được cái lá vàng không?"
+        },
+        {
+          "en": "Let's collect some leaves.",
+          "vi": "Mình đi lượm lá nha."
+        },
+        {
+          "en": "This leaf is so smooth.",
+          "vi": "Cái lá này láng ghê."
+        },
+        {
+          "en": "The leaves are falling down!",
+          "vi": "Lá rụng xuống kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-004",
+      "en": "grass",
+      "vi": "cỏ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the grass is wet!",
+          "vi": "Nhìn kìa, cỏ ướt hết!"
+        },
+        {
+          "en": "Can you run on the grass?",
+          "vi": "Con chạy trên cỏ được không?"
+        },
+        {
+          "en": "Let's sit on the grass.",
+          "vi": "Mình ngồi trên cỏ nha."
+        },
+        {
+          "en": "The grass is soft and green.",
+          "vi": "Cỏ mềm và xanh mướt."
+        },
+        {
+          "en": "I rolled down the grass!",
+          "vi": "Con lăn trên cỏ nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-005",
+      "en": "rock",
+      "vi": "cục đá",
+      "pos": "noun",
+      "emoji": "🪨",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big rock!",
+          "vi": "Nhìn kìa, cục đá to!"
+        },
+        {
+          "en": "Can you lift that rock?",
+          "vi": "Con nhấc cục đá đó lên được không?"
+        },
+        {
+          "en": "Let's sit on this rock.",
+          "vi": "Mình ngồi lên tảng đá này nha."
+        },
+        {
+          "en": "This rock is hard and heavy.",
+          "vi": "Cục đá này cứng và nặng."
+        },
+        {
+          "en": "I found a shiny rock!",
+          "vi": "Con lượm được cục đá lấp lánh!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-006",
+      "en": "river",
+      "vi": "con sông",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at the river!",
+          "vi": "Nhìn con sông kìa!"
+        },
+        {
+          "en": "Where does the river go?",
+          "vi": "Con sông chảy đi đâu vậy?"
+        },
+        {
+          "en": "Let's throw a leaf in the river.",
+          "vi": "Mình thả cái lá xuống sông nha."
+        },
+        {
+          "en": "The river is wide and long.",
+          "vi": "Con sông rộng và dài."
+        },
+        {
+          "en": "I see a boat on the river!",
+          "vi": "Con thấy chiếc thuyền trên sông!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-007",
+      "en": "mountain",
+      "vi": "ngọn núi",
+      "pos": "noun",
+      "emoji": "⛰️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big mountain!",
+          "vi": "Wow, ngọn núi to quá!"
+        },
+        {
+          "en": "Can we climb the mountain?",
+          "vi": "Mình leo núi được không?"
+        },
+        {
+          "en": "Let's draw a mountain.",
+          "vi": "Mình vẽ ngọn núi nha."
+        },
+        {
+          "en": "The mountain is so high.",
+          "vi": "Ngọn núi cao quá."
+        },
+        {
+          "en": "I see snow on the mountain!",
+          "vi": "Con thấy tuyết trên núi!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-008",
+      "en": "beach",
+      "vi": "bãi biển",
+      "pos": "noun",
+      "emoji": "🏖️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, we're at the beach!",
+          "vi": "Yeah, mình tới biển rồi!"
+        },
+        {
+          "en": "Want to go to the beach?",
+          "vi": "Con muốn đi biển không?"
+        },
+        {
+          "en": "Let's play at the beach!",
+          "vi": "Mình chơi ở bãi biển nha!"
+        },
+        {
+          "en": "The beach is sunny and fun.",
+          "vi": "Bãi biển nắng đẹp, vui ghê."
+        },
+        {
+          "en": "I love the beach!",
+          "vi": "Con thích đi biển lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-009",
+      "en": "sand",
+      "vi": "cát",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, so much sand!",
+          "vi": "Nhìn kìa, nhiều cát quá!"
+        },
+        {
+          "en": "Want to dig in the sand?",
+          "vi": "Con muốn đào cát không?"
+        },
+        {
+          "en": "Let's brush the sand off your feet.",
+          "vi": "Mình phủi cát ở chân nha."
+        },
+        {
+          "en": "The sand is warm and soft.",
+          "vi": "Cát ấm và mềm."
+        },
+        {
+          "en": "I have sand in my shoes!",
+          "vi": "Có cát trong giày con!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-010",
+      "en": "sky",
+      "vi": "bầu trời",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look up at the sky!",
+          "vi": "Nhìn lên trời coi!"
+        },
+        {
+          "en": "What color is the sky today?",
+          "vi": "Hôm nay trời màu gì?"
+        },
+        {
+          "en": "Let's lie down and watch the sky.",
+          "vi": "Mình nằm xuống ngắm bầu trời nha."
+        },
+        {
+          "en": "The sky is so blue!",
+          "vi": "Trời xanh quá!"
+        },
+        {
+          "en": "A plane is in the sky!",
+          "vi": "Có máy bay trên trời kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-011",
+      "en": "ocean",
+      "vi": "biển",
+      "pos": "noun",
+      "emoji": "🌊",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at the ocean!",
+          "vi": "Wow, nhìn biển kìa!"
+        },
+        {
+          "en": "What lives in the ocean?",
+          "vi": "Dưới biển có con gì sống?"
+        },
+        {
+          "en": "Let's put our feet in the ocean.",
+          "vi": "Mình nhúng chân xuống biển nha."
+        },
+        {
+          "en": "The ocean is so big and blue.",
+          "vi": "Biển rộng và xanh quá."
+        },
+        {
+          "en": "The ocean water is salty!",
+          "vi": "Nước biển mặn quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-012",
+      "en": "lake",
+      "vi": "cái hồ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big lake!",
+          "vi": "Nhìn kìa, cái hồ to!"
+        },
+        {
+          "en": "Do you see ducks on the lake?",
+          "vi": "Con thấy vịt trên hồ không?"
+        },
+        {
+          "en": "Let's walk around the lake.",
+          "vi": "Mình đi bộ quanh hồ nha."
+        },
+        {
+          "en": "The lake is calm and quiet.",
+          "vi": "Mặt hồ êm và yên tĩnh."
+        },
+        {
+          "en": "I threw a pebble in the lake!",
+          "vi": "Con ném viên sỏi xuống hồ!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-013",
+      "en": "pond",
+      "vi": "cái ao",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, fish in the pond!",
+          "vi": "Nhìn kìa, có cá dưới ao!"
+        },
+        {
+          "en": "What's in the pond?",
+          "vi": "Dưới ao có gì vậy?"
+        },
+        {
+          "en": "Don't go too close to the pond.",
+          "vi": "Đừng lại gần ao quá nha."
+        },
+        {
+          "en": "The pond is small and green.",
+          "vi": "Cái ao nhỏ, nước xanh xanh."
+        },
+        {
+          "en": "A frog jumped into the pond!",
+          "vi": "Con ếch nhảy xuống ao rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-014",
+      "en": "hill",
+      "vi": "ngọn đồi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big green hill!",
+          "vi": "Nhìn kìa, ngọn đồi xanh to!"
+        },
+        {
+          "en": "Can you run up the hill?",
+          "vi": "Con chạy lên đồi được không?"
+        },
+        {
+          "en": "Let's walk up the hill together.",
+          "vi": "Mình cùng đi lên đồi nha."
+        },
+        {
+          "en": "This hill is so steep.",
+          "vi": "Ngọn đồi này dốc quá."
+        },
+        {
+          "en": "I ran up the hill!",
+          "vi": "Con chạy lên đồi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-015",
+      "en": "forest",
+      "vi": "khu rừng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big forest!",
+          "vi": "Nhìn kìa, khu rừng lớn!"
+        },
+        {
+          "en": "What animals live in the forest?",
+          "vi": "Trong rừng có con vật gì sống?"
+        },
+        {
+          "en": "Let's walk in the forest.",
+          "vi": "Mình đi dạo trong rừng nha."
+        },
+        {
+          "en": "The forest is cool and shady.",
+          "vi": "Trong rừng mát và nhiều bóng râm."
+        },
+        {
+          "en": "I heard birds in the forest!",
+          "vi": "Con nghe chim hót trong rừng!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-016",
+      "en": "jungle",
+      "vi": "rừng rậm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Welcome to the jungle!",
+          "vi": "Chào mừng tới rừng rậm!"
+        },
+        {
+          "en": "Who lives in the jungle?",
+          "vi": "Ai sống trong rừng rậm?"
+        },
+        {
+          "en": "Let's pretend we're in the jungle!",
+          "vi": "Mình giả bộ đang ở trong rừng rậm nha!"
+        },
+        {
+          "en": "The jungle is hot and green.",
+          "vi": "Rừng rậm nóng và xanh um."
+        },
+        {
+          "en": "Monkeys live in the jungle!",
+          "vi": "Khỉ sống trong rừng rậm đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-017",
+      "en": "waterfall",
+      "vi": "cái thác nước",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big waterfall!",
+          "vi": "Wow, thác nước to quá!"
+        },
+        {
+          "en": "Can you hear the waterfall?",
+          "vi": "Con nghe tiếng thác nước không?"
+        },
+        {
+          "en": "Let's take a picture by the waterfall.",
+          "vi": "Mình chụp hình bên thác nước nha."
+        },
+        {
+          "en": "The waterfall is so loud!",
+          "vi": "Thác nước kêu to ghê!"
+        },
+        {
+          "en": "The waterfall splashed me!",
+          "vi": "Thác nước bắn nước lên con!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-018",
+      "en": "island",
+      "vi": "hòn đảo",
+      "pos": "noun",
+      "emoji": "🏝️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's a little island out there!",
+          "vi": "Nhìn kìa, có hòn đảo nhỏ ngoài kia!"
+        },
+        {
+          "en": "How do people get to the island?",
+          "vi": "Người ta đi ra đảo bằng gì?"
+        },
+        {
+          "en": "Let's take a boat to the island someday.",
+          "vi": "Bữa nào mình đi thuyền ra đảo nha."
+        },
+        {
+          "en": "An island has water all around it.",
+          "vi": "Hòn đảo có nước bao quanh."
+        },
+        {
+          "en": "We went to an island on vacation last year!",
+          "vi": "Năm ngoái nhà mình đi du lịch ra đảo!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-019",
+      "en": "stick",
+      "vi": "cây que",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a long stick!",
+          "vi": "Ồ, cây que dài!"
+        },
+        {
+          "en": "What can we do with this stick?",
+          "vi": "Mình làm gì với cây que này ta?"
+        },
+        {
+          "en": "Let's draw with a stick.",
+          "vi": "Mình lấy que vẽ nha."
+        },
+        {
+          "en": "This stick is bumpy.",
+          "vi": "Cây que này sần sần."
+        },
+        {
+          "en": "I found a big stick!",
+          "vi": "Con lượm được cây que to!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-020",
+      "en": "branch",
+      "vi": "cành cây",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a bird on the branch!",
+          "vi": "Nhìn kìa, con chim trên cành cây!"
+        },
+        {
+          "en": "Which branch is the highest?",
+          "vi": "Cành nào cao nhất?"
+        },
+        {
+          "en": "Hold on to the branch tight.",
+          "vi": "Nắm chặt cành cây nha."
+        },
+        {
+          "en": "The branch is moving in the wind.",
+          "vi": "Cành cây đung đưa trong gió."
+        },
+        {
+          "en": "The branch broke!",
+          "vi": "Cành cây gãy rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-021",
+      "en": "seed",
+      "vi": "hạt giống",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tiny seed!",
+          "vi": "Nhìn kìa, hạt giống nhỏ xíu!"
+        },
+        {
+          "en": "What will this seed grow into?",
+          "vi": "Hạt giống này sẽ mọc thành cây gì?"
+        },
+        {
+          "en": "Let's plant a seed together.",
+          "vi": "Mình cùng gieo hạt nha."
+        },
+        {
+          "en": "The seed needs water and sun.",
+          "vi": "Hạt giống cần nước và nắng."
+        },
+        {
+          "en": "My seed is growing!",
+          "vi": "Hạt giống của con đang lớn nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-022",
+      "en": "plant",
+      "vi": "cái cây (trồng)",
+      "pos": "noun",
+      "emoji": "🪴",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, our plant has a new leaf!",
+          "vi": "Nhìn kìa, cây của mình ra lá mới!"
+        },
+        {
+          "en": "Is the plant thirsty?",
+          "vi": "Cái cây khát nước chưa ta?"
+        },
+        {
+          "en": "Let's water the plants.",
+          "vi": "Mình tưới cây nha."
+        },
+        {
+          "en": "Plants need sunlight to grow.",
+          "vi": "Cây cần ánh nắng để lớn."
+        },
+        {
+          "en": "I watered the plant all by myself!",
+          "vi": "Con tự tưới cây đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-023",
+      "en": "bush",
+      "vi": "bụi cây",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a cat behind the bush!",
+          "vi": "Nhìn kìa, con mèo sau bụi cây!"
+        },
+        {
+          "en": "What's hiding in the bush?",
+          "vi": "Có gì trốn trong bụi cây vậy?"
+        },
+        {
+          "en": "Let's hide behind the bush!",
+          "vi": "Mình trốn sau bụi cây nào!"
+        },
+        {
+          "en": "The bush has little red flowers.",
+          "vi": "Bụi cây có hoa đỏ nho nhỏ."
+        },
+        {
+          "en": "My ball rolled into the bush!",
+          "vi": "Trái banh của con lăn vô bụi cây rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-024",
+      "en": "mud",
+      "vi": "bùn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, mud!",
+          "vi": "Ối, bùn!"
+        },
+        {
+          "en": "Did you step in the mud?",
+          "vi": "Con giẫm bùn hả?"
+        },
+        {
+          "en": "Let's wash the mud off your shoes.",
+          "vi": "Mình rửa bùn dính giày nha."
+        },
+        {
+          "en": "The mud is sticky and wet.",
+          "vi": "Bùn dính dính, ướt nhẹp."
+        },
+        {
+          "en": "I have mud on my hands!",
+          "vi": "Tay con dính bùn rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-025",
+      "en": "dirt",
+      "vi": "đất",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, dirt on your pants!",
+          "vi": "Ối, quần con dính đất kìa!"
+        },
+        {
+          "en": "Can you dig in the dirt?",
+          "vi": "Con đào đất được không?"
+        },
+        {
+          "en": "Let's wash the dirt off your hands.",
+          "vi": "Mình rửa sạch đất trên tay nha."
+        },
+        {
+          "en": "Worms love the dirt.",
+          "vi": "Giun thích ở trong đất."
+        },
+        {
+          "en": "I'm digging in the dirt!",
+          "vi": "Con đang đào đất nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-026",
+      "en": "pebble",
+      "vi": "viên sỏi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a smooth pebble!",
+          "vi": "Nhìn kìa, viên sỏi láng!"
+        },
+        {
+          "en": "How many pebbles do you have?",
+          "vi": "Con có mấy viên sỏi?"
+        },
+        {
+          "en": "Let's put the pebbles in a line.",
+          "vi": "Mình xếp sỏi thành hàng nha."
+        },
+        {
+          "en": "This pebble is round and white.",
+          "vi": "Viên sỏi này tròn và trắng."
+        },
+        {
+          "en": "I found a pretty pebble!",
+          "vi": "Con lượm được viên sỏi đẹp!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-027",
+      "en": "cave",
+      "vi": "cái hang",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a cave!",
+          "vi": "Nhìn kìa, cái hang!"
+        },
+        {
+          "en": "What's inside the cave?",
+          "vi": "Trong hang có gì vậy?"
+        },
+        {
+          "en": "Let's make a cave with blankets!",
+          "vi": "Mình lấy mền làm cái hang nha!"
+        },
+        {
+          "en": "The cave is dark and cool.",
+          "vi": "Trong hang tối và mát."
+        },
+        {
+          "en": "Hello! The cave echoes!",
+          "vi": "Hello! Cái hang vọng lại kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-028",
+      "en": "desert",
+      "vi": "sa mạc",
+      "pos": "noun",
+      "emoji": "🏜️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, this picture shows a desert!",
+          "vi": "Nhìn nè, hình này là sa mạc!"
+        },
+        {
+          "en": "Why is it so hot in the desert?",
+          "vi": "Sao ở sa mạc nóng vậy?"
+        },
+        {
+          "en": "Let's find the desert on the map.",
+          "vi": "Mình tìm sa mạc trên bản đồ nha."
+        },
+        {
+          "en": "The desert has lots of sand and very little water.",
+          "vi": "Sa mạc có nhiều cát mà rất ít nước."
+        },
+        {
+          "en": "Camels can walk in the desert for days!",
+          "vi": "Lạc đà đi trong sa mạc được nhiều ngày đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-029",
+      "en": "sprout",
+      "vi": "mầm cây",
+      "pos": "noun",
+      "emoji": "🌱",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tiny green sprout!",
+          "vi": "Nhìn kìa, cái mầm xanh nhỏ xíu!"
+        },
+        {
+          "en": "Where's the new sprout?",
+          "vi": "Cái mầm mới đâu rồi?"
+        },
+        {
+          "en": "Let's give the sprout some water.",
+          "vi": "Mình tưới nước cho cái mầm nha."
+        },
+        {
+          "en": "The sprout is growing every day.",
+          "vi": "Cái mầm lớn lên mỗi ngày."
+        },
+        {
+          "en": "My seed has a sprout!",
+          "vi": "Hạt giống của con nảy mầm rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-030",
+      "en": "waves",
+      "vi": "sóng biển",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at the big waves!",
+          "vi": "Nhìn sóng to kìa!"
+        },
+        {
+          "en": "Can you jump over the waves?",
+          "vi": "Con nhảy qua sóng được không?"
+        },
+        {
+          "en": "Hold my hand when the waves come.",
+          "vi": "Sóng tới thì nắm tay mình nha."
+        },
+        {
+          "en": "The waves are so loud.",
+          "vi": "Sóng biển kêu to ghê."
+        },
+        {
+          "en": "The waves knocked down my sandcastle!",
+          "vi": "Sóng làm sập lâu đài cát của con rồi!",
+          "ipa": "/ðə weɪvz nɑkt daʊn maɪ ˈsændˌkæsəl/"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-031",
+      "en": "petal",
+      "vi": "cánh hoa",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a pink petal!",
+          "vi": "Nhìn kìa, cánh hoa màu hồng!"
+        },
+        {
+          "en": "How many petals does the flower have?",
+          "vi": "Bông hoa có mấy cánh?"
+        },
+        {
+          "en": "Let's count the petals together.",
+          "vi": "Mình đếm cánh hoa chung nha."
+        },
+        {
+          "en": "The petals are so soft.",
+          "vi": "Cánh hoa mềm quá."
+        },
+        {
+          "en": "The petals fell on my head!",
+          "vi": "Cánh hoa rơi trên đầu con!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-032",
+      "en": "sunflower",
+      "vi": "hoa hướng dương",
+      "pos": "noun",
+      "emoji": "🌻",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a giant sunflower!",
+          "vi": "Wow, bông hướng dương to quá!"
+        },
+        {
+          "en": "Is the sunflower taller than you?",
+          "vi": "Bông hướng dương cao hơn con không?"
+        },
+        {
+          "en": "Let's plant sunflower seeds.",
+          "vi": "Mình trồng hạt hướng dương nha."
+        },
+        {
+          "en": "Sunflowers are big and yellow.",
+          "vi": "Hoa hướng dương to và màu vàng."
+        },
+        {
+          "en": "The sunflower is looking at the sun!",
+          "vi": "Bông hướng dương đang nhìn mặt trời kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-033",
+      "en": "rose",
+      "vi": "hoa hồng",
+      "pos": "noun",
+      "emoji": "🌹",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a red rose!",
+          "vi": "Nhìn kìa, bông hồng đỏ!"
+        },
+        {
+          "en": "Do you want to smell the rose?",
+          "vi": "Con muốn ngửi bông hồng không?"
+        },
+        {
+          "en": "Careful, roses have thorns.",
+          "vi": "Cẩn thận, hoa hồng có gai đó."
+        },
+        {
+          "en": "This rose smells so sweet.",
+          "vi": "Bông hồng này thơm quá."
+        },
+        {
+          "en": "A rose for you, Mommy!",
+          "vi": "Tặng mẹ bông hồng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-034",
+      "en": "lotus",
+      "vi": "hoa sen",
+      "pos": "noun",
+      "emoji": "🪷",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a lotus in the pond!",
+          "vi": "Nhìn kìa, hoa sen dưới ao!"
+        },
+        {
+          "en": "What color is the lotus?",
+          "vi": "Hoa sen màu gì?"
+        },
+        {
+          "en": "Let's take a picture of the lotus.",
+          "vi": "Mình chụp hình hoa sen nha."
+        },
+        {
+          "en": "The lotus is pink and pretty.",
+          "vi": "Hoa sen màu hồng, đẹp ghê."
+        },
+        {
+          "en": "I saw a big lotus leaf!",
+          "vi": "Con thấy lá sen to!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-035",
+      "en": "palm tree",
+      "vi": "cây dừa",
+      "pos": "noun",
+      "emoji": "🌴",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tall palm tree!",
+          "vi": "Nhìn kìa, cây dừa cao quá!"
+        },
+        {
+          "en": "Are there coconuts on the palm tree?",
+          "vi": "Trên cây dừa có trái dừa không?"
+        },
+        {
+          "en": "Let's sit under the palm tree.",
+          "vi": "Mình ngồi dưới gốc cây dừa nha."
+        },
+        {
+          "en": "The palm tree is swaying.",
+          "vi": "Cây dừa đung đưa."
+        },
+        {
+          "en": "Palm trees are at the beach!",
+          "vi": "Cây dừa có ở bãi biển đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-036",
+      "en": "cactus",
+      "vi": "cây xương rồng",
+      "pos": "noun",
+      "emoji": "🌵",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little cactus!",
+          "vi": "Nhìn kìa, cây xương rồng nhỏ!"
+        },
+        {
+          "en": "Can you touch a cactus? No!",
+          "vi": "Con đụng cây xương rồng được không? Không!"
+        },
+        {
+          "en": "Don't touch the cactus, it's pokey.",
+          "vi": "Đừng đụng cây xương rồng, gai lắm."
+        },
+        {
+          "en": "The cactus doesn't need much water.",
+          "vi": "Cây xương rồng không cần nhiều nước."
+        },
+        {
+          "en": "Ouch! The cactus poked me!",
+          "vi": "Úi! Cây xương rồng đâm con!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-037",
+      "en": "nature",
+      "vi": "thiên nhiên",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, nature is so beautiful!",
+          "vi": "Wow, thiên nhiên đẹp quá!"
+        },
+        {
+          "en": "What's your favorite thing in nature?",
+          "vi": "Con thích gì nhất trong thiên nhiên?"
+        },
+        {
+          "en": "Let's go on a nature walk this weekend.",
+          "vi": "Cuối tuần này mình đi dạo ngắm thiên nhiên nha."
+        },
+        {
+          "en": "We pick up our trash to protect nature.",
+          "vi": "Mình nhặt rác để bảo vệ thiên nhiên."
+        },
+        {
+          "en": "I love being out in nature with you!",
+          "vi": "Con thích đi ra thiên nhiên với ba mẹ lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-038",
+      "en": "fresh air",
+      "vi": "không khí trong lành",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ahh, smell the fresh air!",
+          "vi": "A, hít thở không khí trong lành nè!"
+        },
+        {
+          "en": "Do you want some fresh air?",
+          "vi": "Con muốn ra ngoài hít thở chút không?"
+        },
+        {
+          "en": "Let's go outside for some fresh air.",
+          "vi": "Mình ra ngoài hít thở không khí trong lành nha."
+        },
+        {
+          "en": "The fresh air feels so good.",
+          "vi": "Không khí trong lành dễ chịu quá."
+        },
+        {
+          "en": "Fresh air makes me feel happy!",
+          "vi": "Không khí trong lành làm con thấy vui!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-039",
+      "en": "path",
+      "vi": "con đường mòn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little path!",
+          "vi": "Nhìn kìa, con đường mòn nhỏ!"
+        },
+        {
+          "en": "Where does this path go?",
+          "vi": "Con đường này dẫn đi đâu vậy?"
+        },
+        {
+          "en": "Let's stay on the path.",
+          "vi": "Mình đi trên đường mòn thôi nha."
+        },
+        {
+          "en": "The path is bumpy and rocky.",
+          "vi": "Con đường gập ghềnh nhiều đá."
+        },
+        {
+          "en": "I want to walk down the path!",
+          "vi": "Con muốn đi theo con đường đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-040",
+      "en": "shade",
+      "vi": "bóng râm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ahh, nice cool shade!",
+          "vi": "A, bóng râm mát quá!"
+        },
+        {
+          "en": "Can you find some shade?",
+          "vi": "Con tìm chỗ có bóng râm được không?"
+        },
+        {
+          "en": "Let's sit in the shade.",
+          "vi": "Mình ngồi trong bóng râm nha."
+        },
+        {
+          "en": "It's cooler in the shade.",
+          "vi": "Trong bóng râm mát hơn."
+        },
+        {
+          "en": "I'm hot, let's go in the shade!",
+          "vi": "Con nóng quá, mình vô chỗ râm đi!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-041",
+      "en": "sunset",
+      "vi": "hoàng hôn",
+      "pos": "noun",
+      "emoji": "🌅",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at the sunset!",
+          "vi": "Wow, nhìn hoàng hôn kìa!"
+        },
+        {
+          "en": "What colors are in the sunset?",
+          "vi": "Hoàng hôn có những màu gì?"
+        },
+        {
+          "en": "Let's watch the sunset together.",
+          "vi": "Mình cùng ngắm hoàng hôn nha."
+        },
+        {
+          "en": "The sunset is orange and pink.",
+          "vi": "Hoàng hôn màu cam với hồng."
+        },
+        {
+          "en": "The sunset was so pretty!",
+          "vi": "Hoàng hôn đẹp quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-042",
+      "en": "sunrise",
+      "vi": "bình minh",
+      "pos": "noun",
+      "emoji": "🌄",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wake up, look at the sunrise!",
+          "vi": "Dậy đi con, nhìn bình minh nè!"
+        },
+        {
+          "en": "Have you ever seen a sunrise?",
+          "vi": "Con thấy bình minh bao giờ chưa?"
+        },
+        {
+          "en": "Let's get up early to watch the sunrise.",
+          "vi": "Mình dậy sớm ngắm bình minh nha."
+        },
+        {
+          "en": "The sky turns pink and gold at sunrise.",
+          "vi": "Lúc bình minh, trời chuyển màu hồng và vàng."
+        },
+        {
+          "en": "We watched the sunrise at the beach!",
+          "vi": "Tụi con ngắm bình minh ở biển đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-043",
+      "en": "root",
+      "vi": "rễ cây",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, you can see the tree's roots!",
+          "vi": "Nhìn kìa, thấy được rễ cây nè!",
+          "ipa": "/lʊk ju kæn si ðə tɹiz ɹuts/"
+        },
+        {
+          "en": "Why do plants need roots?",
+          "vi": "Sao cây cần có rễ vậy?"
+        },
+        {
+          "en": "Let's pull the weed out, roots and all.",
+          "vi": "Mình nhổ cỏ dại ra, nhổ luôn cả rễ nha."
+        },
+        {
+          "en": "Roots drink water from the dirt for the plant.",
+          "vi": "Rễ hút nước trong đất để nuôi cây."
+        },
+        {
+          "en": "The roots are holding the tree in the ground.",
+          "vi": "Rễ giữ cho cái cây đứng vững trong đất."
+        }
+      ]
+    },
+    {
+      "id": "v-nature-044",
+      "en": "pinecone",
+      "vi": "trái thông",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "ipa": "/ˈpaɪnˌkoʊn/",
+      "examples": [
+        {
+          "en": "Ooh, a pinecone!",
+          "vi": "Ồ, trái thông!",
+          "ipa": "/u ə ˈpaɪnˌkoʊn/"
+        },
+        {
+          "en": "How does the pinecone feel?",
+          "vi": "Trái thông sờ thấy sao con?",
+          "ipa": "/haʊ dʌz ðə ˈpaɪnˌkoʊn fil/"
+        },
+        {
+          "en": "Let's collect pinecones!",
+          "vi": "Mình đi lượm trái thông nha!",
+          "ipa": "/lɛts kəˈlɛkt ˈpaɪnˌkoʊnz/"
+        },
+        {
+          "en": "The pinecone is bumpy and brown.",
+          "vi": "Trái thông sần sần, màu nâu.",
+          "ipa": "/ðə ˈpaɪnˌkoʊn ɪz ˈbʌmpi ənd bɹaʊn/"
+        },
+        {
+          "en": "I found a big pinecone!",
+          "vi": "Con lượm được trái thông to!",
+          "ipa": "/aɪ faʊnd ə bɪɡ ˈpaɪnˌkoʊn/"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-045",
+      "en": "rice field",
+      "vi": "ruộng lúa",
+      "pos": "noun",
+      "emoji": "🌾",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at the green rice field!",
+          "vi": "Nhìn ruộng lúa xanh kìa!"
+        },
+        {
+          "en": "What grows in the rice field?",
+          "vi": "Trong ruộng lúa trồng gì?"
+        },
+        {
+          "en": "Let's walk by the rice field.",
+          "vi": "Mình đi dạo bên ruộng lúa nha."
+        },
+        {
+          "en": "The rice field is so big.",
+          "vi": "Ruộng lúa rộng quá."
+        },
+        {
+          "en": "I see ducks in the rice field!",
+          "vi": "Con thấy vịt ngoài ruộng lúa!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-046",
+      "en": "bamboo",
+      "vi": "cây tre",
+      "pos": "noun",
+      "emoji": "🎋",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look how tall the bamboo is!",
+          "vi": "Nhìn cây tre cao chưa kìa!"
+        },
+        {
+          "en": "Who likes to eat bamboo?",
+          "vi": "Con gì thích ăn tre?"
+        },
+        {
+          "en": "Let's listen to the bamboo.",
+          "vi": "Mình nghe tiếng cây tre nha."
+        },
+        {
+          "en": "Bamboo is tall and green.",
+          "vi": "Cây tre cao và xanh."
+        },
+        {
+          "en": "The bamboo is so tall!",
+          "vi": "Tre cao quá trời!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-047",
+      "en": "stream",
+      "vi": "con suối",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Listen, can you hear the stream?",
+          "vi": "Nghe nè, con nghe tiếng suối không?"
+        },
+        {
+          "en": "Do you think we can cross the stream?",
+          "vi": "Con nghĩ mình băng qua suối được không?"
+        },
+        {
+          "en": "Let's step on the rocks to cross the stream.",
+          "vi": "Mình bước lên mấy cục đá để qua suối nha."
+        },
+        {
+          "en": "The stream is clear, so we can see the fish.",
+          "vi": "Nước suối trong nên mình thấy được cá."
+        },
+        {
+          "en": "We splashed in the stream on our trip!",
+          "vi": "Đi chơi tụi con nghịch nước dưới suối!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-048",
+      "en": "valley",
+      "vi": "thung lũng",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look down there, it's a beautiful green valley!",
+          "vi": "Nhìn xuống dưới kìa, thung lũng xanh đẹp quá!"
+        },
+        {
+          "en": "How do you think the river made this valley?",
+          "vi": "Con nghĩ con sông đã tạo ra thung lũng này như thế nào?"
+        },
+        {
+          "en": "Let's hike down into the valley after lunch.",
+          "vi": "Ăn trưa xong mình đi bộ xuống thung lũng nha."
+        },
+        {
+          "en": "A valley is the low land between two mountains.",
+          "vi": "Thung lũng là vùng đất thấp nằm giữa hai ngọn núi."
+        },
+        {
+          "en": "I think the valley looks like a giant green bowl.",
+          "vi": "Con thấy thung lũng giống cái tô xanh khổng lồ."
+        }
+      ]
+    },
+    {
+      "id": "v-nature-049",
+      "en": "log",
+      "vi": "khúc gỗ",
+      "pos": "noun",
+      "emoji": "🪵",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big log!",
+          "vi": "Nhìn kìa, khúc gỗ to!"
+        },
+        {
+          "en": "Can you walk on the log?",
+          "vi": "Con đi trên khúc gỗ được không?"
+        },
+        {
+          "en": "Let's sit on the log and rest.",
+          "vi": "Mình ngồi lên khúc gỗ nghỉ chút nha."
+        },
+        {
+          "en": "The log is old and bumpy.",
+          "vi": "Khúc gỗ cũ và sần sùi."
+        },
+        {
+          "en": "I jumped over the log!",
+          "vi": "Con nhảy qua khúc gỗ!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-050",
+      "en": "bloom",
+      "vi": "nở (hoa)",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the flowers are blooming!",
+          "vi": "Nhìn kìa, hoa đang nở!"
+        },
+        {
+          "en": "When will our flowers bloom?",
+          "vi": "Chừng nào hoa của mình nở ta?"
+        },
+        {
+          "en": "Let's water it, so it can bloom.",
+          "vi": "Mình tưới nước để hoa nở nha."
+        },
+        {
+          "en": "Lots of flowers bloom in the spring.",
+          "vi": "Mùa xuân nhiều hoa nở lắm."
+        },
+        {
+          "en": "Our flower bloomed this morning!",
+          "vi": "Sáng nay bông hoa của mình nở rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-nature-051",
+      "en": "rainforest",
+      "vi": "rừng mưa nhiệt đới",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, this video shows a real rainforest!",
+          "vi": "Wow, video này quay rừng mưa nhiệt đới thật nè!"
+        },
+        {
+          "en": "Why do you think it rains so much in the rainforest?",
+          "vi": "Con nghĩ sao rừng mưa nhiệt đới lại mưa nhiều vậy?"
+        },
+        {
+          "en": "Let's find the rainforests on the map together.",
+          "vi": "Mình cùng tìm rừng mưa nhiệt đới trên bản đồ nha."
+        },
+        {
+          "en": "Lots of animals live in the rainforest, from frogs to monkeys.",
+          "vi": "Rừng mưa nhiệt đới có nhiều con vật, từ ếch tới khỉ."
+        },
+        {
+          "en": "We should protect the rainforest, because it helps the whole planet.",
+          "vi": "Mình nên bảo vệ rừng mưa vì nó giúp ích cho cả trái đất."
+        }
+      ]
+    },
+    {
+      "id": "v-nature-052",
+      "en": "volcano",
+      "vi": "núi lửa",
+      "pos": "noun",
+      "emoji": "🌋",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, look at this volcano picture!",
+          "vi": "Ồ, nhìn hình núi lửa nè!"
+        },
+        {
+          "en": "What comes out of a volcano?",
+          "vi": "Cái gì phun ra từ núi lửa?"
+        },
+        {
+          "en": "Let's make a volcano with baking soda!",
+          "vi": "Mình làm núi lửa bằng baking soda nha!"
+        },
+        {
+          "en": "A volcano is a mountain with hot lava inside.",
+          "vi": "Núi lửa là ngọn núi có dung nham nóng bên trong."
+        },
+        {
+          "en": "Our volcano bubbled over, it was so cool!",
+          "vi": "Núi lửa của tụi con sủi bọt tràn ra, hay quá!"
+        }
+      ]
+    }
+  ]
+}

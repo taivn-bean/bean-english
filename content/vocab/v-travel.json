@@ -1,0 +1,1690 @@
+{
+  "deckId": "v-travel",
+  "words": [
+    {
+      "id": "v-travel-001",
+      "en": "trip",
+      "vi": "chuyến đi",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, we're going on a trip!",
+          "vi": "Yeah, mình sắp đi chơi xa rồi!"
+        },
+        {
+          "en": "Where should we go on our next trip?",
+          "vi": "Chuyến đi tới mình đi đâu ta?"
+        },
+        {
+          "en": "Let's plan our trip together.",
+          "vi": "Mình cùng lên kế hoạch cho chuyến đi nha."
+        },
+        {
+          "en": "That was the best trip ever!",
+          "vi": "Đó là chuyến đi vui nhất luôn!"
+        },
+        {
+          "en": "I took lots of pictures on our trip!",
+          "vi": "Con chụp nhiều hình trong chuyến đi lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-002",
+      "en": "vacation",
+      "vi": "kỳ nghỉ",
+      "pos": "noun",
+      "emoji": "🏖️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Vacation time, yay!",
+          "vi": "Tới kỳ nghỉ rồi, yeah!"
+        },
+        {
+          "en": "Where do you want to go on vacation?",
+          "vi": "Kỳ nghỉ này con muốn đi đâu?"
+        },
+        {
+          "en": "Let's pick a fun place for our vacation.",
+          "vi": "Mình chọn một chỗ vui cho kỳ nghỉ nha."
+        },
+        {
+          "en": "Vacations are so relaxing.",
+          "vi": "Kỳ nghỉ thư giãn ghê."
+        },
+        {
+          "en": "We're going to the beach on vacation!",
+          "vi": "Kỳ nghỉ này mình đi biển đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-003",
+      "en": "suitcase",
+      "vi": "cái vali",
+      "pos": "noun",
+      "emoji": "🧳",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big suitcase!",
+          "vi": "Nhìn nè, cái vali bự quá!"
+        },
+        {
+          "en": "Where's your little suitcase?",
+          "vi": "Cái vali nhỏ của con đâu rồi?"
+        },
+        {
+          "en": "Put your teddy in the suitcase.",
+          "vi": "Bỏ gấu bông vô vali đi con."
+        },
+        {
+          "en": "This suitcase is so heavy!",
+          "vi": "Cái vali này nặng quá!"
+        },
+        {
+          "en": "I can roll my own suitcase!",
+          "vi": "Con tự kéo vali của con được nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-004",
+      "en": "passport",
+      "vi": "hộ chiếu",
+      "pos": "noun",
+      "emoji": "🛂",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your passport!",
+          "vi": "Hộ chiếu của con nè!"
+        },
+        {
+          "en": "Do we have all our passports?",
+          "vi": "Mình mang đủ hộ chiếu hết chưa?"
+        },
+        {
+          "en": "Let's keep the passports in this bag.",
+          "vi": "Mình cất hộ chiếu trong cái túi này nha."
+        },
+        {
+          "en": "A passport lets you travel to other countries.",
+          "vi": "Hộ chiếu giúp mình đi được qua nước khác."
+        },
+        {
+          "en": "I look so funny in my passport picture!",
+          "vi": "Hình hộ chiếu của con nhìn mắc cười ghê!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-005",
+      "en": "ticket",
+      "vi": "cái vé",
+      "pos": "noun",
+      "emoji": "🎫",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's your ticket!",
+          "vi": "Vé của con nè!"
+        },
+        {
+          "en": "Do you have your ticket?",
+          "vi": "Con cầm vé chưa?"
+        },
+        {
+          "en": "Hold on to your ticket, please.",
+          "vi": "Con giữ vé cẩn thận nha."
+        },
+        {
+          "en": "This ticket is for the train.",
+          "vi": "Cái vé này là vé xe lửa."
+        },
+        {
+          "en": "I gave my ticket to the lady!",
+          "vi": "Con đưa vé cho cô rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-006",
+      "en": "airport",
+      "vi": "sân bay",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "We're at the airport!",
+          "vi": "Tới sân bay rồi!"
+        },
+        {
+          "en": "See the planes at the airport?",
+          "vi": "Con thấy máy bay ở sân bay không?"
+        },
+        {
+          "en": "Stay close to me at the airport.",
+          "vi": "Ở sân bay thì đi sát bên nha."
+        },
+        {
+          "en": "The airport is huge and busy.",
+          "vi": "Sân bay rộng và đông ghê."
+        },
+        {
+          "en": "I love watching planes at the airport!",
+          "vi": "Con thích coi máy bay ở sân bay!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-007",
+      "en": "hotel",
+      "vi": "khách sạn",
+      "pos": "noun",
+      "emoji": "🏨",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, our hotel room is nice!",
+          "vi": "Wow, phòng khách sạn đẹp ghê!"
+        },
+        {
+          "en": "Which bed in the hotel is yours?",
+          "vi": "Ở khách sạn giường nào là của con?"
+        },
+        {
+          "en": "Let's go swim at the hotel pool.",
+          "vi": "Mình xuống hồ bơi khách sạn bơi nha."
+        },
+        {
+          "en": "The hotel has a big breakfast.",
+          "vi": "Khách sạn có bữa sáng nhiều món lắm."
+        },
+        {
+          "en": "I jumped on the hotel bed!",
+          "vi": "Con nhảy trên giường khách sạn nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-008",
+      "en": "camera",
+      "vi": "cái máy chụp hình",
+      "pos": "noun",
+      "emoji": "📷",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Smile for the camera!",
+          "vi": "Cười lên nào, chụp hình nè!"
+        },
+        {
+          "en": "Can I use the camera?",
+          "vi": "Con xài máy chụp hình được không?"
+        },
+        {
+          "en": "Hold the camera with two hands.",
+          "vi": "Cầm máy chụp hình bằng hai tay nha."
+        },
+        {
+          "en": "This camera takes great pictures.",
+          "vi": "Máy này chụp hình đẹp ghê."
+        },
+        {
+          "en": "I took a picture with the camera!",
+          "vi": "Con chụp hình bằng máy chụp hình rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-009",
+      "en": "souvenir",
+      "vi": "quà lưu niệm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at all these souvenirs!",
+          "vi": "Coi nè, nhiều quà lưu niệm quá!"
+        },
+        {
+          "en": "Which souvenir should we buy for Grandma?",
+          "vi": "Mình mua quà lưu niệm nào cho bà ta?"
+        },
+        {
+          "en": "Let's pick one souvenir each.",
+          "vi": "Mỗi người chọn một món quà lưu niệm nha."
+        },
+        {
+          "en": "This souvenir will help us remember the trip.",
+          "vi": "Món quà lưu niệm này giúp mình nhớ chuyến đi."
+        },
+        {
+          "en": "I got a seashell necklace as a souvenir!",
+          "vi": "Con mua vòng cổ vỏ sò làm quà lưu niệm!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-010",
+      "en": "birthday",
+      "vi": "sinh nhật",
+      "pos": "noun",
+      "emoji": "🎂",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Happy birthday, sweetie!",
+          "vi": "Chúc mừng sinh nhật con yêu!"
+        },
+        {
+          "en": "When is your birthday?",
+          "vi": "Sinh nhật con là ngày nào?"
+        },
+        {
+          "en": "Let's sing the birthday song!",
+          "vi": "Mình hát bài chúc mừng sinh nhật nào!"
+        },
+        {
+          "en": "Your birthday is almost here!",
+          "vi": "Sắp tới sinh nhật con rồi!"
+        },
+        {
+          "en": "I'm turning five on my birthday!",
+          "vi": "Sinh nhật này con tròn năm tuổi!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-011",
+      "en": "party",
+      "vi": "bữa tiệc",
+      "pos": "noun",
+      "emoji": "🥳",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, it's a party!",
+          "vi": "Yeah, có tiệc nè!"
+        },
+        {
+          "en": "Who's coming to your party?",
+          "vi": "Ai tới dự tiệc của con?"
+        },
+        {
+          "en": "Let's get ready for the party.",
+          "vi": "Mình chuẩn bị cho bữa tiệc nha."
+        },
+        {
+          "en": "That party was so much fun!",
+          "vi": "Bữa tiệc đó vui quá trời!"
+        },
+        {
+          "en": "I want a dinosaur party!",
+          "vi": "Con muốn tiệc chủ đề khủng long!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-012",
+      "en": "present",
+      "vi": "món quà",
+      "pos": "noun",
+      "emoji": "🎁",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a present for you!",
+          "vi": "Ồ, quà của con nè!"
+        },
+        {
+          "en": "What's inside the present, do you think?",
+          "vi": "Con đoán trong món quà có gì?"
+        },
+        {
+          "en": "Let's open the present together.",
+          "vi": "Mình cùng mở quà nha."
+        },
+        {
+          "en": "This present is wrapped so nicely.",
+          "vi": "Món quà này gói đẹp ghê."
+        },
+        {
+          "en": "I made a present for Mommy!",
+          "vi": "Con làm quà tặng mẹ nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-013",
+      "en": "Tet",
+      "vi": "Tết",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Happy Tet, everyone!",
+          "vi": "Chúc mừng năm mới cả nhà!"
+        },
+        {
+          "en": "What do you love most about Tet?",
+          "vi": "Con thích gì nhất ở ngày Tết?"
+        },
+        {
+          "en": "Let's clean the house for Tet.",
+          "vi": "Mình dọn nhà đón Tết nha."
+        },
+        {
+          "en": "Tet is my favorite time!",
+          "vi": "Tết là lúc mình thích nhất!"
+        },
+        {
+          "en": "We visit Grandma every Tet!",
+          "vi": "Tết nào mình cũng về thăm bà!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-014",
+      "en": "lucky money",
+      "vi": "tiền lì xì",
+      "pos": "noun",
+      "emoji": "🧧",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a red envelope with lucky money!",
+          "vi": "Ồ, bao lì xì đỏ có tiền nè!"
+        },
+        {
+          "en": "How much lucky money did you get?",
+          "vi": "Con được lì xì bao nhiêu?"
+        },
+        {
+          "en": "Say thank you for the lucky money.",
+          "vi": "Con cảm ơn khi nhận lì xì nha."
+        },
+        {
+          "en": "Lucky money comes in red envelopes.",
+          "vi": "Tiền lì xì được bỏ trong bao đỏ."
+        },
+        {
+          "en": "I'm saving my lucky money!",
+          "vi": "Con để dành tiền lì xì!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-015",
+      "en": "Christmas",
+      "vi": "Giáng sinh / Noel",
+      "pos": "noun",
+      "emoji": "🎄",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Merry Christmas!",
+          "vi": "Giáng sinh vui vẻ!"
+        },
+        {
+          "en": "What do you want for Christmas?",
+          "vi": "Giáng sinh con muốn quà gì?"
+        },
+        {
+          "en": "Let's sing a Christmas song.",
+          "vi": "Mình hát một bài Giáng sinh nha."
+        },
+        {
+          "en": "The Christmas lights are so pretty.",
+          "vi": "Đèn Giáng sinh đẹp quá."
+        },
+        {
+          "en": "I can't wait for Christmas!",
+          "vi": "Con mong tới Giáng sinh ghê!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-016",
+      "en": "Halloween",
+      "vi": "lễ Halloween",
+      "pos": "noun",
+      "emoji": "🎃",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Happy Halloween!",
+          "vi": "Halloween vui vẻ nha!"
+        },
+        {
+          "en": "What will you be for Halloween?",
+          "vi": "Halloween này con muốn hóa trang thành gì?"
+        },
+        {
+          "en": "Let's make a Halloween mask.",
+          "vi": "Mình làm mặt nạ Halloween nha."
+        },
+        {
+          "en": "Halloween is spooky and fun.",
+          "vi": "Halloween vừa ma mị vừa vui."
+        },
+        {
+          "en": "I'll be a cat for Halloween!",
+          "vi": "Halloween con sẽ hóa trang thành mèo!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-017",
+      "en": "Mid-Autumn Festival",
+      "vi": "Tết Trung thu",
+      "pos": "noun",
+      "emoji": "🥮",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Happy Mid-Autumn Festival!",
+          "vi": "Trung thu vui vẻ nha!"
+        },
+        {
+          "en": "Are you excited for the Mid-Autumn Festival?",
+          "vi": "Con có háo hức đón Trung thu không?"
+        },
+        {
+          "en": "Let's get ready for the Mid-Autumn Festival!",
+          "vi": "Mình chuẩn bị đón Trung thu nào!"
+        },
+        {
+          "en": "The Mid-Autumn Festival moon is so round.",
+          "vi": "Trăng Trung thu tròn ghê."
+        },
+        {
+          "en": "I love the Mid-Autumn Festival!",
+          "vi": "Con thích Trung thu lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-018",
+      "en": "lantern",
+      "vi": "cái lồng đèn",
+      "pos": "noun",
+      "emoji": "🏮",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at your lantern!",
+          "vi": "Wow, coi lồng đèn của con kìa!"
+        },
+        {
+          "en": "Which lantern do you want?",
+          "vi": "Con muốn cái lồng đèn nào?"
+        },
+        {
+          "en": "Hold your lantern up high!",
+          "vi": "Giơ lồng đèn lên cao đi con!"
+        },
+        {
+          "en": "Your lantern is so bright.",
+          "vi": "Lồng đèn của con sáng ghê."
+        },
+        {
+          "en": "I want a star lantern!",
+          "vi": "Con muốn lồng đèn ông sao!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-019",
+      "en": "fireworks",
+      "vi": "pháo hoa",
+      "pos": "noun",
+      "emoji": "🎆",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at the fireworks!",
+          "vi": "Wow, coi pháo hoa kìa!"
+        },
+        {
+          "en": "Are the fireworks too loud?",
+          "vi": "Pháo hoa có ồn quá không con?"
+        },
+        {
+          "en": "Let's cover our ears for the fireworks.",
+          "vi": "Mình bịt tai lại khi bắn pháo hoa nha."
+        },
+        {
+          "en": "The fireworks are so colorful!",
+          "vi": "Pháo hoa nhiều màu ghê!"
+        },
+        {
+          "en": "I saw fireworks on New Year's!",
+          "vi": "Con thấy pháo hoa đêm giao thừa!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-020",
+      "en": "visit",
+      "vi": "đi thăm / ghé chơi",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Grandma's coming to visit!",
+          "vi": "Bà sắp tới thăm mình nè!"
+        },
+        {
+          "en": "Do you want to visit Grandpa today?",
+          "vi": "Hôm nay con muốn đi thăm ông không?"
+        },
+        {
+          "en": "Let's visit your cousins this weekend.",
+          "vi": "Cuối tuần mình qua thăm mấy anh chị họ nha."
+        },
+        {
+          "en": "Visiting family makes me so happy.",
+          "vi": "Đi thăm gia đình làm mình vui ghê."
+        },
+        {
+          "en": "We visited the zoo yesterday!",
+          "vi": "Hôm qua mình đi sở thú đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-021",
+      "en": "holiday",
+      "vi": "ngày lễ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, today is a holiday!",
+          "vi": "Yeah, hôm nay là ngày lễ!"
+        },
+        {
+          "en": "What's your favorite holiday?",
+          "vi": "Con thích ngày lễ nào nhất?"
+        },
+        {
+          "en": "Let's make cards for the holiday.",
+          "vi": "Mình làm thiệp cho ngày lễ nha."
+        },
+        {
+          "en": "There's no school on a holiday.",
+          "vi": "Ngày lễ thì không phải đi học."
+        },
+        {
+          "en": "We're going to the beach for the holiday.",
+          "vi": "Ngày lễ này mình sẽ đi biển."
+        }
+      ]
+    },
+    {
+      "id": "v-travel-022",
+      "en": "train station",
+      "vi": "ga xe lửa",
+      "pos": "noun",
+      "emoji": "🚉",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the train station!",
+          "vi": "Ga xe lửa đây rồi!"
+        },
+        {
+          "en": "Which train do we take at the train station?",
+          "vi": "Ở ga mình đi chuyến tàu nào?"
+        },
+        {
+          "en": "Stay behind the yellow line at the train station.",
+          "vi": "Ở ga xe lửa thì đứng sau vạch vàng nha."
+        },
+        {
+          "en": "The train station is loud and busy.",
+          "vi": "Ga xe lửa ồn ào và đông đúc."
+        },
+        {
+          "en": "We'll meet Grandpa at the train station tomorrow.",
+          "vi": "Mai mình ra ga xe lửa đón ông."
+        }
+      ]
+    },
+    {
+      "id": "v-travel-023",
+      "en": "resort",
+      "vi": "khu nghỉ dưỡng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, this resort is beautiful!",
+          "vi": "Wow, khu nghỉ dưỡng này đẹp quá!"
+        },
+        {
+          "en": "What do you want to do first at the resort?",
+          "vi": "Tới khu nghỉ dưỡng con muốn làm gì trước?"
+        },
+        {
+          "en": "Let's check out the pool at the resort.",
+          "vi": "Mình đi coi hồ bơi ở khu nghỉ dưỡng nha."
+        },
+        {
+          "en": "The resort is right next to the beach.",
+          "vi": "Khu nghỉ dưỡng nằm ngay sát biển."
+        },
+        {
+          "en": "We stayed at a resort, and I swam every day!",
+          "vi": "Mình ở khu nghỉ dưỡng, ngày nào con cũng đi bơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-024",
+      "en": "road trip",
+      "vi": "chuyến đi xa bằng xe",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Road trip, yay!",
+          "vi": "Đi chơi xa bằng xe, yeah!"
+        },
+        {
+          "en": "What snacks should we bring on the road trip?",
+          "vi": "Đi xe đường dài mình mang đồ ăn vặt gì ta?"
+        },
+        {
+          "en": "Let's play I Spy on our road trip.",
+          "vi": "Đi đường mình chơi trò đoán đồ vật nha."
+        },
+        {
+          "en": "Road trips are long, but we see so much.",
+          "vi": "Đi xe đường dài thì lâu, mà được ngắm nhiều thứ lắm."
+        },
+        {
+          "en": "We sang songs the whole road trip!",
+          "vi": "Cả chuyến đi mình hát suốt luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-025",
+      "en": "flight",
+      "vi": "chuyến bay",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Our flight is boarding now!",
+          "vi": "Chuyến bay của mình đang lên máy bay rồi!"
+        },
+        {
+          "en": "How long is the flight?",
+          "vi": "Chuyến bay bao lâu vậy?"
+        },
+        {
+          "en": "Let's get snacks before our flight.",
+          "vi": "Mình mua đồ ăn vặt trước chuyến bay nha."
+        },
+        {
+          "en": "That was a long flight, but you did great.",
+          "vi": "Chuyến bay dài ghê, mà con ngoan lắm."
+        },
+        {
+          "en": "My first flight was so exciting!",
+          "vi": "Chuyến bay đầu tiên của con vui quá trời!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-026",
+      "en": "hometown",
+      "vi": "quê / quê nhà",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "This is Daddy's hometown!",
+          "vi": "Đây là quê của ba nè!"
+        },
+        {
+          "en": "Do you remember Grandma's hometown?",
+          "vi": "Con có nhớ quê bà không?"
+        },
+        {
+          "en": "Let's go back to our hometown for Tet.",
+          "vi": "Tết này mình về quê nha."
+        },
+        {
+          "en": "My hometown has lots of rice fields.",
+          "vi": "Quê mình có nhiều ruộng lúa lắm."
+        },
+        {
+          "en": "I love going back to our hometown!",
+          "vi": "Con thích về quê lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-027",
+      "en": "postcard",
+      "vi": "tấm bưu thiếp",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a postcard from your aunt!",
+          "vi": "Nhìn nè, bưu thiếp của cô gửi!"
+        },
+        {
+          "en": "Who should we send a postcard to?",
+          "vi": "Mình gửi bưu thiếp cho ai ta?"
+        },
+        {
+          "en": "Let's write a postcard to Grandma.",
+          "vi": "Mình viết bưu thiếp cho bà nha."
+        },
+        {
+          "en": "This postcard has a picture of the beach.",
+          "vi": "Tấm bưu thiếp này có hình bãi biển."
+        },
+        {
+          "en": "I drew a sun on my postcard!",
+          "vi": "Con vẽ mặt trời lên bưu thiếp nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-028",
+      "en": "candle",
+      "vi": "cây nến",
+      "pos": "noun",
+      "emoji": "🕯️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a candle on your cake!",
+          "vi": "Nhìn nè, có cây nến trên bánh của con!"
+        },
+        {
+          "en": "How many candles are on the cake?",
+          "vi": "Trên bánh có mấy cây nến?"
+        },
+        {
+          "en": "Blow out the candles!",
+          "vi": "Thổi nến đi con!"
+        },
+        {
+          "en": "The candle is hot, don't touch.",
+          "vi": "Nến nóng lắm, đừng đụng nha."
+        },
+        {
+          "en": "I blew out all my candles!",
+          "vi": "Con thổi tắt hết nến rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-029",
+      "en": "make a wish",
+      "vi": "ước một điều",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Okay, make a wish!",
+          "vi": "Rồi, ước một điều đi con!"
+        },
+        {
+          "en": "Did you make a wish?",
+          "vi": "Con ước chưa?"
+        },
+        {
+          "en": "Close your eyes and make a wish.",
+          "vi": "Nhắm mắt lại rồi ước đi con."
+        },
+        {
+          "en": "It's fun to make a wish.",
+          "vi": "Ước một điều vui ghê."
+        },
+        {
+          "en": "I made a wish! Shh, secret!",
+          "vi": "Con ước rồi! Suỵt, bí mật nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-030",
+      "en": "invitation",
+      "vi": "thiệp mời",
+      "pos": "noun",
+      "emoji": "💌",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, you got an invitation!",
+          "vi": "Nhìn nè, con được thiệp mời!"
+        },
+        {
+          "en": "Whose party is this invitation for?",
+          "vi": "Thiệp mời này là tiệc của ai vậy?"
+        },
+        {
+          "en": "Let's make invitations for your party.",
+          "vi": "Mình làm thiệp mời cho bữa tiệc của con nha."
+        },
+        {
+          "en": "This invitation is so sparkly!",
+          "vi": "Tấm thiệp mời này lấp lánh ghê!"
+        },
+        {
+          "en": "I gave an invitation to everyone in my class.",
+          "vi": "Con đưa thiệp mời cho cả lớp rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-travel-031",
+      "en": "decorate",
+      "vi": "trang trí",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you decorated so nicely!",
+          "vi": "Wow, con trang trí đẹp quá!"
+        },
+        {
+          "en": "How should we decorate the tree?",
+          "vi": "Mình trang trí cây sao đây?"
+        },
+        {
+          "en": "Let's decorate the house for Tet!",
+          "vi": "Mình trang trí nhà đón Tết nha!"
+        },
+        {
+          "en": "Decorating is my favorite part.",
+          "vi": "Trang trí là phần mình thích nhất."
+        },
+        {
+          "en": "I decorated the cookies!",
+          "vi": "Con trang trí bánh quy rồi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-032",
+      "en": "costume",
+      "vi": "bộ đồ hóa trang",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a cool costume!",
+          "vi": "Wow, bộ đồ hóa trang ngầu quá!"
+        },
+        {
+          "en": "What costume do you want to wear?",
+          "vi": "Con muốn mặc đồ hóa trang gì?"
+        },
+        {
+          "en": "Let's put on your costume.",
+          "vi": "Mình mặc đồ hóa trang vô nha."
+        },
+        {
+          "en": "Your costume is so funny!",
+          "vi": "Bộ đồ hóa trang của con mắc cười ghê!"
+        },
+        {
+          "en": "I want a dinosaur costume!",
+          "vi": "Con muốn bộ đồ khủng long!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-033",
+      "en": "trick or treat",
+      "vi": "xin kẹo Halloween",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Trick or treat!",
+          "vi": "Cho kẹo hay bị ghẹo!"
+        },
+        {
+          "en": "Are you ready to trick or treat?",
+          "vi": "Con sẵn sàng đi xin kẹo chưa?"
+        },
+        {
+          "en": "Say \"trick or treat\" at the door.",
+          "vi": "Tới cửa nhà người ta thì nói \"trick or treat\" nha."
+        },
+        {
+          "en": "Trick or treating is so fun!",
+          "vi": "Đi xin kẹo Halloween vui ghê!"
+        },
+        {
+          "en": "I got candy trick or treating!",
+          "vi": "Con đi xin kẹo được nhiều lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-034",
+      "en": "Santa",
+      "vi": "ông già Noel",
+      "pos": "noun",
+      "emoji": "🎅",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, it's Santa!",
+          "vi": "Nhìn kìa, ông già Noel!"
+        },
+        {
+          "en": "What will you ask Santa for?",
+          "vi": "Con sẽ xin ông già Noel quà gì?"
+        },
+        {
+          "en": "Let's wave to Santa!",
+          "vi": "Mình vẫy tay chào ông già Noel nào!"
+        },
+        {
+          "en": "Santa has a big white beard.",
+          "vi": "Ông già Noel có bộ râu trắng dài."
+        },
+        {
+          "en": "I took a picture with Santa!",
+          "vi": "Con chụp hình với ông già Noel!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-035",
+      "en": "Christmas tree",
+      "vi": "cây thông Noel",
+      "pos": "noun",
+      "emoji": "🎄",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big Christmas tree!",
+          "vi": "Wow, cây thông Noel to quá!"
+        },
+        {
+          "en": "Where should we put the Christmas tree?",
+          "vi": "Mình để cây thông Noel ở đâu ta?"
+        },
+        {
+          "en": "Put the star on the Christmas tree.",
+          "vi": "Con gắn ngôi sao lên cây thông đi."
+        },
+        {
+          "en": "The Christmas tree lights are twinkling.",
+          "vi": "Đèn trên cây thông Noel lấp lánh."
+        },
+        {
+          "en": "I helped decorate the Christmas tree!",
+          "vi": "Con phụ trang trí cây thông Noel!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-036",
+      "en": "Children's Day",
+      "vi": "ngày Quốc tế Thiếu nhi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Happy Children's Day!",
+          "vi": "Chúc mừng ngày Quốc tế Thiếu nhi!"
+        },
+        {
+          "en": "Any plans for Children's Day?",
+          "vi": "Ngày Thiếu nhi con muốn làm gì?"
+        },
+        {
+          "en": "Let's go somewhere fun on Children's Day!",
+          "vi": "Ngày Thiếu nhi mình đi chơi đâu vui nha!"
+        },
+        {
+          "en": "Children's Day is all about kids!",
+          "vi": "Ngày Thiếu nhi là ngày của các bạn nhỏ!"
+        },
+        {
+          "en": "I got a gift on Children's Day!",
+          "vi": "Ngày Thiếu nhi con được quà nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-037",
+      "en": "Mother's Day",
+      "vi": "Ngày của Mẹ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Happy Mother's Day, Mommy!",
+          "vi": "Chúc mừng Ngày của Mẹ nha mẹ!"
+        },
+        {
+          "en": "What should we make for Mother's Day?",
+          "vi": "Ngày của Mẹ mình làm gì tặng mẹ ta?"
+        },
+        {
+          "en": "Let's make a card for Mother's Day.",
+          "vi": "Mình làm thiệp tặng Ngày của Mẹ nha."
+        },
+        {
+          "en": "Mother's Day is for saying thank you.",
+          "vi": "Ngày của Mẹ là ngày để cảm ơn mẹ."
+        },
+        {
+          "en": "I drew a heart for Mother's Day!",
+          "vi": "Con vẽ trái tim tặng mẹ Ngày của Mẹ!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-038",
+      "en": "moon cake",
+      "vi": "cái bánh trung thu",
+      "pos": "noun",
+      "emoji": "🥮",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yum, a moon cake!",
+          "vi": "Ngon, bánh trung thu nè!"
+        },
+        {
+          "en": "Want a piece of moon cake?",
+          "vi": "Con muốn ăn miếng bánh trung thu không?"
+        },
+        {
+          "en": "Let's share the moon cake with Grandpa.",
+          "vi": "Mình chia bánh trung thu với ông nha."
+        },
+        {
+          "en": "This moon cake is so sweet.",
+          "vi": "Bánh trung thu này ngọt ghê."
+        },
+        {
+          "en": "I want the moon cake with egg!",
+          "vi": "Con muốn bánh trung thu có trứng muối!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-039",
+      "en": "lion dance",
+      "vi": "múa lân",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a lion dance!",
+          "vi": "Nhìn kìa, múa lân!"
+        },
+        {
+          "en": "Can you hear the lion dance drums?",
+          "vi": "Con nghe tiếng trống múa lân không?"
+        },
+        {
+          "en": "Let's clap for the lion dance!",
+          "vi": "Mình vỗ tay cho đoàn múa lân nào!"
+        },
+        {
+          "en": "The lion dance is loud and exciting.",
+          "vi": "Múa lân ồn ào mà vui ghê."
+        },
+        {
+          "en": "I want to try the lion dance!",
+          "vi": "Con muốn thử múa lân!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-040",
+      "en": "New Year",
+      "vi": "năm mới",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Happy New Year, sweetie!",
+          "vi": "Chúc mừng năm mới nha con!"
+        },
+        {
+          "en": "What's your New Year's wish?",
+          "vi": "Năm mới con ước gì?"
+        },
+        {
+          "en": "Let's stay up for New Year!",
+          "vi": "Mình thức đón năm mới nha!"
+        },
+        {
+          "en": "The New Year is a fresh start.",
+          "vi": "Năm mới là một khởi đầu mới."
+        },
+        {
+          "en": "I stayed up for New Year's Eve!",
+          "vi": "Đêm giao thừa con thức luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-041",
+      "en": "celebrate",
+      "vi": "ăn mừng",
+      "pos": "verb",
+      "emoji": "🎉",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's celebrate!",
+          "vi": "Mình ăn mừng nào!"
+        },
+        {
+          "en": "How should we celebrate your good news?",
+          "vi": "Mình ăn mừng tin vui của con sao đây?"
+        },
+        {
+          "en": "Let's celebrate with a family dinner.",
+          "vi": "Mình ăn mừng bằng bữa tối cả nhà nha."
+        },
+        {
+          "en": "It feels great to celebrate together.",
+          "vi": "Cùng nhau ăn mừng vui ghê."
+        },
+        {
+          "en": "We celebrated Grandma's birthday at a restaurant.",
+          "vi": "Mình tổ chức sinh nhật bà ở nhà hàng đó."
+        }
+      ]
+    },
+    {
+      "id": "v-travel-042",
+      "en": "Teachers' Day",
+      "vi": "ngày Nhà giáo",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Happy Teachers' Day!",
+          "vi": "Chúc mừng ngày Nhà giáo!"
+        },
+        {
+          "en": "What should we give your teacher for Teachers' Day?",
+          "vi": "Ngày Nhà giáo mình tặng gì cho cô ta?"
+        },
+        {
+          "en": "Let's make a card for Teachers' Day.",
+          "vi": "Mình làm thiệp tặng cô ngày Nhà giáo nha."
+        },
+        {
+          "en": "Teachers' Day is a time to thank our teachers.",
+          "vi": "Ngày Nhà giáo là dịp để cảm ơn thầy cô."
+        },
+        {
+          "en": "I gave my teacher flowers on Teachers' Day!",
+          "vi": "Con tặng hoa cho cô ngày Nhà giáo!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-043",
+      "en": "festival",
+      "vi": "lễ hội",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at the festival lights!",
+          "vi": "Wow, coi đèn lễ hội kìa!"
+        },
+        {
+          "en": "Do you want to go to the flower festival?",
+          "vi": "Con muốn đi lễ hội hoa không?"
+        },
+        {
+          "en": "Let's try some festival food!",
+          "vi": "Mình ăn thử đồ ăn ở lễ hội nha!"
+        },
+        {
+          "en": "The festival is crowded but so fun.",
+          "vi": "Lễ hội đông mà vui lắm."
+        },
+        {
+          "en": "We saw dragon dancers at the festival!",
+          "vi": "Mình thấy múa rồng ở lễ hội đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-044",
+      "en": "parade",
+      "vi": "cuộc diễu hành",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here comes the parade!",
+          "vi": "Đoàn diễu hành tới rồi kìa!"
+        },
+        {
+          "en": "Can you see the parade from there?",
+          "vi": "Con đứng đó có thấy đoàn diễu hành không?"
+        },
+        {
+          "en": "Let's march like we're in a parade!",
+          "vi": "Mình đi đều bước như đang diễu hành nào!"
+        },
+        {
+          "en": "The parade has big drums and flags.",
+          "vi": "Đoàn diễu hành có trống lớn với cờ."
+        },
+        {
+          "en": "I waved at everyone in the parade!",
+          "vi": "Con vẫy tay chào mọi người trong đoàn diễu hành!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-045",
+      "en": "window seat",
+      "vi": "ghế cạnh cửa sổ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "You got the window seat!",
+          "vi": "Con được ngồi ghế cạnh cửa sổ nè!"
+        },
+        {
+          "en": "Do you want the window seat?",
+          "vi": "Con muốn ngồi cạnh cửa sổ không?"
+        },
+        {
+          "en": "Let's take turns with the window seat.",
+          "vi": "Mình thay phiên nhau ngồi cạnh cửa sổ nha."
+        },
+        {
+          "en": "The window seat has the best view.",
+          "vi": "Ngồi cạnh cửa sổ ngắm cảnh đẹp nhất."
+        },
+        {
+          "en": "I saw clouds from my window seat!",
+          "vi": "Con thấy mây từ chỗ ngồi cạnh cửa sổ!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-046",
+      "en": "tourist",
+      "vi": "khách du lịch",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at all the tourists!",
+          "vi": "Coi kìa, nhiều khách du lịch quá!"
+        },
+        {
+          "en": "Where do you think those tourists are from?",
+          "vi": "Con nghĩ mấy người khách du lịch đó từ đâu tới?"
+        },
+        {
+          "en": "Let's help the tourists find the way.",
+          "vi": "Mình chỉ đường cho mấy người khách du lịch nha."
+        },
+        {
+          "en": "Tourists love to visit our city.",
+          "vi": "Khách du lịch thích tới thành phố mình lắm."
+        },
+        {
+          "en": "Today we're tourists, too!",
+          "vi": "Hôm nay mình cũng là khách du lịch nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-047",
+      "en": "sightseeing",
+      "vi": "đi tham quan",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's go sightseeing today!",
+          "vi": "Hôm nay mình đi tham quan nha!"
+        },
+        {
+          "en": "What do you want to see when we go sightseeing?",
+          "vi": "Đi tham quan con muốn coi gì?"
+        },
+        {
+          "en": "Let's rest a bit before more sightseeing.",
+          "vi": "Mình nghỉ chút rồi đi tham quan tiếp nha."
+        },
+        {
+          "en": "Sightseeing is fun, but my feet are tired.",
+          "vi": "Đi tham quan vui mà mỏi chân ghê."
+        },
+        {
+          "en": "We went sightseeing all day and saw an old castle.",
+          "vi": "Mình đi tham quan cả ngày, được coi một lâu đài cổ."
+        }
+      ]
+    },
+    {
+      "id": "v-travel-048",
+      "en": "travel",
+      "vi": "đi du lịch",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "I love to travel!",
+          "vi": "Mình thích đi du lịch lắm!"
+        },
+        {
+          "en": "Where would you like to travel someday?",
+          "vi": "Sau này con muốn đi du lịch ở đâu?"
+        },
+        {
+          "en": "Let's travel somewhere new this summer.",
+          "vi": "Hè này mình đi du lịch chỗ mới nha."
+        },
+        {
+          "en": "Traveling helps us learn about the world.",
+          "vi": "Đi du lịch giúp mình hiểu thêm về thế giới."
+        },
+        {
+          "en": "When I grow up, I'll travel everywhere!",
+          "vi": "Lớn lên con sẽ đi du lịch khắp nơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-049",
+      "en": "countdown",
+      "vi": "đếm ngược",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Countdown time! Ten, nine, eight…",
+          "vi": "Đếm ngược nào! Mười, chín, tám…"
+        },
+        {
+          "en": "Are you ready for the countdown?",
+          "vi": "Con sẵn sàng đếm ngược chưa?"
+        },
+        {
+          "en": "Let's do the countdown together!",
+          "vi": "Mình cùng đếm ngược nha!"
+        },
+        {
+          "en": "The New Year countdown is so exciting!",
+          "vi": "Đếm ngược đón năm mới hồi hộp ghê!"
+        },
+        {
+          "en": "I shouted the whole countdown!",
+          "vi": "Con hét to suốt lúc đếm ngược!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-050",
+      "en": "wrapping paper",
+      "vi": "giấy gói quà",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, shiny wrapping paper!",
+          "vi": "Ồ, giấy gói quà sáng bóng!"
+        },
+        {
+          "en": "Which wrapping paper do you like?",
+          "vi": "Con thích giấy gói quà nào?"
+        },
+        {
+          "en": "Let's fold up the wrapping paper.",
+          "vi": "Mình gấp giấy gói quà lại nha."
+        },
+        {
+          "en": "This wrapping paper has stars on it.",
+          "vi": "Giấy gói quà này có hình ngôi sao."
+        },
+        {
+          "en": "I ripped the wrapping paper off!",
+          "vi": "Con xé giấy gói quà ra rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-051",
+      "en": "wedding",
+      "vi": "đám cưới",
+      "pos": "noun",
+      "emoji": "💒",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "We're going to a wedding today!",
+          "vi": "Hôm nay mình đi đám cưới nè!"
+        },
+        {
+          "en": "Whose wedding are we going to?",
+          "vi": "Mình đi đám cưới của ai vậy?"
+        },
+        {
+          "en": "Let's dress up nicely for the wedding.",
+          "vi": "Mình mặc đồ đẹp đi đám cưới nha."
+        },
+        {
+          "en": "The wedding has lots of yummy food.",
+          "vi": "Đám cưới có nhiều món ngon lắm."
+        },
+        {
+          "en": "I danced at my aunt's wedding!",
+          "vi": "Con nhảy ở đám cưới của dì đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-travel-052",
+      "en": "boarding pass",
+      "vi": "thẻ lên máy bay",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here are our boarding passes.",
+          "vi": "Thẻ lên máy bay của mình đây."
+        },
+        {
+          "en": "Can you find our seat number on the boarding pass?",
+          "vi": "Con tìm số ghế trên thẻ lên máy bay được không?"
+        },
+        {
+          "en": "Hold your boarding pass while we wait in line.",
+          "vi": "Con cầm thẻ lên máy bay trong lúc mình xếp hàng nha."
+        },
+        {
+          "en": "The boarding pass shows our gate and seat number.",
+          "vi": "Thẻ lên máy bay ghi cổng và số ghế của mình."
+        },
+        {
+          "en": "I'm going to show my boarding pass to the flight attendant myself.",
+          "vi": "Con sẽ tự đưa thẻ lên máy bay cho cô tiếp viên."
+        }
+      ]
+    }
+  ]
+}

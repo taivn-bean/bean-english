@@ -64,3 +64,32 @@ button {
 @media (prefers-reduced-motion: reduce) {
   .is-playing { animation: none; outline: 3px solid var(--color-leaf-400); }
 }
+
+/* Floating bars/toasts sit just above the bottom nav (64px + iPhone home-indicator inset). */
+@utility above-nav {
+  bottom: calc(env(safe-area-inset-bottom) + 4.75rem);
+}
+@keyframes slide-up {
+  from { transform: translateY(1rem); opacity: 0; }
+}
+.animate-slide-up { animation: slide-up 0.2s ease-out; }
+@media (prefers-reduced-motion: reduce) { .animate-slide-up { animation: none; } }
+
+/* flash-cards */
+@keyframes card-in {
+  from { transform: scale(0.96); opacity: 0; }
+}
+.animate-card-in { animation: card-in 0.18s ease-out; }
+@keyframes confetti-fall {
+  to { transform: translateY(110vh) rotate(720deg); }
+}
+.confetti-bit { animation: confetti-fall 2.4s ease-in forwards; }
+@keyframes bounce-in {
+  0% { transform: scale(0.4); opacity: 0; }
+  60% { transform: scale(1.12); opacity: 1; }
+  100% { transform: scale(1); }
+}
+.animate-bounce-in { animation: bounce-in 0.5s ease-out; }
+@media (prefers-reduced-motion: reduce) {
+  .animate-card-in, .animate-bounce-in { animation: none; }
+}

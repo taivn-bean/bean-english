@@ -3,13 +3,15 @@ import { createFileRoute } from '@tanstack/react-router'
 import clsx from 'clsx'
 import { CircleCheck, CloudDownload, Loader, Trash2 } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
-import { PageHeader, ProgressBar } from '../components/Layout'
-import { TopicIcon } from '../components/TopicIcon'
-import { formatMB, useTopicOffline } from '../hooks/useOfflineStatus'
-import { useAgeFilter } from '../hooks/useProfile'
-import { AGE_BANDS, contentIndexQuery, type ContentIndex, type TopicSummary } from '../lib/content'
-import { audioCacheBytes, downloadTopics, isTopicOffline, pendingBytes, removeTopics, topicBytes, useOffline } from '../lib/offline'
-import { useSettings } from '../lib/settings'
+import { PageHeader, ProgressBar } from '@/shared/ui/Layout'
+import { TopicIcon } from '@/shared/ui/TopicIcon'
+import { formatMB, useTopicOffline } from '@/features/offline/useOfflineStatus'
+import { useAgeFilter } from '@/features/profile/useProfile'
+import { AGE_BANDS, contentIndexQuery, type AgeBand, type ContentIndex, type TopicMeta } from '@/features/content/content'
+import { audioCacheBytes, downloadTopics, isTopicOffline, packItems, pendingBytes, removeTopics, topicBytes, useOffline, type PackItem } from '@/features/offline/offline'
+
+type Row = PackItem & TopicMeta & { ages: AgeBand[] }
+import { useSettings } from '@/shared/settings'
 
 export const Route = createFileRoute('/offline')({
   loader: ({ context }) => context.queryClient.ensureQueryData(contentIndexQuery),
@@ -24,8 +26,11 @@ function OfflinePage() {
   const busy = useOffline((s) => Object.keys(s.downloading).length > 0)
 
   const done = index.topics.filter((tp) => isTopicOffline(tp, cached))
-  const download = (topics: TopicSummary[]) => downloadTopics(topics.filter((tp) => !isTopicOffline(tp, cached))).catch(() => {})
+  const download = (topics: PackItem[]) => downloadTopics(topics.filter((tp) => !isTopicOffline(tp, cached))).catch(() => {})
   const bandTopics = index.topics.filter((tp) => tp.ages.includes(band))
+  const decks = index.decks ?? []
+  const bandDecks = decks.filter((d) => d.ages.includes(band))
+  const decksDone = decks.filter((d) => isTopicOffline(d, cached)).length
 
   return (
     <>
@@ -43,10 +48,10 @@ function OfflinePage() {
               <CloudDownload size={18} /> {t('offline.downloadAll', { size: formatMB(pendingBytes(index.topics, index, cached)) })}
             </BulkButton>
           </div>
-          {done.length > 0 && (
+          {(done.length > 0 || decksDone > 0) && (
             <button
               disabled={busy}
-              onClick={() => confirm(t('offline.removeAllConfirm')) && removeTopics(index.topics.map((tp) => tp.id), index)}
+              onClick={() => confirm(t('offline.removeAllConfirm')) && removeTopics(packItems(index).map((tp) => tp.id), index)}
               className="flex w-full min-h-11 items-center justify-center gap-2 rounded-xl text-sm font-semibold text-rose disabled:opacity-50"
             >
               <Trash2 size={16} /> {t('offline.removeAll')}
@@ -69,12 +74,29 @@ function OfflinePage() {
             </section>
           )
         })}
+
+        {decks.length > 0 && (
+          <section className="space-y-2">
+            <div className="flex items-center justify-between gap-2">
+              <h2 className="text-base font-bold">{t('cards.title')}</h2>
+              <span className="text-xs text-muted">{t('offline.topicsDone', { done: decksDone, total: decks.length })}</span>
+            </div>
+            <BulkButton disabled={busy || !navigator.onLine} onClick={() => download(bandDecks)}>
+              <CloudDownload size={18} /> {t('offline.downloadBand', { band: t(`age.band.${band}`), size: formatMB(pendingBytes(bandDecks, index, cached)) })}
+            </BulkButton>
+            <ul className="space-y-2">
+              {decks.map((d) => (
+                <PackRow key={d.id} topic={d} index={index} />
+              ))}
+            </ul>
+          </section>
+        )}
       </main>
     </>
   )
 }
 
-function PackRow({ topic, index }: { topic: TopicSummary; index: ContentIndex }) {
+function PackRow({ topic, index }: { topic: Row; index: ContentIndex }) {
   const { t } = useTranslation()
   const lang = useSettings((s) => s.lang)
   const { offline, downloading, progress } = useTopicOffline(topic)
@@ -116,7 +138,7 @@ function BulkButton({ onClick, disabled, children }: { onClick: () => void; disa
     <button
       onClick={onClick}
       disabled={disabled}
-      className="flex min-h-12 items-center justify-center gap-1.5 rounded-xl bg-leaf-500 px-2 text-center text-xs font-semibold text-white disabled:opacity-50"
+      className="flex min-h-12 w-full items-center justify-center gap-1.5 rounded-xl bg-leaf-500 px-2 text-center text-xs font-semibold text-white disabled:opacity-50"
     >
       {children}
     </button>

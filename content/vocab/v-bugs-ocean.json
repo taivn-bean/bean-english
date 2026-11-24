@@ -1,0 +1,1726 @@
+{
+  "deckId": "v-bugs-ocean",
+  "words": [
+    {
+      "id": "v-bugs-ocean-001",
+      "en": "bug",
+      "vi": "con bọ",
+      "pos": "noun",
+      "emoji": "🐛",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little bug!",
+          "vi": "Nhìn kìa, con bọ nhỏ!"
+        },
+        {
+          "en": "Where did the bug go?",
+          "vi": "Con bọ đi đâu rồi?"
+        },
+        {
+          "en": "Let's look for bugs outside.",
+          "vi": "Mình ra ngoài tìm bọ nha."
+        },
+        {
+          "en": "This bug is so tiny.",
+          "vi": "Con bọ này nhỏ xíu."
+        },
+        {
+          "en": "A bug is on my arm!",
+          "vi": "Có con bọ trên tay con!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-002",
+      "en": "ant",
+      "vi": "con kiến",
+      "pos": "noun",
+      "emoji": "🐜",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, ants! So many ants!",
+          "vi": "Nhìn kìa, kiến! Nhiều kiến quá!"
+        },
+        {
+          "en": "Where are the ants going?",
+          "vi": "Mấy con kiến đi đâu vậy?"
+        },
+        {
+          "en": "Don't drop crumbs, or ants will come.",
+          "vi": "Đừng làm rơi vụn bánh, kiến bu đó."
+        },
+        {
+          "en": "The ant is carrying a big crumb.",
+          "vi": "Con kiến đang tha miếng vụn bánh to."
+        },
+        {
+          "en": "An ant bit my toe!",
+          "vi": "Con kiến cắn ngón chân con!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-003",
+      "en": "bee",
+      "vi": "con ong",
+      "pos": "noun",
+      "emoji": "🐝",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Buzz buzz! A bee!",
+          "vi": "Vo ve! Con ong!"
+        },
+        {
+          "en": "Do you see the bee?",
+          "vi": "Con thấy con ong không?"
+        },
+        {
+          "en": "Stay still. The bee will fly away.",
+          "vi": "Đứng yên nha. Con ong sẽ bay đi."
+        },
+        {
+          "en": "Bees make yummy honey.",
+          "vi": "Con ong làm ra mật ngọt."
+        },
+        {
+          "en": "The bee is buzzing near me!",
+          "vi": "Con ong vo ve gần con nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-004",
+      "en": "butterfly",
+      "vi": "con bướm",
+      "pos": "noun",
+      "emoji": "🦋",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a pretty butterfly!",
+          "vi": "Wow, con bướm đẹp quá!"
+        },
+        {
+          "en": "What color is the butterfly?",
+          "vi": "Con bướm màu gì?"
+        },
+        {
+          "en": "Let's flutter like a butterfly!",
+          "vi": "Mình bay nhẹ như con bướm nào!"
+        },
+        {
+          "en": "The butterfly has colorful wings.",
+          "vi": "Con bướm có đôi cánh nhiều màu."
+        },
+        {
+          "en": "The butterfly landed on my hand!",
+          "vi": "Con bướm đậu lên tay con!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-005",
+      "en": "spider",
+      "vi": "con nhện",
+      "pos": "noun",
+      "emoji": "🕷️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little spider!",
+          "vi": "Nhìn kìa, con nhện nhỏ!"
+        },
+        {
+          "en": "How many legs does a spider have?",
+          "vi": "Con nhện có mấy cái chân?"
+        },
+        {
+          "en": "Let's carry the spider outside.",
+          "vi": "Mình đem con nhện ra ngoài nha."
+        },
+        {
+          "en": "The spider is making a web.",
+          "vi": "Con nhện đang giăng tơ."
+        },
+        {
+          "en": "The spider is climbing up!",
+          "vi": "Con nhện đang leo lên kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-006",
+      "en": "ladybug",
+      "vi": "con bọ rùa",
+      "pos": "noun",
+      "emoji": "🐞",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a ladybug!",
+          "vi": "Nhìn kìa, con bọ rùa!"
+        },
+        {
+          "en": "How many spots does the ladybug have?",
+          "vi": "Con bọ rùa có mấy chấm?"
+        },
+        {
+          "en": "Let the ladybug walk on your finger.",
+          "vi": "Để con bọ rùa bò lên ngón tay con nè."
+        },
+        {
+          "en": "The ladybug is red with black dots.",
+          "vi": "Con bọ rùa màu đỏ có chấm đen."
+        },
+        {
+          "en": "The ladybug tickles!",
+          "vi": "Con bọ rùa làm nhột quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-007",
+      "en": "mosquito",
+      "vi": "con muỗi",
+      "pos": "noun",
+      "emoji": "🦟",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, a mosquito!",
+          "vi": "Ối, con muỗi!"
+        },
+        {
+          "en": "Did a mosquito bite you?",
+          "vi": "Con bị muỗi chích hả?"
+        },
+        {
+          "en": "Close the door, mosquitoes are coming!",
+          "vi": "Đóng cửa lại, muỗi vô kìa!"
+        },
+        {
+          "en": "Mosquito bites are so itchy.",
+          "vi": "Muỗi chích ngứa quá."
+        },
+        {
+          "en": "A mosquito bit my leg!",
+          "vi": "Muỗi chích chân con rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-008",
+      "en": "caterpillar",
+      "vi": "con sâu bướm",
+      "pos": "noun",
+      "emoji": "🐛",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a fuzzy caterpillar!",
+          "vi": "Nhìn kìa, con sâu bướm lông xù!"
+        },
+        {
+          "en": "What's the caterpillar eating?",
+          "vi": "Con sâu bướm đang ăn gì vậy?"
+        },
+        {
+          "en": "Let's watch the caterpillar crawl.",
+          "vi": "Mình coi con sâu bướm bò nha."
+        },
+        {
+          "en": "The caterpillar is very hungry.",
+          "vi": "Con sâu bướm đói lắm."
+        },
+        {
+          "en": "The caterpillar turns into a butterfly!",
+          "vi": "Sâu bướm biến thành con bướm đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-009",
+      "en": "worm",
+      "vi": "con giun",
+      "pos": "noun",
+      "emoji": "🪱",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a wiggly worm!",
+          "vi": "Ồ, con giun ngoằn ngoèo!"
+        },
+        {
+          "en": "Where do worms live?",
+          "vi": "Con giun sống ở đâu?"
+        },
+        {
+          "en": "Put the worm back in the dirt.",
+          "vi": "Thả con giun lại vô đất nha."
+        },
+        {
+          "en": "The worm feels cold and wiggly.",
+          "vi": "Con giun sờ lạnh lạnh, ngọ nguậy."
+        },
+        {
+          "en": "I found a worm after the rain!",
+          "vi": "Con tìm được con giun sau cơn mưa!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-010",
+      "en": "cockroach",
+      "vi": "con gián",
+      "pos": "noun",
+      "emoji": "🪳",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, a cockroach!",
+          "vi": "Ối, con gián!"
+        },
+        {
+          "en": "Where did the cockroach go?",
+          "vi": "Con gián chạy đâu rồi?"
+        },
+        {
+          "en": "Let's clean up, so no cockroaches come.",
+          "vi": "Mình dọn sạch để gián không tới nha."
+        },
+        {
+          "en": "Cockroaches run so fast.",
+          "vi": "Con gián chạy nhanh ghê."
+        },
+        {
+          "en": "I saw a cockroach in the kitchen!",
+          "vi": "Con thấy con gián trong bếp!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-011",
+      "en": "beetle",
+      "vi": "con bọ cánh cứng",
+      "pos": "noun",
+      "emoji": "🪲",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, look at this shiny beetle!",
+          "vi": "Ồ, nhìn con bọ cánh cứng bóng loáng nè!"
+        },
+        {
+          "en": "Do you know how many legs a beetle has?",
+          "vi": "Con có biết bọ cánh cứng có mấy chân không?"
+        },
+        {
+          "en": "Let's gently turn the beetle right side up.",
+          "vi": "Mình nhẹ nhàng lật con bọ cánh cứng lại nha."
+        },
+        {
+          "en": "Beetles have a hard shell on their back.",
+          "vi": "Bọ cánh cứng có lớp vỏ cứng trên lưng."
+        },
+        {
+          "en": "I found a big green beetle in the garden.",
+          "vi": "Con tìm được con bọ cánh cứng xanh to ngoài vườn."
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-012",
+      "en": "grasshopper",
+      "vi": "con châu chấu",
+      "pos": "noun",
+      "emoji": "🦗",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a grasshopper!",
+          "vi": "Nhìn kìa, con châu chấu!"
+        },
+        {
+          "en": "Can you catch the grasshopper?",
+          "vi": "Con bắt được con châu chấu không?"
+        },
+        {
+          "en": "Let's jump like a grasshopper!",
+          "vi": "Mình nhảy như con châu chấu nào!"
+        },
+        {
+          "en": "The grasshopper is green like the grass.",
+          "vi": "Con châu chấu màu xanh giống cỏ."
+        },
+        {
+          "en": "The grasshopper jumped away!",
+          "vi": "Con châu chấu nhảy mất rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-013",
+      "en": "dragonfly",
+      "vi": "con chuồn chuồn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "ipa": "/ˈdɹæɡənˌflaɪ/",
+      "examples": [
+        {
+          "en": "Look, a dragonfly!",
+          "vi": "Nhìn kìa, con chuồn chuồn!",
+          "ipa": "/lʊk ə ˈdɹæɡənˌflaɪ/"
+        },
+        {
+          "en": "Where's the dragonfly flying?",
+          "vi": "Con chuồn chuồn bay đi đâu vậy?",
+          "ipa": "/wɛɹz ðə ˈdɹæɡənˌflaɪ ˈflaɪɪŋ/"
+        },
+        {
+          "en": "Let's watch the dragonfly by the pond.",
+          "vi": "Mình coi chuồn chuồn bên ao nha.",
+          "ipa": "/lɛts wɑtʃ ðə ˈdɹæɡənˌflaɪ baɪ ðə pɑnd/"
+        },
+        {
+          "en": "The dragonfly has four thin wings.",
+          "vi": "Con chuồn chuồn có bốn cái cánh mỏng.",
+          "ipa": "/ðə ˈdɹæɡənˌflaɪ hæz fɔɹ θɪn wɪŋz/"
+        },
+        {
+          "en": "The dragonfly flew so fast!",
+          "vi": "Con chuồn chuồn bay nhanh quá!",
+          "ipa": "/ðə ˈdɹæɡənˌflaɪ flu soʊ fæst/"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-014",
+      "en": "firefly",
+      "vi": "con đom đóm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a firefly! It's glowing!",
+          "vi": "Ồ, con đom đóm! Nó phát sáng kìa!"
+        },
+        {
+          "en": "Can you see the fireflies blinking?",
+          "vi": "Con thấy đom đóm chớp chớp không?"
+        },
+        {
+          "en": "Let's count the fireflies.",
+          "vi": "Mình đếm đom đóm nha."
+        },
+        {
+          "en": "Fireflies light up at night.",
+          "vi": "Đom đóm phát sáng vào ban đêm."
+        },
+        {
+          "en": "The firefly is like a tiny light!",
+          "vi": "Con đom đóm giống cái đèn nhỏ xíu!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-015",
+      "en": "snail",
+      "vi": "con ốc sên",
+      "pos": "noun",
+      "emoji": "🐌",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a snail!",
+          "vi": "Nhìn kìa, con ốc sên!"
+        },
+        {
+          "en": "Where's the snail's shell?",
+          "vi": "Vỏ con ốc sên đâu?"
+        },
+        {
+          "en": "Let's be slow like a snail.",
+          "vi": "Mình đi chậm như con ốc sên nào."
+        },
+        {
+          "en": "The snail is so slow.",
+          "vi": "Con ốc sên chậm quá."
+        },
+        {
+          "en": "The snail is on the leaf!",
+          "vi": "Con ốc sên nằm trên cái lá kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-016",
+      "en": "spider web",
+      "vi": "cái mạng nhện",
+      "pos": "noun",
+      "emoji": "🕸️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a spider web!",
+          "vi": "Nhìn kìa, cái mạng nhện!"
+        },
+        {
+          "en": "Who made this spider web?",
+          "vi": "Ai giăng cái mạng nhện này vậy?"
+        },
+        {
+          "en": "Don't break the spider web, okay?",
+          "vi": "Đừng phá mạng nhện nha?"
+        },
+        {
+          "en": "The spider web is sparkly with water.",
+          "vi": "Mạng nhện lấp lánh nước kìa."
+        },
+        {
+          "en": "I walked into a spider web!",
+          "vi": "Con đi trúng mạng nhện rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-017",
+      "en": "moth",
+      "vi": "con bướm đêm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a moth on the window!",
+          "vi": "Nhìn kìa, có con bướm đêm trên cửa sổ!"
+        },
+        {
+          "en": "Why do moths fly around the light?",
+          "vi": "Sao bướm đêm hay bay quanh bóng đèn vậy?"
+        },
+        {
+          "en": "Let's turn off the light so the moth flies away.",
+          "vi": "Mình tắt đèn để con bướm đêm bay đi nha."
+        },
+        {
+          "en": "A moth looks like a brown butterfly.",
+          "vi": "Bướm đêm nhìn giống con bướm màu nâu."
+        },
+        {
+          "en": "A big moth flew into my room last night!",
+          "vi": "Tối qua có con bướm đêm to bay vô phòng con!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-018",
+      "en": "cricket",
+      "vi": "con dế",
+      "pos": "noun",
+      "emoji": "🦗",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Listen, a cricket is chirping!",
+          "vi": "Nghe nè, có con dế đang kêu!"
+        },
+        {
+          "en": "Can you hear the crickets at night?",
+          "vi": "Con có nghe dế kêu ban đêm không?"
+        },
+        {
+          "en": "Let's try to find the cricket.",
+          "vi": "Mình thử đi tìm con dế nha."
+        },
+        {
+          "en": "Crickets make music with their wings.",
+          "vi": "Con dế kêu bằng cách cọ cánh đó."
+        },
+        {
+          "en": "Grandpa used to catch crickets when he was little.",
+          "vi": "Hồi nhỏ ông hay đi bắt dế đó."
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-019",
+      "en": "wasp",
+      "vi": "con ong vò vẽ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Careful, that's a wasp!",
+          "vi": "Cẩn thận, con ong vò vẽ đó!"
+        },
+        {
+          "en": "Do you see the wasp near the window?",
+          "vi": "Con thấy con ong vò vẽ gần cửa sổ không?"
+        },
+        {
+          "en": "Walk away slowly from the wasp.",
+          "vi": "Đi chầm chậm tránh xa con ong vò vẽ nha."
+        },
+        {
+          "en": "A wasp is thinner than a bee.",
+          "vi": "Ong vò vẽ ốm hơn con ong mật."
+        },
+        {
+          "en": "I stayed calm when the wasp flew by.",
+          "vi": "Con bình tĩnh khi con ong vò vẽ bay ngang qua."
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-020",
+      "en": "beehive",
+      "vi": "cái tổ ong",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's a beehive in that tree!",
+          "vi": "Nhìn kìa, có tổ ong trên cái cây đó!"
+        },
+        {
+          "en": "How many bees live in a beehive?",
+          "vi": "Một tổ ong có bao nhiêu con ong?"
+        },
+        {
+          "en": "Let's stay far away from the beehive.",
+          "vi": "Mình tránh xa cái tổ ong nha."
+        },
+        {
+          "en": "The beehive is full of sweet honey.",
+          "vi": "Tổ ong đầy mật ngọt."
+        },
+        {
+          "en": "I saw a beehive at the farm!",
+          "vi": "Con thấy tổ ong ở nông trại!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-021",
+      "en": "insect",
+      "vi": "côn trùng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what kind of insect is that?",
+          "vi": "Wow, con côn trùng đó là con gì vậy?"
+        },
+        {
+          "en": "Do you know how many legs an insect has?",
+          "vi": "Con biết côn trùng có mấy chân không?"
+        },
+        {
+          "en": "Let's look at the insect with a magnifying glass.",
+          "vi": "Mình lấy kính lúp coi con côn trùng nha."
+        },
+        {
+          "en": "Insects are small, but they're super important.",
+          "vi": "Côn trùng nhỏ xíu mà quan trọng lắm đó."
+        },
+        {
+          "en": "An ant is an insect, but a spider isn't!",
+          "vi": "Con kiến là côn trùng, còn con nhện thì không!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-022",
+      "en": "fish",
+      "vi": "con cá",
+      "pos": "noun",
+      "emoji": "🐟",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a fish!",
+          "vi": "Nhìn kìa, con cá!"
+        },
+        {
+          "en": "How many fish can you see?",
+          "vi": "Con thấy được mấy con cá?"
+        },
+        {
+          "en": "Let's feed the fish.",
+          "vi": "Mình cho cá ăn nha."
+        },
+        {
+          "en": "The fish is swimming so fast.",
+          "vi": "Con cá bơi nhanh quá."
+        },
+        {
+          "en": "I can swim like a fish!",
+          "vi": "Con bơi được như con cá nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-023",
+      "en": "goldfish",
+      "vi": "con cá vàng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at the goldfish!",
+          "vi": "Nhìn con cá vàng kìa!"
+        },
+        {
+          "en": "Is the goldfish hungry?",
+          "vi": "Cá vàng đói chưa ta?"
+        },
+        {
+          "en": "Give the goldfish just a little food.",
+          "vi": "Cho cá vàng ăn chút xíu thôi nha."
+        },
+        {
+          "en": "The goldfish is orange and shiny.",
+          "vi": "Con cá vàng màu cam, bóng loáng."
+        },
+        {
+          "en": "My goldfish is blowing bubbles!",
+          "vi": "Cá vàng của con thổi bong bóng kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-024",
+      "en": "shark",
+      "vi": "con cá mập",
+      "pos": "noun",
+      "emoji": "🦈",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, a shark!",
+          "vi": "Ồ, con cá mập!"
+        },
+        {
+          "en": "Does a shark have lots of teeth?",
+          "vi": "Cá mập có nhiều răng không?"
+        },
+        {
+          "en": "Let's swim like a shark!",
+          "vi": "Mình bơi như con cá mập nào!"
+        },
+        {
+          "en": "The shark has a big fin.",
+          "vi": "Con cá mập có cái vây to."
+        },
+        {
+          "en": "I saw a shark at the aquarium!",
+          "vi": "Con thấy cá mập ở thủy cung!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-025",
+      "en": "whale",
+      "vi": "con cá voi",
+      "pos": "noun",
+      "emoji": "🐳",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a giant whale!",
+          "vi": "Wow, con cá voi khổng lồ!"
+        },
+        {
+          "en": "Do you know how big whales are?",
+          "vi": "Con biết cá voi to cỡ nào không?"
+        },
+        {
+          "en": "Let's sing like a whale!",
+          "vi": "Mình hát như cá voi nào!"
+        },
+        {
+          "en": "The whale is bigger than our house.",
+          "vi": "Con cá voi còn to hơn nhà mình."
+        },
+        {
+          "en": "The whale sprayed water up high!",
+          "vi": "Con cá voi phun nước lên cao kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-026",
+      "en": "dolphin",
+      "vi": "con cá heo",
+      "pos": "noun",
+      "emoji": "🐬",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a dolphin jumping!",
+          "vi": "Nhìn kìa, cá heo nhảy!"
+        },
+        {
+          "en": "Do you hear the dolphin talking?",
+          "vi": "Con nghe cá heo nói chuyện không?"
+        },
+        {
+          "en": "Let's wave to the dolphins!",
+          "vi": "Mình vẫy tay chào cá heo nào!"
+        },
+        {
+          "en": "Dolphins are so smart and friendly.",
+          "vi": "Cá heo thông minh và thân thiện lắm."
+        },
+        {
+          "en": "I love dolphins!",
+          "vi": "Con thương cá heo lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-027",
+      "en": "octopus",
+      "vi": "con bạch tuộc",
+      "pos": "noun",
+      "emoji": "🐙",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, an octopus!",
+          "vi": "Nhìn kìa, con bạch tuộc!"
+        },
+        {
+          "en": "How many arms does an octopus have?",
+          "vi": "Con bạch tuộc có mấy cái tay?"
+        },
+        {
+          "en": "Wiggle your arms like an octopus!",
+          "vi": "Ngoe nguẩy tay như bạch tuộc nào!"
+        },
+        {
+          "en": "The octopus is soft and squishy.",
+          "vi": "Con bạch tuộc mềm nhũn."
+        },
+        {
+          "en": "The octopus is hiding!",
+          "vi": "Con bạch tuộc đang trốn kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-028",
+      "en": "crab",
+      "vi": "con cua",
+      "pos": "noun",
+      "emoji": "🦀",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little crab!",
+          "vi": "Nhìn kìa, con cua nhỏ!"
+        },
+        {
+          "en": "Where's the crab going? Sideways!",
+          "vi": "Con cua đi đâu vậy? Đi ngang!"
+        },
+        {
+          "en": "Let's walk sideways like a crab!",
+          "vi": "Mình đi ngang như con cua nào!"
+        },
+        {
+          "en": "The crab has two big claws.",
+          "vi": "Con cua có hai cái càng to."
+        },
+        {
+          "en": "I found a crab at the beach!",
+          "vi": "Con bắt được con cua ở biển!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-029",
+      "en": "shrimp",
+      "vi": "con tôm",
+      "pos": "noun",
+      "emoji": "🦐",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tiny shrimp!",
+          "vi": "Nhìn kìa, con tôm nhỏ xíu!"
+        },
+        {
+          "en": "How many shrimp are in the tank?",
+          "vi": "Trong bể có mấy con tôm?"
+        },
+        {
+          "en": "Let's look at the shrimp swimming.",
+          "vi": "Mình coi con tôm bơi nha."
+        },
+        {
+          "en": "The shrimp has long whiskers.",
+          "vi": "Con tôm có râu dài."
+        },
+        {
+          "en": "The shrimp swims backward!",
+          "vi": "Con tôm bơi giật lùi kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-030",
+      "en": "lobster",
+      "vi": "con tôm hùm",
+      "pos": "noun",
+      "emoji": "🦞",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, look at that big lobster!",
+          "vi": "Ồ, nhìn con tôm hùm bự kìa!"
+        },
+        {
+          "en": "Do you know what color a lobster turns?",
+          "vi": "Con biết tôm hùm đổi sang màu gì không?"
+        },
+        {
+          "en": "Let's count the lobster's legs together.",
+          "vi": "Mình đếm chân con tôm hùm chung nha."
+        },
+        {
+          "en": "The lobster has huge claws in front.",
+          "vi": "Con tôm hùm có hai cái càng to đằng trước."
+        },
+        {
+          "en": "We saw a lobster in the tank at the market.",
+          "vi": "Tụi con thấy con tôm hùm trong bể ở chợ."
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-031",
+      "en": "squid",
+      "vi": "con mực",
+      "pos": "noun",
+      "emoji": "🦑",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a squid!",
+          "vi": "Nhìn kìa, con mực!"
+        },
+        {
+          "en": "How many arms does a squid have?",
+          "vi": "Con mực có mấy cái tay?"
+        },
+        {
+          "en": "Let's swim like a squid!",
+          "vi": "Mình bơi như con mực nào!"
+        },
+        {
+          "en": "The squid squirts black ink.",
+          "vi": "Con mực phun mực đen."
+        },
+        {
+          "en": "The squid swam away fast!",
+          "vi": "Con mực bơi đi nhanh quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-032",
+      "en": "jellyfish",
+      "vi": "con sứa",
+      "pos": "noun",
+      "emoji": "🪼",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a jellyfish!",
+          "vi": "Nhìn kìa, con sứa!"
+        },
+        {
+          "en": "Can you see through the jellyfish?",
+          "vi": "Con có nhìn xuyên qua con sứa được không?"
+        },
+        {
+          "en": "Don't touch the jellyfish, okay?",
+          "vi": "Đừng đụng con sứa nha?"
+        },
+        {
+          "en": "The jellyfish looks like jelly!",
+          "vi": "Con sứa nhìn giống thạch rau câu!"
+        },
+        {
+          "en": "The jellyfish is floating!",
+          "vi": "Con sứa đang trôi kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-033",
+      "en": "starfish",
+      "vi": "con sao biển",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a starfish!",
+          "vi": "Nhìn kìa, con sao biển!"
+        },
+        {
+          "en": "How many arms does a starfish have?",
+          "vi": "Con sao biển có mấy cái tay?"
+        },
+        {
+          "en": "Make a starfish with your body!",
+          "vi": "Dang tay chân làm con sao biển nào!"
+        },
+        {
+          "en": "The starfish looks like a star.",
+          "vi": "Con sao biển nhìn giống ngôi sao."
+        },
+        {
+          "en": "I found a starfish on the sand!",
+          "vi": "Con tìm được con sao biển trên cát!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-034",
+      "en": "seahorse",
+      "vi": "con cá ngựa",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "ipa": "/ˈsiˌhɔɹs/",
+      "examples": [
+        {
+          "en": "Look, a tiny seahorse!",
+          "vi": "Nhìn kìa, con cá ngựa nhỏ xíu!",
+          "ipa": "/lʊk ə ˈtaɪni ˈsiˌhɔɹs/"
+        },
+        {
+          "en": "Where's the seahorse hiding?",
+          "vi": "Con cá ngựa trốn đâu rồi?",
+          "ipa": "/wɛɹz ðə ˈsiˌhɔɹs ˈhaɪdɪŋ/"
+        },
+        {
+          "en": "Let's find the seahorse in the book.",
+          "vi": "Mình tìm con cá ngựa trong sách nha.",
+          "ipa": "/lɛts faɪnd ðə ˈsiˌhɔɹs ɪn ðə bʊk/"
+        },
+        {
+          "en": "The seahorse has a curly tail.",
+          "vi": "Con cá ngựa có cái đuôi cong.",
+          "ipa": "/ðə ˈsiˌhɔɹs hæz ə ˈkɝli teɪl/"
+        },
+        {
+          "en": "The seahorse looks like a horse!",
+          "vi": "Con cá ngựa nhìn giống con ngựa!",
+          "ipa": "/ðə ˈsiˌhɔɹs lʊks laɪk ə hɔɹs/"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-035",
+      "en": "sea turtle",
+      "vi": "con rùa biển",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a sea turtle swimming!",
+          "vi": "Nhìn kìa, con rùa biển đang bơi!"
+        },
+        {
+          "en": "Where do sea turtles lay eggs?",
+          "vi": "Rùa biển đẻ trứng ở đâu?"
+        },
+        {
+          "en": "Let's swim slowly like a sea turtle.",
+          "vi": "Mình bơi chầm chậm như rùa biển nào."
+        },
+        {
+          "en": "The sea turtle is so big!",
+          "vi": "Con rùa biển to quá!"
+        },
+        {
+          "en": "I want to see a sea turtle!",
+          "vi": "Con muốn coi rùa biển!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-036",
+      "en": "seal",
+      "vi": "con hải cẩu",
+      "pos": "noun",
+      "emoji": "🦭",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a seal!",
+          "vi": "Nhìn kìa, con hải cẩu!"
+        },
+        {
+          "en": "Can you clap like a seal?",
+          "vi": "Con vỗ tay như hải cẩu được không?"
+        },
+        {
+          "en": "Let's watch the seal swim.",
+          "vi": "Mình coi con hải cẩu bơi nha."
+        },
+        {
+          "en": "The seal is so slippery.",
+          "vi": "Con hải cẩu trơn trượt ghê."
+        },
+        {
+          "en": "The seal is lying on a rock!",
+          "vi": "Con hải cẩu nằm trên tảng đá kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-037",
+      "en": "seashell",
+      "vi": "cái vỏ sò",
+      "pos": "noun",
+      "emoji": "🐚",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a pretty seashell!",
+          "vi": "Ồ, cái vỏ sò đẹp quá!"
+        },
+        {
+          "en": "Can you hear the seashell? Shh!",
+          "vi": "Con nghe cái vỏ sò không? Suỵt!"
+        },
+        {
+          "en": "Let's collect seashells!",
+          "vi": "Mình đi lượm vỏ sò nha!"
+        },
+        {
+          "en": "This seashell is smooth and pink.",
+          "vi": "Cái vỏ sò này láng và màu hồng."
+        },
+        {
+          "en": "I found a big seashell!",
+          "vi": "Con lượm được cái vỏ sò to!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-038",
+      "en": "coral",
+      "vi": "san hô",
+      "pos": "noun",
+      "emoji": "🪸",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at all the colorful coral!",
+          "vi": "Wow, nhìn san hô nhiều màu chưa kìa!"
+        },
+        {
+          "en": "Do you know that coral is alive?",
+          "vi": "Con có biết san hô là sinh vật sống không?"
+        },
+        {
+          "en": "Let's not touch the coral when we snorkel.",
+          "vi": "Đi lặn mình không đụng vô san hô nha."
+        },
+        {
+          "en": "Little fish hide in the coral.",
+          "vi": "Mấy con cá nhỏ trốn trong san hô."
+        },
+        {
+          "en": "I saw pink coral in a video at school.",
+          "vi": "Con thấy san hô màu hồng trong video ở trường."
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-039",
+      "en": "seaweed",
+      "vi": "rong biển",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, seaweed in the water!",
+          "vi": "Nhìn kìa, rong biển dưới nước!"
+        },
+        {
+          "en": "Does the seaweed feel slimy?",
+          "vi": "Rong biển sờ nhớt không con?"
+        },
+        {
+          "en": "Let's wave like seaweed!",
+          "vi": "Mình đong đưa như rong biển nào!"
+        },
+        {
+          "en": "The seaweed is green and long.",
+          "vi": "Rong biển màu xanh và dài."
+        },
+        {
+          "en": "Seaweed touched my leg!",
+          "vi": "Rong biển chạm vô chân con!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-040",
+      "en": "clam",
+      "vi": "con nghêu",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a clam is opening!",
+          "vi": "Nhìn kìa, con nghêu đang mở ra!"
+        },
+        {
+          "en": "Do you know where clams live?",
+          "vi": "Con có biết nghêu sống ở đâu không?"
+        },
+        {
+          "en": "Let's dig for clams in the wet sand.",
+          "vi": "Mình đào nghêu trong cát ướt nha."
+        },
+        {
+          "en": "A clam closes its shell to stay safe.",
+          "vi": "Con nghêu khép vỏ lại để an toàn."
+        },
+        {
+          "en": "We found three clams at the beach today!",
+          "vi": "Hôm nay tụi con tìm được ba con nghêu ở biển!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-041",
+      "en": "stingray",
+      "vi": "con cá đuối",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "ipa": "/ˈstɪŋˌɹeɪ/",
+      "examples": [
+        {
+          "en": "Wow, look at that stingray gliding!",
+          "vi": "Wow, nhìn con cá đuối lướt kìa!",
+          "ipa": "/waʊ lʊk æt ðæt ˈstɪŋˌɹeɪ ˈɡlaɪdɪŋ/"
+        },
+        {
+          "en": "Did you know a stingray is a kind of fish?",
+          "vi": "Con biết cá đuối là một loại cá không?",
+          "ipa": "/dɪd ju noʊ ə ˈstɪŋˌɹeɪ ɪz ə kaɪnd ʌv fɪʃ/"
+        },
+        {
+          "en": "Let's watch the stingray at the aquarium.",
+          "vi": "Mình coi con cá đuối ở thủy cung nha.",
+          "ipa": "/lɛts wɑtʃ ðə ˈstɪŋˌɹeɪ æt ðə əˈkwɛɹiəm/"
+        },
+        {
+          "en": "The stingray is flat like a big pancake.",
+          "vi": "Con cá đuối dẹp như cái bánh kếp to.",
+          "ipa": "/ðə ˈstɪŋˌɹeɪ ɪz flæt laɪk ə bɪɡ ˈpænˌkeɪk/"
+        },
+        {
+          "en": "A stingray swam right over my head in the tunnel!",
+          "vi": "Con cá đuối bơi ngay trên đầu con trong đường hầm!",
+          "ipa": "/ə ˈstɪŋˌɹeɪ swæm ɹaɪt ˈoʊvɚ maɪ hɛd ɪn ðə ˈtʌnəl/"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-042",
+      "en": "eel",
+      "vi": "con lươn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, an eel is peeking out!",
+          "vi": "Nhìn kìa, con lươn đang ló đầu ra!"
+        },
+        {
+          "en": "Do you think the eel is slippery?",
+          "vi": "Con nghĩ con lươn có trơn không?"
+        },
+        {
+          "en": "Let's see where the eel is hiding.",
+          "vi": "Mình coi con lươn trốn ở đâu nha."
+        },
+        {
+          "en": "The eel is long and wiggly like a snake.",
+          "vi": "Con lươn dài và uốn éo như con rắn."
+        },
+        {
+          "en": "I saw an eel at the market with Grandma.",
+          "vi": "Con thấy con lươn ở chợ với bà."
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-043",
+      "en": "tadpole",
+      "vi": "con nòng nọc",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, tadpoles in the pond!",
+          "vi": "Nhìn kìa, nòng nọc dưới ao!"
+        },
+        {
+          "en": "Do you know what tadpoles turn into?",
+          "vi": "Con biết nòng nọc biến thành con gì không?"
+        },
+        {
+          "en": "Let's count the tadpoles swimming.",
+          "vi": "Mình đếm mấy con nòng nọc đang bơi nha."
+        },
+        {
+          "en": "A tadpole has a tail but no legs yet.",
+          "vi": "Nòng nọc có đuôi mà chưa có chân."
+        },
+        {
+          "en": "Tadpoles grow up and become frogs!",
+          "vi": "Nòng nọc lớn lên thành con ếch đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-044",
+      "en": "pufferfish",
+      "vi": "con cá nóc",
+      "pos": "noun",
+      "emoji": "🐡",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "ipa": "/ˈpʌfɚˌfɪʃ/",
+      "examples": [
+        {
+          "en": "Look, a pufferfish!",
+          "vi": "Nhìn kìa, con cá nóc!",
+          "ipa": "/lʊk ə ˈpʌfɚˌfɪʃ/"
+        },
+        {
+          "en": "Can the pufferfish puff up?",
+          "vi": "Cá nóc phồng lên được hả?",
+          "ipa": "/kæn ðə ˈpʌfɚˌfɪʃ pʌf ʌp/"
+        },
+        {
+          "en": "Puff your cheeks like a pufferfish!",
+          "vi": "Phồng má lên như con cá nóc nào!",
+          "ipa": "/pʌf jɔɹ tʃiks laɪk ə ˈpʌfɚˌfɪʃ/"
+        },
+        {
+          "en": "The pufferfish is round like a ball.",
+          "vi": "Con cá nóc tròn như trái banh.",
+          "ipa": "/ðə ˈpʌfɚˌfɪʃ ɪz ɹaʊnd laɪk ə bɔl/"
+        },
+        {
+          "en": "The pufferfish got so big!",
+          "vi": "Con cá nóc phồng to quá!",
+          "ipa": "/ðə ˈpʌfɚˌfɪʃ ɡɑt soʊ bɪɡ/"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-045",
+      "en": "otter",
+      "vi": "con rái cá",
+      "pos": "noun",
+      "emoji": "🦦",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aw, look at the otter!",
+          "vi": "Ôi, nhìn con rái cá kìa!"
+        },
+        {
+          "en": "What's the otter holding?",
+          "vi": "Con rái cá đang cầm gì vậy?"
+        },
+        {
+          "en": "Let's float like an otter!",
+          "vi": "Mình nằm nổi như con rái cá nào!"
+        },
+        {
+          "en": "The otter is so playful.",
+          "vi": "Con rái cá ham chơi ghê."
+        },
+        {
+          "en": "The otters are holding hands!",
+          "vi": "Mấy con rái cá nắm tay nhau kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-046",
+      "en": "fin",
+      "vi": "cái vây cá",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at the fish's fins!",
+          "vi": "Nhìn mấy cái vây con cá kìa!"
+        },
+        {
+          "en": "How many fins does the fish have?",
+          "vi": "Con cá có mấy cái vây?"
+        },
+        {
+          "en": "Make fins with your hands!",
+          "vi": "Lấy tay làm vây cá nào!"
+        },
+        {
+          "en": "The shark's fin is pointy.",
+          "vi": "Vây cá mập nhọn hoắt.",
+          "ipa": "/ðə ʃɑɹks fɪn ɪz ˈpɔɪnti/"
+        },
+        {
+          "en": "Fish swim with their fins.",
+          "vi": "Cá bơi bằng vây đó."
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-047",
+      "en": "tentacle",
+      "vi": "cái xúc tu",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at the octopus's long tentacles!",
+          "vi": "Nhìn mấy cái xúc tu dài của con bạch tuộc kìa!",
+          "ipa": "/lʊk æt ðə ˈɑktəˌpʊsɪz lɔŋ ˈtɛntəkəlz/"
+        },
+        {
+          "en": "How many tentacles can you count?",
+          "vi": "Con đếm được mấy cái xúc tu?"
+        },
+        {
+          "en": "Let's wiggle our fingers like tentacles!",
+          "vi": "Mình ngoe nguẩy ngón tay như xúc tu nào!"
+        },
+        {
+          "en": "Jellyfish tentacles can sting, so we don't touch them.",
+          "vi": "Xúc tu con sứa có thể chích, nên mình không đụng vô."
+        },
+        {
+          "en": "The squid grabbed the food with its tentacles.",
+          "vi": "Con mực dùng xúc tu chộp thức ăn."
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-048",
+      "en": "claw",
+      "vi": "cái càng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at the crab's big claw!",
+          "vi": "Nhìn cái càng to của con cua kìa!",
+          "ipa": "/lʊk æt ðə kɹæbz bɪɡ klɔ/"
+        },
+        {
+          "en": "Can you snap like a crab claw?",
+          "vi": "Con kẹp kẹp như càng cua được không?"
+        },
+        {
+          "en": "Keep your fingers away from the claws.",
+          "vi": "Để ngón tay xa cái càng ra nha."
+        },
+        {
+          "en": "The lobster's claws are so strong.",
+          "vi": "Càng tôm hùm khỏe lắm."
+        },
+        {
+          "en": "Snap, snap! I have claws!",
+          "vi": "Kẹp kẹp! Con có càng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-049",
+      "en": "buzz",
+      "vi": "kêu vo ve",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Listen, the bees buzz!",
+          "vi": "Nghe nè, ong kêu vo ve!"
+        },
+        {
+          "en": "What makes that buzzing sound?",
+          "vi": "Cái gì kêu vo ve vậy?"
+        },
+        {
+          "en": "Let's buzz like busy bees!",
+          "vi": "Mình kêu vo ve như mấy con ong nào!"
+        },
+        {
+          "en": "The mosquito buzzing is so annoying.",
+          "vi": "Con muỗi kêu vo ve khó chịu quá."
+        },
+        {
+          "en": "Buzz, buzz! I'm a bee!",
+          "vi": "Vo ve! Con là con ong!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-050",
+      "en": "sting",
+      "vi": "chích, đốt",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ouch! Did something sting you?",
+          "vi": "Úi! Có con gì chích con hả?"
+        },
+        {
+          "en": "Do all bees sting?",
+          "vi": "Ong nào cũng chích hết hả?"
+        },
+        {
+          "en": "Stay still and the bee won't sting you.",
+          "vi": "Đứng yên thì con ong không chích đâu."
+        },
+        {
+          "en": "A bee sting hurts and gets a little puffy.",
+          "vi": "Ong chích đau và sưng lên chút xíu."
+        },
+        {
+          "en": "A bee stung me, but I was brave!",
+          "vi": "Con bị ong chích mà con dũng cảm lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-051",
+      "en": "fishbowl",
+      "vi": "cái bể cá tròn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, fish in the fishbowl!",
+          "vi": "Nhìn kìa, cá trong bể cá!"
+        },
+        {
+          "en": "Who lives in the fishbowl?",
+          "vi": "Ai sống trong bể cá vậy?"
+        },
+        {
+          "en": "Don't tap on the fishbowl, okay?",
+          "vi": "Đừng gõ vô bể cá nha?"
+        },
+        {
+          "en": "The fishbowl is round and clear.",
+          "vi": "Bể cá tròn và trong suốt."
+        },
+        {
+          "en": "Let's clean the fishbowl together!",
+          "vi": "Mình cùng rửa bể cá nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-bugs-ocean-052",
+      "en": "underwater",
+      "vi": "dưới nước",
+      "pos": "adverb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at everything underwater!",
+          "vi": "Wow, nhìn mọi thứ dưới nước kìa!"
+        },
+        {
+          "en": "Can you hold your breath underwater?",
+          "vi": "Con nín thở dưới nước được không?"
+        },
+        {
+          "en": "Let's pretend we're swimming underwater!",
+          "vi": "Mình giả bộ đang bơi dưới nước nha!"
+        },
+        {
+          "en": "Everything looks blue and quiet underwater.",
+          "vi": "Dưới nước cái gì cũng xanh và yên tĩnh."
+        },
+        {
+          "en": "I opened my eyes underwater at the pool!",
+          "vi": "Con mở mắt dưới nước ở hồ bơi!"
+        }
+      ]
+    }
+  ]
+}

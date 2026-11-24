@@ -1,0 +1,1690 @@
+{
+  "deckId": "v-kitchen",
+  "words": [
+    {
+      "id": "v-kitchen-001",
+      "en": "kitchen",
+      "vi": "nhà bếp",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, the kitchen smells so good!",
+          "vi": "Ồ, trong bếp thơm quá!"
+        },
+        {
+          "en": "Can you come to the kitchen?",
+          "vi": "Con vô bếp chút được không?"
+        },
+        {
+          "en": "Let's clean up the kitchen together.",
+          "vi": "Mình cùng dọn bếp nha."
+        },
+        {
+          "en": "Our kitchen is warm and cozy.",
+          "vi": "Bếp nhà mình ấm cúng ghê."
+        },
+        {
+          "en": "I'm helping in the kitchen!",
+          "vi": "Con đang phụ việc trong bếp nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-002",
+      "en": "spoon",
+      "vi": "cái muỗng",
+      "pos": "noun",
+      "emoji": "🥄",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's your spoon.",
+          "vi": "Muỗng của con nè."
+        },
+        {
+          "en": "Where's your spoon?",
+          "vi": "Muỗng của con đâu rồi?"
+        },
+        {
+          "en": "Use your spoon, please.",
+          "vi": "Con dùng muỗng nha."
+        },
+        {
+          "en": "This spoon is just your size.",
+          "vi": "Cái muỗng này vừa tay con nè."
+        },
+        {
+          "en": "I dropped my spoon!",
+          "vi": "Con làm rớt muỗng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-003",
+      "en": "fork",
+      "vi": "cái nĩa",
+      "pos": "noun",
+      "emoji": "🍴",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little fork!",
+          "vi": "Nhìn nè, cái nĩa nhỏ!"
+        },
+        {
+          "en": "Do you need a fork?",
+          "vi": "Con cần cái nĩa không?"
+        },
+        {
+          "en": "Poke it with your fork.",
+          "vi": "Con lấy nĩa xiên nè."
+        },
+        {
+          "en": "Careful, the fork is pointy.",
+          "vi": "Cẩn thận, nĩa nhọn đó."
+        },
+        {
+          "en": "I can use a fork!",
+          "vi": "Con biết dùng nĩa rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-004",
+      "en": "knife",
+      "vi": "con dao",
+      "pos": "noun",
+      "emoji": "🔪",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "That's a knife. It's sharp!",
+          "vi": "Đó là con dao. Bén lắm!"
+        },
+        {
+          "en": "Where's the butter knife?",
+          "vi": "Dao phết bơ đâu rồi ta?"
+        },
+        {
+          "en": "Use the little knife, okay?",
+          "vi": "Con dùng dao nhỏ nha."
+        },
+        {
+          "en": "Only grown-ups use the big knife.",
+          "vi": "Dao lớn chỉ người lớn mới được dùng."
+        },
+        {
+          "en": "I cut my banana with a knife!",
+          "vi": "Con dùng dao cắt chuối đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-005",
+      "en": "bowl",
+      "vi": "cái chén",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's your bowl.",
+          "vi": "Chén của con nè."
+        },
+        {
+          "en": "Is your bowl too full?",
+          "vi": "Chén con đầy quá hả?"
+        },
+        {
+          "en": "Hold your bowl close to you.",
+          "vi": "Con bưng chén sát người nha."
+        },
+        {
+          "en": "This bowl has a bunny on it.",
+          "vi": "Cái chén này có hình con thỏ nè."
+        },
+        {
+          "en": "I ate my whole bowl!",
+          "vi": "Con ăn hết nguyên chén rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-006",
+      "en": "plate",
+      "vi": "cái đĩa",
+      "pos": "noun",
+      "emoji": "🍽️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's a plate for you.",
+          "vi": "Đĩa cho con nè."
+        },
+        {
+          "en": "Is your plate empty yet?",
+          "vi": "Đĩa con hết chưa?"
+        },
+        {
+          "en": "Put the plates on the table, please.",
+          "vi": "Con đặt đĩa lên bàn giùm nha."
+        },
+        {
+          "en": "This plate is round like the moon.",
+          "vi": "Cái đĩa này tròn như mặt trăng."
+        },
+        {
+          "en": "I cleaned my plate!",
+          "vi": "Con ăn sạch đĩa rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-007",
+      "en": "cup",
+      "vi": "cái ly",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's your cup.",
+          "vi": "Ly của con nè."
+        },
+        {
+          "en": "Which cup do you want?",
+          "vi": "Con muốn cái ly nào?"
+        },
+        {
+          "en": "Hold your cup with two hands.",
+          "vi": "Con cầm ly bằng hai tay nha."
+        },
+        {
+          "en": "Your cup is almost empty.",
+          "vi": "Ly của con gần hết rồi."
+        },
+        {
+          "en": "I want the blue cup!",
+          "vi": "Con muốn cái ly màu xanh!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-008",
+      "en": "mug",
+      "vi": "cái ly có quai",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, Daddy's big mug!",
+          "vi": "Nhìn nè, cái ly có quai bự của ba!"
+        },
+        {
+          "en": "Where's my coffee mug?",
+          "vi": "Cái ly cà phê của mình đâu rồi ta?"
+        },
+        {
+          "en": "Hold the mug by the handle.",
+          "vi": "Con cầm ly bằng cái quai nha."
+        },
+        {
+          "en": "This mug is warm. Feel it.",
+          "vi": "Cái ly này ấm nè. Con sờ thử đi."
+        },
+        {
+          "en": "I want cocoa in my mug!",
+          "vi": "Con muốn uống ca cao bằng ly của con!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-009",
+      "en": "glass",
+      "vi": "cái ly thủy tinh",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Careful, that's a glass!",
+          "vi": "Cẩn thận, đó là ly thủy tinh!"
+        },
+        {
+          "en": "Want a glass of milk?",
+          "vi": "Con uống một ly sữa không?"
+        },
+        {
+          "en": "Put the glass down gently.",
+          "vi": "Con để cái ly xuống nhẹ nhẹ nha."
+        },
+        {
+          "en": "Glass can break, so be gentle.",
+          "vi": "Thủy tinh dễ bể lắm, nhẹ tay nha."
+        },
+        {
+          "en": "I drank a whole glass of water!",
+          "vi": "Con uống hết nguyên ly nước luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-010",
+      "en": "container",
+      "vi": "cái hộp đựng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a container for your snack.",
+          "vi": "Nhìn nè, hộp đựng đồ ăn vặt của con."
+        },
+        {
+          "en": "Can you find the lid for this container?",
+          "vi": "Con tìm giùm cái nắp của hộp này nha?"
+        },
+        {
+          "en": "Close the container tight, please.",
+          "vi": "Con đậy hộp thật chặt nha."
+        },
+        {
+          "en": "This container keeps your food fresh.",
+          "vi": "Hộp này giữ đồ ăn tươi lâu."
+        },
+        {
+          "en": "I packed my crackers in a container!",
+          "vi": "Con tự bỏ bánh quy vô hộp rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-011",
+      "en": "straw",
+      "vi": "cái ống hút",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a bendy straw!",
+          "vi": "Ồ, ống hút cong cong nè!"
+        },
+        {
+          "en": "Do you want a straw?",
+          "vi": "Con muốn ống hút không?"
+        },
+        {
+          "en": "Sip slowly through your straw.",
+          "vi": "Con hút từ từ thôi nha."
+        },
+        {
+          "en": "This straw is long and pink.",
+          "vi": "Ống hút này dài, màu hồng."
+        },
+        {
+          "en": "I can blow bubbles with my straw!",
+          "vi": "Con thổi bong bóng bằng ống hút được nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-012",
+      "en": "napkin",
+      "vi": "khăn giấy",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's a napkin.",
+          "vi": "Khăn giấy nè."
+        },
+        {
+          "en": "Do you need a napkin?",
+          "vi": "Con cần khăn giấy không?"
+        },
+        {
+          "en": "Wipe your mouth with a napkin.",
+          "vi": "Con lấy khăn giấy lau miệng nha."
+        },
+        {
+          "en": "Your napkin is all messy now.",
+          "vi": "Khăn giấy của con dơ hết rồi kìa."
+        },
+        {
+          "en": "I folded my napkin into a triangle!",
+          "vi": "Con xếp khăn giấy hình tam giác nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-013",
+      "en": "chopsticks",
+      "vi": "đôi đũa",
+      "pos": "noun",
+      "emoji": "🥢",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, chopsticks!",
+          "vi": "Nhìn nè, đôi đũa!"
+        },
+        {
+          "en": "Can you use chopsticks yet?",
+          "vi": "Con biết cầm đũa chưa?"
+        },
+        {
+          "en": "Hold your chopsticks like this.",
+          "vi": "Con cầm đũa như vầy nè."
+        },
+        {
+          "en": "Chopsticks are tricky, but you're getting better.",
+          "vi": "Cầm đũa khó ghê, mà con tiến bộ rồi đó."
+        },
+        {
+          "en": "I picked up a noodle with chopsticks!",
+          "vi": "Con gắp được sợi mì bằng đũa rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-014",
+      "en": "lunchbox",
+      "vi": "hộp cơm",
+      "pos": "noun",
+      "emoji": "🍱",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "ipa": "/ˈlʌntʃˌbɑks/",
+      "examples": [
+        {
+          "en": "Here's your lunchbox!",
+          "vi": "Hộp cơm của con nè!",
+          "ipa": "/hɪɹz jɔɹ ˈlʌntʃˌbɑks/"
+        },
+        {
+          "en": "Did you bring your lunchbox home?",
+          "vi": "Con mang hộp cơm về chưa?",
+          "ipa": "/dɪd ju bɹɪŋ jɔɹ ˈlʌntʃˌbɑks hoʊm/"
+        },
+        {
+          "en": "Put your lunchbox in your backpack.",
+          "vi": "Con bỏ hộp cơm vô cặp nha.",
+          "ipa": "/pʊt jɔɹ ˈlʌntʃˌbɑks ɪn jɔɹ ˈbækˌpæk/"
+        },
+        {
+          "en": "Your lunchbox is empty. Great job!",
+          "vi": "Hộp cơm sạch trơn. Giỏi quá!",
+          "ipa": "/jɔɹ ˈlʌntʃˌbɑks ɪz ˈɛmpti ɡɹeɪt dʒɑb/"
+        },
+        {
+          "en": "I ate everything in my lunchbox!",
+          "vi": "Con ăn hết sạch hộp cơm!",
+          "ipa": "/aɪ eɪt ˈɛvɹiˌθɪŋ ɪn maɪ ˈlʌntʃˌbɑks/"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-015",
+      "en": "fridge",
+      "vi": "cái tủ lạnh",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the fridge is full of fruit!",
+          "vi": "Nhìn nè, tủ lạnh đầy trái cây!"
+        },
+        {
+          "en": "What's inside the fridge?",
+          "vi": "Trong tủ lạnh có gì ta?"
+        },
+        {
+          "en": "Close the fridge door, please.",
+          "vi": "Con đóng cửa tủ lạnh giùm nha."
+        },
+        {
+          "en": "The fridge keeps food cold.",
+          "vi": "Tủ lạnh giữ đồ ăn lạnh."
+        },
+        {
+          "en": "I put my drawing on the fridge!",
+          "vi": "Con dán tranh của con lên tủ lạnh!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-016",
+      "en": "freezer",
+      "vi": "ngăn đá",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, the freezer is so cold!",
+          "vi": "Ồ, ngăn đá lạnh quá!"
+        },
+        {
+          "en": "Is there ice cream in the freezer?",
+          "vi": "Trong ngăn đá có kem không ta?"
+        },
+        {
+          "en": "Put the ice pops in the freezer.",
+          "vi": "Con bỏ kem que vô ngăn đá nha."
+        },
+        {
+          "en": "The freezer turns water into ice.",
+          "vi": "Ngăn đá làm nước thành đá."
+        },
+        {
+          "en": "I hid my popsicle in the freezer!",
+          "vi": "Con giấu cây kem trong ngăn đá rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-017",
+      "en": "stove",
+      "vi": "cái bếp",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the stove is on!",
+          "vi": "Nhìn kìa, bếp đang mở!"
+        },
+        {
+          "en": "Is the stove hot right now?",
+          "vi": "Bếp đang nóng hả?"
+        },
+        {
+          "en": "Stay back from the stove, okay?",
+          "vi": "Con đứng xa bếp ra nha."
+        },
+        {
+          "en": "The stove gets very hot.",
+          "vi": "Bếp nóng lắm đó."
+        },
+        {
+          "en": "I stood far away from the stove!",
+          "vi": "Con đứng xa bếp rồi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-018",
+      "en": "oven",
+      "vi": "cái lò nướng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, cookies in the oven!",
+          "vi": "Ồ, bánh quy trong lò nướng!"
+        },
+        {
+          "en": "Can you see through the oven door?",
+          "vi": "Con nhìn qua cửa lò nướng thấy không?"
+        },
+        {
+          "en": "Let's wait for the oven to beep.",
+          "vi": "Mình chờ lò nướng kêu bíp nha."
+        },
+        {
+          "en": "The oven makes the kitchen warm.",
+          "vi": "Lò nướng làm bếp ấm lên."
+        },
+        {
+          "en": "Is my cake still in the oven?",
+          "vi": "Bánh của con còn trong lò hả?"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-019",
+      "en": "microwave",
+      "vi": "lò vi sóng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Beep beep! The microwave is done!",
+          "vi": "Bíp bíp! Lò vi sóng xong rồi!"
+        },
+        {
+          "en": "Should I warm it in the microwave?",
+          "vi": "Mình hâm nó trong lò vi sóng nha?"
+        },
+        {
+          "en": "Stand back from the microwave, please.",
+          "vi": "Con đứng xa lò vi sóng nha."
+        },
+        {
+          "en": "The microwave makes food warm fast.",
+          "vi": "Lò vi sóng hâm đồ ăn nhanh lắm."
+        },
+        {
+          "en": "I pushed the microwave button!",
+          "vi": "Con bấm nút lò vi sóng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-020",
+      "en": "tongs",
+      "vi": "cái kẹp gắp",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Snap, snap! Look at the tongs!",
+          "vi": "Tách tách! Nhìn cái kẹp gắp nè!"
+        },
+        {
+          "en": "Can you squeeze the tongs?",
+          "vi": "Con bóp cái kẹp gắp được không?"
+        },
+        {
+          "en": "Use the tongs for the hot corn.",
+          "vi": "Con dùng kẹp gắp trái bắp nóng nha."
+        },
+        {
+          "en": "Tongs keep your fingers safe.",
+          "vi": "Kẹp gắp giúp tay con không bị phỏng."
+        },
+        {
+          "en": "I grabbed a sausage with the tongs!",
+          "vi": "Con gắp được cây xúc xích bằng kẹp!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-021",
+      "en": "pot",
+      "vi": "cái nồi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big pot of soup!",
+          "vi": "Nhìn nè, nồi canh bự!"
+        },
+        {
+          "en": "What's cooking in the pot?",
+          "vi": "Trong nồi nấu gì vậy ta?"
+        },
+        {
+          "en": "Hands away from the pot, it's hot.",
+          "vi": "Tránh xa cái nồi ra nha, nóng đó."
+        },
+        {
+          "en": "This pot is really heavy.",
+          "vi": "Cái nồi này nặng lắm."
+        },
+        {
+          "en": "I'm cooking in my toy pot!",
+          "vi": "Con đang nấu bằng nồi đồ chơi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-022",
+      "en": "pan",
+      "vi": "cái chảo",
+      "pos": "noun",
+      "emoji": "🍳",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Sizzle! Listen to the pan.",
+          "vi": "Xèo xèo! Nghe tiếng chảo nè."
+        },
+        {
+          "en": "Is the pan ready for the eggs?",
+          "vi": "Chảo nóng chưa để chiên trứng ta?"
+        },
+        {
+          "en": "Step back, the pan is hot.",
+          "vi": "Con lùi ra, chảo nóng đó."
+        },
+        {
+          "en": "This pan is black and round.",
+          "vi": "Cái chảo này đen và tròn."
+        },
+        {
+          "en": "The pan goes sizzle!",
+          "vi": "Chảo kêu xèo xèo!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-023",
+      "en": "kettle",
+      "vi": "cái ấm đun nước",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Listen, the kettle is whistling!",
+          "vi": "Nghe nè, ấm nước reo rồi!"
+        },
+        {
+          "en": "Is the kettle boiling yet?",
+          "vi": "Ấm nước sôi chưa ta?"
+        },
+        {
+          "en": "Stay away from the kettle, sweetie.",
+          "vi": "Con tránh xa cái ấm nha."
+        },
+        {
+          "en": "The kettle makes the water hot.",
+          "vi": "Ấm đun cho nước nóng lên."
+        },
+        {
+          "en": "The kettle is singing!",
+          "vi": "Cái ấm đang hát kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-024",
+      "en": "rice cooker",
+      "vi": "nồi cơm điện",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, steam from the rice cooker!",
+          "vi": "Ồ, hơi bốc lên từ nồi cơm điện kìa!"
+        },
+        {
+          "en": "Is the rice cooker done yet?",
+          "vi": "Nồi cơm chín chưa ta?"
+        },
+        {
+          "en": "Push the button on the rice cooker.",
+          "vi": "Con bấm nút nồi cơm điện nha."
+        },
+        {
+          "en": "The rice cooker makes yummy rice.",
+          "vi": "Nồi cơm điện nấu cơm ngon lắm."
+        },
+        {
+          "en": "I turned on the rice cooker!",
+          "vi": "Con bật nồi cơm điện rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-025",
+      "en": "cutting board",
+      "vi": "cái thớt",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's your cutting board.",
+          "vi": "Thớt của con nè."
+        },
+        {
+          "en": "Where's the little cutting board?",
+          "vi": "Cái thớt nhỏ đâu rồi ta?"
+        },
+        {
+          "en": "Put the banana on the cutting board.",
+          "vi": "Con để trái chuối lên thớt nha."
+        },
+        {
+          "en": "This cutting board is made of wood.",
+          "vi": "Cái thớt này làm bằng gỗ."
+        },
+        {
+          "en": "I washed the cutting board!",
+          "vi": "Con rửa cái thớt rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-026",
+      "en": "apron",
+      "vi": "cái tạp dề",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tiny apron for you!",
+          "vi": "Nhìn nè, cái tạp dề nhỏ xíu cho con!"
+        },
+        {
+          "en": "Can you tie your apron?",
+          "vi": "Con tự cột tạp dề được không?"
+        },
+        {
+          "en": "Put on your apron first.",
+          "vi": "Con mang tạp dề vô trước nha."
+        },
+        {
+          "en": "Your apron keeps your clothes clean.",
+          "vi": "Tạp dề giữ đồ con sạch sẽ."
+        },
+        {
+          "en": "My apron has stars on it!",
+          "vi": "Tạp dề của con có hình ngôi sao!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-027",
+      "en": "high chair",
+      "vi": "ghế ăn",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Up you go into your high chair!",
+          "vi": "Lên ghế ăn nào con!"
+        },
+        {
+          "en": "Ready for your high chair?",
+          "vi": "Con lên ghế ăn nha?"
+        },
+        {
+          "en": "Sit nicely in your high chair.",
+          "vi": "Con ngồi ngoan trên ghế ăn nha."
+        },
+        {
+          "en": "The high chair has a little tray.",
+          "vi": "Ghế ăn có cái khay nhỏ nè."
+        },
+        {
+          "en": "I'm too big for my high chair!",
+          "vi": "Con lớn rồi, không ngồi ghế ăn nữa!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-028",
+      "en": "tray",
+      "vi": "cái khay",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here comes a tray of snacks!",
+          "vi": "Khay đồ ăn vặt tới rồi nè!"
+        },
+        {
+          "en": "Can you carry the tray?",
+          "vi": "Con bưng cái khay được không?"
+        },
+        {
+          "en": "Walk slowly with the tray.",
+          "vi": "Con bưng khay đi từ từ nha."
+        },
+        {
+          "en": "This tray is a little wobbly.",
+          "vi": "Cái khay này hơi chòng chành."
+        },
+        {
+          "en": "I carried the tray all by myself!",
+          "vi": "Con tự bưng khay đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-029",
+      "en": "lid",
+      "vi": "cái nắp",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Pop! The lid came off!",
+          "vi": "Bụp! Nắp bung ra rồi!"
+        },
+        {
+          "en": "Where's the lid for this?",
+          "vi": "Nắp của cái này đâu rồi?"
+        },
+        {
+          "en": "Put the lid back on, please.",
+          "vi": "Con đậy nắp lại giùm nha."
+        },
+        {
+          "en": "This lid is stuck tight.",
+          "vi": "Cái nắp này kẹt chặt quá."
+        },
+        {
+          "en": "I can open the lid!",
+          "vi": "Con mở được nắp rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-030",
+      "en": "jar",
+      "vi": "cái hũ",
+      "pos": "noun",
+      "emoji": "🫙",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a jar of cookies!",
+          "vi": "Nhìn nè, hũ bánh quy!"
+        },
+        {
+          "en": "Can you open the jar?",
+          "vi": "Con mở hũ được không?"
+        },
+        {
+          "en": "Twist the jar lid like this.",
+          "vi": "Con vặn nắp hũ như vầy nè."
+        },
+        {
+          "en": "This jar is made of glass.",
+          "vi": "Cái hũ này làm bằng thủy tinh."
+        },
+        {
+          "en": "I put my coins in a jar!",
+          "vi": "Con bỏ tiền xu vô hũ rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-031",
+      "en": "sponge",
+      "vi": "miếng mút rửa chén",
+      "pos": "noun",
+      "emoji": "🧽",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a yellow sponge!",
+          "vi": "Nhìn nè, miếng mút màu vàng!"
+        },
+        {
+          "en": "Can you squeeze the sponge?",
+          "vi": "Con bóp miếng mút được không?"
+        },
+        {
+          "en": "Scrub the plate with the sponge.",
+          "vi": "Con lấy miếng mút chà cái đĩa nha."
+        },
+        {
+          "en": "The sponge is soft and bubbly.",
+          "vi": "Miếng mút mềm, nhiều bọt."
+        },
+        {
+          "en": "I washed a cup with the sponge!",
+          "vi": "Con lấy miếng mút rửa cái ly rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-032",
+      "en": "dish soap",
+      "vi": "nước rửa chén",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, dish soap bubbles!",
+          "vi": "Ồ, bọt nước rửa chén nè!"
+        },
+        {
+          "en": "How much dish soap do we need?",
+          "vi": "Mình cần bao nhiêu nước rửa chén ta?"
+        },
+        {
+          "en": "Just one drop of dish soap.",
+          "vi": "Chỉ một giọt nước rửa chén thôi nha."
+        },
+        {
+          "en": "Dish soap smells like lemons.",
+          "vi": "Nước rửa chén có mùi chanh."
+        },
+        {
+          "en": "I squeezed too much dish soap!",
+          "vi": "Con bóp nhiều nước rửa chén quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-033",
+      "en": "dishes",
+      "vi": "chén dĩa",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, so many dirty dishes!",
+          "vi": "Oa, nhiều chén dĩa dơ quá!"
+        },
+        {
+          "en": "Can you help me with the dishes?",
+          "vi": "Con phụ rửa chén nha?"
+        },
+        {
+          "en": "Bring your dishes to the sink.",
+          "vi": "Con mang chén dĩa ra bồn rửa nha."
+        },
+        {
+          "en": "Clean dishes go in the cupboard.",
+          "vi": "Chén dĩa sạch thì cất vô tủ."
+        },
+        {
+          "en": "I dried all the dishes!",
+          "vi": "Con lau khô hết chén dĩa rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-034",
+      "en": "cupboard",
+      "vi": "cái tủ chén",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the cupboard is open!",
+          "vi": "Nhìn kìa, tủ chén đang mở!"
+        },
+        {
+          "en": "What's in the top cupboard?",
+          "vi": "Tủ trên có gì vậy ta?"
+        },
+        {
+          "en": "Close the cupboard gently, please.",
+          "vi": "Con đóng tủ nhẹ nhẹ nha."
+        },
+        {
+          "en": "The cups are in that cupboard.",
+          "vi": "Ly để trong cái tủ đó."
+        },
+        {
+          "en": "I can reach the low cupboard!",
+          "vi": "Con với tới cái tủ dưới rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-035",
+      "en": "toaster",
+      "vi": "máy nướng bánh mì",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Pop! The toaster is done!",
+          "vi": "Bụp! Máy nướng bánh xong rồi!"
+        },
+        {
+          "en": "Can you push the toaster button?",
+          "vi": "Con nhấn nút máy nướng bánh nha?"
+        },
+        {
+          "en": "Wait for the toaster to pop.",
+          "vi": "Con chờ máy nướng bánh bật lên nha."
+        },
+        {
+          "en": "The toaster makes bread warm and crispy.",
+          "vi": "Máy nướng làm bánh mì nóng giòn."
+        },
+        {
+          "en": "The toaster made me jump!",
+          "vi": "Máy nướng bánh làm con giật mình!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-036",
+      "en": "blender",
+      "vi": "máy xay sinh tố",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the blender is so loud!",
+          "vi": "Oa, máy xay kêu to quá!"
+        },
+        {
+          "en": "Should we use the blender?",
+          "vi": "Mình dùng máy xay nha?"
+        },
+        {
+          "en": "Cover your ears, here goes the blender!",
+          "vi": "Bịt tai lại nha, máy xay chạy nè!"
+        },
+        {
+          "en": "The blender turns fruit into a smoothie.",
+          "vi": "Máy xay biến trái cây thành sinh tố.",
+          "ipa": "/ðə ˈblɛndɚ tɝnz fɹut ˈɪntu ə ˈsmuði/"
+        },
+        {
+          "en": "Can I press the blender button?",
+          "vi": "Con bấm nút máy xay được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-037",
+      "en": "ladle",
+      "vi": "cái vá",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's the big ladle.",
+          "vi": "Cái vá lớn nè."
+        },
+        {
+          "en": "Can you hold the ladle?",
+          "vi": "Con cầm cái vá được không?"
+        },
+        {
+          "en": "Scoop the soup with the ladle.",
+          "vi": "Con lấy vá múc canh nha."
+        },
+        {
+          "en": "The ladle is like a giant spoon.",
+          "vi": "Cái vá giống cái muỗng khổng lồ."
+        },
+        {
+          "en": "I used the ladle all by myself!",
+          "vi": "Con tự dùng vá múc đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-038",
+      "en": "spatula",
+      "vi": "cái vá chiên",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's the spatula!",
+          "vi": "Cái vá chiên nè!"
+        },
+        {
+          "en": "Do you want to hold the spatula?",
+          "vi": "Con muốn cầm cái vá chiên không?"
+        },
+        {
+          "en": "Turn the pancake with the spatula.",
+          "vi": "Con dùng vá chiên lật bánh nha."
+        },
+        {
+          "en": "The spatula is flat and wide.",
+          "vi": "Cái vá chiên dẹp mà rộng."
+        },
+        {
+          "en": "I turned the egg with the spatula!",
+          "vi": "Con lật trứng bằng vá chiên rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-039",
+      "en": "whisk",
+      "vi": "cây đánh trứng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a whisk! It's like a balloon.",
+          "vi": "Nhìn nè, cây đánh trứng! Giống trái bong bóng."
+        },
+        {
+          "en": "Do you want to use the whisk?",
+          "vi": "Con muốn dùng cây đánh trứng không?"
+        },
+        {
+          "en": "Whisk the eggs round and round.",
+          "vi": "Con đánh trứng vòng vòng nha."
+        },
+        {
+          "en": "A whisk makes the eggs bubbly.",
+          "vi": "Cây đánh trứng làm trứng nổi bọt."
+        },
+        {
+          "en": "I whisked the eggs super fast!",
+          "vi": "Con đánh trứng nhanh ghê luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-040",
+      "en": "placemat",
+      "vi": "tấm lót bàn ăn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's your placemat.",
+          "vi": "Tấm lót của con nè."
+        },
+        {
+          "en": "Can you find your placemat?",
+          "vi": "Con tìm tấm lót của con được không?"
+        },
+        {
+          "en": "Put your plate on your placemat.",
+          "vi": "Con đặt đĩa lên tấm lót nha."
+        },
+        {
+          "en": "Your placemat has a map on it!",
+          "vi": "Tấm lót của con có hình bản đồ nè!"
+        },
+        {
+          "en": "I picked the blue placemat!",
+          "vi": "Con chọn tấm lót màu xanh!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-041",
+      "en": "bib",
+      "vi": "cái yếm",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Look, a bib with ducks!",
+          "vi": "Nhìn nè, cái yếm có hình vịt!"
+        },
+        {
+          "en": "Do you want the dinosaur bib?",
+          "vi": "Con muốn cái yếm khủng long không?"
+        },
+        {
+          "en": "Let's put on your bib.",
+          "vi": "Mình đeo yếm cho con nha."
+        },
+        {
+          "en": "Your bib is full of crumbs!",
+          "vi": "Yếm con đầy vụn bánh rồi!"
+        },
+        {
+          "en": "No bib, I'm big!",
+          "vi": "Con lớn rồi, không đeo yếm!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-042",
+      "en": "sippy cup",
+      "vi": "ly tập uống",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "ipa": "/ˈsɪpi kʌp/",
+      "examples": [
+        {
+          "en": "Here's your sippy cup.",
+          "vi": "Ly tập uống của con nè.",
+          "ipa": "/hɪɹz jɔɹ ˈsɪpi kʌp/"
+        },
+        {
+          "en": "Where did your sippy cup go?",
+          "vi": "Ly tập uống của con đâu rồi?",
+          "ipa": "/wɛɹ dɪd jɔɹ ˈsɪpi kʌp ɡoʊ/"
+        },
+        {
+          "en": "Put your sippy cup on the table.",
+          "vi": "Con để ly tập uống lên bàn nha.",
+          "ipa": "/pʊt jɔɹ ˈsɪpi kʌp ɑn ðə ˈteɪbəl/"
+        },
+        {
+          "en": "Your sippy cup won't spill.",
+          "vi": "Ly tập uống không đổ đâu.",
+          "ipa": "/jɔɹ ˈsɪpi kʌp woʊnt spɪl/"
+        },
+        {
+          "en": "My sippy cup is empty!",
+          "vi": "Ly của con hết rồi!",
+          "ipa": "/maɪ ˈsɪpi kʌp ɪz ˈɛmpti/"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-043",
+      "en": "teapot",
+      "vi": "cái ấm trà",
+      "pos": "noun",
+      "emoji": "🫖",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little teapot!",
+          "vi": "Nhìn nè, cái ấm trà nhỏ!"
+        },
+        {
+          "en": "What's inside the teapot?",
+          "vi": "Trong ấm trà có gì vậy?"
+        },
+        {
+          "en": "Pour from the teapot slowly.",
+          "vi": "Rót từ ấm trà từ từ nha."
+        },
+        {
+          "en": "Grandpa's teapot is very old.",
+          "vi": "Ấm trà của ông cũ lắm rồi."
+        },
+        {
+          "en": "I'm a little teapot!",
+          "vi": "Con là cái ấm trà nhỏ!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-044",
+      "en": "dish towel",
+      "vi": "khăn lau chén",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's a dish towel.",
+          "vi": "Khăn lau chén nè."
+        },
+        {
+          "en": "Can you grab the dish towel?",
+          "vi": "Con lấy giùm cái khăn lau chén nha?"
+        },
+        {
+          "en": "Dry the cups with the dish towel.",
+          "vi": "Con lấy khăn lau khô mấy cái ly nha."
+        },
+        {
+          "en": "The dish towel is all wet now.",
+          "vi": "Khăn lau chén ướt hết rồi."
+        },
+        {
+          "en": "I hung up the dish towel!",
+          "vi": "Con treo khăn lau chén lên rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-045",
+      "en": "paper towel",
+      "vi": "giấy lau bếp",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, grab a paper towel!",
+          "vi": "Ui, lấy giấy lau đi!"
+        },
+        {
+          "en": "Do we need more paper towels?",
+          "vi": "Mình cần thêm giấy lau không ta?"
+        },
+        {
+          "en": "Wipe the spill with a paper towel.",
+          "vi": "Con lấy giấy lau chỗ đổ nha."
+        },
+        {
+          "en": "Paper towels soak up water fast.",
+          "vi": "Giấy lau thấm nước nhanh lắm."
+        },
+        {
+          "en": "I wiped it with a paper towel!",
+          "vi": "Con lấy giấy lau sạch rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-046",
+      "en": "rolling pin",
+      "vi": "cây cán bột",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a wooden rolling pin!",
+          "vi": "Nhìn nè, cây cán bột bằng gỗ!"
+        },
+        {
+          "en": "Can you push the rolling pin?",
+          "vi": "Con đẩy cây cán bột được không?"
+        },
+        {
+          "en": "Roll the dough with the rolling pin.",
+          "vi": "Con lấy cây cán bột cán bột nha."
+        },
+        {
+          "en": "The rolling pin makes the dough flat.",
+          "vi": "Cây cán bột làm bột dẹp ra."
+        },
+        {
+          "en": "I used the rolling pin!",
+          "vi": "Con dùng cây cán bột rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-047",
+      "en": "tablecloth",
+      "vi": "khăn trải bàn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a pretty tablecloth!",
+          "vi": "Ồ, khăn trải bàn đẹp quá!"
+        },
+        {
+          "en": "Can you help me spread the tablecloth?",
+          "vi": "Con phụ mình trải khăn bàn nha?"
+        },
+        {
+          "en": "Smooth out the tablecloth, please.",
+          "vi": "Con vuốt thẳng khăn trải bàn giùm nha."
+        },
+        {
+          "en": "The tablecloth has red flowers on it.",
+          "vi": "Khăn trải bàn có hoa đỏ nè."
+        },
+        {
+          "en": "Oops, I spilled juice on the tablecloth!",
+          "vi": "Ui, con làm đổ nước lên khăn trải bàn!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-048",
+      "en": "toothpick",
+      "vi": "cây tăm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, toothpicks!",
+          "vi": "Nhìn nè, cây tăm!"
+        },
+        {
+          "en": "Want a toothpick for your fruit?",
+          "vi": "Con muốn lấy tăm ghim trái cây không?"
+        },
+        {
+          "en": "Poke the mango with a toothpick.",
+          "vi": "Con lấy tăm ghim xoài nha."
+        },
+        {
+          "en": "Toothpicks are pointy, so be careful.",
+          "vi": "Cây tăm nhọn lắm, cẩn thận nha."
+        },
+        {
+          "en": "I ate fruit with a toothpick!",
+          "vi": "Con ghim trái cây bằng tăm để ăn!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-049",
+      "en": "ice cubes",
+      "vi": "đá viên",
+      "pos": "noun",
+      "emoji": "🧊",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, ice cubes!",
+          "vi": "Nhìn nè, đá viên!"
+        },
+        {
+          "en": "Want ice cubes in your water?",
+          "vi": "Con muốn bỏ đá vô nước không?"
+        },
+        {
+          "en": "Drop the ice cubes in slowly.",
+          "vi": "Con thả đá viên vô từ từ nha."
+        },
+        {
+          "en": "Ice cubes melt really fast.",
+          "vi": "Đá viên tan nhanh lắm."
+        },
+        {
+          "en": "My ice cubes melted!",
+          "vi": "Đá của con tan hết rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-050",
+      "en": "dishwasher",
+      "vi": "máy rửa chén",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the dishwasher is full!",
+          "vi": "Nhìn nè, máy rửa chén đầy rồi!"
+        },
+        {
+          "en": "Can you help load the dishwasher?",
+          "vi": "Con phụ xếp chén vô máy rửa nha?"
+        },
+        {
+          "en": "Put your cup in the dishwasher.",
+          "vi": "Con bỏ ly vô máy rửa chén nha."
+        },
+        {
+          "en": "The dishwasher washes dishes for us.",
+          "vi": "Máy rửa chén rửa chén giùm mình."
+        },
+        {
+          "en": "The dishwasher is so noisy!",
+          "vi": "Máy rửa chén kêu ồn quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-051",
+      "en": "water bottle",
+      "vi": "bình nước",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's your water bottle!",
+          "vi": "Bình nước của con nè!"
+        },
+        {
+          "en": "Did you bring your water bottle?",
+          "vi": "Con có mang bình nước theo không?"
+        },
+        {
+          "en": "Fill your water bottle before school.",
+          "vi": "Con đổ đầy bình nước trước khi đi học nha."
+        },
+        {
+          "en": "This water bottle keeps water cold.",
+          "vi": "Bình nước này giữ nước mát lâu."
+        },
+        {
+          "en": "I drank my whole water bottle!",
+          "vi": "Con uống hết bình nước rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-kitchen-052",
+      "en": "measuring cup",
+      "vi": "ly đong",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a measuring cup!",
+          "vi": "Nhìn nè, cái ly đong!"
+        },
+        {
+          "en": "Can you hold the measuring cup?",
+          "vi": "Con cầm cái ly đong được không?"
+        },
+        {
+          "en": "Fill the measuring cup with flour.",
+          "vi": "Con đổ bột vô ly đong nha."
+        },
+        {
+          "en": "The measuring cup has little lines.",
+          "vi": "Ly đong có mấy vạch nhỏ nè."
+        },
+        {
+          "en": "I filled the measuring cup!",
+          "vi": "Con đổ đầy ly đong rồi!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1726 @@
+{
+  "deckId": "v-outdoor",
+  "words": [
+    {
+      "id": "v-outdoor-001",
+      "en": "park",
+      "vi": "công viên",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, we're at the park!",
+          "vi": "Yeah, tới công viên rồi!"
+        },
+        {
+          "en": "Want to go to the park?",
+          "vi": "Con muốn đi công viên không?"
+        },
+        {
+          "en": "Let's walk to the park.",
+          "vi": "Mình đi bộ ra công viên nha."
+        },
+        {
+          "en": "The park is so busy today.",
+          "vi": "Hôm nay công viên đông ghê."
+        },
+        {
+          "en": "Can we stay at the park longer?",
+          "vi": "Mình ở công viên thêm chút nha?"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-002",
+      "en": "playground",
+      "vi": "sân chơi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big playground!",
+          "vi": "Nhìn kìa, sân chơi bự quá!"
+        },
+        {
+          "en": "What should we play at the playground?",
+          "vi": "Ra sân chơi con muốn chơi gì?"
+        },
+        {
+          "en": "Stay close at the playground, okay?",
+          "vi": "Ở sân chơi thì chơi gần gần nha con."
+        },
+        {
+          "en": "This playground is really fun.",
+          "vi": "Sân chơi này vui ghê."
+        },
+        {
+          "en": "I made a friend at the playground!",
+          "vi": "Con có bạn mới ở sân chơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-003",
+      "en": "slide",
+      "vi": "cầu tuột",
+      "pos": "noun",
+      "emoji": "🛝",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Down the slide we go!",
+          "vi": "Tuột xuống nè!"
+        },
+        {
+          "en": "Want to go on the slide?",
+          "vi": "Con muốn chơi cầu tuột không?"
+        },
+        {
+          "en": "Sit down on the slide, please.",
+          "vi": "Ngồi xuống rồi tuột nha con."
+        },
+        {
+          "en": "This slide is super fast!",
+          "vi": "Cầu tuột này tuột nhanh ghê!"
+        },
+        {
+          "en": "Again! One more slide!",
+          "vi": "Nữa! Tuột thêm lần nữa!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-004",
+      "en": "swing",
+      "vi": "xích đu",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Up, up on the swing!",
+          "vi": "Lên cao, lên cao nè!"
+        },
+        {
+          "en": "Want a push on the swing?",
+          "vi": "Con muốn mình đẩy xích đu không?"
+        },
+        {
+          "en": "Hold on tight to the swing.",
+          "vi": "Nắm chặt dây xích đu nha."
+        },
+        {
+          "en": "You're swinging so high!",
+          "vi": "Con đu cao quá trời!"
+        },
+        {
+          "en": "Push me higher on the swing!",
+          "vi": "Đẩy con cao hơn nữa đi!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-005",
+      "en": "sandbox",
+      "vi": "hố cát",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a big sandbox!",
+          "vi": "Ồ, hố cát bự quá!"
+        },
+        {
+          "en": "What are you making in the sandbox?",
+          "vi": "Con làm gì trong hố cát vậy?"
+        },
+        {
+          "en": "Keep the sand in the sandbox, okay?",
+          "vi": "Để cát trong hố thôi nha con."
+        },
+        {
+          "en": "The sandbox sand is warm today.",
+          "vi": "Hôm nay cát trong hố ấm ghê."
+        },
+        {
+          "en": "I dug a hole in the sandbox!",
+          "vi": "Con đào cái lỗ trong hố cát!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-006",
+      "en": "seesaw",
+      "vi": "bập bênh",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Up and down on the seesaw!",
+          "vi": "Lên xuống trên bập bênh nè!"
+        },
+        {
+          "en": "Who wants to ride the seesaw?",
+          "vi": "Ai muốn chơi bập bênh nào?"
+        },
+        {
+          "en": "Sit on that side of the seesaw.",
+          "vi": "Ngồi bên kia bập bênh đi con."
+        },
+        {
+          "en": "The seesaw needs two people.",
+          "vi": "Bập bênh phải có hai người."
+        },
+        {
+          "en": "I'm up high on the seesaw!",
+          "vi": "Con lên cao rồi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-007",
+      "en": "monkey bars",
+      "vi": "xà đu (thang khỉ)",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, you crossed the monkey bars!",
+          "vi": "Oa, con đu qua hết xà rồi!"
+        },
+        {
+          "en": "How many monkey bars can you do?",
+          "vi": "Con đu được mấy thanh xà?"
+        },
+        {
+          "en": "Use both hands on the monkey bars.",
+          "vi": "Đu xà thì dùng hai tay nha."
+        },
+        {
+          "en": "The monkey bars make your arms strong.",
+          "vi": "Đu xà làm tay con khỏe."
+        },
+        {
+          "en": "I did the monkey bars all by myself!",
+          "vi": "Con tự đu hết xà luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-008",
+      "en": "jungle gym",
+      "vi": "khung leo trèo",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at that big jungle gym!",
+          "vi": "Nhìn khung leo trèo bự chưa!"
+        },
+        {
+          "en": "Can you climb the jungle gym?",
+          "vi": "Con leo khung này được không?"
+        },
+        {
+          "en": "Go slow on the jungle gym.",
+          "vi": "Leo khung từ từ thôi nha."
+        },
+        {
+          "en": "The jungle gym is really tall.",
+          "vi": "Khung leo trèo cao ghê."
+        },
+        {
+          "en": "I'm on top of the jungle gym!",
+          "vi": "Con lên tới đỉnh rồi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-009",
+      "en": "merry-go-round",
+      "vi": "vòng quay ngựa gỗ",
+      "pos": "noun",
+      "emoji": "🎠",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Round and round on the merry-go-round!",
+          "vi": "Quay vòng vòng trên đu quay!"
+        },
+        {
+          "en": "Do you want to ride the merry-go-round?",
+          "vi": "Con muốn đi đu quay không?"
+        },
+        {
+          "en": "Hold on tight on the merry-go-round.",
+          "vi": "Ngồi đu quay nhớ bám chặt nha."
+        },
+        {
+          "en": "The merry-go-round makes me dizzy!",
+          "vi": "Đu quay làm mình chóng mặt ghê!"
+        },
+        {
+          "en": "I rode the merry-go-round horse!",
+          "vi": "Con cưỡi ngựa đu quay rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-010",
+      "en": "zip line",
+      "vi": "trò đu dây trượt",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow! Look at you on the zip line!",
+          "vi": "Vèo! Coi con đu dây trượt kìa!"
+        },
+        {
+          "en": "Are you brave enough for the zip line?",
+          "vi": "Con dám chơi đu dây trượt không?"
+        },
+        {
+          "en": "Hold the zip line handle with both hands.",
+          "vi": "Nắm tay cầm bằng hai tay nha."
+        },
+        {
+          "en": "That zip line is long and super fast.",
+          "vi": "Dây trượt đó dài mà nhanh ghê."
+        },
+        {
+          "en": "I wasn't scared on the zip line at all!",
+          "vi": "Con chơi đu dây trượt không sợ chút nào!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-011",
+      "en": "trampoline",
+      "vi": "bạt nhún",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Jump, jump! A trampoline!",
+          "vi": "Nhún nhún! Bạt nhún nè!"
+        },
+        {
+          "en": "Can you jump high on the trampoline?",
+          "vi": "Con nhảy cao trên bạt nhún được không?"
+        },
+        {
+          "en": "Take turns on the trampoline.",
+          "vi": "Thay phiên nhau nhảy bạt nhún nha."
+        },
+        {
+          "en": "The trampoline is so bouncy!",
+          "vi": "Bạt nhún nảy dữ lắm!"
+        },
+        {
+          "en": "Watch me jump on the trampoline!",
+          "vi": "Coi con nhảy bạt nhún nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-012",
+      "en": "bounce house",
+      "vi": "nhà hơi nhún",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big bounce house!",
+          "vi": "Oa, nhà hơi nhún bự quá!"
+        },
+        {
+          "en": "Want to go in the bounce house?",
+          "vi": "Con muốn vô nhà hơi nhún không?"
+        },
+        {
+          "en": "Shoes off for the bounce house!",
+          "vi": "Cởi giày ra rồi vô nhà hơi nha."
+        },
+        {
+          "en": "The bounce house is so wobbly!",
+          "vi": "Nhà hơi lắc lư ghê!"
+        },
+        {
+          "en": "The bounce house was the best!",
+          "vi": "Nhà hơi nhún vui nhất luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-013",
+      "en": "climbing wall",
+      "vi": "tường leo núi",
+      "pos": "noun",
+      "emoji": "🧗",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a climbing wall!",
+          "vi": "Nhìn kìa, tường leo núi!"
+        },
+        {
+          "en": "How high can you go on the climbing wall?",
+          "vi": "Con leo tường được cao cỡ nào?"
+        },
+        {
+          "en": "Grab the next rock on the climbing wall.",
+          "vi": "Nắm cục đá kế tiếp trên tường đi."
+        },
+        {
+          "en": "The climbing wall is harder than it looks.",
+          "vi": "Tường leo khó hơn mình tưởng."
+        },
+        {
+          "en": "I reached the top of the climbing wall!",
+          "vi": "Con leo tới đỉnh tường rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-014",
+      "en": "bench",
+      "vi": "băng ghế",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "There's a bench. Let's rest!",
+          "vi": "Có băng ghế kìa. Mình nghỉ chút đi!"
+        },
+        {
+          "en": "Can we sit on the bench?",
+          "vi": "Mình ngồi băng ghế được không?"
+        },
+        {
+          "en": "Sit on the bench for snack.",
+          "vi": "Ngồi băng ghế ăn bánh nha con."
+        },
+        {
+          "en": "This bench is in the shade.",
+          "vi": "Băng ghế này có bóng mát."
+        },
+        {
+          "en": "I'll wait on the bench!",
+          "vi": "Con ngồi băng ghế chờ nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-015",
+      "en": "trail",
+      "vi": "đường mòn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a trail into the woods!",
+          "vi": "Nhìn kìa, đường mòn vô rừng!"
+        },
+        {
+          "en": "Which trail should we take today?",
+          "vi": "Hôm nay mình đi đường mòn nào?"
+        },
+        {
+          "en": "Stay on the trail, okay?",
+          "vi": "Đi đúng đường mòn nha con."
+        },
+        {
+          "en": "This trail is long but really pretty.",
+          "vi": "Đường mòn này dài mà đẹp lắm."
+        },
+        {
+          "en": "We saw a deer on the trail last time!",
+          "vi": "Lần trước tụi mình thấy con nai trên đường mòn!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-016",
+      "en": "picnic basket",
+      "vi": "giỏ đồ picnic",
+      "pos": "noun",
+      "emoji": "🧺",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's the picnic basket!",
+          "vi": "Giỏ đồ picnic nè!"
+        },
+        {
+          "en": "What's in the picnic basket?",
+          "vi": "Trong giỏ picnic có gì vậy?"
+        },
+        {
+          "en": "Help me carry the picnic basket.",
+          "vi": "Phụ mình xách giỏ picnic nha."
+        },
+        {
+          "en": "The picnic basket is full of snacks.",
+          "vi": "Giỏ picnic đầy đồ ăn vặt."
+        },
+        {
+          "en": "I packed the picnic basket!",
+          "vi": "Con xếp đồ vô giỏ picnic rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-017",
+      "en": "tire swing",
+      "vi": "xích đu bánh xe",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big tire swing!",
+          "vi": "Nhìn kìa, xích đu bánh xe bự quá!"
+        },
+        {
+          "en": "Want to spin on the tire swing?",
+          "vi": "Con muốn xoay trên xích đu bánh xe không?"
+        },
+        {
+          "en": "Hold the ropes on the tire swing.",
+          "vi": "Nắm dây xích đu bánh xe nha."
+        },
+        {
+          "en": "The tire swing fits three kids!",
+          "vi": "Xích đu bánh xe ngồi được ba bạn!"
+        },
+        {
+          "en": "Spin me on the tire swing!",
+          "vi": "Xoay con trên xích đu đi!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-018",
+      "en": "stepping stones",
+      "vi": "mấy viên đá để bước qua",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, stepping stones!",
+          "vi": "Nhìn nè, mấy viên đá để bước qua!"
+        },
+        {
+          "en": "Can you hop on the stepping stones?",
+          "vi": "Con nhảy qua mấy viên đá được không?"
+        },
+        {
+          "en": "Step on the stepping stones carefully.",
+          "vi": "Bước lên mấy viên đá cẩn thận nha."
+        },
+        {
+          "en": "These stepping stones are a little slippery.",
+          "vi": "Mấy viên đá này hơi trơn."
+        },
+        {
+          "en": "I didn't fall off the stepping stones!",
+          "vi": "Con không bị té khỏi đá luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-019",
+      "en": "backyard",
+      "vi": "sân sau",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's play in the backyard!",
+          "vi": "Ra sân sau chơi đi!"
+        },
+        {
+          "en": "Is your ball in the backyard?",
+          "vi": "Banh của con ở sân sau hả?"
+        },
+        {
+          "en": "Go play in the backyard, sweetie.",
+          "vi": "Ra sân sau chơi chút đi con."
+        },
+        {
+          "en": "Our backyard is nice and sunny.",
+          "vi": "Sân sau nhà mình nắng đẹp ghê."
+        },
+        {
+          "en": "I found a worm in the backyard!",
+          "vi": "Con thấy con giun ở sân sau!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-020",
+      "en": "treehouse",
+      "vi": "nhà trên cây",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "ipa": "/ˈtɹiˌhaʊs/",
+      "examples": [
+        {
+          "en": "Wow, a real treehouse!",
+          "vi": "Oa, nhà trên cây thiệt nè!",
+          "ipa": "/waʊ ə ɹil ˈtɹiˌhaʊs/"
+        },
+        {
+          "en": "What would you put in a treehouse?",
+          "vi": "Có nhà trên cây con sẽ để gì trong đó?",
+          "ipa": "/wʌt wʊd ju pʊt ɪn ə ˈtɹiˌhaʊs/"
+        },
+        {
+          "en": "Climb up to the treehouse carefully.",
+          "vi": "Leo lên nhà trên cây cẩn thận nha.",
+          "ipa": "/klaɪm ʌp tu ðə ˈtɹiˌhaʊs ˈkɛɹfəli/"
+        },
+        {
+          "en": "A treehouse is the coolest secret hideout.",
+          "vi": "Nhà trên cây là chỗ trốn bí mật ngầu nhất.",
+          "ipa": "/ə ˈtɹiˌhaʊs ɪz ðə ˈkuləst ˈsikɹət ˈhaɪˌdaʊt/"
+        },
+        {
+          "en": "Someday I'm going to build a treehouse!",
+          "vi": "Sau này con sẽ làm một cái nhà trên cây!",
+          "ipa": "/ˈsʌmˌdeɪ aɪm ˈɡoʊɪŋ tu bɪld ə ˈtɹiˌhaʊs/"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-021",
+      "en": "hammock",
+      "vi": "cái võng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ahh, a comfy hammock!",
+          "vi": "À, cái võng êm quá!"
+        },
+        {
+          "en": "Want to lie in the hammock?",
+          "vi": "Con muốn nằm võng không?"
+        },
+        {
+          "en": "Climb into the hammock slowly.",
+          "vi": "Leo lên võng từ từ thôi."
+        },
+        {
+          "en": "The hammock swings so gently.",
+          "vi": "Võng đưa nhẹ nhẹ dễ chịu ghê."
+        },
+        {
+          "en": "I fell asleep in the hammock!",
+          "vi": "Con ngủ quên trên võng!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-022",
+      "en": "picnic",
+      "vi": "buổi dã ngoại",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, picnic time!",
+          "vi": "Yeah, đi picnic thôi!"
+        },
+        {
+          "en": "Where should we have our picnic?",
+          "vi": "Mình picnic ở đâu ta?"
+        },
+        {
+          "en": "Let's have a picnic under that tree.",
+          "vi": "Mình ngồi picnic dưới gốc cây kia nha."
+        },
+        {
+          "en": "This picnic is so nice.",
+          "vi": "Buổi picnic này vui ghê."
+        },
+        {
+          "en": "Can we have a picnic tomorrow?",
+          "vi": "Mai mình đi picnic nha?"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-023",
+      "en": "picnic blanket",
+      "vi": "tấm thảm picnic",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's our picnic blanket!",
+          "vi": "Thảm picnic của mình nè!"
+        },
+        {
+          "en": "Can you help spread the picnic blanket?",
+          "vi": "Con phụ trải thảm picnic nha?"
+        },
+        {
+          "en": "Sit on the picnic blanket, please.",
+          "vi": "Ngồi lên thảm picnic nha con."
+        },
+        {
+          "en": "The picnic blanket is so soft.",
+          "vi": "Thảm picnic mềm ghê."
+        },
+        {
+          "en": "I'll fold the picnic blanket!",
+          "vi": "Để con xếp thảm cho!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-024",
+      "en": "tent",
+      "vi": "cái lều",
+      "pos": "noun",
+      "emoji": "⛺",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tent!",
+          "vi": "Nhìn nè, cái lều!"
+        },
+        {
+          "en": "Can we sleep in the tent?",
+          "vi": "Mình ngủ trong lều được không?"
+        },
+        {
+          "en": "Help me set up the tent.",
+          "vi": "Phụ mình dựng lều nha."
+        },
+        {
+          "en": "It's cozy in the tent.",
+          "vi": "Trong lều ấm cúng ghê."
+        },
+        {
+          "en": "I zipped up the tent!",
+          "vi": "Con kéo khóa lều rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-025",
+      "en": "campfire",
+      "vi": "lửa trại",
+      "pos": "noun",
+      "emoji": "🔥",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a warm campfire!",
+          "vi": "Ồ, lửa trại ấm quá!"
+        },
+        {
+          "en": "Do you want to tell stories by the campfire?",
+          "vi": "Con muốn kể chuyện bên lửa trại không?"
+        },
+        {
+          "en": "Stay back from the campfire, please.",
+          "vi": "Đứng xa lửa trại ra chút nha."
+        },
+        {
+          "en": "The campfire smells so smoky.",
+          "vi": "Lửa trại có mùi khói ghê."
+        },
+        {
+          "en": "We roasted marshmallows over the campfire!",
+          "vi": "Tụi con nướng kẹo dẻo trên lửa trại!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-026",
+      "en": "camping",
+      "vi": "cắm trại",
+      "pos": "noun",
+      "emoji": "🏕️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, we're going camping!",
+          "vi": "Yeah, mình đi cắm trại!"
+        },
+        {
+          "en": "What should we pack for camping?",
+          "vi": "Đi cắm trại mình mang theo gì ta?"
+        },
+        {
+          "en": "Let's go camping next weekend.",
+          "vi": "Cuối tuần sau mình đi cắm trại nha."
+        },
+        {
+          "en": "Camping is fun, but the bugs are annoying.",
+          "vi": "Cắm trại vui mà muỗi phiền ghê."
+        },
+        {
+          "en": "I saw so many stars when we went camping!",
+          "vi": "Đi cắm trại con thấy nhiều sao lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-027",
+      "en": "sleeping bag",
+      "vi": "túi ngủ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your sleeping bag!",
+          "vi": "Túi ngủ của con nè!"
+        },
+        {
+          "en": "Want to zip your sleeping bag?",
+          "vi": "Con muốn kéo khóa túi ngủ không?"
+        },
+        {
+          "en": "Roll up your sleeping bag, please.",
+          "vi": "Cuộn túi ngủ lại giùm nha."
+        },
+        {
+          "en": "This sleeping bag is so warm.",
+          "vi": "Túi ngủ này ấm ghê."
+        },
+        {
+          "en": "I'm snug in my sleeping bag!",
+          "vi": "Con nằm trong túi ngủ ấm quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-028",
+      "en": "flashlight",
+      "vi": "đèn pin",
+      "pos": "noun",
+      "emoji": "🔦",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Click! The flashlight is on!",
+          "vi": "Tách! Đèn pin sáng rồi!"
+        },
+        {
+          "en": "Where's the flashlight?",
+          "vi": "Đèn pin đâu rồi?"
+        },
+        {
+          "en": "Shine the flashlight on the path.",
+          "vi": "Rọi đèn pin xuống đường đi con."
+        },
+        {
+          "en": "This flashlight is really bright.",
+          "vi": "Đèn pin này sáng ghê."
+        },
+        {
+          "en": "Can I hold the flashlight?",
+          "vi": "Con cầm đèn pin được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-029",
+      "en": "binoculars",
+      "vi": "ống nhòm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look through the binoculars!",
+          "vi": "Nhìn qua ống nhòm nè!"
+        },
+        {
+          "en": "What can you see with the binoculars?",
+          "vi": "Con thấy gì qua ống nhòm?"
+        },
+        {
+          "en": "Turn this knob to focus the binoculars.",
+          "vi": "Vặn cái núm này cho ống nhòm rõ nha."
+        },
+        {
+          "en": "Binoculars make far things look close.",
+          "vi": "Ống nhòm làm đồ ở xa nhìn gần lại."
+        },
+        {
+          "en": "I spotted a bird with my binoculars!",
+          "vi": "Con thấy con chim bằng ống nhòm!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-030",
+      "en": "hike",
+      "vi": "chuyến đi bộ đường dài",
+      "pos": "noun",
+      "emoji": "🥾",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a great hike!",
+          "vi": "Chuyến đi bộ hay quá!"
+        },
+        {
+          "en": "Do you want to go on a hike?",
+          "vi": "Con muốn đi bộ đường dài không?"
+        },
+        {
+          "en": "Wear good shoes for the hike.",
+          "vi": "Mang giày tốt để đi bộ nha."
+        },
+        {
+          "en": "This hike is a little steep.",
+          "vi": "Đoạn đường này hơi dốc."
+        },
+        {
+          "en": "We hiked all the way to the waterfall!",
+          "vi": "Tụi mình đi bộ tới tận thác nước!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-031",
+      "en": "nature walk",
+      "vi": "đi dạo ngắm thiên nhiên",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's go on a nature walk!",
+          "vi": "Mình đi dạo ngắm thiên nhiên nha!"
+        },
+        {
+          "en": "Ready for a nature walk?",
+          "vi": "Sẵn sàng đi dạo ngắm cây cỏ chưa?"
+        },
+        {
+          "en": "Collect leaves on our nature walk.",
+          "vi": "Đi dạo nhớ lượm lá cây nha."
+        },
+        {
+          "en": "This nature walk is so peaceful.",
+          "vi": "Đi dạo kiểu này yên bình ghê."
+        },
+        {
+          "en": "Nature walk! I found a feather!",
+          "vi": "Đi dạo con lượm được cọng lông chim!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-032",
+      "en": "fishing",
+      "vi": "câu cá",
+      "pos": "noun",
+      "emoji": "🎣",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Shh, we're fishing!",
+          "vi": "Suỵt, mình đang câu cá!"
+        },
+        {
+          "en": "Do you want to go fishing with Grandpa?",
+          "vi": "Con muốn đi câu cá với ông không?"
+        },
+        {
+          "en": "Be patient when you're fishing.",
+          "vi": "Câu cá phải kiên nhẫn nha."
+        },
+        {
+          "en": "Fishing takes a lot of waiting.",
+          "vi": "Câu cá phải chờ lâu lắm."
+        },
+        {
+          "en": "I caught a fish when we went fishing!",
+          "vi": "Đi câu con câu được một con cá!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-033",
+      "en": "bucket",
+      "vi": "cái xô",
+      "pos": "noun",
+      "emoji": "🪣",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your bucket!",
+          "vi": "Cái xô của con nè!"
+        },
+        {
+          "en": "Can you fill the bucket with sand?",
+          "vi": "Con đổ cát đầy xô được không?"
+        },
+        {
+          "en": "Dump the bucket over here.",
+          "vi": "Đổ xô ra đây nè."
+        },
+        {
+          "en": "That bucket is heavy now!",
+          "vi": "Giờ xô nặng rồi đó!"
+        },
+        {
+          "en": "My bucket is full!",
+          "vi": "Xô của con đầy rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-034",
+      "en": "shovel",
+      "vi": "cái xẻng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Dig, dig with your shovel!",
+          "vi": "Đào, đào bằng xẻng nè!"
+        },
+        {
+          "en": "Where's your little shovel?",
+          "vi": "Cái xẻng nhỏ của con đâu?"
+        },
+        {
+          "en": "Use the shovel to dig a hole.",
+          "vi": "Lấy xẻng đào cái lỗ đi."
+        },
+        {
+          "en": "This shovel is just your size.",
+          "vi": "Cái xẻng này vừa tay con."
+        },
+        {
+          "en": "I need my shovel!",
+          "vi": "Con cần cái xẻng!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-035",
+      "en": "sandcastle",
+      "vi": "lâu đài cát",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "ipa": "/ˈsændˌkæsəl/",
+      "examples": [
+        {
+          "en": "Wow, what a big sandcastle!",
+          "vi": "Oa, lâu đài cát bự quá!",
+          "ipa": "/waʊ wʌt ə bɪɡ ˈsændˌkæsəl/"
+        },
+        {
+          "en": "Can we build a sandcastle?",
+          "vi": "Mình xây lâu đài cát nha?",
+          "ipa": "/kæn wi bɪld ə ˈsændˌkæsəl/"
+        },
+        {
+          "en": "Pat the sand to make a sandcastle.",
+          "vi": "Vỗ cát chặt để làm lâu đài.",
+          "ipa": "/pæt ðə sænd tu meɪk ə ˈsændˌkæsəl/"
+        },
+        {
+          "en": "Uh-oh, the wave hit our sandcastle!",
+          "vi": "Ui, sóng đánh trúng lâu đài cát rồi!",
+          "ipa": "/ˈʌˌoʊ ðə weɪv hɪt ˈaʊɚ ˈsændˌkæsəl/"
+        },
+        {
+          "en": "I made a sandcastle!",
+          "vi": "Con làm lâu đài cát nè!",
+          "ipa": "/aɪ meɪd ə ˈsændˌkæsəl/"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-036",
+      "en": "sidewalk chalk",
+      "vi": "phấn vẽ vỉa hè",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, sidewalk chalk!",
+          "vi": "Ồ, phấn vẽ ngoài sân!"
+        },
+        {
+          "en": "What can you draw with sidewalk chalk?",
+          "vi": "Con vẽ gì bằng phấn được?"
+        },
+        {
+          "en": "Draw on the ground with sidewalk chalk.",
+          "vi": "Lấy phấn vẽ xuống đất nè."
+        },
+        {
+          "en": "Sidewalk chalk washes off in the rain.",
+          "vi": "Phấn vẽ gặp mưa là trôi hết."
+        },
+        {
+          "en": "I drew a rainbow with sidewalk chalk!",
+          "vi": "Con vẽ cầu vồng bằng phấn!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-037",
+      "en": "sprinkler",
+      "vi": "vòi phun tưới cỏ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Run through the sprinkler!",
+          "vi": "Chạy qua vòi phun nước đi!"
+        },
+        {
+          "en": "Want to play in the sprinkler?",
+          "vi": "Con muốn chơi vòi phun nước không?"
+        },
+        {
+          "en": "Let's turn on the sprinkler!",
+          "vi": "Mình mở vòi phun nước nha!"
+        },
+        {
+          "en": "The sprinkler water is so cold!",
+          "vi": "Nước vòi phun lạnh ghê!"
+        },
+        {
+          "en": "I got wet in the sprinkler!",
+          "vi": "Con bị vòi phun làm ướt hết!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-038",
+      "en": "hose",
+      "vi": "ống nước",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, water from the hose!",
+          "vi": "Nhìn nè, nước từ ống nước!"
+        },
+        {
+          "en": "Can you water plants with the hose?",
+          "vi": "Con lấy ống nước tưới cây được không?"
+        },
+        {
+          "en": "Point the hose at the flowers.",
+          "vi": "Chĩa ống nước vô mấy bông hoa đi."
+        },
+        {
+          "en": "The hose water feels cool.",
+          "vi": "Nước ống mát ghê."
+        },
+        {
+          "en": "Can I hold the hose?",
+          "vi": "Con cầm ống nước được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-039",
+      "en": "splash pad",
+      "vi": "khu chơi phun nước",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Splash! We're at the splash pad!",
+          "vi": "Bì bõm! Tới khu chơi nước rồi!"
+        },
+        {
+          "en": "Want to go to the splash pad?",
+          "vi": "Con muốn đi khu chơi nước không?"
+        },
+        {
+          "en": "Walk slowly at the splash pad.",
+          "vi": "Ở khu chơi nước đi chậm thôi nha."
+        },
+        {
+          "en": "Splash pads are perfect for hot days.",
+          "vi": "Trời nóng chơi khu phun nước là nhất."
+        },
+        {
+          "en": "I got soaked at the splash pad!",
+          "vi": "Con ướt nhẹp ở khu chơi nước!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-040",
+      "en": "kiddie pool",
+      "vi": "hồ bơi phao cho bé",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Splash in the kiddie pool!",
+          "vi": "Té nước trong hồ phao nè!"
+        },
+        {
+          "en": "Want to fill the kiddie pool?",
+          "vi": "Mình bơm nước vô hồ phao nha?"
+        },
+        {
+          "en": "Sit down in the kiddie pool.",
+          "vi": "Ngồi xuống trong hồ phao nha."
+        },
+        {
+          "en": "The kiddie pool water is warm.",
+          "vi": "Nước hồ phao ấm ghê."
+        },
+        {
+          "en": "I love my kiddie pool!",
+          "vi": "Con thích hồ phao lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-041",
+      "en": "water balloon",
+      "vi": "bong bóng nước",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Splat! A water balloon!",
+          "vi": "Bụp! Bong bóng nước!"
+        },
+        {
+          "en": "Do you want to have a water balloon fight?",
+          "vi": "Con muốn chơi ném bong bóng nước không?"
+        },
+        {
+          "en": "Fill the water balloon at the sink.",
+          "vi": "Bơm nước vô bong bóng ở bồn rửa nha."
+        },
+        {
+          "en": "Water balloons pop so easily.",
+          "vi": "Bong bóng nước dễ bể lắm."
+        },
+        {
+          "en": "I hit Daddy with a water balloon!",
+          "vi": "Con ném bong bóng nước trúng ba!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-042",
+      "en": "frisbee",
+      "vi": "đĩa bay",
+      "pos": "noun",
+      "emoji": "🥏",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Catch the frisbee!",
+          "vi": "Chụp đĩa bay nè!"
+        },
+        {
+          "en": "Can you throw the frisbee to me?",
+          "vi": "Con ném đĩa bay cho mình được không?"
+        },
+        {
+          "en": "Flick your wrist when you throw the frisbee.",
+          "vi": "Ném đĩa bay thì hất cổ tay nha."
+        },
+        {
+          "en": "The frisbee flew really far!",
+          "vi": "Đĩa bay bay xa ghê!"
+        },
+        {
+          "en": "Our dog caught the frisbee in the air!",
+          "vi": "Con chó nhà mình chụp đĩa bay trên không!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-043",
+      "en": "bug spray",
+      "vi": "thuốc xịt muỗi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Bug spray time! Close your eyes.",
+          "vi": "Xịt muỗi nè! Nhắm mắt lại."
+        },
+        {
+          "en": "Did you put on bug spray?",
+          "vi": "Con xịt thuốc muỗi chưa?"
+        },
+        {
+          "en": "Hold out your arms for bug spray.",
+          "vi": "Đưa tay ra mình xịt muỗi nha."
+        },
+        {
+          "en": "Bug spray keeps mosquitoes away.",
+          "vi": "Thuốc xịt giúp muỗi tránh xa."
+        },
+        {
+          "en": "I don't like bug spray!",
+          "vi": "Con không thích xịt muỗi!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-044",
+      "en": "sunscreen",
+      "vi": "kem chống nắng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Sunscreen first, then outside!",
+          "vi": "Bôi kem chống nắng rồi mới ra ngoài!"
+        },
+        {
+          "en": "Did you put on sunscreen?",
+          "vi": "Con bôi kem chống nắng chưa?"
+        },
+        {
+          "en": "Rub the sunscreen on your face.",
+          "vi": "Thoa kem chống nắng lên mặt đi."
+        },
+        {
+          "en": "Sunscreen keeps your skin safe.",
+          "vi": "Kem chống nắng bảo vệ da con."
+        },
+        {
+          "en": "I can put on sunscreen myself!",
+          "vi": "Con tự bôi kem chống nắng được!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-045",
+      "en": "outdoors",
+      "vi": "ngoài trời",
+      "pos": "adverb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ahh, it's so nice outdoors!",
+          "vi": "À, ngoài trời dễ chịu ghê!"
+        },
+        {
+          "en": "Do you want to eat outdoors today?",
+          "vi": "Hôm nay mình ăn ngoài trời nha?"
+        },
+        {
+          "en": "Let's spend the afternoon outdoors.",
+          "vi": "Chiều nay mình ở ngoài trời nha."
+        },
+        {
+          "en": "Playing outdoors is good for your body.",
+          "vi": "Chơi ngoài trời tốt cho sức khỏe."
+        },
+        {
+          "en": "I'd rather play outdoors than watch TV.",
+          "vi": "Con thích chơi ngoài trời hơn coi ti vi."
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-046",
+      "en": "playdate",
+      "vi": "buổi hẹn chơi với bạn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "ipa": "/ˈpleɪˌdeɪt/",
+      "examples": [
+        {
+          "en": "Yay, you have a playdate!",
+          "vi": "Yeah, con có hẹn chơi với bạn!",
+          "ipa": "/jeɪ ju hæv ə ˈpleɪˌdeɪt/"
+        },
+        {
+          "en": "Who do you want a playdate with?",
+          "vi": "Con muốn hẹn chơi với bạn nào?",
+          "ipa": "/hu du ju wɑnt ə ˈpleɪˌdeɪt wɪð/"
+        },
+        {
+          "en": "Let's plan a playdate at the park.",
+          "vi": "Mình hẹn bạn chơi ở công viên nha.",
+          "ipa": "/lɛts plæn ə ˈpleɪˌdeɪt æt ðə pɑɹk/"
+        },
+        {
+          "en": "That playdate was so much fun.",
+          "vi": "Buổi chơi với bạn vui quá.",
+          "ipa": "/ðæt ˈpleɪˌdeɪt wɑz soʊ mʌtʃ fʌn/"
+        },
+        {
+          "en": "Can I have a playdate?",
+          "vi": "Con hẹn bạn tới chơi được không?",
+          "ipa": "/kæn aɪ hæv ə ˈpleɪˌdeɪt/"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-047",
+      "en": "scavenger hunt",
+      "vi": "trò săn tìm đồ vật",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Scavenger hunt! Here's your list!",
+          "vi": "Trò săn đồ nè! Danh sách của con đây!"
+        },
+        {
+          "en": "What's next on the scavenger hunt list?",
+          "vi": "Tiếp theo trong danh sách tìm cái gì?"
+        },
+        {
+          "en": "Find a red leaf for the scavenger hunt.",
+          "vi": "Tìm một chiếc lá đỏ cho trò săn đồ đi."
+        },
+        {
+          "en": "This scavenger hunt is kind of tricky.",
+          "vi": "Trò săn đồ này hơi khó à."
+        },
+        {
+          "en": "I found everything on the scavenger hunt!",
+          "vi": "Con tìm được hết đồ trong danh sách!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-048",
+      "en": "obstacle course",
+      "vi": "đường vượt chướng ngại vật",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, an obstacle course!",
+          "vi": "Oa, đường vượt chướng ngại vật!"
+        },
+        {
+          "en": "Can you finish the obstacle course?",
+          "vi": "Con vượt hết chướng ngại vật được không?"
+        },
+        {
+          "en": "Crawl under the rope in the obstacle course.",
+          "vi": "Bò qua dưới sợi dây nha."
+        },
+        {
+          "en": "This obstacle course is really long.",
+          "vi": "Đường vượt chướng ngại này dài ghê."
+        },
+        {
+          "en": "I did the obstacle course in one minute!",
+          "vi": "Con vượt hết chướng ngại trong một phút!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-049",
+      "en": "lemonade stand",
+      "vi": "quầy bán nước chanh",
+      "pos": "noun",
+      "emoji": "🍋",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a lemonade stand!",
+          "vi": "Nhìn kìa, quầy bán nước chanh!"
+        },
+        {
+          "en": "Do you want to buy some lemonade from that stand?",
+          "vi": "Con muốn mua ly nước chanh ở quầy đó không?"
+        },
+        {
+          "en": "Let's make a sign for your lemonade stand.",
+          "vi": "Mình làm bảng hiệu cho quầy nước chanh nha."
+        },
+        {
+          "en": "A lemonade stand is a fun summer job.",
+          "vi": "Bán nước chanh là việc mùa hè vui lắm."
+        },
+        {
+          "en": "We sold ten cups at our lemonade stand!",
+          "vi": "Quầy nước chanh tụi con bán được mười ly!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-050",
+      "en": "mud pie",
+      "vi": "bánh bùn (đồ chơi)",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a yummy mud pie!",
+          "vi": "Ồ, bánh bùn ngon quá!"
+        },
+        {
+          "en": "Are you making a mud pie?",
+          "vi": "Con đang làm bánh bùn hả?"
+        },
+        {
+          "en": "Don't eat the mud pie, silly!",
+          "vi": "Đừng ăn bánh bùn nha, ngốc ơi!"
+        },
+        {
+          "en": "Your mud pie looks very real.",
+          "vi": "Bánh bùn của con nhìn như thật."
+        },
+        {
+          "en": "I made you a mud pie!",
+          "vi": "Con làm bánh bùn cho nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-051",
+      "en": "bird feeder",
+      "vi": "máng cho chim ăn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a bird at the bird feeder!",
+          "vi": "Nhìn kìa, có con chim ở máng ăn!"
+        },
+        {
+          "en": "Should we hang a bird feeder outside?",
+          "vi": "Mình treo máng cho chim ăn ngoài sân nha?"
+        },
+        {
+          "en": "Fill the bird feeder with seeds.",
+          "vi": "Đổ hạt vô máng cho chim ăn đi con."
+        },
+        {
+          "en": "The bird feeder is busy this morning.",
+          "vi": "Sáng nay máng ăn đông chim ghê."
+        },
+        {
+          "en": "I counted five birds at the bird feeder!",
+          "vi": "Con đếm được năm con chim ở máng ăn!"
+        }
+      ]
+    },
+    {
+      "id": "v-outdoor-052",
+      "en": "campsite",
+      "vi": "khu cắm trại",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here we are at the campsite!",
+          "vi": "Tới khu cắm trại rồi nè!"
+        },
+        {
+          "en": "Where should we put the tent at our campsite?",
+          "vi": "Mình dựng lều chỗ nào trong khu cắm trại ta?"
+        },
+        {
+          "en": "Help me clean up the campsite before we leave.",
+          "vi": "Phụ mình dọn khu cắm trại trước khi về nha."
+        },
+        {
+          "en": "This campsite is right next to a river.",
+          "vi": "Khu cắm trại này nằm ngay cạnh con sông."
+        },
+        {
+          "en": "I heard owls at the campsite last night!",
+          "vi": "Tối qua ở khu cắm trại con nghe tiếng cú kêu!"
+        }
+      ]
+    }
+  ]
+}

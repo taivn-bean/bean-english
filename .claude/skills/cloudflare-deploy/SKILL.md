@@ -54,3 +54,11 @@ curl -sI https://<url>/sw.js | grep -i cache-control      # no-cache
 curl -sI https://<url>/manifest.webmanifest                # 200
 curl -s https://<url>/topics/bath-time | grep -o '<div id="root">'  # SPA fallback works
 ```
+
+
+## Worker + D1 + Cron (daily reminders, D34)
+- `wrangler.jsonc`: `main: worker/index.ts`, `assets.run_worker_first: ["/api/*"]` (static files never hit the Worker), `d1_databases` binding `DB` → `bean-push`, `triggers.crons: ["*/10 * * * *"]`, `vars.VAPID_PUBLIC_KEY` (also hard-coded in `src/features/reminders/push.ts` — keep in sync).
+- Secret `VAPID_PRIVATE_KEY`: `wrangler secret put VAPID_PRIVATE_KEY` (local copy in `.dev.vars`, gitignored). Rotating the key pair invalidates every subscription (users re-enable the reminder).
+- Schema changes: add `migrations/000N_*.sql`, then `wrangler d1 migrations apply bean-push --remote` before deploying code that needs it.
+- Free-plan limits that matter: 50 outgoing fetches per cron run (code sends ≤ 40, the rest go 10 min later), 5 cron triggers per account, D1 5M reads/day.
+- Local test: `wrangler d1 migrations apply bean-push --local`, `wrangler dev --test-scheduled`; to hit `/__scheduled` add it to `run_worker_first` in a temporary copy of the config. Crypto check: `pnpm test:push`.

@@ -1,0 +1,1691 @@
+{
+ "deckId": "v-bathroom",
+ "words": [
+  {
+   "id": "v-bathroom-001",
+   "en": "bathroom",
+   "vi": "nhà tắm, nhà vệ sinh",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Quick, to the bathroom!",
+     "vi": "Lẹ lên, vô nhà vệ sinh!"
+    },
+    {
+     "en": "Do you need the bathroom?",
+     "vi": "Con có cần đi vệ sinh hông?"
+    },
+    {
+     "en": "Bathroom first, then we go.",
+     "vi": "Đi vệ sinh trước rồi mình đi nha."
+    },
+    {
+     "en": "The bathroom floor is slippery.",
+     "vi": "Sàn nhà tắm trơn đó."
+    },
+    {
+     "en": "I need to go to the bathroom!",
+     "vi": "Con cần đi vệ sinh!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-002",
+   "en": "bath",
+   "vi": "tắm (bồn)",
+   "pos": "noun",
+   "emoji": "🛁",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Bath time! Splash, splash!",
+     "vi": "Tới giờ tắm rồi! Té nước nào!"
+    },
+    {
+     "en": "Do you want a bath now?",
+     "vi": "Con muốn tắm bây giờ hông?"
+    },
+    {
+     "en": "Let's take a warm bath.",
+     "vi": "Mình tắm nước ấm nha."
+    },
+    {
+     "en": "A warm bath feels so good.",
+     "vi": "Tắm nước ấm dễ chịu ghê."
+    },
+    {
+     "en": "I want a bath with toys!",
+     "vi": "Con muốn tắm có đồ chơi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-003",
+   "en": "bathtub",
+   "vi": "bồn tắm",
+   "pos": "noun",
+   "emoji": "🛁",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Into the bathtub you go!",
+     "vi": "Vô bồn tắm nào!"
+    },
+    {
+     "en": "Is the bathtub too full?",
+     "vi": "Bồn tắm có đầy quá hông?"
+    },
+    {
+     "en": "Sit down in the bathtub, please.",
+     "vi": "Ngồi xuống trong bồn tắm nha con."
+    },
+    {
+     "en": "The bathtub is slippery. Careful!",
+     "vi": "Bồn tắm trơn đó. Cẩn thận!"
+    },
+    {
+     "en": "My boat is floating in the bathtub!",
+     "vi": "Thuyền của con nổi trong bồn tắm nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-004",
+   "en": "bath time",
+   "vi": "giờ tắm",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Yay, bath time!",
+     "vi": "Yay, tới giờ tắm rồi!"
+    },
+    {
+     "en": "Is it bath time yet?",
+     "vi": "Tới giờ tắm chưa ta?"
+    },
+    {
+     "en": "Let's get ready for bath time.",
+     "vi": "Mình chuẩn bị đi tắm nha."
+    },
+    {
+     "en": "Bath time is so much fun!",
+     "vi": "Giờ tắm vui ghê!"
+    },
+    {
+     "en": "Can my duck come to bath time?",
+     "vi": "Cho con vịt của con đi tắm chung được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-005",
+   "en": "shower",
+   "vi": "vòi sen, tắm vòi sen",
+   "pos": "noun",
+   "emoji": "🚿",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Whoosh! The shower is on!",
+     "vi": "Rào rào! Vòi sen mở rồi!"
+    },
+    {
+     "en": "Shower or bath tonight?",
+     "vi": "Tối nay con tắm vòi sen hay tắm bồn?"
+    },
+    {
+     "en": "Let's take a quick shower.",
+     "vi": "Mình tắm vòi sen nhanh nha."
+    },
+    {
+     "en": "The shower water is nice and warm.",
+     "vi": "Nước vòi sen ấm ấm dễ chịu ghê."
+    },
+    {
+     "en": "The shower tickles my head!",
+     "vi": "Vòi sen làm con nhột đầu quá!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-006",
+   "en": "soap",
+   "vi": "xà bông",
+   "pos": "noun",
+   "emoji": "🧼",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, so many soap bubbles!",
+     "vi": "Nhìn nè, bọt xà bông nhiều ghê!"
+    },
+    {
+     "en": "Did you use soap?",
+     "vi": "Con có xài xà bông chưa?"
+    },
+    {
+     "en": "Rub the soap on your hands.",
+     "vi": "Xoa xà bông lên tay nào."
+    },
+    {
+     "en": "This soap smells like strawberries!",
+     "vi": "Xà bông này thơm mùi dâu nè!"
+    },
+    {
+     "en": "The soap is slippery!",
+     "vi": "Cục xà bông trơn quá!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-007",
+   "en": "towel",
+   "vi": "cái khăn tắm",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Here comes the big towel!",
+     "vi": "Khăn tắm to tới rồi nè!"
+    },
+    {
+     "en": "Which towel do you want?",
+     "vi": "Con muốn khăn nào?"
+    },
+    {
+     "en": "Let's wrap you up in your towel.",
+     "vi": "Mình quấn con vô khăn nha."
+    },
+    {
+     "en": "This towel is so soft and warm.",
+     "vi": "Khăn này mềm và ấm ghê."
+    },
+    {
+     "en": "I want the towel with the hood!",
+     "vi": "Con muốn khăn có mũ trùm!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-008",
+   "en": "washcloth",
+   "vi": "cái khăn mặt",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Peekaboo with the washcloth!",
+     "vi": "Ú òa với cái khăn mặt nè!",
+     "ipa": "/ˈpikəˌbu wɪð ðə ˈwɑʃˌklɔθ/"
+    },
+    {
+     "en": "Can you hand me the washcloth?",
+     "vi": "Con đưa mình cái khăn mặt nha?"
+    },
+    {
+     "en": "Wipe your face with the washcloth.",
+     "vi": "Lấy khăn mặt lau mặt nào."
+    },
+    {
+     "en": "The washcloth is warm and wet.",
+     "vi": "Khăn mặt ấm ấm, ướt ướt."
+    },
+    {
+     "en": "I can wash with my washcloth!",
+     "vi": "Con tự lấy khăn lau được!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-009",
+   "en": "toothbrush",
+   "vi": "bàn chải đánh răng",
+   "pos": "noun",
+   "emoji": "🪥",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Here's your dinosaur toothbrush!",
+     "vi": "Bàn chải khủng long của con nè!"
+    },
+    {
+     "en": "Where is your toothbrush?",
+     "vi": "Bàn chải của con đâu rồi?"
+    },
+    {
+     "en": "Hold your toothbrush like this.",
+     "vi": "Cầm bàn chải như vầy nè."
+    },
+    {
+     "en": "Your toothbrush is so tiny!",
+     "vi": "Bàn chải của con nhỏ xíu à!"
+    },
+    {
+     "en": "I want the blue toothbrush!",
+     "vi": "Con muốn bàn chải màu xanh!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-010",
+   "en": "toothpaste",
+   "vi": "kem đánh răng",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Just a little toothpaste!",
+     "vi": "Kem đánh răng một chút xíu thôi!"
+    },
+    {
+     "en": "Do you like this toothpaste?",
+     "vi": "Con thích kem đánh răng này hông?"
+    },
+    {
+     "en": "Squeeze a tiny bit of toothpaste.",
+     "vi": "Bóp ra một chút kem thôi nha."
+    },
+    {
+     "en": "This toothpaste tastes like strawberry!",
+     "vi": "Kem đánh răng này vị dâu nè!"
+    },
+    {
+     "en": "Oops, I squeezed too much toothpaste!",
+     "vi": "Ui, con bóp nhiều kem quá!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-011",
+   "en": "brush your teeth",
+   "vi": "đánh răng",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Time to brush your teeth!",
+     "vi": "Tới giờ đánh răng rồi!"
+    },
+    {
+     "en": "Did you brush your teeth?",
+     "vi": "Con đánh răng chưa?"
+    },
+    {
+     "en": "Let's brush your teeth together.",
+     "vi": "Mình cùng đánh răng nha."
+    },
+    {
+     "en": "Brush your teeth up and down.",
+     "vi": "Chải răng lên xuống nha."
+    },
+    {
+     "en": "I brushed my teeth all by myself!",
+     "vi": "Con tự đánh răng một mình đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-012",
+   "en": "floss",
+   "vi": "chỉ nha khoa, xỉa răng",
+   "pos": "verb",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Look, a bit of food! Time to floss!",
+     "vi": "Nhìn nè, còn dính đồ ăn! Xỉa răng thôi!"
+    },
+    {
+     "en": "Did you floss after brushing?",
+     "vi": "Đánh răng xong con xỉa răng chưa?"
+    },
+    {
+     "en": "Let's floss between your back teeth.",
+     "vi": "Mình xỉa kẽ răng phía trong nha."
+    },
+    {
+     "en": "Flossing keeps your gums healthy.",
+     "vi": "Xỉa răng giúp nướu khoẻ mạnh đó.",
+     "ipa": "/ˈflɔsɪŋ kips jɔɹ ɡʌmz ˈhɛlθi/"
+    },
+    {
+     "en": "I flossed by myself last night!",
+     "vi": "Tối qua con tự xỉa răng đó!",
+     "ipa": "/aɪ flɔst baɪ ˌmaɪˈsɛlf læst naɪt/"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-013",
+   "en": "toilet",
+   "vi": "bồn cầu",
+   "pos": "noun",
+   "emoji": "🚽",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Big kid on the big toilet!",
+     "vi": "Con lớn rồi, ngồi bồn cầu nè!"
+    },
+    {
+     "en": "Do you need to use the toilet?",
+     "vi": "Con có cần đi vệ sinh hông?"
+    },
+    {
+     "en": "Put the toilet lid down, please.",
+     "vi": "Đậy nắp bồn cầu xuống nha."
+    },
+    {
+     "en": "The toilet is too big for you.",
+     "vi": "Bồn cầu to quá so với con."
+    },
+    {
+     "en": "I used the big toilet today!",
+     "vi": "Hôm nay con ngồi bồn cầu người lớn!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-014",
+   "en": "potty",
+   "vi": "cái bô, đi vệ sinh",
+   "pos": "noun",
+   "ages": [
+    "3-5"
+   ],
+   "examples": [
+    {
+     "en": "Yay, pee in the potty!",
+     "vi": "Yay, tè vô bô rồi!"
+    },
+    {
+     "en": "Do you need to go potty?",
+     "vi": "Con có cần đi vệ sinh hông?"
+    },
+    {
+     "en": "Let's try the potty first.",
+     "vi": "Mình thử ngồi bô trước nha."
+    },
+    {
+     "en": "Your potty is right here.",
+     "vi": "Cái bô của con ở đây nè."
+    },
+    {
+     "en": "I went potty!",
+     "vi": "Con đi vệ sinh rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-015",
+   "en": "diaper",
+   "vi": "cái tã",
+   "pos": "noun",
+   "ages": [
+    "3-5"
+   ],
+   "examples": [
+    {
+     "en": "Uh-oh, wet diaper!",
+     "vi": "Ui, tã ướt rồi!"
+    },
+    {
+     "en": "Do you need a new diaper?",
+     "vi": "Con cần thay tã mới hông?"
+    },
+    {
+     "en": "Lie down for a diaper change.",
+     "vi": "Nằm xuống thay tã nha."
+    },
+    {
+     "en": "A clean diaper feels much better.",
+     "vi": "Tã sạch dễ chịu hơn nhiều."
+    },
+    {
+     "en": "No more diapers! Big kid!",
+     "vi": "Hết mặc tã rồi! Con lớn rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-016",
+   "en": "toilet paper",
+   "vi": "giấy vệ sinh",
+   "pos": "noun",
+   "emoji": "🧻",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Uh-oh, no more toilet paper!",
+     "vi": "Ui, hết giấy vệ sinh rồi!"
+    },
+    {
+     "en": "How much toilet paper do you need?",
+     "vi": "Con cần bao nhiêu giấy vệ sinh?"
+    },
+    {
+     "en": "Just a little toilet paper, please.",
+     "vi": "Lấy giấy vệ sinh vừa đủ thôi nha."
+    },
+    {
+     "en": "The toilet paper roll is empty.",
+     "vi": "Cuộn giấy vệ sinh hết sạch rồi."
+    },
+    {
+     "en": "Can you get me more toilet paper?",
+     "vi": "Lấy thêm giấy vệ sinh cho con với?"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-017",
+   "en": "flush",
+   "vi": "giật nước (bồn cầu)",
+   "pos": "verb",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Flush! Bye-bye, pee!",
+     "vi": "Giật nước! Bai bai nha!"
+    },
+    {
+     "en": "Did you flush?",
+     "vi": "Con giật nước chưa?"
+    },
+    {
+     "en": "Don't forget to flush!",
+     "vi": "Nhớ giật nước nha!"
+    },
+    {
+     "en": "The flush is so loud!",
+     "vi": "Tiếng giật nước to ghê!"
+    },
+    {
+     "en": "Can I flush the toilet?",
+     "vi": "Con giật nước được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-018",
+   "en": "pee",
+   "vi": "đi tè",
+   "pos": "verb",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Uh-oh, I think you need to pee!",
+     "vi": "Ui, hình như con muốn đi tè!"
+    },
+    {
+     "en": "Do you need to pee?",
+     "vi": "Con có muốn đi tè hông?"
+    },
+    {
+     "en": "Try to pee before we go.",
+     "vi": "Đi tè trước rồi mình đi nha."
+    },
+    {
+     "en": "You held your pee so well!",
+     "vi": "Con nhịn tè giỏi quá!"
+    },
+    {
+     "en": "I need to pee! Hurry!",
+     "vi": "Con muốn đi tè! Lẹ lên!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-019",
+   "en": "poop",
+   "vi": "đi ị",
+   "pos": "verb",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Wow, you pooped in the potty!",
+     "vi": "Wow, con ị vô bô rồi!"
+    },
+    {
+     "en": "Do you need to poop?",
+     "vi": "Con có cần đi ị hông?"
+    },
+    {
+     "en": "Sit and try to poop, okay?",
+     "vi": "Ngồi xuống thử đi ị nha?"
+    },
+    {
+     "en": "Everybody poops. It's okay!",
+     "vi": "Ai cũng đi ị mà. Không sao hết!"
+    },
+    {
+     "en": "I need to poop!",
+     "vi": "Con muốn đi ị!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-020",
+   "en": "accident",
+   "vi": "tè dầm, sự cố nhỏ",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Oops, a little accident. That's okay!",
+     "vi": "Ui, tè dầm chút xíu. Không sao đâu!"
+    },
+    {
+     "en": "Did you have an accident?",
+     "vi": "Con bị tè dầm hả?"
+    },
+    {
+     "en": "Let's change your pants after an accident.",
+     "vi": "Tè dầm rồi thì mình thay quần nha."
+    },
+    {
+     "en": "Accidents happen. You're still learning.",
+     "vi": "Ai cũng có lúc lỡ mà. Con đang tập mà."
+    },
+    {
+     "en": "I had an accident. Sorry!",
+     "vi": "Con lỡ tè dầm rồi. Con xin lỗi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-021",
+   "en": "wipes",
+   "vi": "khăn ướt",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Sticky hands! Get the wipes!",
+     "vi": "Tay dính quá! Lấy khăn ướt nè!"
+    },
+    {
+     "en": "Do we have any wipes?",
+     "vi": "Mình còn khăn ướt hông ta?"
+    },
+    {
+     "en": "Wipe your hands with a wipe.",
+     "vi": "Lấy khăn ướt lau tay nha."
+    },
+    {
+     "en": "These wipes are cold!",
+     "vi": "Khăn ướt này lạnh quá!"
+    },
+    {
+     "en": "Can I have a wipe, please?",
+     "vi": "Cho con một miếng khăn ướt nha?"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-022",
+   "en": "shampoo",
+   "vi": "dầu gội",
+   "pos": "noun",
+   "emoji": "🧴",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, a shampoo hat! Bubbles!",
+     "vi": "Nhìn nè, bọt dầu gội như cái nón!"
+    },
+    {
+     "en": "Did you rinse out the shampoo?",
+     "vi": "Con xả sạch dầu gội chưa?"
+    },
+    {
+     "en": "Close your eyes for the shampoo.",
+     "vi": "Nhắm mắt lại để gội đầu nha."
+    },
+    {
+     "en": "This shampoo smells so good!",
+     "vi": "Dầu gội này thơm quá!"
+    },
+    {
+     "en": "Shampoo got in my eyes!",
+     "vi": "Dầu gội vô mắt con rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-023",
+   "en": "comb",
+   "vi": "cái lược",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Here's your little comb!",
+     "vi": "Lược nhỏ của con nè!"
+    },
+    {
+     "en": "Can you comb your hair?",
+     "vi": "Con tự chải tóc được hông?"
+    },
+    {
+     "en": "Hold still. Let's comb out the knots.",
+     "vi": "Ngồi yên nha. Mình chải gỡ rối nè."
+    },
+    {
+     "en": "Wow, your hair looks so neat now!",
+     "vi": "Wow, tóc con giờ gọn gàng quá!"
+    },
+    {
+     "en": "Ouch! Comb gently, please!",
+     "vi": "Á! Chải nhẹ thôi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-024",
+   "en": "hairbrush",
+   "vi": "cái bàn chải tóc",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "ipa": "/ˈhɛɹˌbɹʌʃ/",
+   "examples": [
+    {
+     "en": "Where did the hairbrush go?",
+     "vi": "Cái bàn chải tóc đâu mất rồi?",
+     "ipa": "/wɛɹ dɪd ðə ˈhɛɹˌbɹʌʃ ɡoʊ/"
+    },
+    {
+     "en": "Can you get the hairbrush?",
+     "vi": "Con lấy bàn chải tóc nha?",
+     "ipa": "/kæn ju ɡɛt ðə ˈhɛɹˌbɹʌʃ/"
+    },
+    {
+     "en": "Brush your hair with the hairbrush.",
+     "vi": "Lấy bàn chải chải tóc nào.",
+     "ipa": "/bɹʌʃ jɔɹ hɛɹ wɪð ðə ˈhɛɹˌbɹʌʃ/"
+    },
+    {
+     "en": "This hairbrush is soft. It won't hurt.",
+     "vi": "Bàn chải tóc này mềm. Hông đau đâu.",
+     "ipa": "/ðɪs ˈhɛɹˌbɹʌʃ ɪz sɑft ɪt woʊnt hɝt/"
+    },
+    {
+     "en": "Look, my hairbrush is pink!",
+     "vi": "Nhìn nè, bàn chải tóc của con màu hồng!",
+     "ipa": "/lʊk maɪ ˈhɛɹˌbɹʌʃ ɪz pɪŋk/"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-025",
+   "en": "hair dryer",
+   "vi": "máy sấy tóc",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Whoosh! Here comes the hair dryer!",
+     "vi": "Vù vù! Máy sấy tóc tới rồi!"
+    },
+    {
+     "en": "Is the hair dryer too hot?",
+     "vi": "Máy sấy tóc có nóng quá hông?"
+    },
+    {
+     "en": "Sit still for the hair dryer.",
+     "vi": "Ngồi yên để sấy tóc nha."
+    },
+    {
+     "en": "The hair dryer is so loud!",
+     "vi": "Máy sấy tóc kêu to quá!"
+    },
+    {
+     "en": "The hair dryer tickles my ears!",
+     "vi": "Máy sấy làm con nhột tai!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-026",
+   "en": "wash",
+   "vi": "rửa, tắm, giặt",
+   "pos": "verb",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Wash, wash, wash! All clean!",
+     "vi": "Rửa, rửa, rửa! Sạch rồi!"
+    },
+    {
+     "en": "Did you wash your feet?",
+     "vi": "Con rửa chân chưa?"
+    },
+    {
+     "en": "Let's wash the sand off your toes.",
+     "vi": "Mình rửa cát dính ngón chân nha."
+    },
+    {
+     "en": "Your face needs a wash.",
+     "vi": "Mặt con cần rửa rồi đó."
+    },
+    {
+     "en": "I can wash my tummy!",
+     "vi": "Con tự kỳ bụng được nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-027",
+   "en": "wash your hands",
+   "vi": "rửa tay",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Wash your hands! Dinner's ready!",
+     "vi": "Rửa tay đi con! Cơm xong rồi!"
+    },
+    {
+     "en": "Did you wash your hands?",
+     "vi": "Con rửa tay chưa?"
+    },
+    {
+     "en": "Let's wash your hands with soap.",
+     "vi": "Mình rửa tay bằng xà bông nha."
+    },
+    {
+     "en": "Wash your hands after the potty.",
+     "vi": "Đi vệ sinh xong thì rửa tay nha."
+    },
+    {
+     "en": "I washed my hands! Smell!",
+     "vi": "Con rửa tay rồi! Ngửi thử nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-028",
+   "en": "wash your face",
+   "vi": "rửa mặt",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Good morning! Wash your face!",
+     "vi": "Chào buổi sáng! Rửa mặt nào!"
+    },
+    {
+     "en": "Did you wash your face?",
+     "vi": "Con rửa mặt chưa?"
+    },
+    {
+     "en": "Let's wash your face. It's sticky!",
+     "vi": "Mình rửa mặt nha. Dính quá trời!"
+    },
+    {
+     "en": "It feels nice to wash your face.",
+     "vi": "Rửa mặt xong thấy dễ chịu ghê."
+    },
+    {
+     "en": "I washed my face by myself!",
+     "vi": "Con tự rửa mặt đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-029",
+   "en": "sink",
+   "vi": "bồn rửa mặt",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Up to the sink you go!",
+     "vi": "Lên bồn rửa mặt nào!"
+    },
+    {
+     "en": "Can you reach the sink?",
+     "vi": "Con với tới bồn rửa hông?"
+    },
+    {
+     "en": "Spit in the sink, please.",
+     "vi": "Nhổ vô bồn rửa nha con."
+    },
+    {
+     "en": "The sink is full of bubbles!",
+     "vi": "Bồn rửa đầy bọt luôn!"
+    },
+    {
+     "en": "I can reach the sink now!",
+     "vi": "Giờ con với tới bồn rửa rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-030",
+   "en": "faucet",
+   "vi": "vòi nước",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Drip, drip! The faucet is dripping!",
+     "vi": "Tách tách! Vòi nước nhỏ giọt kìa!"
+    },
+    {
+     "en": "Can you turn on the faucet?",
+     "vi": "Con mở vòi nước được hông?"
+    },
+    {
+     "en": "Turn off the faucet, please.",
+     "vi": "Khoá vòi nước lại nha con."
+    },
+    {
+     "en": "The water from the faucet is cold!",
+     "vi": "Nước từ vòi lạnh quá!"
+    },
+    {
+     "en": "I turned off the faucet!",
+     "vi": "Con khoá vòi nước rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-031",
+   "en": "drain",
+   "vi": "lỗ thoát nước",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Down the drain it goes!",
+     "vi": "Nước chảy xuống cống rồi!"
+    },
+    {
+     "en": "Where does the drain go?",
+     "vi": "Lỗ thoát nước chảy đi đâu ta?"
+    },
+    {
+     "en": "Pull the plug and let it drain.",
+     "vi": "Rút nút ra cho nước chảy hết nha."
+    },
+    {
+     "en": "The drain makes a funny sound.",
+     "vi": "Lỗ thoát nước kêu nghe ngộ ghê."
+    },
+    {
+     "en": "Bye-bye, water! Down the drain!",
+     "vi": "Bai bai nước! Xuống cống nha!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-032",
+   "en": "rinse",
+   "vi": "xả, súc",
+   "pos": "verb",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Rinse, rinse! All the bubbles are gone!",
+     "vi": "Xả, xả! Hết bọt rồi!"
+    },
+    {
+     "en": "Did you rinse your mouth?",
+     "vi": "Con súc miệng chưa?"
+    },
+    {
+     "en": "Head back so I can rinse.",
+     "vi": "Ngửa đầu ra sau để mình xả nước nha."
+    },
+    {
+     "en": "Rinsing with warm water feels nice.",
+     "vi": "Xả nước ấm dễ chịu ghê."
+    },
+    {
+     "en": "I rinsed my toothbrush!",
+     "vi": "Con rửa bàn chải rồi!",
+     "ipa": "/aɪ ɹɪnst maɪ ˈtuθbɹəʃ/"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-033",
+   "en": "scrub",
+   "vi": "kỳ cọ",
+   "pos": "verb",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Scrub-a-dub-dub!",
+     "vi": "Kỳ cọ, kỳ cọ nào!"
+    },
+    {
+     "en": "Can you scrub your knees?",
+     "vi": "Con tự kỳ đầu gối được hông?"
+    },
+    {
+     "en": "Let's scrub those muddy feet.",
+     "vi": "Mình kỳ đôi chân dính bùn nha."
+    },
+    {
+     "en": "Your hands are dirty. Scrub hard!",
+     "vi": "Tay con dơ quá. Kỳ mạnh lên!"
+    },
+    {
+     "en": "I scrubbed my toes!",
+     "vi": "Con kỳ ngón chân rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-034",
+   "en": "spit",
+   "vi": "nhổ ra",
+   "pos": "verb",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Spit it out! Good job!",
+     "vi": "Nhổ ra đi! Giỏi lắm!"
+    },
+    {
+     "en": "Can you spit in the sink?",
+     "vi": "Con nhổ vô bồn rửa được hông?"
+    },
+    {
+     "en": "Don't swallow. Spit, please.",
+     "vi": "Đừng nuốt nha. Nhổ ra đi con."
+    },
+    {
+     "en": "Spitting toothpaste is a big kid thing!",
+     "vi": "Biết nhổ kem đánh răng là lớn rồi đó!"
+    },
+    {
+     "en": "I spit it all out!",
+     "vi": "Con nhổ ra hết rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-035",
+   "en": "splash",
+   "vi": "té nước",
+   "pos": "verb",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Splash, splash! You got me wet!",
+     "vi": "Té nước, té nước! Ướt mình rồi!"
+    },
+    {
+     "en": "Who is splashing all the water?",
+     "vi": "Ai té nước tùm lum vậy?"
+    },
+    {
+     "en": "Small splashes, please!",
+     "vi": "Té nước nhẹ thôi nha!"
+    },
+    {
+     "en": "That was a big splash!",
+     "vi": "Té nước to ghê!"
+    },
+    {
+     "en": "I love to splash in the bath!",
+     "vi": "Con thích té nước khi tắm!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-036",
+   "en": "dry off",
+   "vi": "lau khô",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "All done! Time to dry off!",
+     "vi": "Xong rồi! Lau khô người nào!"
+    },
+    {
+     "en": "Did you dry off your feet?",
+     "vi": "Con lau khô chân chưa?"
+    },
+    {
+     "en": "Let's dry off with the big towel.",
+     "vi": "Mình lau khô bằng khăn to nha."
+    },
+    {
+     "en": "You dried off so fast!",
+     "vi": "Con lau khô nhanh quá!"
+    },
+    {
+     "en": "I can dry off by myself!",
+     "vi": "Con tự lau khô được!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-037",
+   "en": "lotion",
+   "vi": "kem dưỡng da",
+   "pos": "noun",
+   "emoji": "🧴",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "A little lotion on your arms!",
+     "vi": "Thoa chút kem lên tay nè!"
+    },
+    {
+     "en": "Do you want some lotion?",
+     "vi": "Con có muốn thoa kem hông?"
+    },
+    {
+     "en": "Rub the lotion in, like this.",
+     "vi": "Xoa kem cho thấm, như vầy nè."
+    },
+    {
+     "en": "This lotion smells nice.",
+     "vi": "Kem dưỡng này thơm ghê."
+    },
+    {
+     "en": "The lotion feels cold!",
+     "vi": "Kem lạnh quá!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-038",
+   "en": "nail clippers",
+   "vi": "đồ cắt móng",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Here are the nail clippers. Snip, snip!",
+     "vi": "Đồ cắt móng nè. Tách, tách!"
+    },
+    {
+     "en": "Where are the nail clippers?",
+     "vi": "Đồ cắt móng đâu rồi ta?"
+    },
+    {
+     "en": "Hold still for the nail clippers.",
+     "vi": "Ngồi yên để cắt móng nha."
+    },
+    {
+     "en": "Nail clippers are just for grown-ups.",
+     "vi": "Đồ cắt móng chỉ người lớn xài thôi nha."
+    },
+    {
+     "en": "The nail clippers tickle!",
+     "vi": "Cắt móng nhột quá!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-039",
+   "en": "tissue",
+   "vi": "khăn giấy",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Runny nose! Here's a tissue!",
+     "vi": "Sổ mũi rồi! Khăn giấy nè!"
+    },
+    {
+     "en": "Do you need a tissue?",
+     "vi": "Con cần khăn giấy hông?"
+    },
+    {
+     "en": "Throw the tissue in the trash.",
+     "vi": "Bỏ khăn giấy vô thùng rác nha."
+    },
+    {
+     "en": "This tissue is soft.",
+     "vi": "Khăn giấy này mềm ghê."
+    },
+    {
+     "en": "Can I have a tissue, please?",
+     "vi": "Cho con xin miếng khăn giấy nha?"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-040",
+   "en": "blow your nose",
+   "vi": "hỉ mũi",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Big blow! Blow your nose!",
+     "vi": "Hỉ mạnh nào! Hỉ mũi đi con!"
+    },
+    {
+     "en": "Can you blow your nose?",
+     "vi": "Con tự hỉ mũi được hông?"
+    },
+    {
+     "en": "Blow your nose into the tissue.",
+     "vi": "Hỉ mũi vô khăn giấy nha."
+    },
+    {
+     "en": "You blew your nose so well!",
+     "vi": "Con hỉ mũi giỏi quá!"
+    },
+    {
+     "en": "I blew my nose by myself!",
+     "vi": "Con tự hỉ mũi được rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-041",
+   "en": "hand sanitizer",
+   "vi": "nước rửa tay khô",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "ipa": "/hænd ˈsænəˌtaɪzɚ/",
+   "examples": [
+    {
+     "en": "No sink? Hand sanitizer time!",
+     "vi": "Hông có bồn rửa hả? Xài nước rửa tay khô nha!",
+     "ipa": "/noʊ sɪŋk hænd ˈsænəˌtaɪzɚ taɪm/"
+    },
+    {
+     "en": "Do you have hand sanitizer in your bag?",
+     "vi": "Trong cặp con có nước rửa tay khô hông?",
+     "ipa": "/du ju hæv hænd ˈsænəˌtaɪzɚ ɪn jɔɹ bæɡ/"
+    },
+    {
+     "en": "Rub the hand sanitizer until your hands are dry.",
+     "vi": "Xoa nước rửa tay tới khi tay khô nha.",
+     "ipa": "/ɹʌb ðə hænd ˈsænəˌtaɪzɚ ənˈtɪl jɔɹ hændz ɑɹ dɹaɪ/"
+    },
+    {
+     "en": "Soap and water is better than hand sanitizer.",
+     "vi": "Rửa bằng xà bông với nước thì tốt hơn nước rửa tay khô.",
+     "ipa": "/soʊp ənd ˈwɔtɚ ɪz ˈbɛtɚ ðæn hænd ˈsænəˌtaɪzɚ/"
+    },
+    {
+     "en": "I used hand sanitizer before lunch at school.",
+     "vi": "Ở trường con xài nước rửa tay khô trước khi ăn trưa.",
+     "ipa": "/aɪ juzd hænd ˈsænəˌtaɪzɚ bɪˈfɔɹ lʌntʃ æt skul/"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-042",
+   "en": "bathrobe",
+   "vi": "áo choàng tắm",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Here's your fluffy bathrobe!",
+     "vi": "Áo choàng tắm mềm xù của con nè!"
+    },
+    {
+     "en": "Do you want your bathrobe?",
+     "vi": "Con muốn mặc áo choàng tắm hông?"
+    },
+    {
+     "en": "Put on your bathrobe. So cozy!",
+     "vi": "Mặc áo choàng tắm vô nha. Ấm ghê!"
+    },
+    {
+     "en": "Your bathrobe has bear ears!",
+     "vi": "Áo choàng tắm của con có tai gấu nè!"
+    },
+    {
+     "en": "I look like a bear in my bathrobe!",
+     "vi": "Con mặc áo choàng tắm giống con gấu nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-043",
+   "en": "bath mat",
+   "vi": "thảm nhà tắm",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Step out onto the bath mat!",
+     "vi": "Bước ra thảm nhà tắm nào!"
+    },
+    {
+     "en": "Are your feet on the bath mat?",
+     "vi": "Chân con đứng trên thảm chưa?"
+    },
+    {
+     "en": "Stand on the bath mat, please.",
+     "vi": "Đứng lên thảm nhà tắm nha con."
+    },
+    {
+     "en": "The bath mat is soft and dry.",
+     "vi": "Thảm nhà tắm mềm và khô."
+    },
+    {
+     "en": "I jumped onto the bath mat!",
+     "vi": "Con nhảy lên thảm nhà tắm!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-044",
+   "en": "shower cap",
+   "vi": "nón tắm",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look at you in a shower cap!",
+     "vi": "Nhìn con đội nón tắm kìa!"
+    },
+    {
+     "en": "Do you want the shower cap?",
+     "vi": "Con muốn đội nón tắm hông?"
+    },
+    {
+     "en": "Put on your shower cap, please.",
+     "vi": "Đội nón tắm vô nha con."
+    },
+    {
+     "en": "Your shower cap is so funny!",
+     "vi": "Nón tắm của con ngộ ghê!"
+    },
+    {
+     "en": "My shower cap keeps my hair dry!",
+     "vi": "Nón tắm giữ tóc con khô nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-045",
+   "en": "bubble bath",
+   "vi": "tắm bọt",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, a bubble bath!",
+     "vi": "Ồ, tắm bọt nè!"
+    },
+    {
+     "en": "Do you want a bubble bath tonight?",
+     "vi": "Tối nay con muốn tắm bọt hông?"
+    },
+    {
+     "en": "Let's make a big bubble bath!",
+     "vi": "Mình làm bồn tắm bọt thiệt nhiều nha!"
+    },
+    {
+     "en": "This bubble bath smells like flowers.",
+     "vi": "Bồn tắm bọt này thơm mùi hoa."
+    },
+    {
+     "en": "I made a beard in my bubble bath!",
+     "vi": "Con lấy bọt làm râu nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-046",
+   "en": "squeaky clean",
+   "vi": "sạch bong",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "All done! Squeaky clean!",
+     "vi": "Xong rồi! Sạch bong luôn!"
+    },
+    {
+     "en": "Are your hands squeaky clean?",
+     "vi": "Tay con sạch bong chưa?"
+    },
+    {
+     "en": "Let's get you squeaky clean.",
+     "vi": "Mình tắm cho con sạch bong nha."
+    },
+    {
+     "en": "You smell so nice and squeaky clean!",
+     "vi": "Con sạch bong thơm phức luôn!"
+    },
+    {
+     "en": "Look, I'm squeaky clean!",
+     "vi": "Nhìn nè, con sạch bong rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-047",
+   "en": "privacy",
+   "vi": "sự riêng tư",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Knock first! Everyone needs privacy.",
+     "vi": "Gõ cửa trước nha! Ai cũng cần riêng tư."
+    },
+    {
+     "en": "Do you want some privacy in the bathroom?",
+     "vi": "Con muốn được riêng tư trong nhà tắm hông?"
+    },
+    {
+     "en": "Please close the door for privacy.",
+     "vi": "Đóng cửa lại cho riêng tư nha con."
+    },
+    {
+     "en": "Your body is yours, and privacy is important.",
+     "vi": "Cơ thể là của con, và riêng tư rất quan trọng."
+    },
+    {
+     "en": "I'd like some privacy, please. I'll be out soon.",
+     "vi": "Con muốn được riêng tư chút. Con ra liền."
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-048",
+   "en": "deodorant",
+   "vi": "lăn khử mùi",
+   "pos": "noun",
+   "ages": [
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "That's Daddy's deodorant. It smells fresh!",
+     "vi": "Đó là lăn khử mùi của ba. Thơm mát ghê!"
+    },
+    {
+     "en": "Why do grown-ups wear deodorant?",
+     "vi": "Sao người lớn xài lăn khử mùi ta?"
+    },
+    {
+     "en": "Put on deodorant after your shower, if you want.",
+     "vi": "Tắm xong muốn thì xài lăn khử mùi nha."
+    },
+    {
+     "en": "Deodorant helps your armpits smell nice after sports.",
+     "vi": "Lăn khử mùi giúp nách thơm sau khi chơi thể thao."
+    },
+    {
+     "en": "When I'm older, I'll use deodorant like Daddy.",
+     "vi": "Lớn lên con sẽ xài lăn khử mùi giống ba."
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-049",
+   "en": "shave",
+   "vi": "cạo râu",
+   "pos": "verb",
+   "emoji": "🪒",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Look, Daddy is shaving his beard!",
+     "vi": "Nhìn kìa, ba đang cạo râu!"
+    },
+    {
+     "en": "Why does Daddy shave every morning?",
+     "vi": "Sao sáng nào ba cũng cạo râu vậy?"
+    },
+    {
+     "en": "Don't touch the razor. Only grown-ups shave.",
+     "vi": "Đừng đụng dao cạo nha. Chỉ người lớn mới cạo râu."
+    },
+    {
+     "en": "Daddy's face is smooth after he shaves.",
+     "vi": "Ba cạo râu xong mặt láng mịn ghê."
+    },
+    {
+     "en": "I pretended to shave with the foam!",
+     "vi": "Con giả bộ cạo râu bằng bọt nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-050",
+   "en": "tangles",
+   "vi": "tóc rối",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Oh no, so many tangles!",
+     "vi": "Trời ơi, tóc rối quá trời!"
+    },
+    {
+     "en": "Do the tangles hurt?",
+     "vi": "Tóc rối làm con đau hả?"
+    },
+    {
+     "en": "Let's comb out the tangles gently.",
+     "vi": "Mình chải gỡ rối nhẹ nhẹ nha."
+    },
+    {
+     "en": "Conditioner makes the tangles go away.",
+     "vi": "Dầu xả giúp tóc hết rối đó."
+    },
+    {
+     "en": "My hair got tangles from the wind.",
+     "vi": "Tóc con bị gió thổi rối hết rồi."
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-051",
+   "en": "sweaty",
+   "vi": "đầy mồ hôi",
+   "pos": "adjective",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Phew, you're all sweaty!",
+     "vi": "Phù, con ướt đẫm mồ hôi luôn!"
+    },
+    {
+     "en": "Are you sweaty from running?",
+     "vi": "Con chạy nên đổ mồ hôi hả?"
+    },
+    {
+     "en": "You're sweaty, so let's take a shower.",
+     "vi": "Con đầy mồ hôi rồi, mình đi tắm nha."
+    },
+    {
+     "en": "Your shirt is sweaty and wet.",
+     "vi": "Áo con ướt mồ hôi hết rồi."
+    },
+    {
+     "en": "I'm so sweaty!",
+     "vi": "Con đổ mồ hôi quá trời!"
+    }
+   ]
+  },
+  {
+   "id": "v-bathroom-052",
+   "en": "rubber duck",
+   "vi": "con vịt cao su",
+   "pos": "noun",
+   "ages": [
+    "3-5"
+   ],
+   "examples": [
+    {
+     "en": "Quack, quack! Here's your rubber duck!",
+     "vi": "Cạp cạp! Con vịt cao su của con nè!"
+    },
+    {
+     "en": "Where is your rubber duck?",
+     "vi": "Con vịt cao su đâu rồi?"
+    },
+    {
+     "en": "Make your rubber duck swim!",
+     "vi": "Cho vịt cao su bơi đi con!"
+    },
+    {
+     "en": "Your rubber duck is floating!",
+     "vi": "Vịt cao su nổi lềnh bềnh nè!"
+    },
+    {
+     "en": "My rubber duck squeaks!",
+     "vi": "Vịt cao su của con kêu chít chít!"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1680 @@
+{
+  "deckId": "v-community",
+  "words": [
+    {
+      "id": "v-community-001",
+      "en": "library",
+      "vi": "thư viện",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the library!",
+          "vi": "Thư viện đây rồi!"
+        },
+        {
+          "en": "Do you want to borrow a book from the library?",
+          "vi": "Con muốn mượn sách ở thư viện không?"
+        },
+        {
+          "en": "Let's use our whisper voices in the library.",
+          "vi": "Trong thư viện mình nói thầm thôi nha."
+        },
+        {
+          "en": "The library has so many books to borrow.",
+          "vi": "Thư viện có nhiều sách để mượn lắm."
+        },
+        {
+          "en": "I borrowed three books from the library!",
+          "vi": "Con mượn được ba cuốn sách ở thư viện!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-002",
+      "en": "post office",
+      "vi": "bưu điện",
+      "pos": "noun",
+      "emoji": "🏤",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's the post office.",
+          "vi": "Nhìn kìa, bưu điện kìa."
+        },
+        {
+          "en": "Can we mail Grandma's card at the post office?",
+          "vi": "Mình gửi thiệp cho bà ở bưu điện được không?"
+        },
+        {
+          "en": "Let's take this package to the post office.",
+          "vi": "Mình mang gói hàng này ra bưu điện nha."
+        },
+        {
+          "en": "The post office sends letters all over the world.",
+          "vi": "Bưu điện gửi thư đi khắp thế giới."
+        },
+        {
+          "en": "I mailed my first letter at the post office!",
+          "vi": "Con gửi lá thư đầu tiên ở bưu điện!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-003",
+      "en": "police station",
+      "vi": "đồn công an",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That building is the police station.",
+          "vi": "Tòa nhà đó là đồn công an."
+        },
+        {
+          "en": "Do you know where the police station is?",
+          "vi": "Con biết đồn công an ở đâu không?"
+        },
+        {
+          "en": "Let's say hi when we pass the police station.",
+          "vi": "Đi ngang đồn công an mình chào các chú nha."
+        },
+        {
+          "en": "The police station is open day and night.",
+          "vi": "Đồn công an làm việc cả ngày lẫn đêm."
+        },
+        {
+          "en": "I saw a police dog at the police station!",
+          "vi": "Con thấy chó nghiệp vụ ở đồn công an!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-004",
+      "en": "fire station",
+      "vi": "trạm cứu hỏa",
+      "pos": "noun",
+      "emoji": "🚒",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the fire station has big red doors!",
+          "vi": "Nhìn kìa, trạm cứu hỏa có cửa đỏ to ghê!"
+        },
+        {
+          "en": "Can we visit the fire station someday?",
+          "vi": "Bữa nào mình đi tham quan trạm cứu hỏa được không?"
+        },
+        {
+          "en": "Let's wave to the fire station as we pass.",
+          "vi": "Đi ngang trạm cứu hỏa mình vẫy tay chào nha."
+        },
+        {
+          "en": "The fire station is where fire trucks sleep.",
+          "vi": "Trạm cứu hỏa là nhà của mấy chiếc xe cứu hỏa."
+        },
+        {
+          "en": "Our class went to the fire station today!",
+          "vi": "Hôm nay lớp con đi tham quan trạm cứu hỏa!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-005",
+      "en": "bank",
+      "vi": "ngân hàng",
+      "pos": "noun",
+      "emoji": "🏦",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That's our bank.",
+          "vi": "Đó là ngân hàng của nhà mình."
+        },
+        {
+          "en": "Why do people keep money in the bank?",
+          "vi": "Sao người ta gửi tiền ở ngân hàng vậy?"
+        },
+        {
+          "en": "Let's stop by the bank on the way home.",
+          "vi": "Trên đường về mình ghé ngân hàng nha."
+        },
+        {
+          "en": "The bank keeps people's money safe.",
+          "vi": "Ngân hàng giữ tiền an toàn cho mọi người."
+        },
+        {
+          "en": "I want to save my lucky money in the bank.",
+          "vi": "Con muốn gửi tiền lì xì vô ngân hàng."
+        }
+      ]
+    },
+    {
+      "id": "v-community-006",
+      "en": "street",
+      "vi": "con đường / đường phố",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, this street is so busy!",
+          "vi": "Wow, con đường này đông quá!"
+        },
+        {
+          "en": "What's the name of our street?",
+          "vi": "Đường nhà mình tên gì vậy con?"
+        },
+        {
+          "en": "Look both ways before you cross the street.",
+          "vi": "Nhìn hai bên trước khi qua đường nha."
+        },
+        {
+          "en": "Our street is quiet at night.",
+          "vi": "Đường nhà mình ban đêm yên tĩnh lắm."
+        },
+        {
+          "en": "I can see our street from the window!",
+          "vi": "Con thấy đường nhà mình từ cửa sổ nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-007",
+      "en": "sidewalk",
+      "vi": "vỉa hè",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Stay on the sidewalk, please.",
+          "vi": "Đi trên vỉa hè nha con."
+        },
+        {
+          "en": "Why are there motorbikes parked on the sidewalk?",
+          "vi": "Sao xe máy đậu trên vỉa hè vậy?"
+        },
+        {
+          "en": "Let's walk on the sidewalk together.",
+          "vi": "Mình đi bộ trên vỉa hè với nhau nha."
+        },
+        {
+          "en": "This sidewalk is bumpy, so watch your step.",
+          "vi": "Vỉa hè này gồ ghề, nên nhìn đường nha."
+        },
+        {
+          "en": "I drew a rainbow on the sidewalk with chalk!",
+          "vi": "Con vẽ cầu vồng bằng phấn trên vỉa hè!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-008",
+      "en": "crosswalk",
+      "vi": "vạch qua đường",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "There's the crosswalk.",
+          "vi": "Vạch qua đường kia kìa."
+        },
+        {
+          "en": "Where's the closest crosswalk?",
+          "vi": "Vạch qua đường gần nhất ở đâu?"
+        },
+        {
+          "en": "Let's cross at the crosswalk, holding hands.",
+          "vi": "Mình nắm tay qua đường ở vạch kẻ nha."
+        },
+        {
+          "en": "The crosswalk has white stripes.",
+          "vi": "Vạch qua đường có mấy sọc trắng."
+        },
+        {
+          "en": "We waited for the green man at the crosswalk.",
+          "vi": "Mình chờ đèn xanh cho người đi bộ ở vạch qua đường."
+        }
+      ]
+    },
+    {
+      "id": "v-community-009",
+      "en": "bridge",
+      "vi": "cây cầu",
+      "pos": "noun",
+      "emoji": "🌉",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a long bridge!",
+          "vi": "Wow, cây cầu dài quá!"
+        },
+        {
+          "en": "How many bridges did we cross today?",
+          "vi": "Hôm nay mình qua mấy cây cầu rồi?"
+        },
+        {
+          "en": "Let's walk across the bridge and look at the river.",
+          "vi": "Mình đi bộ qua cầu rồi ngắm sông nha."
+        },
+        {
+          "en": "This bridge is so high, I can see boats below.",
+          "vi": "Cây cầu này cao ghê, thấy được tàu thuyền ở dưới."
+        },
+        {
+          "en": "We drove over a really big bridge yesterday!",
+          "vi": "Hôm qua mình chạy xe qua một cây cầu to lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-010",
+      "en": "building",
+      "vi": "tòa nhà",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at that tall building!",
+          "vi": "Nhìn tòa nhà cao kìa!"
+        },
+        {
+          "en": "How many floors does this building have?",
+          "vi": "Tòa nhà này có bao nhiêu tầng?"
+        },
+        {
+          "en": "Let's count the windows on that building.",
+          "vi": "Mình đếm cửa sổ của tòa nhà đó nha."
+        },
+        {
+          "en": "That building is brand new and shiny.",
+          "vi": "Tòa nhà đó mới tinh, sáng bóng."
+        },
+        {
+          "en": "I'm going to build a building with my blocks!",
+          "vi": "Con sẽ xây tòa nhà bằng mấy khối gỗ!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-011",
+      "en": "package",
+      "vi": "gói hàng / bưu kiện",
+      "pos": "noun",
+      "emoji": "📦",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a package for us!",
+          "vi": "Ồ, có gói hàng cho nhà mình nè!"
+        },
+        {
+          "en": "Who do you think sent this package?",
+          "vi": "Con đoán ai gửi gói hàng này?"
+        },
+        {
+          "en": "Let's open the package carefully.",
+          "vi": "Mình mở gói hàng cẩn thận nha."
+        },
+        {
+          "en": "This package is heavy, so let's carry it together.",
+          "vi": "Gói hàng này nặng, mình khiêng chung nha."
+        },
+        {
+          "en": "The delivery man brought a package today!",
+          "vi": "Hôm nay chú giao hàng mang tới một gói hàng!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-012",
+      "en": "city",
+      "vi": "thành phố",
+      "pos": "noun",
+      "emoji": "🏙️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the city lights are so pretty!",
+          "vi": "Wow, đèn thành phố đẹp quá!"
+        },
+        {
+          "en": "Which city do you want to visit?",
+          "vi": "Con muốn đi thành phố nào?"
+        },
+        {
+          "en": "Let's look at the city from up high.",
+          "vi": "Mình ngắm thành phố từ trên cao nha."
+        },
+        {
+          "en": "The city is busy and noisy, but exciting.",
+          "vi": "Thành phố đông đúc, ồn ào mà thú vị."
+        },
+        {
+          "en": "I think our city is the best!",
+          "vi": "Con thấy thành phố mình là nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-013",
+      "en": "village",
+      "vi": "ngôi làng / làng quê",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little village by the river!",
+          "vi": "Nhìn kìa, một ngôi làng nhỏ bên sông!"
+        },
+        {
+          "en": "Do you remember Grandpa's village?",
+          "vi": "Con có nhớ làng quê của ông không?"
+        },
+        {
+          "en": "Let's visit the village this summer.",
+          "vi": "Hè này mình về làng chơi nha."
+        },
+        {
+          "en": "The village is quiet and green.",
+          "vi": "Làng quê yên tĩnh và xanh mát."
+        },
+        {
+          "en": "I caught a fish in Grandpa's village!",
+          "vi": "Con bắt được cá ở làng của ông!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-014",
+      "en": "country",
+      "vi": "đất nước",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look how big our country is on the map!",
+          "vi": "Wow, coi nè, đất nước mình trên bản đồ dài ghê!"
+        },
+        {
+          "en": "Which country do you want to visit someday?",
+          "vi": "Sau này con muốn đi nước nào?"
+        },
+        {
+          "en": "Let's find our country on the globe.",
+          "vi": "Mình tìm đất nước mình trên quả địa cầu nha."
+        },
+        {
+          "en": "Every country has its own flag.",
+          "vi": "Nước nào cũng có lá cờ riêng."
+        },
+        {
+          "en": "I want to visit every country in the world!",
+          "vi": "Con muốn đi hết các nước trên thế giới!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-015",
+      "en": "map",
+      "vi": "tấm bản đồ",
+      "pos": "noun",
+      "emoji": "🗺️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, here's a map of our city!",
+          "vi": "Nhìn nè, bản đồ thành phố mình!"
+        },
+        {
+          "en": "Can you find our house on the map?",
+          "vi": "Con tìm được nhà mình trên bản đồ không?"
+        },
+        {
+          "en": "Let's draw a treasure map!",
+          "vi": "Mình vẽ bản đồ kho báu nha!"
+        },
+        {
+          "en": "This map shows all the streets.",
+          "vi": "Tấm bản đồ này có hết các con đường."
+        },
+        {
+          "en": "I used the map to find the way!",
+          "vi": "Con xem bản đồ để tìm đường đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-016",
+      "en": "sign",
+      "vi": "tấm biển / bảng hiệu",
+      "pos": "noun",
+      "emoji": "🪧",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, what does that sign say?",
+          "vi": "Nhìn kìa, tấm biển đó ghi gì vậy?"
+        },
+        {
+          "en": "Can you read the sign for me?",
+          "vi": "Con đọc tấm biển giùm nha?"
+        },
+        {
+          "en": "Let's follow the signs to the zoo.",
+          "vi": "Mình đi theo biển chỉ đường tới sở thú nha."
+        },
+        {
+          "en": "That sign means no swimming here.",
+          "vi": "Tấm biển đó nghĩa là không được bơi ở đây."
+        },
+        {
+          "en": "I read the whole sign by myself!",
+          "vi": "Con tự đọc hết tấm biển luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-017",
+      "en": "lighthouse",
+      "vi": "ngọn hải đăng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a lighthouse by the sea!",
+          "vi": "Nhìn kìa, ngọn hải đăng bên biển!"
+        },
+        {
+          "en": "What do you think a lighthouse is for?",
+          "vi": "Con nghĩ ngọn hải đăng để làm gì?"
+        },
+        {
+          "en": "Let's climb to the top of the lighthouse.",
+          "vi": "Mình leo lên đỉnh ngọn hải đăng nha."
+        },
+        {
+          "en": "The lighthouse helps ships find their way at night.",
+          "vi": "Hải đăng giúp tàu thuyền tìm đường ban đêm."
+        },
+        {
+          "en": "I saw the lighthouse light spinning around!",
+          "vi": "Con thấy đèn hải đăng quay vòng vòng!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-018",
+      "en": "intersection",
+      "vi": "ngã tư",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "This intersection is really busy right now.",
+          "vi": "Ngã tư này giờ đông xe quá."
+        },
+        {
+          "en": "Which way do we turn at the next intersection?",
+          "vi": "Tới ngã tư tiếp theo mình quẹo hướng nào?"
+        },
+        {
+          "en": "Let's wait for the light before crossing the intersection.",
+          "vi": "Mình chờ đèn rồi mới qua ngã tư nha."
+        },
+        {
+          "en": "Intersections can be dangerous, so we always stop and look.",
+          "vi": "Ngã tư có thể nguy hiểm, nên mình luôn dừng lại quan sát."
+        },
+        {
+          "en": "I'll tell you when we get to the big intersection.",
+          "vi": "Tới ngã tư lớn con sẽ nói cho nghe."
+        }
+      ]
+    },
+    {
+      "id": "v-community-019",
+      "en": "recycle",
+      "vi": "tái chế",
+      "pos": "verb",
+      "emoji": "♻️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hey, we can recycle this bottle!",
+          "vi": "Nè, cái chai này tái chế được đó!"
+        },
+        {
+          "en": "Can we recycle this box?",
+          "vi": "Cái hộp này tái chế được không?"
+        },
+        {
+          "en": "Let's recycle the cans after the party.",
+          "vi": "Tiệc xong mình đem lon đi tái chế nha."
+        },
+        {
+          "en": "Recycling helps keep the Earth clean.",
+          "vi": "Tái chế giúp Trái Đất sạch hơn."
+        },
+        {
+          "en": "I recycled all the bottles by myself!",
+          "vi": "Con tự phân loại chai để tái chế hết rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-020",
+      "en": "trash can",
+      "vi": "thùng rác",
+      "pos": "noun",
+      "emoji": "🗑️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "There's a trash can over there.",
+          "vi": "Có thùng rác ở đằng kia kìa."
+        },
+        {
+          "en": "Can you find a trash can for this wrapper?",
+          "vi": "Con tìm thùng rác bỏ cái vỏ kẹo này nha?"
+        },
+        {
+          "en": "Please put your trash in the trash can.",
+          "vi": "Con bỏ rác vô thùng rác nha."
+        },
+        {
+          "en": "The trash can is full, so let's find another one.",
+          "vi": "Thùng rác đầy rồi, mình kiếm thùng khác nha."
+        },
+        {
+          "en": "I threw my wrapper in the trash can!",
+          "vi": "Con bỏ vỏ kẹo vô thùng rác rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-021",
+      "en": "community",
+      "vi": "cộng đồng",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Our community is having a cleanup day on Sunday.",
+          "vi": "Chủ nhật này cộng đồng mình có ngày dọn vệ sinh."
+        },
+        {
+          "en": "How can we help our community?",
+          "vi": "Mình có thể giúp gì cho cộng đồng?"
+        },
+        {
+          "en": "Let's bring some old clothes to the community center.",
+          "vi": "Mình mang quần áo cũ tới nhà văn hóa cho cộng đồng nha."
+        },
+        {
+          "en": "A community is people who live nearby and help each other.",
+          "vi": "Cộng đồng là những người sống gần nhau và giúp đỡ nhau."
+        },
+        {
+          "en": "I think our community is really friendly.",
+          "vi": "Con thấy cộng đồng mình thân thiện lắm."
+        }
+      ]
+    },
+    {
+      "id": "v-community-022",
+      "en": "town",
+      "vi": "thị trấn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Welcome to our little town!",
+          "vi": "Chào mừng tới thị trấn nhỏ của mình!"
+        },
+        {
+          "en": "What do you like best about this town?",
+          "vi": "Con thích gì nhất ở thị trấn này?"
+        },
+        {
+          "en": "Let's walk around the town after lunch.",
+          "vi": "Ăn trưa xong mình đi dạo quanh thị trấn nha."
+        },
+        {
+          "en": "This town is small, but it's so pretty.",
+          "vi": "Thị trấn này nhỏ mà đẹp ghê."
+        },
+        {
+          "en": "We stayed in a beach town last summer.",
+          "vi": "Hè rồi mình ở một thị trấn gần biển đó."
+        }
+      ]
+    },
+    {
+      "id": "v-community-023",
+      "en": "neighborhood",
+      "vi": "khu phố / xóm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, our whole neighborhood is lit up!",
+          "vi": "Nhìn kìa, cả xóm mình đèn sáng trưng!"
+        },
+        {
+          "en": "Do you know the kids in our neighborhood?",
+          "vi": "Con có biết mấy bạn trong xóm mình không?"
+        },
+        {
+          "en": "Let's take a walk around the neighborhood.",
+          "vi": "Mình đi dạo một vòng quanh xóm nha."
+        },
+        {
+          "en": "Our neighborhood is friendly and safe.",
+          "vi": "Khu phố mình thân thiện và an toàn."
+        },
+        {
+          "en": "I played soccer with kids from the neighborhood!",
+          "vi": "Con đá banh với mấy bạn trong xóm!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-024",
+      "en": "crowd",
+      "vi": "đám đông",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a big crowd!",
+          "vi": "Wow, đông người quá!"
+        },
+        {
+          "en": "Can you see over the crowd?",
+          "vi": "Con có nhìn qua được đám đông không?"
+        },
+        {
+          "en": "Hold my hand tight in the crowd.",
+          "vi": "Chỗ đông người thì nắm tay chặt nha."
+        },
+        {
+          "en": "Crowds can be loud, so let's find a quiet spot.",
+          "vi": "Chỗ đông người ồn lắm, mình kiếm chỗ yên tĩnh nha."
+        },
+        {
+          "en": "There was a huge crowd at the fireworks last night.",
+          "vi": "Tối qua coi pháo hoa đông người dữ lắm."
+        }
+      ]
+    },
+    {
+      "id": "v-community-025",
+      "en": "mailbox",
+      "vi": "hộp thư",
+      "pos": "noun",
+      "emoji": "📫",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's something in the mailbox!",
+          "vi": "Nhìn kìa, trong hộp thư có gì nè!"
+        },
+        {
+          "en": "Can you check the mailbox for me?",
+          "vi": "Con coi hộp thư giùm nha?"
+        },
+        {
+          "en": "Let's put the letter in the mailbox.",
+          "vi": "Mình bỏ lá thư vô hộp thư nha."
+        },
+        {
+          "en": "Our mailbox is full of letters today.",
+          "vi": "Hôm nay hộp thư nhà mình đầy thư."
+        },
+        {
+          "en": "I found a card from Grandma in the mailbox!",
+          "vi": "Con thấy thiệp của bà trong hộp thư!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-026",
+      "en": "mail",
+      "vi": "thư từ",
+      "pos": "noun",
+      "emoji": "✉️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "The mail is here!",
+          "vi": "Thư tới rồi!"
+        },
+        {
+          "en": "Did we get any mail today?",
+          "vi": "Hôm nay nhà mình có thư không?"
+        },
+        {
+          "en": "Let's open the mail together.",
+          "vi": "Mình cùng mở thư nha."
+        },
+        {
+          "en": "Most of our mail is boring bills.",
+          "vi": "Thư nhà mình toàn là hóa đơn chán ngắt."
+        },
+        {
+          "en": "I got mail with my name on it!",
+          "vi": "Con nhận được thư có tên con trên đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-027",
+      "en": "stamp",
+      "vi": "con tem",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, this stamp has a bird on it!",
+          "vi": "Nhìn nè, con tem này có hình con chim!"
+        },
+        {
+          "en": "Do you want to stick on the stamp?",
+          "vi": "Con muốn dán con tem không?"
+        },
+        {
+          "en": "Put the stamp in the top corner, please.",
+          "vi": "Dán con tem ở góc trên nha."
+        },
+        {
+          "en": "This stamp is from a faraway country.",
+          "vi": "Con tem này từ một nước xa xôi."
+        },
+        {
+          "en": "I'm going to collect stamps from everywhere!",
+          "vi": "Con sẽ sưu tầm tem từ khắp nơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-028",
+      "en": "address",
+      "vi": "địa chỉ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "This is our home address.",
+          "vi": "Đây là địa chỉ nhà mình."
+        },
+        {
+          "en": "Do you know our address?",
+          "vi": "Con có biết địa chỉ nhà mình không?"
+        },
+        {
+          "en": "Let's practice saying our address together.",
+          "vi": "Mình cùng tập nói địa chỉ nhà nha."
+        },
+        {
+          "en": "Knowing your address is important if you get lost.",
+          "vi": "Biết địa chỉ nhà rất quan trọng nếu lỡ bị lạc."
+        },
+        {
+          "en": "I can write my address all by myself!",
+          "vi": "Con tự viết được địa chỉ nhà rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-029",
+      "en": "fountain",
+      "vi": "đài phun nước",
+      "pos": "noun",
+      "emoji": "⛲",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at the fountain!",
+          "vi": "Wow, coi đài phun nước kìa!"
+        },
+        {
+          "en": "Do you want to make a wish at the fountain?",
+          "vi": "Con muốn ước một điều ở đài phun nước không?"
+        },
+        {
+          "en": "Let's sit by the fountain and rest.",
+          "vi": "Mình ngồi nghỉ cạnh đài phun nước nha."
+        },
+        {
+          "en": "The fountain shoots water so high!",
+          "vi": "Đài phun nước phun nước cao ghê!"
+        },
+        {
+          "en": "The fountain sprayed me, and I got wet!",
+          "vi": "Đài phun nước xịt trúng con, ướt hết rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-030",
+      "en": "statue",
+      "vi": "bức tượng",
+      "pos": "noun",
+      "emoji": "🗽",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at that giant statue!",
+          "vi": "Nhìn bức tượng khổng lồ kìa!"
+        },
+        {
+          "en": "Who do you think that statue is?",
+          "vi": "Con nghĩ bức tượng đó là ai?"
+        },
+        {
+          "en": "Let's freeze like a statue!",
+          "vi": "Mình đứng im như bức tượng nào!"
+        },
+        {
+          "en": "That statue is made of stone.",
+          "vi": "Bức tượng đó làm bằng đá."
+        },
+        {
+          "en": "I stood still like a statue for a whole minute!",
+          "vi": "Con đứng im như tượng được nguyên một phút luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-031",
+      "en": "flag",
+      "vi": "lá cờ",
+      "pos": "noun",
+      "emoji": "🚩",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the flags are waving in the wind!",
+          "vi": "Nhìn kìa, mấy lá cờ bay phấp phới!"
+        },
+        {
+          "en": "What colors are on our country's flag?",
+          "vi": "Lá cờ nước mình có màu gì?"
+        },
+        {
+          "en": "Let's draw the flag of Vietnam.",
+          "vi": "Mình vẽ lá cờ Việt Nam nha."
+        },
+        {
+          "en": "Our flag is red with a yellow star.",
+          "vi": "Cờ nước mình màu đỏ có ngôi sao vàng."
+        },
+        {
+          "en": "We hung up a flag for the holiday!",
+          "vi": "Nhà mình treo cờ dịp lễ đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-032",
+      "en": "roundabout",
+      "vi": "vòng xoay",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, look at all the motorbikes at the roundabout!",
+          "vi": "Ui, coi xe máy chạy quanh vòng xoay kìa!"
+        },
+        {
+          "en": "How many times did we go around the roundabout?",
+          "vi": "Mình chạy quanh vòng xoay mấy vòng rồi?"
+        },
+        {
+          "en": "Let's count the roads coming into the roundabout.",
+          "vi": "Mình đếm mấy con đường dẫn vô vòng xoay nha."
+        },
+        {
+          "en": "The roundabout is busy, so Daddy drives slowly.",
+          "vi": "Vòng xoay đông xe, nên ba chạy chậm."
+        },
+        {
+          "en": "We went around the roundabout twice by mistake!",
+          "vi": "Mình lỡ chạy quanh vòng xoay hai vòng luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-033",
+      "en": "skyscraper",
+      "vi": "tòa nhà chọc trời",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look up, a skyscraper!",
+          "vi": "Nhìn lên kìa, tòa nhà chọc trời!"
+        },
+        {
+          "en": "How many floors does that skyscraper have?",
+          "vi": "Tòa nhà chọc trời đó có bao nhiêu tầng?"
+        },
+        {
+          "en": "Let's count the skyscrapers in the city.",
+          "vi": "Mình đếm mấy tòa nhà chọc trời trong thành phố nha."
+        },
+        {
+          "en": "That skyscraper is taller than the clouds!",
+          "vi": "Tòa nhà chọc trời đó cao hơn cả mây!"
+        },
+        {
+          "en": "We went to the top of a skyscraper!",
+          "vi": "Mình lên tới đỉnh tòa nhà chọc trời đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-034",
+      "en": "street light",
+      "vi": "cây đèn đường",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the street lights just turned on!",
+          "vi": "Nhìn kìa, đèn đường vừa bật lên!"
+        },
+        {
+          "en": "Why do the street lights come on at night?",
+          "vi": "Sao đèn đường ban đêm mới bật vậy?"
+        },
+        {
+          "en": "Let's count the street lights on the way home.",
+          "vi": "Trên đường về mình đếm đèn đường nha."
+        },
+        {
+          "en": "The street lights make the road bright.",
+          "vi": "Đèn đường làm con đường sáng lên."
+        },
+        {
+          "en": "I saw the street lights blink on!",
+          "vi": "Con thấy đèn đường bật sáng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-035",
+      "en": "city hall",
+      "vi": "tòa thị chính",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That big old building is city hall.",
+          "vi": "Tòa nhà cổ to kia là tòa thị chính."
+        },
+        {
+          "en": "Do you know what people do at city hall?",
+          "vi": "Con biết người ta làm gì ở tòa thị chính không?"
+        },
+        {
+          "en": "Let's take a photo in front of city hall.",
+          "vi": "Mình chụp hình trước tòa thị chính nha."
+        },
+        {
+          "en": "City hall is where leaders make plans for the city.",
+          "vi": "Tòa thị chính là nơi lãnh đạo lên kế hoạch cho thành phố."
+        },
+        {
+          "en": "City hall looks like a palace when it's all lit up.",
+          "vi": "Tòa thị chính lên đèn nhìn như cung điện vậy."
+        }
+      ]
+    },
+    {
+      "id": "v-community-036",
+      "en": "law",
+      "vi": "luật pháp",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That's the law, so everyone has to follow it.",
+          "vi": "Đó là luật, nên ai cũng phải tuân theo."
+        },
+        {
+          "en": "Why do you think we need laws?",
+          "vi": "Con nghĩ sao mình cần có luật?"
+        },
+        {
+          "en": "Let's talk about the law for wearing helmets.",
+          "vi": "Mình nói chuyện về luật đội mũ bảo hiểm nha."
+        },
+        {
+          "en": "Laws keep people safe and make things fair.",
+          "vi": "Luật giúp mọi người an toàn và công bằng."
+        },
+        {
+          "en": "If I made a law, it'd be free ice cream on Fridays!",
+          "vi": "Nếu con được ra luật, thứ Sáu sẽ được ăn kem miễn phí!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-037",
+      "en": "safety",
+      "vi": "sự an toàn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Safety first!",
+          "vi": "An toàn là trên hết!"
+        },
+        {
+          "en": "What's the safety rule for crossing the street?",
+          "vi": "Qua đường thì có quy tắc an toàn gì?"
+        },
+        {
+          "en": "Let's talk about safety before we go.",
+          "vi": "Trước khi đi mình nói về an toàn chút nha."
+        },
+        {
+          "en": "Helmets are important for safety.",
+          "vi": "Mũ bảo hiểm rất quan trọng để an toàn."
+        },
+        {
+          "en": "I wore my helmet for safety!",
+          "vi": "Con đội mũ bảo hiểm cho an toàn nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-038",
+      "en": "donate",
+      "vi": "quyên góp",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, this box is for donating toys.",
+          "vi": "Nhìn nè, cái thùng này để quyên góp đồ chơi."
+        },
+        {
+          "en": "Which old toys would you like to donate?",
+          "vi": "Con muốn quyên góp mấy món đồ chơi cũ nào?"
+        },
+        {
+          "en": "Let's donate the clothes that don't fit you anymore.",
+          "vi": "Mình đem quyên góp mấy bộ đồ con mặc không vừa nữa nha."
+        },
+        {
+          "en": "Donating feels good because it helps other kids.",
+          "vi": "Quyên góp làm mình thấy vui vì giúp được các bạn khác."
+        },
+        {
+          "en": "I donated my old books to the school library.",
+          "vi": "Con quyên góp sách cũ cho thư viện trường rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-community-039",
+      "en": "litter",
+      "vi": "xả rác",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, someone littered here.",
+          "vi": "Ối, ai xả rác ở đây rồi."
+        },
+        {
+          "en": "Why do you think people litter?",
+          "vi": "Con nghĩ sao người ta lại xả rác?"
+        },
+        {
+          "en": "Let's pick up the litter we find on the beach.",
+          "vi": "Mình nhặt rác tìm thấy trên bãi biển nha."
+        },
+        {
+          "en": "Littering hurts animals and makes the street dirty.",
+          "vi": "Xả rác làm hại động vật và làm bẩn đường phố."
+        },
+        {
+          "en": "I'll never litter, because I love our planet.",
+          "vi": "Con sẽ không bao giờ xả rác, vì con yêu Trái Đất."
+        }
+      ]
+    },
+    {
+      "id": "v-community-040",
+      "en": "recycling bin",
+      "vi": "thùng rác tái chế",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the recycling bin.",
+          "vi": "Thùng rác tái chế đây nè."
+        },
+        {
+          "en": "Does this bottle go in the recycling bin?",
+          "vi": "Cái chai này bỏ vô thùng tái chế hả?"
+        },
+        {
+          "en": "Put the paper in the recycling bin, please.",
+          "vi": "Con bỏ giấy vô thùng tái chế nha."
+        },
+        {
+          "en": "The recycling bin is blue.",
+          "vi": "Thùng rác tái chế màu xanh dương."
+        },
+        {
+          "en": "I filled the recycling bin all by myself!",
+          "vi": "Con tự bỏ đầy thùng tái chế luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-041",
+      "en": "alley",
+      "vi": "con hẻm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Our house is down this alley.",
+          "vi": "Nhà mình ở trong hẻm này nè."
+        },
+        {
+          "en": "Which alley is Grandma's house in?",
+          "vi": "Nhà bà ở hẻm nào vậy con?"
+        },
+        {
+          "en": "Let's walk carefully in the alley, motorbikes come by.",
+          "vi": "Đi trong hẻm cẩn thận nha, có xe máy chạy qua."
+        },
+        {
+          "en": "This alley is narrow, but it's full of life.",
+          "vi": "Con hẻm này nhỏ mà nhộn nhịp ghê."
+        },
+        {
+          "en": "I know every house in our alley!",
+          "vi": "Con biết hết nhà trong hẻm mình luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-042",
+      "en": "street vendor",
+      "vi": "người bán hàng rong",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Listen, the street vendor is calling out!",
+          "vi": "Nghe nè, cô bán hàng rong đang rao kìa!"
+        },
+        {
+          "en": "What's that street vendor selling?",
+          "vi": "Cô bán hàng rong bán gì vậy?"
+        },
+        {
+          "en": "Let's buy some fruit from the street vendor.",
+          "vi": "Mình mua trái cây của cô bán hàng rong nha."
+        },
+        {
+          "en": "The street vendor works really hard every day.",
+          "vi": "Cô bán hàng rong ngày nào cũng làm việc vất vả lắm."
+        },
+        {
+          "en": "I bought sticky rice from a street vendor!",
+          "vi": "Con mua xôi của cô bán hàng rong!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-043",
+      "en": "emergency",
+      "vi": "trường hợp khẩn cấp",
+      "pos": "noun",
+      "emoji": "🆘",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "This is an emergency, call for help!",
+          "vi": "Đây là trường hợp khẩn cấp, gọi người giúp nhanh!"
+        },
+        {
+          "en": "Do you know what to do in an emergency?",
+          "vi": "Con biết phải làm gì khi có chuyện khẩn cấp không?"
+        },
+        {
+          "en": "Let's learn the emergency number together.",
+          "vi": "Mình cùng học số điện thoại khẩn cấp nha."
+        },
+        {
+          "en": "An emergency is when someone needs help right away.",
+          "vi": "Khẩn cấp là khi có người cần giúp ngay lập tức."
+        },
+        {
+          "en": "In an emergency, I'll find a grown-up.",
+          "vi": "Khi có chuyện khẩn cấp, con sẽ tìm người lớn."
+        }
+      ]
+    },
+    {
+      "id": "v-community-044",
+      "en": "Vietnam",
+      "vi": "Việt Nam",
+      "pos": "noun",
+      "emoji": "🇻🇳",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "We live in Vietnam!",
+          "vi": "Mình sống ở Việt Nam!"
+        },
+        {
+          "en": "Can you find Vietnam on the map?",
+          "vi": "Con tìm được Việt Nam trên bản đồ không?"
+        },
+        {
+          "en": "Let's draw the shape of Vietnam.",
+          "vi": "Mình vẽ hình đất nước Việt Nam nha."
+        },
+        {
+          "en": "Vietnam is long and thin like the letter S.",
+          "vi": "Việt Nam dài và hẹp như chữ S."
+        },
+        {
+          "en": "I'm proud to be from Vietnam!",
+          "vi": "Con tự hào là người Việt Nam!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-045",
+      "en": "capital",
+      "vi": "thủ đô",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hanoi is the capital of Vietnam.",
+          "vi": "Hà Nội là thủ đô của Việt Nam."
+        },
+        {
+          "en": "Do you know the capital of Japan?",
+          "vi": "Con biết thủ đô của Nhật Bản không?"
+        },
+        {
+          "en": "Let's find the capital cities on the map.",
+          "vi": "Mình tìm các thủ đô trên bản đồ nha."
+        },
+        {
+          "en": "The capital is where the government works.",
+          "vi": "Thủ đô là nơi chính phủ làm việc."
+        },
+        {
+          "en": "I'd love to visit the capital next summer.",
+          "vi": "Hè tới con muốn đi thăm thủ đô."
+        }
+      ]
+    },
+    {
+      "id": "v-community-046",
+      "en": "construction site",
+      "vi": "công trường",
+      "pos": "noun",
+      "emoji": "🚧",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a construction site with cranes!",
+          "vi": "Nhìn kìa, công trường có cần cẩu!"
+        },
+        {
+          "en": "What are they building at the construction site?",
+          "vi": "Ở công trường người ta đang xây gì vậy?"
+        },
+        {
+          "en": "Stay away from the construction site, it's not safe.",
+          "vi": "Tránh xa công trường nha, không an toàn đâu."
+        },
+        {
+          "en": "The construction site is noisy and dusty.",
+          "vi": "Công trường vừa ồn vừa bụi."
+        },
+        {
+          "en": "I watched the workers at the construction site!",
+          "vi": "Con coi mấy chú công nhân ở công trường!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-047",
+      "en": "countryside",
+      "vi": "vùng quê / nông thôn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look how green the countryside is!",
+          "vi": "Coi kìa, vùng quê xanh mướt!"
+        },
+        {
+          "en": "Do you like the city or the countryside better?",
+          "vi": "Con thích thành phố hay vùng quê hơn?"
+        },
+        {
+          "en": "Let's take a bike ride in the countryside.",
+          "vi": "Mình đạp xe dạo vùng quê nha."
+        },
+        {
+          "en": "The countryside is peaceful and full of rice fields.",
+          "vi": "Vùng quê yên bình và toàn ruộng lúa."
+        },
+        {
+          "en": "I saw a water buffalo in the countryside!",
+          "vi": "Con thấy con trâu ở dưới quê!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-048",
+      "en": "fire hydrant",
+      "vi": "trụ nước cứu hỏa",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a red fire hydrant!",
+          "vi": "Nhìn kìa, trụ nước cứu hỏa màu đỏ!"
+        },
+        {
+          "en": "Do you know what a fire hydrant is for?",
+          "vi": "Con biết trụ nước cứu hỏa để làm gì không?"
+        },
+        {
+          "en": "Let's not park in front of the fire hydrant.",
+          "vi": "Mình không đậu xe trước trụ nước cứu hỏa nha."
+        },
+        {
+          "en": "Firefighters get water from the fire hydrant.",
+          "vi": "Lính cứu hỏa lấy nước từ trụ nước cứu hỏa."
+        },
+        {
+          "en": "I spotted three fire hydrants on our walk!",
+          "vi": "Con thấy ba trụ nước cứu hỏa khi đi dạo!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-049",
+      "en": "pedestrian",
+      "vi": "người đi bộ",
+      "pos": "noun",
+      "emoji": "🚶",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Watch out, there are pedestrians crossing.",
+          "vi": "Coi chừng, có người đi bộ đang qua đường."
+        },
+        {
+          "en": "Who goes first, cars or pedestrians?",
+          "vi": "Xe hay người đi bộ được đi trước?"
+        },
+        {
+          "en": "Let's use the pedestrian bridge to cross the busy road.",
+          "vi": "Mình đi cầu vượt cho người đi bộ để qua con đường đông xe nha."
+        },
+        {
+          "en": "Pedestrians should always use the crosswalk.",
+          "vi": "Người đi bộ nên luôn đi trên vạch qua đường."
+        },
+        {
+          "en": "When I'm a pedestrian, I always look both ways.",
+          "vi": "Khi đi bộ, con luôn nhìn hai bên."
+        }
+      ]
+    },
+    {
+      "id": "v-community-050",
+      "en": "stop sign",
+      "vi": "biển báo dừng lại",
+      "pos": "noun",
+      "emoji": "🛑",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a red stop sign!",
+          "vi": "Nhìn kìa, biển báo dừng lại màu đỏ!"
+        },
+        {
+          "en": "What shape is the stop sign?",
+          "vi": "Biển báo dừng lại hình gì?"
+        },
+        {
+          "en": "Let's stop and look, just like the stop sign says.",
+          "vi": "Mình dừng lại nhìn, giống như biển báo dừng nói nha."
+        },
+        {
+          "en": "A stop sign has eight sides.",
+          "vi": "Biển báo dừng lại có tám cạnh."
+        },
+        {
+          "en": "I can read the stop sign! It says STOP!",
+          "vi": "Con đọc được biển báo nè! Ghi là STOP!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-051",
+      "en": "downtown",
+      "vi": "trung tâm thành phố",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, downtown is so bright at night!",
+          "vi": "Wow, trung tâm thành phố ban đêm sáng rực!"
+        },
+        {
+          "en": "Do you want to go downtown this weekend?",
+          "vi": "Cuối tuần con muốn đi trung tâm thành phố không?"
+        },
+        {
+          "en": "Let's take the bus downtown.",
+          "vi": "Mình đi xe buýt vô trung tâm nha."
+        },
+        {
+          "en": "Downtown is crowded, so stay close to me.",
+          "vi": "Trung tâm thành phố đông lắm, đi sát bên nha."
+        },
+        {
+          "en": "We saw a big parade downtown!",
+          "vi": "Mình thấy cuộc diễu hành lớn ở trung tâm thành phố!"
+        }
+      ]
+    },
+    {
+      "id": "v-community-052",
+      "en": "public",
+      "vi": "công cộng",
+      "pos": "adjective",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "This is a public park, so everyone can come.",
+          "vi": "Đây là công viên công cộng, nên ai cũng được vô."
+        },
+        {
+          "en": "Can you use your inside voice in public places?",
+          "vi": "Ở nơi công cộng con nói nhỏ được không?"
+        },
+        {
+          "en": "Let's keep public places clean for everyone.",
+          "vi": "Mình giữ nơi công cộng sạch sẽ cho mọi người nha."
+        },
+        {
+          "en": "Public libraries let you borrow books for free.",
+          "vi": "Thư viện công cộng cho mượn sách miễn phí."
+        },
+        {
+          "en": "I used the public restroom by myself today.",
+          "vi": "Hôm nay con tự đi nhà vệ sinh công cộng."
+        }
+      ]
+    }
+  ]
+}

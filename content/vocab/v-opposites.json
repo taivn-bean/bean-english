@@ -1,0 +1,1680 @@
+{
+  "deckId": "v-opposites",
+  "words": [
+    {
+      "id": "v-opposites-001",
+      "en": "big",
+      "vi": "to, lớn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a big truck!",
+          "vi": "Wow, xe tải to quá!"
+        },
+        {
+          "en": "Is your hat too big?",
+          "vi": "Nón con rộng quá hả?"
+        },
+        {
+          "en": "Take a big bite!",
+          "vi": "Cắn một miếng to nè!"
+        },
+        {
+          "en": "You're getting so big!",
+          "vi": "Con lớn nhanh quá!"
+        },
+        {
+          "en": "I'm a big kid now!",
+          "vi": "Con lớn rồi mà!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-002",
+      "en": "small",
+      "vi": "nhỏ",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aww, a small puppy!",
+          "vi": "Aww, con cún nhỏ xíu!",
+          "ipa": "/aww ə smɔl ˈpʌpi/"
+        },
+        {
+          "en": "Do you want the small cup?",
+          "vi": "Con muốn cái ly nhỏ không?"
+        },
+        {
+          "en": "Cut it into small pieces.",
+          "vi": "Cắt nó thành miếng nhỏ nha."
+        },
+        {
+          "en": "This shirt is too small now.",
+          "vi": "Cái áo này giờ chật rồi."
+        },
+        {
+          "en": "I want the small one!",
+          "vi": "Con muốn cái nhỏ!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-003",
+      "en": "tiny",
+      "vi": "nhỏ xíu",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tiny ant!",
+          "vi": "Nhìn nè, con kiến nhỏ xíu!"
+        },
+        {
+          "en": "Can you see that tiny bug?",
+          "vi": "Con thấy con bọ nhỏ xíu đó không?"
+        },
+        {
+          "en": "Take tiny steps, like a mouse.",
+          "vi": "Bước từng bước nhỏ xíu như con chuột nè."
+        },
+        {
+          "en": "Your baby shoes were so tiny!",
+          "vi": "Hồi bé giày con nhỏ xíu à!"
+        },
+        {
+          "en": "I found a tiny shell!",
+          "vi": "Con nhặt được cái vỏ sò nhỏ xíu!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-004",
+      "en": "huge",
+      "vi": "to đùng, khổng lồ",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, that's a huge bubble!",
+          "vi": "Whoa, bong bóng to khổng lồ!"
+        },
+        {
+          "en": "Did you see that huge dog?",
+          "vi": "Con thấy con chó to đùng đó không?"
+        },
+        {
+          "en": "Give me a huge hug!",
+          "vi": "Ôm mình một cái thật chặt nè!"
+        },
+        {
+          "en": "Elephants are huge animals.",
+          "vi": "Voi là con vật to lớn."
+        },
+        {
+          "en": "I built a huge tower!",
+          "vi": "Con xây được cái tháp to đùng!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-005",
+      "en": "hot",
+      "vi": "nóng",
+      "pos": "adjective",
+      "emoji": "🔥",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Careful, it's hot!",
+          "vi": "Cẩn thận, nóng đó!"
+        },
+        {
+          "en": "Is your soup too hot?",
+          "vi": "Canh nóng quá hả con?"
+        },
+        {
+          "en": "Let's blow on it, it's hot.",
+          "vi": "Thổi thổi cho nguội nha, nóng lắm."
+        },
+        {
+          "en": "It's so hot today!",
+          "vi": "Hôm nay nóng quá!"
+        },
+        {
+          "en": "Hot! Hot! Ouch!",
+          "vi": "Nóng! Nóng! Ui da!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-006",
+      "en": "cold",
+      "vi": "lạnh",
+      "pos": "adjective",
+      "emoji": "🥶",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, the water's cold!",
+          "vi": "Ui, nước lạnh quá!"
+        },
+        {
+          "en": "Are your hands cold?",
+          "vi": "Tay con lạnh hả?"
+        },
+        {
+          "en": "Put on your jacket. It's cold outside.",
+          "vi": "Mặc áo khoác vô nha, ngoài trời lạnh lắm."
+        },
+        {
+          "en": "This juice is nice and cold.",
+          "vi": "Nước trái cây này mát lạnh ghê."
+        },
+        {
+          "en": "My feet are cold!",
+          "vi": "Chân con lạnh!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-007",
+      "en": "full",
+      "vi": "đầy; no",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, your basket is full!",
+          "vi": "Wow, giỏ của con đầy rồi!"
+        },
+        {
+          "en": "Are you full?",
+          "vi": "Con no chưa?"
+        },
+        {
+          "en": "Fill the cup, but not too full.",
+          "vi": "Rót nước vô ly, đừng đầy quá nha."
+        },
+        {
+          "en": "The bus is really full today.",
+          "vi": "Hôm nay xe buýt đông nghẹt."
+        },
+        {
+          "en": "I'm full!",
+          "vi": "Con no rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-008",
+      "en": "empty",
+      "vi": "trống, rỗng",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, the box is empty!",
+          "vi": "Ui, cái hộp trống trơn!"
+        },
+        {
+          "en": "Is your cup empty?",
+          "vi": "Ly của con hết nước chưa?"
+        },
+        {
+          "en": "Put the empty bottles over here.",
+          "vi": "Để mấy cái chai rỗng ở đây nha."
+        },
+        {
+          "en": "Your plate is empty. Good job!",
+          "vi": "Dĩa con sạch trơn rồi. Giỏi quá!"
+        },
+        {
+          "en": "My cup is empty!",
+          "vi": "Ly của con hết rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-009",
+      "en": "fast",
+      "vi": "nhanh",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're so fast!",
+          "vi": "Wow, con chạy nhanh quá!"
+        },
+        {
+          "en": "Can you run fast?",
+          "vi": "Con chạy nhanh được không?"
+        },
+        {
+          "en": "Eat slowly, not so fast.",
+          "vi": "Ăn từ từ, đừng nhanh quá nha."
+        },
+        {
+          "en": "That car is going so fast.",
+          "vi": "Chiếc xe đó chạy nhanh ghê."
+        },
+        {
+          "en": "I'm super fast!",
+          "vi": "Con siêu nhanh luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-010",
+      "en": "slow",
+      "vi": "chậm",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a slow turtle!",
+          "vi": "Nhìn kìa, con rùa chậm chạp!"
+        },
+        {
+          "en": "Is the snail slow or fast?",
+          "vi": "Ốc sên chậm hay nhanh?"
+        },
+        {
+          "en": "Go slow on the stairs, please.",
+          "vi": "Xuống cầu thang chậm thôi nha con."
+        },
+        {
+          "en": "This line is so slow.",
+          "vi": "Hàng này đi chậm ghê."
+        },
+        {
+          "en": "I'm walking slow like a snail!",
+          "vi": "Con đi chậm như ốc sên nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-011",
+      "en": "wet",
+      "vi": "ướt",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, you're all wet!",
+          "vi": "Ôi, con ướt hết rồi!"
+        },
+        {
+          "en": "Is the grass wet?",
+          "vi": "Cỏ có ướt không?"
+        },
+        {
+          "en": "Take off your wet socks.",
+          "vi": "Cởi đôi vớ ướt ra nha con."
+        },
+        {
+          "en": "Your hair is still wet.",
+          "vi": "Tóc con còn ướt nè."
+        },
+        {
+          "en": "I got wet in the rain!",
+          "vi": "Con bị ướt mưa!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-012",
+      "en": "dry",
+      "vi": "khô",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "All dry now!",
+          "vi": "Khô hết rồi nè!"
+        },
+        {
+          "en": "Are your hands dry?",
+          "vi": "Tay con khô chưa?"
+        },
+        {
+          "en": "Dry your hands on the towel.",
+          "vi": "Lau tay vô khăn cho khô nha."
+        },
+        {
+          "en": "The paint isn't dry yet.",
+          "vi": "Sơn chưa khô đâu."
+        },
+        {
+          "en": "My shirt is dry now!",
+          "vi": "Áo con khô rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-013",
+      "en": "clean",
+      "vi": "sạch",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, nice and clean!",
+          "vi": "Yeah, sạch sẽ thơm tho!"
+        },
+        {
+          "en": "Are your hands clean?",
+          "vi": "Tay con sạch chưa?"
+        },
+        {
+          "en": "Let's get you clean.",
+          "vi": "Mình làm cho con sạch sẽ nha."
+        },
+        {
+          "en": "Your room looks so clean!",
+          "vi": "Phòng con sạch quá!"
+        },
+        {
+          "en": "I washed them. They're clean!",
+          "vi": "Con rửa rồi. Sạch rồi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-014",
+      "en": "dirty",
+      "vi": "dơ, bẩn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, your shoes are dirty!",
+          "vi": "Ui, giày con dơ rồi!"
+        },
+        {
+          "en": "Are your hands dirty?",
+          "vi": "Tay con dơ hả?"
+        },
+        {
+          "en": "Put your dirty clothes in the basket.",
+          "vi": "Bỏ đồ dơ vô giỏ nha."
+        },
+        {
+          "en": "That spoon fell. It's dirty now.",
+          "vi": "Cái muỗng rớt rồi. Dơ rồi đó."
+        },
+        {
+          "en": "My hands are dirty!",
+          "vi": "Tay con dơ!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-015",
+      "en": "loud",
+      "vi": "to, ồn",
+      "pos": "adjective",
+      "emoji": "🔊",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, that's loud!",
+          "vi": "Whoa, ồn quá!"
+        },
+        {
+          "en": "Is the music too loud?",
+          "vi": "Nhạc lớn quá hả con?"
+        },
+        {
+          "en": "Say it nice and loud!",
+          "vi": "Nói to rõ lên nào!"
+        },
+        {
+          "en": "The thunder was really loud.",
+          "vi": "Tiếng sấm lớn quá trời."
+        },
+        {
+          "en": "I can sing really loud!",
+          "vi": "Con hát to được lắm nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-016",
+      "en": "quiet",
+      "vi": "yên lặng, nhỏ tiếng",
+      "pos": "adjective",
+      "emoji": "🤫",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, it's so quiet in here.",
+          "vi": "Ồ, trong này yên tĩnh quá."
+        },
+        {
+          "en": "Can you be quiet like a mouse?",
+          "vi": "Con im lặng như con chuột được không?"
+        },
+        {
+          "en": "Use your quiet voice, please.",
+          "vi": "Nói nhỏ nhỏ thôi nha con."
+        },
+        {
+          "en": "The baby's sleeping, so we're quiet.",
+          "vi": "Em bé đang ngủ nên mình nói nhỏ thôi."
+        },
+        {
+          "en": "I'm being quiet!",
+          "vi": "Con đang im lặng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-017",
+      "en": "old",
+      "vi": "cũ; già",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, an old car!",
+          "vi": "Nhìn kìa, chiếc xe cũ!"
+        },
+        {
+          "en": "How old are you?",
+          "vi": "Con mấy tuổi rồi?"
+        },
+        {
+          "en": "Let's give your old toys away.",
+          "vi": "Mình đem cho đồ chơi cũ nha."
+        },
+        {
+          "en": "These shoes are too old now.",
+          "vi": "Đôi giày này cũ quá rồi."
+        },
+        {
+          "en": "This is my old teddy!",
+          "vi": "Đây là con gấu bông cũ của con!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-018",
+      "en": "new",
+      "vi": "mới",
+      "pos": "adjective",
+      "emoji": "🆕",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, new shoes!",
+          "vi": "Ồ, giày mới!"
+        },
+        {
+          "en": "Do you like your new bed?",
+          "vi": "Con thích cái giường mới không?"
+        },
+        {
+          "en": "Let's try something new today.",
+          "vi": "Hôm nay mình thử cái gì mới nha."
+        },
+        {
+          "en": "Your new backpack looks great.",
+          "vi": "Ba lô mới của con đẹp ghê."
+        },
+        {
+          "en": "I made a new friend!",
+          "vi": "Con có bạn mới!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-019",
+      "en": "long",
+      "vi": "dài",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a long train!",
+          "vi": "Wow, xe lửa dài quá!"
+        },
+        {
+          "en": "Is your hair getting long?",
+          "vi": "Tóc con dài ra rồi hả?"
+        },
+        {
+          "en": "Draw a long, long line.",
+          "vi": "Vẽ một đường thật dài nha."
+        },
+        {
+          "en": "That was a long day, huh?",
+          "vi": "Hôm nay dài ghê ha?"
+        },
+        {
+          "en": "My snake is so long!",
+          "vi": "Con rắn của con dài quá trời!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-020",
+      "en": "short",
+      "vi": "ngắn; thấp",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aww, a short little tail!",
+          "vi": "Aww, cái đuôi ngắn ngủn!",
+          "ipa": "/aww ə ʃɔɹt ˈlɪtəl teɪl/"
+        },
+        {
+          "en": "Do you want short sleeves today?",
+          "vi": "Hôm nay con mặc áo tay ngắn không?"
+        },
+        {
+          "en": "Let's read a short story.",
+          "vi": "Mình đọc truyện ngắn nha."
+        },
+        {
+          "en": "Your pants are too short now.",
+          "vi": "Quần con ngắn cũn rồi."
+        },
+        {
+          "en": "I got a short haircut!",
+          "vi": "Con mới cắt tóc ngắn!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-021",
+      "en": "high",
+      "vi": "cao",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you jumped so high!",
+          "vi": "Wow, con nhảy cao quá!"
+        },
+        {
+          "en": "Can you reach that high?",
+          "vi": "Con với tới cao vậy được không?"
+        },
+        {
+          "en": "Keep it up high, okay?",
+          "vi": "Để nó trên cao nha."
+        },
+        {
+          "en": "The kite is flying so high.",
+          "vi": "Con diều bay cao quá."
+        },
+        {
+          "en": "Push me higher!",
+          "vi": "Đẩy con cao hơn nữa đi!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-022",
+      "en": "low",
+      "vi": "thấp",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a low branch!",
+          "vi": "Ồ, cành cây thấp nè!"
+        },
+        {
+          "en": "Can you reach the low shelf?",
+          "vi": "Con với tới cái kệ thấp không?"
+        },
+        {
+          "en": "Crawl down low like a cat.",
+          "vi": "Bò thấp xuống như con mèo nè."
+        },
+        {
+          "en": "The table is nice and low.",
+          "vi": "Cái bàn thấp vừa vặn."
+        },
+        {
+          "en": "I'm down low!",
+          "vi": "Con ở dưới thấp nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-023",
+      "en": "soft",
+      "vi": "mềm",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, so soft!",
+          "vi": "Ồ, mềm quá!"
+        },
+        {
+          "en": "Is the pillow soft?",
+          "vi": "Cái gối có mềm không?"
+        },
+        {
+          "en": "Pet the kitty softly.",
+          "vi": "Vuốt mèo nhẹ nhàng nha."
+        },
+        {
+          "en": "Your blanket is so soft.",
+          "vi": "Cái mền của con mềm ghê."
+        },
+        {
+          "en": "My bunny is soft!",
+          "vi": "Con thỏ bông của con mềm lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-024",
+      "en": "hard",
+      "vi": "cứng",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ouch, the floor is hard!",
+          "vi": "Ui, sàn nhà cứng quá!"
+        },
+        {
+          "en": "Is the bread too hard?",
+          "vi": "Bánh mì cứng quá hả?"
+        },
+        {
+          "en": "Feel this rock. It's hard!",
+          "vi": "Sờ cục đá nè. Cứng lắm!"
+        },
+        {
+          "en": "Nuts have a hard shell.",
+          "vi": "Hạt có vỏ cứng."
+        },
+        {
+          "en": "This chair is too hard!",
+          "vi": "Ghế này cứng quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-025",
+      "en": "same",
+      "vi": "giống nhau",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, we're the same!",
+          "vi": "Nhìn nè, mình giống nhau!"
+        },
+        {
+          "en": "Are these the same?",
+          "vi": "Mấy cái này giống nhau không?"
+        },
+        {
+          "en": "Find two that are the same.",
+          "vi": "Tìm hai cái giống nhau nha."
+        },
+        {
+          "en": "Your shirts are the same color.",
+          "vi": "Áo hai đứa cùng màu."
+        },
+        {
+          "en": "I want the same one!",
+          "vi": "Con muốn cái giống vậy!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-026",
+      "en": "different",
+      "vi": "khác nhau",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, this one's different!",
+          "vi": "Ồ, cái này khác nè!"
+        },
+        {
+          "en": "What's different about them?",
+          "vi": "Hai cái khác nhau chỗ nào?"
+        },
+        {
+          "en": "Pick a different color this time.",
+          "vi": "Lần này chọn màu khác nha."
+        },
+        {
+          "en": "Everyone is different, and that's okay.",
+          "vi": "Mỗi người mỗi khác, vậy cũng tốt mà."
+        },
+        {
+          "en": "I want a different one!",
+          "vi": "Con muốn cái khác!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-027",
+      "en": "thick",
+      "vi": "dày",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, this book is thick!",
+          "vi": "Wow, cuốn sách này dày quá!"
+        },
+        {
+          "en": "Do you want a thick slice or a thin one?",
+          "vi": "Con muốn lát dày hay lát mỏng?"
+        },
+        {
+          "en": "Put on your thick socks, it's chilly.",
+          "vi": "Mang vớ dày vô nha, trời lạnh đó."
+        },
+        {
+          "en": "The mud is really thick and sticky.",
+          "vi": "Bùn đặc quánh và dính quá."
+        },
+        {
+          "en": "I want a thick pancake!",
+          "vi": "Con muốn bánh kếp dày!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-028",
+      "en": "thin",
+      "vi": "mỏng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look how thin this paper is!",
+          "vi": "Nhìn nè, giấy này mỏng ghê!"
+        },
+        {
+          "en": "Can you draw a thin line?",
+          "vi": "Con vẽ đường mảnh được không?"
+        },
+        {
+          "en": "Cut it into thin slices, please.",
+          "vi": "Cắt thành lát mỏng nha."
+        },
+        {
+          "en": "This blanket is too thin for winter.",
+          "vi": "Cái mền này mỏng quá, mùa lạnh không đủ ấm."
+        },
+        {
+          "en": "I like thin noodles better.",
+          "vi": "Con thích mì sợi nhỏ hơn."
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-029",
+      "en": "wide",
+      "vi": "rộng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the river is so wide!",
+          "vi": "Wow, con sông rộng quá!"
+        },
+        {
+          "en": "How wide can you open your arms?",
+          "vi": "Con dang tay rộng được cỡ nào?"
+        },
+        {
+          "en": "Open your mouth wide for the doctor.",
+          "vi": "Há miệng thật to cho bác sĩ khám nha."
+        },
+        {
+          "en": "This road is wide, with lots of cars.",
+          "vi": "Con đường này rộng, nhiều xe lắm."
+        },
+        {
+          "en": "I opened my eyes really wide!",
+          "vi": "Con mở mắt thật to!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-030",
+      "en": "narrow",
+      "vi": "hẹp",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, this path is narrow!",
+          "vi": "Whoa, con đường này hẹp quá!"
+        },
+        {
+          "en": "Can you fit through that narrow gap?",
+          "vi": "Con lách qua khe hẹp đó được không?"
+        },
+        {
+          "en": "Walk in a line. It's narrow here.",
+          "vi": "Đi thành hàng nha, chỗ này hẹp."
+        },
+        {
+          "en": "The bridge was narrow, so we went slowly.",
+          "vi": "Cây cầu hẹp nên mình đi chậm."
+        },
+        {
+          "en": "I squeezed through the narrow tunnel!",
+          "vi": "Con chui qua đường hầm hẹp!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-031",
+      "en": "deep",
+      "vi": "sâu",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that hole is deep!",
+          "vi": "Wow, cái hố sâu quá!"
+        },
+        {
+          "en": "Is the water deep here?",
+          "vi": "Nước chỗ này sâu không?"
+        },
+        {
+          "en": "Take a deep breath.",
+          "vi": "Hít một hơi thật sâu nào."
+        },
+        {
+          "en": "The ocean is very, very deep.",
+          "vi": "Biển sâu lắm lắm."
+        },
+        {
+          "en": "I dug a deep hole in the sand!",
+          "vi": "Con đào cái hố sâu trên cát!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-032",
+      "en": "shallow",
+      "vi": "cạn",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, nice shallow water!",
+          "vi": "Ồ, nước cạn nè!"
+        },
+        {
+          "en": "Do you want to stay in the shallow end?",
+          "vi": "Con muốn ở chỗ cạn không?"
+        },
+        {
+          "en": "Stay where it's shallow, okay?",
+          "vi": "Ở chỗ nước cạn thôi nha."
+        },
+        {
+          "en": "This puddle is nice and shallow.",
+          "vi": "Vũng nước này cạn thôi."
+        },
+        {
+          "en": "I can stand up in the shallow water!",
+          "vi": "Con đứng được ở chỗ nước cạn!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-033",
+      "en": "bright",
+      "vi": "sáng, chói; tươi (màu)",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the sun is so bright!",
+          "vi": "Wow, mặt trời chói quá!"
+        },
+        {
+          "en": "Is the light too bright?",
+          "vi": "Đèn sáng quá hả con?"
+        },
+        {
+          "en": "Pick a bright color!",
+          "vi": "Chọn màu tươi sáng nha!"
+        },
+        {
+          "en": "Your room is nice and bright.",
+          "vi": "Phòng con sáng sủa ghê."
+        },
+        {
+          "en": "My shoes are bright pink!",
+          "vi": "Giày con màu hồng tươi!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-034",
+      "en": "dark",
+      "vi": "tối",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, it's dark outside!",
+          "vi": "Ồ, ngoài trời tối rồi!"
+        },
+        {
+          "en": "Are you okay in the dark?",
+          "vi": "Ở chỗ tối con thấy ổn không?"
+        },
+        {
+          "en": "Let's turn on a light, it's dark.",
+          "vi": "Mình bật đèn nha, tối quá."
+        },
+        {
+          "en": "The sky gets dark at night.",
+          "vi": "Ban đêm trời tối."
+        },
+        {
+          "en": "It's too dark! I can't see!",
+          "vi": "Tối quá! Con không thấy gì hết!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-035",
+      "en": "tight",
+      "vi": "chặt, chật",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, that's tight!",
+          "vi": "Ồ, chật quá!"
+        },
+        {
+          "en": "Are your shoes too tight?",
+          "vi": "Giày con chật quá hả?"
+        },
+        {
+          "en": "Hold on tight!",
+          "vi": "Bám chặt nha!"
+        },
+        {
+          "en": "This jar lid is really tight.",
+          "vi": "Nắp hũ này chặt quá."
+        },
+        {
+          "en": "My pants are tight! I grew!",
+          "vi": "Quần con chật rồi! Con lớn rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-036",
+      "en": "loose",
+      "vi": "lỏng, rộng; lung lay",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, your shoelace is loose!",
+          "vi": "Ui, dây giày con lỏng rồi!"
+        },
+        {
+          "en": "Is your tooth loose?",
+          "vi": "Răng con lung lay hả?"
+        },
+        {
+          "en": "Make it a little loose, not too tight.",
+          "vi": "Cột lỏng chút thôi, đừng chặt quá."
+        },
+        {
+          "en": "These pants are too loose on you.",
+          "vi": "Cái quần này rộng quá với con."
+        },
+        {
+          "en": "My tooth is loose!",
+          "vi": "Răng con lung lay rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-037",
+      "en": "sharp",
+      "vi": "bén, nhọn",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Careful, that's sharp!",
+          "vi": "Cẩn thận, cái đó bén lắm!"
+        },
+        {
+          "en": "Is your pencil sharp?",
+          "vi": "Bút chì con nhọn chưa?"
+        },
+        {
+          "en": "Point sharp things down when you walk.",
+          "vi": "Đi thì chĩa đồ nhọn xuống dưới nha."
+        },
+        {
+          "en": "Cat claws are really sharp.",
+          "vi": "Móng mèo bén lắm."
+        },
+        {
+          "en": "I sharpened my pencil. It's sharp now!",
+          "vi": "Con chuốt bút chì rồi. Nhọn rồi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-038",
+      "en": "dull",
+      "vi": "cùn",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, this pencil is dull.",
+          "vi": "Ồ, bút chì này cùn rồi."
+        },
+        {
+          "en": "Are the scissors dull?",
+          "vi": "Cây kéo cùn rồi hả?"
+        },
+        {
+          "en": "Use this dull knife for the clay.",
+          "vi": "Dùng con dao cùn này cắt đất sét nha."
+        },
+        {
+          "en": "A dull pencil makes fat lines.",
+          "vi": "Bút chì cùn vẽ ra nét to."
+        },
+        {
+          "en": "My crayon is dull. It's all flat!",
+          "vi": "Cây sáp của con cùn rồi. Bằng hết trơn!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-039",
+      "en": "safe",
+      "vi": "an toàn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, safe at home!",
+          "vi": "Yeah, về nhà an toàn rồi!"
+        },
+        {
+          "en": "Is it safe to cross now?",
+          "vi": "Giờ qua đường an toàn chưa?"
+        },
+        {
+          "en": "Hold my hand to stay safe.",
+          "vi": "Nắm tay mình cho an toàn nha."
+        },
+        {
+          "en": "Car seats keep you safe.",
+          "vi": "Ghế ngồi ô tô giữ con an toàn."
+        },
+        {
+          "en": "I wear my helmet to be safe.",
+          "vi": "Con đội nón bảo hiểm cho an toàn."
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-040",
+      "en": "dangerous",
+      "vi": "nguy hiểm",
+      "pos": "adjective",
+      "emoji": "⚠️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Stop! That's dangerous!",
+          "vi": "Dừng lại! Nguy hiểm đó!"
+        },
+        {
+          "en": "Why is the stove dangerous?",
+          "vi": "Sao bếp lại nguy hiểm vậy con?"
+        },
+        {
+          "en": "Stay away from dangerous things like knives.",
+          "vi": "Tránh xa mấy thứ nguy hiểm như dao nha."
+        },
+        {
+          "en": "Running near the pool is dangerous because it's slippery.",
+          "vi": "Chạy gần hồ bơi nguy hiểm vì trơn lắm."
+        },
+        {
+          "en": "Playing with fire is dangerous!",
+          "vi": "Chơi với lửa nguy hiểm lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-041",
+      "en": "easy",
+      "vi": "dễ",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, that was easy!",
+          "vi": "Yeah, dễ ợt!"
+        },
+        {
+          "en": "Is this puzzle easy for you?",
+          "vi": "Bộ xếp hình này dễ với con không?"
+        },
+        {
+          "en": "Let's start with an easy one.",
+          "vi": "Mình bắt đầu với cái dễ nha."
+        },
+        {
+          "en": "Tying shoes isn't easy at first.",
+          "vi": "Lúc đầu cột dây giày không dễ đâu."
+        },
+        {
+          "en": "This is so easy!",
+          "vi": "Cái này dễ quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-042",
+      "en": "difficult",
+      "vi": "khó",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that's a difficult puzzle!",
+          "vi": "Wow, bộ xếp hình khó quá!"
+        },
+        {
+          "en": "Was it difficult to climb up there?",
+          "vi": "Leo lên đó có khó không con?"
+        },
+        {
+          "en": "Try the difficult part one more time.",
+          "vi": "Thử lại phần khó thêm một lần nha."
+        },
+        {
+          "en": "Learning something new can be difficult, and that's okay.",
+          "vi": "Học cái mới có thể khó, không sao hết."
+        },
+        {
+          "en": "This word was difficult, but I read it!",
+          "vi": "Chữ này khó, mà con đọc được rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-043",
+      "en": "good",
+      "vi": "tốt, ngon, ngoan",
+      "pos": "adjective",
+      "emoji": "👍",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, good idea!",
+          "vi": "Ồ, ý hay đó!"
+        },
+        {
+          "en": "Is it good?",
+          "vi": "Ngon không con?"
+        },
+        {
+          "en": "Be good for Grandma, okay?",
+          "vi": "Ở với bà ngoan nha con."
+        },
+        {
+          "en": "That smells so good!",
+          "vi": "Thơm quá!"
+        },
+        {
+          "en": "I was good today!",
+          "vi": "Hôm nay con ngoan nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-044",
+      "en": "bad",
+      "vi": "xấu, hư, tệ",
+      "pos": "adjective",
+      "emoji": "👎",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, the milk went bad!",
+          "vi": "Ôi, sữa hư rồi!"
+        },
+        {
+          "en": "Did you have a bad day?",
+          "vi": "Hôm nay con gặp chuyện không vui hả?"
+        },
+        {
+          "en": "Throw the bad apple away.",
+          "vi": "Bỏ trái táo hư đi nha."
+        },
+        {
+          "en": "Mistakes aren't bad. We learn!",
+          "vi": "Làm sai không có gì xấu. Mình học từ đó mà!"
+        },
+        {
+          "en": "I feel bad. I'm sorry.",
+          "vi": "Con thấy có lỗi. Con xin lỗi."
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-045",
+      "en": "strong",
+      "vi": "khỏe, mạnh",
+      "pos": "adjective",
+      "emoji": "💪",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're so strong!",
+          "vi": "Wow, con khỏe quá!"
+        },
+        {
+          "en": "Can you show me your strong arms?",
+          "vi": "Cho mình xem cánh tay khỏe của con nè?"
+        },
+        {
+          "en": "Eat your veggies to grow strong.",
+          "vi": "Ăn rau cho mau khỏe nha."
+        },
+        {
+          "en": "Ants are small but really strong.",
+          "vi": "Kiến nhỏ mà khỏe lắm."
+        },
+        {
+          "en": "Look, I'm strong!",
+          "vi": "Nhìn nè, con khỏe lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-046",
+      "en": "weak",
+      "vi": "yếu",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, my flashlight is getting weak.",
+          "vi": "Ồ, đèn pin yếu rồi."
+        },
+        {
+          "en": "Do your legs feel weak after running?",
+          "vi": "Chạy xong con thấy chân yếu không?"
+        },
+        {
+          "en": "Rest a bit if you feel weak.",
+          "vi": "Thấy người yếu thì nghỉ chút nha."
+        },
+        {
+          "en": "The baby bird is still weak.",
+          "vi": "Con chim non còn yếu lắm."
+        },
+        {
+          "en": "I felt weak when I was sick.",
+          "vi": "Hồi bị bệnh con thấy yếu lắm."
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-047",
+      "en": "smooth",
+      "vi": "láng, mịn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, so smooth!",
+          "vi": "Ồ, láng mịn quá!"
+        },
+        {
+          "en": "Is the stone smooth or bumpy?",
+          "vi": "Cục đá láng hay sần?"
+        },
+        {
+          "en": "Feel how smooth this is.",
+          "vi": "Sờ thử coi cái này láng ghê."
+        },
+        {
+          "en": "Your skin is so smooth.",
+          "vi": "Da con mịn ghê."
+        },
+        {
+          "en": "I found a smooth stone!",
+          "vi": "Con nhặt được cục đá láng!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-048",
+      "en": "rough",
+      "vi": "nhám, sần sùi",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ouch, this wood is rough!",
+          "vi": "Ui, miếng gỗ này nhám quá!"
+        },
+        {
+          "en": "Does the tree bark feel rough?",
+          "vi": "Vỏ cây sờ có nhám không?"
+        },
+        {
+          "en": "Rub your hand on the rough paper.",
+          "vi": "Lấy tay chà lên tờ giấy nhám thử coi."
+        },
+        {
+          "en": "A cat's tongue feels rough.",
+          "vi": "Lưỡi mèo sờ nhám nhám."
+        },
+        {
+          "en": "My hands got rough from playing in the sand.",
+          "vi": "Tay con bị nhám vì chơi cát."
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-049",
+      "en": "real",
+      "vi": "thật",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a real fire truck!",
+          "vi": "Wow, xe cứu hỏa thật nè!"
+        },
+        {
+          "en": "Is that real or pretend?",
+          "vi": "Cái đó thật hay giả bộ vậy?"
+        },
+        {
+          "en": "Use real words to tell me how you feel.",
+          "vi": "Nói bằng lời cho mình biết con thấy sao nha."
+        },
+        {
+          "en": "Dragons aren't real, but they're fun to draw.",
+          "vi": "Rồng không có thật, mà vẽ vui lắm."
+        },
+        {
+          "en": "I saw a real owl at the zoo!",
+          "vi": "Con thấy con cú thật ở sở thú!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-050",
+      "en": "fake",
+      "vi": "giả",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, it's a fake flower!",
+          "vi": "Ồ, bông hoa giả!"
+        },
+        {
+          "en": "Is that spider real or fake?",
+          "vi": "Con nhện đó thật hay giả vậy?"
+        },
+        {
+          "en": "Let's make fake snow with paper.",
+          "vi": "Mình làm tuyết giả bằng giấy nha."
+        },
+        {
+          "en": "The fake fruit looks so yummy.",
+          "vi": "Trái cây giả nhìn ngon ghê."
+        },
+        {
+          "en": "That's fake! It's just a toy!",
+          "vi": "Cái đó giả mà! Chỉ là đồ chơi thôi!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-051",
+      "en": "broken",
+      "vi": "bị hư, bị gãy",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, it's broken!",
+          "vi": "Ui, hư rồi!"
+        },
+        {
+          "en": "Is your toy broken?",
+          "vi": "Đồ chơi của con bị hư hả?"
+        },
+        {
+          "en": "Bring me the broken car.",
+          "vi": "Đưa mình chiếc xe bị hư nha."
+        },
+        {
+          "en": "The broken crayon still works.",
+          "vi": "Cây sáp gãy vẫn tô được mà."
+        },
+        {
+          "en": "My robot is broken!",
+          "vi": "Con robot của con bị hư rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-opposites-052",
+      "en": "fixed",
+      "vi": "sửa xong, hết hư",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, it's fixed!",
+          "vi": "Yeah, sửa xong rồi!"
+        },
+        {
+          "en": "Is the swing fixed yet?",
+          "vi": "Cái xích đu sửa xong chưa?"
+        },
+        {
+          "en": "Let's get it fixed together.",
+          "vi": "Mình cùng sửa nó nha."
+        },
+        {
+          "en": "Daddy fixed your bike.",
+          "vi": "Ba sửa xe đạp cho con rồi."
+        },
+        {
+          "en": "I fixed it myself!",
+          "vi": "Con tự sửa được rồi!"
+        }
+      ]
+    }
+  ]
+}

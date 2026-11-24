@@ -1,19 +1,21 @@
 import { useSuspenseQuery } from '@tanstack/react-query'
 import { createFileRoute, Link } from '@tanstack/react-router'
-import { Clock, Flame, Search } from 'lucide-react'
+import { Clock, Search } from 'lucide-react'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Avatar } from '../components/Avatar'
-import { ProgressBar } from '../components/Layout'
-import { OfflineSuggestion, OfflineTag } from '../components/OfflineStatus'
-import { PhraseCard } from '../components/PhraseCard'
-import { InstallHint } from '../components/PwaPrompts'
-import { TopicIcon } from '../components/TopicIcon'
-import { useTopics } from '../hooks/useContent'
-import { useActiveProfile, useAgeFilter, useFavorites, useProgressMap, useStreak } from '../hooks/useProfile'
-import { contentIndexQuery, type TopicSummary } from '../lib/content'
-import { useSettings } from '../lib/settings'
-import { dailyPicks, suggestNow } from '../lib/suggestions'
+import { Avatar } from '@/features/profile/Avatar'
+import { ProgressBar } from '@/shared/ui/Layout'
+import { OfflineSuggestion, OfflineTag } from '@/features/offline/OfflineStatus'
+import { PhraseCard } from '@/features/content/PhraseCard'
+import { PhraseLegend } from '@/features/content/PhraseLegend'
+import { InstallHint } from '@/features/pwa/PwaPrompts'
+import { TopicIcon } from '@/shared/ui/TopicIcon'
+import { useTopics } from '@/features/content/useContent'
+import { useActiveProfile, useAgeFilter, useFavorites, useProgressMap } from '@/features/profile/useProfile'
+import { TodayCard } from '@/features/profile/TodayCard'
+import { contentIndexQuery, type TopicSummary } from '@/features/content/content'
+import { useSettings } from '@/shared/settings'
+import { dailyPicks, suggestNow } from '@/features/content/suggestions'
 
 export const Route = createFileRoute('/')({
   loader: ({ context }) => context.queryClient.ensureQueryData(contentIndexQuery),
@@ -28,7 +30,6 @@ function Home() {
   const progress = useProgressMap()
   const favIds = new Set(useFavorites().map((f) => f.phraseId))
   const { band, showAll, fits } = useAgeFilter()
-  const streak = useStreak()
   const topics = data.topics.filter((tp) => fits(tp.ages))
   const idsFor = (tp: TopicSummary) => (showAll ? tp.phraseIds : tp.phrasesByAge[band])
 
@@ -57,9 +58,6 @@ function Home() {
               <Link to="/progress" className="rounded-full bg-leaf-100 px-2.5 py-0.5 text-xs font-semibold text-leaf-700">
                 {showAll ? t('age.showAll') : t(`age.band.${band}`)}
               </Link>
-              <Link to="/avatar" className="flex items-center gap-1 rounded-full bg-peach/15 px-2.5 py-0.5 text-xs font-semibold text-peach">
-                <Flame size={14} /> {t('streak.chip', { count: streak.current })}
-              </Link>
             </span>
           </div>
         </div>
@@ -70,6 +68,7 @@ function Home() {
       </header>
 
       <main className="space-y-5 px-4 pt-2">
+        <TodayCard topics={topics} fallback={suggested[0]} />
         <InstallHint />
         <OfflineSuggestion />
 
@@ -94,6 +93,7 @@ function Home() {
           {picks.length > 0 && (
             <div className="space-y-3">
               <h3 className="font-bold">{t('home.todayPicks', { period: t(`home.period.${period}`) })}</h3>
+              <PhraseLegend />
               {picks.map(({ phrase, topicId }) => (
                 <PhraseCard key={phrase.id} phrase={phrase} topicId={topicId} progress={progress.get(phrase.id)} favorite={favIds.has(phrase.id)} />
               ))}

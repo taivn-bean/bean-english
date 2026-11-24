@@ -1,0 +1,1707 @@
+{
+  "deckId": "v-music-art",
+  "words": [
+    {
+      "id": "v-music-art-001",
+      "en": "music",
+      "vi": "âm nhạc, nhạc",
+      "pos": "noun",
+      "emoji": "🎵",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Listen! I hear music!",
+          "vi": "Nghe nè! Có tiếng nhạc!"
+        },
+        {
+          "en": "Do you want some music?",
+          "vi": "Con muốn nghe nhạc không?"
+        },
+        {
+          "en": "Let's dance to the music!",
+          "vi": "Mình nhảy theo nhạc đi!"
+        },
+        {
+          "en": "This music makes me happy.",
+          "vi": "Nhạc này nghe vui ghê."
+        },
+        {
+          "en": "Turn the music up, please!",
+          "vi": "Mở nhạc to lên nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-002",
+      "en": "song",
+      "vi": "bài hát",
+      "pos": "noun",
+      "emoji": "🎶",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, I love this song!",
+          "vi": "Ồ, mình thích bài này lắm!"
+        },
+        {
+          "en": "What song do you want?",
+          "vi": "Con muốn nghe bài gì?"
+        },
+        {
+          "en": "Let's sing a song together.",
+          "vi": "Mình cùng hát một bài nha."
+        },
+        {
+          "en": "That song is so catchy.",
+          "vi": "Bài đó nghe là nhớ liền."
+        },
+        {
+          "en": "Play my song again!",
+          "vi": "Mở lại bài của con đi!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-003",
+      "en": "sing",
+      "vi": "hát",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you sing so well!",
+          "vi": "Oa, con hát hay quá!"
+        },
+        {
+          "en": "Can you sing it for me?",
+          "vi": "Con hát cho mình nghe nha?"
+        },
+        {
+          "en": "Let's sing the bath song!",
+          "vi": "Mình hát bài đi tắm nha!"
+        },
+        {
+          "en": "I love it when you sing.",
+          "vi": "Mình thích nghe con hát lắm."
+        },
+        {
+          "en": "I sang a song at school!",
+          "vi": "Con hát một bài ở trường!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-004",
+      "en": "dance",
+      "vi": "nhảy, múa",
+      "pos": "verb",
+      "emoji": "💃",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at you dance!",
+          "vi": "Coi con nhảy kìa!"
+        },
+        {
+          "en": "Do you want to dance with me?",
+          "vi": "Con muốn nhảy với mình không?"
+        },
+        {
+          "en": "Let's dance in the kitchen!",
+          "vi": "Mình nhảy trong bếp đi!"
+        },
+        {
+          "en": "You're a great dancer!",
+          "vi": "Con nhảy đẹp quá!"
+        },
+        {
+          "en": "Watch me dance, Mommy!",
+          "vi": "Mẹ coi con nhảy nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-005",
+      "en": "drum",
+      "vi": "cái trống",
+      "pos": "noun",
+      "emoji": "🥁",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Boom, boom! A big drum!",
+          "vi": "Bùm bùm! Cái trống bự nè!"
+        },
+        {
+          "en": "Can you play the drum?",
+          "vi": "Con đánh trống được không?"
+        },
+        {
+          "en": "Tap the drum softly now.",
+          "vi": "Giờ gõ trống nhẹ nhẹ thôi."
+        },
+        {
+          "en": "That drum is really loud!",
+          "vi": "Cái trống đó kêu to ghê!"
+        },
+        {
+          "en": "I'm playing my drum!",
+          "vi": "Con đang đánh trống!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-006",
+      "en": "piano",
+      "vi": "đàn piano",
+      "pos": "noun",
+      "emoji": "🎹",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Listen, someone's playing the piano!",
+          "vi": "Nghe kìa, ai đang đánh đàn piano!"
+        },
+        {
+          "en": "Do you want to try the piano?",
+          "vi": "Con muốn thử đánh piano không?"
+        },
+        {
+          "en": "Press the piano keys gently.",
+          "vi": "Bấm phím đàn nhẹ nhẹ thôi."
+        },
+        {
+          "en": "The piano sounds so pretty.",
+          "vi": "Tiếng đàn piano hay quá."
+        },
+        {
+          "en": "I have piano lessons on Tuesday.",
+          "vi": "Thứ Ba con học đàn piano."
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-007",
+      "en": "guitar",
+      "vi": "đàn ghi-ta",
+      "pos": "noun",
+      "emoji": "🎸",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Strum, strum! Look, a guitar!",
+          "vi": "Tưng tưng! Nhìn nè, cây đàn ghi-ta!"
+        },
+        {
+          "en": "Who's playing the guitar?",
+          "vi": "Ai đang đánh đàn ghi-ta vậy?"
+        },
+        {
+          "en": "Gently touch the guitar strings.",
+          "vi": "Chạm nhẹ dây đàn thôi nha."
+        },
+        {
+          "en": "The guitar sounds really nice.",
+          "vi": "Đàn ghi-ta nghe êm ghê."
+        },
+        {
+          "en": "I want to learn the guitar!",
+          "vi": "Con muốn học đàn ghi-ta!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-008",
+      "en": "violin",
+      "vi": "đàn vi-ô-lông",
+      "pos": "noun",
+      "emoji": "🎻",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Listen to that beautiful violin!",
+          "vi": "Nghe tiếng vi-ô-lông hay chưa!"
+        },
+        {
+          "en": "Do you know how to hold a violin?",
+          "vi": "Con biết cầm đàn vi-ô-lông không?"
+        },
+        {
+          "en": "Put the violin under your chin.",
+          "vi": "Kẹp đàn dưới cằm nha con."
+        },
+        {
+          "en": "The violin can sound happy or sad.",
+          "vi": "Tiếng vi-ô-lông lúc vui lúc buồn."
+        },
+        {
+          "en": "I played a short song on the violin!",
+          "vi": "Con đàn được một bài ngắn bằng vi-ô-lông!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-009",
+      "en": "trumpet",
+      "vi": "kèn trumpet",
+      "pos": "noun",
+      "emoji": "🎺",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Toot toot! There's the trumpet!",
+          "vi": "Tò te! Tiếng kèn kìa!"
+        },
+        {
+          "en": "How do you play a trumpet?",
+          "vi": "Thổi kèn trumpet sao ta?"
+        },
+        {
+          "en": "Blow into the trumpet like this.",
+          "vi": "Thổi vô kèn như vầy nè."
+        },
+        {
+          "en": "The trumpet is super loud and shiny.",
+          "vi": "Kèn trumpet kêu to mà sáng bóng."
+        },
+        {
+          "en": "The trumpet player at the parade was amazing!",
+          "vi": "Chú thổi kèn ở buổi diễu hành giỏi ghê!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-010",
+      "en": "flute",
+      "vi": "cây sáo",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Listen, a flute! It sounds like a bird.",
+          "vi": "Nghe nè, tiếng sáo! Giống tiếng chim ghê."
+        },
+        {
+          "en": "Is it hard to play the flute?",
+          "vi": "Thổi sáo có khó không ta?"
+        },
+        {
+          "en": "Blow softly into the flute.",
+          "vi": "Thổi nhẹ vô sáo nha."
+        },
+        {
+          "en": "The flute has such a sweet sound.",
+          "vi": "Tiếng sáo nghe ngọt ngào ghê."
+        },
+        {
+          "en": "I'm learning the flute at school.",
+          "vi": "Con đang học thổi sáo ở trường."
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-011",
+      "en": "xylophone",
+      "vi": "đàn gõ, đàn mộc cầm",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Ding, ding! The xylophone!",
+          "vi": "Đinh đinh! Đàn gõ nè!"
+        },
+        {
+          "en": "Can you play the xylophone?",
+          "vi": "Con gõ đàn được không?"
+        },
+        {
+          "en": "Tap the xylophone with this stick.",
+          "vi": "Lấy que này gõ đàn nè."
+        },
+        {
+          "en": "The xylophone has so many colors.",
+          "vi": "Cây đàn gõ nhiều màu ghê."
+        },
+        {
+          "en": "Listen to my xylophone!",
+          "vi": "Nghe con gõ đàn nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-012",
+      "en": "tambourine",
+      "vi": "trống lắc tay",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Shake, shake! A tambourine!",
+          "vi": "Lắc lắc! Trống lắc nè!"
+        },
+        {
+          "en": "Can you shake the tambourine?",
+          "vi": "Con lắc trống được không?"
+        },
+        {
+          "en": "Hit the tambourine on your hand.",
+          "vi": "Vỗ trống lắc vô tay đi con."
+        },
+        {
+          "en": "The tambourine jingles so nicely.",
+          "vi": "Trống lắc kêu leng keng vui ghê."
+        },
+        {
+          "en": "I'll play the tambourine!",
+          "vi": "Con chơi trống lắc cho!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-013",
+      "en": "maracas",
+      "vi": "cặp lục lạc",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Shake the maracas!",
+          "vi": "Lắc lục lạc đi!"
+        },
+        {
+          "en": "Where are the maracas?",
+          "vi": "Cặp lục lạc đâu rồi?"
+        },
+        {
+          "en": "Let's shake the maracas fast, then slow.",
+          "vi": "Lắc nhanh rồi lắc chậm nha."
+        },
+        {
+          "en": "The maracas sound like rain.",
+          "vi": "Lục lạc kêu giống tiếng mưa."
+        },
+        {
+          "en": "I shake the maracas!",
+          "vi": "Con lắc lục lạc nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-014",
+      "en": "microphone",
+      "vi": "cái micro",
+      "pos": "noun",
+      "emoji": "🎤",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the microphone, superstar!",
+          "vi": "Micro nè, ngôi sao ơi!"
+        },
+        {
+          "en": "Do you want the microphone?",
+          "vi": "Con muốn cầm micro không?"
+        },
+        {
+          "en": "Hold the microphone close to your mouth.",
+          "vi": "Cầm micro gần miệng nha."
+        },
+        {
+          "en": "Your voice is loud with the microphone.",
+          "vi": "Có micro tiếng con to ghê."
+        },
+        {
+          "en": "My turn with the microphone!",
+          "vi": "Tới lượt con cầm micro!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-015",
+      "en": "band",
+      "vi": "ban nhạc",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a band is playing!",
+          "vi": "Nhìn kìa, có ban nhạc đang chơi!"
+        },
+        {
+          "en": "What instruments are in the band?",
+          "vi": "Ban nhạc có những nhạc cụ gì?"
+        },
+        {
+          "en": "Let's start a family band!",
+          "vi": "Cả nhà mình lập ban nhạc đi!"
+        },
+        {
+          "en": "That band is really good.",
+          "vi": "Ban nhạc đó chơi hay ghê."
+        },
+        {
+          "en": "I want to play drums in a band someday.",
+          "vi": "Sau này con muốn đánh trống trong ban nhạc."
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-016",
+      "en": "concert",
+      "vi": "buổi hòa nhạc, buổi biểu diễn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the concert is starting!",
+          "vi": "Oa, buổi biểu diễn bắt đầu rồi!"
+        },
+        {
+          "en": "Did you like the concert?",
+          "vi": "Con thích buổi biểu diễn không?"
+        },
+        {
+          "en": "Let's sit quietly during the concert.",
+          "vi": "Mình ngồi im lặng trong buổi biểu diễn nha."
+        },
+        {
+          "en": "The school concert was so lovely.",
+          "vi": "Buổi văn nghệ ở trường hay quá."
+        },
+        {
+          "en": "I'm singing in the concert next week!",
+          "vi": "Tuần sau con hát trong buổi biểu diễn!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-017",
+      "en": "bell",
+      "vi": "cái chuông",
+      "pos": "noun",
+      "emoji": "🔔",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ding-dong! Hear the bell?",
+          "vi": "Đinh đong! Nghe tiếng chuông không?"
+        },
+        {
+          "en": "Can you ring the bell?",
+          "vi": "Con rung chuông được không?"
+        },
+        {
+          "en": "Ring the little bell softly.",
+          "vi": "Rung cái chuông nhỏ nhẹ nhẹ thôi."
+        },
+        {
+          "en": "That bell sounds so pretty.",
+          "vi": "Tiếng chuông nghe hay ghê."
+        },
+        {
+          "en": "I rang the bell!",
+          "vi": "Con rung chuông rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-018",
+      "en": "recorder",
+      "vi": "sáo dọc (recorder)",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, you got a recorder!",
+          "vi": "Ồ, con có sáo dọc rồi!"
+        },
+        {
+          "en": "What song can you play on the recorder?",
+          "vi": "Con thổi được bài gì bằng sáo dọc?"
+        },
+        {
+          "en": "Cover the holes on your recorder.",
+          "vi": "Bịt mấy cái lỗ trên sáo lại nha."
+        },
+        {
+          "en": "The recorder is easy to start with.",
+          "vi": "Sáo dọc mới học dễ lắm."
+        },
+        {
+          "en": "We're learning recorder in music class.",
+          "vi": "Tụi con đang học sáo dọc ở giờ âm nhạc."
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-019",
+      "en": "ukulele",
+      "vi": "đàn ukulele",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tiny guitar! It's a ukulele!",
+          "vi": "Nhìn nè, đàn ghi-ta nhỏ xíu! Đàn ukulele đó!"
+        },
+        {
+          "en": "Do you want to strum the ukulele?",
+          "vi": "Con muốn gảy đàn ukulele không?"
+        },
+        {
+          "en": "Hold the ukulele like a baby guitar.",
+          "vi": "Ôm đàn ukulele như cây ghi-ta nhỏ."
+        },
+        {
+          "en": "The ukulele has only four strings.",
+          "vi": "Đàn ukulele chỉ có bốn dây."
+        },
+        {
+          "en": "I can play two chords on the ukulele!",
+          "vi": "Con đánh được hai hợp âm ukulele rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-020",
+      "en": "instrument",
+      "vi": "nhạc cụ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, so many instruments!",
+          "vi": "Oa, nhiều nhạc cụ quá!"
+        },
+        {
+          "en": "Which instrument do you like best?",
+          "vi": "Con thích nhạc cụ nào nhất?"
+        },
+        {
+          "en": "Pick an instrument and let's play!",
+          "vi": "Chọn một nhạc cụ rồi mình chơi nha!"
+        },
+        {
+          "en": "Every instrument makes a different sound.",
+          "vi": "Mỗi nhạc cụ có tiếng khác nhau."
+        },
+        {
+          "en": "I want to learn an instrument next year.",
+          "vi": "Năm sau con muốn học một nhạc cụ."
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-021",
+      "en": "lullaby",
+      "vi": "bài hát ru",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Shh, it's lullaby time.",
+          "vi": "Suỵt, tới giờ hát ru rồi."
+        },
+        {
+          "en": "Which lullaby do you want?",
+          "vi": "Con muốn nghe bài ru nào?"
+        },
+        {
+          "en": "Close your eyes for the lullaby.",
+          "vi": "Nhắm mắt nghe hát ru nha."
+        },
+        {
+          "en": "This lullaby is so soft.",
+          "vi": "Bài ru này êm quá."
+        },
+        {
+          "en": "Sing me a lullaby, please.",
+          "vi": "Hát ru con đi."
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-022",
+      "en": "nursery rhyme",
+      "vi": "bài đồng dao, bài vè",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oh, I know this nursery rhyme!",
+          "vi": "Ồ, bài đồng dao này mình biết nè!"
+        },
+        {
+          "en": "What's your favorite nursery rhyme?",
+          "vi": "Con thích bài đồng dao nào nhất?"
+        },
+        {
+          "en": "Let's say a nursery rhyme together.",
+          "vi": "Mình cùng đọc một bài đồng dao nha."
+        },
+        {
+          "en": "This nursery rhyme is so silly!",
+          "vi": "Bài đồng dao này ngộ ghê!"
+        },
+        {
+          "en": "I learned a new nursery rhyme!",
+          "vi": "Con mới học bài đồng dao mới!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-023",
+      "en": "sing-along",
+      "vi": "hát theo",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Sing-along time!",
+          "vi": "Tới giờ hát theo rồi!"
+        },
+        {
+          "en": "Do you want a sing-along song?",
+          "vi": "Con muốn bài để hát theo không?"
+        },
+        {
+          "en": "Let's have a sing-along in the car.",
+          "vi": "Mình hát theo trên xe nha."
+        },
+        {
+          "en": "That sing-along was so fun.",
+          "vi": "Hát theo vui ghê."
+        },
+        {
+          "en": "I love sing-along songs!",
+          "vi": "Con thích mấy bài hát theo lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-024",
+      "en": "karaoke",
+      "vi": "karaoke",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Karaoke night! Who's first?",
+          "vi": "Tối nay hát karaoke! Ai hát trước?"
+        },
+        {
+          "en": "What song do you want for karaoke?",
+          "vi": "Con muốn hát bài gì karaoke?"
+        },
+        {
+          "en": "Read the words on the karaoke screen.",
+          "vi": "Đọc lời trên màn hình karaoke nha."
+        },
+        {
+          "en": "Karaoke is so fun with family.",
+          "vi": "Hát karaoke với cả nhà vui ghê."
+        },
+        {
+          "en": "I got a high score at karaoke!",
+          "vi": "Con hát karaoke được điểm cao!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-025",
+      "en": "dance party",
+      "vi": "bữa tiệc nhảy",
+      "pos": "noun",
+      "emoji": "🪩",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Dance party in the living room!",
+          "vi": "Tiệc nhảy ngay phòng khách nè!"
+        },
+        {
+          "en": "Who wants a dance party?",
+          "vi": "Ai muốn tiệc nhảy nào?"
+        },
+        {
+          "en": "Turn on music for a dance party!",
+          "vi": "Mở nhạc lên quẩy nào!"
+        },
+        {
+          "en": "That dance party was so silly.",
+          "vi": "Tiệc nhảy hồi nãy vui ghê."
+        },
+        {
+          "en": "Can we have a dance party?",
+          "vi": "Mình mở tiệc nhảy được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-026",
+      "en": "ballet",
+      "vi": "múa ba-lê",
+      "pos": "noun",
+      "emoji": "🩰",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, pretty ballet shoes!",
+          "vi": "Ồ, giày múa ba-lê đẹp quá!"
+        },
+        {
+          "en": "Do you want to try ballet?",
+          "vi": "Con muốn thử múa ba-lê không?"
+        },
+        {
+          "en": "Stand on your toes like in ballet.",
+          "vi": "Nhón chân lên như múa ba-lê nè."
+        },
+        {
+          "en": "Ballet dancers are so graceful.",
+          "vi": "Người múa ba-lê uyển chuyển ghê."
+        },
+        {
+          "en": "I spin like a ballet dancer!",
+          "vi": "Con xoay như múa ba-lê nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-027",
+      "en": "stage",
+      "vi": "sân khấu",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's the stage!",
+          "vi": "Nhìn kìa, sân khấu kìa!"
+        },
+        {
+          "en": "Are you nervous to go on stage?",
+          "vi": "Lên sân khấu con có hồi hộp không?"
+        },
+        {
+          "en": "Walk up on the stage slowly.",
+          "vi": "Đi lên sân khấu từ từ nha."
+        },
+        {
+          "en": "You looked so brave on stage.",
+          "vi": "Con đứng trên sân khấu dũng cảm lắm."
+        },
+        {
+          "en": "I danced on the stage!",
+          "vi": "Con nhảy trên sân khấu!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-028",
+      "en": "audience",
+      "vi": "khán giả",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at the big audience!",
+          "vi": "Oa, khán giả đông quá!"
+        },
+        {
+          "en": "Can you see me in the audience?",
+          "vi": "Con thấy mình ngồi dưới khán giả không?"
+        },
+        {
+          "en": "Smile and wave at the audience!",
+          "vi": "Cười rồi vẫy tay chào khán giả nha!"
+        },
+        {
+          "en": "The audience loved your song.",
+          "vi": "Khán giả thích bài con hát lắm."
+        },
+        {
+          "en": "The audience clapped really loud for us!",
+          "vi": "Khán giả vỗ tay rất to cho tụi con!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-029",
+      "en": "talent show",
+      "vi": "buổi trình diễn tài năng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Welcome to our family talent show!",
+          "vi": "Chào mừng tới buổi trình diễn tài năng của nhà mình!"
+        },
+        {
+          "en": "What will you do for the talent show?",
+          "vi": "Con sẽ diễn gì trong buổi tài năng?"
+        },
+        {
+          "en": "Let's practice for the talent show.",
+          "vi": "Mình tập cho buổi trình diễn tài năng nha."
+        },
+        {
+          "en": "The talent show was so much fun.",
+          "vi": "Buổi trình diễn tài năng vui quá."
+        },
+        {
+          "en": "I'm going to do magic tricks at the talent show!",
+          "vi": "Con sẽ làm ảo thuật ở buổi trình diễn!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-030",
+      "en": "beat",
+      "vi": "nhịp",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Listen to that beat!",
+          "vi": "Nghe nhịp đó nè!"
+        },
+        {
+          "en": "Can you clap to the beat?",
+          "vi": "Con vỗ tay theo nhịp được không?"
+        },
+        {
+          "en": "Stomp your feet to the beat.",
+          "vi": "Dậm chân theo nhịp đi con."
+        },
+        {
+          "en": "This song has a really fast beat.",
+          "vi": "Bài này nhịp nhanh ghê."
+        },
+        {
+          "en": "I can feel the beat in my tummy!",
+          "vi": "Con thấy nhịp rung trong bụng luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-031",
+      "en": "music box",
+      "vi": "hộp nhạc",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Listen, the music box is playing!",
+          "vi": "Nghe nè, hộp nhạc đang phát nhạc!"
+        },
+        {
+          "en": "Can you open the music box?",
+          "vi": "Con mở hộp nhạc được không?"
+        },
+        {
+          "en": "Turn the handle on the music box.",
+          "vi": "Vặn tay cầm hộp nhạc đi con."
+        },
+        {
+          "en": "The music box sounds so sweet.",
+          "vi": "Hộp nhạc nghe ngọt ngào ghê."
+        },
+        {
+          "en": "The music box helps me sleep.",
+          "vi": "Hộp nhạc giúp con dễ ngủ."
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-032",
+      "en": "art",
+      "vi": "mỹ thuật, nghệ thuật",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, art time!",
+          "vi": "Ồ, tới giờ vẽ rồi!"
+        },
+        {
+          "en": "What did you make in art?",
+          "vi": "Giờ mỹ thuật con làm gì?"
+        },
+        {
+          "en": "Let's hang your art on the fridge.",
+          "vi": "Mình dán tranh của con lên tủ lạnh nha."
+        },
+        {
+          "en": "Your art is so colorful!",
+          "vi": "Tranh của con nhiều màu quá!"
+        },
+        {
+          "en": "Art is my favorite class!",
+          "vi": "Con thích giờ mỹ thuật nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-033",
+      "en": "paint",
+      "vi": "màu vẽ, sơn",
+      "pos": "noun",
+      "emoji": "🎨",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at all the paint!",
+          "vi": "Nhìn nhiều màu vẽ chưa!"
+        },
+        {
+          "en": "What color paint do you want?",
+          "vi": "Con muốn màu vẽ nào?"
+        },
+        {
+          "en": "Wear old clothes when you paint.",
+          "vi": "Mặc đồ cũ khi vẽ màu nha."
+        },
+        {
+          "en": "Oops, there's paint on your nose!",
+          "vi": "Úi, mũi con dính màu rồi!"
+        },
+        {
+          "en": "I want to paint a big sun!",
+          "vi": "Con muốn vẽ ông mặt trời bự!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-034",
+      "en": "paintbrush",
+      "vi": "cây cọ vẽ",
+      "pos": "noun",
+      "emoji": "🖌️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your paintbrush!",
+          "vi": "Cọ vẽ của con nè!"
+        },
+        {
+          "en": "Which paintbrush do you need?",
+          "vi": "Con cần cây cọ nào?"
+        },
+        {
+          "en": "Wash your paintbrush in the water.",
+          "vi": "Rửa cọ trong ly nước nha."
+        },
+        {
+          "en": "This paintbrush is nice and soft.",
+          "vi": "Cây cọ này mềm ghê."
+        },
+        {
+          "en": "I need a bigger paintbrush!",
+          "vi": "Con cần cây cọ bự hơn!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-035",
+      "en": "crayon",
+      "vi": "cây bút sáp",
+      "pos": "noun",
+      "emoji": "🖍️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a box of crayons!",
+          "vi": "Ồ, hộp bút sáp nè!"
+        },
+        {
+          "en": "Which crayon do you want?",
+          "vi": "Con muốn cây sáp màu nào?"
+        },
+        {
+          "en": "Color on the paper with your crayon.",
+          "vi": "Tô lên giấy bằng bút sáp nha."
+        },
+        {
+          "en": "Uh-oh, the crayon broke.",
+          "vi": "Ui, cây bút sáp gãy rồi."
+        },
+        {
+          "en": "I need the red crayon!",
+          "vi": "Con cần cây sáp màu đỏ!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-036",
+      "en": "colored pencil",
+      "vi": "bút chì màu",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at these colored pencils!",
+          "vi": "Nhìn mấy cây bút chì màu nè!"
+        },
+        {
+          "en": "Can I borrow a colored pencil?",
+          "vi": "Cho mình mượn cây bút chì màu nha?"
+        },
+        {
+          "en": "Sharpen your colored pencil first.",
+          "vi": "Chuốt bút chì màu trước đã."
+        },
+        {
+          "en": "Colored pencils are great for tiny details.",
+          "vi": "Bút chì màu tô chi tiết nhỏ đẹp lắm."
+        },
+        {
+          "en": "I used every colored pencil!",
+          "vi": "Con xài hết mấy cây bút chì màu!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-037",
+      "en": "sculpture",
+      "vi": "tác phẩm điêu khắc, tượng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, look at that giant sculpture!",
+          "vi": "Oa, nhìn bức tượng khổng lồ kìa!"
+        },
+        {
+          "en": "What is your sculpture going to be?",
+          "vi": "Tác phẩm điêu khắc của con sẽ là gì?"
+        },
+        {
+          "en": "Let's make a sculpture out of clay.",
+          "vi": "Mình nặn một bức tượng bằng đất sét nha."
+        },
+        {
+          "en": "This sculpture looks different from every side.",
+          "vi": "Bức tượng này nhìn mỗi phía mỗi khác."
+        },
+        {
+          "en": "I made a sculpture of our cat in art class!",
+          "vi": "Giờ mỹ thuật con nặn tượng con mèo nhà mình!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-038",
+      "en": "drawing",
+      "vi": "bức vẽ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a cool drawing!",
+          "vi": "Oa, bức vẽ đẹp quá!"
+        },
+        {
+          "en": "Can you tell me about your drawing?",
+          "vi": "Kể mình nghe về bức vẽ đi?"
+        },
+        {
+          "en": "Sign your name on your drawing.",
+          "vi": "Ký tên lên bức vẽ đi con."
+        },
+        {
+          "en": "I love the colors in your drawing.",
+          "vi": "Mình thích màu trong tranh của con."
+        },
+        {
+          "en": "I made a drawing for you!",
+          "vi": "Con vẽ tặng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-039",
+      "en": "painting",
+      "vi": "bức tranh vẽ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a beautiful painting!",
+          "vi": "Bức tranh đẹp quá!"
+        },
+        {
+          "en": "What's in your painting?",
+          "vi": "Tranh của con vẽ gì vậy?"
+        },
+        {
+          "en": "Let's hang your painting up to dry.",
+          "vi": "Mình treo tranh lên cho khô nha."
+        },
+        {
+          "en": "This painting makes me smile.",
+          "vi": "Bức tranh này làm mình vui."
+        },
+        {
+          "en": "Look at my painting!",
+          "vi": "Coi tranh con vẽ nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-040",
+      "en": "clay",
+      "vi": "đất sét",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, soft clay!",
+          "vi": "Ồ, đất sét mềm nè!"
+        },
+        {
+          "en": "What should we make with clay?",
+          "vi": "Mình nặn gì bằng đất sét ta?"
+        },
+        {
+          "en": "Squeeze the clay into a ball.",
+          "vi": "Bóp đất sét thành viên tròn đi."
+        },
+        {
+          "en": "The clay feels cool and squishy.",
+          "vi": "Đất sét mát mát, mềm mềm."
+        },
+        {
+          "en": "I made a snail out of clay!",
+          "vi": "Con nặn con ốc sên bằng đất sét!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-041",
+      "en": "glitter",
+      "vi": "kim tuyến",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, sparkly glitter!",
+          "vi": "Ồ, kim tuyến lấp lánh!"
+        },
+        {
+          "en": "Do you want some glitter?",
+          "vi": "Con muốn rắc kim tuyến không?"
+        },
+        {
+          "en": "Just a little glitter, okay?",
+          "vi": "Rắc chút xíu kim tuyến thôi nha."
+        },
+        {
+          "en": "There's glitter everywhere now!",
+          "vi": "Giờ kim tuyến dính khắp nơi rồi!"
+        },
+        {
+          "en": "I put glitter on my card!",
+          "vi": "Con rắc kim tuyến lên tấm thiệp!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-042",
+      "en": "easel",
+      "vi": "giá vẽ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, your own easel!",
+          "vi": "Nhìn nè, giá vẽ của riêng con!"
+        },
+        {
+          "en": "Can you set up the easel?",
+          "vi": "Con dựng giá vẽ lên được không?"
+        },
+        {
+          "en": "Clip the paper to the easel.",
+          "vi": "Kẹp giấy lên giá vẽ nha."
+        },
+        {
+          "en": "Painting at the easel is fun.",
+          "vi": "Vẽ trên giá vẽ vui ghê."
+        },
+        {
+          "en": "I paint at my easel every day!",
+          "vi": "Ngày nào con cũng vẽ ở giá vẽ!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-043",
+      "en": "stamps",
+      "vi": "con dấu (đồ chơi in hình)",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Stamp, stamp! Look at the stamps!",
+          "vi": "Đóng, đóng! Nhìn mấy con dấu nè!"
+        },
+        {
+          "en": "Which stamp do you want to use?",
+          "vi": "Con muốn dùng con dấu nào?"
+        },
+        {
+          "en": "Press the stamp in the ink.",
+          "vi": "Ấn con dấu vô mực đi."
+        },
+        {
+          "en": "These star stamps are so cute.",
+          "vi": "Mấy con dấu hình ngôi sao dễ thương ghê."
+        },
+        {
+          "en": "I stamped hearts on my paper!",
+          "vi": "Con đóng hình trái tim lên giấy!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-044",
+      "en": "coloring book",
+      "vi": "tập tô màu",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a new coloring book!",
+          "vi": "Ồ, tập tô màu mới nè!"
+        },
+        {
+          "en": "Which page in your coloring book?",
+          "vi": "Con tô trang nào trong tập?"
+        },
+        {
+          "en": "Grab your coloring book and crayons.",
+          "vi": "Lấy tập tô màu với bút sáp đi con."
+        },
+        {
+          "en": "This coloring book has dinosaurs!",
+          "vi": "Tập tô màu này có khủng long nè!"
+        },
+        {
+          "en": "I finished my coloring book!",
+          "vi": "Con tô hết tập rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-045",
+      "en": "collage",
+      "vi": "tranh cắt dán",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a cool collage!",
+          "vi": "Oa, bức tranh cắt dán đẹp quá!"
+        },
+        {
+          "en": "What should we put in our collage?",
+          "vi": "Mình dán gì vô tranh cắt dán ta?"
+        },
+        {
+          "en": "Cut out pictures for your collage.",
+          "vi": "Cắt mấy tấm hình để làm tranh cắt dán nha."
+        },
+        {
+          "en": "Your collage has so many textures.",
+          "vi": "Tranh cắt dán của con nhiều chất liệu ghê."
+        },
+        {
+          "en": "We made a leaf collage at school!",
+          "vi": "Ở trường tụi con làm tranh dán lá cây!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-046",
+      "en": "crafts",
+      "vi": "đồ thủ công",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Craft time! Let's make something!",
+          "vi": "Giờ thủ công! Mình làm gì đó đi!"
+        },
+        {
+          "en": "What crafts did you do today?",
+          "vi": "Hôm nay con làm đồ thủ công gì?"
+        },
+        {
+          "en": "Let's do a craft with paper plates.",
+          "vi": "Mình làm đồ thủ công bằng dĩa giấy nha."
+        },
+        {
+          "en": "Your crafts are so creative.",
+          "vi": "Đồ thủ công của con sáng tạo ghê."
+        },
+        {
+          "en": "I made this craft for Grandma!",
+          "vi": "Con làm cái này tặng bà!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-047",
+      "en": "finger paint",
+      "vi": "màu vẽ bằng tay",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, finger paint! Squishy!",
+          "vi": "Ồ, màu vẽ tay! Nhão nhão!"
+        },
+        {
+          "en": "Want to try finger paint?",
+          "vi": "Con muốn vẽ bằng tay không?"
+        },
+        {
+          "en": "Dip your finger in the finger paint.",
+          "vi": "Nhúng ngón tay vô màu đi con."
+        },
+        {
+          "en": "Finger paint is so messy!",
+          "vi": "Vẽ màu bằng tay lem nhem ghê!"
+        },
+        {
+          "en": "More finger paint, please!",
+          "vi": "Cho con thêm màu nữa!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-048",
+      "en": "watercolor",
+      "vi": "màu nước",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look how the watercolors mix!",
+          "vi": "Coi màu nước hòa vô nhau kìa!"
+        },
+        {
+          "en": "Do you want to try watercolors?",
+          "vi": "Con muốn thử vẽ màu nước không?"
+        },
+        {
+          "en": "Wet your brush before using the watercolors.",
+          "vi": "Nhúng ướt cọ trước khi chấm màu nước nha."
+        },
+        {
+          "en": "Watercolors look soft and dreamy.",
+          "vi": "Màu nước nhìn nhẹ nhàng, mơ màng ghê."
+        },
+        {
+          "en": "I painted the ocean with watercolors!",
+          "vi": "Con vẽ biển bằng màu nước!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-049",
+      "en": "masterpiece",
+      "vi": "kiệt tác",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a masterpiece!",
+          "vi": "Oa, đúng là kiệt tác!"
+        },
+        {
+          "en": "Is your masterpiece finished?",
+          "vi": "Kiệt tác của con xong chưa?"
+        },
+        {
+          "en": "Let's frame your masterpiece!",
+          "vi": "Mình đóng khung kiệt tác của con nha!"
+        },
+        {
+          "en": "This masterpiece belongs in a museum.",
+          "vi": "Kiệt tác này phải đem vô bảo tàng."
+        },
+        {
+          "en": "I worked on my masterpiece all afternoon!",
+          "vi": "Con làm kiệt tác của con nguyên buổi chiều!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-050",
+      "en": "origami",
+      "vi": "gấp giấy origami",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, an origami crane!",
+          "vi": "Nhìn nè, con hạc giấy origami!"
+        },
+        {
+          "en": "Can you fold an origami frog?",
+          "vi": "Con gấp được con ếch giấy không?"
+        },
+        {
+          "en": "Fold the origami paper in half first.",
+          "vi": "Gấp đôi tờ giấy origami trước nha."
+        },
+        {
+          "en": "Origami takes patience and careful hands.",
+          "vi": "Gấp origami phải kiên nhẫn và khéo tay."
+        },
+        {
+          "en": "I learned to make an origami boat!",
+          "vi": "Con học gấp thuyền giấy origami rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-051",
+      "en": "beads",
+      "vi": "hạt cườm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, so many colorful beads!",
+          "vi": "Ồ, nhiều hạt cườm màu quá!"
+        },
+        {
+          "en": "What can we make with these beads?",
+          "vi": "Mình làm gì bằng mấy hạt cườm này ta?"
+        },
+        {
+          "en": "Put the beads on the string one by one.",
+          "vi": "Xỏ từng hạt cườm vô dây nha."
+        },
+        {
+          "en": "These beads are tiny, so be careful.",
+          "vi": "Hạt cườm nhỏ xíu nên cẩn thận nha."
+        },
+        {
+          "en": "I made a bracelet with beads for my friend!",
+          "vi": "Con xỏ vòng tay hạt cườm tặng bạn!"
+        }
+      ]
+    },
+    {
+      "id": "v-music-art-052",
+      "en": "doodle",
+      "vi": "vẽ nguệch ngoạc",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ha, look at your funny doodle!",
+          "vi": "Ha, coi hình vẽ nguệch ngoạc của con nè!"
+        },
+        {
+          "en": "What are you doodling?",
+          "vi": "Con đang vẽ bậy gì đó?",
+          "ipa": "/wʌt ɑɹ ju ˈdudlɪŋ/"
+        },
+        {
+          "en": "Doodle on this paper, not the table.",
+          "vi": "Vẽ lên giấy này nha, đừng vẽ lên bàn."
+        },
+        {
+          "en": "Doodling helps you relax.",
+          "vi": "Vẽ nguệch ngoạc giúp mình thư giãn.",
+          "ipa": "/ˈdudlɪŋ hɛlps ju ɹɪˈlæks/"
+        },
+        {
+          "en": "I doodled a cat on my notebook!",
+          "vi": "Con vẽ con mèo lên tập!",
+          "ipa": "/aɪ ˈdudəld ə kæt ɑn maɪ ˈnoʊtˌbʊk/"
+        }
+      ]
+    }
+  ]
+}

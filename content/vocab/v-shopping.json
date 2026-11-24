@@ -1,0 +1,1684 @@
+{
+  "deckId": "v-shopping",
+  "words": [
+    {
+      "id": "v-shopping-001",
+      "en": "money",
+      "vi": "tiền",
+      "pos": "noun",
+      "emoji": "💰",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, that's money!",
+          "vi": "Nhìn nè, tiền đó!"
+        },
+        {
+          "en": "Do we have enough money?",
+          "vi": "Mình có đủ tiền không ta?"
+        },
+        {
+          "en": "Let's put the money away.",
+          "vi": "Mình cất tiền đi nha."
+        },
+        {
+          "en": "Money doesn't go in your mouth.",
+          "vi": "Tiền không được bỏ vô miệng nha con."
+        },
+        {
+          "en": "I have money in my piggy bank!",
+          "vi": "Con có tiền trong heo đất nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-002",
+      "en": "coin",
+      "vi": "đồng xu",
+      "pos": "noun",
+      "emoji": "🪙",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a shiny coin!",
+          "vi": "Ồ, một đồng xu sáng bóng!"
+        },
+        {
+          "en": "How many coins do you have?",
+          "vi": "Con có mấy đồng xu?"
+        },
+        {
+          "en": "Can you count the coins with me?",
+          "vi": "Con đếm mấy đồng xu với mình nha?"
+        },
+        {
+          "en": "This coin is so heavy.",
+          "vi": "Đồng xu này nặng ghê."
+        },
+        {
+          "en": "I found a coin on the floor!",
+          "vi": "Con lượm được đồng xu dưới sàn nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-003",
+      "en": "cash",
+      "vi": "tiền mặt",
+      "pos": "noun",
+      "emoji": "💵",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that's a lot of cash!",
+          "vi": "Wow, nhiều tiền mặt quá!"
+        },
+        {
+          "en": "Are we paying with cash or a card?",
+          "vi": "Mình trả tiền mặt hay quẹt thẻ đây?"
+        },
+        {
+          "en": "Can you hand the cash to the lady?",
+          "vi": "Con đưa tiền mặt cho cô nha?"
+        },
+        {
+          "en": "Cash is easy to lose, so keep it safe.",
+          "vi": "Tiền mặt dễ mất lắm, nên cất kỹ nha."
+        },
+        {
+          "en": "I paid with my own cash today!",
+          "vi": "Hôm nay con tự trả bằng tiền của con đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-004",
+      "en": "credit card",
+      "vi": "thẻ tín dụng",
+      "pos": "noun",
+      "emoji": "💳",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That's Mommy's credit card.",
+          "vi": "Đó là thẻ tín dụng của mẹ."
+        },
+        {
+          "en": "Can I tap the credit card?",
+          "vi": "Con quẹt thẻ được không?"
+        },
+        {
+          "en": "Please give the credit card back to me.",
+          "vi": "Con đưa lại cái thẻ cho mình nha."
+        },
+        {
+          "en": "A credit card isn't free money, you know.",
+          "vi": "Thẻ tín dụng đâu phải tiền cho không đâu con."
+        },
+        {
+          "en": "Why don't we just use the credit card?",
+          "vi": "Sao mình không quẹt thẻ luôn vậy?"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-005",
+      "en": "price",
+      "vi": "giá",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at the price on this one.",
+          "vi": "Coi giá cái này nè."
+        },
+        {
+          "en": "What's the price of the toy car?",
+          "vi": "Chiếc xe đồ chơi giá bao nhiêu?"
+        },
+        {
+          "en": "Let's check the price first.",
+          "vi": "Mình coi giá trước đã nha."
+        },
+        {
+          "en": "That price is way too high.",
+          "vi": "Giá đó mắc quá trời."
+        },
+        {
+          "en": "I looked for the price all by myself!",
+          "vi": "Con tự tìm giá một mình đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-006",
+      "en": "price tag",
+      "vi": "nhãn giá",
+      "pos": "noun",
+      "emoji": "🏷️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the price tag!",
+          "vi": "Nhãn giá đây nè!"
+        },
+        {
+          "en": "Can you find the price tag?",
+          "vi": "Con tìm cái nhãn giá được không?"
+        },
+        {
+          "en": "Let's cut off the price tag.",
+          "vi": "Mình cắt cái nhãn giá ra nha."
+        },
+        {
+          "en": "The price tag is hiding under the box.",
+          "vi": "Nhãn giá nằm trốn dưới cái hộp nè."
+        },
+        {
+          "en": "The price tag says it's on sale.",
+          "vi": "Nhãn giá ghi là đang giảm giá đó."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-007",
+      "en": "cost",
+      "vi": "có giá, tốn",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that costs a lot!",
+          "vi": "Wow, cái đó tốn nhiều tiền quá!"
+        },
+        {
+          "en": "How much does this cost?",
+          "vi": "Cái này giá bao nhiêu?"
+        },
+        {
+          "en": "Let's see what it costs first.",
+          "vi": "Mình coi nó giá bao nhiêu trước đã."
+        },
+        {
+          "en": "Big toys usually cost more money.",
+          "vi": "Đồ chơi lớn thường mắc tiền hơn."
+        },
+        {
+          "en": "I think it costs too much.",
+          "vi": "Con nghĩ cái đó mắc quá."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-008",
+      "en": "how much",
+      "vi": "bao nhiêu",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "How much is this?",
+          "vi": "Cái này bao nhiêu tiền?"
+        },
+        {
+          "en": "How much money do we need?",
+          "vi": "Mình cần bao nhiêu tiền?"
+        },
+        {
+          "en": "Let's ask how much it is.",
+          "vi": "Mình hỏi coi nó bao nhiêu nha."
+        },
+        {
+          "en": "I'm not sure how much it is.",
+          "vi": "Mình không chắc nó bao nhiêu nữa."
+        },
+        {
+          "en": "How much is the ice cream?",
+          "vi": "Cây kem bao nhiêu tiền vậy?"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-009",
+      "en": "buy",
+      "vi": "mua",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's buy some bread!",
+          "vi": "Mình mua bánh mì nha!"
+        },
+        {
+          "en": "What do we need to buy?",
+          "vi": "Mình cần mua gì ta?"
+        },
+        {
+          "en": "Can you help me buy milk?",
+          "vi": "Con giúp mình mua sữa nha?"
+        },
+        {
+          "en": "We can't buy everything we see.",
+          "vi": "Mình đâu mua hết mọi thứ mình thấy được."
+        },
+        {
+          "en": "Can we buy bananas?",
+          "vi": "Mình mua chuối được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-010",
+      "en": "sell",
+      "vi": "bán",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, they sell balloons here!",
+          "vi": "Nhìn nè, ở đây có bán bong bóng!"
+        },
+        {
+          "en": "Do they sell ice cream here?",
+          "vi": "Ở đây có bán kem không ta?"
+        },
+        {
+          "en": "Let's sell our old toys at a yard sale.",
+          "vi": "Mình đem đồ chơi cũ ra bán nha."
+        },
+        {
+          "en": "That man sells fresh fruit every morning.",
+          "vi": "Chú đó sáng nào cũng bán trái cây tươi."
+        },
+        {
+          "en": "I want to sell lemonade this weekend!",
+          "vi": "Cuối tuần này con muốn bán nước chanh!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-011",
+      "en": "pay",
+      "vi": "trả tiền",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Time to pay!",
+          "vi": "Tới lúc trả tiền rồi!"
+        },
+        {
+          "en": "Who's going to pay?",
+          "vi": "Ai trả tiền đây?"
+        },
+        {
+          "en": "Let's pay at the front.",
+          "vi": "Mình ra phía trước trả tiền nha."
+        },
+        {
+          "en": "We pay first, then we eat.",
+          "vi": "Mình phải trả tiền rồi mới ăn nha."
+        },
+        {
+          "en": "Can I pay this time?",
+          "vi": "Lần này con trả tiền được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-012",
+      "en": "spend",
+      "vi": "tiêu, xài (tiền)",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you spent all of it!",
+          "vi": "Wow, con xài hết sạch rồi!"
+        },
+        {
+          "en": "How do you want to spend your money?",
+          "vi": "Con muốn xài tiền của con vào gì?"
+        },
+        {
+          "en": "Let's spend a little and save the rest.",
+          "vi": "Mình xài một chút, còn lại để dành nha."
+        },
+        {
+          "en": "I don't want to spend too much today.",
+          "vi": "Hôm nay mình không muốn tiêu nhiều quá."
+        },
+        {
+          "en": "I spent my money on stickers!",
+          "vi": "Con xài tiền mua hình dán rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-013",
+      "en": "save",
+      "vi": "để dành",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Good job saving your money!",
+          "vi": "Con để dành tiền giỏi quá!"
+        },
+        {
+          "en": "What are you saving up for?",
+          "vi": "Con đang để dành tiền mua gì vậy?"
+        },
+        {
+          "en": "Let's save this coin for later.",
+          "vi": "Mình để dành đồng xu này cho sau nha."
+        },
+        {
+          "en": "Saving is hard, but it's worth it.",
+          "vi": "Để dành thì khó, nhưng đáng lắm đó."
+        },
+        {
+          "en": "I'm saving for a new bike!",
+          "vi": "Con đang để dành mua xe đạp mới!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-014",
+      "en": "earn",
+      "vi": "kiếm (tiền)",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "You earned it!",
+          "vi": "Con tự kiếm được đó!"
+        },
+        {
+          "en": "How can you earn a little money?",
+          "vi": "Con có thể kiếm chút tiền bằng cách nào?"
+        },
+        {
+          "en": "Let's think of ways to earn some money.",
+          "vi": "Mình nghĩ cách kiếm chút tiền nha."
+        },
+        {
+          "en": "Money you earn yourself feels really special.",
+          "vi": "Tiền tự mình kiếm được thấy quý lắm."
+        },
+        {
+          "en": "I earned some money by helping Grandma!",
+          "vi": "Con phụ bà nên kiếm được chút tiền đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-015",
+      "en": "cheap",
+      "vi": "rẻ",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, this one's cheap!",
+          "vi": "Wow, cái này rẻ ghê!"
+        },
+        {
+          "en": "Which one is cheaper?",
+          "vi": "Cái nào rẻ hơn?"
+        },
+        {
+          "en": "Let's pick the cheap one this time.",
+          "vi": "Lần này mình lấy cái rẻ nha."
+        },
+        {
+          "en": "Cheap toys sometimes break really fast.",
+          "vi": "Đồ chơi rẻ đôi khi hư nhanh lắm."
+        },
+        {
+          "en": "It's cheap, so can we get two?",
+          "vi": "Nó rẻ mà, mình lấy hai cái được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-016",
+      "en": "expensive",
+      "vi": "mắc, đắt",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, that's expensive!",
+          "vi": "Trời, cái đó mắc quá!"
+        },
+        {
+          "en": "Is this one too expensive?",
+          "vi": "Cái này mắc quá không?"
+        },
+        {
+          "en": "Let's find one that's less expensive.",
+          "vi": "Mình kiếm cái nào bớt mắc hơn nha."
+        },
+        {
+          "en": "That bike is really expensive, sweetie.",
+          "vi": "Chiếc xe đạp đó mắc lắm con ơi."
+        },
+        {
+          "en": "Why is it so expensive?",
+          "vi": "Sao nó mắc vậy?"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-017",
+      "en": "free",
+      "vi": "miễn phí, không mất tiền",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's free!",
+          "vi": "Cái này miễn phí đó!"
+        },
+        {
+          "en": "Is the balloon free?",
+          "vi": "Bong bóng có mất tiền không?"
+        },
+        {
+          "en": "Take one, they're free.",
+          "vi": "Lấy một cái đi con, miễn phí đó."
+        },
+        {
+          "en": "The park is free, so let's go there.",
+          "vi": "Công viên không mất tiền, mình đi đó nha."
+        },
+        {
+          "en": "We got a free sticker!",
+          "vi": "Tụi con được cho hình dán miễn phí nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-018",
+      "en": "sale",
+      "vi": "đợt giảm giá",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's a big sale!",
+          "vi": "Nhìn nè, đang giảm giá lớn!"
+        },
+        {
+          "en": "Is this on sale?",
+          "vi": "Cái này có đang giảm giá không?"
+        },
+        {
+          "en": "Let's wait for a sale.",
+          "vi": "Mình đợi lúc giảm giá rồi mua nha."
+        },
+        {
+          "en": "Everything on this table is on sale.",
+          "vi": "Đồ trên bàn này giảm giá hết đó."
+        },
+        {
+          "en": "We bought my shoes on sale!",
+          "vi": "Mình mua giày cho con lúc giảm giá đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-019",
+      "en": "discount",
+      "vi": "giảm giá",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Nice, we got a discount!",
+          "vi": "Hay quá, mình được giảm giá rồi!"
+        },
+        {
+          "en": "Do kids get a discount here?",
+          "vi": "Ở đây con nít có được giảm giá không?"
+        },
+        {
+          "en": "Let's ask if there's a discount.",
+          "vi": "Mình hỏi coi có giảm giá không nha."
+        },
+        {
+          "en": "With the discount, it's only half the price.",
+          "vi": "Được giảm giá rồi, chỉ còn phân nửa giá thôi."
+        },
+        {
+          "en": "I'll use the discount next time we come.",
+          "vi": "Lần sau tới con sẽ xài phiếu giảm giá."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-020",
+      "en": "coupon",
+      "vi": "phiếu giảm giá",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hey, here's a coupon!",
+          "vi": "Ê, có phiếu giảm giá nè!"
+        },
+        {
+          "en": "Did we bring the coupon?",
+          "vi": "Mình có đem phiếu giảm giá theo không?"
+        },
+        {
+          "en": "Can you hand the coupon to the cashier?",
+          "vi": "Con đưa phiếu giảm giá cho cô thu ngân nha?"
+        },
+        {
+          "en": "This coupon saves us some money.",
+          "vi": "Phiếu này giúp mình bớt được chút tiền."
+        },
+        {
+          "en": "I cut out the coupons for you!",
+          "vi": "Con cắt mấy phiếu giảm giá cho ba mẹ rồi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-021",
+      "en": "cashier",
+      "vi": "người thu ngân",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "There's the cashier!",
+          "vi": "Cô thu ngân kia kìa!"
+        },
+        {
+          "en": "Can you say hi to the cashier?",
+          "vi": "Con chào cô thu ngân đi?"
+        },
+        {
+          "en": "Let's give the money to the cashier.",
+          "vi": "Mình đưa tiền cho cô thu ngân nha."
+        },
+        {
+          "en": "The cashier is so nice.",
+          "vi": "Cô thu ngân dễ thương quá."
+        },
+        {
+          "en": "The cashier gave me a sticker!",
+          "vi": "Cô thu ngân cho con hình dán nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-022",
+      "en": "customer",
+      "vi": "khách hàng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at all the customers!",
+          "vi": "Nhìn kìa, đông khách quá!"
+        },
+        {
+          "en": "Who's the next customer?",
+          "vi": "Khách kế tiếp là ai?"
+        },
+        {
+          "en": "Let's play store, and you be the customer.",
+          "vi": "Mình chơi bán hàng, con làm khách nha."
+        },
+        {
+          "en": "The customers are waiting so patiently.",
+          "vi": "Khách đứng đợi kiên nhẫn ghê."
+        },
+        {
+          "en": "I was the very first customer!",
+          "vi": "Con là khách đầu tiên luôn đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-023",
+      "en": "checkout",
+      "vi": "quầy tính tiền",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "There's the checkout!",
+          "vi": "Quầy tính tiền kia rồi!"
+        },
+        {
+          "en": "Which checkout is open?",
+          "vi": "Quầy tính tiền nào đang mở ta?"
+        },
+        {
+          "en": "Let's head to the checkout now.",
+          "vi": "Giờ mình ra quầy tính tiền nha."
+        },
+        {
+          "en": "The checkout line is super long today.",
+          "vi": "Hôm nay hàng chờ tính tiền dài quá trời."
+        },
+        {
+          "en": "Can I put stuff on the checkout belt?",
+          "vi": "Con để đồ lên băng chuyền tính tiền được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-024",
+      "en": "cash register",
+      "vi": "máy tính tiền",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ding! There's the cash register.",
+          "vi": "Ting! Máy tính tiền kìa."
+        },
+        {
+          "en": "Hear the cash register beep?",
+          "vi": "Nghe máy tính tiền kêu bíp không?"
+        },
+        {
+          "en": "Let's play store with your cash register.",
+          "vi": "Mình chơi bán hàng với máy tính tiền của con nha."
+        },
+        {
+          "en": "The cash register opens with a pop!",
+          "vi": "Máy tính tiền bật mở cái cạch!"
+        },
+        {
+          "en": "Can I press the cash register buttons?",
+          "vi": "Con bấm nút máy tính tiền được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-025",
+      "en": "shopping cart",
+      "vi": "xe đẩy",
+      "pos": "noun",
+      "emoji": "🛒",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's grab a shopping cart!",
+          "vi": "Mình lấy một chiếc xe đẩy nha!"
+        },
+        {
+          "en": "Want to ride in the shopping cart?",
+          "vi": "Con muốn ngồi trong xe đẩy không?"
+        },
+        {
+          "en": "Put the apples in the shopping cart.",
+          "vi": "Con bỏ táo vô xe đẩy nha."
+        },
+        {
+          "en": "Wow, the shopping cart is full!",
+          "vi": "Wow, xe đẩy đầy nhóc rồi!"
+        },
+        {
+          "en": "Can I push the shopping cart?",
+          "vi": "Con đẩy xe được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-026",
+      "en": "basket",
+      "vi": "cái giỏ",
+      "pos": "noun",
+      "emoji": "🧺",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's a basket for you!",
+          "vi": "Giỏ của con nè!"
+        },
+        {
+          "en": "Can you carry the basket?",
+          "vi": "Con xách cái giỏ được không?"
+        },
+        {
+          "en": "Put the bread in the basket.",
+          "vi": "Bỏ bánh mì vô giỏ nha."
+        },
+        {
+          "en": "Your basket is getting heavy!",
+          "vi": "Giỏ của con nặng dần rồi kìa!"
+        },
+        {
+          "en": "My basket is full!",
+          "vi": "Giỏ của con đầy rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-027",
+      "en": "shopping bag",
+      "vi": "túi đựng đồ",
+      "pos": "noun",
+      "emoji": "🛍️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at all the shopping bags!",
+          "vi": "Nhìn nè, bao nhiêu là túi đồ!"
+        },
+        {
+          "en": "Did we bring our shopping bags?",
+          "vi": "Mình có đem túi đựng đồ theo không?"
+        },
+        {
+          "en": "Can you hold this shopping bag?",
+          "vi": "Con cầm giùm túi này nha?"
+        },
+        {
+          "en": "This shopping bag is too heavy.",
+          "vi": "Túi đồ này nặng quá."
+        },
+        {
+          "en": "I can carry a shopping bag!",
+          "vi": "Con xách được một túi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-028",
+      "en": "receipt",
+      "vi": "hoá đơn",
+      "pos": "noun",
+      "emoji": "🧾",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the receipt!",
+          "vi": "Hoá đơn đây nè!"
+        },
+        {
+          "en": "Did they give us a receipt?",
+          "vi": "Người ta có đưa hoá đơn cho mình không?"
+        },
+        {
+          "en": "Can you put the receipt in the bag?",
+          "vi": "Con bỏ hoá đơn vô túi giùm nha?"
+        },
+        {
+          "en": "The receipt is really long today.",
+          "vi": "Hôm nay hoá đơn dài ghê."
+        },
+        {
+          "en": "We need the receipt in case it breaks.",
+          "vi": "Mình cần giữ hoá đơn lỡ đồ bị hư."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-029",
+      "en": "change",
+      "vi": "tiền thối",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your change!",
+          "vi": "Tiền thối của con nè!"
+        },
+        {
+          "en": "Did you get the change?",
+          "vi": "Con lấy tiền thối chưa?"
+        },
+        {
+          "en": "Let's count the change together.",
+          "vi": "Mình cùng đếm tiền thối nha."
+        },
+        {
+          "en": "The change goes in your piggy bank.",
+          "vi": "Tiền thối thì bỏ vô heo đất nha."
+        },
+        {
+          "en": "Can I keep the change?",
+          "vi": "Con giữ tiền thối được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-030",
+      "en": "wallet",
+      "vi": "cái bóp, cái ví",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, where's my wallet?",
+          "vi": "Ủa, cái bóp của mình đâu rồi?"
+        },
+        {
+          "en": "Have you seen my wallet?",
+          "vi": "Con có thấy cái bóp của mình không?"
+        },
+        {
+          "en": "Can you get my wallet, please?",
+          "vi": "Con lấy giùm mình cái bóp nha?"
+        },
+        {
+          "en": "Daddy's wallet is in his pocket.",
+          "vi": "Bóp của ba nằm trong túi quần đó."
+        },
+        {
+          "en": "I want my own wallet!",
+          "vi": "Con muốn có cái bóp riêng!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-031",
+      "en": "purse",
+      "vi": "cái túi xách",
+      "pos": "noun",
+      "emoji": "👛",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That's Grandma's purse.",
+          "vi": "Đó là túi xách của bà."
+        },
+        {
+          "en": "Is the purse heavy?",
+          "vi": "Túi xách có nặng không?"
+        },
+        {
+          "en": "Please don't open Mommy's purse.",
+          "vi": "Đừng mở túi xách của mẹ nha con."
+        },
+        {
+          "en": "What a pretty purse!",
+          "vi": "Túi xách đẹp quá!"
+        },
+        {
+          "en": "Can I carry your purse?",
+          "vi": "Con xách túi giùm được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-032",
+      "en": "piggy bank",
+      "vi": "heo đất",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your piggy bank!",
+          "vi": "Heo đất của con nè!"
+        },
+        {
+          "en": "Is your piggy bank full yet?",
+          "vi": "Heo đất của con đầy chưa?"
+        },
+        {
+          "en": "Put the coin in your piggy bank.",
+          "vi": "Bỏ đồng xu vô heo đất đi con."
+        },
+        {
+          "en": "Listen, the piggy bank jingles!",
+          "vi": "Nghe nè, heo đất kêu leng keng!"
+        },
+        {
+          "en": "My piggy bank is getting heavy!",
+          "vi": "Heo đất của con nặng dần rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-033",
+      "en": "allowance",
+      "vi": "tiền tiêu vặt",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your allowance for this week.",
+          "vi": "Tiền tiêu vặt tuần này của con nè."
+        },
+        {
+          "en": "What will you do with your allowance?",
+          "vi": "Con định làm gì với tiền tiêu vặt?"
+        },
+        {
+          "en": "Let's split your allowance into spend and save.",
+          "vi": "Mình chia tiền tiêu vặt ra phần xài và phần để dành nha."
+        },
+        {
+          "en": "You get your allowance every Sunday.",
+          "vi": "Chủ nhật nào con cũng được tiền tiêu vặt."
+        },
+        {
+          "en": "I'm going to save my allowance for a game.",
+          "vi": "Con sẽ để dành tiền tiêu vặt mua trò chơi."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-034",
+      "en": "shopping list",
+      "vi": "danh sách đồ cần mua",
+      "pos": "noun",
+      "emoji": "📝",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's our shopping list!",
+          "vi": "Danh sách đồ cần mua đây!"
+        },
+        {
+          "en": "What's next on the shopping list?",
+          "vi": "Món kế tiếp trong danh sách là gì?"
+        },
+        {
+          "en": "Can you help me write the shopping list?",
+          "vi": "Con phụ mình viết danh sách đồ cần mua nha?"
+        },
+        {
+          "en": "We only buy what's on the shopping list.",
+          "vi": "Mình chỉ mua mấy món có trong danh sách thôi."
+        },
+        {
+          "en": "I'll check things off the shopping list!",
+          "vi": "Con sẽ đánh dấu mấy món trong danh sách!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-035",
+      "en": "go shopping",
+      "vi": "đi mua sắm, đi chợ",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's go shopping!",
+          "vi": "Mình đi mua sắm nha!"
+        },
+        {
+          "en": "Want to go shopping with me?",
+          "vi": "Con muốn đi mua đồ với mình không?"
+        },
+        {
+          "en": "Put your shoes on, we're going shopping.",
+          "vi": "Mang giày vô con, mình đi mua đồ."
+        },
+        {
+          "en": "Going shopping is fun with you.",
+          "vi": "Đi mua sắm với con vui ghê."
+        },
+        {
+          "en": "We went shopping with Grandma!",
+          "vi": "Con đi mua sắm với bà đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-036",
+      "en": "groceries",
+      "vi": "đồ đi chợ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that's a lot of groceries!",
+          "vi": "Wow, đồ đi chợ nhiều quá!"
+        },
+        {
+          "en": "Can you help carry the groceries in?",
+          "vi": "Con phụ xách đồ đi chợ vô nhà nha?"
+        },
+        {
+          "en": "Let's put the groceries away.",
+          "vi": "Mình cất đồ đi chợ vô nha."
+        },
+        {
+          "en": "The groceries go in the fridge first.",
+          "vi": "Đồ đi chợ thì cất vô tủ lạnh trước."
+        },
+        {
+          "en": "We bought groceries for the whole week.",
+          "vi": "Mình mua đồ ăn cho cả tuần rồi đó."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-037",
+      "en": "aisle",
+      "vi": "dãy kệ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "The cereal is in this aisle!",
+          "vi": "Ngũ cốc nằm ở dãy kệ này nè!"
+        },
+        {
+          "en": "Which aisle has the milk?",
+          "vi": "Sữa nằm ở dãy kệ nào ta?"
+        },
+        {
+          "en": "Please stay with me in the aisle.",
+          "vi": "Con đi sát mình trong dãy kệ nha."
+        },
+        {
+          "en": "This aisle is full of snacks.",
+          "vi": "Dãy kệ này toàn đồ ăn vặt."
+        },
+        {
+          "en": "I found the toy aisle!",
+          "vi": "Con kiếm ra dãy đồ chơi rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-038",
+      "en": "sold out",
+      "vi": "hết hàng",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, they're sold out!",
+          "vi": "Ôi, hết hàng mất rồi!"
+        },
+        {
+          "en": "Are the cupcakes sold out?",
+          "vi": "Bánh cupcake hết rồi hả?"
+        },
+        {
+          "en": "Let's come back when it's not sold out.",
+          "vi": "Mình quay lại khi có hàng nha."
+        },
+        {
+          "en": "It sold out because everyone loves it.",
+          "vi": "Nó hết hàng vì ai cũng thích đó."
+        },
+        {
+          "en": "The toy I wanted was sold out.",
+          "vi": "Món đồ chơi con muốn hết hàng rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-039",
+      "en": "pick out",
+      "vi": "chọn",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Pick out one snack.",
+          "vi": "Con chọn một món ăn vặt nha."
+        },
+        {
+          "en": "Which one did you pick out?",
+          "vi": "Con chọn cái nào?"
+        },
+        {
+          "en": "Let's pick out a birthday card.",
+          "vi": "Mình chọn một tấm thiệp sinh nhật nha."
+        },
+        {
+          "en": "You picked out a great one!",
+          "vi": "Con chọn cái hay quá!"
+        },
+        {
+          "en": "Can I pick out the apples?",
+          "vi": "Con chọn táo được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-040",
+      "en": "afford",
+      "vi": "đủ tiền (mua)",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "We can afford this one.",
+          "vi": "Cái này mình đủ tiền mua."
+        },
+        {
+          "en": "Can we afford a new bike right now?",
+          "vi": "Giờ mình có đủ tiền mua xe đạp mới không?"
+        },
+        {
+          "en": "Let's save up until we can afford it.",
+          "vi": "Mình để dành tới khi đủ tiền mua nha."
+        },
+        {
+          "en": "We can't afford everything, and that's okay.",
+          "vi": "Mình không thể mua hết mọi thứ, vậy cũng không sao."
+        },
+        {
+          "en": "If I save more, I can afford it.",
+          "vi": "Nếu con để dành thêm, con sẽ đủ tiền mua."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-041",
+      "en": "borrow",
+      "vi": "mượn",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Can I borrow your pencil?",
+          "vi": "Cho mình mượn cây bút chì nha?"
+        },
+        {
+          "en": "Did you borrow this book?",
+          "vi": "Con mượn cuốn sách này hả?"
+        },
+        {
+          "en": "Ask first before you borrow something.",
+          "vi": "Muốn mượn gì thì phải hỏi trước nha."
+        },
+        {
+          "en": "When you borrow things, take good care of them.",
+          "vi": "Khi mượn đồ thì phải giữ gìn cẩn thận nha."
+        },
+        {
+          "en": "I borrowed a toy from my friend.",
+          "vi": "Con mượn đồ chơi của bạn đó."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-042",
+      "en": "lend",
+      "vi": "cho mượn",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That's so nice of you to lend it!",
+          "vi": "Con cho bạn mượn, dễ thương quá!"
+        },
+        {
+          "en": "Can you lend your friend a crayon?",
+          "vi": "Con cho bạn mượn cây bút sáp được không?"
+        },
+        {
+          "en": "Let's lend Grandma our umbrella.",
+          "vi": "Mình cho bà mượn cây dù nha."
+        },
+        {
+          "en": "Lending is a kind thing to do.",
+          "vi": "Cho mượn đồ là việc tốt đó."
+        },
+        {
+          "en": "I lent my markers to my friend today.",
+          "vi": "Hôm nay con cho bạn mượn bút lông."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-043",
+      "en": "trade",
+      "vi": "đổi (đồ)",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hey, let's trade!",
+          "vi": "Ê, mình đổi đi!"
+        },
+        {
+          "en": "Do you want to trade stickers?",
+          "vi": "Con muốn đổi hình dán không?"
+        },
+        {
+          "en": "Ask your friend if they want to trade.",
+          "vi": "Con hỏi bạn coi bạn có muốn đổi không."
+        },
+        {
+          "en": "That was a fair trade.",
+          "vi": "Đổi vậy là công bằng đó."
+        },
+        {
+          "en": "I traded my car for his truck!",
+          "vi": "Con đổi xe hơi lấy xe tải của bạn đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-044",
+      "en": "return",
+      "vi": "đổi trả (hàng)",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "We need to return these shoes.",
+          "vi": "Mình phải đem đôi giày này đi trả."
+        },
+        {
+          "en": "Can we return it if it doesn't fit?",
+          "vi": "Nếu không vừa thì mình đem trả được không?"
+        },
+        {
+          "en": "Let's keep the box in case we return it.",
+          "vi": "Mình giữ cái hộp lỡ cần đem trả nha."
+        },
+        {
+          "en": "It's broken, so we'll return it tomorrow.",
+          "vi": "Nó bị hư rồi, mai mình đem trả."
+        },
+        {
+          "en": "I returned the shirt because it was too small.",
+          "vi": "Con đem trả cái áo vì nó nhỏ quá."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-045",
+      "en": "deliver",
+      "vi": "giao hàng",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, they delivered our package!",
+          "vi": "Nhìn nè, người ta giao hàng tới rồi!"
+        },
+        {
+          "en": "When will they deliver it?",
+          "vi": "Khi nào người ta giao tới?"
+        },
+        {
+          "en": "Let's get it delivered to the house.",
+          "vi": "Mình cho giao tới nhà nha."
+        },
+        {
+          "en": "The pizza was delivered super fast.",
+          "vi": "Pizza giao tới nhanh ghê."
+        },
+        {
+          "en": "I saw the truck deliver our box!",
+          "vi": "Con thấy xe tải giao hộp của mình tới nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-046",
+      "en": "worth",
+      "vi": "đáng (giá)",
+      "pos": "adjective",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, it was worth the wait!",
+          "vi": "Wow, đợi vậy đáng lắm!"
+        },
+        {
+          "en": "Is it worth all your money?",
+          "vi": "Nó có đáng hết số tiền của con không?"
+        },
+        {
+          "en": "Think about whether it's worth it.",
+          "vi": "Con nghĩ thử coi có đáng không."
+        },
+        {
+          "en": "This old coin might be worth a lot.",
+          "vi": "Đồng xu cũ này có khi đáng giá lắm đó."
+        },
+        {
+          "en": "I think the bike is worth saving for.",
+          "vi": "Con nghĩ chiếc xe đạp đáng để dành tiền mua."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-047",
+      "en": "budget",
+      "vi": "số tiền định tiêu",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Okay, here's our budget for today.",
+          "vi": "Được rồi, đây là số tiền mình định tiêu hôm nay."
+        },
+        {
+          "en": "What's your budget for the birthday gift?",
+          "vi": "Con định tiêu bao nhiêu cho quà sinh nhật?"
+        },
+        {
+          "en": "Let's stick to our budget, okay?",
+          "vi": "Mình tiêu trong số tiền đã định thôi nha?"
+        },
+        {
+          "en": "Making a budget helps us plan.",
+          "vi": "Định trước số tiền tiêu giúp mình tính toán dễ hơn."
+        },
+        {
+          "en": "I stayed under my budget today!",
+          "vi": "Hôm nay con tiêu chưa hết số tiền đã định đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-048",
+      "en": "good deal",
+      "vi": "món hời",
+      "pos": "phrase",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that's a good deal!",
+          "vi": "Wow, mua vậy là hời đó!"
+        },
+        {
+          "en": "Do you think that's a good deal?",
+          "vi": "Con thấy vậy có hời không?"
+        },
+        {
+          "en": "Let's look around for a good deal.",
+          "vi": "Mình đi coi thử chỗ nào hời hơn nha."
+        },
+        {
+          "en": "Two for one is a really good deal.",
+          "vi": "Mua một được hai là hời lắm đó."
+        },
+        {
+          "en": "I got a good deal on these cards!",
+          "vi": "Con mua mấy tấm thẻ này được giá hời lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-049",
+      "en": "store clerk",
+      "vi": "nhân viên bán hàng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "There's a store clerk over there.",
+          "vi": "Có cô nhân viên bên kia kìa."
+        },
+        {
+          "en": "Can we ask the store clerk for help?",
+          "vi": "Mình nhờ nhân viên bán hàng giúp được không?"
+        },
+        {
+          "en": "Let's ask the store clerk where the milk is.",
+          "vi": "Mình hỏi nhân viên coi sữa nằm đâu nha."
+        },
+        {
+          "en": "The store clerk was really helpful.",
+          "vi": "Cô nhân viên giúp mình nhiệt tình ghê."
+        },
+        {
+          "en": "The store clerk showed us the toys.",
+          "vi": "Chú nhân viên chỉ tụi con chỗ đồ chơi đó."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-050",
+      "en": "wish list",
+      "vi": "danh sách điều ước",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, let's look at your wish list!",
+          "vi": "Ồ, coi danh sách đồ con muốn có nè!"
+        },
+        {
+          "en": "What's on your wish list?",
+          "vi": "Danh sách đồ con muốn có gồm những gì?"
+        },
+        {
+          "en": "Let's add it to your wish list.",
+          "vi": "Mình ghi nó vô danh sách đồ con muốn có nha."
+        },
+        {
+          "en": "Your wish list is getting really long!",
+          "vi": "Danh sách đồ con muốn có dài ghê luôn!"
+        },
+        {
+          "en": "I put a puppy on my wish list.",
+          "vi": "Con ghi một con cún vô danh sách điều ước."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-051",
+      "en": "bank account",
+      "vi": "tài khoản ngân hàng",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "This is your very own bank account.",
+          "vi": "Đây là tài khoản ngân hàng của riêng con."
+        },
+        {
+          "en": "Do you want to open a bank account?",
+          "vi": "Con muốn mở tài khoản ngân hàng không?"
+        },
+        {
+          "en": "Let's put your birthday money in your bank account.",
+          "vi": "Mình gửi tiền mừng sinh nhật vô tài khoản của con nha."
+        },
+        {
+          "en": "Money in a bank account stays safe.",
+          "vi": "Tiền gửi trong tài khoản ngân hàng thì an toàn."
+        },
+        {
+          "en": "I'll have lots in my bank account someday.",
+          "vi": "Sau này tài khoản của con sẽ có nhiều tiền."
+        }
+      ]
+    },
+    {
+      "id": "v-shopping-052",
+      "en": "tip",
+      "vi": "tiền boa",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That was a nice tip!",
+          "vi": "Tiền boa vậy là hậu đó!"
+        },
+        {
+          "en": "How much should we leave for a tip?",
+          "vi": "Mình nên để lại bao nhiêu tiền boa?"
+        },
+        {
+          "en": "Can you put the tip on the table?",
+          "vi": "Con để tiền boa lên bàn giùm nha?"
+        },
+        {
+          "en": "We leave a tip because the waiter was kind.",
+          "vi": "Mình để tiền boa vì anh phục vụ dễ thương."
+        },
+        {
+          "en": "I gave the tip to the waiter myself!",
+          "vi": "Con tự đưa tiền boa cho anh phục vụ đó!"
+        }
+      ]
+    }
+  ]
+}

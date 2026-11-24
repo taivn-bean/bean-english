@@ -1,0 +1,1703 @@
+{
+  "deckId": "v-technology",
+  "words": [
+    {
+      "id": "v-technology-001",
+      "en": "phone",
+      "vi": "điện thoại",
+      "pos": "noun",
+      "emoji": "📱",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ring ring, it's the phone!",
+          "vi": "Reng reng, điện thoại kêu kìa!"
+        },
+        {
+          "en": "Where's my phone?",
+          "vi": "Điện thoại của mình đâu rồi?"
+        },
+        {
+          "en": "Let's call Grandma on the phone.",
+          "vi": "Mình gọi điện cho bà nha."
+        },
+        {
+          "en": "The phone is not a toy, okay?",
+          "vi": "Điện thoại không phải đồ chơi nha."
+        },
+        {
+          "en": "Can I talk on the phone?",
+          "vi": "Con nói chuyện điện thoại được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-002",
+      "en": "tablet",
+      "vi": "máy tính bảng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, the tablet is dead.",
+          "vi": "À, máy tính bảng hết pin rồi."
+        },
+        {
+          "en": "Can you put the tablet away?",
+          "vi": "Con cất máy tính bảng đi được không?"
+        },
+        {
+          "en": "Let's use the tablet for twenty minutes.",
+          "vi": "Mình xài máy tính bảng hai mươi phút thôi nha."
+        },
+        {
+          "en": "The tablet stays in the living room.",
+          "vi": "Máy tính bảng để ở phòng khách thôi nha."
+        },
+        {
+          "en": "Can I play on the tablet?",
+          "vi": "Con chơi máy tính bảng được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-003",
+      "en": "TV",
+      "vi": "ti vi",
+      "pos": "noun",
+      "emoji": "📺",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "TV time!",
+          "vi": "Tới giờ coi ti vi rồi!"
+        },
+        {
+          "en": "Can you turn off the TV?",
+          "vi": "Con tắt ti vi giùm được không?"
+        },
+        {
+          "en": "Let's watch TV together.",
+          "vi": "Mình coi ti vi chung nha."
+        },
+        {
+          "en": "The TV is too loud.",
+          "vi": "Ti vi mở lớn quá."
+        },
+        {
+          "en": "Can I watch TV after dinner?",
+          "vi": "Ăn tối xong con coi ti vi được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-004",
+      "en": "computer",
+      "vi": "máy vi tính",
+      "pos": "noun",
+      "emoji": "🖥️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, Daddy's computer!",
+          "vi": "Nhìn nè, máy tính của ba!"
+        },
+        {
+          "en": "Can I use the computer?",
+          "vi": "Cho con xài máy tính được không?"
+        },
+        {
+          "en": "Let's look it up on the computer.",
+          "vi": "Mình tra trên máy tính nha."
+        },
+        {
+          "en": "The computer is really slow today.",
+          "vi": "Hôm nay máy tính chạy chậm ghê."
+        },
+        {
+          "en": "I typed my name on the computer!",
+          "vi": "Con gõ tên con trên máy tính rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-005",
+      "en": "laptop",
+      "vi": "máy tính xách tay / laptop",
+      "pos": "noun",
+      "emoji": "💻",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Careful, that's Mommy's laptop!",
+          "vi": "Cẩn thận, laptop của mẹ đó!"
+        },
+        {
+          "en": "Is your laptop charged for school?",
+          "vi": "Laptop đi học của con sạc chưa?"
+        },
+        {
+          "en": "Close the laptop gently, please.",
+          "vi": "Con gập laptop nhẹ nhẹ nha."
+        },
+        {
+          "en": "This laptop is so light.",
+          "vi": "Cái laptop này nhẹ ghê."
+        },
+        {
+          "en": "I need the laptop for my project.",
+          "vi": "Con cần laptop để làm dự án."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-006",
+      "en": "screen",
+      "vi": "màn hình",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big screen!",
+          "vi": "Wow, màn hình to quá!"
+        },
+        {
+          "en": "Who touched the screen?",
+          "vi": "Ai đụng vô màn hình vậy?"
+        },
+        {
+          "en": "Don't sit too close to the screen.",
+          "vi": "Đừng ngồi gần màn hình quá nha."
+        },
+        {
+          "en": "The screen is all smudged.",
+          "vi": "Màn hình dơ hết rồi."
+        },
+        {
+          "en": "The screen went black!",
+          "vi": "Màn hình tắt đen rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-007",
+      "en": "charger",
+      "vi": "đồ sạc",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the charger!",
+          "vi": "Đồ sạc nè!"
+        },
+        {
+          "en": "Have you seen my phone charger?",
+          "vi": "Con có thấy đồ sạc điện thoại của mình không?"
+        },
+        {
+          "en": "Plug the charger in, please.",
+          "vi": "Con cắm đồ sạc vô giùm nha."
+        },
+        {
+          "en": "The charger is in the kitchen drawer.",
+          "vi": "Đồ sạc ở trong ngăn kéo nhà bếp."
+        },
+        {
+          "en": "I forgot my charger at Grandma's.",
+          "vi": "Con bỏ quên đồ sạc ở nhà bà rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-008",
+      "en": "battery",
+      "vi": "pin",
+      "pos": "noun",
+      "emoji": "🔋",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, the battery is dead!",
+          "vi": "Ối, hết pin rồi!"
+        },
+        {
+          "en": "Does this toy need a new battery?",
+          "vi": "Đồ chơi này cần thay pin không?"
+        },
+        {
+          "en": "Let's change the batteries together.",
+          "vi": "Mình thay pin chung nha."
+        },
+        {
+          "en": "The battery is almost empty.",
+          "vi": "Pin sắp hết rồi."
+        },
+        {
+          "en": "My car stopped, it needs batteries!",
+          "vi": "Xe con dừng rồi, cần pin!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-009",
+      "en": "video",
+      "vi": "video / đoạn phim",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a funny video!",
+          "vi": "Ồ, video vui ghê!"
+        },
+        {
+          "en": "Want to see a video of you?",
+          "vi": "Con muốn coi video quay con không?"
+        },
+        {
+          "en": "Let's make a video for Grandma.",
+          "vi": "Mình quay video gửi bà nha."
+        },
+        {
+          "en": "That video was so cute.",
+          "vi": "Video đó dễ thương quá."
+        },
+        {
+          "en": "Can I watch one more video?",
+          "vi": "Cho con coi thêm một video nữa được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-010",
+      "en": "video game",
+      "vi": "trò chơi điện tử / game",
+      "pos": "noun",
+      "emoji": "🎮",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, a new video game!",
+          "vi": "Ồ, game mới nè!"
+        },
+        {
+          "en": "What's your favorite video game?",
+          "vi": "Con thích game nào nhất?"
+        },
+        {
+          "en": "Let's play a video game together.",
+          "vi": "Mình chơi game chung nha."
+        },
+        {
+          "en": "That video game is too scary for kids.",
+          "vi": "Game đó đáng sợ quá, không hợp với trẻ em."
+        },
+        {
+          "en": "I beat level three in my video game!",
+          "vi": "Con qua được màn ba trong game rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-011",
+      "en": "app",
+      "vi": "ứng dụng / app",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a drawing app!",
+          "vi": "Ồ, app vẽ hình nè!"
+        },
+        {
+          "en": "Which app do you want to use?",
+          "vi": "Con muốn xài app nào?"
+        },
+        {
+          "en": "Ask me before you download an app.",
+          "vi": "Muốn tải app thì hỏi mình trước nha."
+        },
+        {
+          "en": "This app teaches you letters.",
+          "vi": "App này dạy chữ cái đó."
+        },
+        {
+          "en": "I learned a song on this app!",
+          "vi": "Con học được bài hát trên app này!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-012",
+      "en": "password",
+      "vi": "mật khẩu",
+      "pos": "noun",
+      "emoji": "🔑",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oops, wrong password!",
+          "vi": "Ối, sai mật khẩu rồi!"
+        },
+        {
+          "en": "Do you remember your password?",
+          "vi": "Con có nhớ mật khẩu không?"
+        },
+        {
+          "en": "Never share your password with anyone, okay?",
+          "vi": "Đừng bao giờ cho ai biết mật khẩu nha."
+        },
+        {
+          "en": "A good password is long and hard to guess.",
+          "vi": "Mật khẩu tốt là dài và khó đoán."
+        },
+        {
+          "en": "I made a new password for my game.",
+          "vi": "Con đặt mật khẩu mới cho game của con."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-013",
+      "en": "internet",
+      "vi": "mạng internet",
+      "pos": "noun",
+      "emoji": "🌐",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, the internet is down!",
+          "vi": "Ối, rớt mạng rồi!"
+        },
+        {
+          "en": "Can you find it on the internet?",
+          "vi": "Con tìm trên mạng được không?"
+        },
+        {
+          "en": "Ask me before you go on the internet.",
+          "vi": "Muốn lên mạng thì hỏi mình trước nha."
+        },
+        {
+          "en": "The internet is super slow today.",
+          "vi": "Hôm nay mạng chậm quá trời."
+        },
+        {
+          "en": "I looked up sharks on the internet!",
+          "vi": "Con tra về cá mập trên mạng!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-014",
+      "en": "Wi-Fi",
+      "vi": "wifi",
+      "pos": "noun",
+      "emoji": "🛜",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, no Wi-Fi!",
+          "vi": "Ôi, không có wifi!"
+        },
+        {
+          "en": "Is the Wi-Fi working?",
+          "vi": "Wifi có chạy không?"
+        },
+        {
+          "en": "Let's turn the Wi-Fi off at bedtime.",
+          "vi": "Tới giờ ngủ mình tắt wifi nha."
+        },
+        {
+          "en": "The Wi-Fi is weak in your room.",
+          "vi": "Wifi trong phòng con yếu lắm."
+        },
+        {
+          "en": "The Wi-Fi isn't working again!",
+          "vi": "Wifi lại hư nữa rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-015",
+      "en": "keyboard",
+      "vi": "bàn phím",
+      "pos": "noun",
+      "emoji": "⌨️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a rainbow keyboard!",
+          "vi": "Nhìn nè, bàn phím bảy màu!"
+        },
+        {
+          "en": "Where's the letter A on the keyboard?",
+          "vi": "Chữ A trên bàn phím ở đâu?"
+        },
+        {
+          "en": "Keep your snacks away from the keyboard.",
+          "vi": "Để đồ ăn xa bàn phím ra nha."
+        },
+        {
+          "en": "This keyboard is so loud!",
+          "vi": "Bàn phím này gõ kêu lạch cạch ghê!"
+        },
+        {
+          "en": "I can type fast on the keyboard!",
+          "vi": "Con gõ bàn phím nhanh lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-016",
+      "en": "computer mouse",
+      "vi": "con chuột máy tính",
+      "pos": "noun",
+      "emoji": "🖱️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the computer mouse.",
+          "vi": "Con chuột máy tính nè."
+        },
+        {
+          "en": "Can you move the computer mouse?",
+          "vi": "Con di chuyển con chuột được không?"
+        },
+        {
+          "en": "Click the computer mouse right here.",
+          "vi": "Con bấm chuột chỗ này nè."
+        },
+        {
+          "en": "This computer mouse doesn't have a wire.",
+          "vi": "Con chuột máy tính này không có dây."
+        },
+        {
+          "en": "I clicked with the computer mouse!",
+          "vi": "Con bấm chuột được rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-017",
+      "en": "headphones",
+      "vi": "tai nghe",
+      "pos": "noun",
+      "emoji": "🎧",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, cool headphones!",
+          "vi": "Ồ, tai nghe ngầu ghê!"
+        },
+        {
+          "en": "Where are your headphones?",
+          "vi": "Tai nghe của con đâu?"
+        },
+        {
+          "en": "Headphones on in the car, please.",
+          "vi": "Ở trên xe con đeo tai nghe vô nha."
+        },
+        {
+          "en": "These headphones are too loud.",
+          "vi": "Tai nghe này mở lớn quá."
+        },
+        {
+          "en": "I can hear music in my headphones!",
+          "vi": "Con nghe nhạc trong tai nghe nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-018",
+      "en": "earbuds",
+      "vi": "tai nghe nhét tai",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, tiny earbuds!",
+          "vi": "Nhìn nè, tai nghe nhét tai nhỏ xíu!",
+          "ipa": "/lʊk ˈtaɪni iɹbʌdz/"
+        },
+        {
+          "en": "Did you lose an earbud again?",
+          "vi": "Con lại làm rớt một bên tai nghe hả?",
+          "ipa": "/dɪd ju luz æn iɹbʌd əˈɡɛn/"
+        },
+        {
+          "en": "Take your earbuds out when I'm talking.",
+          "vi": "Lúc mình nói chuyện thì con tháo tai nghe ra nha.",
+          "ipa": "/teɪk jɔɹ iɹbʌdz aʊt wɛn aɪm ˈtɔkɪŋ/"
+        },
+        {
+          "en": "Earbuds are easy to lose.",
+          "vi": "Tai nghe nhét tai dễ mất lắm.",
+          "ipa": "/iɹbʌdz ɑɹ ˈizi tu luz/"
+        },
+        {
+          "en": "My earbuds are in the case.",
+          "vi": "Tai nghe của con ở trong hộp.",
+          "ipa": "/maɪ iɹbʌdz ɑɹ ɪn ðə keɪs/"
+        }
+      ],
+      "ipa": "/iɹbʌdz/"
+    },
+    {
+      "id": "v-technology-019",
+      "en": "remote",
+      "vi": "cái điều khiển / remote",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the remote!",
+          "vi": "Cái remote nè!"
+        },
+        {
+          "en": "Where did the remote go?",
+          "vi": "Cái remote đâu mất rồi?"
+        },
+        {
+          "en": "Can you give me the remote?",
+          "vi": "Con đưa mình cái remote được không?"
+        },
+        {
+          "en": "The remote is under the couch!",
+          "vi": "Cái remote nằm dưới ghế sofa kìa!"
+        },
+        {
+          "en": "I found the remote!",
+          "vi": "Con tìm được cái remote rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-020",
+      "en": "email",
+      "vi": "thư điện tử / email",
+      "pos": "noun",
+      "emoji": "📧",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, an email from your teacher!",
+          "vi": "À, có email của cô giáo nè!"
+        },
+        {
+          "en": "Did you check your email?",
+          "vi": "Con kiểm tra email chưa?"
+        },
+        {
+          "en": "Let's write an email to Grandpa.",
+          "vi": "Mình viết email gửi ông nha."
+        },
+        {
+          "en": "The email had a really cute photo.",
+          "vi": "Email đó có tấm hình dễ thương ghê."
+        },
+        {
+          "en": "I sent my first email today!",
+          "vi": "Hôm nay con gửi email đầu tiên!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-021",
+      "en": "photo",
+      "vi": "tấm hình",
+      "pos": "noun",
+      "emoji": "🖼️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a photo of you!",
+          "vi": "Nhìn nè, hình của con nè!"
+        },
+        {
+          "en": "Can I take your photo?",
+          "vi": "Mình chụp hình con được không?"
+        },
+        {
+          "en": "Let's take a family photo.",
+          "vi": "Mình chụp hình cả nhà nha."
+        },
+        {
+          "en": "What a beautiful photo!",
+          "vi": "Tấm hình đẹp quá!"
+        },
+        {
+          "en": "I want to see the photos!",
+          "vi": "Con muốn coi hình!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-022",
+      "en": "selfie",
+      "vi": "ảnh tự chụp / selfie",
+      "pos": "noun",
+      "emoji": "🤳",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Selfie time!",
+          "vi": "Tới giờ chụp selfie!"
+        },
+        {
+          "en": "Do you want to take a selfie?",
+          "vi": "Con muốn chụp selfie không?"
+        },
+        {
+          "en": "Let's take a silly selfie!",
+          "vi": "Mình chụp selfie mặt hề đi!"
+        },
+        {
+          "en": "That selfie is so funny.",
+          "vi": "Tấm selfie đó mắc cười ghê."
+        },
+        {
+          "en": "I took a selfie with the dog!",
+          "vi": "Con chụp selfie với con chó!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-023",
+      "en": "volume",
+      "vi": "âm lượng",
+      "pos": "noun",
+      "emoji": "🔊",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, the volume is too high!",
+          "vi": "Trời, âm lượng lớn quá!"
+        },
+        {
+          "en": "Can you turn the volume down?",
+          "vi": "Con vặn nhỏ âm lượng được không?"
+        },
+        {
+          "en": "Keep the volume low, please.",
+          "vi": "Để âm lượng nhỏ thôi nha."
+        },
+        {
+          "en": "The volume is just right now.",
+          "vi": "Âm lượng vừa rồi đó."
+        },
+        {
+          "en": "I turned the volume up!",
+          "vi": "Con mở lớn âm lượng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-024",
+      "en": "online",
+      "vi": "trên mạng / trực tuyến",
+      "pos": "adverb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, Grandma's online!",
+          "vi": "Nhìn nè, bà đang online!"
+        },
+        {
+          "en": "Who are you talking to online?",
+          "vi": "Con đang nói chuyện với ai trên mạng vậy?"
+        },
+        {
+          "en": "Be kind online, just like in real life.",
+          "vi": "Trên mạng cũng phải tử tế như ngoài đời nha."
+        },
+        {
+          "en": "Not everything online is true.",
+          "vi": "Không phải cái gì trên mạng cũng đúng đâu."
+        },
+        {
+          "en": "I had my class online today.",
+          "vi": "Hôm nay con học trực tuyến."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-025",
+      "en": "offline",
+      "vi": "ngoại tuyến / không có mạng",
+      "pos": "adverb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oops, I'm offline!",
+          "vi": "Ối, mình bị mất mạng rồi!"
+        },
+        {
+          "en": "Does this game work offline?",
+          "vi": "Game này chơi không cần mạng được không?"
+        },
+        {
+          "en": "Let's go offline and play outside.",
+          "vi": "Mình tắt mạng ra ngoài chơi nha."
+        },
+        {
+          "en": "It's nice to be offline sometimes.",
+          "vi": "Thỉnh thoảng không lên mạng cũng dễ chịu ghê."
+        },
+        {
+          "en": "The app works offline, so we can use it on the plane.",
+          "vi": "App này chạy không cần mạng nên xài trên máy bay được."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-026",
+      "en": "screen time",
+      "vi": "thời gian dùng thiết bị",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Okay, screen time's over!",
+          "vi": "Rồi, hết giờ xem màn hình rồi!"
+        },
+        {
+          "en": "How much screen time is left?",
+          "vi": "Còn bao nhiêu thời gian xem màn hình?"
+        },
+        {
+          "en": "Let's do homework before screen time.",
+          "vi": "Làm bài tập trước rồi mới tới giờ xem màn hình nha."
+        },
+        {
+          "en": "Too much screen time isn't good for your eyes.",
+          "vi": "Xem màn hình nhiều quá không tốt cho mắt."
+        },
+        {
+          "en": "Can I have extra screen time on Saturday?",
+          "vi": "Thứ Bảy con được thêm giờ xem màn hình không?"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-027",
+      "en": "website",
+      "vi": "trang web",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a website about dinosaurs!",
+          "vi": "Nhìn nè, trang web về khủng long!"
+        },
+        {
+          "en": "Which website does your teacher use?",
+          "vi": "Cô giáo con xài trang web nào?"
+        },
+        {
+          "en": "Only use websites we picked together.",
+          "vi": "Chỉ vô mấy trang web mình chọn chung thôi nha."
+        },
+        {
+          "en": "This website has so many fun games.",
+          "vi": "Trang web này có nhiều trò vui ghê."
+        },
+        {
+          "en": "I found a cool website about space!",
+          "vi": "Con tìm được trang web hay về vũ trụ!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-028",
+      "en": "download",
+      "vi": "tải về",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, it's still downloading.",
+          "vi": "À, nó vẫn đang tải."
+        },
+        {
+          "en": "Can I download this game?",
+          "vi": "Con tải game này được không?"
+        },
+        {
+          "en": "Ask me first before you download anything.",
+          "vi": "Muốn tải gì về thì hỏi mình trước nha."
+        },
+        {
+          "en": "That download is taking forever!",
+          "vi": "Tải lâu quá trời!"
+        },
+        {
+          "en": "I downloaded the book for our trip.",
+          "vi": "Con tải cuốn sách về để đọc lúc đi chơi rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-029",
+      "en": "video call",
+      "vi": "gọi video",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Video call with Grandma!",
+          "vi": "Gọi video với bà nè!"
+        },
+        {
+          "en": "Do you want to video call Daddy?",
+          "vi": "Con muốn gọi video cho ba không?"
+        },
+        {
+          "en": "Let's wave on the video call!",
+          "vi": "Mình vẫy tay lúc gọi video nha!"
+        },
+        {
+          "en": "That was a fun video call.",
+          "vi": "Gọi video vui ghê."
+        },
+        {
+          "en": "I danced on the video call!",
+          "vi": "Con nhảy lúc gọi video nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-030",
+      "en": "text message",
+      "vi": "tin nhắn",
+      "pos": "noun",
+      "emoji": "💬",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, a text message from Daddy!",
+          "vi": "À, ba nhắn tin nè!"
+        },
+        {
+          "en": "Who sent you that text message?",
+          "vi": "Ai nhắn tin cho con vậy?"
+        },
+        {
+          "en": "Let's send Grandma a text message.",
+          "vi": "Mình nhắn tin cho bà nha."
+        },
+        {
+          "en": "That text message made me smile.",
+          "vi": "Tin nhắn đó làm mình cười."
+        },
+        {
+          "en": "I wrote a text message to my cousin.",
+          "vi": "Con nhắn tin cho anh họ."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-031",
+      "en": "printer",
+      "vi": "máy in",
+      "pos": "noun",
+      "emoji": "🖨️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Listen, the printer is working!",
+          "vi": "Nghe nè, máy in đang chạy!"
+        },
+        {
+          "en": "Is the printer out of paper?",
+          "vi": "Máy in hết giấy hả?"
+        },
+        {
+          "en": "Let's print your coloring page on the printer.",
+          "vi": "Mình in hình tô màu bằng máy in nha."
+        },
+        {
+          "en": "The printer is so noisy!",
+          "vi": "Máy in kêu ồn ghê!"
+        },
+        {
+          "en": "The printer made a copy of my drawing!",
+          "vi": "Máy in in ra bức vẽ của con rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-032",
+      "en": "speaker",
+      "vi": "cái loa",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Music on the speaker!",
+          "vi": "Mở nhạc ra loa nè!"
+        },
+        {
+          "en": "Can you hear the speaker?",
+          "vi": "Con có nghe loa không?"
+        },
+        {
+          "en": "Let's dance to the speaker!",
+          "vi": "Mình nhảy theo nhạc từ loa nha!"
+        },
+        {
+          "en": "This speaker is so loud.",
+          "vi": "Cái loa này kêu to ghê."
+        },
+        {
+          "en": "I want my song on the speaker!",
+          "vi": "Con muốn mở bài của con ra loa!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-033",
+      "en": "cable",
+      "vi": "dây cáp",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Watch out for the cable!",
+          "vi": "Coi chừng sợi dây cáp!"
+        },
+        {
+          "en": "Which cable goes in here?",
+          "vi": "Sợi dây nào cắm vô đây vậy?"
+        },
+        {
+          "en": "Wrap the cable up neatly, please.",
+          "vi": "Con quấn dây cáp lại gọn gàng nha."
+        },
+        {
+          "en": "This cable is way too short.",
+          "vi": "Sợi dây cáp này ngắn quá."
+        },
+        {
+          "en": "I tripped over the cable.",
+          "vi": "Con vấp phải sợi dây cáp."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-034",
+      "en": "charge",
+      "vi": "sạc pin",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's charging, look!",
+          "vi": "Đang sạc pin nè!"
+        },
+        {
+          "en": "Did you charge the tablet?",
+          "vi": "Con sạc máy tính bảng chưa?"
+        },
+        {
+          "en": "Let's charge it overnight.",
+          "vi": "Mình sạc qua đêm nha."
+        },
+        {
+          "en": "It's fully charged now.",
+          "vi": "Pin đầy rồi đó."
+        },
+        {
+          "en": "I'll charge my watch before bed.",
+          "vi": "Con sẽ sạc đồng hồ trước khi ngủ."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-035",
+      "en": "click",
+      "vi": "bấm (chuột)",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Click, click!",
+          "vi": "Bấm nè, bấm nè!"
+        },
+        {
+          "en": "Where do I click?",
+          "vi": "Bấm vô chỗ nào ta?"
+        },
+        {
+          "en": "Click the green button.",
+          "vi": "Con bấm cái nút màu xanh lá."
+        },
+        {
+          "en": "One click is enough, be patient.",
+          "vi": "Bấm một lần là đủ rồi, kiên nhẫn chút nha."
+        },
+        {
+          "en": "I clicked on the game!",
+          "vi": "Con bấm vô game rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-036",
+      "en": "type",
+      "vi": "gõ phím",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you type so fast!",
+          "vi": "Wow, con gõ phím nhanh ghê!"
+        },
+        {
+          "en": "Can you type your name?",
+          "vi": "Con gõ tên con được không?"
+        },
+        {
+          "en": "Type the password slowly.",
+          "vi": "Con gõ mật khẩu từ từ thôi."
+        },
+        {
+          "en": "Two hands make it faster to type.",
+          "vi": "Gõ bằng hai tay nhanh hơn đó."
+        },
+        {
+          "en": "I'm learning to type at school.",
+          "vi": "Con đang học gõ phím ở trường."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-037",
+      "en": "search",
+      "vi": "tìm kiếm (trên mạng)",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's search for it!",
+          "vi": "Mình tìm trên mạng thử nha!"
+        },
+        {
+          "en": "What should we search for?",
+          "vi": "Mình nên tìm từ gì đây?"
+        },
+        {
+          "en": "Search for \"how do bees make honey.\"",
+          "vi": "Con tìm thử \"ong làm mật như thế nào\"."
+        },
+        {
+          "en": "Searching online is faster than guessing.",
+          "vi": "Tìm trên mạng nhanh hơn ngồi đoán."
+        },
+        {
+          "en": "I searched for pictures of pandas.",
+          "vi": "Con tìm hình gấu trúc trên mạng."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-038",
+      "en": "delete",
+      "vi": "xóa",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oops, you deleted it!",
+          "vi": "Ối, con xóa mất rồi!"
+        },
+        {
+          "en": "Should we delete this photo?",
+          "vi": "Mình xóa tấm hình này nha?"
+        },
+        {
+          "en": "Delete the games you don't play.",
+          "vi": "Con xóa mấy game không chơi nữa đi."
+        },
+        {
+          "en": "Once it's deleted, it's gone.",
+          "vi": "Xóa rồi là mất luôn đó."
+        },
+        {
+          "en": "I deleted the blurry photos.",
+          "vi": "Con xóa mấy tấm hình bị mờ rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-039",
+      "en": "log in",
+      "vi": "đăng nhập",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Okay, you're logged in!",
+          "vi": "Rồi, con đăng nhập được rồi!"
+        },
+        {
+          "en": "Can you log in by yourself?",
+          "vi": "Con tự đăng nhập được không?"
+        },
+        {
+          "en": "Log in with your school account.",
+          "vi": "Con đăng nhập bằng tài khoản của trường nha."
+        },
+        {
+          "en": "It's hard to log in with a long password.",
+          "vi": "Mật khẩu dài thì đăng nhập hơi khó."
+        },
+        {
+          "en": "I can't log in, can you help me?",
+          "vi": "Con không đăng nhập được, giúp con với?"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-040",
+      "en": "controller",
+      "vi": "tay cầm chơi game",
+      "pos": "noun",
+      "emoji": "🎮",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your controller!",
+          "vi": "Tay cầm của con nè!"
+        },
+        {
+          "en": "Which controller is mine?",
+          "vi": "Tay cầm nào của mình?"
+        },
+        {
+          "en": "Hold the controller with both hands.",
+          "vi": "Con cầm tay cầm bằng hai tay nha."
+        },
+        {
+          "en": "This controller needs new batteries.",
+          "vi": "Tay cầm này cần thay pin."
+        },
+        {
+          "en": "I dropped the controller, sorry!",
+          "vi": "Con làm rớt tay cầm, con xin lỗi!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-041",
+      "en": "smartwatch",
+      "vi": "đồng hồ thông minh",
+      "pos": "noun",
+      "emoji": "⌚",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a smartwatch!",
+          "vi": "Ồ, đồng hồ thông minh nè!",
+          "ipa": "/u ə smɑɹtwɑtʃ/"
+        },
+        {
+          "en": "Can your smartwatch call Mommy?",
+          "vi": "Đồng hồ thông minh của con gọi cho mẹ được không?",
+          "ipa": "/kæn jɔɹ smɑɹtwɑtʃ kɔl ˈmɑmi/"
+        },
+        {
+          "en": "Wear your smartwatch on the field trip.",
+          "vi": "Đi dã ngoại con đeo đồng hồ thông minh nha.",
+          "ipa": "/wɛɹ jɔɹ smɑɹtwɑtʃ ɑn ðə fild tɹɪp/"
+        },
+        {
+          "en": "This smartwatch counts your steps.",
+          "vi": "Đồng hồ thông minh này đếm bước chân đó.",
+          "ipa": "/ðɪs smɑɹtwɑtʃ kaʊnts jɔɹ stɛps/"
+        },
+        {
+          "en": "I'd like a smartwatch for my birthday.",
+          "vi": "Sinh nhật con muốn có đồng hồ thông minh.",
+          "ipa": "/aɪd laɪk ə smɑɹtwɑtʃ fɔɹ maɪ ˈbɝθˌdeɪ/"
+        }
+      ],
+      "ipa": "/smɑɹtwɑtʃ/"
+    },
+    {
+      "id": "v-technology-042",
+      "en": "swipe",
+      "vi": "vuốt (màn hình)",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Swipe, swipe!",
+          "vi": "Vuốt, vuốt!"
+        },
+        {
+          "en": "Can you swipe to the next photo?",
+          "vi": "Con vuốt qua tấm hình kế được không?"
+        },
+        {
+          "en": "Swipe left to see more.",
+          "vi": "Vuốt qua trái để coi thêm nha."
+        },
+        {
+          "en": "Swiping is so easy for you!",
+          "vi": "Con vuốt màn hình dễ ợt!"
+        },
+        {
+          "en": "I swiped to the next page!",
+          "vi": "Con vuốt qua trang kế rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-043",
+      "en": "scroll",
+      "vi": "cuộn (màn hình)",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Scroll down, there it is!",
+          "vi": "Cuộn xuống, nó đây rồi!"
+        },
+        {
+          "en": "Can you scroll back up?",
+          "vi": "Con cuộn lên lại được không?"
+        },
+        {
+          "en": "Stop scrolling and look at me, please.",
+          "vi": "Ngưng lướt màn hình mà nhìn mình nè."
+        },
+        {
+          "en": "Scrolling for too long makes you tired.",
+          "vi": "Lướt điện thoại lâu quá sẽ mệt lắm."
+        },
+        {
+          "en": "I can scroll all the way down.",
+          "vi": "Con cuộn được tới tận cuối luôn."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-044",
+      "en": "pause",
+      "vi": "tạm dừng",
+      "pos": "verb",
+      "emoji": "⏸️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Pause it, please!",
+          "vi": "Dừng lại chút nha!"
+        },
+        {
+          "en": "Can you pause the movie?",
+          "vi": "Con bấm dừng phim được không?"
+        },
+        {
+          "en": "Pause the game, it's dinnertime.",
+          "vi": "Dừng game lại đi, tới giờ ăn tối rồi."
+        },
+        {
+          "en": "The show is paused, so take your time.",
+          "vi": "Phim đang dừng rồi, con cứ từ từ."
+        },
+        {
+          "en": "I paused it so you can watch too!",
+          "vi": "Con bấm dừng để ba mẹ coi chung nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-045",
+      "en": "mute",
+      "vi": "tắt tiếng",
+      "pos": "verb",
+      "emoji": "🔇",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oops, you're on mute!",
+          "vi": "Ối, con đang tắt tiếng đó!"
+        },
+        {
+          "en": "Can you mute the TV?",
+          "vi": "Con tắt tiếng ti vi được không?"
+        },
+        {
+          "en": "Mute your mic during class.",
+          "vi": "Trong giờ học con tắt mic nha."
+        },
+        {
+          "en": "It's so quiet when it's on mute.",
+          "vi": "Tắt tiếng thì im re luôn."
+        },
+        {
+          "en": "I muted the ads in my game.",
+          "vi": "Con tắt tiếng quảng cáo trong game rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-046",
+      "en": "unplug",
+      "vi": "rút phích cắm",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Unplug it, please!",
+          "vi": "Rút phích ra giùm nha!"
+        },
+        {
+          "en": "Did you unplug the charger?",
+          "vi": "Con rút đồ sạc ra chưa?"
+        },
+        {
+          "en": "Unplug the cord gently, like this.",
+          "vi": "Rút dây nhẹ nhẹ như vầy nè."
+        },
+        {
+          "en": "It's safer to unplug things you're not using.",
+          "vi": "Đồ không xài thì rút ra cho an toàn."
+        },
+        {
+          "en": "I unplugged the lamp all by myself.",
+          "vi": "Con tự rút phích đèn ra rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-047",
+      "en": "emoji",
+      "vi": "biểu tượng cảm xúc",
+      "pos": "noun",
+      "emoji": "😀",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ha, a funny emoji!",
+          "vi": "Ha, biểu tượng mắc cười ghê!",
+          "ipa": "/hɑ ə ˈfʌni imoʊdʒi/"
+        },
+        {
+          "en": "Which emoji should we send Grandma?",
+          "vi": "Mình gửi biểu tượng nào cho bà đây?",
+          "ipa": "/wɪtʃ imoʊdʒi ʃʊd wi sɛnd ˈɡɹændmɑ/"
+        },
+        {
+          "en": "Pick an emoji for how you feel.",
+          "vi": "Con chọn biểu tượng giống cảm xúc của con nha.",
+          "ipa": "/pɪk æn imoʊdʒi fɔɹ haʊ ju fil/"
+        },
+        {
+          "en": "That emoji looks just like you!",
+          "vi": "Biểu tượng đó giống con y chang!",
+          "ipa": "/ðæt imoʊdʒi lʊks dʒʌst laɪk ju/"
+        },
+        {
+          "en": "I sent Daddy a heart emoji.",
+          "vi": "Con gửi ba biểu tượng trái tim.",
+          "ipa": "/aɪ sɛnt ˈdædi ə hɑɹt imoʊdʒi/"
+        }
+      ],
+      "ipa": "/imoʊdʒi/"
+    },
+    {
+      "id": "v-technology-048",
+      "en": "TV show",
+      "vi": "chương trình ti vi",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, your TV show is on!",
+          "vi": "Ồ, tới chương trình con thích rồi!"
+        },
+        {
+          "en": "What's your favorite TV show?",
+          "vi": "Con thích chương trình ti vi nào nhất?"
+        },
+        {
+          "en": "One TV show, then bath time.",
+          "vi": "Coi một chương trình rồi đi tắm nha."
+        },
+        {
+          "en": "That TV show is really funny.",
+          "vi": "Chương trình đó mắc cười ghê."
+        },
+        {
+          "en": "I watched a TV show about sharks.",
+          "vi": "Con coi chương trình về cá mập."
+        }
+      ]
+    },
+    {
+      "id": "v-technology-049",
+      "en": "coding",
+      "vi": "lập trình",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're coding a game!",
+          "vi": "Wow, con đang lập trình game hả!"
+        },
+        {
+          "en": "Do you like coding class?",
+          "vi": "Con có thích tiết lập trình không?"
+        },
+        {
+          "en": "Let's try a fun coding app together.",
+          "vi": "Mình thử app học lập trình chung nha."
+        },
+        {
+          "en": "Coding is like giving a robot instructions.",
+          "vi": "Lập trình giống như ra lệnh cho người máy vậy."
+        },
+        {
+          "en": "I made a dancing cat with coding!",
+          "vi": "Con lập trình được con mèo biết nhảy!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-050",
+      "en": "update",
+      "vi": "cập nhật",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, the tablet is updating.",
+          "vi": "À, máy tính bảng đang cập nhật."
+        },
+        {
+          "en": "Does the app need an update?",
+          "vi": "App có cần cập nhật không?"
+        },
+        {
+          "en": "Let's update it before we leave.",
+          "vi": "Mình cập nhật trước khi đi nha."
+        },
+        {
+          "en": "This update is taking forever.",
+          "vi": "Cập nhật lâu ghê."
+        },
+        {
+          "en": "I updated my game, it has new levels!",
+          "vi": "Con cập nhật game rồi, có màn mới nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-051",
+      "en": "loading",
+      "vi": "đang tải",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Still loading...",
+          "vi": "Vẫn đang tải..."
+        },
+        {
+          "en": "Is it still loading?",
+          "vi": "Nó vẫn đang tải hả?"
+        },
+        {
+          "en": "Wait for it to finish loading.",
+          "vi": "Chờ nó tải xong đã nha."
+        },
+        {
+          "en": "This page is loading so slowly.",
+          "vi": "Trang này tải chậm ghê."
+        },
+        {
+          "en": "The game is loading, almost ready!",
+          "vi": "Game đang tải, sắp xong rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-technology-052",
+      "en": "power button",
+      "vi": "nút nguồn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the power button.",
+          "vi": "Nút nguồn ở đây nè."
+        },
+        {
+          "en": "Where's the power button on this?",
+          "vi": "Nút nguồn của cái này ở đâu?"
+        },
+        {
+          "en": "Hold the power button to turn it off.",
+          "vi": "Con nhấn giữ nút nguồn để tắt máy nha."
+        },
+        {
+          "en": "The power button is really tiny.",
+          "vi": "Nút nguồn nhỏ xíu à."
+        },
+        {
+          "en": "I pressed the power button and it turned on!",
+          "vi": "Con bấm nút nguồn là nó mở lên!"
+        }
+      ]
+    }
+  ]
+}

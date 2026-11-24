@@ -2,16 +2,18 @@ import { useSuspenseQuery } from '@tanstack/react-query'
 import { createFileRoute, Link } from '@tanstack/react-router'
 import clsx from 'clsx'
 import { ChevronRight, MessagesSquare } from 'lucide-react'
+import { useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
-import { PageHeader } from '../../../components/Layout'
-import { PhraseCard } from '../../../components/PhraseCard'
-import { OfflineTag } from '../../../components/OfflineStatus'
-import { PlayAllButton } from '../../../components/PlaylistBar'
-import { useTopicOffline, useTopicSummary } from '../../../hooks/useOfflineStatus'
-import { downloadTopics } from '../../../lib/offline'
-import { useAgeFilter, useFavorites, useProgressMap } from '../../../hooks/useProfile'
-import { topicQuery, toPlaylist } from '../../../lib/content'
-import { useSettings } from '../../../lib/settings'
+import { PageHeader } from '@/shared/ui/Layout'
+import { PhraseCard } from '@/features/content/PhraseCard'
+import { PhraseLegend } from '@/features/content/PhraseLegend'
+import { OfflineTag } from '@/features/offline/OfflineStatus'
+import { PlayAllButton } from '@/features/audio/PlaylistBar'
+import { useTopicOffline, useTopicSummary } from '@/features/offline/useOfflineStatus'
+import { downloadTopics } from '@/features/offline/offline'
+import { useAgeFilter, useFavorites, useProgressMap } from '@/features/profile/useProfile'
+import { topicQuery, toPlaylist } from '@/features/content/content'
+import { useSettings } from '@/shared/settings'
 
 export const Route = createFileRoute('/topics/$topicId/')({
   // plain validator: keeps zod out of the startup bundle
@@ -36,6 +38,8 @@ function TopicPage() {
   const dialogues = topic.dialogues.filter((d) => fits(d.ages))
   const summary = useTopicSummary(topicId)
   const { offline, downloading } = useTopicOffline(summary)
+  const setSettings = useSettings((s) => s.set)
+  useEffect(() => setSettings({ lastTopicId: topicId }), [topicId, setSettings])
 
   return (
     <>
@@ -78,6 +82,7 @@ function TopicPage() {
         {(tab === 'phrases' ? phrases : dialogues).length === 0 && (
           <p className="rounded-3xl bg-leaf-50 p-6 text-center text-muted">{t('age.empty', { band: t(`age.band.${band}`) })}</p>
         )}
+        {tab === 'phrases' && phrases.length > 0 && <PhraseLegend />}
         {tab === 'phrases'
           ? phrases.map((p) => (
               <PhraseCard key={p.id} phrase={p} topicId={topicId} progress={progress.get(p.id)} favorite={favIds.has(p.id)} />

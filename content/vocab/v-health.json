@@ -1,0 +1,1728 @@
+{
+  "deckId": "v-health",
+  "words": [
+    {
+      "id": "v-health-001",
+      "en": "doctor",
+      "vi": "bác sĩ",
+      "pos": "noun",
+      "emoji": "🧑‍⚕️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's the doctor!",
+          "vi": "Nhìn kìa, bác sĩ kìa!"
+        },
+        {
+          "en": "Can you say hi to the doctor?",
+          "vi": "Con chào bác sĩ đi?"
+        },
+        {
+          "en": "Let's play doctor!",
+          "vi": "Mình chơi làm bác sĩ nha!"
+        },
+        {
+          "en": "The doctor is super nice.",
+          "vi": "Bác sĩ hiền lắm đó."
+        },
+        {
+          "en": "The doctor helps me feel better.",
+          "vi": "Bác sĩ giúp con hết bệnh."
+        }
+      ]
+    },
+    {
+      "id": "v-health-002",
+      "en": "nurse",
+      "vi": "y tá",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here comes the nurse!",
+          "vi": "Cô y tá tới rồi kìa!"
+        },
+        {
+          "en": "Can you tell the nurse your name?",
+          "vi": "Con nói tên cho cô y tá nghe nha?"
+        },
+        {
+          "en": "Hold the nurse's hand if you want.",
+          "vi": "Con nắm tay cô y tá cũng được nè."
+        },
+        {
+          "en": "The nurse has a gentle voice.",
+          "vi": "Cô y tá nói nhỏ nhẹ ghê."
+        },
+        {
+          "en": "The nurse gave me a sticker!",
+          "vi": "Cô y tá cho con hình dán nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-003",
+      "en": "dentist",
+      "vi": "nha sĩ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Today we're seeing the dentist!",
+          "vi": "Hôm nay mình đi nha sĩ nè!"
+        },
+        {
+          "en": "Are you ready for the dentist?",
+          "vi": "Con sẵn sàng đi nha sĩ chưa?"
+        },
+        {
+          "en": "Show the dentist your big smile.",
+          "vi": "Cười thật tươi cho nha sĩ coi nha."
+        },
+        {
+          "en": "The dentist keeps your teeth healthy.",
+          "vi": "Nha sĩ giữ cho răng con khoẻ."
+        },
+        {
+          "en": "The dentist counted all my teeth!",
+          "vi": "Nha sĩ đếm hết răng của con đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-004",
+      "en": "heal",
+      "vi": "lành (vết thương)",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, your knee is healing!",
+          "vi": "Nhìn nè, đầu gối con đang lành rồi!"
+        },
+        {
+          "en": "How long will it take to heal?",
+          "vi": "Bao lâu thì nó lành vậy?"
+        },
+        {
+          "en": "Leave the bandage on so it can heal.",
+          "vi": "Cứ để miếng băng cho vết thương mau lành nha."
+        },
+        {
+          "en": "Your body is great at healing itself.",
+          "vi": "Cơ thể con tự chữa lành giỏi lắm đó."
+        },
+        {
+          "en": "My scrape healed in just three days!",
+          "vi": "Chỗ trầy của con ba ngày là lành rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-005",
+      "en": "checkup",
+      "vi": "đi khám sức khoẻ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Time for your checkup!",
+          "vi": "Tới lúc đi khám sức khoẻ rồi!"
+        },
+        {
+          "en": "Do you remember your last checkup?",
+          "vi": "Con nhớ lần khám sức khoẻ trước không?"
+        },
+        {
+          "en": "Let's get ready for your checkup.",
+          "vi": "Mình chuẩn bị đi khám sức khoẻ nha."
+        },
+        {
+          "en": "A checkup is just to see how you're growing.",
+          "vi": "Khám sức khoẻ chỉ để coi con lớn tới đâu thôi."
+        },
+        {
+          "en": "I grew taller since my last checkup!",
+          "vi": "Con cao hơn so với lần khám trước nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-006",
+      "en": "medicine",
+      "vi": "thuốc",
+      "pos": "noun",
+      "emoji": "💊",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your medicine.",
+          "vi": "Thuốc của con nè."
+        },
+        {
+          "en": "Did you take your medicine?",
+          "vi": "Con uống thuốc chưa?"
+        },
+        {
+          "en": "Open up, here comes the medicine.",
+          "vi": "Há miệng ra, thuốc tới nè."
+        },
+        {
+          "en": "This medicine tastes like strawberry.",
+          "vi": "Thuốc này có vị dâu đó."
+        },
+        {
+          "en": "I took my medicine all by myself!",
+          "vi": "Con tự uống thuốc một mình đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-007",
+      "en": "pill",
+      "vi": "viên thuốc",
+      "pos": "noun",
+      "emoji": "💊",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's just one little pill.",
+          "vi": "Chỉ một viên thuốc nhỏ thôi."
+        },
+        {
+          "en": "Can you swallow the pill with water?",
+          "vi": "Con uống viên thuốc với nước được không?"
+        },
+        {
+          "en": "Put the pill on your tongue, then drink.",
+          "vi": "Để viên thuốc lên lưỡi rồi uống nước nha."
+        },
+        {
+          "en": "This pill is really tiny.",
+          "vi": "Viên thuốc này nhỏ xíu."
+        },
+        {
+          "en": "I swallowed the pill on the first try!",
+          "vi": "Con nuốt viên thuốc ngay lần đầu luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-008",
+      "en": "cough syrup",
+      "vi": "siro ho",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Time for cough syrup.",
+          "vi": "Tới giờ uống siro ho rồi."
+        },
+        {
+          "en": "Cough syrup in a spoon?",
+          "vi": "Uống siro ho bằng muỗng nha?"
+        },
+        {
+          "en": "Drink up your cough syrup, sweetie.",
+          "vi": "Uống hết siro ho nha con."
+        },
+        {
+          "en": "The cough syrup is sweet.",
+          "vi": "Siro ho ngọt ngọt đó."
+        },
+        {
+          "en": "The cough syrup helped me sleep.",
+          "vi": "Uống siro ho xong con ngủ ngon hơn."
+        }
+      ]
+    },
+    {
+      "id": "v-health-009",
+      "en": "vitamins",
+      "vi": "vitamin",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here are your vitamins!",
+          "vi": "Vitamin của con nè!"
+        },
+        {
+          "en": "Did you have your vitamins today?",
+          "vi": "Hôm nay con uống vitamin chưa?"
+        },
+        {
+          "en": "Chew your vitamins slowly.",
+          "vi": "Nhai vitamin từ từ nha con."
+        },
+        {
+          "en": "Vitamins help your body stay strong.",
+          "vi": "Vitamin giúp cơ thể con khoẻ mạnh."
+        },
+        {
+          "en": "My vitamins are shaped like bears!",
+          "vi": "Vitamin của con hình con gấu nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-010",
+      "en": "shot",
+      "vi": "mũi tiêm, chích ngừa",
+      "pos": "noun",
+      "emoji": "💉",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's just a quick shot.",
+          "vi": "Chỉ chích một cái nhanh thôi."
+        },
+        {
+          "en": "Hold my hand during the shot?",
+          "vi": "Lúc chích nắm tay mình nha?"
+        },
+        {
+          "en": "Take a big breath before your shot.",
+          "vi": "Hít một hơi thật sâu trước khi chích nha."
+        },
+        {
+          "en": "The shot keeps you from getting sick.",
+          "vi": "Chích ngừa giúp con không bị bệnh."
+        },
+        {
+          "en": "I got a shot. I was brave!",
+          "vi": "Con được chích. Con dũng cảm lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-011",
+      "en": "bandage",
+      "vi": "băng cá nhân",
+      "pos": "noun",
+      "emoji": "🩹",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's a bandage!",
+          "vi": "Băng cá nhân nè!"
+        },
+        {
+          "en": "Do you need a bandage?",
+          "vi": "Con có cần dán băng không?"
+        },
+        {
+          "en": "Let's put a bandage on it.",
+          "vi": "Mình dán băng cá nhân lên nha."
+        },
+        {
+          "en": "Your bandage has little stars on it.",
+          "vi": "Băng của con có hình ngôi sao nhỏ nè."
+        },
+        {
+          "en": "I want the dinosaur bandage!",
+          "vi": "Con muốn miếng băng hình khủng long!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-012",
+      "en": "thermometer",
+      "vi": "nhiệt kế",
+      "pos": "noun",
+      "emoji": "🌡️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the thermometer.",
+          "vi": "Nhiệt kế nè."
+        },
+        {
+          "en": "Thermometer under your arm, okay?",
+          "vi": "Kẹp nhiệt kế dưới nách nha con?"
+        },
+        {
+          "en": "Stay still for the thermometer.",
+          "vi": "Con ngồi yên cho mình đo nhiệt kế nha."
+        },
+        {
+          "en": "The thermometer beeps when it's done.",
+          "vi": "Nhiệt kế kêu bíp là đo xong rồi."
+        },
+        {
+          "en": "The thermometer tickles my ear!",
+          "vi": "Nhiệt kế làm nhột tai con!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-013",
+      "en": "temperature",
+      "vi": "nhiệt độ (cơ thể)",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's take your temperature.",
+          "vi": "Để mình đo nhiệt độ cho con nha."
+        },
+        {
+          "en": "What does your temperature say?",
+          "vi": "Nhiệt độ của con là bao nhiêu?"
+        },
+        {
+          "en": "Stay still while I check your temperature.",
+          "vi": "Con ngồi yên để mình đo nhiệt độ nha."
+        },
+        {
+          "en": "Good news, your temperature is normal now.",
+          "vi": "Tin vui nè, nhiệt độ của con bình thường rồi."
+        },
+        {
+          "en": "My temperature went down this morning!",
+          "vi": "Sáng nay con hạ sốt rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-014",
+      "en": "fever",
+      "vi": "sốt",
+      "pos": "noun",
+      "emoji": "🤒",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "You have a little fever.",
+          "vi": "Con hơi sốt một chút."
+        },
+        {
+          "en": "Do you still have a fever?",
+          "vi": "Con còn sốt không?"
+        },
+        {
+          "en": "Let's rest until your fever goes away.",
+          "vi": "Mình nghỉ ngơi tới khi hết sốt nha."
+        },
+        {
+          "en": "Your fever is getting better.",
+          "vi": "Con đỡ sốt rồi đó."
+        },
+        {
+          "en": "My fever is all gone!",
+          "vi": "Con hết sốt rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-015",
+      "en": "cough",
+      "vi": "ho",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, you're coughing.",
+          "vi": "Ôi, con bị ho rồi."
+        },
+        {
+          "en": "Does it hurt when you cough?",
+          "vi": "Con ho có đau không?"
+        },
+        {
+          "en": "Cough into your elbow, please.",
+          "vi": "Ho thì che vô khuỷu tay nha con."
+        },
+        {
+          "en": "That cough sounds a little better today.",
+          "vi": "Hôm nay nghe con ho đỡ hơn rồi."
+        },
+        {
+          "en": "I coughed a lot last night.",
+          "vi": "Tối qua con ho nhiều lắm."
+        }
+      ]
+    },
+    {
+      "id": "v-health-016",
+      "en": "sneeze",
+      "vi": "hắt xì",
+      "pos": "verb",
+      "emoji": "🤧",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ah-choo! What a big sneeze!",
+          "vi": "Hắt xì! Hắt xì to quá!"
+        },
+        {
+          "en": "Do you need to sneeze?",
+          "vi": "Con muốn hắt xì hả?"
+        },
+        {
+          "en": "Sneeze into a tissue, please.",
+          "vi": "Hắt xì vô khăn giấy nha con."
+        },
+        {
+          "en": "Dust makes me sneeze.",
+          "vi": "Bụi làm mình hắt xì."
+        },
+        {
+          "en": "I sneezed three times!",
+          "vi": "Con hắt xì ba cái liền!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-017",
+      "en": "runny nose",
+      "vi": "sổ mũi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, you have a runny nose.",
+          "vi": "Ôi, con bị sổ mũi rồi."
+        },
+        {
+          "en": "Is your nose still runny?",
+          "vi": "Con còn sổ mũi không?"
+        },
+        {
+          "en": "Let's wipe your runny nose.",
+          "vi": "Để mình lau mũi cho con nha."
+        },
+        {
+          "en": "A runny nose is no fun, huh?",
+          "vi": "Sổ mũi khó chịu ha con?"
+        },
+        {
+          "en": "I have a runny nose today.",
+          "vi": "Hôm nay con bị sổ mũi."
+        }
+      ]
+    },
+    {
+      "id": "v-health-018",
+      "en": "stuffy nose",
+      "vi": "nghẹt mũi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, you have a stuffy nose.",
+          "vi": "Ồ, con bị nghẹt mũi rồi."
+        },
+        {
+          "en": "Can you breathe with your stuffy nose?",
+          "vi": "Nghẹt mũi vậy con thở được không?"
+        },
+        {
+          "en": "Try blowing your stuffy nose gently.",
+          "vi": "Con thử xì mũi nhẹ nhẹ coi."
+        },
+        {
+          "en": "A warm bath helps a stuffy nose.",
+          "vi": "Tắm nước ấm giúp đỡ nghẹt mũi đó."
+        },
+        {
+          "en": "My nose is too stuffy to smell!",
+          "vi": "Con nghẹt mũi tới nỗi ngửi không ra!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-019",
+      "en": "sore throat",
+      "vi": "đau họng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, you have a sore throat.",
+          "vi": "Ồ, con bị đau họng rồi."
+        },
+        {
+          "en": "Does your throat feel sore?",
+          "vi": "Con có thấy đau họng không?"
+        },
+        {
+          "en": "Sip water for your sore throat.",
+          "vi": "Uống chút nước cho đỡ đau họng nha."
+        },
+        {
+          "en": "Honey helps a sore throat feel better.",
+          "vi": "Mật ong giúp đỡ đau họng đó."
+        },
+        {
+          "en": "My throat isn't sore anymore!",
+          "vi": "Con hết đau họng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-020",
+      "en": "tummy ache",
+      "vi": "đau bụng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, you have a tummy ache.",
+          "vi": "Tội nghiệp, con bị đau bụng."
+        },
+        {
+          "en": "Where does your tummy ache?",
+          "vi": "Con đau bụng chỗ nào?"
+        },
+        {
+          "en": "Lie down and rest your tummy ache.",
+          "vi": "Nằm nghỉ cho đỡ đau bụng nha."
+        },
+        {
+          "en": "Too much candy gives a tummy ache.",
+          "vi": "Ăn nhiều kẹo quá là đau bụng đó."
+        },
+        {
+          "en": "I have a tummy ache, Mommy.",
+          "vi": "Mẹ ơi, con đau bụng."
+        }
+      ]
+    },
+    {
+      "id": "v-health-021",
+      "en": "headache",
+      "vi": "nhức đầu",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, you have a headache?",
+          "vi": "Ôi, con bị nhức đầu hả?"
+        },
+        {
+          "en": "Does your headache hurt a lot?",
+          "vi": "Con nhức đầu nhiều không?"
+        },
+        {
+          "en": "Let's turn off the lights for your headache.",
+          "vi": "Mình tắt đèn cho con đỡ nhức đầu nha."
+        },
+        {
+          "en": "Drinking water can help a headache.",
+          "vi": "Uống nước có thể giúp đỡ nhức đầu."
+        },
+        {
+          "en": "My headache went away after my nap.",
+          "vi": "Ngủ trưa dậy con hết nhức đầu rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-health-022",
+      "en": "earache",
+      "vi": "đau tai",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, you have an earache.",
+          "vi": "Tội nghiệp, con bị đau tai.",
+          "ipa": "/ɔ ju hæv æn ˈɪɹˌeɪk/"
+        },
+        {
+          "en": "Which ear hurts?",
+          "vi": "Con đau tai bên nào?"
+        },
+        {
+          "en": "Let's show the doctor your earache.",
+          "vi": "Mình cho bác sĩ coi tai con nha.",
+          "ipa": "/lɛts ʃoʊ ðə ˈdɑktɚ jɔɹ ˈɪɹˌeɪk/"
+        },
+        {
+          "en": "A warm cloth helps an earache.",
+          "vi": "Chườm khăn ấm giúp đỡ đau tai đó.",
+          "ipa": "/ə wɔɹm klɔθ hɛlps æn ˈɪɹˌeɪk/"
+        },
+        {
+          "en": "My earache is a little better.",
+          "vi": "Con đỡ đau tai một chút rồi.",
+          "ipa": "/maɪ ˈɪɹˌeɪk ɪz ə ˈlɪtəl ˈbɛtɚ/"
+        }
+      ],
+      "ipa": "/ˈɪɹˌeɪk/"
+    },
+    {
+      "id": "v-health-023",
+      "en": "toothache",
+      "vi": "đau răng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, sounds like a toothache.",
+          "vi": "Ôi, nghe như con bị đau răng rồi.",
+          "ipa": "/ˈʌˌoʊ saʊndz laɪk ə ˈtuθˌeɪk/"
+        },
+        {
+          "en": "Which tooth has the toothache?",
+          "vi": "Con đau cái răng nào?",
+          "ipa": "/wɪtʃ tuθ hæz ðə ˈtuθˌeɪk/"
+        },
+        {
+          "en": "Let's call the dentist about your toothache.",
+          "vi": "Mình gọi nha sĩ hỏi về chỗ răng đau nha.",
+          "ipa": "/lɛts kɔl ðə ˈdɛntəst əˈbaʊt jɔɹ ˈtuθˌeɪk/"
+        },
+        {
+          "en": "Brushing well helps stop a toothache.",
+          "vi": "Đánh răng kỹ giúp mình không bị đau răng.",
+          "ipa": "/ˈbɹʌʃɪŋ wɛl hɛlps stɑp ə ˈtuθˌeɪk/"
+        },
+        {
+          "en": "I had a toothache, but it's gone now.",
+          "vi": "Con bị đau răng, mà giờ hết rồi.",
+          "ipa": "/aɪ hæd ə ˈtuθˌeɪk bʌt ɪts ɡɔn naʊ/"
+        }
+      ],
+      "ipa": "/ˈtuθˌeɪk/"
+    },
+    {
+      "id": "v-health-024",
+      "en": "cavity",
+      "vi": "sâu răng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Good news, no cavities!",
+          "vi": "Tin vui nè, không có răng sâu!"
+        },
+        {
+          "en": "Do you know what a cavity is?",
+          "vi": "Con biết sâu răng là gì không?"
+        },
+        {
+          "en": "Brush every night so you don't get cavities.",
+          "vi": "Tối nào cũng đánh răng để không bị sâu răng nha."
+        },
+        {
+          "en": "A cavity is a tiny hole in a tooth.",
+          "vi": "Sâu răng là một lỗ nhỏ xíu trên răng."
+        },
+        {
+          "en": "The dentist said I have zero cavities!",
+          "vi": "Nha sĩ nói con không có cái răng sâu nào!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-025",
+      "en": "sick",
+      "vi": "bị bệnh, bị ốm",
+      "pos": "adjective",
+      "emoji": "🤒",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, you're sick today.",
+          "vi": "Tội nghiệp, hôm nay con bị bệnh."
+        },
+        {
+          "en": "Do you feel sick?",
+          "vi": "Con thấy mệt trong người hả?"
+        },
+        {
+          "en": "Let's stay home when we're sick.",
+          "vi": "Khi bị bệnh thì mình ở nhà nha."
+        },
+        {
+          "en": "Being sick is no fun at all.",
+          "vi": "Bị bệnh chẳng vui chút nào."
+        },
+        {
+          "en": "I don't feel sick anymore!",
+          "vi": "Con hết thấy mệt rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-026",
+      "en": "healthy",
+      "vi": "khoẻ mạnh",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "You look so healthy and strong!",
+          "vi": "Con nhìn khoẻ mạnh quá!"
+        },
+        {
+          "en": "What foods keep us healthy?",
+          "vi": "Món ăn nào giúp mình khoẻ mạnh ta?"
+        },
+        {
+          "en": "Let's eat something healthy for a snack.",
+          "vi": "Mình ăn vặt món gì tốt cho sức khoẻ nha."
+        },
+        {
+          "en": "Veggies help you grow up healthy.",
+          "vi": "Rau giúp con lớn lên khoẻ mạnh."
+        },
+        {
+          "en": "I want to be healthy and strong!",
+          "vi": "Con muốn khoẻ mạnh nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-027",
+      "en": "germs",
+      "vi": "vi trùng",
+      "pos": "noun",
+      "emoji": "🦠",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wash those germs away!",
+          "vi": "Rửa trôi vi trùng đi nào!"
+        },
+        {
+          "en": "Where do germs hide?",
+          "vi": "Vi trùng trốn ở đâu ta?"
+        },
+        {
+          "en": "Use soap to get rid of germs.",
+          "vi": "Xài xà bông để diệt vi trùng nha."
+        },
+        {
+          "en": "Germs are too tiny to see.",
+          "vi": "Vi trùng nhỏ quá mắt mình không thấy được."
+        },
+        {
+          "en": "I washed my hands, so no germs!",
+          "vi": "Con rửa tay rồi, hết vi trùng!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-028",
+      "en": "allergy",
+      "vi": "dị ứng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "You have an allergy to peanuts.",
+          "vi": "Con bị dị ứng đậu phộng."
+        },
+        {
+          "en": "Do you have any allergies?",
+          "vi": "Con có bị dị ứng gì không?"
+        },
+        {
+          "en": "Tell your teacher about your allergy.",
+          "vi": "Con nói với cô giáo là con bị dị ứng nha."
+        },
+        {
+          "en": "An allergy is when your body doesn't like something.",
+          "vi": "Dị ứng là khi cơ thể mình không hợp với thứ gì đó."
+        },
+        {
+          "en": "My friend has a cat allergy.",
+          "vi": "Bạn con bị dị ứng lông mèo."
+        }
+      ]
+    },
+    {
+      "id": "v-health-029",
+      "en": "rash",
+      "vi": "phát ban, nổi mẩn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hmm, there's a little rash here.",
+          "vi": "Hừm, chỗ này hơi nổi mẩn nè."
+        },
+        {
+          "en": "Does the rash feel itchy?",
+          "vi": "Chỗ nổi mẩn có ngứa không con?"
+        },
+        {
+          "en": "Let's put some cream on your rash.",
+          "vi": "Mình thoa chút kem lên chỗ nổi mẩn nha."
+        },
+        {
+          "en": "The rash is almost gone now.",
+          "vi": "Chỗ nổi mẩn gần hết rồi."
+        },
+        {
+          "en": "I got a rash from the grass.",
+          "vi": "Con bị nổi mẩn vì cỏ đó."
+        }
+      ]
+    },
+    {
+      "id": "v-health-030",
+      "en": "itchy",
+      "vi": "ngứa",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, it's itchy!",
+          "vi": "Ồ, ngứa hả!"
+        },
+        {
+          "en": "Where are you itchy?",
+          "vi": "Con ngứa chỗ nào?"
+        },
+        {
+          "en": "Try not to scratch when it's itchy.",
+          "vi": "Ngứa thì ráng đừng gãi nha con."
+        },
+        {
+          "en": "This sweater feels itchy.",
+          "vi": "Cái áo len này mặc ngứa quá."
+        },
+        {
+          "en": "My leg is itchy!",
+          "vi": "Chân con ngứa quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-031",
+      "en": "dizzy",
+      "vi": "chóng mặt",
+      "pos": "adjective",
+      "emoji": "😵‍💫",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, you're dizzy!",
+          "vi": "Ui, con chóng mặt rồi!"
+        },
+        {
+          "en": "Do you feel dizzy?",
+          "vi": "Con thấy chóng mặt hả?"
+        },
+        {
+          "en": "Sit down if you feel dizzy.",
+          "vi": "Thấy chóng mặt thì ngồi xuống nha."
+        },
+        {
+          "en": "Spinning around makes me dizzy.",
+          "vi": "Xoay vòng vòng làm mình chóng mặt."
+        },
+        {
+          "en": "I spun so much I got dizzy!",
+          "vi": "Con xoay nhiều quá nên chóng mặt luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-032",
+      "en": "throw up",
+      "vi": "ói, nôn",
+      "pos": "verb",
+      "emoji": "🤮",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's okay, you threw up.",
+          "vi": "Không sao đâu, con ói rồi."
+        },
+        {
+          "en": "Do you feel like you'll throw up?",
+          "vi": "Con thấy muốn ói hả?"
+        },
+        {
+          "en": "Throw up in this bowl, okay?",
+          "vi": "Muốn ói thì ói vô cái thau này nha?"
+        },
+        {
+          "en": "You'll feel better after you throw up.",
+          "vi": "Ói ra rồi con sẽ thấy dễ chịu hơn."
+        },
+        {
+          "en": "I threw up. I feel better!",
+          "vi": "Con ói rồi. Giờ con thấy đỡ rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-033",
+      "en": "scrape",
+      "vi": "trầy (da)",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oops, just a little scrape.",
+          "vi": "Ui, chỉ trầy chút xíu thôi."
+        },
+        {
+          "en": "Where's your scrape?",
+          "vi": "Con bị trầy chỗ nào?"
+        },
+        {
+          "en": "Let's clean that scrape.",
+          "vi": "Để mình rửa chỗ trầy nha."
+        },
+        {
+          "en": "Your scrape is healing nicely.",
+          "vi": "Chỗ trầy của con đang lành rồi đó."
+        },
+        {
+          "en": "I scraped my knee at the park.",
+          "vi": "Con bị trầy đầu gối ở công viên."
+        }
+      ]
+    },
+    {
+      "id": "v-health-034",
+      "en": "scratch",
+      "vi": "vết xước",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's just a tiny scratch.",
+          "vi": "Chỉ là một vết xước nhỏ thôi."
+        },
+        {
+          "en": "How did you get that scratch?",
+          "vi": "Sao con bị xước vậy?"
+        },
+        {
+          "en": "Let me see your scratch.",
+          "vi": "Cho mình coi vết xước nha."
+        },
+        {
+          "en": "The scratch will heal soon.",
+          "vi": "Vết xước sẽ mau lành thôi."
+        },
+        {
+          "en": "The cat gave me a scratch.",
+          "vi": "Con mèo cào con bị xước."
+        }
+      ]
+    },
+    {
+      "id": "v-health-035",
+      "en": "bruise",
+      "vi": "vết bầm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, you have a bruise here.",
+          "vi": "Ồ, chỗ này con bị bầm nè."
+        },
+        {
+          "en": "Does your bruise hurt?",
+          "vi": "Chỗ bầm có đau không con?"
+        },
+        {
+          "en": "Let's put ice on your bruise.",
+          "vi": "Mình chườm đá lên chỗ bầm nha."
+        },
+        {
+          "en": "Your bruise turned a little purple.",
+          "vi": "Vết bầm của con hơi tím tím rồi."
+        },
+        {
+          "en": "I got a bruise from the slide.",
+          "vi": "Con bị bầm vì cầu tuột đó."
+        }
+      ]
+    },
+    {
+      "id": "v-health-036",
+      "en": "bump",
+      "vi": "cục u",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ouch, you got a bump!",
+          "vi": "Ui da, con bị u đầu rồi!"
+        },
+        {
+          "en": "Where's the bump?",
+          "vi": "Cục u ở đâu con?"
+        },
+        {
+          "en": "Let's put ice on that bump.",
+          "vi": "Mình chườm đá chỗ u nha."
+        },
+        {
+          "en": "The bump is getting smaller.",
+          "vi": "Cục u nhỏ lại rồi đó."
+        },
+        {
+          "en": "I bumped my head on the table!",
+          "vi": "Con bị cụng đầu vô cái bàn!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-037",
+      "en": "splinter",
+      "vi": "dằm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, there's a splinter in your finger.",
+          "vi": "Ôi, có cái dằm đâm vô ngón tay con."
+        },
+        {
+          "en": "Can I look at your splinter?",
+          "vi": "Cho mình coi cái dằm được không?"
+        },
+        {
+          "en": "Hold still, and I'll get the splinter out.",
+          "vi": "Con ngồi yên, mình lấy cái dằm ra nha."
+        },
+        {
+          "en": "The splinter was so tiny!",
+          "vi": "Cái dằm nhỏ xíu à!"
+        },
+        {
+          "en": "I got a splinter from the bench.",
+          "vi": "Con bị dằm đâm từ cái ghế đá."
+        }
+      ]
+    },
+    {
+      "id": "v-health-038",
+      "en": "boo-boo",
+      "vi": "chỗ đau, chỗ trầy",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Aw, where's your boo-boo?",
+          "vi": "Tội nghiệp, con đau chỗ nào?"
+        },
+        {
+          "en": "Did you get a boo-boo?",
+          "vi": "Con bị đau hả?"
+        },
+        {
+          "en": "Let me kiss your boo-boo.",
+          "vi": "Để mình hôn chỗ đau cho con nha."
+        },
+        {
+          "en": "Your boo-boo is almost all better.",
+          "vi": "Chỗ đau của con gần hết rồi."
+        },
+        {
+          "en": "I have a boo-boo here!",
+          "vi": "Con bị đau chỗ này nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-039",
+      "en": "ice pack",
+      "vi": "túi chườm lạnh",
+      "pos": "noun",
+      "emoji": "🧊",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's an ice pack.",
+          "vi": "Túi chườm lạnh đây nè."
+        },
+        {
+          "en": "Do you want the ice pack now?",
+          "vi": "Con muốn chườm lạnh luôn không?"
+        },
+        {
+          "en": "Hold the ice pack on your knee.",
+          "vi": "Con giữ túi chườm lạnh trên đầu gối nha."
+        },
+        {
+          "en": "The ice pack feels really cold.",
+          "vi": "Túi chườm lạnh mát lạnh luôn."
+        },
+        {
+          "en": "The ice pack made it feel better.",
+          "vi": "Chườm lạnh xong con thấy đỡ rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-health-040",
+      "en": "cast",
+      "vi": "bó bột",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at your cool cast!",
+          "vi": "Wow, coi miếng bó bột ngầu của con nè!"
+        },
+        {
+          "en": "Can your friends sign your cast?",
+          "vi": "Mấy bạn ký tên lên bó bột của con được không?"
+        },
+        {
+          "en": "Keep your cast dry in the bath.",
+          "vi": "Lúc tắm nhớ giữ bó bột khô ráo nha."
+        },
+        {
+          "en": "The cast helps your bone heal.",
+          "vi": "Bó bột giúp xương con lành lại."
+        },
+        {
+          "en": "My cast comes off next week!",
+          "vi": "Tuần sau con được tháo bột rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-041",
+      "en": "x-ray",
+      "vi": "chụp X-quang",
+      "pos": "noun",
+      "emoji": "🩻",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, that's your x-ray!",
+          "vi": "Nhìn nè, phim chụp X-quang của con đó!"
+        },
+        {
+          "en": "Can you see your bones in the x-ray?",
+          "vi": "Con thấy xương mình trong phim chụp không?"
+        },
+        {
+          "en": "Stay very still for the x-ray.",
+          "vi": "Lúc chụp X-quang con nằm thật yên nha."
+        },
+        {
+          "en": "An x-ray doesn't hurt one bit.",
+          "vi": "Chụp X-quang không đau chút nào đâu."
+        },
+        {
+          "en": "I saw my own bones on the x-ray!",
+          "vi": "Con thấy xương của con trên phim chụp đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-042",
+      "en": "stethoscope",
+      "vi": "ống nghe",
+      "pos": "noun",
+      "emoji": "🩺",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That's the doctor's stethoscope.",
+          "vi": "Đó là ống nghe của bác sĩ."
+        },
+        {
+          "en": "Do you want to listen with the stethoscope?",
+          "vi": "Con muốn nghe thử bằng ống nghe không?"
+        },
+        {
+          "en": "Breathe in while the doctor uses the stethoscope.",
+          "vi": "Hít vô trong lúc bác sĩ nghe bằng ống nghe nha."
+        },
+        {
+          "en": "The stethoscope feels a little cold.",
+          "vi": "Ống nghe hơi lạnh lạnh đó."
+        },
+        {
+          "en": "I heard my heart with the stethoscope!",
+          "vi": "Con nghe được tim mình bằng ống nghe!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-043",
+      "en": "rest",
+      "vi": "nghỉ ngơi",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Time to rest now.",
+          "vi": "Giờ mình nghỉ ngơi nha."
+        },
+        {
+          "en": "Do you need to rest a little?",
+          "vi": "Con có cần nghỉ chút không?"
+        },
+        {
+          "en": "Let's rest on the couch together.",
+          "vi": "Mình nằm nghỉ trên ghế sofa với nhau nha."
+        },
+        {
+          "en": "Resting helps your body get better.",
+          "vi": "Nghỉ ngơi giúp cơ thể con mau khoẻ."
+        },
+        {
+          "en": "I rested, and now I feel good!",
+          "vi": "Con nghỉ rồi, giờ con thấy khoẻ rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-044",
+      "en": "feel better",
+      "vi": "đỡ hơn, khoẻ lại",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Feel better soon, sweetie!",
+          "vi": "Mau khoẻ nha con!"
+        },
+        {
+          "en": "Do you feel better now?",
+          "vi": "Giờ con thấy đỡ hơn chưa?"
+        },
+        {
+          "en": "Have some soup so you feel better.",
+          "vi": "Ăn chút súp cho mau khoẻ nha."
+        },
+        {
+          "en": "You'll feel better after a nap.",
+          "vi": "Ngủ một giấc là con sẽ đỡ hơn."
+        },
+        {
+          "en": "I feel better today!",
+          "vi": "Hôm nay con thấy khoẻ hơn rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-045",
+      "en": "face mask",
+      "vi": "khẩu trang",
+      "pos": "noun",
+      "emoji": "😷",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your face mask.",
+          "vi": "Khẩu trang của con nè."
+        },
+        {
+          "en": "Can you put on your face mask?",
+          "vi": "Con tự đeo khẩu trang được không?"
+        },
+        {
+          "en": "Cover your nose with your face mask.",
+          "vi": "Kéo khẩu trang che mũi luôn nha."
+        },
+        {
+          "en": "Your face mask has cute cats!",
+          "vi": "Khẩu trang của con có hình mèo dễ thương nè!"
+        },
+        {
+          "en": "I wear my face mask when sick.",
+          "vi": "Khi bị bệnh con đeo khẩu trang."
+        }
+      ]
+    },
+    {
+      "id": "v-health-046",
+      "en": "open wide",
+      "vi": "há miệng ra",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Open wide, please!",
+          "vi": "Há miệng ra nào con!"
+        },
+        {
+          "en": "Can you open wide like a lion?",
+          "vi": "Con há miệng to như sư tử được không?"
+        },
+        {
+          "en": "Open wide so the dentist can see.",
+          "vi": "Há miệng to cho nha sĩ coi nha."
+        },
+        {
+          "en": "You opened wide so well!",
+          "vi": "Con há miệng giỏi quá!"
+        },
+        {
+          "en": "I opened wide for the doctor!",
+          "vi": "Con há miệng to cho bác sĩ coi đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-047",
+      "en": "appointment",
+      "vi": "lịch hẹn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "We have a doctor's appointment today.",
+          "vi": "Hôm nay mình có lịch hẹn bác sĩ."
+        },
+        {
+          "en": "What time is your appointment?",
+          "vi": "Lịch hẹn của con mấy giờ?"
+        },
+        {
+          "en": "Let's leave early for the appointment.",
+          "vi": "Mình đi sớm cho kịp giờ hẹn nha."
+        },
+        {
+          "en": "The appointment will be quick and easy.",
+          "vi": "Buổi khám sẽ nhanh gọn thôi."
+        },
+        {
+          "en": "My dentist appointment is tomorrow.",
+          "vi": "Ngày mai con có hẹn nha sĩ."
+        }
+      ]
+    },
+    {
+      "id": "v-health-048",
+      "en": "waiting room",
+      "vi": "phòng chờ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the waiting room.",
+          "vi": "Đây là phòng chờ nè."
+        },
+        {
+          "en": "Did you bring a book for the waiting room?",
+          "vi": "Con có đem sách theo đọc ở phòng chờ không?"
+        },
+        {
+          "en": "Let's sit quietly in the waiting room.",
+          "vi": "Mình ngồi im lặng trong phòng chờ nha."
+        },
+        {
+          "en": "The waiting room has fun toys.",
+          "vi": "Phòng chờ có đồ chơi vui ghê."
+        },
+        {
+          "en": "I played with blocks in the waiting room.",
+          "vi": "Con chơi xếp khối trong phòng chờ."
+        }
+      ]
+    },
+    {
+      "id": "v-health-049",
+      "en": "sore",
+      "vi": "đau, ê ẩm",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, your arm is sore.",
+          "vi": "Tội nghiệp, tay con bị đau."
+        },
+        {
+          "en": "Is your leg still sore?",
+          "vi": "Chân con còn đau không?"
+        },
+        {
+          "en": "Rest your sore foot on this pillow.",
+          "vi": "Để bàn chân đau lên cái gối này nha."
+        },
+        {
+          "en": "It might feel sore for a day or two.",
+          "vi": "Chắc sẽ hơi đau một hai ngày."
+        },
+        {
+          "en": "My arm got sore after the shot.",
+          "vi": "Chích xong tay con bị đau."
+        }
+      ]
+    },
+    {
+      "id": "v-health-050",
+      "en": "flu",
+      "vi": "cúm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, you have the flu.",
+          "vi": "Ôi, con bị cúm rồi."
+        },
+        {
+          "en": "Did you get a flu shot this year?",
+          "vi": "Năm nay con chích ngừa cúm chưa?"
+        },
+        {
+          "en": "Let's stay home until the flu goes away.",
+          "vi": "Mình ở nhà tới khi hết cúm nha."
+        },
+        {
+          "en": "The flu makes you really tired.",
+          "vi": "Bị cúm làm mình mệt lắm."
+        },
+        {
+          "en": "Half my class had the flu!",
+          "vi": "Nửa lớp con bị cúm luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-health-051",
+      "en": "eye drops",
+      "vi": "thuốc nhỏ mắt",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Time for your eye drops.",
+          "vi": "Tới giờ nhỏ mắt rồi."
+        },
+        {
+          "en": "Can you look up for the eye drops?",
+          "vi": "Con ngước lên để nhỏ mắt được không?"
+        },
+        {
+          "en": "Blink after the eye drops go in.",
+          "vi": "Nhỏ xong thì chớp mắt nha."
+        },
+        {
+          "en": "The eye drops feel cool.",
+          "vi": "Thuốc nhỏ mắt mát mát."
+        },
+        {
+          "en": "The eye drops made my eyes better.",
+          "vi": "Nhỏ thuốc xong mắt con đỡ rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-health-052",
+      "en": "crutches",
+      "vi": "nạng",
+      "pos": "noun",
+      "emoji": "🩼",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, those are crutches.",
+          "vi": "Nhìn nè, đó là cây nạng."
+        },
+        {
+          "en": "Have you ever tried crutches?",
+          "vi": "Con thử đi nạng bao giờ chưa?"
+        },
+        {
+          "en": "Hold the crutches and go slowly.",
+          "vi": "Cầm nạng rồi đi từ từ nha."
+        },
+        {
+          "en": "Walking with crutches is tricky.",
+          "vi": "Đi bằng nạng khó lắm đó."
+        },
+        {
+          "en": "I can walk fast with my crutches!",
+          "vi": "Con đi nạng nhanh lắm nè!"
+        }
+      ]
+    }
+  ]
+}

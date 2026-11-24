@@ -1,11 +1,11 @@
 import { useQueries, useSuspenseQuery } from '@tanstack/react-query'
 import { createFileRoute } from '@tanstack/react-router'
 import { useTranslation } from 'react-i18next'
-import { PageHeader } from '../components/Layout'
-import { PhraseCard } from '../components/PhraseCard'
-import { PlayAllButton } from '../components/PlaylistBar'
-import { useFavorites, useProgressMap } from '../hooks/useProfile'
-import { contentIndexQuery, topicQuery, toPlaylist, type Phrase } from '../lib/content'
+import { PageHeader } from '@/shared/ui/Layout'
+import { PhraseCard } from '@/features/content/PhraseCard'
+import { PlayAllButton } from '@/features/audio/PlaylistBar'
+import { useFavorites, useProgressMap } from '@/features/profile/useProfile'
+import { contentIndexQuery, topicQuery, toPlaylist, type Phrase } from '@/features/content/content'
 
 export const Route = createFileRoute('/favorites')({
   loader: ({ context }) => context.queryClient.ensureQueryData(contentIndexQuery),

@@ -8,7 +8,8 @@
     "favorites": "Favorites",
     "progress": "Progress",
     "settings": "Settings",
-    "search": "Search"
+    "search": "Search",
+    "cards": "Cards"
   },
   "home": {
     "greeting": "What shall we say to {{name}} today?",
@@ -62,7 +63,13 @@
     "active": "Selected",
     "select": "Select",
     "save": "Save",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "wordsLearned": "Words learned",
+    "byTopic": "By topic",
+    "manageProfiles": "Manage children's profiles",
+    "switchChild": "Choose child",
+    "week": "Last 7 days",
+    "weekTotal": "{{count}} activities"
   },
   "settings": {
     "title": "Settings",
@@ -90,7 +97,8 @@
     "loading": "Loading…",
     "error": "Couldn't load data",
     "retry": "Retry",
-    "defaultChild": "Kiddo"
+    "defaultChild": "Kiddo",
+    "close": "Close"
   },
   "search": {
     "title": "Search",
@@ -180,5 +188,75 @@
     "notePlaceholder": "Note (e.g. said it at the park)",
     "share": "Share",
     "shareTitle": "English phrases {{name}} can say 🐱"
+  },
+  "cards": {
+    "title": "Word cards",
+    "reviewToday": "Today's review",
+    "count": "{{count}} cards",
+    "learnedTotal": "{{count}} words learned",
+    "noneDue": "All reviewed for today! Pick a deck to learn new words.",
+    "startHint": "Pick a deck below to start learning new words.",
+    "learnedOf": "{{learned}}/{{total}} words learned",
+    "deckStatus": "{{due}} to review · {{fresh}} new words",
+    "study": "Study now",
+    "status": {
+      "new": "New",
+      "learning": "Learning",
+      "learned": "Learned"
+    },
+    "flip": "Flip card",
+    "flipBack": "Flip back",
+    "listen": "Hear the word",
+    "frontHint": "Listen and guess what it is!",
+    "examples": "5 sentences to say together",
+    "playAll": "Play all",
+    "again": "Not yet",
+    "known": "Got it",
+    "doneTitle": "Great job! All done 🎉",
+    "doneDesc": "Reviewed {{total}} words, remembered {{known}} times.",
+    "nothingToStudy": "Nothing to study right now",
+    "backToDeck": "Back to deck",
+    "backToAvatar": "Back to my page",
+    "loadError": "Couldn't load the deck. Check your connection and try again.",
+    "allDecks": "See all {{count}} decks",
+    "swipeHint": "Tip: swipe right = Got it · swipe left = Not yet",
+    "cheer": "Great job!",
+    "shuffle": "Shuffle cards"
+  },
+  "today": {
+    "title": "{{name}}'s day",
+    "review": "Review words",
+    "reviewDone": "All reviewed today",
+    "startCards": "Learn new words",
+    "continue": "Continue",
+    "start": "Start with"
+  },
+  "rewards": {
+    "title": "Sticker album",
+    "count": "{{earned}}/{{total}} stickers",
+    "newTitle": "{{count}} new sticker(s)! 🎉",
+    "ok": "Yay!",
+    "kind": {
+      "studied": "Study {{count}} words",
+      "learned": "Learn {{count}} words",
+      "bestStreak": "{{count}}-day streak",
+      "childSaid": "Say {{count}} phrases"
+    }
+  },
+  "reminder": {
+    "title": "Daily reminder",
+    "toggle": "Turn on reminder notifications",
+    "onHint": "Every day at {{time}} with an English phrase",
+    "offHint": "Get one notification a day at a time you choose",
+    "time": "Time",
+    "test": "Send test",
+    "testSent": "Test sent — it should arrive in a moment.",
+    "enabled": "Reminder is on 🎉",
+    "denied": "Notifications are blocked. Go to iPhone Settings → Notifications → Bean to allow them.",
+    "dismissed": "Notifications weren't allowed.",
+    "tooSoon": "Wait a minute before sending another test.",
+    "error": "Something went wrong. Check your connection and try again.",
+    "installFirst": "To get notifications on iPhone: tap Share → Add to Home Screen, then open Bean from the home-screen icon.",
+    "unsupported": "This browser doesn't support notifications."
   }
 }

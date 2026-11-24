@@ -2,11 +2,13 @@ import { createFileRoute, Link } from '@tanstack/react-router'
 import clsx from 'clsx'
 import { BookHeart, Flame, Lock, Trophy } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
-import { Avatar, AVATAR_ACCESSORIES, AVATAR_ANIMALS, AVATAR_COLORS, DEFAULT_AVATAR } from '../components/Avatar'
-import { PageHeader } from '../components/Layout'
-import { useActiveProfile, useStreak } from '../hooks/useProfile'
-import { ACCESSORY_UNLOCKS, addDays, dayKey } from '../lib/activity'
-import { db, type AvatarConfig } from '../lib/db'
+import { CardsSection } from '@/features/cards/CardsSection'
+import { StickerAlbum } from '@/features/rewards/StickerAlbum'
+import { Avatar, AVATAR_ACCESSORIES, AVATAR_ANIMALS, AVATAR_COLORS, DEFAULT_AVATAR } from '@/features/profile/Avatar'
+import { PageHeader } from '@/shared/ui/Layout'
+import { useActiveProfile, useStreak } from '@/features/profile/useProfile'
+import { ACCESSORY_UNLOCKS, addDays, dayKey } from '@/features/profile/activity'
+import { db, type AvatarConfig } from '@/shared/db'
 
 export const Route = createFileRoute('/avatar')({ component: AvatarPage })
 
@@ -44,6 +46,10 @@ function AvatarPage() {
             ))}
           </div>
         </section>
+
+        <CardsSection />
+
+        <StickerAlbum />
 
         <Link to="/diary" className="flex min-h-12 items-center gap-3 rounded-2xl border border-line bg-surface px-4 font-semibold text-leaf-700">
           <BookHeart size={22} /> {t('diary.title')}

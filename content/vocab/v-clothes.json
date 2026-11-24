@@ -1,0 +1,1698 @@
+{
+ "deckId": "v-clothes",
+ "words": [
+  {
+   "id": "v-clothes-001",
+   "en": "clothes",
+   "vi": "quần áo",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Wow, so many clothes!",
+     "vi": "Trời, nhiều quần áo quá!"
+    },
+    {
+     "en": "Where are your clean clothes?",
+     "vi": "Quần áo sạch của con đâu rồi?"
+    },
+    {
+     "en": "Let's put on your clothes.",
+     "vi": "Mình mặc quần áo vô nha."
+    },
+    {
+     "en": "These clothes are nice and soft.",
+     "vi": "Bộ đồ này mềm mềm dễ chịu ghê."
+    },
+    {
+     "en": "I can pick my clothes!",
+     "vi": "Con tự chọn đồ được mà!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-002",
+   "en": "shirt",
+   "vi": "cái áo",
+   "pos": "noun",
+   "emoji": "👕",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, a blue shirt!",
+     "vi": "Nhìn nè, cái áo màu xanh!"
+    },
+    {
+     "en": "Which shirt do you want?",
+     "vi": "Con muốn mặc áo nào?"
+    },
+    {
+     "en": "Arms in your shirt, please.",
+     "vi": "Cho tay vô áo nào."
+    },
+    {
+     "en": "Oops, your shirt is wet.",
+     "vi": "Ui, áo con bị ướt rồi."
+    },
+    {
+     "en": "I want my dinosaur shirt!",
+     "vi": "Con muốn mặc áo khủng long!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-003",
+   "en": "t-shirt",
+   "vi": "cái áo thun",
+   "pos": "noun",
+   "emoji": "👕",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, a new T-shirt!",
+     "vi": "Ồ, áo thun mới nè!"
+    },
+    {
+     "en": "Do you want a T-shirt today?",
+     "vi": "Hôm nay con mặc áo thun hông?"
+    },
+    {
+     "en": "Pull your T-shirt over your head.",
+     "vi": "Kéo áo thun qua đầu nào."
+    },
+    {
+     "en": "It's hot, so a T-shirt is good.",
+     "vi": "Trời nóng nên mặc áo thun là được."
+    },
+    {
+     "en": "I like my yellow T-shirt.",
+     "vi": "Con thích cái áo thun vàng."
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-004",
+   "en": "pants",
+   "vi": "cái quần dài",
+   "pos": "noun",
+   "emoji": "👖",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Pants on! Good job!",
+     "vi": "Mặc quần xong rồi! Giỏi quá!"
+    },
+    {
+     "en": "Where did your pants go?",
+     "vi": "Quần của con đâu mất rồi?"
+    },
+    {
+     "en": "Step into your pants, please.",
+     "vi": "Bước chân vô quần nào."
+    },
+    {
+     "en": "These pants are too long.",
+     "vi": "Cái quần này dài quá."
+    },
+    {
+     "en": "I can put my pants on!",
+     "vi": "Con tự mặc quần được!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-005",
+   "en": "shorts",
+   "vi": "cái quần short",
+   "pos": "noun",
+   "emoji": "🩳",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, your red shorts!",
+     "vi": "Nhìn nè, quần short đỏ của con!"
+    },
+    {
+     "en": "Shorts or pants today?",
+     "vi": "Hôm nay mặc quần short hay quần dài?"
+    },
+    {
+     "en": "Let's wear shorts. It's hot!",
+     "vi": "Mặc quần short nha. Nóng quá!"
+    },
+    {
+     "en": "Shorts are cool and comfy.",
+     "vi": "Quần short mát và thoải mái."
+    },
+    {
+     "en": "I want to wear shorts to the park.",
+     "vi": "Con muốn mặc quần short đi công viên."
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-006",
+   "en": "jeans",
+   "vi": "cái quần jean",
+   "pos": "noun",
+   "emoji": "👖",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, Daddy is wearing jeans!",
+     "vi": "Nhìn kìa, ba đang mặc quần jean!"
+    },
+    {
+     "en": "Do you want your jeans or shorts?",
+     "vi": "Con muốn mặc quần jean hay quần short?"
+    },
+    {
+     "en": "Button your jeans, please.",
+     "vi": "Cài nút quần jean vô nha."
+    },
+    {
+     "en": "These jeans are a little tight.",
+     "vi": "Cái quần jean này hơi chật."
+    },
+    {
+     "en": "I tore my jeans on the slide.",
+     "vi": "Con làm rách quần jean ở cầu tuột rồi."
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-007",
+   "en": "dress",
+   "vi": "cái đầm",
+   "pos": "noun",
+   "emoji": "👗",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "What a pretty dress!",
+     "vi": "Cái đầm đẹp quá!"
+    },
+    {
+     "en": "Do you want to wear a dress?",
+     "vi": "Con có muốn mặc đầm hông?"
+    },
+    {
+     "en": "Arms up, here comes your dress!",
+     "vi": "Giơ tay lên, mặc đầm vô nè!"
+    },
+    {
+     "en": "Your dress spins when you twirl!",
+     "vi": "Con xoay vòng là đầm xoè ra luôn!"
+    },
+    {
+     "en": "I want my pink dress!",
+     "vi": "Con muốn mặc đầm hồng!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-008",
+   "en": "skirt",
+   "vi": "cái váy",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, a purple skirt!",
+     "vi": "Ồ, cái váy màu tím!"
+    },
+    {
+     "en": "Which skirt do you like?",
+     "vi": "Con thích cái váy nào?"
+    },
+    {
+     "en": "Let's put on your skirt.",
+     "vi": "Mình mặc váy vô nha."
+    },
+    {
+     "en": "This skirt is short and soft.",
+     "vi": "Cái váy này ngắn mà mềm ghê."
+    },
+    {
+     "en": "Look, my skirt spins!",
+     "vi": "Nhìn nè, váy con xoay vòng!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-009",
+   "en": "socks",
+   "vi": "đôi vớ",
+   "pos": "noun",
+   "emoji": "🧦",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Uh-oh, where are your socks?",
+     "vi": "Ủa, vớ của con đâu rồi?"
+    },
+    {
+     "en": "Which socks do you want?",
+     "vi": "Con muốn mang đôi vớ nào?"
+    },
+    {
+     "en": "Socks first, then shoes.",
+     "vi": "Mang vớ trước rồi mới mang giày."
+    },
+    {
+     "en": "These socks have little bears!",
+     "vi": "Đôi vớ này có hình gấu nhỏ nè!"
+    },
+    {
+     "en": "I can't find my other sock!",
+     "vi": "Con tìm hông ra chiếc vớ kia!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-010",
+   "en": "shoes",
+   "vi": "đôi giày",
+   "pos": "noun",
+   "emoji": "👟",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Shoes on! Time to go!",
+     "vi": "Mang giày vô! Đi thôi!"
+    },
+    {
+     "en": "Where are your shoes?",
+     "vi": "Giày của con đâu rồi?"
+    },
+    {
+     "en": "Can you put on your shoes?",
+     "vi": "Con tự mang giày được hông?"
+    },
+    {
+     "en": "Oops, wrong feet! Switch your shoes.",
+     "vi": "Ui, mang ngược chân rồi! Đổi giày lại nha."
+    },
+    {
+     "en": "My shoes are too small now.",
+     "vi": "Giày con giờ chật quá rồi."
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-011",
+   "en": "sneakers",
+   "vi": "đôi giày thể thao",
+   "pos": "noun",
+   "emoji": "👟",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, your new sneakers!",
+     "vi": "Nhìn nè, giày thể thao mới của con!"
+    },
+    {
+     "en": "Do you want your sneakers today?",
+     "vi": "Hôm nay con mang giày thể thao hông?"
+    },
+    {
+     "en": "Let's wear sneakers to the park.",
+     "vi": "Mang giày thể thao đi công viên nha."
+    },
+    {
+     "en": "Sneakers are good for running.",
+     "vi": "Giày thể thao chạy nhảy là hợp nhất."
+    },
+    {
+     "en": "My sneakers light up!",
+     "vi": "Giày của con có đèn sáng nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-012",
+   "en": "sandals",
+   "vi": "đôi dép quai hậu",
+   "pos": "noun",
+   "emoji": "👡",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, pretty sandals!",
+     "vi": "Ồ, đôi dép đẹp quá!"
+    },
+    {
+     "en": "Sandals or sneakers today?",
+     "vi": "Hôm nay mang dép hay giày thể thao?"
+    },
+    {
+     "en": "Buckle your sandals, please.",
+     "vi": "Cài quai dép vô nha."
+    },
+    {
+     "en": "Sandals are nice when it's hot.",
+     "vi": "Trời nóng mang dép là dễ chịu nhất."
+    },
+    {
+     "en": "I can buckle my sandals myself!",
+     "vi": "Con tự cài quai dép được!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-013",
+   "en": "flip-flops",
+   "vi": "đôi dép lào",
+   "pos": "noun",
+   "emoji": "🩴",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Flip-flops for the beach!",
+     "vi": "Mang dép lào đi biển nè!"
+    },
+    {
+     "en": "Where are your flip-flops?",
+     "vi": "Dép lào của con đâu rồi?"
+    },
+    {
+     "en": "Walk slowly in your flip-flops.",
+     "vi": "Mang dép lào thì đi chậm thôi nha."
+    },
+    {
+     "en": "Flip-flops go flip, flop, flip!",
+     "vi": "Dép lào kêu lẹp xẹp, lẹp xẹp!"
+    },
+    {
+     "en": "My flip-flop fell off!",
+     "vi": "Dép con rớt mất rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-014",
+   "en": "slippers",
+   "vi": "đôi dép đi trong nhà",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Here are your slippers!",
+     "vi": "Dép đi trong nhà của con nè!"
+    },
+    {
+     "en": "Do you want your slippers on?",
+     "vi": "Con có muốn mang dép hông?"
+    },
+    {
+     "en": "Put on your slippers, please.",
+     "vi": "Con mang dép vô nha."
+    },
+    {
+     "en": "These slippers are so fuzzy!",
+     "vi": "Đôi dép này lông xù mềm ghê!"
+    },
+    {
+     "en": "My slippers look like bunnies!",
+     "vi": "Dép con giống con thỏ nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-015",
+   "en": "boots",
+   "vi": "đôi ủng",
+   "pos": "noun",
+   "emoji": "👢",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Rain boots on! Splash time!",
+     "vi": "Mang ủng vô! Đi lội nước nào!"
+    },
+    {
+     "en": "Do you need your boots today?",
+     "vi": "Hôm nay con có cần mang ủng hông?"
+    },
+    {
+     "en": "Stomp, stomp in your boots!",
+     "vi": "Mang ủng dậm chân thình thịch nào!"
+    },
+    {
+     "en": "Your boots are all muddy!",
+     "vi": "Ủng của con dính đầy bùn rồi!"
+    },
+    {
+     "en": "I jumped in a puddle with my boots!",
+     "vi": "Con mang ủng nhảy vô vũng nước!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-016",
+   "en": "hat",
+   "vi": "cái nón",
+   "pos": "noun",
+   "emoji": "👒",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, a funny hat!",
+     "vi": "Nhìn nè, cái nón ngộ ghê!"
+    },
+    {
+     "en": "Where is your sun hat?",
+     "vi": "Nón đi nắng của con đâu?"
+    },
+    {
+     "en": "It's sunny. Put on your hat.",
+     "vi": "Trời nắng đó. Đội nón vô nha."
+    },
+    {
+     "en": "Your hat is too big!",
+     "vi": "Cái nón của con to quá!"
+    },
+    {
+     "en": "I want to wear Daddy's hat!",
+     "vi": "Con muốn đội nón của ba!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-017",
+   "en": "cap",
+   "vi": "cái nón kết",
+   "pos": "noun",
+   "emoji": "🧢",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Cool cap, buddy!",
+     "vi": "Nón kết ngầu quá nha!"
+    },
+    {
+     "en": "Do you want your cap?",
+     "vi": "Con muốn đội nón kết hông?"
+    },
+    {
+     "en": "Turn your cap around. It's backwards!",
+     "vi": "Xoay nón lại nha. Đội ngược rồi kìa!"
+    },
+    {
+     "en": "Your cap keeps the sun away.",
+     "vi": "Nón kết che nắng cho con đó."
+    },
+    {
+     "en": "I wore my cap to the zoo.",
+     "vi": "Con đội nón kết đi sở thú."
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-018",
+   "en": "jacket",
+   "vi": "cái áo khoác",
+   "pos": "noun",
+   "emoji": "🧥",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Jacket on! It's windy!",
+     "vi": "Mặc áo khoác vô! Gió quá!"
+    },
+    {
+     "en": "Where did you put your jacket?",
+     "vi": "Con để áo khoác ở đâu rồi?"
+    },
+    {
+     "en": "Zip up your jacket, please.",
+     "vi": "Kéo dây kéo áo khoác lên nha."
+    },
+    {
+     "en": "Your jacket is nice and warm.",
+     "vi": "Áo khoác của con ấm ghê."
+    },
+    {
+     "en": "I'm hot. Can I take off my jacket?",
+     "vi": "Con nóng. Con cởi áo khoác được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-019",
+   "en": "coat",
+   "vi": "cái áo choàng",
+   "pos": "noun",
+   "emoji": "🧥",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "So cold! Coat time!",
+     "vi": "Lạnh quá! Mặc áo choàng vô nào!"
+    },
+    {
+     "en": "Is your coat warm enough?",
+     "vi": "Áo choàng của con đủ ấm hông?"
+    },
+    {
+     "en": "Hang your coat on the hook.",
+     "vi": "Treo áo choàng lên móc nha."
+    },
+    {
+     "en": "This coat is big and puffy.",
+     "vi": "Cái áo choàng này to và phồng ghê."
+    },
+    {
+     "en": "I need my coat. It's cold!",
+     "vi": "Con cần áo choàng. Lạnh quá!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-020",
+   "en": "sweater",
+   "vi": "cái áo len",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, a cozy sweater!",
+     "vi": "Ồ, áo len ấm áp quá!"
+    },
+    {
+     "en": "Do you want a sweater?",
+     "vi": "Con có muốn mặc áo len hông?"
+    },
+    {
+     "en": "Put on your sweater. It's chilly.",
+     "vi": "Mặc áo len vô nha. Trời se lạnh rồi."
+    },
+    {
+     "en": "This sweater is soft and warm.",
+     "vi": "Cái áo len này mềm và ấm."
+    },
+    {
+     "en": "Grandma made my sweater!",
+     "vi": "Bà làm áo len cho con đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-021",
+   "en": "hoodie",
+   "vi": "cái áo hoodie",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "ipa": "/ˈhʊdi/",
+   "examples": [
+    {
+     "en": "Look, your hoodie has ears!",
+     "vi": "Nhìn nè, áo hoodie của con có tai!",
+     "ipa": "/lʊk jɔɹ ˈhʊdi hæz ɪɹz/"
+    },
+    {
+     "en": "Where is your gray hoodie?",
+     "vi": "Áo hoodie xám của con đâu?",
+     "ipa": "/wɛɹ ɪz jɔɹ ɡɹeɪ ˈhʊdi/"
+    },
+    {
+     "en": "Grab your hoodie. We're going out.",
+     "vi": "Lấy áo hoodie đi con. Mình ra ngoài nè.",
+     "ipa": "/ɡɹæb jɔɹ ˈhʊdi wiɹ ˈɡoʊɪŋ aʊt/"
+    },
+    {
+     "en": "Your hoodie is so cozy.",
+     "vi": "Áo hoodie của con ấm áp ghê.",
+     "ipa": "/jɔɹ ˈhʊdi ɪz soʊ ˈkoʊzi/"
+    },
+    {
+     "en": "I love my dinosaur hoodie!",
+     "vi": "Con thích áo hoodie khủng long lắm!",
+     "ipa": "/aɪ lʌv maɪ ˈdaɪnəˌsɔɹ ˈhʊdi/"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-022",
+   "en": "raincoat",
+   "vi": "cái áo mưa",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Raincoat on! It's raining!",
+     "vi": "Mặc áo mưa vô! Mưa rồi!"
+    },
+    {
+     "en": "Where is your yellow raincoat?",
+     "vi": "Áo mưa vàng của con đâu?"
+    },
+    {
+     "en": "Pull up the hood on your raincoat.",
+     "vi": "Kéo mũ áo mưa lên nha."
+    },
+    {
+     "en": "Your raincoat keeps you dry.",
+     "vi": "Áo mưa giữ cho con khô ráo đó."
+    },
+    {
+     "en": "I wore my raincoat in the rain!",
+     "vi": "Con mặc áo mưa đi dưới mưa!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-023",
+   "en": "umbrella",
+   "vi": "cây dù",
+   "pos": "noun",
+   "emoji": "☂️",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Open the umbrella! Pop!",
+     "vi": "Bung dù ra! Bụp!"
+    },
+    {
+     "en": "Do we need an umbrella today?",
+     "vi": "Hôm nay mình có cần mang dù hông?"
+    },
+    {
+     "en": "Hold the umbrella with me.",
+     "vi": "Cầm dù chung với mình nha."
+    },
+    {
+     "en": "This umbrella has polka dots!",
+     "vi": "Cây dù này có chấm bi nè!"
+    },
+    {
+     "en": "Can I hold the umbrella?",
+     "vi": "Con cầm dù được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-024",
+   "en": "scarf",
+   "vi": "cái khăn quàng cổ",
+   "pos": "noun",
+   "emoji": "🧣",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, a scarf with stripes!",
+     "vi": "Nhìn nè, khăn quàng sọc sọc!"
+    },
+    {
+     "en": "Do you want a scarf? It's cold.",
+     "vi": "Con có muốn quàng khăn hông? Lạnh đó."
+    },
+    {
+     "en": "Let me wrap your scarf.",
+     "vi": "Để mình quấn khăn cho con nha."
+    },
+    {
+     "en": "Your scarf is long and fluffy.",
+     "vi": "Khăn quàng của con dài và mềm ghê."
+    },
+    {
+     "en": "My scarf tickles!",
+     "vi": "Khăn quàng làm con nhột quá!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-025",
+   "en": "gloves",
+   "vi": "đôi găng tay",
+   "pos": "noun",
+   "emoji": "🧤",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Gloves on, cold hands!",
+     "vi": "Tay lạnh rồi, mang găng tay vô!"
+    },
+    {
+     "en": "Where are your gloves?",
+     "vi": "Găng tay của con đâu rồi?"
+    },
+    {
+     "en": "Wiggle your fingers into your gloves.",
+     "vi": "Nhúc nhích ngón tay xỏ vô găng nào."
+    },
+    {
+     "en": "These gloves keep your hands warm.",
+     "vi": "Đôi găng này giữ ấm tay con đó."
+    },
+    {
+     "en": "I lost one glove!",
+     "vi": "Con làm mất một chiếc găng rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-026",
+   "en": "belt",
+   "vi": "cái thắt lưng",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, a shiny belt!",
+     "vi": "Ồ, thắt lưng bóng loáng ghê!"
+    },
+    {
+     "en": "Do you need a belt with those pants?",
+     "vi": "Quần đó con có cần đeo thắt lưng hông?"
+    },
+    {
+     "en": "Can you buckle your belt by yourself?",
+     "vi": "Con tự cài thắt lưng được hông?"
+    },
+    {
+     "en": "Your pants are loose, so wear a belt.",
+     "vi": "Quần con rộng nên đeo thắt lưng vô nha."
+    },
+    {
+     "en": "I'll wear my brown belt to the party.",
+     "vi": "Con sẽ đeo thắt lưng nâu đi dự tiệc."
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-027",
+   "en": "underwear",
+   "vi": "đồ lót",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Underwear first!",
+     "vi": "Mặc đồ lót trước nha!"
+    },
+    {
+     "en": "Which underwear do you want?",
+     "vi": "Con muốn mặc quần lót nào?"
+    },
+    {
+     "en": "Put on clean underwear, please.",
+     "vi": "Thay quần lót sạch vô nha con."
+    },
+    {
+     "en": "Your new underwear has rockets on it!",
+     "vi": "Quần lót mới của con có hình tên lửa nè!"
+    },
+    {
+     "en": "I put on my underwear all by myself!",
+     "vi": "Con tự mặc quần lót một mình đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-028",
+   "en": "swimsuit",
+   "vi": "đồ bơi",
+   "pos": "noun",
+   "emoji": "🩱",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Swimsuit on! Pool time!",
+     "vi": "Mặc đồ bơi vô! Đi hồ bơi nào!"
+    },
+    {
+     "en": "Where is your swimsuit?",
+     "vi": "Đồ bơi của con đâu?"
+    },
+    {
+     "en": "Let's pack your swimsuit for the beach.",
+     "vi": "Mình bỏ đồ bơi vô giỏ đi biển nha."
+    },
+    {
+     "en": "Your swimsuit is still wet.",
+     "vi": "Đồ bơi của con còn ướt đó."
+    },
+    {
+     "en": "I want my swimsuit with the fish!",
+     "vi": "Con muốn mặc đồ bơi hình con cá!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-029",
+   "en": "leggings",
+   "vi": "cái quần bó",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, sparkly leggings!",
+     "vi": "Nhìn nè, quần bó lấp lánh!"
+    },
+    {
+     "en": "Leggings or a skirt today?",
+     "vi": "Hôm nay mặc quần bó hay váy?"
+    },
+    {
+     "en": "Pull up your leggings, please.",
+     "vi": "Kéo quần bó lên nha con."
+    },
+    {
+     "en": "Leggings are soft and comfy.",
+     "vi": "Quần bó mềm, mặc thoải mái."
+    },
+    {
+     "en": "I wore my leggings to dance class.",
+     "vi": "Con mặc quần bó đi học múa."
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-030",
+   "en": "sunglasses",
+   "vi": "cái kính mát",
+   "pos": "noun",
+   "emoji": "🕶️",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Whoa, cool sunglasses!",
+     "vi": "Wow, kính mát ngầu quá!"
+    },
+    {
+     "en": "Do you want your sunglasses?",
+     "vi": "Con muốn đeo kính mát hông?"
+    },
+    {
+     "en": "Put on your sunglasses. It's bright!",
+     "vi": "Đeo kính mát vô nha. Chói quá!"
+    },
+    {
+     "en": "You look so cool in sunglasses!",
+     "vi": "Con đeo kính mát nhìn ngầu ghê!"
+    },
+    {
+     "en": "I can see you in my sunglasses!",
+     "vi": "Con thấy mình trong kính mát nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-031",
+   "en": "necklace",
+   "vi": "sợi dây chuyền",
+   "pos": "noun",
+   "emoji": "📿",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "What a pretty necklace!",
+     "vi": "Sợi dây chuyền đẹp quá!"
+    },
+    {
+     "en": "Do you want to wear a necklace?",
+     "vi": "Con muốn đeo dây chuyền hông?"
+    },
+    {
+     "en": "Let's make a necklace with beads.",
+     "vi": "Mình xâu hạt làm dây chuyền nha."
+    },
+    {
+     "en": "Mommy's necklace is sparkly.",
+     "vi": "Dây chuyền của mẹ lấp lánh ghê."
+    },
+    {
+     "en": "I made a necklace for you!",
+     "vi": "Con làm dây chuyền tặng nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-032",
+   "en": "bracelet",
+   "vi": "cái vòng tay",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, a rainbow bracelet!",
+     "vi": "Ồ, vòng tay cầu vồng!"
+    },
+    {
+     "en": "Where did you get that bracelet?",
+     "vi": "Con lấy vòng tay đó ở đâu vậy?"
+    },
+    {
+     "en": "Slide the bracelet onto your wrist.",
+     "vi": "Đeo vòng tay vô cổ tay nè."
+    },
+    {
+     "en": "This bracelet is too big for you.",
+     "vi": "Vòng tay này to quá so với con."
+    },
+    {
+     "en": "My friend gave me this bracelet!",
+     "vi": "Bạn con tặng con vòng tay này đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-033",
+   "en": "hair clip",
+   "vi": "cái kẹp tóc",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, a butterfly hair clip!",
+     "vi": "Nhìn nè, kẹp tóc hình con bướm!"
+    },
+    {
+     "en": "Which hair clip do you want?",
+     "vi": "Con muốn kẹp tóc nào?"
+    },
+    {
+     "en": "Hold still for your hair clip.",
+     "vi": "Ngồi yên để kẹp tóc nha."
+    },
+    {
+     "en": "Your hair clip is so cute!",
+     "vi": "Kẹp tóc của con dễ thương quá!"
+    },
+    {
+     "en": "My hair clip fell out!",
+     "vi": "Kẹp tóc của con rớt rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-034",
+   "en": "headband",
+   "vi": "cái băng đô",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, a headband with a bow!",
+     "vi": "Ồ, băng đô có cái nơ!"
+    },
+    {
+     "en": "Do you want your headband?",
+     "vi": "Con có muốn đeo băng đô hông?"
+    },
+    {
+     "en": "Push your headband back a little.",
+     "vi": "Đẩy băng đô ra sau chút xíu nha."
+    },
+    {
+     "en": "Your headband keeps your hair neat.",
+     "vi": "Băng đô giữ tóc con gọn gàng đó."
+    },
+    {
+     "en": "I want the headband with cat ears!",
+     "vi": "Con muốn băng đô tai mèo!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-035",
+   "en": "button",
+   "vi": "cái nút áo",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, a big round button!",
+     "vi": "Nhìn nè, cái nút tròn to!"
+    },
+    {
+     "en": "Can you do the buttons?",
+     "vi": "Con tự cài nút được hông?"
+    },
+    {
+     "en": "Let's push the button through the hole.",
+     "vi": "Mình đẩy nút qua cái lỗ nha."
+    },
+    {
+     "en": "Uh-oh, a button fell off.",
+     "vi": "Ui, rớt mất một cái nút rồi."
+    },
+    {
+     "en": "I did the top button myself!",
+     "vi": "Con tự cài nút trên cùng đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-036",
+   "en": "zipper",
+   "vi": "cái dây kéo",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Zip! The zipper goes up!",
+     "vi": "Rẹt! Dây kéo kéo lên rồi!"
+    },
+    {
+     "en": "Is your zipper stuck?",
+     "vi": "Dây kéo của con bị kẹt hả?"
+    },
+    {
+     "en": "Pull the zipper all the way up.",
+     "vi": "Kéo dây kéo lên tới trên luôn nha."
+    },
+    {
+     "en": "This zipper is tricky.",
+     "vi": "Cái dây kéo này khó kéo ghê."
+    },
+    {
+     "en": "Help! My zipper is stuck!",
+     "vi": "Giúp con với! Dây kéo bị kẹt rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-037",
+   "en": "pocket",
+   "vi": "cái túi áo",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, what's in your pocket?",
+     "vi": "Ồ, trong túi con có gì vậy?"
+    },
+    {
+     "en": "Did you check your pockets?",
+     "vi": "Con kiểm tra túi quần chưa?"
+    },
+    {
+     "en": "Empty your pockets before the wash.",
+     "vi": "Lấy hết đồ trong túi ra trước khi giặt nha."
+    },
+    {
+     "en": "Your pocket is full of rocks!",
+     "vi": "Túi con đầy sỏi đá luôn!"
+    },
+    {
+     "en": "I found a leaf in my pocket!",
+     "vi": "Con thấy cái lá trong túi nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-038",
+   "en": "sleeve",
+   "vi": "cái tay áo",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Oops, your sleeve is wet!",
+     "vi": "Ui, tay áo con ướt rồi!"
+    },
+    {
+     "en": "Long sleeves or short sleeves?",
+     "vi": "Mặc áo tay dài hay tay ngắn?"
+    },
+    {
+     "en": "Let's roll up your sleeves.",
+     "vi": "Mình xắn tay áo lên nha."
+    },
+    {
+     "en": "These sleeves are too long.",
+     "vi": "Tay áo này dài quá."
+    },
+    {
+     "en": "My arm is stuck in my sleeve!",
+     "vi": "Tay con bị kẹt trong tay áo rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-039",
+   "en": "collar",
+   "vi": "cái cổ áo",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Oops, your collar is folded in.",
+     "vi": "Ui, cổ áo con bị gấp vô trong kìa."
+    },
+    {
+     "en": "Can you fix your collar?",
+     "vi": "Con tự sửa cổ áo được hông?"
+    },
+    {
+     "en": "Let me straighten your collar.",
+     "vi": "Để mình chỉnh cổ áo lại cho con."
+    },
+    {
+     "en": "This shirt has a little round collar.",
+     "vi": "Áo này có cổ tròn nhỏ xíu."
+    },
+    {
+     "en": "My collar feels itchy today.",
+     "vi": "Hôm nay cổ áo làm con ngứa quá."
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-040",
+   "en": "shoelaces",
+   "vi": "dây giày",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Uh-oh, your shoelaces are untied!",
+     "vi": "Ui, dây giày con bị sút rồi!"
+    },
+    {
+     "en": "Do you want to learn to tie shoelaces?",
+     "vi": "Con muốn học cột dây giày hông?"
+    },
+    {
+     "en": "Tuck in your shoelaces so you don't trip.",
+     "vi": "Nhét dây giày vô để khỏi vấp nha."
+    },
+    {
+     "en": "These shoelaces are really long.",
+     "vi": "Dây giày này dài thiệt."
+    },
+    {
+     "en": "I tied my shoelaces all by myself today!",
+     "vi": "Hôm nay con tự cột dây giày một mình đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-041",
+   "en": "hood",
+   "vi": "cái mũ áo",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Hood up! It's raining!",
+     "vi": "Đội mũ áo lên! Mưa rồi!"
+    },
+    {
+     "en": "Do you want your hood on?",
+     "vi": "Con muốn đội mũ áo lên hông?"
+    },
+    {
+     "en": "Pull your hood over your ears.",
+     "vi": "Kéo mũ áo che tai lại nha."
+    },
+    {
+     "en": "Your hood has bunny ears!",
+     "vi": "Mũ áo con có tai thỏ nè!"
+    },
+    {
+     "en": "Peekaboo! I'm hiding in my hood!",
+     "vi": "Ú òa! Con trốn trong mũ áo nè!",
+     "ipa": "/ˈpikəˌbu aɪm ˈhaɪdɪŋ ɪn maɪ hʊd/"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-042",
+   "en": "get dressed",
+   "vi": "mặc đồ",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Time to get dressed!",
+     "vi": "Tới giờ mặc đồ rồi!"
+    },
+    {
+     "en": "Can you get dressed by yourself?",
+     "vi": "Con tự mặc đồ được hông?"
+    },
+    {
+     "en": "Let's get dressed for the park.",
+     "vi": "Mình thay đồ đi công viên nha."
+    },
+    {
+     "en": "Wow, you got dressed so fast!",
+     "vi": "Wow, con mặc đồ nhanh quá!"
+    },
+    {
+     "en": "I got dressed all by myself!",
+     "vi": "Con tự mặc đồ một mình đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-043",
+   "en": "put on",
+   "vi": "mặc vào, mang vào",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Put on your shoes!",
+     "vi": "Mang giày vô nào!"
+    },
+    {
+     "en": "Can you put on your socks?",
+     "vi": "Con tự mang vớ được hông?"
+    },
+    {
+     "en": "Let's put on your jacket.",
+     "vi": "Mình mặc áo khoác vô nha."
+    },
+    {
+     "en": "You put on your shirt so well!",
+     "vi": "Con mặc áo giỏi quá!"
+    },
+    {
+     "en": "I want to put on my hat!",
+     "vi": "Con muốn đội nón!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-044",
+   "en": "take off",
+   "vi": "cởi ra",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Uh-oh, muddy shoes! Take them off!",
+     "vi": "Ui, giày dính bùn rồi! Cởi ra nha!"
+    },
+    {
+     "en": "Want to take off your jacket?",
+     "vi": "Con muốn cởi áo khoác ra hông?"
+    },
+    {
+     "en": "Take off your wet socks, please.",
+     "vi": "Cởi đôi vớ ướt ra nha con."
+    },
+    {
+     "en": "It feels good to take off boots.",
+     "vi": "Cởi ủng ra thấy đã ghê."
+    },
+    {
+     "en": "I took off my shirt by myself!",
+     "vi": "Con tự cởi áo ra được rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-045",
+   "en": "zip up",
+   "vi": "kéo dây kéo lên",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Zip up! All done!",
+     "vi": "Kéo lên! Xong rồi!"
+    },
+    {
+     "en": "Can you zip up your jacket?",
+     "vi": "Con tự kéo dây kéo áo khoác được hông?"
+    },
+    {
+     "en": "Let's zip up your bag.",
+     "vi": "Mình kéo dây kéo cặp lại nha."
+    },
+    {
+     "en": "It's cold, so zip up tight.",
+     "vi": "Trời lạnh nên kéo dây kéo kín lên nha."
+    },
+    {
+     "en": "I zipped up my coat!",
+     "vi": "Con kéo dây kéo áo choàng lên rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-046",
+   "en": "tie",
+   "vi": "cột, buộc",
+   "pos": "verb",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Look, I can tie a bow!",
+     "vi": "Nhìn nè, mình cột được cái nơ!"
+    },
+    {
+     "en": "Do you want to tie your shoes?",
+     "vi": "Con muốn tự cột dây giày hông?"
+    },
+    {
+     "en": "Cross the laces, then tie a knot.",
+     "vi": "Bắt chéo dây rồi cột một gút nha."
+    },
+    {
+     "en": "Tying shoes is tricky, but you're getting it.",
+     "vi": "Cột dây giày khó lắm, mà con sắp làm được rồi đó."
+    },
+    {
+     "en": "I'll tie my own shoes tomorrow!",
+     "vi": "Mai con sẽ tự cột dây giày!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-047",
+   "en": "inside out",
+   "vi": "mặc trái",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Oops, your shirt is inside out!",
+     "vi": "Ui, áo con mặc trái rồi!"
+    },
+    {
+     "en": "Are your pants inside out?",
+     "vi": "Quần con có bị mặc trái hông?"
+    },
+    {
+     "en": "Let's fix your inside-out socks.",
+     "vi": "Mình lộn vớ lại cho đúng mặt nha."
+    },
+    {
+     "en": "Inside out looks funny!",
+     "vi": "Mặc trái nhìn mắc cười ghê!"
+    },
+    {
+     "en": "I wore my shirt inside out all day!",
+     "vi": "Con mặc áo trái nguyên ngày luôn!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-048",
+   "en": "fold",
+   "vi": "xếp (quần áo)",
+   "pos": "verb",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Look, I folded the towels!",
+     "vi": "Nhìn nè, mình xếp khăn xong rồi!"
+    },
+    {
+     "en": "Can you help me fold the laundry?",
+     "vi": "Con phụ mình xếp đồ được hông?"
+    },
+    {
+     "en": "Fold your shirt in half, like this.",
+     "vi": "Gấp áo làm đôi, như vầy nè."
+    },
+    {
+     "en": "You fold clothes so neatly!",
+     "vi": "Con xếp đồ gọn gàng quá!"
+    },
+    {
+     "en": "I folded all my socks!",
+     "vi": "Con xếp hết vớ của con rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-049",
+   "en": "hanger",
+   "vi": "cái móc áo",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Look, so many hangers!",
+     "vi": "Nhìn nè, nhiều móc áo ghê!"
+    },
+    {
+     "en": "Can you hand me a hanger?",
+     "vi": "Con đưa mình cái móc áo được hông?"
+    },
+    {
+     "en": "Put your dress on a hanger, please.",
+     "vi": "Treo đầm lên móc áo nha con."
+    },
+    {
+     "en": "This hanger is just the right size.",
+     "vi": "Cái móc này vừa vặn luôn."
+    },
+    {
+     "en": "I hung my jacket on a hanger!",
+     "vi": "Con treo áo khoác lên móc rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-050",
+   "en": "laundry",
+   "vi": "đồ giặt",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Wow, a big pile of laundry!",
+     "vi": "Trời, cả đống đồ giặt luôn!"
+    },
+    {
+     "en": "Where does the dirty laundry go?",
+     "vi": "Đồ dơ thì bỏ vô đâu ta?"
+    },
+    {
+     "en": "Put your clothes in the laundry basket.",
+     "vi": "Bỏ quần áo vô giỏ đồ dơ nha."
+    },
+    {
+     "en": "The laundry smells so fresh!",
+     "vi": "Đồ mới giặt thơm ghê!"
+    },
+    {
+     "en": "I helped Daddy with the laundry today.",
+     "vi": "Hôm nay con phụ ba giặt đồ."
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-051",
+   "en": "outfit",
+   "vi": "bộ đồ",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "What a cool outfit!",
+     "vi": "Bộ đồ ngầu quá!"
+    },
+    {
+     "en": "Which outfit do you want for the party?",
+     "vi": "Con muốn mặc bộ nào đi tiệc?"
+    },
+    {
+     "en": "Pick out your outfit for tomorrow.",
+     "vi": "Con chọn sẵn đồ cho ngày mai nha."
+    },
+    {
+     "en": "Your outfit matches! Blue and blue!",
+     "vi": "Đồ con hợp nhau ghê! Xanh với xanh!"
+    },
+    {
+     "en": "I'm going to wear my favorite outfit tomorrow.",
+     "vi": "Mai con sẽ mặc bộ đồ con thích nhất."
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-052",
+   "en": "fit",
+   "vi": "vừa (quần áo)",
+   "pos": "verb",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Look, it fits perfectly!",
+     "vi": "Nhìn nè, vừa khít luôn!"
+    },
+    {
+     "en": "Do these shoes still fit?",
+     "vi": "Đôi giày này con mang còn vừa hông?"
+    },
+    {
+     "en": "Try it on to see if it fits.",
+     "vi": "Mặc thử coi có vừa hông nha."
+    },
+    {
+     "en": "This shirt doesn't fit anymore. You grew!",
+     "vi": "Áo này hết vừa rồi. Con lớn rồi đó!"
+    },
+    {
+     "en": "My old jacket doesn't fit me now.",
+     "vi": "Áo khoác cũ con mặc hết vừa rồi."
+    }
+   ]
+  }
+ ]
+}

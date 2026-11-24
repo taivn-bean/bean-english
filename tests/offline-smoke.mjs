@@ -2,7 +2,7 @@
 import { chromium } from 'playwright'
 
 const base = process.argv[2] ?? 'http://localhost:4173'
-const outDir = process.env.SHOTS ?? '.'
+const outDir = process.env.SHOTS ?? (await import('node:os')).tmpdir() // screenshots never land in the repo
 const browser = await chromium.launch()
 const ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2 })
 const page = await ctx.newPage()
@@ -71,6 +71,16 @@ await page.locator('p.text-2xl').nth(1).filter({ hasText: /^1/ }).waitFor({ time
 const childStat = (await page.locator('p.text-2xl').nth(1).innerText()).replace(/\s/g, '')
 check(`progress persisted (${childStat})`, childStat.startsWith('1/'))
 await page.screenshot({ path: `${outDir}/progress.png` })
+
+// flash-cards: deck list + a study card work offline (deck JSON is precached; audio is per-deck opt-in)
+const firstDeck = await page.evaluate(async () => (await (await fetch('/content/index.json')).json()).decks?.[0]?.id)
+if (firstDeck) {
+  await page.goto(`${base}/cards/${firstDeck}`)
+  await page.getByText('Học ngay').click({ timeout: 5000 }).catch(() => {})
+  await page.getByRole('button', { name: 'Lật thẻ' }).last().click({ timeout: 5000 }).catch(() => {})
+  check('flash-card study offline', await page.getByRole('button', { name: 'Nhớ rồi' }).isVisible())
+  await page.screenshot({ path: `${outDir}/card.png` })
+}
 
 check(`no console errors ${errors.length ? JSON.stringify(errors) : ''}`, errors.length === 0)
 await browser.close()

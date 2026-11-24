@@ -1,0 +1,1681 @@
+{
+  "deckId": "v-numbers",
+  "words": [
+    {
+      "id": "v-numbers-001",
+      "en": "one",
+      "vi": "số một",
+      "pos": "number",
+      "emoji": "1️⃣",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Look, one little bird!",
+          "vi": "Nhìn kìa, một con chim nhỏ!"
+        },
+        {
+          "en": "Do you want one or two?",
+          "vi": "Con muốn một hay hai cái?"
+        },
+        {
+          "en": "Take just one, please.",
+          "vi": "Lấy một cái thôi nha con."
+        },
+        {
+          "en": "There's only one left.",
+          "vi": "Chỉ còn một cái thôi."
+        },
+        {
+          "en": "Can I have one more?",
+          "vi": "Con ăn thêm một cái nữa được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-002",
+      "en": "two",
+      "vi": "số hai",
+      "pos": "number",
+      "emoji": "2️⃣",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Two little ducks!",
+          "vi": "Hai con vịt nhỏ!"
+        },
+        {
+          "en": "Can you show me two fingers?",
+          "vi": "Con giơ hai ngón tay cho mình xem được không?"
+        },
+        {
+          "en": "Take two crackers, okay?",
+          "vi": "Lấy hai cái bánh quy nha."
+        },
+        {
+          "en": "You have two hands and two feet.",
+          "vi": "Con có hai bàn tay và hai bàn chân."
+        },
+        {
+          "en": "I want two stickers!",
+          "vi": "Con muốn hai cái sticker!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-003",
+      "en": "three",
+      "vi": "số ba",
+      "pos": "number",
+      "emoji": "3️⃣",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "One, two, three, jump!",
+          "vi": "Một, hai, ba, nhảy!"
+        },
+        {
+          "en": "Are you three years old?",
+          "vi": "Con ba tuổi hả?"
+        },
+        {
+          "en": "Let's count to three together.",
+          "vi": "Mình cùng đếm tới ba nha."
+        },
+        {
+          "en": "There are three bears in the story.",
+          "vi": "Trong truyện có ba con gấu."
+        },
+        {
+          "en": "I'm three!",
+          "vi": "Con ba tuổi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-004",
+      "en": "four",
+      "vi": "số bốn",
+      "pos": "number",
+      "emoji": "4️⃣",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Wow, four puppies!",
+          "vi": "Wow, bốn con cún con!"
+        },
+        {
+          "en": "Does a dog have four legs?",
+          "vi": "Con chó có bốn chân không?"
+        },
+        {
+          "en": "Grab four spoons for dinner.",
+          "vi": "Lấy bốn cái muỗng cho bữa tối nha."
+        },
+        {
+          "en": "A car has four wheels.",
+          "vi": "Xe hơi có bốn bánh."
+        },
+        {
+          "en": "I'm going to be four soon!",
+          "vi": "Con sắp bốn tuổi rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-005",
+      "en": "five",
+      "vi": "số năm",
+      "pos": "number",
+      "emoji": "5️⃣",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Yay, five little ducks!",
+          "vi": "Yeah, năm con vịt nhỏ!"
+        },
+        {
+          "en": "Can you count to five?",
+          "vi": "Con đếm tới năm được không?"
+        },
+        {
+          "en": "Hold up five fingers!",
+          "vi": "Giơ năm ngón tay lên!"
+        },
+        {
+          "en": "You have five fingers on each hand.",
+          "vi": "Mỗi bàn tay con có năm ngón."
+        },
+        {
+          "en": "Five more minutes, please!",
+          "vi": "Cho con năm phút nữa đi mà!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-006",
+      "en": "six",
+      "vi": "số sáu",
+      "pos": "number",
+      "emoji": "6️⃣",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, six eggs!",
+          "vi": "Nhìn nè, sáu cái trứng!"
+        },
+        {
+          "en": "Is it six o'clock yet?",
+          "vi": "Sáu giờ chưa ta?"
+        },
+        {
+          "en": "Put six blocks in the box.",
+          "vi": "Bỏ sáu khối vô hộp nha."
+        },
+        {
+          "en": "A bug has six legs.",
+          "vi": "Côn trùng có sáu chân."
+        },
+        {
+          "en": "I'm six years old!",
+          "vi": "Con sáu tuổi rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-007",
+      "en": "seven",
+      "vi": "số bảy",
+      "pos": "number",
+      "emoji": "7️⃣",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, seven candles!",
+          "vi": "Wow, bảy cây nến!"
+        },
+        {
+          "en": "What comes after seven?",
+          "vi": "Sau số bảy là số mấy?"
+        },
+        {
+          "en": "Let's count seven steps.",
+          "vi": "Mình đếm bảy bước nha."
+        },
+        {
+          "en": "There are seven days in a week.",
+          "vi": "Một tuần có bảy ngày."
+        },
+        {
+          "en": "I can count to seven!",
+          "vi": "Con đếm được tới bảy!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-008",
+      "en": "eight",
+      "vi": "số tám",
+      "pos": "number",
+      "emoji": "8️⃣",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Eight legs! It's a spider!",
+          "vi": "Tám cái chân! Con nhện đó!"
+        },
+        {
+          "en": "Does an octopus have eight arms?",
+          "vi": "Con bạch tuộc có tám cái chân hả?"
+        },
+        {
+          "en": "Count eight grapes for your snack.",
+          "vi": "Đếm tám trái nho để ăn xế nha."
+        },
+        {
+          "en": "Bedtime is at eight o'clock.",
+          "vi": "Tám giờ là giờ đi ngủ."
+        },
+        {
+          "en": "I got eight stars today!",
+          "vi": "Hôm nay con được tám ngôi sao!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-009",
+      "en": "nine",
+      "vi": "số chín",
+      "pos": "number",
+      "emoji": "9️⃣",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Nine balloons! So many!",
+          "vi": "Chín trái bong bóng! Nhiều quá!"
+        },
+        {
+          "en": "Is this a six or a nine?",
+          "vi": "Đây là số sáu hay số chín?"
+        },
+        {
+          "en": "Find nine red beads.",
+          "vi": "Tìm chín hạt màu đỏ nha."
+        },
+        {
+          "en": "Your big cousin is nine.",
+          "vi": "Anh họ con chín tuổi rồi."
+        },
+        {
+          "en": "I'll be nine on my next birthday!",
+          "vi": "Sinh nhật tới con chín tuổi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-010",
+      "en": "ten",
+      "vi": "số mười",
+      "pos": "number",
+      "emoji": "🔟",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ten fingers, ten toes!",
+          "vi": "Mười ngón tay, mười ngón chân!"
+        },
+        {
+          "en": "Who can count to ten?",
+          "vi": "Ai đếm được tới mười nè?"
+        },
+        {
+          "en": "Close your eyes and count to ten.",
+          "vi": "Nhắm mắt lại và đếm tới mười nha."
+        },
+        {
+          "en": "Ten is a big number!",
+          "vi": "Mười là số lớn đó!"
+        },
+        {
+          "en": "I counted to ten!",
+          "vi": "Con đếm tới mười rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-011",
+      "en": "eleven",
+      "vi": "số mười một",
+      "pos": "number",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, eleven ducks!",
+          "vi": "Wow, mười một con vịt!"
+        },
+        {
+          "en": "Is it eleven o'clock already?",
+          "vi": "Mười một giờ rồi hả?"
+        },
+        {
+          "en": "Put eleven cars in a line.",
+          "vi": "Xếp mười một chiếc xe thành hàng nha."
+        },
+        {
+          "en": "Eleven looks like two ones.",
+          "vi": "Số mười một giống hai số một."
+        },
+        {
+          "en": "My big brother is eleven!",
+          "vi": "Anh hai của con mười một tuổi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-012",
+      "en": "twelve",
+      "vi": "số mười hai",
+      "pos": "number",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Twelve eggs in a box!",
+          "vi": "Một hộp có mười hai cái trứng!"
+        },
+        {
+          "en": "Are there twelve months in a year?",
+          "vi": "Một năm có mười hai tháng hả?"
+        },
+        {
+          "en": "Let's eat lunch at twelve.",
+          "vi": "Mình ăn trưa lúc mười hai giờ nha."
+        },
+        {
+          "en": "There are twelve numbers on the clock.",
+          "vi": "Trên đồng hồ có mười hai con số."
+        },
+        {
+          "en": "I counted twelve stairs!",
+          "vi": "Con đếm được mười hai bậc thang!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-013",
+      "en": "thirteen",
+      "vi": "số mười ba",
+      "pos": "number",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Thirteen! That's a lot of crayons!",
+          "vi": "Mười ba! Nhiều bút sáp quá!"
+        },
+        {
+          "en": "Can you write thirteen?",
+          "vi": "Con viết số mười ba được không?"
+        },
+        {
+          "en": "Jump thirteen times!",
+          "vi": "Nhảy mười ba cái nha!"
+        },
+        {
+          "en": "Thirteen comes after twelve.",
+          "vi": "Mười ba đứng sau mười hai."
+        },
+        {
+          "en": "There are thirteen kids in my class.",
+          "vi": "Lớp con có mười ba bạn."
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-014",
+      "en": "fourteen",
+      "vi": "số mười bốn",
+      "pos": "number",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, fourteen stickers!",
+          "vi": "Wow, mười bốn cái sticker!"
+        },
+        {
+          "en": "Where's number fourteen?",
+          "vi": "Số mười bốn đâu rồi?"
+        },
+        {
+          "en": "Find page fourteen in your book.",
+          "vi": "Mở trang mười bốn trong sách nha."
+        },
+        {
+          "en": "Fourteen is bigger than ten.",
+          "vi": "Mười bốn lớn hơn mười."
+        },
+        {
+          "en": "I found fourteen shells!",
+          "vi": "Con nhặt được mười bốn cái vỏ sò!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-015",
+      "en": "fifteen",
+      "vi": "số mười lăm",
+      "pos": "number",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, bus number fifteen!",
+          "vi": "Nhìn kìa, xe buýt số mười lăm!"
+        },
+        {
+          "en": "Fifteen minutes on the swings, okay?",
+          "vi": "Chơi xích đu mười lăm phút nha?"
+        },
+        {
+          "en": "Count all fifteen blocks with me.",
+          "vi": "Đếm hết mười lăm khối với mình nha."
+        },
+        {
+          "en": "Fifteen is five more than ten.",
+          "vi": "Mười lăm là mười thêm năm."
+        },
+        {
+          "en": "I did fifteen jumps!",
+          "vi": "Con nhảy được mười lăm cái!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-016",
+      "en": "sixteen",
+      "vi": "số mười sáu",
+      "pos": "number",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Sixteen ants! Look!",
+          "vi": "Mười sáu con kiến! Nhìn nè!"
+        },
+        {
+          "en": "Is it sixteen or seventeen?",
+          "vi": "Là mười sáu hay mười bảy ta?"
+        },
+        {
+          "en": "Put sixteen beads on the string.",
+          "vi": "Xâu mười sáu hạt vô sợi dây nha."
+        },
+        {
+          "en": "Sixteen is an even number.",
+          "vi": "Mười sáu là số chẵn."
+        },
+        {
+          "en": "I'm on step sixteen!",
+          "vi": "Con lên tới bậc thứ mười sáu rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-017",
+      "en": "seventeen",
+      "vi": "số mười bảy",
+      "pos": "number",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Seventeen! Almost twenty!",
+          "vi": "Mười bảy! Gần hai mươi rồi!"
+        },
+        {
+          "en": "Can you find seventeen on the chart?",
+          "vi": "Con tìm số mười bảy trên bảng được không?"
+        },
+        {
+          "en": "Say seventeen with me.",
+          "vi": "Nói \"mười bảy\" với mình nè."
+        },
+        {
+          "en": "Seventeen is a tricky number to say.",
+          "vi": "Số mười bảy hơi khó đọc."
+        },
+        {
+          "en": "I have seventeen cars now!",
+          "vi": "Giờ con có mười bảy chiếc xe rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-018",
+      "en": "eighteen",
+      "vi": "số mười tám",
+      "pos": "number",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, eighteen birds on the wire!",
+          "vi": "Wow, mười tám con chim trên dây điện!"
+        },
+        {
+          "en": "Is that an eighteen?",
+          "vi": "Đó là số mười tám hả?"
+        },
+        {
+          "en": "Count to eighteen while I hide.",
+          "vi": "Đếm tới mười tám trong lúc mình đi trốn nha."
+        },
+        {
+          "en": "Eighteen is two less than twenty.",
+          "vi": "Mười tám ít hơn hai mươi là hai."
+        },
+        {
+          "en": "I saw eighteen cars on the way!",
+          "vi": "Con đếm được mười tám chiếc xe trên đường!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-019",
+      "en": "nineteen",
+      "vi": "số mười chín",
+      "pos": "number",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Nineteen! One more to go!",
+          "vi": "Mười chín! Còn một nữa thôi!"
+        },
+        {
+          "en": "What comes after nineteen?",
+          "vi": "Sau mười chín là số mấy?"
+        },
+        {
+          "en": "Write nineteen on the paper.",
+          "vi": "Viết số mười chín lên giấy nha."
+        },
+        {
+          "en": "Nineteen is right before twenty.",
+          "vi": "Mười chín đứng ngay trước hai mươi."
+        },
+        {
+          "en": "I got to nineteen!",
+          "vi": "Con đếm tới mười chín rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-020",
+      "en": "twenty",
+      "vi": "số hai mươi",
+      "pos": "number",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Twenty! You did it!",
+          "vi": "Hai mươi! Con làm được rồi!"
+        },
+        {
+          "en": "Can you count up to twenty?",
+          "vi": "Con đếm được tới hai mươi không?"
+        },
+        {
+          "en": "Let's do twenty jumping jacks!",
+          "vi": "Mình nhảy dang tay chân hai mươi cái nha!"
+        },
+        {
+          "en": "Twenty is two tens.",
+          "vi": "Hai mươi là hai chục."
+        },
+        {
+          "en": "I counted to twenty by myself!",
+          "vi": "Con tự đếm tới hai mươi luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-021",
+      "en": "thirty",
+      "vi": "số ba mươi",
+      "pos": "number",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Thirty! Wow, that's a lot!",
+          "vi": "Ba mươi! Wow, nhiều ghê!"
+        },
+        {
+          "en": "Can you count by tens to thirty?",
+          "vi": "Con đếm theo chục tới ba mươi được không?"
+        },
+        {
+          "en": "Read for thirty minutes, then you can play.",
+          "vi": "Đọc sách ba mươi phút rồi con được chơi."
+        },
+        {
+          "en": "There are thirty kids at the party.",
+          "vi": "Bữa tiệc có ba mươi bạn nhỏ."
+        },
+        {
+          "en": "I read thirty pages yesterday!",
+          "vi": "Hôm qua con đọc được ba mươi trang!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-022",
+      "en": "forty",
+      "vi": "số bốn mươi",
+      "pos": "number",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Forty steps! We made it!",
+          "vi": "Bốn mươi bậc! Tới nơi rồi!"
+        },
+        {
+          "en": "Is it forty or fourteen?",
+          "vi": "Bốn mươi hay mười bốn vậy con?"
+        },
+        {
+          "en": "Count to forty while I finish up.",
+          "vi": "Đếm tới bốn mươi trong lúc mình làm cho xong nha."
+        },
+        {
+          "en": "Forty is four tens.",
+          "vi": "Bốn mươi là bốn chục."
+        },
+        {
+          "en": "I'll have forty stickers by Friday!",
+          "vi": "Tới thứ sáu con sẽ có bốn mươi cái sticker!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-023",
+      "en": "fifty",
+      "vi": "số năm mươi",
+      "pos": "number",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Fifty! That's half of a hundred!",
+          "vi": "Năm mươi! Là một nửa của một trăm đó!"
+        },
+        {
+          "en": "How much is fifty plus fifty?",
+          "vi": "Năm mươi cộng năm mươi bằng bao nhiêu?"
+        },
+        {
+          "en": "Count your coins up to fifty.",
+          "vi": "Đếm tiền xu của con tới năm mươi nha."
+        },
+        {
+          "en": "This book has fifty pages.",
+          "vi": "Cuốn sách này có năm mươi trang."
+        },
+        {
+          "en": "I counted to fifty in the car!",
+          "vi": "Con đếm tới năm mươi lúc ngồi trên xe!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-024",
+      "en": "sixty",
+      "vi": "số sáu mươi",
+      "pos": "number",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Sixty seconds! Ready, go!",
+          "vi": "Sáu mươi giây! Sẵn sàng, bắt đầu!"
+        },
+        {
+          "en": "Did you know there are sixty minutes in an hour?",
+          "vi": "Con có biết một giờ có sáu mươi phút không?"
+        },
+        {
+          "en": "Count to sixty, and then come find me.",
+          "vi": "Đếm tới sáu mươi rồi đi tìm mình nha."
+        },
+        {
+          "en": "Sixty is a really big number.",
+          "vi": "Sáu mươi là số lớn lắm đó."
+        },
+        {
+          "en": "I can count to sixty now!",
+          "vi": "Giờ con đếm được tới sáu mươi rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-025",
+      "en": "seventy",
+      "vi": "số bảy mươi",
+      "pos": "number",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Seventy! Keep going!",
+          "vi": "Bảy mươi! Đếm tiếp đi!"
+        },
+        {
+          "en": "Can you find seventy on the hundred chart?",
+          "vi": "Con tìm số bảy mươi trên bảng một trăm số được không?"
+        },
+        {
+          "en": "Skip to page seventy.",
+          "vi": "Lật tới trang bảy mươi nha."
+        },
+        {
+          "en": "Seventy is seven tens.",
+          "vi": "Bảy mươi là bảy chục."
+        },
+        {
+          "en": "Grandpa said he's turning seventy next month.",
+          "vi": "Ông nói tháng sau ông bảy mươi tuổi."
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-026",
+      "en": "eighty",
+      "vi": "số tám mươi",
+      "pos": "number",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Eighty! Almost there!",
+          "vi": "Tám mươi! Sắp tới rồi!"
+        },
+        {
+          "en": "Can you write eighty?",
+          "vi": "Con viết số tám mươi được không?"
+        },
+        {
+          "en": "Count by tens to eighty.",
+          "vi": "Đếm theo chục tới tám mươi nha."
+        },
+        {
+          "en": "Eighty is bigger than seventy.",
+          "vi": "Tám mươi lớn hơn bảy mươi."
+        },
+        {
+          "en": "I got eighty points in the game!",
+          "vi": "Con được tám mươi điểm trong trò chơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-027",
+      "en": "ninety",
+      "vi": "số chín mươi",
+      "pos": "number",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ninety! Wow, you're fast!",
+          "vi": "Chín mươi! Wow, con đếm nhanh ghê!"
+        },
+        {
+          "en": "What comes after ninety?",
+          "vi": "Sau chín mươi là số mấy?"
+        },
+        {
+          "en": "Keep counting from ninety.",
+          "vi": "Đếm tiếp từ chín mươi nha."
+        },
+        {
+          "en": "Ninety is ten less than a hundred.",
+          "vi": "Chín mươi ít hơn một trăm là mười."
+        },
+        {
+          "en": "I'm at ninety! Almost a hundred!",
+          "vi": "Con tới chín mươi rồi! Gần một trăm rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-028",
+      "en": "hundred",
+      "vi": "một trăm",
+      "pos": "number",
+      "emoji": "💯",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "A hundred! You did it!",
+          "vi": "Một trăm! Con làm được rồi!"
+        },
+        {
+          "en": "Can you count to a hundred?",
+          "vi": "Con đếm tới một trăm được không?"
+        },
+        {
+          "en": "Try counting to a hundred by tens.",
+          "vi": "Thử đếm theo chục tới một trăm nha."
+        },
+        {
+          "en": "A hundred is ten tens.",
+          "vi": "Một trăm là mười chục."
+        },
+        {
+          "en": "I'm going to read a hundred books this year!",
+          "vi": "Năm nay con sẽ đọc một trăm cuốn sách!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-029",
+      "en": "zero",
+      "vi": "số không",
+      "pos": "number",
+      "emoji": "0️⃣",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Zero! None left!",
+          "vi": "Số không! Hết sạch rồi!"
+        },
+        {
+          "en": "How many cookies are left? Zero?",
+          "vi": "Còn mấy cái bánh? Không còn cái nào hả?"
+        },
+        {
+          "en": "Write a zero, like a little circle.",
+          "vi": "Viết số không, giống hình tròn nhỏ nè."
+        },
+        {
+          "en": "Zero means nothing at all.",
+          "vi": "Số không nghĩa là không có gì hết."
+        },
+        {
+          "en": "Three, two, one, zero, blast off!",
+          "vi": "Ba, hai, một, không, phóng!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-030",
+      "en": "thousand",
+      "vi": "một ngàn",
+      "pos": "number",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, there must be a thousand stars!",
+          "vi": "Wow, chắc phải có cả ngàn ngôi sao!"
+        },
+        {
+          "en": "Do you think there are a thousand ants here?",
+          "vi": "Con nghĩ ở đây có cả ngàn con kiến không?"
+        },
+        {
+          "en": "Write one thousand with three zeros.",
+          "vi": "Viết số một ngàn với ba số không nha."
+        },
+        {
+          "en": "A thousand is ten hundreds.",
+          "vi": "Một ngàn là mười trăm."
+        },
+        {
+          "en": "When I grow up, I'll have a thousand books!",
+          "vi": "Lớn lên con sẽ có cả ngàn cuốn sách!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-031",
+      "en": "first",
+      "vi": "đầu tiên, thứ nhất",
+      "pos": "adjective",
+      "emoji": "🥇",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, you're first!",
+          "vi": "Yeah, con về nhất!"
+        },
+        {
+          "en": "Who wants to go first?",
+          "vi": "Ai muốn đi trước nào?"
+        },
+        {
+          "en": "Wash your hands first, please.",
+          "vi": "Rửa tay trước đã nha con."
+        },
+        {
+          "en": "The first slice is yours.",
+          "vi": "Miếng đầu tiên là của con."
+        },
+        {
+          "en": "I came first in the race!",
+          "vi": "Con về nhất cuộc đua đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-032",
+      "en": "third",
+      "vi": "thứ ba",
+      "pos": "adjective",
+      "emoji": "🥉",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Third place! Nice try!",
+          "vi": "Hạng ba! Con cố gắng tốt lắm!"
+        },
+        {
+          "en": "Is this your third time on the slide?",
+          "vi": "Đây là lần thứ ba con chơi cầu tuột hả?"
+        },
+        {
+          "en": "Sit in the third chair, please.",
+          "vi": "Ngồi vô cái ghế thứ ba nha con."
+        },
+        {
+          "en": "The third story was the funniest.",
+          "vi": "Câu chuyện thứ ba là vui nhất."
+        },
+        {
+          "en": "I got third place in the race!",
+          "vi": "Con được hạng ba trong cuộc đua!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-033",
+      "en": "last",
+      "vi": "cuối cùng",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Last one! Then bath time.",
+          "vi": "Cái cuối cùng! Rồi đi tắm nha."
+        },
+        {
+          "en": "Who's last in line?",
+          "vi": "Ai đứng cuối hàng?"
+        },
+        {
+          "en": "Save the last piece for Daddy.",
+          "vi": "Chừa miếng cuối cho ba nha."
+        },
+        {
+          "en": "That was the last cookie, sweetie.",
+          "vi": "Đó là cái bánh cuối cùng rồi con."
+        },
+        {
+          "en": "One last song, please!",
+          "vi": "Hát thêm bài cuối thôi mà!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-034",
+      "en": "next",
+      "vi": "tiếp theo, kế tiếp",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "You're next!",
+          "vi": "Tới lượt con rồi!"
+        },
+        {
+          "en": "Who's next?",
+          "vi": "Ai tiếp theo nào?"
+        },
+        {
+          "en": "Wait for the next one, okay?",
+          "vi": "Chờ cái tiếp theo nha con."
+        },
+        {
+          "en": "The next page has a puppy.",
+          "vi": "Trang tiếp theo có con cún."
+        },
+        {
+          "en": "Can I go next?",
+          "vi": "Con đi tiếp theo được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-035",
+      "en": "more",
+      "vi": "thêm, nhiều hơn",
+      "pos": "other",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "More bubbles!",
+          "vi": "Thêm bong bóng nữa!"
+        },
+        {
+          "en": "Do you want more noodles?",
+          "vi": "Con ăn thêm mì không?"
+        },
+        {
+          "en": "Ask nicely for more, okay?",
+          "vi": "Muốn thêm thì xin cho lễ phép nha."
+        },
+        {
+          "en": "This bowl has more grapes.",
+          "vi": "Chén này nhiều nho hơn."
+        },
+        {
+          "en": "More juice, please!",
+          "vi": "Cho con thêm nước trái cây!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-036",
+      "en": "less",
+      "vi": "ít hơn",
+      "pos": "other",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, this cup has less juice!",
+          "vi": "Ồ, ly này ít nước trái cây hơn!"
+        },
+        {
+          "en": "Which one has less?",
+          "vi": "Cái nào ít hơn con?"
+        },
+        {
+          "en": "Let's use less water this time.",
+          "vi": "Lần này mình dùng ít nước hơn nha."
+        },
+        {
+          "en": "Three is less than five.",
+          "vi": "Ba nhỏ hơn năm."
+        },
+        {
+          "en": "I want less rice, please.",
+          "vi": "Con muốn ít cơm thôi."
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-037",
+      "en": "half",
+      "vi": "một nửa",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Half for you, half for me!",
+          "vi": "Một nửa cho con, một nửa cho mình!"
+        },
+        {
+          "en": "Do you want half a banana?",
+          "vi": "Con ăn nửa trái chuối không?"
+        },
+        {
+          "en": "Cut the apple in half.",
+          "vi": "Cắt trái táo làm đôi nha."
+        },
+        {
+          "en": "Your cup is half full.",
+          "vi": "Ly của con còn một nửa."
+        },
+        {
+          "en": "I ate half my sandwich!",
+          "vi": "Con ăn được một nửa cái bánh mì rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-038",
+      "en": "all",
+      "vi": "tất cả, hết",
+      "pos": "other",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "All gone!",
+          "vi": "Hết sạch rồi!"
+        },
+        {
+          "en": "Did you eat it all?",
+          "vi": "Con ăn hết chưa?"
+        },
+        {
+          "en": "Put all the toys in the box.",
+          "vi": "Bỏ hết đồ chơi vô thùng nha."
+        },
+        {
+          "en": "We're all ready to go.",
+          "vi": "Mình sẵn sàng hết rồi, đi thôi."
+        },
+        {
+          "en": "I want all of them!",
+          "vi": "Con muốn hết luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-039",
+      "en": "none",
+      "vi": "không có cái nào",
+      "pos": "other",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, none left!",
+          "vi": "Ui, không còn cái nào hết!"
+        },
+        {
+          "en": "Why are there none left?",
+          "vi": "Sao không còn cái nào vậy?"
+        },
+        {
+          "en": "Make sure none of the toys are on the floor.",
+          "vi": "Nhớ đừng để món đồ chơi nào dưới sàn nha."
+        },
+        {
+          "en": "None of the cups are clean.",
+          "vi": "Không có cái ly nào sạch hết."
+        },
+        {
+          "en": "I had none, and my brother had five!",
+          "vi": "Con không có cái nào, còn anh hai có tới năm cái!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-040",
+      "en": "some",
+      "vi": "một ít, vài",
+      "pos": "other",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, some cookies!",
+          "vi": "Ồ, có bánh quy nè!"
+        },
+        {
+          "en": "Do you want some water?",
+          "vi": "Con uống chút nước không?"
+        },
+        {
+          "en": "Give some to your friend.",
+          "vi": "Chia cho bạn một ít nha."
+        },
+        {
+          "en": "There's some milk left.",
+          "vi": "Còn một ít sữa."
+        },
+        {
+          "en": "Can I have some, please?",
+          "vi": "Cho con một ít được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-041",
+      "en": "a lot",
+      "vi": "nhiều",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a lot of bubbles!",
+          "vi": "Wow, nhiều bong bóng quá!"
+        },
+        {
+          "en": "Did you eat a lot?",
+          "vi": "Con ăn nhiều không?"
+        },
+        {
+          "en": "Use a little glue, not a lot.",
+          "vi": "Dùng ít keo thôi, đừng nhiều quá nha."
+        },
+        {
+          "en": "You've grown a lot this year!",
+          "vi": "Năm nay con lớn nhiều ghê!"
+        },
+        {
+          "en": "I love you a lot!",
+          "vi": "Con thương mẹ nhiều lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-042",
+      "en": "a few",
+      "vi": "một vài",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Just a few more!",
+          "vi": "Thêm vài cái nữa thôi!"
+        },
+        {
+          "en": "Do you want a few more minutes?",
+          "vi": "Con muốn thêm vài phút nữa không?"
+        },
+        {
+          "en": "Grab a few crayons and come sit.",
+          "vi": "Lấy vài cây bút sáp rồi lại đây ngồi nha."
+        },
+        {
+          "en": "There are only a few left.",
+          "vi": "Chỉ còn vài cái thôi."
+        },
+        {
+          "en": "I saw a few birds at the park.",
+          "vi": "Con thấy vài con chim ở công viên."
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-043",
+      "en": "how many",
+      "vi": "bao nhiêu, mấy",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at all these! How many birds?",
+          "vi": "Nhìn nè, nhiều quá! Bao nhiêu con chim ta?"
+        },
+        {
+          "en": "How many fingers do you have?",
+          "vi": "Con có bao nhiêu ngón tay?"
+        },
+        {
+          "en": "Guess how many candies are inside.",
+          "vi": "Đoán coi bên trong có bao nhiêu viên kẹo."
+        },
+        {
+          "en": "Wow, I wonder how many there are!",
+          "vi": "Wow, không biết có bao nhiêu cái ta!"
+        },
+        {
+          "en": "How many can I have?",
+          "vi": "Con được lấy mấy cái?"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-044",
+      "en": "enough",
+      "vi": "đủ",
+      "pos": "other",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That's enough, thank you!",
+          "vi": "Đủ rồi, cảm ơn nha!"
+        },
+        {
+          "en": "Do we have enough chairs?",
+          "vi": "Mình có đủ ghế không ta?"
+        },
+        {
+          "en": "Make sure everyone gets enough.",
+          "vi": "Nhớ chia cho ai cũng đủ nha."
+        },
+        {
+          "en": "There's enough cake for everyone.",
+          "vi": "Có đủ bánh cho mọi người."
+        },
+        {
+          "en": "I'm full. I had enough!",
+          "vi": "Con no rồi. Con ăn đủ rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-045",
+      "en": "pair",
+      "vi": "đôi, cặp",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a pair of socks!",
+          "vi": "Nhìn nè, một đôi vớ!"
+        },
+        {
+          "en": "Where's the other one of the pair?",
+          "vi": "Chiếc còn lại của đôi đâu rồi ta?"
+        },
+        {
+          "en": "Find a pair of shoes that match.",
+          "vi": "Tìm một đôi giày giống nhau nha."
+        },
+        {
+          "en": "You need a new pair of shoes.",
+          "vi": "Con cần một đôi giày mới rồi."
+        },
+        {
+          "en": "I have a pair of red boots!",
+          "vi": "Con có một đôi ủng màu đỏ!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-046",
+      "en": "both",
+      "vi": "cả hai",
+      "pos": "other",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you ate both!",
+          "vi": "Wow, con ăn hết cả hai luôn!"
+        },
+        {
+          "en": "Do you want both?",
+          "vi": "Con muốn lấy cả hai hả?"
+        },
+        {
+          "en": "Use both hands, please.",
+          "vi": "Dùng cả hai tay nha con."
+        },
+        {
+          "en": "Both shoes are on the wrong feet.",
+          "vi": "Hai chiếc giày mang ngược hết rồi."
+        },
+        {
+          "en": "I like both!",
+          "vi": "Con thích cả hai!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-047",
+      "en": "each",
+      "vi": "mỗi",
+      "pos": "other",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "One for each of you!",
+          "vi": "Mỗi đứa một cái nè!"
+        },
+        {
+          "en": "Does each kid have a cup?",
+          "vi": "Bạn nào cũng có ly chưa?"
+        },
+        {
+          "en": "Give each friend a sticker.",
+          "vi": "Đưa mỗi bạn một cái sticker nha."
+        },
+        {
+          "en": "Each card has a picture.",
+          "vi": "Mỗi tấm thẻ có một hình."
+        },
+        {
+          "en": "We each got a balloon!",
+          "vi": "Tụi con mỗi đứa được một trái bong bóng!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-048",
+      "en": "count",
+      "vi": "đếm",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you can count!",
+          "vi": "Wow, con biết đếm rồi!"
+        },
+        {
+          "en": "Can you count the apples?",
+          "vi": "Con đếm mấy trái táo được không?"
+        },
+        {
+          "en": "Let's count the stairs together.",
+          "vi": "Mình cùng đếm bậc thang nha."
+        },
+        {
+          "en": "You're so good at counting.",
+          "vi": "Con đếm giỏi ghê."
+        },
+        {
+          "en": "I counted them all!",
+          "vi": "Con đếm hết rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-049",
+      "en": "number",
+      "vi": "con số",
+      "pos": "noun",
+      "emoji": "🔢",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the number seven!",
+          "vi": "Nhìn nè, số bảy!"
+        },
+        {
+          "en": "What number is this?",
+          "vi": "Đây là số mấy?"
+        },
+        {
+          "en": "Find the number on the door.",
+          "vi": "Tìm con số trên cánh cửa nha."
+        },
+        {
+          "en": "That's a really big number!",
+          "vi": "Đó là số lớn lắm đó!"
+        },
+        {
+          "en": "I can write all my numbers!",
+          "vi": "Con viết được hết các con số rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-050",
+      "en": "plus",
+      "vi": "cộng",
+      "pos": "other",
+      "emoji": "➕",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Two plus two is four!",
+          "vi": "Hai cộng hai bằng bốn!"
+        },
+        {
+          "en": "What's three plus one?",
+          "vi": "Ba cộng một bằng mấy?"
+        },
+        {
+          "en": "Use your fingers to do five plus two.",
+          "vi": "Dùng ngón tay tính năm cộng hai nha."
+        },
+        {
+          "en": "Plus means you add more.",
+          "vi": "Cộng nghĩa là thêm vào."
+        },
+        {
+          "en": "I know that four plus four is eight!",
+          "vi": "Con biết bốn cộng bốn bằng tám!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-051",
+      "en": "minus",
+      "vi": "trừ",
+      "pos": "other",
+      "emoji": "➖",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Five minus one is four!",
+          "vi": "Năm trừ một bằng bốn!"
+        },
+        {
+          "en": "What's ten minus two?",
+          "vi": "Mười trừ hai bằng mấy?"
+        },
+        {
+          "en": "Try six minus three with your blocks.",
+          "vi": "Thử tính sáu trừ ba bằng mấy khối gỗ nha."
+        },
+        {
+          "en": "Minus means you take some away.",
+          "vi": "Trừ nghĩa là bớt đi."
+        },
+        {
+          "en": "I did all the minus problems by myself!",
+          "vi": "Con tự làm hết mấy bài trừ luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-numbers-052",
+      "en": "equals",
+      "vi": "bằng",
+      "pos": "verb",
+      "emoji": "🟰",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Two plus three equals five!",
+          "vi": "Hai cộng ba bằng năm!"
+        },
+        {
+          "en": "What does six minus two equal?",
+          "vi": "Sáu trừ hai bằng mấy?"
+        },
+        {
+          "en": "Write the equals sign here.",
+          "vi": "Viết dấu bằng ở đây nha."
+        },
+        {
+          "en": "Equals means the same amount.",
+          "vi": "Dấu bằng nghĩa là bằng nhau."
+        },
+        {
+          "en": "I know ten plus ten equals twenty!",
+          "vi": "Con biết mười cộng mười bằng hai mươi!"
+        }
+      ]
+    }
+  ]
+}

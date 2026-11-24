@@ -1,13 +1,13 @@
 import { createFileRoute, Link } from '@tanstack/react-router'
 import { MessageCircleHeart, Share2, Volume2 } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
-import { PageHeader } from '../components/Layout'
-import { useTopics } from '../hooks/useContent'
-import { useActiveProfile, useDiary } from '../hooks/useProfile'
-import { play } from '../lib/audio'
-import { phraseAudio, type Phrase } from '../lib/content'
-import { db, type Progress } from '../lib/db'
-import { useSettings } from '../lib/settings'
+import { PageHeader } from '@/shared/ui/Layout'
+import { useTopics } from '@/features/content/useContent'
+import { useActiveProfile, useDiary } from '@/features/profile/useProfile'
+import { play } from '@/features/audio/audio'
+import { phraseAudio, type Phrase } from '@/features/content/content'
+import { db, type Progress } from '@/shared/db'
+import { useSettings } from '@/shared/settings'
 
 export const Route = createFileRoute('/diary')({ component: DiaryPage })
 

@@ -1,0 +1,1684 @@
+{
+ "deckId": "v-home",
+ "words": [
+  {
+   "id": "v-home-001",
+   "en": "house",
+   "vi": "căn nhà",
+   "pos": "noun",
+   "emoji": "🏠",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, a big yellow house!",
+     "vi": "Nhìn kìa, căn nhà màu vàng to ghê!"
+    },
+    {
+     "en": "Can you draw a house?",
+     "vi": "Con vẽ căn nhà được hông?"
+    },
+    {
+     "en": "Let's go to Grandma's house.",
+     "vi": "Mình qua nhà bà chơi nha."
+    },
+    {
+     "en": "Our house is cozy and warm.",
+     "vi": "Nhà mình ấm cúng ghê."
+    },
+    {
+     "en": "I built a house with blocks!",
+     "vi": "Con xếp hình được căn nhà nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-002",
+   "en": "home",
+   "vi": "nhà (tổ ấm)",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "We're home! Yay!",
+     "vi": "Về tới nhà rồi! Yay!"
+    },
+    {
+     "en": "Are you ready to go home?",
+     "vi": "Con sẵn sàng về nhà chưa?"
+    },
+    {
+     "en": "Let's head home now.",
+     "vi": "Mình về nhà thôi."
+    },
+    {
+     "en": "It's so nice to be home.",
+     "vi": "Về nhà thấy dễ chịu ghê."
+    },
+    {
+     "en": "I want to stay home today!",
+     "vi": "Hôm nay con muốn ở nhà!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-003",
+   "en": "room",
+   "vi": "căn phòng",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Wow, your room looks so tidy!",
+     "vi": "Wow, phòng con gọn gàng quá!"
+    },
+    {
+     "en": "Which room is your favorite?",
+     "vi": "Con thích phòng nào nhất?"
+    },
+    {
+     "en": "Let's clean up your room together.",
+     "vi": "Mình cùng dọn phòng con nha."
+    },
+    {
+     "en": "This room is nice and bright.",
+     "vi": "Phòng này sáng sủa dễ chịu ghê."
+    },
+    {
+     "en": "Can I play in my room?",
+     "vi": "Con vô phòng chơi được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-home-004",
+   "en": "living room",
+   "vi": "phòng khách",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Everybody in the living room!",
+     "vi": "Mọi người ra phòng khách nào!"
+    },
+    {
+     "en": "Is your truck in the living room?",
+     "vi": "Xe tải của con ở phòng khách hả?"
+    },
+    {
+     "en": "Fort time in the living room!",
+     "vi": "Dựng lều trong phòng khách nào!"
+    },
+    {
+     "en": "The living room is a big mess!",
+     "vi": "Phòng khách bừa bộn quá trời!"
+    },
+    {
+     "en": "I danced in the living room with Daddy!",
+     "vi": "Con nhảy với ba ở phòng khách!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-005",
+   "en": "bedroom",
+   "vi": "phòng ngủ",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Here's your bedroom!",
+     "vi": "Phòng ngủ của con nè!"
+    },
+    {
+     "en": "Where is your bedroom?",
+     "vi": "Phòng ngủ của con ở đâu?"
+    },
+    {
+     "en": "Go get your socks from the bedroom.",
+     "vi": "Vô phòng ngủ lấy vớ nha con."
+    },
+    {
+     "en": "Your bedroom is nice and quiet.",
+     "vi": "Phòng ngủ của con yên tĩnh ghê."
+    },
+    {
+     "en": "I want blue walls in my bedroom.",
+     "vi": "Con muốn phòng ngủ sơn màu xanh."
+    }
+   ]
+  },
+  {
+   "id": "v-home-006",
+   "en": "dining room",
+   "vi": "phòng ăn",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Dinner's in the dining room tonight!",
+     "vi": "Tối nay mình ăn ở phòng ăn nha!"
+    },
+    {
+     "en": "Can you set the dining room table?",
+     "vi": "Con dọn bàn ở phòng ăn được hông?"
+    },
+    {
+     "en": "Please carry the cups to the dining room.",
+     "vi": "Con mang mấy cái ly ra phòng ăn nha."
+    },
+    {
+     "en": "The dining room smells so yummy!",
+     "vi": "Phòng ăn thơm ngon ghê!"
+    },
+    {
+     "en": "We'll eat cake in the dining room after dinner.",
+     "vi": "Ăn tối xong mình sẽ ăn bánh ở phòng ăn."
+    }
+   ]
+  },
+  {
+   "id": "v-home-007",
+   "en": "front door",
+   "vi": "cửa trước",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Someone is at the front door!",
+     "vi": "Có ai ở cửa trước kìa!"
+    },
+    {
+     "en": "Did you close the front door?",
+     "vi": "Con đóng cửa trước chưa?"
+    },
+    {
+     "en": "Leave your shoes by the front door.",
+     "vi": "Để giày cạnh cửa trước nha."
+    },
+    {
+     "en": "The front door is wide open!",
+     "vi": "Cửa trước mở toang luôn!"
+    },
+    {
+     "en": "I painted our front door with Daddy!",
+     "vi": "Con sơn cửa trước với ba đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-008",
+   "en": "door",
+   "vi": "cái cửa",
+   "pos": "noun",
+   "emoji": "🚪",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Knock, knock! Who's at the door?",
+     "vi": "Cốc cốc! Ai ở ngoài cửa vậy?"
+    },
+    {
+     "en": "Can you open the door?",
+     "vi": "Con mở cửa được hông?"
+    },
+    {
+     "en": "Close the door gently, please.",
+     "vi": "Đóng cửa nhẹ nhẹ thôi nha."
+    },
+    {
+     "en": "Careful, the door is heavy.",
+     "vi": "Cẩn thận, cái cửa nặng đó."
+    },
+    {
+     "en": "I can open the door myself!",
+     "vi": "Con tự mở cửa được!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-009",
+   "en": "window",
+   "vi": "cái cửa sổ",
+   "pos": "noun",
+   "emoji": "🪟",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look out the window! A bird!",
+     "vi": "Nhìn ra cửa sổ kìa! Con chim!"
+    },
+    {
+     "en": "What can you see out the window?",
+     "vi": "Con thấy gì ngoài cửa sổ?"
+    },
+    {
+     "en": "Let's open the window a little.",
+     "vi": "Mình mở cửa sổ ra một chút nha."
+    },
+    {
+     "en": "The window is all foggy!",
+     "vi": "Cửa sổ bị mờ hết rồi!"
+    },
+    {
+     "en": "I drew a heart on the window!",
+     "vi": "Con vẽ trái tim lên cửa sổ nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-010",
+   "en": "stairs",
+   "vi": "cầu thang",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Up, up, up the stairs!",
+     "vi": "Lên, lên, lên cầu thang nào!"
+    },
+    {
+     "en": "Can you count the stairs?",
+     "vi": "Con đếm số bậc cầu thang được hông?"
+    },
+    {
+     "en": "Hold the rail on the stairs.",
+     "vi": "Lên cầu thang thì vịn tay vịn nha."
+    },
+    {
+     "en": "These stairs are steep. Go slow.",
+     "vi": "Cầu thang này dốc. Đi chậm thôi."
+    },
+    {
+     "en": "I climbed the stairs all by myself!",
+     "vi": "Con tự leo cầu thang một mình đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-011",
+   "en": "upstairs",
+   "vi": "trên lầu",
+   "pos": "adverb",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Race you upstairs!",
+     "vi": "Thi chạy lên lầu nè!"
+    },
+    {
+     "en": "Is your teddy upstairs?",
+     "vi": "Gấu bông của con ở trên lầu hả?"
+    },
+    {
+     "en": "Let's go upstairs for bath time.",
+     "vi": "Mình lên lầu tắm nha."
+    },
+    {
+     "en": "It's quiet upstairs.",
+     "vi": "Trên lầu yên tĩnh ghê."
+    },
+    {
+     "en": "I left my book upstairs!",
+     "vi": "Con để quên cuốn sách trên lầu rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-012",
+   "en": "downstairs",
+   "vi": "dưới nhà, tầng dưới",
+   "pos": "adverb",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Breakfast is ready downstairs!",
+     "vi": "Đồ ăn sáng dưới nhà xong rồi nè!"
+    },
+    {
+     "en": "Who's downstairs?",
+     "vi": "Ai ở dưới nhà vậy?"
+    },
+    {
+     "en": "Walk downstairs slowly, please.",
+     "vi": "Đi xuống lầu từ từ nha."
+    },
+    {
+     "en": "Daddy is downstairs in the kitchen.",
+     "vi": "Ba đang ở dưới bếp đó."
+    },
+    {
+     "en": "Can I play downstairs?",
+     "vi": "Con xuống dưới nhà chơi được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-home-013",
+   "en": "floor",
+   "vi": "sàn nhà",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Uh-oh, milk on the floor!",
+     "vi": "Ui, sữa đổ ra sàn rồi!"
+    },
+    {
+     "en": "Why are your toys on the floor?",
+     "vi": "Sao đồ chơi nằm dưới sàn vậy con?"
+    },
+    {
+     "en": "Pick up the blocks on the floor.",
+     "vi": "Lượm khối gỗ dưới sàn lên nha."
+    },
+    {
+     "en": "The floor is cold!",
+     "vi": "Sàn nhà lạnh quá!"
+    },
+    {
+     "en": "I'm sitting on the floor!",
+     "vi": "Con ngồi dưới sàn nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-014",
+   "en": "wall",
+   "vi": "bức tường",
+   "pos": "noun",
+   "emoji": "🧱",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look at your drawing on the wall!",
+     "vi": "Nhìn nè, tranh con dán trên tường!"
+    },
+    {
+     "en": "What color should we paint the wall?",
+     "vi": "Mình sơn tường màu gì ta?"
+    },
+    {
+     "en": "Please draw on paper, not the wall.",
+     "vi": "Vẽ lên giấy thôi nha, đừng vẽ lên tường."
+    },
+    {
+     "en": "This wall feels bumpy.",
+     "vi": "Bức tường này sờ lồi lõm ghê."
+    },
+    {
+     "en": "I see a shadow on the wall!",
+     "vi": "Con thấy cái bóng trên tường!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-015",
+   "en": "ceiling",
+   "vi": "trần nhà",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Whoa, a spider on the ceiling!",
+     "vi": "Ồ, có con nhện trên trần nhà!"
+    },
+    {
+     "en": "Can you touch the ceiling?",
+     "vi": "Con với tới trần nhà được hông?"
+    },
+    {
+     "en": "Look up at the ceiling. See the fan?",
+     "vi": "Nhìn lên trần nhà nè. Thấy cái quạt hông?"
+    },
+    {
+     "en": "The ceiling is really high in here.",
+     "vi": "Trần nhà chỗ này cao thiệt."
+    },
+    {
+     "en": "My balloon floated up to the ceiling!",
+     "vi": "Bong bóng của con bay lên trần nhà rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-016",
+   "en": "roof",
+   "vi": "mái nhà",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, a cat on the roof!",
+     "vi": "Nhìn kìa, con mèo trên mái nhà!"
+    },
+    {
+     "en": "What color is our roof?",
+     "vi": "Mái nhà mình màu gì ta?"
+    },
+    {
+     "en": "Draw a red roof on your house.",
+     "vi": "Vẽ mái nhà màu đỏ cho căn nhà nha."
+    },
+    {
+     "en": "The rain is loud on the roof.",
+     "vi": "Mưa rơi trên mái nhà nghe lộp độp."
+    },
+    {
+     "en": "I can hear rain on the roof!",
+     "vi": "Con nghe mưa rơi trên mái nhà!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-017",
+   "en": "couch",
+   "vi": "ghế sofa",
+   "pos": "noun",
+   "emoji": "🛋️",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Snuggle time on the couch!",
+     "vi": "Lên sofa ôm nhau nào!"
+    },
+    {
+     "en": "Are you hiding behind the couch?",
+     "vi": "Con trốn sau ghế sofa hả?"
+    },
+    {
+     "en": "Please sit, don't jump on the couch.",
+     "vi": "Ngồi thôi nha, đừng nhảy trên sofa."
+    },
+    {
+     "en": "This couch is so soft.",
+     "vi": "Ghế sofa này êm ghê."
+    },
+    {
+     "en": "I found a crayon under the couch!",
+     "vi": "Con tìm thấy cây bút sáp dưới sofa!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-018",
+   "en": "table",
+   "vi": "cái bàn",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Everybody to the table!",
+     "vi": "Mọi người lại bàn nào!"
+    },
+    {
+     "en": "Can you help me wipe the table?",
+     "vi": "Con phụ mình lau bàn nha?"
+    },
+    {
+     "en": "Put your cup on the table.",
+     "vi": "Để ly lên bàn nha."
+    },
+    {
+     "en": "The table is sticky.",
+     "vi": "Cái bàn bị dính dính."
+    },
+    {
+     "en": "I'm under the table! Find me!",
+     "vi": "Con ở dưới gầm bàn! Tìm con đi!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-019",
+   "en": "chair",
+   "vi": "cái ghế",
+   "pos": "noun",
+   "emoji": "🪑",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Here's your little chair!",
+     "vi": "Ghế nhỏ của con nè!"
+    },
+    {
+     "en": "Can you push in your chair?",
+     "vi": "Con đẩy ghế vô được hông?"
+    },
+    {
+     "en": "Sit on your chair, please.",
+     "vi": "Ngồi lên ghế nha con."
+    },
+    {
+     "en": "This chair is wobbly. Be careful.",
+     "vi": "Cái ghế này lung lay. Cẩn thận nha."
+    },
+    {
+     "en": "I want the red chair!",
+     "vi": "Con muốn ngồi ghế đỏ!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-020",
+   "en": "lamp",
+   "vi": "cây đèn",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Click! The lamp is on!",
+     "vi": "Tách! Đèn sáng rồi!"
+    },
+    {
+     "en": "Can you turn on the lamp?",
+     "vi": "Con bật đèn được hông?"
+    },
+    {
+     "en": "Let's turn off the lamp now.",
+     "vi": "Mình tắt đèn nha."
+    },
+    {
+     "en": "This lamp is warm. Don't touch.",
+     "vi": "Cây đèn này nóng đó. Đừng đụng nha."
+    },
+    {
+     "en": "My lamp looks like a moon!",
+     "vi": "Đèn của con giống mặt trăng nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-021",
+   "en": "light",
+   "vi": "đèn",
+   "pos": "noun",
+   "emoji": "💡",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Lights on!",
+     "vi": "Bật đèn lên!"
+    },
+    {
+     "en": "Who turned off the light?",
+     "vi": "Ai tắt đèn vậy?"
+    },
+    {
+     "en": "Turn off the light, please.",
+     "vi": "Tắt đèn giùm nha."
+    },
+    {
+     "en": "The light is too bright!",
+     "vi": "Đèn chói quá!"
+    },
+    {
+     "en": "Can I turn on the light?",
+     "vi": "Con bật đèn được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-home-022",
+   "en": "light switch",
+   "vi": "công tắc đèn",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "There's the light switch!",
+     "vi": "Công tắc đèn nè!"
+    },
+    {
+     "en": "Can you reach the light switch?",
+     "vi": "Con với tới công tắc đèn hông?"
+    },
+    {
+     "en": "Flip the light switch up.",
+     "vi": "Bật công tắc đèn lên nào."
+    },
+    {
+     "en": "The light switch is up high.",
+     "vi": "Công tắc đèn ở trên cao."
+    },
+    {
+     "en": "I pushed the light switch! Click!",
+     "vi": "Con bấm công tắc đèn rồi! Tách!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-023",
+   "en": "fan",
+   "vi": "cây quạt",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Whoosh! The fan is on!",
+     "vi": "Vù vù! Quạt chạy rồi!"
+    },
+    {
+     "en": "Do you want the fan on?",
+     "vi": "Con muốn mở quạt hông?"
+    },
+    {
+     "en": "Keep your fingers away from the fan.",
+     "vi": "Để ngón tay xa cây quạt ra nha."
+    },
+    {
+     "en": "The fan feels nice and cool.",
+     "vi": "Quạt mát rượi ghê."
+    },
+    {
+     "en": "I'm hot! Can I turn on the fan?",
+     "vi": "Con nóng quá! Con mở quạt được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-home-024",
+   "en": "air conditioner",
+   "vi": "máy lạnh",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Ahh, the air conditioner is on!",
+     "vi": "A, máy lạnh mở rồi!"
+    },
+    {
+     "en": "Is the air conditioner too cold?",
+     "vi": "Máy lạnh có lạnh quá hông con?"
+    },
+    {
+     "en": "Close the door so the air conditioner works.",
+     "vi": "Đóng cửa lại để máy lạnh mát nha."
+    },
+    {
+     "en": "The air conditioner makes the room so cool.",
+     "vi": "Máy lạnh làm phòng mát ghê."
+    },
+    {
+     "en": "We'll turn off the air conditioner when we leave.",
+     "vi": "Ra khỏi phòng mình sẽ tắt máy lạnh."
+    }
+   ]
+  },
+  {
+   "id": "v-home-025",
+   "en": "key",
+   "vi": "chìa khoá",
+   "pos": "noun",
+   "emoji": "🔑",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Jingle, jingle! Here are the keys!",
+     "vi": "Leng keng! Chìa khoá nè!"
+    },
+    {
+     "en": "Where did I put my keys?",
+     "vi": "Mình để chìa khoá ở đâu ta?"
+    },
+    {
+     "en": "Can you hand me the keys?",
+     "vi": "Con đưa chìa khoá cho mình nha?"
+    },
+    {
+     "en": "This key is small and shiny.",
+     "vi": "Chìa khoá này nhỏ mà sáng bóng."
+    },
+    {
+     "en": "I found the keys in the couch!",
+     "vi": "Con tìm thấy chìa khoá trong ghế sofa!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-026",
+   "en": "doormat",
+   "vi": "tấm thảm chùi chân",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Stomp, stomp on the doormat!",
+     "vi": "Dậm dậm lên thảm chùi chân nào!"
+    },
+    {
+     "en": "Did you use the doormat?",
+     "vi": "Con chùi chân lên thảm chưa?"
+    },
+    {
+     "en": "Wipe your muddy shoes on the doormat.",
+     "vi": "Chùi giày dính bùn lên thảm nha."
+    },
+    {
+     "en": "The doormat is scratchy.",
+     "vi": "Thảm chùi chân nhám nhám ghê."
+    },
+    {
+     "en": "I wiped my feet on the doormat!",
+     "vi": "Con chùi chân lên thảm rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-027",
+   "en": "doorbell",
+   "vi": "chuông cửa",
+   "pos": "noun",
+   "emoji": "🔔",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Ding-dong! The doorbell!",
+     "vi": "Kính coong! Chuông cửa kêu!"
+    },
+    {
+     "en": "Who rang the doorbell?",
+     "vi": "Ai bấm chuông cửa vậy?"
+    },
+    {
+     "en": "Wait for me when the doorbell rings.",
+     "vi": "Chuông cửa kêu thì đợi mình nha."
+    },
+    {
+     "en": "The doorbell is loud!",
+     "vi": "Chuông cửa kêu to ghê!"
+    },
+    {
+     "en": "Can I ring the doorbell?",
+     "vi": "Con bấm chuông cửa được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-home-028",
+   "en": "garden",
+   "vi": "khu vườn",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "So many flowers in the garden!",
+     "vi": "Nhìn nè, vườn nhiều hoa quá!"
+    },
+    {
+     "en": "Want to help in the garden?",
+     "vi": "Con muốn phụ làm vườn hông?"
+    },
+    {
+     "en": "Let's water the garden together.",
+     "vi": "Mình cùng tưới vườn nha."
+    },
+    {
+     "en": "The garden smells so nice.",
+     "vi": "Khu vườn thơm ghê."
+    },
+    {
+     "en": "I found a worm in the garden!",
+     "vi": "Con thấy con giun trong vườn!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-029",
+   "en": "yard",
+   "vi": "cái sân",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, a bird in the yard!",
+     "vi": "Nhìn kìa, con chim ngoài sân!"
+    },
+    {
+     "en": "Want to play in the yard?",
+     "vi": "Con muốn ra sân chơi hông?"
+    },
+    {
+     "en": "Let's run around the yard!",
+     "vi": "Mình chạy vòng vòng ngoài sân nha!"
+    },
+    {
+     "en": "The yard is wet from the rain.",
+     "vi": "Sân ướt vì mưa rồi."
+    },
+    {
+     "en": "I kicked my ball in the yard!",
+     "vi": "Con đá banh ngoài sân!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-030",
+   "en": "balcony",
+   "vi": "ban công",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, flowers on the balcony!",
+     "vi": "Ồ, có hoa ngoài ban công!"
+    },
+    {
+     "en": "What can you see from the balcony?",
+     "vi": "Từ ban công con thấy gì nè?"
+    },
+    {
+     "en": "Stay with me on the balcony, okay?",
+     "vi": "Ra ban công thì ở cạnh mình nha?"
+    },
+    {
+     "en": "It's breezy on the balcony.",
+     "vi": "Ngoài ban công gió mát ghê."
+    },
+    {
+     "en": "I watered the plants on the balcony!",
+     "vi": "Con tưới cây ngoài ban công rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-031",
+   "en": "closet",
+   "vi": "tủ quần áo",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Peekaboo! You're in the closet!",
+     "vi": "Ú òa! Con trốn trong tủ hả!",
+     "ipa": "/ˈpikəˌbu jʊɹ ɪn ðə ˈklɑzət/"
+    },
+    {
+     "en": "Is your coat in the closet?",
+     "vi": "Áo choàng của con ở trong tủ hả?"
+    },
+    {
+     "en": "Hang your dress in the closet.",
+     "vi": "Treo đầm vô tủ nha."
+    },
+    {
+     "en": "The closet is full of clothes!",
+     "vi": "Tủ đầy quần áo luôn!"
+    },
+    {
+     "en": "I hid in the closet! Did you find me?",
+     "vi": "Con trốn trong tủ đó! Tìm ra con chưa?"
+    }
+   ]
+  },
+  {
+   "id": "v-home-032",
+   "en": "shelf",
+   "vi": "cái kệ",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, your books are on the shelf!",
+     "vi": "Nhìn nè, sách con trên kệ!"
+    },
+    {
+     "en": "Which shelf is your car on?",
+     "vi": "Xe của con nằm kệ nào?"
+    },
+    {
+     "en": "Put the toys back on the shelf.",
+     "vi": "Cất đồ chơi lên kệ lại nha."
+    },
+    {
+     "en": "That shelf is too high for you.",
+     "vi": "Kệ đó cao quá với con."
+    },
+    {
+     "en": "I can reach the bottom shelf!",
+     "vi": "Con với tới kệ dưới cùng được!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-033",
+   "en": "drawer",
+   "vi": "ngăn kéo",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Open the drawer! What's inside?",
+     "vi": "Mở ngăn kéo ra! Trong có gì nè?"
+    },
+    {
+     "en": "Are your socks in this drawer?",
+     "vi": "Vớ của con ở ngăn kéo này hả?"
+    },
+    {
+     "en": "Close the drawer slowly. Watch your fingers!",
+     "vi": "Đóng ngăn kéo từ từ. Coi chừng kẹp tay!"
+    },
+    {
+     "en": "This drawer is stuck.",
+     "vi": "Ngăn kéo này bị kẹt rồi."
+    },
+    {
+     "en": "I put my shirts in the drawer!",
+     "vi": "Con cất áo vô ngăn kéo rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-034",
+   "en": "curtains",
+   "vi": "rèm cửa",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Peekaboo behind the curtains!",
+     "vi": "Ú òa sau rèm cửa nè!",
+     "ipa": "/ˈpikəˌbu bɪˈhaɪnd ðə ˈkɝtənz/"
+    },
+    {
+     "en": "Can you open the curtains?",
+     "vi": "Con kéo rèm cửa ra được hông?"
+    },
+    {
+     "en": "Let's close the curtains. It's bedtime.",
+     "vi": "Mình kéo rèm lại nha. Tới giờ ngủ rồi."
+    },
+    {
+     "en": "The curtains are blowing in the wind.",
+     "vi": "Rèm cửa bay bay trong gió."
+    },
+    {
+     "en": "I can see your feet under the curtains!",
+     "vi": "Con thấy chân dưới rèm cửa rồi nha!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-035",
+   "en": "rug",
+   "vi": "tấm thảm",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Sit on the rug for story time!",
+     "vi": "Ngồi lên thảm nghe kể chuyện nào!"
+    },
+    {
+     "en": "Is the rug soft?",
+     "vi": "Tấm thảm có êm hông?"
+    },
+    {
+     "en": "Wipe your feet on the rug.",
+     "vi": "Chùi chân lên thảm nha."
+    },
+    {
+     "en": "The rug is fuzzy and warm.",
+     "vi": "Tấm thảm mềm mịn mà ấm ghê."
+    },
+    {
+     "en": "I spilled juice on the rug. Sorry!",
+     "vi": "Con làm đổ nước trái cây lên thảm. Con xin lỗi!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-036",
+   "en": "mirror",
+   "vi": "cái gương",
+   "pos": "noun",
+   "emoji": "🪞",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look in the mirror! Who's that?",
+     "vi": "Nhìn vô gương nè! Ai đó ta?"
+    },
+    {
+     "en": "Can you make a funny mirror face?",
+     "vi": "Con làm mặt hề trước gương được hông?"
+    },
+    {
+     "en": "Wave at the mirror!",
+     "vi": "Vẫy tay với cái gương nào!"
+    },
+    {
+     "en": "The mirror is foggy after the shower.",
+     "vi": "Tắm xong gương bị mờ hết."
+    },
+    {
+     "en": "I see me in the mirror!",
+     "vi": "Con thấy con trong gương!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-037",
+   "en": "cushion",
+   "vi": "cái gối tựa",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, a cushion tower!",
+     "vi": "Nhìn nè, tháp gối tựa!"
+    },
+    {
+     "en": "Do you want a cushion?",
+     "vi": "Con muốn cái gối tựa hông?"
+    },
+    {
+     "en": "Put the cushions back on the couch.",
+     "vi": "Để gối tựa lại lên sofa nha."
+    },
+    {
+     "en": "This cushion is so squishy!",
+     "vi": "Cái gối tựa này mềm nhũn luôn!"
+    },
+    {
+     "en": "I made a bed with the cushions!",
+     "vi": "Con lấy gối tựa làm giường nè!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-038",
+   "en": "bookshelf",
+   "vi": "cái kệ sách",
+   "pos": "noun",
+   "emoji": "📚",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, a bookshelf full of stories!",
+     "vi": "Nhìn nè, kệ sách đầy truyện!"
+    },
+    {
+     "en": "What's on your bookshelf?",
+     "vi": "Trên kệ sách của con có gì nè?"
+    },
+    {
+     "en": "Put the book back on the bookshelf.",
+     "vi": "Cất sách lên kệ lại nha."
+    },
+    {
+     "en": "Your bookshelf looks so tidy!",
+     "vi": "Kệ sách của con gọn gàng ghê!"
+    },
+    {
+     "en": "I put all my books on the bookshelf!",
+     "vi": "Con cất hết sách lên kệ rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-039",
+   "en": "hallway",
+   "vi": "hành lang",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Look how long the hallway is!",
+     "vi": "Nhìn nè, hành lang dài ghê!"
+    },
+    {
+     "en": "Who left shoes in the hallway?",
+     "vi": "Ai để giày ngoài hành lang vậy?"
+    },
+    {
+     "en": "Please walk, don't run, in the hallway.",
+     "vi": "Trong hành lang thì đi bộ, đừng chạy nha."
+    },
+    {
+     "en": "The hallway is dark, so let's turn on a light.",
+     "vi": "Hành lang tối quá, mình bật đèn nha."
+    },
+    {
+     "en": "I raced my car down the hallway!",
+     "vi": "Con cho xe chạy dọc hành lang!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-040",
+   "en": "garage",
+   "vi": "nhà xe",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Look, the car is in the garage!",
+     "vi": "Nhìn nè, xe hơi đậu trong nhà xe!"
+    },
+    {
+     "en": "Is your bike in the garage?",
+     "vi": "Xe đạp của con để trong nhà xe hả?"
+    },
+    {
+     "en": "Please put your scooter back in the garage.",
+     "vi": "Cất xe trượt vô nhà xe lại nha."
+    },
+    {
+     "en": "The garage is dusty and full of boxes.",
+     "vi": "Nhà xe bụi và đầy thùng giấy."
+    },
+    {
+     "en": "I helped Daddy clean the garage yesterday.",
+     "vi": "Hôm qua con phụ ba dọn nhà xe."
+    }
+   ]
+  },
+  {
+   "id": "v-home-041",
+   "en": "playroom",
+   "vi": "phòng chơi",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Off to the playroom!",
+     "vi": "Vô phòng chơi thôi!"
+    },
+    {
+     "en": "Are your blocks in the playroom?",
+     "vi": "Khối gỗ của con ở phòng chơi hả?"
+    },
+    {
+     "en": "Let's tidy up the playroom.",
+     "vi": "Mình dọn phòng chơi nha."
+    },
+    {
+     "en": "The playroom is full of toys!",
+     "vi": "Phòng chơi đầy đồ chơi luôn!"
+    },
+    {
+     "en": "Can we play in the playroom?",
+     "vi": "Tụi con vô phòng chơi chơi được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-home-042",
+   "en": "rooftop",
+   "vi": "sân thượng",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Wow, we can see the city from the rooftop!",
+     "vi": "Wow, đứng trên sân thượng thấy cả thành phố!"
+    },
+    {
+     "en": "Do you want to fly a kite on the rooftop?",
+     "vi": "Con muốn thả diều trên sân thượng hông?"
+    },
+    {
+     "en": "Stay away from the edge of the rooftop.",
+     "vi": "Đừng lại gần mép sân thượng nha."
+    },
+    {
+     "en": "It's windy and cool up on the rooftop.",
+     "vi": "Trên sân thượng gió mát ghê."
+    },
+    {
+     "en": "We watched the fireworks from the rooftop!",
+     "vi": "Tụi con coi pháo bông trên sân thượng!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-043",
+   "en": "washing machine",
+   "vi": "máy giặt",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, the washing machine is spinning!",
+     "vi": "Nhìn nè, máy giặt đang quay!"
+    },
+    {
+     "en": "Can you fill the washing machine?",
+     "vi": "Con bỏ đồ vô máy giặt được hông?"
+    },
+    {
+     "en": "Push the washing machine button!",
+     "vi": "Bấm nút máy giặt đi con!"
+    },
+    {
+     "en": "The washing machine is so noisy!",
+     "vi": "Máy giặt kêu ồn quá!"
+    },
+    {
+     "en": "The washing machine is beeping. All done!",
+     "vi": "Máy giặt kêu bíp bíp. Xong rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-044",
+   "en": "broom",
+   "vi": "cây chổi",
+   "pos": "noun",
+   "emoji": "🧹",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Swish, swish! Here's the broom!",
+     "vi": "Xoẹt xoẹt! Cây chổi nè!"
+    },
+    {
+     "en": "Can you get the broom for me?",
+     "vi": "Con lấy cây chổi giùm mình nha?"
+    },
+    {
+     "en": "Let's sweep the crumbs with the broom.",
+     "vi": "Mình lấy chổi quét vụn bánh nha."
+    },
+    {
+     "en": "This little broom is just your size.",
+     "vi": "Cây chổi nhỏ này vừa với con luôn."
+    },
+    {
+     "en": "I swept the floor with the broom!",
+     "vi": "Con lấy chổi quét nhà rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-045",
+   "en": "vacuum",
+   "vi": "máy hút bụi",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Vroom! The vacuum is loud!",
+     "vi": "Rồ rồ! Máy hút bụi kêu to quá!"
+    },
+    {
+     "en": "Do you want to push the vacuum?",
+     "vi": "Con muốn đẩy máy hút bụi hông?"
+    },
+    {
+     "en": "Pick up your toys before I vacuum.",
+     "vi": "Lượm đồ chơi lên trước khi mình hút bụi nha."
+    },
+    {
+     "en": "The vacuum eats up all the dust!",
+     "vi": "Máy hút bụi hút sạch bụi luôn!"
+    },
+    {
+     "en": "I'm scared of the vacuum. It's noisy!",
+     "vi": "Con sợ máy hút bụi. Ồn quá!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-046",
+   "en": "mop",
+   "vi": "cây lau nhà",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Uh-oh, a spill! Get the mop!",
+     "vi": "Ui, đổ rồi! Lấy cây lau nhà đi!"
+    },
+    {
+     "en": "Can you help me mop the floor?",
+     "vi": "Con phụ mình lau nhà nha?"
+    },
+    {
+     "en": "Careful, I just mopped the floor.",
+     "vi": "Cẩn thận, sàn mới lau đó."
+    },
+    {
+     "en": "The mop is wet and heavy.",
+     "vi": "Cây lau nhà ướt và nặng."
+    },
+    {
+     "en": "I want to mop too!",
+     "vi": "Con cũng muốn lau nhà!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-047",
+   "en": "dust",
+   "vi": "bụi",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Achoo! So much dust under the bed!",
+     "vi": "Hắt xì! Dưới gầm giường nhiều bụi quá!"
+    },
+    {
+     "en": "Can you help me wipe the dust off the shelf?",
+     "vi": "Con phụ mình lau bụi trên kệ nha?"
+    },
+    {
+     "en": "Shake the dust out of the rug outside.",
+     "vi": "Ra ngoài giũ bụi tấm thảm nha."
+    },
+    {
+     "en": "This old box is covered in dust.",
+     "vi": "Cái hộp cũ này phủ đầy bụi."
+    },
+    {
+     "en": "I wiped away all the dust from my desk.",
+     "vi": "Con lau sạch hết bụi trên bàn rồi."
+    }
+   ]
+  },
+  {
+   "id": "v-home-048",
+   "en": "outlet",
+   "vi": "ổ cắm điện",
+   "pos": "noun",
+   "emoji": "🔌",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Uh-oh, that's an outlet. No touching!",
+     "vi": "Ui, đó là ổ cắm điện. Đừng đụng nha!"
+    },
+    {
+     "en": "Why do we cover the outlets?",
+     "vi": "Sao mình phải bịt ổ cắm điện lại ta?"
+    },
+    {
+     "en": "Ask a grown-up to plug things into the outlet.",
+     "vi": "Muốn cắm điện thì nhờ người lớn nha."
+    },
+    {
+     "en": "Outlets can be dangerous, so keep fingers away.",
+     "vi": "Ổ cắm điện nguy hiểm nên đừng đưa tay vô."
+    },
+    {
+     "en": "I found an outlet without a cover.",
+     "vi": "Con thấy một ổ cắm chưa có nắp đậy."
+    }
+   ]
+  },
+  {
+   "id": "v-home-049",
+   "en": "chores",
+   "vi": "việc nhà",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Chore time! Everybody helps!",
+     "vi": "Tới giờ làm việc nhà! Ai cũng phụ nha!"
+    },
+    {
+     "en": "Which chore do you want to do today?",
+     "vi": "Hôm nay con muốn làm việc nhà nào?"
+    },
+    {
+     "en": "Let's finish our chores, then go to the park.",
+     "vi": "Làm xong việc nhà rồi mình đi công viên nha."
+    },
+    {
+     "en": "Doing chores together makes the work go fast.",
+     "vi": "Cùng nhau làm việc nhà thì nhanh xong lắm."
+    },
+    {
+     "en": "I did all my chores, so can I play now?",
+     "vi": "Con làm xong việc nhà rồi, giờ con chơi được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-home-050",
+   "en": "railing",
+   "vi": "tay vịn",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Hands on the railing!",
+     "vi": "Tay nắm tay vịn nào!"
+    },
+    {
+     "en": "Are you holding the railing?",
+     "vi": "Con đang vịn tay vịn hông đó?"
+    },
+    {
+     "en": "Hold the railing on the way down.",
+     "vi": "Đi xuống thì vịn tay vịn nha."
+    },
+    {
+     "en": "The railing is cold and smooth.",
+     "vi": "Tay vịn lạnh và trơn láng."
+    },
+    {
+     "en": "I held the railing the whole way!",
+     "vi": "Con vịn tay vịn suốt đường luôn!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-051",
+   "en": "stool",
+   "vi": "cái ghế đẩu",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Here's your step stool!",
+     "vi": "Ghế bước của con nè!"
+    },
+    {
+     "en": "Do you need the stool to reach?",
+     "vi": "Con có cần ghế đẩu để với tới hông?"
+    },
+    {
+     "en": "Stand on the stool, please.",
+     "vi": "Đứng lên ghế đẩu nha con."
+    },
+    {
+     "en": "This stool is short and sturdy.",
+     "vi": "Ghế đẩu này thấp mà chắc chắn."
+    },
+    {
+     "en": "I can climb on my stool!",
+     "vi": "Con tự leo lên ghế đẩu được!"
+    }
+   ]
+  },
+  {
+   "id": "v-home-052",
+   "en": "doorknob",
+   "vi": "tay nắm cửa",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Turn, turn! There goes the doorknob!",
+     "vi": "Xoay, xoay! Tay nắm cửa xoay rồi!"
+    },
+    {
+     "en": "Can you reach the doorknob?",
+     "vi": "Con với tới tay nắm cửa hông?"
+    },
+    {
+     "en": "Turn the doorknob and push.",
+     "vi": "Xoay tay nắm cửa rồi đẩy nha."
+    },
+    {
+     "en": "This doorknob is hard to turn.",
+     "vi": "Tay nắm cửa này khó xoay ghê."
+    },
+    {
+     "en": "I can turn the doorknob now!",
+     "vi": "Giờ con xoay được tay nắm cửa rồi!"
+    }
+   ]
+  }
+ ]
+}

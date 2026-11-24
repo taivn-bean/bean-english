@@ -1,0 +1,1712 @@
+{
+  "deckId": "v-jobs",
+  "words": [
+    {
+      "id": "v-jobs-001",
+      "en": "job",
+      "vi": "công việc / nghề",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Good job!",
+          "vi": "Giỏi lắm!"
+        },
+        {
+          "en": "What job do you want someday?",
+          "vi": "Sau này con muốn làm nghề gì?"
+        },
+        {
+          "en": "Let's guess this person's job.",
+          "vi": "Mình đoán xem người này làm nghề gì nha."
+        },
+        {
+          "en": "That looks like a really fun job.",
+          "vi": "Nghề đó nhìn vui ghê."
+        },
+        {
+          "en": "I want a job with animals!",
+          "vi": "Con muốn làm nghề chăm sóc thú vật!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-002",
+      "en": "work",
+      "vi": "làm việc / đi làm",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Daddy's going to work!",
+          "vi": "Ba đi làm nè!"
+        },
+        {
+          "en": "Where does Mommy work?",
+          "vi": "Mẹ làm việc ở đâu?"
+        },
+        {
+          "en": "Let's work together, okay?",
+          "vi": "Mình làm chung nha."
+        },
+        {
+          "en": "Daddy works really hard.",
+          "vi": "Ba làm việc cực lắm."
+        },
+        {
+          "en": "Mommy worked late today.",
+          "vi": "Hôm nay mẹ đi làm về trễ."
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-003",
+      "en": "worker",
+      "vi": "công nhân / người làm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at the workers!",
+          "vi": "Nhìn mấy chú công nhân kìa!"
+        },
+        {
+          "en": "What are those workers building?",
+          "vi": "Mấy chú công nhân đang xây gì vậy?"
+        },
+        {
+          "en": "Say thank you to the workers.",
+          "vi": "Con cảm ơn mấy chú công nhân đi."
+        },
+        {
+          "en": "The workers are wearing orange vests.",
+          "vi": "Mấy chú công nhân mặc áo cam kìa."
+        },
+        {
+          "en": "The workers fixed our street!",
+          "vi": "Mấy chú công nhân sửa đường nhà mình rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-004",
+      "en": "tailor",
+      "vi": "thợ may",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the tailor is sewing!",
+          "vi": "Nhìn kìa, cô thợ may đang may đồ!"
+        },
+        {
+          "en": "Can the tailor fix my pants?",
+          "vi": "Cô thợ may sửa quần cho mình được không?"
+        },
+        {
+          "en": "Let's take this dress to the tailor.",
+          "vi": "Mình đem cái đầm này tới tiệm may nha."
+        },
+        {
+          "en": "The tailor works so fast!",
+          "vi": "Cô thợ may may nhanh ghê!"
+        },
+        {
+          "en": "The tailor measured my arms!",
+          "vi": "Cô thợ may đo tay con đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-005",
+      "en": "boss",
+      "vi": "sếp",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That's Daddy's boss.",
+          "vi": "Đó là sếp của ba."
+        },
+        {
+          "en": "Is your boss nice, Mommy?",
+          "vi": "Sếp của mẹ có hiền không?"
+        },
+        {
+          "en": "Say hello to Mommy's boss.",
+          "vi": "Con chào sếp của mẹ đi."
+        },
+        {
+          "en": "Daddy's boss is really friendly.",
+          "vi": "Sếp của ba vui tính lắm."
+        },
+        {
+          "en": "I'm the boss of this game!",
+          "vi": "Con là trùm trò chơi này nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-006",
+      "en": "uniform",
+      "vi": "đồng phục",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a police uniform!",
+          "vi": "Nhìn kìa, đồng phục cảnh sát!"
+        },
+        {
+          "en": "Where's your school uniform?",
+          "vi": "Đồng phục đi học của con đâu?"
+        },
+        {
+          "en": "Put on your uniform, please.",
+          "vi": "Con mặc đồng phục vô nha."
+        },
+        {
+          "en": "Your uniform looks so sharp!",
+          "vi": "Con mặc đồng phục bảnh ghê!"
+        },
+        {
+          "en": "Firefighters wear a special uniform.",
+          "vi": "Lính cứu hỏa mặc đồng phục đặc biệt."
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-007",
+      "en": "tool",
+      "vi": "dụng cụ / đồ nghề",
+      "pos": "noun",
+      "emoji": "🧰",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, Daddy's tools!",
+          "vi": "Ồ, đồ nghề của ba nè!"
+        },
+        {
+          "en": "Which tool do we need?",
+          "vi": "Mình cần dụng cụ nào?"
+        },
+        {
+          "en": "Please hand me that tool.",
+          "vi": "Đưa mình cái dụng cụ đó nha."
+        },
+        {
+          "en": "That tool is sharp, be careful.",
+          "vi": "Dụng cụ đó bén lắm, cẩn thận nha."
+        },
+        {
+          "en": "I want my own toolbox!",
+          "vi": "Con muốn có hộp đồ nghề riêng!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-008",
+      "en": "hammer",
+      "vi": "cái búa",
+      "pos": "noun",
+      "emoji": "🔨",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Bang, bang, a hammer!",
+          "vi": "Cốc cốc, cái búa nè!"
+        },
+        {
+          "en": "Can you find the hammer?",
+          "vi": "Con tìm cái búa được không?"
+        },
+        {
+          "en": "Hold the toy hammer like this.",
+          "vi": "Con cầm cây búa đồ chơi như vầy nè."
+        },
+        {
+          "en": "This hammer is really heavy.",
+          "vi": "Cái búa này nặng lắm."
+        },
+        {
+          "en": "I fixed it with my hammer!",
+          "vi": "Con lấy búa sửa xong rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-009",
+      "en": "wrench",
+      "vi": "cái cờ lê",
+      "pos": "noun",
+      "emoji": "🔧",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big wrench!",
+          "vi": "Nhìn nè, cái cờ lê to ghê!"
+        },
+        {
+          "en": "Where did I put the wrench?",
+          "vi": "Mình để cái cờ lê ở đâu ta?"
+        },
+        {
+          "en": "Can you pass me the wrench?",
+          "vi": "Con đưa mình cái cờ lê được không?"
+        },
+        {
+          "en": "A wrench is good for turning bolts.",
+          "vi": "Cờ lê dùng để vặn ốc đó."
+        },
+        {
+          "en": "I helped Daddy with the wrench!",
+          "vi": "Con phụ ba cầm cờ lê đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-010",
+      "en": "screwdriver",
+      "vi": "cái tua vít",
+      "pos": "noun",
+      "emoji": "🪛",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the screwdriver.",
+          "vi": "Cái tua vít nè."
+        },
+        {
+          "en": "Do we need a screwdriver for this?",
+          "vi": "Cái này có cần tua vít không?"
+        },
+        {
+          "en": "Turn the screwdriver slowly, like this.",
+          "vi": "Con vặn tua vít từ từ như vầy nè."
+        },
+        {
+          "en": "This screwdriver is tiny!",
+          "vi": "Cái tua vít này nhỏ xíu!"
+        },
+        {
+          "en": "I opened the battery door with a screwdriver.",
+          "vi": "Con mở nắp pin bằng tua vít đó."
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-011",
+      "en": "ladder",
+      "vi": "cái thang",
+      "pos": "noun",
+      "emoji": "🪜",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tall ladder!",
+          "vi": "Nhìn kìa, cái thang cao ghê!"
+        },
+        {
+          "en": "Who's climbing the ladder?",
+          "vi": "Ai đang leo thang vậy?"
+        },
+        {
+          "en": "Stay away from the ladder, please.",
+          "vi": "Con tránh xa cái thang ra nha."
+        },
+        {
+          "en": "That ladder is so high!",
+          "vi": "Cái thang đó cao quá!"
+        },
+        {
+          "en": "The firefighter climbed a ladder!",
+          "vi": "Chú lính cứu hỏa leo thang kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-012",
+      "en": "firefighter",
+      "vi": "lính cứu hỏa",
+      "pos": "noun",
+      "emoji": "🧑‍🚒",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a firefighter!",
+          "vi": "Nhìn kìa, chú lính cứu hỏa!"
+        },
+        {
+          "en": "What does a firefighter do?",
+          "vi": "Lính cứu hỏa làm gì vậy con?"
+        },
+        {
+          "en": "Let's wave to the firefighters!",
+          "vi": "Mình vẫy tay chào mấy chú cứu hỏa đi!"
+        },
+        {
+          "en": "Firefighters are so brave.",
+          "vi": "Lính cứu hỏa dũng cảm lắm."
+        },
+        {
+          "en": "I want to be a firefighter!",
+          "vi": "Con muốn làm lính cứu hỏa!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-013",
+      "en": "police officer",
+      "vi": "chú công an / cảnh sát",
+      "pos": "noun",
+      "emoji": "👮",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a police officer!",
+          "vi": "Nhìn kìa, chú cảnh sát!"
+        },
+        {
+          "en": "Where's the police officer going?",
+          "vi": "Chú cảnh sát đi đâu vậy?"
+        },
+        {
+          "en": "Lost? Find a police officer.",
+          "vi": "Bị lạc thì tìm chú cảnh sát nha."
+        },
+        {
+          "en": "Police officers keep us safe.",
+          "vi": "Cảnh sát giữ an toàn cho mọi người."
+        },
+        {
+          "en": "The police officer waved at me!",
+          "vi": "Chú cảnh sát vẫy tay chào con!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-014",
+      "en": "farmer",
+      "vi": "nông dân",
+      "pos": "noun",
+      "emoji": "🧑‍🌾",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a farmer!",
+          "vi": "Nhìn kìa, bác nông dân!"
+        },
+        {
+          "en": "What does the farmer grow?",
+          "vi": "Bác nông dân trồng gì vậy?"
+        },
+        {
+          "en": "Let's play farmer and feed the cows.",
+          "vi": "Mình chơi làm nông dân cho bò ăn nha."
+        },
+        {
+          "en": "Farmers work really hard.",
+          "vi": "Nông dân làm việc cực lắm."
+        },
+        {
+          "en": "The farmer let me pet a goat!",
+          "vi": "Bác nông dân cho con vuốt con dê!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-015",
+      "en": "chef",
+      "vi": "đầu bếp",
+      "pos": "noun",
+      "emoji": "🧑‍🍳",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hello, little chef!",
+          "vi": "Chào bé đầu bếp!"
+        },
+        {
+          "en": "Want to be the chef today?",
+          "vi": "Hôm nay con muốn làm đầu bếp không?"
+        },
+        {
+          "en": "Let's cook together, chef!",
+          "vi": "Mình nấu chung nha, đầu bếp!"
+        },
+        {
+          "en": "The chef made yummy noodles.",
+          "vi": "Chú đầu bếp nấu mì ngon ghê."
+        },
+        {
+          "en": "I'm the chef tonight!",
+          "vi": "Tối nay con làm đầu bếp!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-016",
+      "en": "pilot",
+      "vi": "phi công",
+      "pos": "noun",
+      "emoji": "🧑‍✈️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's the pilot!",
+          "vi": "Nhìn kìa, chú phi công kìa!"
+        },
+        {
+          "en": "Where does the pilot sit?",
+          "vi": "Phi công ngồi ở đâu?"
+        },
+        {
+          "en": "Let's wave to the pilot!",
+          "vi": "Mình vẫy chào chú phi công nha!"
+        },
+        {
+          "en": "Pilots fly really big planes.",
+          "vi": "Phi công lái máy bay to lắm."
+        },
+        {
+          "en": "I want to be a pilot!",
+          "vi": "Con muốn làm phi công!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-017",
+      "en": "builder",
+      "vi": "thợ xây",
+      "pos": "noun",
+      "emoji": "👷",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the builders are working!",
+          "vi": "Nhìn kìa, mấy chú thợ xây đang làm!"
+        },
+        {
+          "en": "What are the builders making?",
+          "vi": "Mấy chú thợ xây đang xây gì vậy?"
+        },
+        {
+          "en": "Let's watch the builders for a bit.",
+          "vi": "Mình đứng coi mấy chú thợ xây chút nha."
+        },
+        {
+          "en": "Builders wear hard hats.",
+          "vi": "Thợ xây đội nón bảo hộ."
+        },
+        {
+          "en": "I'm a builder, I built a tower!",
+          "vi": "Con là thợ xây, con xây được cái tháp!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-018",
+      "en": "mail carrier",
+      "vi": "người đưa thư",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the mail carrier is here!",
+          "vi": "Nhìn kìa, chú đưa thư tới rồi!"
+        },
+        {
+          "en": "Did the mail carrier bring anything?",
+          "vi": "Chú đưa thư có mang gì tới không?"
+        },
+        {
+          "en": "Let's say thanks to the mail carrier.",
+          "vi": "Mình cảm ơn chú đưa thư nha."
+        },
+        {
+          "en": "The mail carrier walks so much!",
+          "vi": "Chú đưa thư đi bộ nhiều ghê!"
+        },
+        {
+          "en": "The mail carrier brought my package!",
+          "vi": "Chú đưa thư mang gói hàng của con tới!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-019",
+      "en": "artist",
+      "vi": "họa sĩ",
+      "pos": "noun",
+      "emoji": "🧑‍🎨",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're an artist!",
+          "vi": "Wow, con là họa sĩ nè!"
+        },
+        {
+          "en": "Who's your favorite artist?",
+          "vi": "Con thích họa sĩ nào nhất?"
+        },
+        {
+          "en": "Let's paint like real artists.",
+          "vi": "Mình vẽ như họa sĩ thật nha."
+        },
+        {
+          "en": "That artist uses so many colors.",
+          "vi": "Họa sĩ đó dùng nhiều màu ghê."
+        },
+        {
+          "en": "I want to be an artist!",
+          "vi": "Con muốn làm họa sĩ!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-020",
+      "en": "singer",
+      "vi": "ca sĩ",
+      "pos": "noun",
+      "emoji": "🧑‍🎤",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a great singer!",
+          "vi": "Wow, con hát hay như ca sĩ luôn!"
+        },
+        {
+          "en": "Who's your favorite singer?",
+          "vi": "Con thích ca sĩ nào nhất?"
+        },
+        {
+          "en": "Let's pretend we're famous singers!",
+          "vi": "Mình giả làm ca sĩ nổi tiếng đi!"
+        },
+        {
+          "en": "That singer has a beautiful voice.",
+          "vi": "Ca sĩ đó giọng hay quá."
+        },
+        {
+          "en": "I'm a singer, listen to me!",
+          "vi": "Con là ca sĩ nè, nghe con hát nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-021",
+      "en": "vet",
+      "vi": "bác sĩ thú y",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the vet is here!",
+          "vi": "Nhìn kìa, bác sĩ thú y tới rồi!"
+        },
+        {
+          "en": "Is the puppy going to the vet?",
+          "vi": "Cún con đi bác sĩ thú y hả?"
+        },
+        {
+          "en": "Let's take the kitty to the vet.",
+          "vi": "Mình đưa mèo con đi bác sĩ thú y nha."
+        },
+        {
+          "en": "The vet is so gentle with animals.",
+          "vi": "Bác sĩ thú y nhẹ nhàng với thú vật lắm."
+        },
+        {
+          "en": "I want to be a vet someday!",
+          "vi": "Sau này con muốn làm bác sĩ thú y!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-022",
+      "en": "engineer",
+      "vi": "kỹ sư",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're a real engineer!",
+          "vi": "Wow, con là kỹ sư thiệt luôn!"
+        },
+        {
+          "en": "What do engineers do?",
+          "vi": "Kỹ sư làm gì vậy?"
+        },
+        {
+          "en": "Let's build a bridge like engineers.",
+          "vi": "Mình xây cây cầu giống kỹ sư nha."
+        },
+        {
+          "en": "Engineers solve really tricky problems.",
+          "vi": "Kỹ sư giải quyết mấy vấn đề khó lắm."
+        },
+        {
+          "en": "I'm going to be an engineer and build robots.",
+          "vi": "Con sẽ làm kỹ sư chế tạo người máy."
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-023",
+      "en": "baker",
+      "vi": "thợ làm bánh",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the baker made bread!",
+          "vi": "Nhìn kìa, chú thợ làm bánh làm bánh mì nè!"
+        },
+        {
+          "en": "What did the baker make today?",
+          "vi": "Hôm nay chú thợ bánh làm bánh gì?"
+        },
+        {
+          "en": "Let's be bakers and make cookies!",
+          "vi": "Mình làm thợ bánh, làm bánh quy nha!"
+        },
+        {
+          "en": "The baker gets up really early.",
+          "vi": "Thợ làm bánh dậy sớm lắm."
+        },
+        {
+          "en": "The baker gave me a cookie!",
+          "vi": "Chú thợ bánh cho con cái bánh quy!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-024",
+      "en": "shopkeeper",
+      "vi": "chủ tiệm / cô bán hàng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Say hi to the shopkeeper!",
+          "vi": "Con chào cô bán hàng đi!"
+        },
+        {
+          "en": "Can you ask the shopkeeper for help?",
+          "vi": "Con hỏi cô chủ tiệm giúp được không?"
+        },
+        {
+          "en": "Say thank you to the shopkeeper.",
+          "vi": "Con cảm ơn cô bán hàng nha."
+        },
+        {
+          "en": "The shopkeeper is always so friendly.",
+          "vi": "Cô chủ tiệm lúc nào cũng vui vẻ."
+        },
+        {
+          "en": "The shopkeeper gave me a sticker!",
+          "vi": "Cô bán hàng cho con một cái sticker!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-025",
+      "en": "mechanic",
+      "vi": "thợ sửa xe",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the mechanic is fixing our car!",
+          "vi": "Nhìn kìa, chú thợ đang sửa xe nhà mình!"
+        },
+        {
+          "en": "Can the mechanic fix the flat tire?",
+          "vi": "Chú thợ sửa được bánh xe xẹp không?"
+        },
+        {
+          "en": "Let's take the car to the mechanic.",
+          "vi": "Mình đem xe đi tiệm sửa nha."
+        },
+        {
+          "en": "The mechanic has really greasy hands.",
+          "vi": "Tay chú thợ sửa xe dính đầy dầu nhớt."
+        },
+        {
+          "en": "The mechanic showed me the engine!",
+          "vi": "Chú thợ sửa xe chỉ cho con xem máy xe!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-026",
+      "en": "plumber",
+      "vi": "thợ sửa ống nước",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh good, the plumber is here!",
+          "vi": "May quá, chú thợ ống nước tới rồi!"
+        },
+        {
+          "en": "Do we need a plumber for the sink?",
+          "vi": "Bồn rửa có cần gọi thợ ống nước không?"
+        },
+        {
+          "en": "Let's call a plumber to fix the leak.",
+          "vi": "Mình gọi thợ ống nước sửa chỗ rỉ nha."
+        },
+        {
+          "en": "The plumber fixed it really fast.",
+          "vi": "Chú thợ ống nước sửa nhanh ghê."
+        },
+        {
+          "en": "The plumber fixed our toilet!",
+          "vi": "Chú thợ sửa xong cái bồn cầu rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-027",
+      "en": "electrician",
+      "vi": "thợ điện",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the electrician is here.",
+          "vi": "Nhìn nè, chú thợ điện tới rồi."
+        },
+        {
+          "en": "Why do we need an electrician?",
+          "vi": "Sao mình cần gọi thợ điện vậy?"
+        },
+        {
+          "en": "Let the electrician do his work, okay?",
+          "vi": "Để chú thợ điện làm việc nha con."
+        },
+        {
+          "en": "Electricians have to be very careful.",
+          "vi": "Thợ điện phải cẩn thận lắm."
+        },
+        {
+          "en": "The electrician fixed the lights!",
+          "vi": "Chú thợ điện sửa đèn xong rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-028",
+      "en": "librarian",
+      "vi": "cô thủ thư",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's the librarian!",
+          "vi": "Nhìn kìa, cô thủ thư kìa!"
+        },
+        {
+          "en": "Can the librarian help us find a book?",
+          "vi": "Cô thủ thư giúp mình tìm sách được không?"
+        },
+        {
+          "en": "Let's ask the librarian for help.",
+          "vi": "Mình nhờ cô thủ thư giúp nha."
+        },
+        {
+          "en": "The librarian knows so many good books.",
+          "vi": "Cô thủ thư biết nhiều sách hay lắm."
+        },
+        {
+          "en": "The librarian found me a dinosaur book!",
+          "vi": "Cô thủ thư tìm cho con cuốn sách khủng long!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-029",
+      "en": "lifeguard",
+      "vi": "nhân viên cứu hộ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's the lifeguard!",
+          "vi": "Nhìn kìa, chú cứu hộ kìa!"
+        },
+        {
+          "en": "Where's the lifeguard sitting?",
+          "vi": "Chú cứu hộ ngồi ở đâu vậy?"
+        },
+        {
+          "en": "Swim where the lifeguard can see you.",
+          "vi": "Con bơi chỗ chú cứu hộ thấy được nha."
+        },
+        {
+          "en": "Lifeguards are really strong swimmers.",
+          "vi": "Nhân viên cứu hộ bơi giỏi lắm."
+        },
+        {
+          "en": "The lifeguard blew her whistle!",
+          "vi": "Cô cứu hộ thổi còi kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-030",
+      "en": "zookeeper",
+      "vi": "người chăm thú ở sở thú",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the zookeeper is feeding them!",
+          "vi": "Nhìn kìa, cô chăm thú đang cho ăn!",
+          "ipa": "/lʊk ðə zuˈkipɚ ɪz ˈfidɪŋ ðɛm/"
+        },
+        {
+          "en": "What does the zookeeper feed the lions?",
+          "vi": "Cô chăm thú cho sư tử ăn gì vậy?",
+          "ipa": "/wʌt dʌz ðə zuˈkipɚ fid ðə ˈlaɪənz/"
+        },
+        {
+          "en": "Let's watch the zookeeper feed the seals.",
+          "vi": "Mình coi cô chăm thú cho hải cẩu ăn nha.",
+          "ipa": "/lɛts wɑtʃ ðə zuˈkipɚ fid ðə silz/"
+        },
+        {
+          "en": "The zookeeper loves the animals so much.",
+          "vi": "Cô chăm thú thương mấy con vật lắm.",
+          "ipa": "/ðə zuˈkipɚ lʌvz ðə ˈænəməlz soʊ mʌtʃ/"
+        },
+        {
+          "en": "I want to be a zookeeper!",
+          "vi": "Con muốn làm người chăm thú ở sở thú!",
+          "ipa": "/aɪ wɑnt tu bi ə zuˈkipɚ/"
+        }
+      ],
+      "ipa": "/zuˈkipɚ/"
+    },
+    {
+      "id": "v-jobs-031",
+      "en": "waiter",
+      "vi": "anh phục vụ / bồi bàn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here comes the waiter!",
+          "vi": "Anh phục vụ tới kìa!"
+        },
+        {
+          "en": "Can you tell the waiter what you want?",
+          "vi": "Con nói anh phục vụ con muốn ăn gì nha?"
+        },
+        {
+          "en": "Say thank you to the waiter.",
+          "vi": "Con cảm ơn anh phục vụ đi."
+        },
+        {
+          "en": "Our waiter is really nice.",
+          "vi": "Anh phục vụ bàn mình dễ thương ghê."
+        },
+        {
+          "en": "The waiter brought me a straw!",
+          "vi": "Anh phục vụ mang ống hút cho con!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-032",
+      "en": "hairdresser",
+      "vi": "thợ cắt tóc",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the hairdresser is ready!",
+          "vi": "Nhìn nè, cô thợ cắt tóc sẵn sàng rồi!"
+        },
+        {
+          "en": "Are you going to the hairdresser with Mommy?",
+          "vi": "Con đi tiệm làm tóc với mẹ không?"
+        },
+        {
+          "en": "Sit still for the hairdresser, okay?",
+          "vi": "Ngồi yên cho cô cắt tóc nha con."
+        },
+        {
+          "en": "The hairdresser made your hair look great.",
+          "vi": "Cô thợ cắt tóc cho con đẹp ghê."
+        },
+        {
+          "en": "The hairdresser gave me a lollipop!",
+          "vi": "Cô thợ cắt tóc cho con cây kẹo mút!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-033",
+      "en": "barber",
+      "vi": "thợ hớt tóc",
+      "pos": "noun",
+      "emoji": "💈",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Time to go to the barber!",
+          "vi": "Tới giờ đi hớt tóc rồi!"
+        },
+        {
+          "en": "Do you need a haircut at the barber?",
+          "vi": "Con có cần đi hớt tóc không?"
+        },
+        {
+          "en": "Hold still for the barber, okay?",
+          "vi": "Ngồi yên cho chú hớt tóc nha."
+        },
+        {
+          "en": "The barber's chair goes up and down!",
+          "vi": "Ghế tiệm hớt tóc nâng lên hạ xuống được!"
+        },
+        {
+          "en": "The barber cut my hair really short.",
+          "vi": "Chú hớt tóc cắt tóc con ngắn lắm."
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-034",
+      "en": "garbage collector",
+      "vi": "người thu gom rác",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the garbage collectors!",
+          "vi": "Nhìn kìa, mấy chú gom rác!"
+        },
+        {
+          "en": "When do the garbage collectors come?",
+          "vi": "Khi nào mấy chú gom rác tới?"
+        },
+        {
+          "en": "Let's wave to the garbage collectors!",
+          "vi": "Mình vẫy chào mấy chú gom rác nha!"
+        },
+        {
+          "en": "Garbage collectors keep our street clean.",
+          "vi": "Mấy chú gom rác giữ đường phố sạch sẽ."
+        },
+        {
+          "en": "The garbage collector waved at me!",
+          "vi": "Chú gom rác vẫy tay chào con!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-035",
+      "en": "crossing guard",
+      "vi": "người hướng dẫn qua đường",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's the crossing guard.",
+          "vi": "Nhìn kìa, chú hướng dẫn qua đường kìa."
+        },
+        {
+          "en": "Did you say hi to the crossing guard?",
+          "vi": "Con chào chú hướng dẫn qua đường chưa?"
+        },
+        {
+          "en": "Wait for the crossing guard, please.",
+          "vi": "Con chờ chú hướng dẫn rồi mới qua đường nha."
+        },
+        {
+          "en": "The crossing guard keeps kids safe.",
+          "vi": "Chú hướng dẫn qua đường giữ an toàn cho tụi nhỏ."
+        },
+        {
+          "en": "The crossing guard gave me a high five!",
+          "vi": "Chú hướng dẫn qua đường đập tay với con!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-036",
+      "en": "gardener",
+      "vi": "người làm vườn",
+      "pos": "noun",
+      "emoji": "🧑‍🌾",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the gardener is planting flowers!",
+          "vi": "Nhìn kìa, chú làm vườn đang trồng hoa!"
+        },
+        {
+          "en": "Want to be my little gardener?",
+          "vi": "Con muốn làm người làm vườn nhỏ của mình không?"
+        },
+        {
+          "en": "Let's help the gardener water the plants.",
+          "vi": "Mình phụ tưới cây nha."
+        },
+        {
+          "en": "The gardener's flowers are so pretty.",
+          "vi": "Hoa của chú làm vườn đẹp quá."
+        },
+        {
+          "en": "I'm a gardener, I planted a seed!",
+          "vi": "Con là người làm vườn, con trồng hạt rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-037",
+      "en": "fisherman",
+      "vi": "ngư dân / người câu cá",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a fisherman on the boat!",
+          "vi": "Nhìn kìa, chú ngư dân trên thuyền!"
+        },
+        {
+          "en": "Did the fisherman catch any fish?",
+          "vi": "Chú ngư dân bắt được cá chưa?"
+        },
+        {
+          "en": "Let's be quiet so the fisherman can fish.",
+          "vi": "Mình nói nhỏ cho chú câu cá nha."
+        },
+        {
+          "en": "Fishermen get up super early.",
+          "vi": "Ngư dân dậy sớm lắm."
+        },
+        {
+          "en": "The fisherman caught a huge fish!",
+          "vi": "Chú ngư dân bắt được con cá bự chà bá!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-038",
+      "en": "photographer",
+      "vi": "thợ chụp hình",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Smile for the photographer!",
+          "vi": "Cười lên cho chú chụp hình nè!"
+        },
+        {
+          "en": "Where's the photographer standing?",
+          "vi": "Chú chụp hình đứng ở đâu?"
+        },
+        {
+          "en": "Look at the photographer and say cheese!",
+          "vi": "Nhìn chú chụp hình rồi nói \"cheese\" nha!"
+        },
+        {
+          "en": "The photographer took really nice pictures.",
+          "vi": "Chú chụp hình chụp đẹp ghê."
+        },
+        {
+          "en": "I want to be a photographer someday.",
+          "vi": "Sau này con muốn làm thợ chụp hình."
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-039",
+      "en": "writer",
+      "vi": "nhà văn",
+      "pos": "noun",
+      "emoji": "✍️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're a real writer!",
+          "vi": "Wow, con là nhà văn thiệt luôn!"
+        },
+        {
+          "en": "Who's the writer of this book?",
+          "vi": "Ai là tác giả cuốn sách này?"
+        },
+        {
+          "en": "Let's be writers and make a story.",
+          "vi": "Mình làm nhà văn, viết truyện nha."
+        },
+        {
+          "en": "This writer makes such funny books.",
+          "vi": "Tác giả này viết sách mắc cười ghê."
+        },
+        {
+          "en": "I'm going to be a writer and make comics.",
+          "vi": "Con sẽ làm nhà văn viết truyện tranh."
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-040",
+      "en": "dancer",
+      "vi": "vũ công",
+      "pos": "noun",
+      "emoji": "💃",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a great dancer!",
+          "vi": "Wow, con nhảy giỏi như vũ công!"
+        },
+        {
+          "en": "Who's the best dancer here?",
+          "vi": "Ai là người nhảy giỏi nhất ở đây?"
+        },
+        {
+          "en": "Let's dance like ballet dancers!",
+          "vi": "Mình múa như vũ công ba lê nha!"
+        },
+        {
+          "en": "Those dancers are so fast!",
+          "vi": "Mấy vũ công đó nhảy nhanh quá!"
+        },
+        {
+          "en": "I want to be a dancer!",
+          "vi": "Con muốn làm vũ công!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-041",
+      "en": "actor",
+      "vi": "diễn viên",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, that actor is so funny!",
+          "vi": "Nhìn kìa, diễn viên đó mắc cười ghê!"
+        },
+        {
+          "en": "Who's your favorite actor?",
+          "vi": "Con thích diễn viên nào nhất?"
+        },
+        {
+          "en": "Let's pretend we're actors in a movie.",
+          "vi": "Mình giả làm diễn viên đóng phim nha."
+        },
+        {
+          "en": "That actor was really good in the play.",
+          "vi": "Diễn viên đó diễn kịch hay ghê."
+        },
+        {
+          "en": "I was an actor in our school play!",
+          "vi": "Con được đóng kịch ở trường đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-042",
+      "en": "reporter",
+      "vi": "phóng viên",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a reporter on TV!",
+          "vi": "Nhìn kìa, phóng viên trên ti vi!"
+        },
+        {
+          "en": "What's the reporter talking about?",
+          "vi": "Phóng viên đang nói về chuyện gì vậy?"
+        },
+        {
+          "en": "Let's play reporter and interview Grandma.",
+          "vi": "Mình chơi làm phóng viên phỏng vấn bà nha."
+        },
+        {
+          "en": "Reporters have to ask lots of good questions.",
+          "vi": "Phóng viên phải đặt nhiều câu hỏi hay."
+        },
+        {
+          "en": "I'd like to be a reporter and travel the world.",
+          "vi": "Con muốn làm phóng viên đi khắp thế giới."
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-043",
+      "en": "programmer",
+      "vi": "lập trình viên",
+      "pos": "noun",
+      "emoji": "🧑‍💻",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, you're a little programmer!",
+          "vi": "Nhìn nè, con là lập trình viên nhí!"
+        },
+        {
+          "en": "Do you know what a programmer does?",
+          "vi": "Con biết lập trình viên làm gì không?"
+        },
+        {
+          "en": "Let's try coding like real programmers.",
+          "vi": "Mình thử viết code như lập trình viên thật nha."
+        },
+        {
+          "en": "Programmers make the apps and games you use.",
+          "vi": "Lập trình viên làm ra mấy ứng dụng và trò chơi con xài."
+        },
+        {
+          "en": "I want to be a programmer and make games.",
+          "vi": "Con muốn làm lập trình viên làm game."
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-044",
+      "en": "helper",
+      "vi": "người giúp / phụ tá",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "You're my best helper!",
+          "vi": "Con là phụ tá giỏi nhất của mình!"
+        },
+        {
+          "en": "Who wants to be my helper?",
+          "vi": "Ai muốn phụ mình nào?"
+        },
+        {
+          "en": "Come be my helper, please.",
+          "vi": "Lại đây phụ mình nha."
+        },
+        {
+          "en": "What a great little helper!",
+          "vi": "Bé phụ giỏi quá trời!"
+        },
+        {
+          "en": "I'm the class helper today!",
+          "vi": "Hôm nay con làm trực nhật lớp!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-045",
+      "en": "security guard",
+      "vi": "chú bảo vệ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's the security guard.",
+          "vi": "Nhìn kìa, chú bảo vệ kìa."
+        },
+        {
+          "en": "Can we ask the security guard for help?",
+          "vi": "Mình nhờ chú bảo vệ giúp được không?"
+        },
+        {
+          "en": "Say good morning to the security guard.",
+          "vi": "Con chào chú bảo vệ đi."
+        },
+        {
+          "en": "The security guard watches the door all day.",
+          "vi": "Chú bảo vệ canh cửa cả ngày."
+        },
+        {
+          "en": "The security guard helped us find the exit!",
+          "vi": "Chú bảo vệ chỉ tụi mình lối ra!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-046",
+      "en": "delivery driver",
+      "vi": "người giao hàng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "The delivery driver is here!",
+          "vi": "Anh giao hàng tới rồi!"
+        },
+        {
+          "en": "Did the delivery driver ring the bell?",
+          "vi": "Anh giao hàng bấm chuông hả?"
+        },
+        {
+          "en": "Say thanks to the delivery driver.",
+          "vi": "Con cảm ơn anh giao hàng đi."
+        },
+        {
+          "en": "The delivery driver is so fast!",
+          "vi": "Anh giao hàng giao nhanh ghê!"
+        },
+        {
+          "en": "The delivery driver brought our pizza!",
+          "vi": "Anh giao hàng mang pizza tới rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-047",
+      "en": "badge",
+      "vi": "huy hiệu / phù hiệu",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a shiny badge!",
+          "vi": "Nhìn nè, cái huy hiệu sáng bóng!"
+        },
+        {
+          "en": "What does the badge say?",
+          "vi": "Trên huy hiệu ghi gì vậy?"
+        },
+        {
+          "en": "Pin the badge on your shirt.",
+          "vi": "Con gắn huy hiệu lên áo nha."
+        },
+        {
+          "en": "The police officer's badge is gold.",
+          "vi": "Phù hiệu của chú cảnh sát màu vàng."
+        },
+        {
+          "en": "I got a junior ranger badge!",
+          "vi": "Con được tặng huy hiệu kiểm lâm nhí!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-048",
+      "en": "meeting",
+      "vi": "cuộc họp",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Shh, Mommy's in a meeting.",
+          "vi": "Suỵt, mẹ đang họp."
+        },
+        {
+          "en": "Is your meeting over, Daddy?",
+          "vi": "Ba họp xong chưa?"
+        },
+        {
+          "en": "Please play quietly during my meeting.",
+          "vi": "Lúc mình họp con chơi nhỏ tiếng nha."
+        },
+        {
+          "en": "That meeting was really long.",
+          "vi": "Cuộc họp đó dài ghê."
+        },
+        {
+          "en": "I waited until your meeting was done.",
+          "vi": "Con chờ ba họp xong đó."
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-049",
+      "en": "grow up",
+      "vi": "lớn lên",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're growing up so fast!",
+          "vi": "Wow, con lớn nhanh quá!"
+        },
+        {
+          "en": "What do you want to be when you grow up?",
+          "vi": "Lớn lên con muốn làm gì?"
+        },
+        {
+          "en": "Eat your veggies and grow up strong.",
+          "vi": "Ăn rau đi để lớn lên khỏe mạnh nha."
+        },
+        {
+          "en": "Growing up is a big adventure.",
+          "vi": "Lớn lên là một chuyến phiêu lưu lớn đó."
+        },
+        {
+          "en": "When I grow up, I'll be a pilot!",
+          "vi": "Lớn lên con sẽ làm phi công!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-050",
+      "en": "dream job",
+      "vi": "nghề mơ ước",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Being a vet is my dream job!",
+          "vi": "Bác sĩ thú y là nghề mơ ước của con!"
+        },
+        {
+          "en": "What's your dream job?",
+          "vi": "Nghề mơ ước của con là gì?"
+        },
+        {
+          "en": "Draw a picture of your dream job.",
+          "vi": "Con vẽ hình nghề mơ ước của con đi."
+        },
+        {
+          "en": "Your dream job sounds really exciting.",
+          "vi": "Nghề mơ ước của con nghe hấp dẫn ghê."
+        },
+        {
+          "en": "My dream job changed again, I want to be a chef now.",
+          "vi": "Nghề mơ ước của con đổi nữa rồi, giờ con muốn làm đầu bếp."
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-051",
+      "en": "janitor",
+      "vi": "cô chú lao công",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the janitor is mopping the floor.",
+          "vi": "Nhìn kìa, cô lao công đang lau sàn."
+        },
+        {
+          "en": "Do you know the janitor at your school?",
+          "vi": "Con có biết cô lao công ở trường không?"
+        },
+        {
+          "en": "Let's say thank you to the janitor.",
+          "vi": "Mình cảm ơn cô lao công nha."
+        },
+        {
+          "en": "The janitor keeps our school so clean.",
+          "vi": "Cô lao công giữ trường mình sạch sẽ lắm."
+        },
+        {
+          "en": "The janitor helped me find my jacket!",
+          "vi": "Chú lao công giúp con tìm cái áo khoác!"
+        }
+      ]
+    },
+    {
+      "id": "v-jobs-052",
+      "en": "carpenter",
+      "vi": "thợ mộc",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the carpenter made a table!",
+          "vi": "Nhìn nè, chú thợ mộc đóng cái bàn!"
+        },
+        {
+          "en": "What is the carpenter building?",
+          "vi": "Chú thợ mộc đang đóng cái gì vậy?"
+        },
+        {
+          "en": "Let's be carpenters and build a birdhouse.",
+          "vi": "Mình làm thợ mộc đóng nhà chim nha."
+        },
+        {
+          "en": "Carpenters work with wood all day.",
+          "vi": "Thợ mộc làm với gỗ cả ngày."
+        },
+        {
+          "en": "The carpenter fixed our door!",
+          "vi": "Chú thợ mộc sửa cửa nhà mình rồi!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1714 @@
+{
+  "deckId": "v-sports",
+  "words": [
+    {
+      "id": "v-sports-001",
+      "en": "soccer",
+      "vi": "bóng đá",
+      "pos": "noun",
+      "emoji": "⚽",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, soccer time!",
+          "vi": "Yeah, tới giờ đá banh rồi!"
+        },
+        {
+          "en": "Do you want to play soccer?",
+          "vi": "Con muốn đá banh không?"
+        },
+        {
+          "en": "Let's play soccer in the yard.",
+          "vi": "Mình ra sân đá banh nha."
+        },
+        {
+          "en": "Soccer is so much fun!",
+          "vi": "Đá banh vui quá!"
+        },
+        {
+          "en": "I kicked the soccer ball far!",
+          "vi": "Con đá trái banh xa lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-002",
+      "en": "basketball",
+      "vi": "bóng rổ",
+      "pos": "noun",
+      "emoji": "🏀",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Nice shot! That's basketball!",
+          "vi": "Ném hay quá! Bóng rổ là vậy đó!"
+        },
+        {
+          "en": "Do you want to shoot some basketball?",
+          "vi": "Con muốn ném rổ chút không?"
+        },
+        {
+          "en": "Bounce the basketball, then throw it up.",
+          "vi": "Đập banh xuống rồi ném lên rổ nha."
+        },
+        {
+          "en": "Basketball players are really tall.",
+          "vi": "Cầu thủ bóng rổ cao ghê."
+        },
+        {
+          "en": "I made three baskets in basketball today!",
+          "vi": "Hôm nay chơi bóng rổ con ném vô ba trái!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-003",
+      "en": "baseball",
+      "vi": "bóng chày",
+      "pos": "noun",
+      "emoji": "⚾",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a baseball game on TV!",
+          "vi": "Nhìn kìa, trận bóng chày trên ti vi!"
+        },
+        {
+          "en": "Have you ever played baseball?",
+          "vi": "Con chơi bóng chày bao giờ chưa?"
+        },
+        {
+          "en": "Hold the baseball bat with both hands.",
+          "vi": "Cầm gậy bóng chày bằng hai tay nha."
+        },
+        {
+          "en": "Baseball has a lot of running.",
+          "vi": "Bóng chày phải chạy nhiều lắm."
+        },
+        {
+          "en": "I hit the baseball really far!",
+          "vi": "Con đánh trái bóng chày xa lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-004",
+      "en": "tennis",
+      "vi": "quần vợt",
+      "pos": "noun",
+      "emoji": "🎾",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at that tennis ball fly!",
+          "vi": "Oa, nhìn trái banh tennis bay kìa!"
+        },
+        {
+          "en": "Do you want to try tennis?",
+          "vi": "Con muốn thử chơi tennis không?"
+        },
+        {
+          "en": "Hit the tennis ball over the net.",
+          "vi": "Đánh trái banh qua lưới nha."
+        },
+        {
+          "en": "Tennis is hard at first.",
+          "vi": "Tennis lúc đầu hơi khó."
+        },
+        {
+          "en": "I'm going to tennis class on Saturday.",
+          "vi": "Thứ Bảy con đi học tennis."
+        }
+      ]
+    },
+    {
+      "id": "v-sports-005",
+      "en": "badminton",
+      "vi": "cầu lông",
+      "pos": "noun",
+      "emoji": "🏸",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, let's play badminton!",
+          "vi": "Ồ, mình đánh cầu lông đi!"
+        },
+        {
+          "en": "Can you hit the badminton birdie?",
+          "vi": "Con đánh trúng quả cầu lông không?"
+        },
+        {
+          "en": "Hold your badminton racket like this.",
+          "vi": "Cầm vợt cầu lông như vầy nè."
+        },
+        {
+          "en": "Badminton is great on a calm day.",
+          "vi": "Trời lặng gió đánh cầu lông là nhất."
+        },
+        {
+          "en": "I hit the birdie ten times in badminton!",
+          "vi": "Con đánh cầu lông được mười trái liền!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-006",
+      "en": "swimming",
+      "vi": "bơi lội",
+      "pos": "noun",
+      "emoji": "🏊",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, swimming time!",
+          "vi": "Yeah, đi bơi thôi!"
+        },
+        {
+          "en": "Do you like swimming?",
+          "vi": "Con thích bơi không?"
+        },
+        {
+          "en": "Let's go swimming this weekend.",
+          "vi": "Cuối tuần mình đi bơi nha."
+        },
+        {
+          "en": "Swimming makes me so hungry!",
+          "vi": "Bơi xong đói bụng ghê!"
+        },
+        {
+          "en": "I went swimming with Grandpa!",
+          "vi": "Con đi bơi với ông!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-007",
+      "en": "volleyball",
+      "vi": "bóng chuyền",
+      "pos": "noun",
+      "emoji": "🏐",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, they're playing volleyball on the beach!",
+          "vi": "Nhìn kìa, họ chơi bóng chuyền trên bãi biển!"
+        },
+        {
+          "en": "Do you know how to play volleyball?",
+          "vi": "Con biết chơi bóng chuyền không?"
+        },
+        {
+          "en": "Hit the volleyball up with your hands.",
+          "vi": "Dùng tay đánh trái bóng chuyền lên."
+        },
+        {
+          "en": "Volleyball is a great team game.",
+          "vi": "Bóng chuyền là môn chơi đồng đội hay lắm."
+        },
+        {
+          "en": "We played volleyball in gym class!",
+          "vi": "Tụi con chơi bóng chuyền trong giờ thể dục!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-008",
+      "en": "ping-pong",
+      "vi": "bóng bàn",
+      "pos": "noun",
+      "emoji": "🏓",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ping, pong! Ping-pong is so fast!",
+          "vi": "Bóng bàn nhanh ghê!"
+        },
+        {
+          "en": "Want to play ping-pong with me?",
+          "vi": "Chơi bóng bàn với mình không?"
+        },
+        {
+          "en": "Keep your eye on the ping-pong ball.",
+          "vi": "Nhìn theo trái bóng bàn nha."
+        },
+        {
+          "en": "Ping-pong balls are super light.",
+          "vi": "Trái bóng bàn nhẹ hều."
+        },
+        {
+          "en": "I beat Daddy at ping-pong!",
+          "vi": "Con thắng ba môn bóng bàn rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-009",
+      "en": "karate",
+      "vi": "võ karate",
+      "pos": "noun",
+      "emoji": "🥋",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hi-yah! Look at my karate kick!",
+          "vi": "Hi-ya! Coi con đá karate nè!"
+        },
+        {
+          "en": "When is your karate class?",
+          "vi": "Lớp karate của con khi nào?"
+        },
+        {
+          "en": "Show me what you learned in karate.",
+          "vi": "Cho mình coi con học karate được gì."
+        },
+        {
+          "en": "Karate teaches you to be calm.",
+          "vi": "Karate dạy mình bình tĩnh."
+        },
+        {
+          "en": "I got a new belt in karate!",
+          "vi": "Con được lên đai karate mới!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-010",
+      "en": "gymnastics",
+      "vi": "thể dục dụng cụ",
+      "pos": "noun",
+      "emoji": "🤸",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, gymnastics looks so hard!",
+          "vi": "Oa, thể dục dụng cụ nhìn khó ghê!"
+        },
+        {
+          "en": "Do you want to try gymnastics?",
+          "vi": "Con muốn thử học thể dục dụng cụ không?"
+        },
+        {
+          "en": "Stretch first before gymnastics.",
+          "vi": "Khởi động trước khi tập nha."
+        },
+        {
+          "en": "Gymnastics makes your body strong.",
+          "vi": "Thể dục dụng cụ làm cơ thể khỏe."
+        },
+        {
+          "en": "I did a cartwheel at gymnastics!",
+          "vi": "Con lộn nhào được ở lớp thể dục!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-011",
+      "en": "skating",
+      "vi": "trượt patin, trượt băng",
+      "pos": "noun",
+      "emoji": "⛸️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, look at you skating!",
+          "vi": "Oa, coi con trượt kìa!"
+        },
+        {
+          "en": "Do you want to go skating?",
+          "vi": "Con muốn đi trượt patin không?"
+        },
+        {
+          "en": "Bend your knees when you're skating.",
+          "vi": "Trượt thì nhớ khuỵu gối nha."
+        },
+        {
+          "en": "Skating is tricky, but you're doing great.",
+          "vi": "Trượt khó thiệt, mà con làm tốt lắm."
+        },
+        {
+          "en": "I only fell once when I went skating!",
+          "vi": "Đi trượt patin con chỉ té có một lần!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-012",
+      "en": "bowling",
+      "vi": "bowling",
+      "pos": "noun",
+      "emoji": "🎳",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Strike! Bowling is awesome!",
+          "vi": "Đổ hết rồi! Bowling đã ghê!"
+        },
+        {
+          "en": "Do you want to go bowling?",
+          "vi": "Con muốn đi chơi bowling không?"
+        },
+        {
+          "en": "Roll the bowling ball nice and slow.",
+          "vi": "Lăn trái bowling từ từ thôi."
+        },
+        {
+          "en": "This bowling ball is really heavy.",
+          "vi": "Trái bowling này nặng ghê."
+        },
+        {
+          "en": "I knocked down all the pins at bowling!",
+          "vi": "Con chơi bowling đổ hết mấy con ky luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-013",
+      "en": "golf",
+      "vi": "golf",
+      "pos": "noun",
+      "emoji": "⛳",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tiny golf ball!",
+          "vi": "Nhìn nè, trái banh golf nhỏ xíu!"
+        },
+        {
+          "en": "Want to play mini golf?",
+          "vi": "Con muốn chơi golf mini không?"
+        },
+        {
+          "en": "Tap the golf ball into the hole.",
+          "vi": "Gõ nhẹ trái golf vô lỗ."
+        },
+        {
+          "en": "Golf takes lots of patience.",
+          "vi": "Chơi golf phải kiên nhẫn lắm."
+        },
+        {
+          "en": "I got a hole in one at mini golf!",
+          "vi": "Con đánh golf mini một cú vô lỗ luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-014",
+      "en": "race",
+      "vi": "cuộc đua",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Let's have a race!",
+          "vi": "Mình chạy đua đi!"
+        },
+        {
+          "en": "Who won the race?",
+          "vi": "Ai thắng cuộc đua?"
+        },
+        {
+          "en": "Race you to the door!",
+          "vi": "Đua tới cửa nha!"
+        },
+        {
+          "en": "That was a really close race.",
+          "vi": "Cuộc đua sát nút ghê."
+        },
+        {
+          "en": "I won the race!",
+          "vi": "Con thắng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-015",
+      "en": "team",
+      "vi": "đội",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Go, team, go!",
+          "vi": "Cố lên, cả đội ơi!"
+        },
+        {
+          "en": "Which team are you on?",
+          "vi": "Con ở đội nào?"
+        },
+        {
+          "en": "Let's be on the same team.",
+          "vi": "Mình chung đội nha."
+        },
+        {
+          "en": "Your team worked really hard.",
+          "vi": "Đội con cố gắng dữ lắm."
+        },
+        {
+          "en": "My team won today!",
+          "vi": "Hôm nay đội con thắng!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-016",
+      "en": "score",
+      "vi": "tỉ số, ghi điểm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you scored a goal!",
+          "vi": "Oa, con ghi bàn rồi!"
+        },
+        {
+          "en": "What's the score now?",
+          "vi": "Giờ tỉ số bao nhiêu rồi?"
+        },
+        {
+          "en": "Can you keep score for us?",
+          "vi": "Con ghi điểm giùm mọi người nha?"
+        },
+        {
+          "en": "The score doesn't matter, just have fun.",
+          "vi": "Tỉ số không quan trọng, vui là được."
+        },
+        {
+          "en": "The final score was three to two!",
+          "vi": "Tỉ số cuối cùng là ba – hai!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-017",
+      "en": "win",
+      "vi": "thắng",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "You win! Great job!",
+          "vi": "Con thắng rồi! Giỏi lắm!"
+        },
+        {
+          "en": "Who do you think will win?",
+          "vi": "Con nghĩ ai sẽ thắng?"
+        },
+        {
+          "en": "Let's try to win together.",
+          "vi": "Mình cùng cố gắng thắng nha."
+        },
+        {
+          "en": "It feels good to win.",
+          "vi": "Thắng thì vui thiệt."
+        },
+        {
+          "en": "I won! I won!",
+          "vi": "Con thắng rồi! Con thắng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-018",
+      "en": "lose",
+      "vi": "thua",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh well, we lost this time.",
+          "vi": "Thôi, lần này mình thua rồi."
+        },
+        {
+          "en": "Is it okay to lose sometimes?",
+          "vi": "Thỉnh thoảng thua cũng được mà, đúng không?"
+        },
+        {
+          "en": "Say good game, even when you lose.",
+          "vi": "Thua cũng nói \"chơi hay lắm\" nha."
+        },
+        {
+          "en": "Losing is hard, I know.",
+          "vi": "Thua thì buồn, mình hiểu mà."
+        },
+        {
+          "en": "I lost, but I had fun!",
+          "vi": "Con thua mà vẫn vui!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-019",
+      "en": "goal",
+      "vi": "bàn thắng, khung thành",
+      "pos": "noun",
+      "emoji": "🥅",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Goal! You did it!",
+          "vi": "Vô! Con làm được rồi!"
+        },
+        {
+          "en": "Where's the goal?",
+          "vi": "Khung thành ở đâu?"
+        },
+        {
+          "en": "Kick the ball into the goal!",
+          "vi": "Sút banh vô khung thành đi!"
+        },
+        {
+          "en": "That was an amazing goal.",
+          "vi": "Bàn thắng đó đẹp quá."
+        },
+        {
+          "en": "I scored two goals!",
+          "vi": "Con ghi được hai bàn!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-020",
+      "en": "goalie",
+      "vi": "thủ môn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Great save, goalie!",
+          "vi": "Thủ môn bắt hay quá!"
+        },
+        {
+          "en": "Do you want to be the goalie?",
+          "vi": "Con muốn làm thủ môn không?"
+        },
+        {
+          "en": "Stand in front of the goal, goalie.",
+          "vi": "Thủ môn đứng trước khung thành nha."
+        },
+        {
+          "en": "The goalie can use his hands.",
+          "vi": "Thủ môn được dùng tay."
+        },
+        {
+          "en": "I was the goalie today and stopped every ball!",
+          "vi": "Hôm nay con làm thủ môn, chặn hết banh luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-021",
+      "en": "referee",
+      "vi": "trọng tài",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the referee blew the whistle!",
+          "vi": "Nhìn kìa, trọng tài thổi còi rồi!"
+        },
+        {
+          "en": "What did the referee say?",
+          "vi": "Trọng tài nói gì vậy?"
+        },
+        {
+          "en": "Listen to the referee, okay?",
+          "vi": "Nghe lời trọng tài nha con."
+        },
+        {
+          "en": "The referee makes sure it's fair.",
+          "vi": "Trọng tài lo cho trận đấu công bằng."
+        },
+        {
+          "en": "The referee gave our team a free kick!",
+          "vi": "Trọng tài cho đội con đá phạt!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-022",
+      "en": "coach",
+      "vi": "huấn luyện viên",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hey, there's your coach!",
+          "vi": "Ê, huấn luyện viên của con kìa!"
+        },
+        {
+          "en": "What did your coach teach you today?",
+          "vi": "Hôm nay thầy dạy con gì?"
+        },
+        {
+          "en": "Go say thank you to your coach.",
+          "vi": "Đi cảm ơn huấn luyện viên đi con."
+        },
+        {
+          "en": "Your coach is really kind.",
+          "vi": "Huấn luyện viên của con tốt ghê."
+        },
+        {
+          "en": "My coach said I did a great job!",
+          "vi": "Thầy khen con làm tốt lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-023",
+      "en": "player",
+      "vi": "cầu thủ, người chơi",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that player is so fast!",
+          "vi": "Oa, cầu thủ đó chạy nhanh ghê!"
+        },
+        {
+          "en": "How many players are on each team?",
+          "vi": "Mỗi đội có mấy người chơi?"
+        },
+        {
+          "en": "We need one more player. Want to join?",
+          "vi": "Còn thiếu một người, con chơi không?"
+        },
+        {
+          "en": "You're a really good team player.",
+          "vi": "Con biết chơi đồng đội lắm."
+        },
+        {
+          "en": "I want to be a soccer player when I grow up.",
+          "vi": "Lớn lên con muốn làm cầu thủ bóng đá."
+        }
+      ]
+    },
+    {
+      "id": "v-sports-024",
+      "en": "practice",
+      "vi": "luyện tập",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, all that practice paid off!",
+          "vi": "Oa, tập nhiều nên giỏi lên rồi đó!"
+        },
+        {
+          "en": "What time is soccer practice?",
+          "vi": "Mấy giờ tập đá banh vậy con?"
+        },
+        {
+          "en": "Let's practice a little every day.",
+          "vi": "Mỗi ngày mình tập một chút nha."
+        },
+        {
+          "en": "Practice makes you better.",
+          "vi": "Tập nhiều sẽ giỏi hơn."
+        },
+        {
+          "en": "I had swim practice after school.",
+          "vi": "Tan học con đi tập bơi."
+        }
+      ]
+    },
+    {
+      "id": "v-sports-025",
+      "en": "helmet",
+      "vi": "mũ bảo hiểm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Helmet on! Safety first!",
+          "vi": "Đội nón bảo hiểm! An toàn trước nha!"
+        },
+        {
+          "en": "Where's your helmet?",
+          "vi": "Nón bảo hiểm của con đâu?"
+        },
+        {
+          "en": "Buckle your helmet, please.",
+          "vi": "Cài quai nón bảo hiểm nha con."
+        },
+        {
+          "en": "Your helmet keeps your head safe.",
+          "vi": "Nón bảo hiểm bảo vệ đầu con."
+        },
+        {
+          "en": "I can buckle my helmet myself!",
+          "vi": "Con tự cài nón được nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-026",
+      "en": "medal",
+      "vi": "huy chương",
+      "pos": "noun",
+      "emoji": "🏅",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a shiny medal!",
+          "vi": "Oa, huy chương sáng bóng nè!"
+        },
+        {
+          "en": "Did you get a medal?",
+          "vi": "Con được huy chương hả?"
+        },
+        {
+          "en": "Let's hang your medal up.",
+          "vi": "Mình treo huy chương lên nha."
+        },
+        {
+          "en": "I'm so proud of your medal.",
+          "vi": "Mình tự hào về huy chương của con lắm."
+        },
+        {
+          "en": "Look, I got a medal!",
+          "vi": "Nhìn nè, con được huy chương!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-027",
+      "en": "trophy",
+      "vi": "cúp",
+      "pos": "noun",
+      "emoji": "🏆",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at that big trophy!",
+          "vi": "Nhìn cái cúp bự chưa!"
+        },
+        {
+          "en": "Where should we put your trophy?",
+          "vi": "Mình để cúp của con ở đâu ta?"
+        },
+        {
+          "en": "Hold your trophy up for the picture!",
+          "vi": "Giơ cúp lên chụp hình nè!"
+        },
+        {
+          "en": "The trophy is for the whole team.",
+          "vi": "Cái cúp là của cả đội."
+        },
+        {
+          "en": "Our team won a trophy at the tournament!",
+          "vi": "Đội con giành được cúp ở giải đấu!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-028",
+      "en": "whistle",
+      "vi": "cái còi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Tweet! There's the whistle!",
+          "vi": "Tuýt! Còi kêu rồi!"
+        },
+        {
+          "en": "Did you hear the whistle?",
+          "vi": "Con nghe tiếng còi không?"
+        },
+        {
+          "en": "Stop when you hear the whistle.",
+          "vi": "Nghe còi là dừng lại nha."
+        },
+        {
+          "en": "That whistle is really loud.",
+          "vi": "Cái còi đó kêu to ghê."
+        },
+        {
+          "en": "Can I blow the whistle?",
+          "vi": "Con thổi còi được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-029",
+      "en": "field",
+      "vi": "sân cỏ, sân bóng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a big field!",
+          "vi": "Oa, sân bóng rộng quá!"
+        },
+        {
+          "en": "Can we run on the field?",
+          "vi": "Mình chạy trên sân được không?"
+        },
+        {
+          "en": "Let's go out on the field.",
+          "vi": "Mình ra sân đi."
+        },
+        {
+          "en": "The field is wet today.",
+          "vi": "Hôm nay sân ướt."
+        },
+        {
+          "en": "I ran across the whole field!",
+          "vi": "Con chạy hết nguyên sân luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-030",
+      "en": "court",
+      "vi": "sân (bóng rổ, cầu lông...)",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's a basketball court!",
+          "vi": "Nhìn kìa, có sân bóng rổ!"
+        },
+        {
+          "en": "Is the tennis court free?",
+          "vi": "Sân tennis còn trống không?"
+        },
+        {
+          "en": "Stay inside the lines on the court.",
+          "vi": "Đứng trong vạch sân nha con."
+        },
+        {
+          "en": "This court is perfect for badminton.",
+          "vi": "Sân này đánh cầu lông là hợp nhất."
+        },
+        {
+          "en": "We played on the big court at school!",
+          "vi": "Tụi con chơi trên sân lớn ở trường!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-031",
+      "en": "net",
+      "vi": "cái lưới",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Swish! Right in the net!",
+          "vi": "Vút! Vô lưới luôn!"
+        },
+        {
+          "en": "Can you get it over the net?",
+          "vi": "Con đánh qua lưới được không?"
+        },
+        {
+          "en": "Hit it over the net!",
+          "vi": "Đánh qua lưới đi!"
+        },
+        {
+          "en": "The net is too high for me.",
+          "vi": "Lưới cao quá trời."
+        },
+        {
+          "en": "The ball hit the net!",
+          "vi": "Banh đụng lưới rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-032",
+      "en": "goggles",
+      "vi": "kính bơi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, cool goggles!",
+          "vi": "Ồ, kính bơi ngầu ghê!"
+        },
+        {
+          "en": "Where are your goggles?",
+          "vi": "Kính bơi của con đâu?"
+        },
+        {
+          "en": "Put your goggles on first.",
+          "vi": "Đeo kính bơi vô trước đã."
+        },
+        {
+          "en": "These goggles are too tight.",
+          "vi": "Kính bơi này chật quá."
+        },
+        {
+          "en": "With goggles, I can see underwater!",
+          "vi": "Đeo kính vô con thấy dưới nước luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-033",
+      "en": "racket",
+      "vi": "cây vợt",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your new racket!",
+          "vi": "Cây vợt mới của con nè!"
+        },
+        {
+          "en": "Which racket do you want?",
+          "vi": "Con muốn cây vợt nào?"
+        },
+        {
+          "en": "Swing the racket like this.",
+          "vi": "Vung vợt như vầy nè."
+        },
+        {
+          "en": "This racket is light and easy to hold.",
+          "vi": "Cây vợt này nhẹ, dễ cầm."
+        },
+        {
+          "en": "I hit the ball with the middle of my racket!",
+          "vi": "Con đánh trúng giữa vợt luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-034",
+      "en": "finish line",
+      "vi": "vạch đích",
+      "pos": "noun",
+      "emoji": "🏁",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's the finish line!",
+          "vi": "Nhìn kìa, vạch đích kìa!"
+        },
+        {
+          "en": "Who got to the finish line first?",
+          "vi": "Ai về đích trước?"
+        },
+        {
+          "en": "Run to the finish line!",
+          "vi": "Chạy tới vạch đích đi!"
+        },
+        {
+          "en": "You're almost at the finish line!",
+          "vi": "Sắp tới đích rồi!"
+        },
+        {
+          "en": "I crossed the finish line!",
+          "vi": "Con về đích rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-035",
+      "en": "first place",
+      "vi": "hạng nhất",
+      "pos": "noun",
+      "emoji": "🥇",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, first place! Way to go!",
+          "vi": "Oa, hạng nhất! Giỏi quá!"
+        },
+        {
+          "en": "Who got first place?",
+          "vi": "Ai được hạng nhất?"
+        },
+        {
+          "en": "Don't worry about first place, just try your best.",
+          "vi": "Đừng lo hạng nhất, cố hết sức là được."
+        },
+        {
+          "en": "Second place is great too.",
+          "vi": "Hạng nhì cũng giỏi lắm."
+        },
+        {
+          "en": "I came in first place in the race!",
+          "vi": "Con về nhất cuộc đua!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-036",
+      "en": "cheer",
+      "vi": "cổ vũ",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hooray! Let's cheer!",
+          "vi": "Hoan hô! Mình cổ vũ nào!"
+        },
+        {
+          "en": "Who are you cheering for?",
+          "vi": "Con cổ vũ cho ai?"
+        },
+        {
+          "en": "Cheer for your friends!",
+          "vi": "Cổ vũ cho bạn đi con!"
+        },
+        {
+          "en": "Everyone cheered so loud!",
+          "vi": "Mọi người cổ vũ to ghê!"
+        },
+        {
+          "en": "I cheered for my team!",
+          "vi": "Con cổ vũ cho đội con!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-037",
+      "en": "good sport",
+      "vi": "người chơi đẹp",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Way to be a good sport!",
+          "vi": "Con chơi đẹp lắm!"
+        },
+        {
+          "en": "What does a good sport do when they lose?",
+          "vi": "Người chơi đẹp thì thua sẽ làm gì?"
+        },
+        {
+          "en": "Be a good sport and shake hands.",
+          "vi": "Chơi đẹp nha, bắt tay bạn đi."
+        },
+        {
+          "en": "A good sport is fun to play with.",
+          "vi": "Ai chơi đẹp thì chơi chung vui lắm."
+        },
+        {
+          "en": "I was a good sport even though we lost.",
+          "vi": "Đội con thua mà con vẫn chơi đẹp."
+        }
+      ]
+    },
+    {
+      "id": "v-sports-038",
+      "en": "rules",
+      "vi": "luật chơi",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Okay, here are the rules!",
+          "vi": "Rồi, luật chơi nè!"
+        },
+        {
+          "en": "What are the rules of this game?",
+          "vi": "Trò này luật chơi sao?"
+        },
+        {
+          "en": "Let's follow the rules, okay?",
+          "vi": "Mình chơi đúng luật nha."
+        },
+        {
+          "en": "Rules make the game fair for everyone.",
+          "vi": "Có luật thì ai chơi cũng công bằng."
+        },
+        {
+          "en": "That's not fair, it's against the rules!",
+          "vi": "Vậy không công bằng, sai luật rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-039",
+      "en": "turn",
+      "vi": "lượt",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Your turn!",
+          "vi": "Tới lượt con!"
+        },
+        {
+          "en": "Whose turn is it?",
+          "vi": "Tới lượt ai rồi?"
+        },
+        {
+          "en": "Wait for your turn, please.",
+          "vi": "Chờ tới lượt nha con."
+        },
+        {
+          "en": "Taking turns is fair.",
+          "vi": "Chơi theo lượt mới công bằng."
+        },
+        {
+          "en": "My turn now!",
+          "vi": "Tới lượt con rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-040",
+      "en": "game",
+      "vi": "trò chơi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Good game, everyone!",
+          "vi": "Chơi hay lắm, mọi người!"
+        },
+        {
+          "en": "What game should we play?",
+          "vi": "Mình chơi trò gì đây?"
+        },
+        {
+          "en": "Let's play a game!",
+          "vi": "Mình chơi một trò nha!"
+        },
+        {
+          "en": "This game is so fun!",
+          "vi": "Trò này vui ghê!"
+        },
+        {
+          "en": "One more game, please!",
+          "vi": "Chơi thêm một ván nữa nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-041",
+      "en": "hide-and-seek",
+      "vi": "trốn tìm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hide-and-seek! Ready or not, here I come!",
+          "vi": "Trốn tìm nè! Sẵn sàng chưa, mình đi tìm đây!"
+        },
+        {
+          "en": "Do you want to play hide-and-seek?",
+          "vi": "Con muốn chơi trốn tìm không?"
+        },
+        {
+          "en": "Let's play hide-and-seek! You hide!",
+          "vi": "Chơi trốn tìm đi! Con trốn nha!"
+        },
+        {
+          "en": "You're so good at hide-and-seek!",
+          "vi": "Con chơi trốn tìm giỏi ghê!"
+        },
+        {
+          "en": "I love hide-and-seek!",
+          "vi": "Con thích chơi trốn tìm lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-042",
+      "en": "tag",
+      "vi": "trò đuổi bắt",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Tag, you're it!",
+          "vi": "Chạm rồi, con làm người đuổi nha!"
+        },
+        {
+          "en": "Who's it in tag?",
+          "vi": "Ai làm người đuổi vậy?"
+        },
+        {
+          "en": "Let's play tag outside!",
+          "vi": "Ra ngoài chơi đuổi bắt đi!"
+        },
+        {
+          "en": "Tag makes me so tired!",
+          "vi": "Chơi đuổi bắt mệt ghê!"
+        },
+        {
+          "en": "I tagged Daddy!",
+          "vi": "Con bắt được ba rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-043",
+      "en": "board game",
+      "vi": "cờ bàn, trò chơi trên bàn",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a new board game!",
+          "vi": "Ồ, trò chơi mới nè!"
+        },
+        {
+          "en": "Which board game do you want to play?",
+          "vi": "Con muốn chơi trò nào?"
+        },
+        {
+          "en": "Let's play a board game after dinner.",
+          "vi": "Ăn tối xong mình chơi cờ nha."
+        },
+        {
+          "en": "Board games are great for rainy days.",
+          "vi": "Trời mưa chơi cờ là hợp nhất."
+        },
+        {
+          "en": "I won the board game three times in a row!",
+          "vi": "Con thắng ba ván liên tiếp luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-044",
+      "en": "cards",
+      "vi": "bài (lá bài)",
+      "pos": "noun",
+      "emoji": "🃏",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Okay, let's deal the cards!",
+          "vi": "Rồi, chia bài nào!"
+        },
+        {
+          "en": "Do you want to play cards?",
+          "vi": "Con muốn chơi bài không?"
+        },
+        {
+          "en": "Shuffle the cards, please.",
+          "vi": "Xào bài giùm nha con."
+        },
+        {
+          "en": "Hold your cards so nobody sees.",
+          "vi": "Cầm bài kín kín đừng cho ai thấy."
+        },
+        {
+          "en": "I have the most cards, so I win!",
+          "vi": "Con nhiều bài nhất nên con thắng!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-045",
+      "en": "dice",
+      "vi": "xúc xắc",
+      "pos": "noun",
+      "emoji": "🎲",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Roll the dice!",
+          "vi": "Đổ xúc xắc đi!"
+        },
+        {
+          "en": "What number did the dice land on?",
+          "vi": "Xúc xắc ra số mấy?"
+        },
+        {
+          "en": "Shake the dice, then roll.",
+          "vi": "Lắc xúc xắc rồi đổ nha."
+        },
+        {
+          "en": "Wow, you rolled a six!",
+          "vi": "Oa, con đổ được sáu!"
+        },
+        {
+          "en": "My turn to roll the dice!",
+          "vi": "Tới lượt con đổ xúc xắc!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-046",
+      "en": "tic-tac-toe",
+      "vi": "cờ ca-rô",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Tic-tac-toe, three in a row!",
+          "vi": "Ca-rô, ba con liền!"
+        },
+        {
+          "en": "Want to play tic-tac-toe?",
+          "vi": "Chơi cờ ca-rô không?"
+        },
+        {
+          "en": "You be X in tic-tac-toe.",
+          "vi": "Con đánh X nha."
+        },
+        {
+          "en": "Tic-tac-toe is quick and easy.",
+          "vi": "Cờ ca-rô chơi nhanh mà dễ."
+        },
+        {
+          "en": "I always win at tic-tac-toe!",
+          "vi": "Chơi ca-rô con thắng hoài!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-047",
+      "en": "rock paper scissors",
+      "vi": "oẳn tù tì",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Rock, paper, scissors, shoot!",
+          "vi": "Oẳn tù tì, ra cái gì ra cái này!"
+        },
+        {
+          "en": "Who wins rock paper scissors?",
+          "vi": "Oẳn tù tì ai thắng ta?"
+        },
+        {
+          "en": "Let's do rock paper scissors!",
+          "vi": "Mình oẳn tù tì đi!"
+        },
+        {
+          "en": "Paper beats rock!",
+          "vi": "Bao thắng búa!"
+        },
+        {
+          "en": "I won rock paper scissors!",
+          "vi": "Con oẳn tù tì thắng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-048",
+      "en": "Simon says",
+      "vi": "trò \"Simon bảo\"",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Simon says, touch your nose!",
+          "vi": "Simon bảo: chạm mũi!"
+        },
+        {
+          "en": "Want to play Simon says?",
+          "vi": "Chơi trò Simon bảo không?"
+        },
+        {
+          "en": "Only move when I say Simon says.",
+          "vi": "Chỉ làm khi nghe \"Simon bảo\" nha."
+        },
+        {
+          "en": "Simon says is a silly game.",
+          "vi": "Trò Simon bảo vui nhộn ghê."
+        },
+        {
+          "en": "I want to be Simon!",
+          "vi": "Con muốn làm Simon!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-049",
+      "en": "musical chairs",
+      "vi": "trò giành ghế",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Quick, musical chairs! Sit down!",
+          "vi": "Nhanh, giành ghế đi! Ngồi xuống!"
+        },
+        {
+          "en": "Do you want to play musical chairs?",
+          "vi": "Con muốn chơi giành ghế không?"
+        },
+        {
+          "en": "When the music stops, find a chair.",
+          "vi": "Nhạc ngừng là tìm ghế ngồi nha."
+        },
+        {
+          "en": "Musical chairs makes everyone giggle.",
+          "vi": "Chơi giành ghế ai cũng cười."
+        },
+        {
+          "en": "I won musical chairs!",
+          "vi": "Con thắng trò giành ghế!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-050",
+      "en": "hopscotch",
+      "vi": "trò nhảy lò cò",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a hopscotch game!",
+          "vi": "Nhìn nè, ô nhảy lò cò!"
+        },
+        {
+          "en": "Can you play hopscotch on one foot?",
+          "vi": "Con nhảy lò cò một chân được không?"
+        },
+        {
+          "en": "Let's draw a hopscotch board.",
+          "vi": "Mình vẽ ô nhảy lò cò nha."
+        },
+        {
+          "en": "Hopscotch is good for balance.",
+          "vi": "Nhảy lò cò giúp giữ thăng bằng."
+        },
+        {
+          "en": "I hopped to the end in hopscotch!",
+          "vi": "Con nhảy lò cò tới ô cuối luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-051",
+      "en": "ready, set, go",
+      "vi": "chuẩn bị, sẵn sàng, chạy",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ready, set, go!",
+          "vi": "Chuẩn bị, sẵn sàng, chạy!"
+        },
+        {
+          "en": "Can you say ready, set, go?",
+          "vi": "Con hô \"chuẩn bị, sẵn sàng, chạy\" nha?"
+        },
+        {
+          "en": "Wait for ready, set, go.",
+          "vi": "Chờ hô xong mới chạy nha."
+        },
+        {
+          "en": "Races start with ready, set, go.",
+          "vi": "Chạy đua thì hô chuẩn bị, sẵn sàng, chạy."
+        },
+        {
+          "en": "I'll say ready, set, go!",
+          "vi": "Để con hô cho!"
+        }
+      ]
+    },
+    {
+      "id": "v-sports-052",
+      "en": "tug-of-war",
+      "vi": "kéo co",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Pull! It's tug-of-war!",
+          "vi": "Kéo! Kéo co nè!"
+        },
+        {
+          "en": "Which side are you on for tug-of-war?",
+          "vi": "Con ở bên nào chơi kéo co?"
+        },
+        {
+          "en": "Grab the rope for tug-of-war!",
+          "vi": "Nắm dây kéo co đi!"
+        },
+        {
+          "en": "Tug-of-war needs the whole team to pull.",
+          "vi": "Kéo co thì cả đội phải cùng kéo."
+        },
+        {
+          "en": "Our class won tug-of-war on sports day!",
+          "vi": "Lớp con thắng kéo co ngày hội thể thao!"
+        }
+      ]
+    }
+  ]
+}

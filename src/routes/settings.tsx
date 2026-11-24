@@ -4,12 +4,14 @@ import clsx from 'clsx'
 import { Download, Upload } from 'lucide-react'
 import { type ChangeEvent, type ReactNode, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { PageHeader } from '../components/Layout'
-import { OfflineStatus } from '../components/OfflineStatus'
-import { InstallHint } from '../components/PwaPrompts'
-import { exportBackup, parseBackup, restoreBackup } from '../lib/backup'
-import { contentIndexQuery } from '../lib/content'
-import { useSettings } from '../lib/settings'
+import { PageHeader } from '@/shared/ui/Layout'
+import { OfflineStatus } from '@/features/offline/OfflineStatus'
+import { InstallHint } from '@/features/pwa/PwaPrompts'
+import { ProfileManager } from '@/features/profile/ProfileManager'
+import { ReminderSettings } from '@/features/reminders/ReminderSettings'
+import { exportBackup, parseBackup, restoreBackup } from '@/features/backup/backup'
+import { contentIndexQuery } from '@/features/content/content'
+import { useSettings } from '@/shared/settings'
 
 export const Route = createFileRoute('/settings')({ component: SettingsPage })
 
@@ -22,6 +24,10 @@ function SettingsPage() {
     <>
       <PageHeader title={t('settings.title')} />
       <main className="space-y-5 px-4">
+        <div id="profiles" className="scroll-mt-20">
+          <ProfileManager />
+        </div>
+
         <Field label={t('settings.language')}>
           <Segmented value={s.lang} onChange={(lang) => s.set({ lang })} options={[['vi', 'Tiếng Việt'], ['en', 'English']]} />
         </Field>
@@ -38,6 +44,8 @@ function SettingsPage() {
           </span>
           <input type="checkbox" checked={s.showAllAges} onChange={(e) => s.set({ showAllAges: e.target.checked })} className="size-6 shrink-0 accent-leaf-500" />
         </label>
+
+        <ReminderSettings />
 
         <Field label={t('settings.offline')}>
           <OfflineStatus />

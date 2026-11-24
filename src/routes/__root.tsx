@@ -2,15 +2,17 @@ import { type QueryClient, useQuery } from '@tanstack/react-query'
 import { createRootRouteWithContext, Outlet } from '@tanstack/react-router'
 import { useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
-import { BottomNav, ErrorState } from '../components/Layout'
-import { PlaylistBar } from '../components/PlaylistBar'
-import { UpdateBanner } from '../components/PwaPrompts'
-import { recordActivity } from '../lib/activity'
-import { contentIndexQuery } from '../lib/content'
-import { syncOffline } from '../lib/offline'
-import { useAudioState } from '../lib/audio'
-import { db, ensureDefaultProfile, requestPersistentStorage } from '../lib/db'
-import { useSettings } from '../lib/settings'
+import { BottomNav, ErrorState } from '@/shared/ui/Layout'
+import { PlaylistBar } from '@/features/audio/PlaylistBar'
+import { UpdateBanner } from '@/features/pwa/PwaPrompts'
+import { recordActivity } from '@/features/profile/activity'
+import { contentIndexQuery } from '@/features/content/content'
+import { syncOffline } from '@/features/offline/offline'
+import { useAudioState } from '@/features/audio/audio'
+import { db, ensureDefaultProfile, requestPersistentStorage } from '@/shared/db'
+import { useSettings } from '@/shared/settings'
+import { useDueCount } from '@/features/cards/useCards'
+import { NewStickerPopup } from '@/features/rewards/NewStickerPopup'
 
 export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()({
   component: RootLayout,
@@ -39,6 +41,8 @@ function RootLayout() {
     if (index) syncOffline(index)
   }, [index])
 
+  const dueCards = useDueCount()
+
   // Streaks: a day counts once something is actually played with the child.
   const playing = useAudioState().current
   useEffect(() => {
@@ -50,7 +54,8 @@ function RootLayout() {
       <Outlet />
       <PlaylistBar />
       <UpdateBanner />
-      <BottomNav />
+      <NewStickerPopup />
+      <BottomNav badges={{ '/cards': dueCards }} />
     </div>
   )
 }

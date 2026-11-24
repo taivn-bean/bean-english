@@ -1,0 +1,1694 @@
+{
+  "deckId": "v-vehicles",
+  "words": [
+    {
+      "id": "v-vehicles-001",
+      "en": "car",
+      "vi": "chiếc xe hơi",
+      "pos": "noun",
+      "emoji": "🚗",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a red car!",
+          "vi": "Nhìn kìa, chiếc xe hơi màu đỏ!"
+        },
+        {
+          "en": "Where's your toy car?",
+          "vi": "Xe hơi đồ chơi của con đâu rồi?"
+        },
+        {
+          "en": "Let's get in the car.",
+          "vi": "Mình lên xe hơi nha."
+        },
+        {
+          "en": "This car is so shiny.",
+          "vi": "Chiếc xe hơi này bóng loáng ghê."
+        },
+        {
+          "en": "I want to drive the car!",
+          "vi": "Con muốn lái xe hơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-002",
+      "en": "bus",
+      "vi": "chiếc xe buýt",
+      "pos": "noun",
+      "emoji": "🚌",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here comes the bus!",
+          "vi": "Xe buýt tới rồi kìa!"
+        },
+        {
+          "en": "Do you want to ride the bus?",
+          "vi": "Con muốn đi xe buýt không?"
+        },
+        {
+          "en": "Let's wave to the bus.",
+          "vi": "Mình vẫy tay chào xe buýt nha."
+        },
+        {
+          "en": "The bus is big and long.",
+          "vi": "Xe buýt vừa to vừa dài."
+        },
+        {
+          "en": "I sat by the bus window.",
+          "vi": "Con ngồi cạnh cửa sổ xe buýt."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-003",
+      "en": "truck",
+      "vi": "chiếc xe tải",
+      "pos": "noun",
+      "emoji": "🚚",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a huge truck!",
+          "vi": "Wow, chiếc xe tải bự quá!"
+        },
+        {
+          "en": "What's in the truck?",
+          "vi": "Trong xe tải có gì vậy?"
+        },
+        {
+          "en": "Can you push the truck?",
+          "vi": "Con đẩy chiếc xe tải được không?"
+        },
+        {
+          "en": "That truck is really loud.",
+          "vi": "Chiếc xe tải đó kêu to thiệt."
+        },
+        {
+          "en": "My truck goes vroom!",
+          "vi": "Xe tải của con chạy vù vù!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-004",
+      "en": "motorbike",
+      "vi": "chiếc xe máy",
+      "pos": "noun",
+      "emoji": "🛵",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at all the motorbikes!",
+          "vi": "Nhìn kìa, xe máy đông quá!"
+        },
+        {
+          "en": "Want to ride on the motorbike?",
+          "vi": "Con muốn đi xe máy không?"
+        },
+        {
+          "en": "Hold on tight on the motorbike.",
+          "vi": "Ngồi xe máy thì ôm chặt nha."
+        },
+        {
+          "en": "Daddy's motorbike is blue.",
+          "vi": "Xe máy của ba màu xanh dương."
+        },
+        {
+          "en": "We went to Grandma's on the motorbike.",
+          "vi": "Mình đi xe máy qua nhà bà đó."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-005",
+      "en": "bike",
+      "vi": "chiếc xe đạp",
+      "pos": "noun",
+      "emoji": "🚲",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a new bike!",
+          "vi": "Ồ, xe đạp mới nè!"
+        },
+        {
+          "en": "Where should we ride bikes?",
+          "vi": "Mình đạp xe đi đâu ta?"
+        },
+        {
+          "en": "Let's ride bikes after dinner.",
+          "vi": "Ăn tối xong mình đi đạp xe nha."
+        },
+        {
+          "en": "Your bike is so cool.",
+          "vi": "Xe đạp của con ngầu quá."
+        },
+        {
+          "en": "I can ride my bike by myself!",
+          "vi": "Con tự đạp xe được rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-006",
+      "en": "tricycle",
+      "vi": "chiếc xe đạp ba bánh",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little tricycle!",
+          "vi": "Nhìn nè, chiếc xe đạp ba bánh nhỏ xíu!"
+        },
+        {
+          "en": "Do you want to ride your tricycle?",
+          "vi": "Con muốn chạy xe ba bánh không?"
+        },
+        {
+          "en": "Pedal your tricycle, go go go!",
+          "vi": "Đạp xe ba bánh đi con, chạy chạy chạy!"
+        },
+        {
+          "en": "The tricycle has three wheels.",
+          "vi": "Xe ba bánh có ba cái bánh xe."
+        },
+        {
+          "en": "My tricycle goes fast!",
+          "vi": "Xe ba bánh của con chạy nhanh lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-007",
+      "en": "train",
+      "vi": "chiếc xe lửa",
+      "pos": "noun",
+      "emoji": "🚆",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Choo choo, here comes the train!",
+          "vi": "Tu tu, xe lửa tới rồi!"
+        },
+        {
+          "en": "Can you hear the train?",
+          "vi": "Con có nghe tiếng xe lửa không?"
+        },
+        {
+          "en": "Let's build a train track.",
+          "vi": "Mình làm đường ray xe lửa nha."
+        },
+        {
+          "en": "The train is so long!",
+          "vi": "Xe lửa dài ghê!"
+        },
+        {
+          "en": "I want to ride a real train.",
+          "vi": "Con muốn đi xe lửa thiệt."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-008",
+      "en": "airplane",
+      "vi": "chiếc máy bay",
+      "pos": "noun",
+      "emoji": "✈️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look up, an airplane!",
+          "vi": "Nhìn lên kìa, máy bay!"
+        },
+        {
+          "en": "Where's the airplane going?",
+          "vi": "Máy bay bay đi đâu vậy ta?"
+        },
+        {
+          "en": "Let's wave bye to the airplane.",
+          "vi": "Mình vẫy tay chào máy bay nha."
+        },
+        {
+          "en": "The airplane is way up high.",
+          "vi": "Máy bay bay cao tít luôn."
+        },
+        {
+          "en": "I flew on an airplane once!",
+          "vi": "Con từng đi máy bay rồi đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-009",
+      "en": "boat",
+      "vi": "chiếc thuyền",
+      "pos": "noun",
+      "emoji": "🚤",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a little boat!",
+          "vi": "Nhìn kìa, chiếc thuyền nhỏ!"
+        },
+        {
+          "en": "Does the boat float?",
+          "vi": "Chiếc thuyền có nổi không?"
+        },
+        {
+          "en": "Let's make a paper boat.",
+          "vi": "Mình xếp thuyền giấy nha."
+        },
+        {
+          "en": "The boat is rocking up and down.",
+          "vi": "Chiếc thuyền lắc lư lên xuống."
+        },
+        {
+          "en": "I want to go on a boat!",
+          "vi": "Con muốn đi thuyền!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-010",
+      "en": "ship",
+      "vi": "chiếc tàu thủy",
+      "pos": "noun",
+      "emoji": "🚢",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a giant ship!",
+          "vi": "Wow, chiếc tàu thủy khổng lồ!"
+        },
+        {
+          "en": "Where's that ship going?",
+          "vi": "Chiếc tàu thủy đó đi đâu vậy?"
+        },
+        {
+          "en": "Let's watch the ship sail away.",
+          "vi": "Mình coi tàu thủy chạy ra xa nha."
+        },
+        {
+          "en": "That ship is super big!",
+          "vi": "Chiếc tàu đó bự dữ thần!"
+        },
+        {
+          "en": "I saw a ship on the river!",
+          "vi": "Con thấy tàu thủy trên sông!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-011",
+      "en": "helicopter",
+      "vi": "chiếc trực thăng",
+      "pos": "noun",
+      "emoji": "🚁",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Listen, a helicopter!",
+          "vi": "Nghe nè, máy bay trực thăng!"
+        },
+        {
+          "en": "Can you see the helicopter?",
+          "vi": "Con thấy trực thăng không?"
+        },
+        {
+          "en": "Spin your arms like a helicopter!",
+          "vi": "Quay tay như cánh quạt trực thăng nào!"
+        },
+        {
+          "en": "The helicopter is so noisy.",
+          "vi": "Trực thăng ồn ghê."
+        },
+        {
+          "en": "I heard a helicopter last night.",
+          "vi": "Tối qua con nghe tiếng trực thăng."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-012",
+      "en": "fire truck",
+      "vi": "chiếc xe cứu hỏa",
+      "pos": "noun",
+      "emoji": "🚒",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big red fire truck!",
+          "vi": "Nhìn kìa, xe cứu hỏa màu đỏ to quá!"
+        },
+        {
+          "en": "Where's the fire truck going?",
+          "vi": "Xe cứu hỏa chạy đi đâu vậy?"
+        },
+        {
+          "en": "Let's move over for the fire truck.",
+          "vi": "Mình tránh qua cho xe cứu hỏa đi nha."
+        },
+        {
+          "en": "Fire trucks have long ladders.",
+          "vi": "Xe cứu hỏa có cái thang dài."
+        },
+        {
+          "en": "The fire truck goes to help people.",
+          "vi": "Xe cứu hỏa đi giúp mọi người đó."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-013",
+      "en": "ambulance",
+      "vi": "chiếc xe cứu thương",
+      "pos": "noun",
+      "emoji": "🚑",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Hear that? It's an ambulance.",
+          "vi": "Nghe không? Xe cứu thương đó."
+        },
+        {
+          "en": "Why is the ambulance so loud?",
+          "vi": "Sao xe cứu thương kêu to vậy?"
+        },
+        {
+          "en": "Let's pull over for the ambulance.",
+          "vi": "Mình tấp vô lề cho xe cứu thương đi nha."
+        },
+        {
+          "en": "The ambulance takes people to the hospital.",
+          "vi": "Xe cứu thương chở người ta tới bệnh viện."
+        },
+        {
+          "en": "The ambulance is rushing to help.",
+          "vi": "Xe cứu thương đang chạy gấp đi giúp người ta."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-014",
+      "en": "police car",
+      "vi": "chiếc xe cảnh sát",
+      "pos": "noun",
+      "emoji": "🚓",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a police car!",
+          "vi": "Nhìn kìa, xe cảnh sát!"
+        },
+        {
+          "en": "See the lights on the police car?",
+          "vi": "Con thấy đèn trên xe cảnh sát không?"
+        },
+        {
+          "en": "Let's make a police car sound!",
+          "vi": "Mình giả tiếng xe cảnh sát nào!"
+        },
+        {
+          "en": "The police car has flashing lights.",
+          "vi": "Xe cảnh sát có đèn nhấp nháy."
+        },
+        {
+          "en": "I want a toy police car.",
+          "vi": "Con muốn có xe cảnh sát đồ chơi."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-015",
+      "en": "taxi",
+      "vi": "chiếc taxi",
+      "pos": "noun",
+      "emoji": "🚕",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a yellow taxi!",
+          "vi": "Nhìn kìa, chiếc taxi màu vàng!"
+        },
+        {
+          "en": "Should we take a taxi?",
+          "vi": "Mình đi taxi nha?"
+        },
+        {
+          "en": "Let's wait here for the taxi.",
+          "vi": "Mình đứng đây chờ taxi nha."
+        },
+        {
+          "en": "The taxi is here, let's go.",
+          "vi": "Taxi tới rồi, đi thôi."
+        },
+        {
+          "en": "We took a taxi to the airport.",
+          "vi": "Mình đi taxi ra sân bay đó."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-016",
+      "en": "school bus",
+      "vi": "chiếc xe buýt trường học",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a yellow school bus!",
+          "vi": "Nhìn kìa, xe buýt trường học màu vàng!"
+        },
+        {
+          "en": "Want to ride the school bus?",
+          "vi": "Con muốn đi xe buýt của trường không?"
+        },
+        {
+          "en": "Let's wait for the school bus.",
+          "vi": "Mình đứng chờ xe buýt trường nha."
+        },
+        {
+          "en": "The school bus is full of kids.",
+          "vi": "Xe buýt trường học chở đầy các bạn nhỏ."
+        },
+        {
+          "en": "My friend rides the school bus.",
+          "vi": "Bạn con đi xe buýt của trường đó."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-017",
+      "en": "garbage truck",
+      "vi": "chiếc xe rác",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here comes the garbage truck!",
+          "vi": "Xe rác tới rồi kìa!"
+        },
+        {
+          "en": "Can you hear the garbage truck?",
+          "vi": "Con nghe tiếng xe rác không?"
+        },
+        {
+          "en": "Let's wave to the garbage truck.",
+          "vi": "Mình vẫy tay chào xe rác nha."
+        },
+        {
+          "en": "The garbage truck is really stinky!",
+          "vi": "Xe rác hôi quá trời!"
+        },
+        {
+          "en": "The garbage truck takes our trash away.",
+          "vi": "Xe rác chở rác nhà mình đi đó."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-018",
+      "en": "tractor",
+      "vi": "chiếc máy cày",
+      "pos": "noun",
+      "emoji": "🚜",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tractor on the farm!",
+          "vi": "Nhìn kìa, máy cày ngoài ruộng!"
+        },
+        {
+          "en": "What color is the tractor?",
+          "vi": "Máy cày màu gì vậy con?"
+        },
+        {
+          "en": "Let's drive the tractor, chug chug!",
+          "vi": "Mình lái máy cày nào, xình xịch!"
+        },
+        {
+          "en": "The tractor has really big wheels.",
+          "vi": "Máy cày có bánh xe to lắm."
+        },
+        {
+          "en": "The tractor helps the farmer work.",
+          "vi": "Máy cày giúp bác nông dân làm việc."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-019",
+      "en": "dump truck",
+      "vi": "chiếc xe ben",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a dump truck full of dirt!",
+          "vi": "Wow, xe ben chở đầy đất!"
+        },
+        {
+          "en": "Can your dump truck carry the sand?",
+          "vi": "Xe ben của con chở cát được không?"
+        },
+        {
+          "en": "Let's fill up the dump truck.",
+          "vi": "Mình đổ đầy xe ben nha."
+        },
+        {
+          "en": "The dump truck tips the dirt out.",
+          "vi": "Xe ben nghiêng thùng đổ đất ra."
+        },
+        {
+          "en": "My dump truck dumps the rocks!",
+          "vi": "Xe ben của con đổ đá nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-020",
+      "en": "digger",
+      "vi": "chiếc máy xúc",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big yellow digger!",
+          "vi": "Nhìn kìa, máy xúc màu vàng bự quá!"
+        },
+        {
+          "en": "What's the digger doing?",
+          "vi": "Máy xúc đang làm gì vậy?"
+        },
+        {
+          "en": "Let's dig with your toy digger.",
+          "vi": "Mình đào đất bằng máy xúc đồ chơi nha."
+        },
+        {
+          "en": "The digger can lift so much dirt.",
+          "vi": "Máy xúc múc được nhiều đất ghê."
+        },
+        {
+          "en": "I want to watch the digger!",
+          "vi": "Con muốn coi máy xúc!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-021",
+      "en": "subway",
+      "vi": "chiếc tàu điện ngầm",
+      "pos": "noun",
+      "emoji": "🚇",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the subway is coming!",
+          "vi": "Nhìn kìa, tàu điện ngầm tới rồi!"
+        },
+        {
+          "en": "Have you ever been on the subway?",
+          "vi": "Con đi tàu điện ngầm bao giờ chưa?"
+        },
+        {
+          "en": "Hold my hand on the subway, okay?",
+          "vi": "Đi tàu điện ngầm thì nắm tay nha con."
+        },
+        {
+          "en": "The subway runs under the ground.",
+          "vi": "Tàu điện ngầm chạy dưới lòng đất."
+        },
+        {
+          "en": "We'll take the subway to get downtown faster.",
+          "vi": "Mình sẽ đi tàu điện ngầm cho nhanh tới trung tâm."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-022",
+      "en": "van",
+      "vi": "chiếc xe van",
+      "pos": "noun",
+      "emoji": "🚐",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a white van!",
+          "vi": "Nhìn kìa, chiếc xe van màu trắng!"
+        },
+        {
+          "en": "Who's in that van?",
+          "vi": "Ai ngồi trong chiếc xe van đó vậy?"
+        },
+        {
+          "en": "Let's climb into the van.",
+          "vi": "Mình leo lên xe van nha."
+        },
+        {
+          "en": "The van has lots of seats.",
+          "vi": "Xe van có nhiều ghế lắm."
+        },
+        {
+          "en": "We all fit in the big van!",
+          "vi": "Cả nhà mình ngồi vừa chiếc xe van to luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-023",
+      "en": "wheel",
+      "vi": "cái bánh xe",
+      "pos": "noun",
+      "emoji": "🛞",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the wheels are spinning!",
+          "vi": "Nhìn nè, bánh xe đang quay!"
+        },
+        {
+          "en": "How many wheels does a car have?",
+          "vi": "Xe hơi có mấy bánh?"
+        },
+        {
+          "en": "Let's count the wheels on the bus.",
+          "vi": "Mình đếm bánh xe buýt nha."
+        },
+        {
+          "en": "The wheel is round.",
+          "vi": "Bánh xe tròn tròn."
+        },
+        {
+          "en": "The wheels go round and round!",
+          "vi": "Bánh xe quay vòng vòng!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-024",
+      "en": "tire",
+      "vi": "cái lốp xe",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, the tire looks flat.",
+          "vi": "Ối, cái lốp xe xẹp rồi."
+        },
+        {
+          "en": "Can you kick the tire for me?",
+          "vi": "Con đá thử cái lốp xe giùm nha?"
+        },
+        {
+          "en": "Let's pump some air into the tire.",
+          "vi": "Mình bơm hơi vô lốp xe nha."
+        },
+        {
+          "en": "Bike tires are thin, but truck tires are huge.",
+          "vi": "Lốp xe đạp thì mỏng, còn lốp xe tải thì bự lắm."
+        },
+        {
+          "en": "We got a new tire because the old one popped.",
+          "vi": "Mình thay lốp mới vì lốp cũ bị bể rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-025",
+      "en": "seat belt",
+      "vi": "cái dây an toàn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Seat belt on, click!",
+          "vi": "Thắt dây an toàn, tách!"
+        },
+        {
+          "en": "Is your seat belt buckled?",
+          "vi": "Con thắt dây an toàn chưa?"
+        },
+        {
+          "en": "Put on your seat belt, please.",
+          "vi": "Con thắt dây an toàn vô nha."
+        },
+        {
+          "en": "Seat belts keep us safe.",
+          "vi": "Dây an toàn giữ cho mình an toàn."
+        },
+        {
+          "en": "I can buckle my seat belt!",
+          "vi": "Con tự thắt dây an toàn được nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-026",
+      "en": "car seat",
+      "vi": "cái ghế ngồi ô tô",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Up into your car seat!",
+          "vi": "Lên ghế ngồi ô tô nào!"
+        },
+        {
+          "en": "Are you comfy in your car seat?",
+          "vi": "Con ngồi ghế ô tô có thoải mái không?"
+        },
+        {
+          "en": "Sit back in your car seat, please.",
+          "vi": "Con ngồi dựa vô ghế ô tô nha."
+        },
+        {
+          "en": "Your car seat keeps you safe.",
+          "vi": "Ghế ô tô giữ cho con an toàn."
+        },
+        {
+          "en": "I climbed into my car seat myself!",
+          "vi": "Con tự leo lên ghế ô tô rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-027",
+      "en": "traffic light",
+      "vi": "cái đèn giao thông",
+      "pos": "noun",
+      "emoji": "🚦",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the traffic light is red!",
+          "vi": "Nhìn kìa, đèn giao thông màu đỏ!"
+        },
+        {
+          "en": "What color is the traffic light now?",
+          "vi": "Đèn giao thông giờ màu gì rồi con?"
+        },
+        {
+          "en": "Let's wait for the traffic light.",
+          "vi": "Mình chờ đèn giao thông nha."
+        },
+        {
+          "en": "Red on the traffic light means stop.",
+          "vi": "Đèn đỏ là phải dừng lại."
+        },
+        {
+          "en": "The traffic light turned green, go!",
+          "vi": "Đèn xanh rồi, đi thôi!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-028",
+      "en": "road",
+      "vi": "con đường",
+      "pos": "noun",
+      "emoji": "🛣️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look how busy the road is!",
+          "vi": "Nhìn kìa, đường đông xe quá!"
+        },
+        {
+          "en": "Which road goes to Grandma's house?",
+          "vi": "Đường nào đi tới nhà bà vậy con?"
+        },
+        {
+          "en": "Stay off the road, please.",
+          "vi": "Con đừng xuống lòng đường nha, đứng trong lề nè."
+        },
+        {
+          "en": "This road is really bumpy.",
+          "vi": "Con đường này xóc quá."
+        },
+        {
+          "en": "We drove down a long road.",
+          "vi": "Mình chạy xe trên một con đường dài lắm."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-029",
+      "en": "honk",
+      "vi": "bấm còi",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Beep beep, that car is honking!",
+          "vi": "Bíp bíp, xe kia đang bấm còi!"
+        },
+        {
+          "en": "Why is that car honking?",
+          "vi": "Sao xe đó bấm còi vậy?"
+        },
+        {
+          "en": "Honk the horn on your toy truck!",
+          "vi": "Bấm còi xe tải đồ chơi đi con!"
+        },
+        {
+          "en": "There's so much honking out here.",
+          "vi": "Ngoài đây bấm còi inh ỏi ghê."
+        },
+        {
+          "en": "That bus honks so loud!",
+          "vi": "Xe buýt đó bấm còi to quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-030",
+      "en": "driver",
+      "vi": "tài xế",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wave to the bus driver!",
+          "vi": "Vẫy tay chào chú tài xế xe buýt đi con!"
+        },
+        {
+          "en": "Who's the driver today?",
+          "vi": "Hôm nay ai lái xe vậy?"
+        },
+        {
+          "en": "Say thank you to the driver.",
+          "vi": "Con cảm ơn chú tài xế đi."
+        },
+        {
+          "en": "The driver is really careful.",
+          "vi": "Chú tài xế lái xe cẩn thận lắm."
+        },
+        {
+          "en": "I want to be a bus driver!",
+          "vi": "Con muốn làm tài xế xe buýt!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-031",
+      "en": "steering wheel",
+      "vi": "cái vô lăng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Hands on the steering wheel!",
+          "vi": "Tay để lên vô lăng nào!"
+        },
+        {
+          "en": "Can you turn the steering wheel?",
+          "vi": "Con xoay vô lăng được không?"
+        },
+        {
+          "en": "Let's pretend to turn the steering wheel.",
+          "vi": "Mình giả bộ xoay vô lăng nha."
+        },
+        {
+          "en": "The steering wheel turns the car.",
+          "vi": "Vô lăng giúp xe quẹo."
+        },
+        {
+          "en": "I'm turning the steering wheel!",
+          "vi": "Con đang xoay vô lăng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-032",
+      "en": "engine",
+      "vi": "cái động cơ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Listen, the engine is starting.",
+          "vi": "Nghe nè, động cơ đang nổ máy."
+        },
+        {
+          "en": "Where's the engine on a car?",
+          "vi": "Động cơ của xe hơi nằm ở đâu?"
+        },
+        {
+          "en": "Let's peek at the engine with Daddy.",
+          "vi": "Mình coi động cơ với ba nha."
+        },
+        {
+          "en": "The engine is hot, so don't touch it.",
+          "vi": "Động cơ đang nóng, nên đừng đụng vô nha."
+        },
+        {
+          "en": "The engine makes the car go, right?",
+          "vi": "Động cơ làm cho xe chạy, đúng không?"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-033",
+      "en": "brake",
+      "vi": "cái phanh",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Brakes on, stop!",
+          "vi": "Bóp phanh, dừng lại!"
+        },
+        {
+          "en": "Do you know where the brakes are on your bike?",
+          "vi": "Con biết phanh xe đạp nằm ở đâu không?"
+        },
+        {
+          "en": "Squeeze the brake to slow down.",
+          "vi": "Bóp phanh để chạy chậm lại nha."
+        },
+        {
+          "en": "Good brakes help us stop safely.",
+          "vi": "Phanh tốt giúp mình dừng lại an toàn."
+        },
+        {
+          "en": "I used my brakes before the corner.",
+          "vi": "Con bóp phanh trước khúc quẹo rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-034",
+      "en": "parking lot",
+      "vi": "bãi đậu xe",
+      "pos": "noun",
+      "emoji": "🅿️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, this parking lot is full!",
+          "vi": "Wow, bãi đậu xe đầy nhóc!"
+        },
+        {
+          "en": "Where's our car in the parking lot?",
+          "vi": "Xe mình đậu chỗ nào trong bãi vậy ta?"
+        },
+        {
+          "en": "Let's walk slowly in the parking lot.",
+          "vi": "Mình đi chậm chậm trong bãi đậu xe nha."
+        },
+        {
+          "en": "Parking lots are busy, so stay close.",
+          "vi": "Bãi đậu xe đông lắm, nên đi sát bên nha."
+        },
+        {
+          "en": "I'm holding hands in the parking lot!",
+          "vi": "Con nắm tay trong bãi đậu xe nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-035",
+      "en": "ride",
+      "vi": "đi xe, cưỡi",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a fun ride!",
+          "vi": "Wow, đi vui quá!"
+        },
+        {
+          "en": "Want to ride on my shoulders?",
+          "vi": "Con muốn cưỡi lên vai không?"
+        },
+        {
+          "en": "Let's ride the bus to the park.",
+          "vi": "Mình đi xe buýt ra công viên nha."
+        },
+        {
+          "en": "That ride was so bumpy.",
+          "vi": "Chuyến đi xóc ghê."
+        },
+        {
+          "en": "I rode my bike home!",
+          "vi": "Con đạp xe về nhà nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-036",
+      "en": "drive",
+      "vi": "lái xe",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Vroom, let's drive!",
+          "vi": "Brừm, mình lái xe nào!"
+        },
+        {
+          "en": "Where should we drive today?",
+          "vi": "Hôm nay mình lái xe đi đâu ta?"
+        },
+        {
+          "en": "Drive your car over the bridge!",
+          "vi": "Lái xe của con qua cầu đi!"
+        },
+        {
+          "en": "Daddy drives very carefully.",
+          "vi": "Ba lái xe cẩn thận lắm."
+        },
+        {
+          "en": "I'll drive a big truck someday!",
+          "vi": "Sau này con sẽ lái xe tải bự!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-037",
+      "en": "siren",
+      "vi": "còi hú",
+      "pos": "noun",
+      "emoji": "🚨",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wee-woo, hear the siren?",
+          "vi": "Í o í o, nghe tiếng còi hú không?"
+        },
+        {
+          "en": "Where's that siren coming from?",
+          "vi": "Tiếng còi hú ở đâu vậy?"
+        },
+        {
+          "en": "Let's make a siren sound together!",
+          "vi": "Mình cùng giả tiếng còi hú nào!"
+        },
+        {
+          "en": "The siren is really loud.",
+          "vi": "Còi hú kêu to quá."
+        },
+        {
+          "en": "I heard a siren outside!",
+          "vi": "Con nghe tiếng còi hú ngoài kia!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-038",
+      "en": "passenger",
+      "vi": "hành khách",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "All passengers, please sit down!",
+          "vi": "Mời các hành khách ngồi xuống nào!"
+        },
+        {
+          "en": "How many passengers are on the bus?",
+          "vi": "Trên xe buýt có bao nhiêu hành khách?"
+        },
+        {
+          "en": "You be the passenger, and I'll drive.",
+          "vi": "Con làm hành khách, còn mình lái nha."
+        },
+        {
+          "en": "Passengers have to wear seat belts too.",
+          "vi": "Hành khách cũng phải thắt dây an toàn."
+        },
+        {
+          "en": "I was the only passenger in the back.",
+          "vi": "Con là hành khách duy nhất ngồi phía sau."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-039",
+      "en": "bus stop",
+      "vi": "trạm xe buýt",
+      "pos": "noun",
+      "emoji": "🚏",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's the bus stop!",
+          "vi": "Trạm xe buýt đây rồi!"
+        },
+        {
+          "en": "Is this our bus stop?",
+          "vi": "Đây là trạm xe buýt của mình hả?"
+        },
+        {
+          "en": "Let's wait at the bus stop.",
+          "vi": "Mình đứng chờ ở trạm xe buýt nha."
+        },
+        {
+          "en": "The bus stop is by the store.",
+          "vi": "Trạm xe buýt ở ngay cạnh cửa hàng."
+        },
+        {
+          "en": "I see the bus stop!",
+          "vi": "Con thấy trạm xe buýt rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-040",
+      "en": "ferry",
+      "vi": "chiếc phà",
+      "pos": "noun",
+      "emoji": "⛴️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the ferry is coming in!",
+          "vi": "Nhìn kìa, chiếc phà đang cập bến!"
+        },
+        {
+          "en": "Have you ever been on a ferry?",
+          "vi": "Con đi phà bao giờ chưa?"
+        },
+        {
+          "en": "Let's stand by the rail on the ferry.",
+          "vi": "Mình đứng cạnh lan can trên phà nha."
+        },
+        {
+          "en": "The ferry carries people and motorbikes across the river.",
+          "vi": "Phà chở người với xe máy qua sông."
+        },
+        {
+          "en": "We took the ferry to see Grandpa's village.",
+          "vi": "Mình đi phà về quê thăm ông đó."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-041",
+      "en": "sailboat",
+      "vi": "chiếc thuyền buồm",
+      "pos": "noun",
+      "emoji": "⛵",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a sailboat!",
+          "vi": "Nhìn kìa, thuyền buồm!"
+        },
+        {
+          "en": "What makes a sailboat move?",
+          "vi": "Cái gì làm thuyền buồm chạy vậy?"
+        },
+        {
+          "en": "Blow on your sailboat, whoosh!",
+          "vi": "Thổi thuyền buồm đi con, phù!"
+        },
+        {
+          "en": "The wind pushes the sailboat.",
+          "vi": "Gió đẩy thuyền buồm đi."
+        },
+        {
+          "en": "I want to sail a sailboat someday!",
+          "vi": "Sau này con muốn lái thuyền buồm!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-042",
+      "en": "hot air balloon",
+      "vi": "khinh khí cầu",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a hot air balloon!",
+          "vi": "Wow, khinh khí cầu kìa!"
+        },
+        {
+          "en": "Would you ride in a hot air balloon?",
+          "vi": "Con có dám đi khinh khí cầu không?"
+        },
+        {
+          "en": "Let's draw a hot air balloon.",
+          "vi": "Mình vẽ khinh khí cầu nha."
+        },
+        {
+          "en": "A hot air balloon floats so slowly.",
+          "vi": "Khinh khí cầu bay chầm chậm."
+        },
+        {
+          "en": "I saw a hot air balloon in the sky!",
+          "vi": "Con thấy khinh khí cầu trên trời!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-043",
+      "en": "traffic jam",
+      "vi": "kẹt xe",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, a traffic jam!",
+          "vi": "Trời ơi, kẹt xe rồi!"
+        },
+        {
+          "en": "Why is there a traffic jam?",
+          "vi": "Sao lại kẹt xe vậy?"
+        },
+        {
+          "en": "Let's play a game while we're in this traffic jam.",
+          "vi": "Kẹt xe thì mình chơi trò chơi nha."
+        },
+        {
+          "en": "Traffic jams are so slow and boring.",
+          "vi": "Kẹt xe vừa chậm vừa chán ghê."
+        },
+        {
+          "en": "We were late because of a big traffic jam.",
+          "vi": "Mình bị trễ vì kẹt xe dữ quá."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-044",
+      "en": "cement mixer",
+      "vi": "chiếc xe trộn bê tông",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a cement mixer!",
+          "vi": "Nhìn kìa, xe trộn bê tông!"
+        },
+        {
+          "en": "Is the cement mixer spinning?",
+          "vi": "Xe trộn bê tông có đang quay không?"
+        },
+        {
+          "en": "Spin around like a cement mixer!",
+          "vi": "Xoay vòng như xe trộn bê tông đi!"
+        },
+        {
+          "en": "The cement mixer goes round and round.",
+          "vi": "Xe trộn bê tông quay vòng vòng."
+        },
+        {
+          "en": "I saw a cement mixer today!",
+          "vi": "Hôm nay con thấy xe trộn bê tông!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-045",
+      "en": "race car",
+      "vi": "chiếc xe đua",
+      "pos": "noun",
+      "emoji": "🏎️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Zoom, a race car!",
+          "vi": "Vù, xe đua kìa!"
+        },
+        {
+          "en": "Which race car is the fastest?",
+          "vi": "Xe đua nào chạy nhanh nhất?"
+        },
+        {
+          "en": "Let's race our race cars!",
+          "vi": "Mình đua xe đua nào!"
+        },
+        {
+          "en": "Race cars are super fast.",
+          "vi": "Xe đua chạy siêu nhanh."
+        },
+        {
+          "en": "My race car won!",
+          "vi": "Xe đua của con thắng rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-046",
+      "en": "stroller",
+      "vi": "chiếc xe đẩy",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Here's your stroller!",
+          "vi": "Xe đẩy của con nè!"
+        },
+        {
+          "en": "Want to sit in the stroller?",
+          "vi": "Con muốn ngồi xe đẩy không?"
+        },
+        {
+          "en": "Let's push the stroller together.",
+          "vi": "Mình cùng đẩy xe đẩy nha."
+        },
+        {
+          "en": "The stroller is comfy.",
+          "vi": "Xe đẩy êm ghê."
+        },
+        {
+          "en": "I can push my doll's stroller!",
+          "vi": "Con đẩy xe cho búp bê được nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-047",
+      "en": "zoom",
+      "vi": "chạy vèo / vù",
+      "pos": "verb",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Zoom, there it goes!",
+          "vi": "Vù, nó chạy mất tiêu rồi!"
+        },
+        {
+          "en": "Can your car zoom fast?",
+          "vi": "Xe của con chạy vèo vèo được không?"
+        },
+        {
+          "en": "Zoom your car down the ramp!",
+          "vi": "Cho xe con chạy vèo xuống dốc đi!"
+        },
+        {
+          "en": "Look how fast it zooms!",
+          "vi": "Coi nó chạy vèo nhanh chưa kìa!"
+        },
+        {
+          "en": "My car zooms the fastest!",
+          "vi": "Xe của con chạy vèo nhanh nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-048",
+      "en": "tunnel",
+      "vi": "đường hầm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a tunnel! It's dark.",
+          "vi": "Ồ, đường hầm! Tối thui."
+        },
+        {
+          "en": "Can the train go through the tunnel?",
+          "vi": "Xe lửa chạy qua đường hầm được không?"
+        },
+        {
+          "en": "Let's build a tunnel for your cars.",
+          "vi": "Mình làm đường hầm cho xe của con nha."
+        },
+        {
+          "en": "The tunnel is long and dark.",
+          "vi": "Đường hầm dài và tối."
+        },
+        {
+          "en": "We drove through a tunnel!",
+          "vi": "Mình chạy xe qua đường hầm đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-049",
+      "en": "train tracks",
+      "vi": "đường ray xe lửa",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, train tracks!",
+          "vi": "Nhìn kìa, đường ray xe lửa!"
+        },
+        {
+          "en": "Where do the train tracks go?",
+          "vi": "Đường ray xe lửa dẫn đi đâu vậy?"
+        },
+        {
+          "en": "Stay back from the train tracks.",
+          "vi": "Đứng xa đường ray xe lửa ra nha."
+        },
+        {
+          "en": "The train tracks are long and straight.",
+          "vi": "Đường ray xe lửa dài và thẳng."
+        },
+        {
+          "en": "I made the train tracks round!",
+          "vi": "Con làm đường ray thành vòng tròn rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-050",
+      "en": "submarine",
+      "vi": "chiếc tàu ngầm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a yellow submarine!",
+          "vi": "Nhìn kìa, chiếc tàu ngầm màu vàng!"
+        },
+        {
+          "en": "How deep can a submarine go?",
+          "vi": "Tàu ngầm lặn sâu được bao nhiêu?"
+        },
+        {
+          "en": "Let's dive down like a submarine!",
+          "vi": "Mình lặn xuống như tàu ngầm nào!"
+        },
+        {
+          "en": "A submarine can go under the water.",
+          "vi": "Tàu ngầm chạy được dưới nước."
+        },
+        {
+          "en": "I'd love to see fish from a submarine.",
+          "vi": "Con muốn ngồi tàu ngầm coi cá ghê."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-051",
+      "en": "cable car",
+      "vi": "cáp treo",
+      "pos": "noun",
+      "emoji": "🚡",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the cable car is so high!",
+          "vi": "Wow, cáp treo cao quá!"
+        },
+        {
+          "en": "Are you scared to ride the cable car?",
+          "vi": "Con có sợ đi cáp treo không?"
+        },
+        {
+          "en": "Let's look down from the cable car.",
+          "vi": "Mình nhìn xuống từ cáp treo nha."
+        },
+        {
+          "en": "The cable car moves slowly up the mountain.",
+          "vi": "Cáp treo chạy chầm chậm lên núi."
+        },
+        {
+          "en": "We rode a cable car up the mountain last summer.",
+          "vi": "Hè rồi mình đi cáp treo lên núi đó."
+        }
+      ]
+    },
+    {
+      "id": "v-vehicles-052",
+      "en": "gas",
+      "vi": "xăng",
+      "pos": "noun",
+      "emoji": "⛽",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, we need gas.",
+          "vi": "Ối, xe hết xăng rồi."
+        },
+        {
+          "en": "Does the motorbike have enough gas?",
+          "vi": "Xe máy còn đủ xăng không?"
+        },
+        {
+          "en": "Let's stop and get some gas.",
+          "vi": "Mình ghé đổ xăng nha."
+        },
+        {
+          "en": "Cars need gas to go.",
+          "vi": "Xe cần xăng mới chạy được."
+        },
+        {
+          "en": "We ran out of gas last time, remember?",
+          "vi": "Lần trước mình bị hết xăng, nhớ không?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1664 @@
+{
+  "deckId": "v-feelings-2",
+  "words": [
+    {
+      "id": "v-feelings-2-001",
+      "en": "proud",
+      "vi": "tự hào",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, I'm so proud of you!",
+          "vi": "Wow, mình tự hào về con lắm!"
+        },
+        {
+          "en": "Are you proud of your drawing?",
+          "vi": "Con có tự hào về bức tranh của mình không?"
+        },
+        {
+          "en": "Tell Grandma what you're proud of.",
+          "vi": "Kể bà nghe con tự hào về điều gì đi."
+        },
+        {
+          "en": "You worked hard, so you should feel proud.",
+          "vi": "Con cố gắng nhiều nên con nên thấy tự hào."
+        },
+        {
+          "en": "I'm proud because I tied my shoes myself!",
+          "vi": "Con tự hào vì con tự cột dây giày!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-002",
+      "en": "nervous",
+      "vi": "hồi hộp",
+      "pos": "adjective",
+      "emoji": "😬",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, you look a little nervous.",
+          "vi": "Ồ, nhìn con hơi hồi hộp ha."
+        },
+        {
+          "en": "Are you nervous about the first day?",
+          "vi": "Con có hồi hộp vì ngày đầu đi học không?"
+        },
+        {
+          "en": "Squeeze my hand if you feel nervous.",
+          "vi": "Hồi hộp thì bóp tay mình nè."
+        },
+        {
+          "en": "It's normal to feel nervous before a show.",
+          "vi": "Trước khi biểu diễn thấy hồi hộp là bình thường."
+        },
+        {
+          "en": "I was nervous, but I still sang!",
+          "vi": "Con hồi hộp nhưng con vẫn hát!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-003",
+      "en": "jealous",
+      "vi": "ghen tị",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hmm, I think someone's feeling jealous.",
+          "vi": "Hmm, hình như có người đang ghen tị nè."
+        },
+        {
+          "en": "Do you feel jealous of the baby?",
+          "vi": "Con có thấy ghen tị với em bé không?"
+        },
+        {
+          "en": "Tell me when you feel jealous, okay?",
+          "vi": "Khi nào thấy ghen tị thì nói mình nghe nha?"
+        },
+        {
+          "en": "Feeling jealous is normal, and it goes away.",
+          "vi": "Ghen tị là bình thường, rồi sẽ qua thôi."
+        },
+        {
+          "en": "I felt jealous when my friend got a new bike.",
+          "vi": "Con thấy ghen tị khi bạn có xe đạp mới."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-004",
+      "en": "embarrassed",
+      "vi": "xấu hổ, quê",
+      "pos": "adjective",
+      "emoji": "😳",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oops, don't worry, everyone gets embarrassed!",
+          "vi": "Ui, không sao đâu, ai cũng có lúc quê mà!"
+        },
+        {
+          "en": "Did you feel embarrassed when you fell?",
+          "vi": "Lúc té con có thấy quê không?"
+        },
+        {
+          "en": "Just smile and keep going if you're embarrassed.",
+          "vi": "Có quê thì cứ cười rồi làm tiếp nha."
+        },
+        {
+          "en": "Your face gets red when you're embarrassed.",
+          "vi": "Con mà quê là mặt đỏ lên."
+        },
+        {
+          "en": "I was so embarrassed when I called my teacher \"Mom\"!",
+          "vi": "Con quê quá vì lỡ gọi cô giáo là \"mẹ\"!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-005",
+      "en": "frustrated",
+      "vi": "bực bội (vì làm hoài không được)",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, this puzzle is so frustrating!",
+          "vi": "Ồ, trò ghép hình này làm bực ghê!"
+        },
+        {
+          "en": "Are you feeling frustrated?",
+          "vi": "Con đang thấy bực bội hả?"
+        },
+        {
+          "en": "When you're frustrated, take a break and try again.",
+          "vi": "Khi bực bội thì nghỉ chút rồi thử lại."
+        },
+        {
+          "en": "It's frustrating when things don't work the first time.",
+          "vi": "Làm lần đầu không được thì bực thật."
+        },
+        {
+          "en": "I got frustrated because my tower kept falling.",
+          "vi": "Con bực vì tháp của con cứ bị đổ."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-006",
+      "en": "disappointed",
+      "vi": "thất vọng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, I know you're disappointed.",
+          "vi": "Ôi, mình biết con thất vọng mà."
+        },
+        {
+          "en": "Were you disappointed about the picnic?",
+          "vi": "Con có thất vọng vì buổi dã ngoại không?"
+        },
+        {
+          "en": "Tell me why you feel disappointed.",
+          "vi": "Kể mình nghe sao con thấy thất vọng."
+        },
+        {
+          "en": "It's okay to feel disappointed when plans change.",
+          "vi": "Kế hoạch thay đổi thì thấy thất vọng cũng không sao."
+        },
+        {
+          "en": "I was disappointed because it rained, but we played inside.",
+          "vi": "Con thất vọng vì trời mưa, nhưng tụi mình chơi trong nhà."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-007",
+      "en": "calm",
+      "vi": "bình tĩnh",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you stayed so calm!",
+          "vi": "Wow, con bình tĩnh giỏi ghê!"
+        },
+        {
+          "en": "What helps you feel calm?",
+          "vi": "Điều gì giúp con thấy bình tĩnh?"
+        },
+        {
+          "en": "Let's sit quietly until you feel calm.",
+          "vi": "Mình ngồi yên tới khi con bình tĩnh lại nha."
+        },
+        {
+          "en": "The ocean looks so calm today.",
+          "vi": "Hôm nay biển lặng ghê."
+        },
+        {
+          "en": "I feel calm when Grandma sings.",
+          "vi": "Con thấy bình tâm khi bà hát."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-008",
+      "en": "brave",
+      "vi": "dũng cảm",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That was so brave!",
+          "vi": "Con dũng cảm quá!"
+        },
+        {
+          "en": "Can you be brave for the shot?",
+          "vi": "Con dũng cảm lúc chích ngừa được không?"
+        },
+        {
+          "en": "Take a deep breath and be brave.",
+          "vi": "Hít thở sâu rồi dũng cảm lên nào."
+        },
+        {
+          "en": "Being brave doesn't mean you're not scared.",
+          "vi": "Dũng cảm không có nghĩa là không sợ."
+        },
+        {
+          "en": "I was brave and jumped in the pool!",
+          "vi": "Con dũng cảm nhảy xuống hồ bơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-009",
+      "en": "lonely",
+      "vi": "cô đơn, lẻ loi",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, you must feel a little lonely.",
+          "vi": "Ôi, chắc con thấy hơi lẻ loi ha."
+        },
+        {
+          "en": "Do you ever feel lonely at school?",
+          "vi": "Ở trường con có khi nào thấy lẻ loi không?"
+        },
+        {
+          "en": "If someone looks lonely, ask them to play.",
+          "vi": "Thấy bạn nào lẻ loi thì rủ bạn chơi nha."
+        },
+        {
+          "en": "Grandpa feels lonely when we don't visit.",
+          "vi": "Không ai tới thăm là ông thấy cô đơn."
+        },
+        {
+          "en": "I felt lonely when everyone was busy.",
+          "vi": "Con thấy cô đơn khi ai cũng bận."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-010",
+      "en": "grateful",
+      "vi": "biết ơn",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "I'm so grateful for you!",
+          "vi": "Mình biết ơn vì có con!"
+        },
+        {
+          "en": "What are you grateful for today?",
+          "vi": "Hôm nay con biết ơn điều gì?"
+        },
+        {
+          "en": "Let's say three things we're grateful for.",
+          "vi": "Mỗi người kể ba điều mình biết ơn nha."
+        },
+        {
+          "en": "Being grateful makes us happier.",
+          "vi": "Biết ơn làm mình hạnh phúc hơn."
+        },
+        {
+          "en": "I'm grateful for my family because they love me.",
+          "vi": "Con biết ơn gia đình vì mọi người thương con."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-011",
+      "en": "worried",
+      "vi": "lo lắng",
+      "pos": "adjective",
+      "emoji": "😟",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, you look worried.",
+          "vi": "Ồ, nhìn con có vẻ lo lắng."
+        },
+        {
+          "en": "What are you worried about?",
+          "vi": "Con đang lo chuyện gì vậy?"
+        },
+        {
+          "en": "Tell me when you're worried, and we'll figure it out.",
+          "vi": "Lo gì thì nói mình nghe, mình cùng tìm cách."
+        },
+        {
+          "en": "Grandma gets worried when we're late.",
+          "vi": "Mình về trễ là bà lo."
+        },
+        {
+          "en": "I was worried, but the test was easy!",
+          "vi": "Con lo lắm, mà bài kiểm tra dễ ợt!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-012",
+      "en": "confident",
+      "vi": "tự tin",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you sound so confident!",
+          "vi": "Wow, con nói nghe tự tin ghê!"
+        },
+        {
+          "en": "Do you feel confident riding without training wheels?",
+          "vi": "Con có tự tin chạy xe không cần bánh phụ không?"
+        },
+        {
+          "en": "Stand tall and look confident.",
+          "vi": "Đứng thẳng lên, tự tin nào."
+        },
+        {
+          "en": "Practicing makes you more confident.",
+          "vi": "Luyện tập nhiều thì sẽ tự tin hơn."
+        },
+        {
+          "en": "I feel confident because I practiced a lot.",
+          "vi": "Con thấy tự tin vì con tập nhiều rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-013",
+      "en": "relieved",
+      "vi": "nhẹ nhõm",
+      "pos": "adjective",
+      "emoji": "😌",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Phew, I'm so relieved you're okay!",
+          "vi": "Phù, mình nhẹ cả người vì con không sao!"
+        },
+        {
+          "en": "Were you relieved when you found your toy?",
+          "vi": "Tìm lại được đồ chơi con có thấy nhẹ nhõm không?"
+        },
+        {
+          "en": "Let's call Grandma, she'll be relieved we're home.",
+          "vi": "Mình gọi bà đi, biết mình về tới nhà là bà nhẹ nhõm."
+        },
+        {
+          "en": "You look relieved now that it's over.",
+          "vi": "Xong rồi nên nhìn con nhẹ nhõm hẳn."
+        },
+        {
+          "en": "I was relieved when the dog stopped barking.",
+          "vi": "Con nhẹ cả người khi con chó thôi sủa."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-014",
+      "en": "curious",
+      "vi": "tò mò",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, you're so curious today!",
+          "vi": "Ồ, hôm nay con tò mò ghê!"
+        },
+        {
+          "en": "Are you curious about what's inside?",
+          "vi": "Con có tò mò bên trong có gì không?"
+        },
+        {
+          "en": "Stay curious and keep asking questions.",
+          "vi": "Cứ tò mò và hỏi tiếp nha."
+        },
+        {
+          "en": "Cats are very curious animals.",
+          "vi": "Mèo là loài vật rất tò mò."
+        },
+        {
+          "en": "I'm curious about how planes fly.",
+          "vi": "Con tò mò không biết máy bay bay kiểu gì."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-015",
+      "en": "confused",
+      "vi": "bối rối, chưa hiểu",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hmm, you look a little confused.",
+          "vi": "Hmm, nhìn con có vẻ hơi bối rối."
+        },
+        {
+          "en": "Are you confused about the rules?",
+          "vi": "Con chưa hiểu luật chơi hả?"
+        },
+        {
+          "en": "If you're confused, just ask me.",
+          "vi": "Chưa hiểu thì cứ hỏi mình nha."
+        },
+        {
+          "en": "Big words can be confusing at first.",
+          "vi": "Mấy từ khó lúc đầu dễ làm mình bối rối."
+        },
+        {
+          "en": "I was confused, so I asked my teacher.",
+          "vi": "Con chưa hiểu nên con hỏi cô giáo."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-016",
+      "en": "annoyed",
+      "vi": "bực mình",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hmm, you sound a little annoyed.",
+          "vi": "Hmm, nghe con có vẻ hơi bực mình."
+        },
+        {
+          "en": "Is your brother annoying you?",
+          "vi": "Anh con làm con bực hả?"
+        },
+        {
+          "en": "If you're annoyed, say \"Please stop.\"",
+          "vi": "Nếu thấy bực thì nói \"Dừng lại đi.\""
+        },
+        {
+          "en": "That buzzing fly is so annoying.",
+          "vi": "Con ruồi vo ve bực mình ghê."
+        },
+        {
+          "en": "I'm annoyed because my sister keeps copying me!",
+          "vi": "Con bực vì em gái cứ bắt chước con!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-017",
+      "en": "anxious",
+      "vi": "lo âu, bồn chồn",
+      "pos": "adjective",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, you seem a bit anxious tonight.",
+          "vi": "Ồ, tối nay con có vẻ hơi bồn chồn."
+        },
+        {
+          "en": "What's making you feel anxious?",
+          "vi": "Điều gì làm con thấy lo âu vậy?"
+        },
+        {
+          "en": "When you feel anxious, try counting slow breaths.",
+          "vi": "Khi thấy lo âu, thử đếm từng hơi thở chậm nha."
+        },
+        {
+          "en": "Lots of people feel anxious before something new.",
+          "vi": "Nhiều người thấy lo âu trước việc gì mới."
+        },
+        {
+          "en": "I felt anxious before the swim test, but I passed!",
+          "vi": "Con lo lắm trước bài kiểm tra bơi, nhưng con đậu rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-018",
+      "en": "guilty",
+      "vi": "áy náy, có lỗi",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, that's a guilty face!",
+          "vi": "Ồ, nhìn mặt là biết có lỗi rồi nha!"
+        },
+        {
+          "en": "Do you feel guilty about what happened?",
+          "vi": "Con có thấy áy náy về chuyện vừa rồi không?"
+        },
+        {
+          "en": "If you feel guilty, try saying sorry.",
+          "vi": "Nếu thấy áy náy thì thử xin lỗi nha."
+        },
+        {
+          "en": "Feeling guilty means you care about others.",
+          "vi": "Thấy áy náy nghĩa là con biết nghĩ cho người khác."
+        },
+        {
+          "en": "I felt guilty, so I told Mommy the truth.",
+          "vi": "Con thấy có lỗi nên con nói thật với mẹ."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-019",
+      "en": "hopeful",
+      "vi": "hy vọng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "I'm hopeful the sun will come out!",
+          "vi": "Mình hy vọng trời sẽ nắng!"
+        },
+        {
+          "en": "Are you hopeful about winning tomorrow?",
+          "vi": "Con có hy vọng thắng ngày mai không?"
+        },
+        {
+          "en": "Stay hopeful and keep practicing.",
+          "vi": "Cứ hy vọng và tiếp tục luyện tập nha."
+        },
+        {
+          "en": "Spring always makes me feel hopeful.",
+          "vi": "Mùa xuân lúc nào cũng làm mình thấy đầy hy vọng."
+        },
+        {
+          "en": "I'm hopeful I'll lose a tooth soon!",
+          "vi": "Con hy vọng sắp được rụng răng!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-020",
+      "en": "peaceful",
+      "vi": "yên bình",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, it's so peaceful here.",
+          "vi": "Wow, ở đây yên bình ghê."
+        },
+        {
+          "en": "Isn't the lake peaceful this morning?",
+          "vi": "Sáng nay hồ yên bình quá ha?"
+        },
+        {
+          "en": "Let's have a peaceful, quiet lunch.",
+          "vi": "Mình ăn trưa thật yên bình nha."
+        },
+        {
+          "en": "The baby looks so peaceful when she sleeps.",
+          "vi": "Em bé ngủ nhìn bình yên ghê."
+        },
+        {
+          "en": "I feel peaceful when I listen to rain.",
+          "vi": "Con thấy bình yên khi nghe mưa."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-021",
+      "en": "amazed",
+      "vi": "trầm trồ, kinh ngạc",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, I'm amazed by your tower!",
+          "vi": "Wow, mình trầm trồ với cái tháp của con!"
+        },
+        {
+          "en": "Weren't you amazed by the fireworks?",
+          "vi": "Con có trầm trồ vì pháo hoa không?"
+        },
+        {
+          "en": "Look up, you'll be amazed by the stars.",
+          "vi": "Nhìn lên đi, con sẽ trầm trồ vì sao trời."
+        },
+        {
+          "en": "Grandpa was amazed at how much you've grown.",
+          "vi": "Ông kinh ngạc vì con lớn nhanh quá."
+        },
+        {
+          "en": "I was amazed when the magician pulled out a rabbit!",
+          "vi": "Con kinh ngạc khi ảo thuật gia lôi ra con thỏ!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-022",
+      "en": "impatient",
+      "vi": "sốt ruột",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, someone's getting impatient!",
+          "vi": "Ồ, có người sốt ruột rồi nè!"
+        },
+        {
+          "en": "Are you feeling impatient in this long line?",
+          "vi": "Xếp hàng dài vậy con sốt ruột hả?"
+        },
+        {
+          "en": "If you're impatient, let's count to twenty together.",
+          "vi": "Sốt ruột thì mình cùng đếm tới hai mươi nha."
+        },
+        {
+          "en": "Everyone gets impatient when they're hungry.",
+          "vi": "Ai đói cũng dễ sốt ruột hết."
+        },
+        {
+          "en": "I was impatient because the cookies took forever.",
+          "vi": "Con sốt ruột vì bánh nướng lâu quá trời."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-023",
+      "en": "overwhelmed",
+      "vi": "quá tải, thấy ngợp",
+      "pos": "adjective",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, that's a lot, you must feel overwhelmed.",
+          "vi": "Ồ, nhiều vậy chắc con thấy ngợp lắm."
+        },
+        {
+          "en": "Do you feel overwhelmed by all this homework?",
+          "vi": "Bài tập nhiều vậy con thấy ngợp hả?"
+        },
+        {
+          "en": "When you're overwhelmed, let's do one small step.",
+          "vi": "Khi thấy ngợp thì mình làm từng bước nhỏ nha."
+        },
+        {
+          "en": "Busy, loud places can make kids feel overwhelmed.",
+          "vi": "Chỗ đông và ồn có thể làm trẻ thấy ngợp."
+        },
+        {
+          "en": "I felt overwhelmed, so I took a break.",
+          "vi": "Con thấy ngợp quá nên con nghỉ một chút."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-024",
+      "en": "stressed",
+      "vi": "căng thẳng",
+      "pos": "adjective",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hmm, you seem stressed about the test.",
+          "vi": "Hmm, hình như con căng thẳng vì bài kiểm tra."
+        },
+        {
+          "en": "What's making you feel so stressed?",
+          "vi": "Điều gì làm con căng thẳng vậy?"
+        },
+        {
+          "en": "Let's go for a walk when you're stressed.",
+          "vi": "Căng thẳng thì mình đi dạo chút nha."
+        },
+        {
+          "en": "Daddy gets stressed when he's running late.",
+          "vi": "Ba hay căng thẳng khi bị trễ giờ."
+        },
+        {
+          "en": "I'm stressed because I have three projects due.",
+          "vi": "Con căng thẳng vì có ba bài phải nộp."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-025",
+      "en": "furious",
+      "vi": "giận điên lên",
+      "pos": "adjective",
+      "emoji": "😡",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you look absolutely furious!",
+          "vi": "Wow, nhìn con giận dữ ghê luôn!"
+        },
+        {
+          "en": "Why are you so furious right now?",
+          "vi": "Sao giờ con giận dữ vậy?"
+        },
+        {
+          "en": "Even when you're furious, use your words, not your hands.",
+          "vi": "Dù có giận điên lên cũng nói bằng lời, đừng dùng tay."
+        },
+        {
+          "en": "Furious means really, really angry.",
+          "vi": "Giận điên lên là giận cực kỳ luôn."
+        },
+        {
+          "en": "I was furious when someone broke my sand castle!",
+          "vi": "Con giận điên lên khi có người phá lâu đài cát của con!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-026",
+      "en": "thrilled",
+      "vi": "mừng rỡ, vui sướng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, you look thrilled!",
+          "vi": "Ồ, nhìn con mừng rỡ ghê!"
+        },
+        {
+          "en": "Aren't you thrilled about the trip?",
+          "vi": "Đi chơi xa con có mừng không?"
+        },
+        {
+          "en": "Tell Grandma, she'll be thrilled!",
+          "vi": "Kể bà nghe đi, bà sẽ mừng lắm!"
+        },
+        {
+          "en": "Your teacher was thrilled with your story.",
+          "vi": "Cô giáo rất thích câu chuyện con viết."
+        },
+        {
+          "en": "I'm thrilled we're getting a puppy!",
+          "vi": "Con mừng quá vì nhà mình sắp nuôi cún!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-027",
+      "en": "cheerful",
+      "vi": "vui vẻ, vui tươi",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a cheerful song!",
+          "vi": "Bài hát vui tươi ghê!"
+        },
+        {
+          "en": "Why are you so cheerful this morning?",
+          "vi": "Sao sáng nay con vui vẻ vậy?"
+        },
+        {
+          "en": "Let's paint the room a cheerful yellow.",
+          "vi": "Mình sơn phòng màu vàng tươi vui nha."
+        },
+        {
+          "en": "Your teacher is always so cheerful.",
+          "vi": "Cô giáo con lúc nào cũng vui vẻ."
+        },
+        {
+          "en": "I feel cheerful when the sun is out.",
+          "vi": "Trời nắng là con thấy vui vẻ."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-028",
+      "en": "homesick",
+      "vi": "nhớ nhà",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, sounds like you're homesick.",
+          "vi": "Ôi, nghe như con đang nhớ nhà ha."
+        },
+        {
+          "en": "Did you feel homesick at Grandma's?",
+          "vi": "Ở nhà bà con có nhớ nhà không?"
+        },
+        {
+          "en": "If you get homesick, you can call us anytime.",
+          "vi": "Nếu nhớ nhà thì gọi về lúc nào cũng được nha."
+        },
+        {
+          "en": "Lots of kids feel homesick at camp.",
+          "vi": "Nhiều bạn đi cắm trại cũng nhớ nhà."
+        },
+        {
+          "en": "I was homesick on my first night away.",
+          "vi": "Đêm đầu tiên xa nhà con nhớ nhà lắm."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-029",
+      "en": "heartbroken",
+      "vi": "đau lòng",
+      "pos": "adjective",
+      "emoji": "💔",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, honey, you must be heartbroken.",
+          "vi": "Ôi con, chắc con đau lòng lắm."
+        },
+        {
+          "en": "Were you heartbroken when your team lost?",
+          "vi": "Đội con thua con có đau lòng không?"
+        },
+        {
+          "en": "Give your heartbroken friend a big hug.",
+          "vi": "Ôm bạn một cái đi, bạn đang đau lòng lắm."
+        },
+        {
+          "en": "Heartbroken means very, very sad.",
+          "vi": "Đau lòng nghĩa là buồn lắm lắm."
+        },
+        {
+          "en": "I was heartbroken when my best friend moved away.",
+          "vi": "Con đau lòng lắm khi bạn thân chuyển đi."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-030",
+      "en": "left out",
+      "vi": "bị cho ra rìa",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, nobody should feel left out!",
+          "vi": "Ôi, không ai nên bị cho ra rìa hết!"
+        },
+        {
+          "en": "Did you feel left out at school today?",
+          "vi": "Hôm nay ở trường con có thấy bị bỏ rơi không?"
+        },
+        {
+          "en": "Make sure nobody gets left out of the game.",
+          "vi": "Nhớ đừng để bạn nào bị ra rìa trò chơi nha."
+        },
+        {
+          "en": "Feeling left out can really hurt.",
+          "vi": "Bị cho ra rìa thì buồn lắm."
+        },
+        {
+          "en": "I felt left out because they didn't let me play.",
+          "vi": "Con thấy bị bỏ rơi vì các bạn không cho con chơi."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-031",
+      "en": "hurt feelings",
+      "vi": "bị tổn thương",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, I can tell you have hurt feelings.",
+          "vi": "Ồ, mình biết con đang bị tổn thương."
+        },
+        {
+          "en": "Did that hurt your feelings?",
+          "vi": "Chuyện đó làm con buồn hả?"
+        },
+        {
+          "en": "If you hurt someone's feelings, say sorry.",
+          "vi": "Nếu làm bạn tổn thương thì xin lỗi nha."
+        },
+        {
+          "en": "Mean words can hurt feelings.",
+          "vi": "Lời nói xấu có thể làm người khác tổn thương."
+        },
+        {
+          "en": "My feelings were hurt when nobody picked me.",
+          "vi": "Con buồn lắm khi không ai chọn con."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-032",
+      "en": "uncomfortable",
+      "vi": "không thoải mái, khó chịu",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hmm, that chair looks uncomfortable.",
+          "vi": "Hmm, cái ghế đó nhìn ngồi khó chịu ghê."
+        },
+        {
+          "en": "Does that make you feel uncomfortable?",
+          "vi": "Chuyện đó làm con thấy không thoải mái hả?"
+        },
+        {
+          "en": "If a touch feels uncomfortable, say \"Stop!\" loudly.",
+          "vi": "Nếu bị chạm mà thấy khó chịu thì nói to \"Dừng lại!\""
+        },
+        {
+          "en": "New shoes can feel uncomfortable at first.",
+          "vi": "Giày mới lúc đầu mang có thể khó chịu."
+        },
+        {
+          "en": "I felt uncomfortable when they laughed at me.",
+          "vi": "Con thấy khó chịu khi các bạn cười con."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-033",
+      "en": "awkward",
+      "vi": "ngượng, kỳ kỳ",
+      "pos": "adjective",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ha, well, that was awkward!",
+          "vi": "Ha, vậy là hơi kỳ kỳ rồi đó!"
+        },
+        {
+          "en": "Did it feel awkward to meet new kids?",
+          "vi": "Gặp các bạn mới con có thấy ngượng không?"
+        },
+        {
+          "en": "If it feels awkward, just smile and say hi.",
+          "vi": "Nếu thấy ngượng thì cứ cười và chào thôi."
+        },
+        {
+          "en": "The first day in a new class can feel awkward.",
+          "vi": "Ngày đầu ở lớp mới có thể thấy hơi ngượng."
+        },
+        {
+          "en": "It was awkward when I waved at a stranger by mistake.",
+          "vi": "Con ngượng ghê khi lỡ vẫy tay chào nhầm người lạ."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-034",
+      "en": "empathy",
+      "vi": "sự đồng cảm",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that's real empathy!",
+          "vi": "Wow, con biết đồng cảm thật đó!"
+        },
+        {
+          "en": "What does empathy mean to you?",
+          "vi": "Với con, đồng cảm nghĩa là gì?"
+        },
+        {
+          "en": "Let's show some empathy and ask if she's okay.",
+          "vi": "Mình thể hiện sự đồng cảm, hỏi xem bạn có ổn không nha."
+        },
+        {
+          "en": "Empathy means feeling what someone else feels.",
+          "vi": "Đồng cảm là hiểu được cảm xúc của người khác."
+        },
+        {
+          "en": "I showed empathy when I helped my friend who fell.",
+          "vi": "Con biết đồng cảm khi con giúp bạn bị té."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-035",
+      "en": "miss",
+      "vi": "nhớ",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, I missed you so much!",
+          "vi": "Ôi, nhớ con quá trời!"
+        },
+        {
+          "en": "Do you miss Grandma?",
+          "vi": "Con có nhớ bà không?"
+        },
+        {
+          "en": "Let's call Daddy if you miss him.",
+          "vi": "Nhớ ba thì mình gọi ba nha."
+        },
+        {
+          "en": "Your teacher said she misses you.",
+          "vi": "Cô giáo nói cô nhớ con."
+        },
+        {
+          "en": "I'll miss my friends during summer break.",
+          "vi": "Nghỉ hè con sẽ nhớ các bạn lắm."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-036",
+      "en": "fear",
+      "vi": "nỗi sợ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you faced your fear!",
+          "vi": "Wow, con dám đối mặt với nỗi sợ rồi!"
+        },
+        {
+          "en": "What's your biggest fear?",
+          "vi": "Con sợ nhất cái gì?"
+        },
+        {
+          "en": "Let's talk about your fear of the dark.",
+          "vi": "Mình nói chuyện về nỗi sợ bóng tối của con nha."
+        },
+        {
+          "en": "Everyone has a fear of something.",
+          "vi": "Ai cũng có nỗi sợ riêng."
+        },
+        {
+          "en": "My fear went away when I tried it.",
+          "vi": "Thử rồi là nỗi sợ của con biến mất."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-037",
+      "en": "courage",
+      "vi": "lòng can đảm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that took a lot of courage!",
+          "vi": "Wow, phải can đảm lắm mới làm được vậy!"
+        },
+        {
+          "en": "Where did you find the courage?",
+          "vi": "Con lấy đâu ra can đảm vậy?"
+        },
+        {
+          "en": "Take a breath and find your courage.",
+          "vi": "Hít một hơi rồi lấy can đảm nào."
+        },
+        {
+          "en": "Courage is doing it even when you're scared.",
+          "vi": "Can đảm là dám làm dù đang sợ."
+        },
+        {
+          "en": "It took courage to raise my hand in class.",
+          "vi": "Con phải can đảm lắm mới giơ tay phát biểu."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-038",
+      "en": "joy",
+      "vi": "niềm vui",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, what a joy to see you!",
+          "vi": "Ôi, gặp con vui quá!"
+        },
+        {
+          "en": "What brings you the most joy?",
+          "vi": "Điều gì làm con vui nhất?"
+        },
+        {
+          "en": "Let's share the joy and bake cookies for the neighbors.",
+          "vi": "Mình chia sẻ niềm vui bằng cách nướng bánh tặng hàng xóm nha."
+        },
+        {
+          "en": "The baby laughed with joy.",
+          "vi": "Em bé cười khanh khách vì vui."
+        },
+        {
+          "en": "I jumped for joy when I got the present!",
+          "vi": "Con nhảy cẫng lên vì vui khi nhận quà!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-039",
+      "en": "anger",
+      "vi": "cơn giận",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, I can feel your anger!",
+          "vi": "Ồ, mình thấy con đang giận lắm!"
+        },
+        {
+          "en": "What do you do with your anger?",
+          "vi": "Khi giận con làm gì?"
+        },
+        {
+          "en": "Let's squeeze a pillow to let the anger out.",
+          "vi": "Mình bóp gối cho bớt giận nha."
+        },
+        {
+          "en": "Anger is okay, but hurting people isn't.",
+          "vi": "Giận thì được, nhưng làm đau người khác thì không."
+        },
+        {
+          "en": "My anger went away after I ran outside.",
+          "vi": "Con chạy ra ngoài rồi là hết giận."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-040",
+      "en": "sadness",
+      "vi": "nỗi buồn",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, I can see the sadness in your eyes.",
+          "vi": "Ôi, mình thấy nỗi buồn trong mắt con."
+        },
+        {
+          "en": "Where do you feel the sadness in your body?",
+          "vi": "Con thấy nỗi buồn ở chỗ nào trong người?"
+        },
+        {
+          "en": "Let's draw your sadness on paper.",
+          "vi": "Mình vẽ nỗi buồn của con ra giấy nha."
+        },
+        {
+          "en": "Sadness doesn't last forever.",
+          "vi": "Nỗi buồn không kéo dài mãi đâu."
+        },
+        {
+          "en": "My sadness got smaller when I talked to Daddy.",
+          "vi": "Nói chuyện với ba xong nỗi buồn của con nhỏ lại."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-041",
+      "en": "deep breath",
+      "vi": "hít thở sâu",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Okay, big deep breath!",
+          "vi": "Được rồi, hít thật sâu nào!"
+        },
+        {
+          "en": "Can you take a deep breath with me?",
+          "vi": "Con hít thở sâu với mình được không?"
+        },
+        {
+          "en": "Breathe in, breathe out, nice deep breaths.",
+          "vi": "Hít vào, thở ra, hít thở thật sâu nào."
+        },
+        {
+          "en": "A deep breath helps your body calm down.",
+          "vi": "Hít thở sâu giúp cơ thể bình tĩnh lại."
+        },
+        {
+          "en": "I took a deep breath before my turn.",
+          "vi": "Con hít một hơi thật sâu trước khi tới lượt."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-042",
+      "en": "give up",
+      "vi": "bỏ cuộc",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hey, don't give up now!",
+          "vi": "Nè, đừng bỏ cuộc lúc này!"
+        },
+        {
+          "en": "Do you want to give up or try again?",
+          "vi": "Con muốn bỏ cuộc hay thử lại?"
+        },
+        {
+          "en": "Let's take a break instead of giving up.",
+          "vi": "Mình nghỉ chút thay vì bỏ cuộc nha."
+        },
+        {
+          "en": "Giving up feels easier, but practice helps.",
+          "vi": "Bỏ cuộc thì thấy dễ hơn, nhưng luyện tập mới giúp được."
+        },
+        {
+          "en": "I almost gave up, but I finished the puzzle!",
+          "vi": "Con suýt bỏ cuộc, mà con ráp xong rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-043",
+      "en": "temper",
+      "vi": "cơn nóng giận",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, that's quite a temper!",
+          "vi": "Ồ, nóng tính ghê ha!"
+        },
+        {
+          "en": "What helps you when you lose your temper?",
+          "vi": "Khi nổi nóng thì cái gì giúp con bình tĩnh?"
+        },
+        {
+          "en": "Count to ten before you lose your temper.",
+          "vi": "Đếm tới mười trước khi nổi nóng nha."
+        },
+        {
+          "en": "Everyone loses their temper sometimes, even grown-ups.",
+          "vi": "Ai cũng có lúc nổi nóng, kể cả người lớn."
+        },
+        {
+          "en": "I lost my temper, so I said sorry later.",
+          "vi": "Con lỡ nổi nóng nên sau đó con xin lỗi."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-044",
+      "en": "bother",
+      "vi": "làm khó chịu, làm phiền",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, that noise really bothers me!",
+          "vi": "Ồ, tiếng ồn đó làm mình khó chịu ghê!"
+        },
+        {
+          "en": "Is something bothering you?",
+          "vi": "Có chuyện gì làm con bận tâm hả?"
+        },
+        {
+          "en": "Tell me if anyone bothers you at school.",
+          "vi": "Ở trường có ai làm phiền con thì nói mình nghe nha."
+        },
+        {
+          "en": "It bothers Grandpa when the TV is loud.",
+          "vi": "Ti vi to là ông thấy khó chịu."
+        },
+        {
+          "en": "It bothered me that I didn't finish my drawing.",
+          "vi": "Con cứ bứt rứt vì chưa vẽ xong tranh."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-045",
+      "en": "mixed feelings",
+      "vi": "cảm xúc lẫn lộn",
+      "pos": "phrase",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that's a lot of mixed feelings!",
+          "vi": "Wow, cảm xúc lẫn lộn ghê ha!"
+        },
+        {
+          "en": "Do you have mixed feelings about moving?",
+          "vi": "Chuyển nhà con thấy cảm xúc lẫn lộn hả?"
+        },
+        {
+          "en": "Let's write down your mixed feelings.",
+          "vi": "Mình viết ra những cảm xúc lẫn lộn của con nha."
+        },
+        {
+          "en": "Mixed feelings mean happy and sad at the same time.",
+          "vi": "Cảm xúc lẫn lộn là vừa vui vừa buồn cùng lúc."
+        },
+        {
+          "en": "I have mixed feelings about summer ending.",
+          "vi": "Hết hè con thấy vừa vui vừa buồn."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-046",
+      "en": "determined",
+      "vi": "quyết tâm",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you look so determined!",
+          "vi": "Wow, nhìn con quyết tâm ghê!"
+        },
+        {
+          "en": "Are you determined to finish this today?",
+          "vi": "Con quyết tâm làm xong hôm nay hả?"
+        },
+        {
+          "en": "Stay determined, you're almost there!",
+          "vi": "Quyết tâm lên, sắp xong rồi!"
+        },
+        {
+          "en": "Determined kids keep trying after they fall.",
+          "vi": "Trẻ có quyết tâm sẽ thử lại dù bị té."
+        },
+        {
+          "en": "I'm determined to ride my bike without help!",
+          "vi": "Con quyết tâm tự chạy xe đạp!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-047",
+      "en": "sensitive",
+      "vi": "nhạy cảm",
+      "pos": "adjective",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, you're such a sensitive, caring kid.",
+          "vi": "Ồ, con là đứa nhạy cảm và biết quan tâm ghê."
+        },
+        {
+          "en": "Are your ears sensitive to loud sounds?",
+          "vi": "Tai con nhạy cảm với tiếng to hả?"
+        },
+        {
+          "en": "Be gentle, your sister's feeling sensitive today.",
+          "vi": "Nhẹ nhàng nha, hôm nay em con dễ tủi thân."
+        },
+        {
+          "en": "Some people are more sensitive than others.",
+          "vi": "Có người nhạy cảm hơn người khác."
+        },
+        {
+          "en": "I'm sensitive, so loud yelling makes me cry.",
+          "vi": "Con nhạy cảm nên bị la to là con khóc."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-048",
+      "en": "moody",
+      "vi": "tính khí thất thường, khó ở",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hmm, someone's moody this morning.",
+          "vi": "Hmm, sáng nay có người khó ở nha."
+        },
+        {
+          "en": "Why are you so moody today?",
+          "vi": "Sao hôm nay con dở chứng vậy?"
+        },
+        {
+          "en": "If you're moody, try some quiet time.",
+          "vi": "Nếu thấy khó ở thì nghỉ ngơi yên lặng chút nha."
+        },
+        {
+          "en": "Being tired makes people moody.",
+          "vi": "Mệt mỏi làm người ta dễ thất thường."
+        },
+        {
+          "en": "I was moody because I didn't sleep well.",
+          "vi": "Con khó ở vì đêm qua ngủ không ngon."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-049",
+      "en": "shocked",
+      "vi": "sốc, bất ngờ",
+      "pos": "adjective",
+      "emoji": "😲",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, I'm shocked, you cleaned your whole room!",
+          "vi": "Ồ, mình sốc luôn, con dọn sạch phòng rồi!"
+        },
+        {
+          "en": "Were you shocked when you saw the surprise?",
+          "vi": "Thấy bất ngờ đó con có sốc không?"
+        },
+        {
+          "en": "Act shocked when Grandma opens the door!",
+          "vi": "Lúc bà mở cửa thì làm bộ ngạc nhiên nha!"
+        },
+        {
+          "en": "Everyone was shocked by how fast you ran.",
+          "vi": "Ai cũng sốc vì con chạy nhanh quá."
+        },
+        {
+          "en": "I was shocked when I won the prize!",
+          "vi": "Con sốc luôn khi được giải!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-050",
+      "en": "worn out",
+      "vi": "mệt lử",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, you're totally worn out!",
+          "vi": "Ồ, con mệt lử luôn rồi!"
+        },
+        {
+          "en": "Are you worn out from swimming?",
+          "vi": "Bơi xong con mệt lử hả?"
+        },
+        {
+          "en": "Let's rest, you look worn out.",
+          "vi": "Nghỉ chút đi, nhìn con mệt lử rồi."
+        },
+        {
+          "en": "Long days at the park leave us worn out.",
+          "vi": "Chơi công viên cả ngày là ai cũng mệt lử."
+        },
+        {
+          "en": "I'm worn out because we walked so far.",
+          "vi": "Con mệt lử vì đi bộ xa quá."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-051",
+      "en": "comfort",
+      "vi": "an ủi",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, thanks for comforting your sister!",
+          "vi": "Ôi, cảm ơn con đã an ủi em!"
+        },
+        {
+          "en": "How can we comfort Grandpa when he's sad?",
+          "vi": "Làm sao mình an ủi ông khi ông buồn ta?"
+        },
+        {
+          "en": "Go comfort your friend, she looks upset.",
+          "vi": "Con ra an ủi bạn đi, bạn có vẻ buồn."
+        },
+        {
+          "en": "A warm hug can be very comforting.",
+          "vi": "Một cái ôm ấm áp có thể an ủi rất nhiều."
+        },
+        {
+          "en": "I comforted my friend when she lost her toy.",
+          "vi": "Con an ủi bạn khi bạn mất đồ chơi."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-2-052",
+      "en": "relaxed",
+      "vi": "thư giãn, thư thái",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ah, you look so relaxed!",
+          "vi": "A, nhìn con thư thái ghê!"
+        },
+        {
+          "en": "Do you feel relaxed after your bath?",
+          "vi": "Tắm xong con thấy thư giãn không?"
+        },
+        {
+          "en": "Let's put on soft music and get relaxed.",
+          "vi": "Mình mở nhạc nhẹ thư giãn nha."
+        },
+        {
+          "en": "Cats look so relaxed in the sun.",
+          "vi": "Mèo nằm phơi nắng nhìn thư thả ghê."
+        },
+        {
+          "en": "I felt relaxed floating in the pool.",
+          "vi": "Con thấy thư giãn khi nổi trên hồ bơi."
+        }
+      ]
+    }
+  ]
+}

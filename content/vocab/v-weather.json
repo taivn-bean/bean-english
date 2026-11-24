@@ -1,0 +1,1683 @@
+{
+  "deckId": "v-weather",
+  "words": [
+    {
+      "id": "v-weather-001",
+      "en": "weather",
+      "vi": "thời tiết",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the weather is so nice!",
+          "vi": "Wow, thời tiết đẹp quá!"
+        },
+        {
+          "en": "What's the weather like today?",
+          "vi": "Hôm nay thời tiết sao con?"
+        },
+        {
+          "en": "Let's look outside and check the weather.",
+          "vi": "Mình nhìn ra ngoài coi thời tiết nha."
+        },
+        {
+          "en": "I love this sunny weather.",
+          "vi": "Mình thích thời tiết nắng như vầy."
+        },
+        {
+          "en": "The weather was rainy all day.",
+          "vi": "Hôm nay trời mưa cả ngày."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-002",
+      "en": "sunny",
+      "vi": "trời nắng",
+      "pos": "adjective",
+      "emoji": "☀️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, it's sunny today!",
+          "vi": "Yeah, hôm nay trời nắng!"
+        },
+        {
+          "en": "Is it sunny outside?",
+          "vi": "Ngoài trời có nắng không con?"
+        },
+        {
+          "en": "Let's play outside, it's sunny!",
+          "vi": "Trời nắng, mình ra ngoài chơi nha!"
+        },
+        {
+          "en": "It's too sunny, put on your hat.",
+          "vi": "Nắng quá, đội nón vô nha."
+        },
+        {
+          "en": "It's sunny! Can we go out?",
+          "vi": "Trời nắng! Mình đi chơi được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-003",
+      "en": "rainy",
+      "vi": "trời mưa",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oh, it's rainy today.",
+          "vi": "Ồ, hôm nay trời mưa."
+        },
+        {
+          "en": "What can we do when it's rainy?",
+          "vi": "Trời mưa mình làm gì ta?"
+        },
+        {
+          "en": "Let's read books on this rainy day.",
+          "vi": "Ngày mưa mình đọc sách nha."
+        },
+        {
+          "en": "Rainy days are cozy.",
+          "vi": "Ngày mưa ấm cúng ghê."
+        },
+        {
+          "en": "It's rainy, so we stay inside.",
+          "vi": "Trời mưa nên mình ở trong nhà."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-004",
+      "en": "cloudy",
+      "vi": "nhiều mây",
+      "pos": "adjective",
+      "emoji": "🌥️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, it's cloudy today.",
+          "vi": "Nhìn kìa, hôm nay trời nhiều mây."
+        },
+        {
+          "en": "Is it cloudy or sunny?",
+          "vi": "Trời nhiều mây hay nắng?"
+        },
+        {
+          "en": "Let's look at the cloudy sky.",
+          "vi": "Mình ngắm bầu trời nhiều mây nha."
+        },
+        {
+          "en": "It's cloudy and gray.",
+          "vi": "Trời nhiều mây, xám xịt."
+        },
+        {
+          "en": "It's cloudy. Will it rain?",
+          "vi": "Trời nhiều mây. Trời có mưa không?"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-005",
+      "en": "windy",
+      "vi": "trời gió",
+      "pos": "adjective",
+      "emoji": "🌬️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, it's so windy!",
+          "vi": "Ồ, gió quá trời!"
+        },
+        {
+          "en": "Is it windy outside?",
+          "vi": "Ngoài trời có gió không?"
+        },
+        {
+          "en": "Hold your hat, it's windy!",
+          "vi": "Giữ nón lại, gió lắm đó!"
+        },
+        {
+          "en": "It's windy, so let's fly a kite.",
+          "vi": "Trời có gió, mình đi thả diều nha."
+        },
+        {
+          "en": "It's windy! My hair is flying!",
+          "vi": "Gió quá! Tóc con bay tung hết!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-006",
+      "en": "snowy",
+      "vi": "có tuyết",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, it's snowy in the picture!",
+          "vi": "Nhìn nè, trong hình có tuyết!"
+        },
+        {
+          "en": "Have you seen a snowy day?",
+          "vi": "Con thấy ngày có tuyết bao giờ chưa?"
+        },
+        {
+          "en": "Let's draw a snowy house.",
+          "vi": "Mình vẽ ngôi nhà phủ tuyết nha."
+        },
+        {
+          "en": "Everything is white when it's snowy.",
+          "vi": "Khi có tuyết cái gì cũng trắng xóa."
+        },
+        {
+          "en": "I want a snowy day!",
+          "vi": "Con muốn có ngày tuyết rơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-007",
+      "en": "foggy",
+      "vi": "có sương mù",
+      "pos": "adjective",
+      "emoji": "🌫️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, it's really foggy this morning!",
+          "vi": "Wow, sáng nay sương mù dày quá!"
+        },
+        {
+          "en": "Can you see the trees in this foggy weather?",
+          "vi": "Sương mù vầy con có thấy mấy cái cây không?"
+        },
+        {
+          "en": "Let's drive slowly because it's foggy.",
+          "vi": "Trời sương mù nên mình chạy xe chậm nha."
+        },
+        {
+          "en": "It's so foggy that everything looks blurry.",
+          "vi": "Sương mù quá nên cái gì cũng mờ mờ."
+        },
+        {
+          "en": "It was foggy on the mountain this morning!",
+          "vi": "Sáng nay trên núi có sương mù!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-008",
+      "en": "stormy",
+      "vi": "có bão, giông",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, it's getting stormy outside!",
+          "vi": "Ồ, ngoài trời bắt đầu giông rồi!"
+        },
+        {
+          "en": "Should we play inside since it's stormy?",
+          "vi": "Trời giông vầy mình chơi trong nhà nha?"
+        },
+        {
+          "en": "Let's close the windows, it's stormy.",
+          "vi": "Mình đóng cửa sổ lại, trời giông đó."
+        },
+        {
+          "en": "The sky looks dark and stormy.",
+          "vi": "Bầu trời tối và giông gió."
+        },
+        {
+          "en": "It was stormy last night, but we were safe.",
+          "vi": "Tối qua có giông mà nhà mình vẫn an toàn."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-009",
+      "en": "rain",
+      "vi": "mưa",
+      "pos": "noun",
+      "emoji": "🌧️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, here comes the rain!",
+          "vi": "Ối, mưa tới rồi!"
+        },
+        {
+          "en": "Can you hear the rain?",
+          "vi": "Con nghe tiếng mưa không?"
+        },
+        {
+          "en": "Let's watch the rain from the window.",
+          "vi": "Mình ngắm mưa qua cửa sổ nha."
+        },
+        {
+          "en": "The rain is so loud!",
+          "vi": "Mưa to quá!"
+        },
+        {
+          "en": "Rain, rain, go away!",
+          "vi": "Mưa ơi mưa, tạnh đi mà!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-010",
+      "en": "snow",
+      "vi": "tuyết",
+      "pos": "noun",
+      "emoji": "❄️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at the snow!",
+          "vi": "Wow, nhìn tuyết kìa!"
+        },
+        {
+          "en": "Is snow cold?",
+          "vi": "Tuyết có lạnh không?"
+        },
+        {
+          "en": "Let's catch the snow!",
+          "vi": "Mình hứng tuyết nào!"
+        },
+        {
+          "en": "The snow is so white and soft.",
+          "vi": "Tuyết trắng và mềm quá."
+        },
+        {
+          "en": "I want to play in the snow!",
+          "vi": "Con muốn chơi tuyết!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-011",
+      "en": "cloud",
+      "vi": "đám mây",
+      "pos": "noun",
+      "emoji": "☁️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big fluffy cloud!",
+          "vi": "Nhìn kìa, đám mây bự xốp!"
+        },
+        {
+          "en": "What does that cloud look like?",
+          "vi": "Đám mây đó giống cái gì?"
+        },
+        {
+          "en": "Let's find shapes in the clouds.",
+          "vi": "Mình tìm hình trong mấy đám mây nha."
+        },
+        {
+          "en": "The clouds are moving slowly.",
+          "vi": "Mây đang trôi chầm chậm."
+        },
+        {
+          "en": "That cloud looks like a bunny!",
+          "vi": "Đám mây đó giống con thỏ!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-012",
+      "en": "rainbow",
+      "vi": "cầu vồng",
+      "pos": "noun",
+      "emoji": "🌈",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a rainbow!",
+          "vi": "Wow, cầu vồng!"
+        },
+        {
+          "en": "How many colors are in the rainbow?",
+          "vi": "Cầu vồng có mấy màu?"
+        },
+        {
+          "en": "Let's draw a rainbow together.",
+          "vi": "Mình cùng vẽ cầu vồng nha."
+        },
+        {
+          "en": "The rainbow is so pretty.",
+          "vi": "Cầu vồng đẹp quá."
+        },
+        {
+          "en": "I saw a rainbow after the rain!",
+          "vi": "Con thấy cầu vồng sau cơn mưa!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-013",
+      "en": "thunder",
+      "vi": "sấm",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Boom! That's thunder!",
+          "vi": "Ầm! Sấm đó!"
+        },
+        {
+          "en": "Did you hear the thunder?",
+          "vi": "Con nghe tiếng sấm không?"
+        },
+        {
+          "en": "Come cuddle, the thunder's just loud.",
+          "vi": "Lại đây ôm nè, sấm chỉ kêu to thôi.",
+          "ipa": "/kʌm ˈkʌdəl ðə ˈθʌndɚz dʒʌst laʊd/"
+        },
+        {
+          "en": "Thunder is loud, but we're safe inside.",
+          "vi": "Sấm kêu to mà mình ở trong nhà an toàn."
+        },
+        {
+          "en": "The thunder made me jump!",
+          "vi": "Tiếng sấm làm con giật mình!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-014",
+      "en": "lightning",
+      "vi": "tia chớp",
+      "pos": "noun",
+      "emoji": "⚡",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, did you see the lightning?",
+          "vi": "Ồ, con thấy tia chớp không?"
+        },
+        {
+          "en": "Where's the lightning?",
+          "vi": "Tia chớp ở đâu?"
+        },
+        {
+          "en": "Let's count after the lightning.",
+          "vi": "Có chớp thì mình đếm nha."
+        },
+        {
+          "en": "The lightning is so bright!",
+          "vi": "Tia chớp sáng quá!"
+        },
+        {
+          "en": "Lightning, then thunder!",
+          "vi": "Chớp xong rồi sấm!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-015",
+      "en": "storm",
+      "vi": "cơn bão, cơn giông",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, a storm is coming.",
+          "vi": "Ối, có giông tới rồi."
+        },
+        {
+          "en": "Are you okay during the storm?",
+          "vi": "Có giông con thấy ổn không?"
+        },
+        {
+          "en": "Let's stay inside until the storm stops.",
+          "vi": "Mình ở trong nhà đến khi hết giông nha."
+        },
+        {
+          "en": "The storm is over now.",
+          "vi": "Hết giông rồi."
+        },
+        {
+          "en": "The storm was so noisy!",
+          "vi": "Cơn giông ồn quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-016",
+      "en": "breeze",
+      "vi": "làn gió nhẹ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ahh, a nice cool breeze!",
+          "vi": "A, gió mát dễ chịu quá!"
+        },
+        {
+          "en": "Can you feel the breeze?",
+          "vi": "Con cảm thấy gió mát không?"
+        },
+        {
+          "en": "Let's sit here in the breeze.",
+          "vi": "Mình ngồi đây hóng gió nha."
+        },
+        {
+          "en": "The breeze feels so good.",
+          "vi": "Gió nhẹ dễ chịu ghê."
+        },
+        {
+          "en": "The breeze is blowing my hair!",
+          "vi": "Gió thổi tóc con bay nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-017",
+      "en": "fog",
+      "vi": "sương mù",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the fog is covering the hill!",
+          "vi": "Nhìn kìa, sương mù phủ ngọn đồi!"
+        },
+        {
+          "en": "Where did the fog come from?",
+          "vi": "Sương mù ở đâu ra vậy?"
+        },
+        {
+          "en": "Let's wait for the fog to go away.",
+          "vi": "Mình đợi sương mù tan nha."
+        },
+        {
+          "en": "The fog is like a big cloud on the ground.",
+          "vi": "Sương mù giống đám mây lớn sát mặt đất."
+        },
+        {
+          "en": "I couldn't see the road because of the fog.",
+          "vi": "Con không thấy đường vì sương mù."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-018",
+      "en": "puddle",
+      "vi": "vũng nước",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big puddle!",
+          "vi": "Nhìn kìa, vũng nước to!"
+        },
+        {
+          "en": "Want to jump in the puddle?",
+          "vi": "Con muốn nhảy vô vũng nước không?"
+        },
+        {
+          "en": "Let's walk around the puddle.",
+          "vi": "Mình đi vòng qua vũng nước nha."
+        },
+        {
+          "en": "The puddle is so muddy.",
+          "vi": "Vũng nước đục ngầu."
+        },
+        {
+          "en": "Splash! I jumped in a puddle!",
+          "vi": "Tõm! Con nhảy vô vũng nước!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-019",
+      "en": "raindrop",
+      "vi": "giọt mưa",
+      "pos": "noun",
+      "emoji": "💧",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, raindrops on the window!",
+          "vi": "Nhìn kìa, giọt mưa trên cửa kính!"
+        },
+        {
+          "en": "Can you catch a raindrop?",
+          "vi": "Con hứng được giọt mưa không?"
+        },
+        {
+          "en": "Let's count the raindrops.",
+          "vi": "Mình đếm giọt mưa nha."
+        },
+        {
+          "en": "The raindrops are racing down.",
+          "vi": "Mấy giọt mưa chạy đua xuống kìa."
+        },
+        {
+          "en": "A raindrop fell on my nose!",
+          "vi": "Giọt mưa rơi trúng mũi con!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-020",
+      "en": "snowflake",
+      "vi": "bông tuyết",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tiny snowflake!",
+          "vi": "Nhìn kìa, bông tuyết nhỏ xíu!"
+        },
+        {
+          "en": "Can you catch a snowflake?",
+          "vi": "Con bắt được bông tuyết không?"
+        },
+        {
+          "en": "Let's cut out paper snowflakes!",
+          "vi": "Mình cắt bông tuyết bằng giấy nha!"
+        },
+        {
+          "en": "Every snowflake is different.",
+          "vi": "Bông tuyết nào cũng khác nhau."
+        },
+        {
+          "en": "A snowflake landed on my hand!",
+          "vi": "Bông tuyết rơi trên tay con!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-021",
+      "en": "snowman",
+      "vi": "người tuyết",
+      "pos": "noun",
+      "emoji": "⛄",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a snowman!",
+          "vi": "Nhìn kìa, người tuyết!"
+        },
+        {
+          "en": "Do you want to build a snowman?",
+          "vi": "Con muốn đắp người tuyết không?"
+        },
+        {
+          "en": "Let's give the snowman a carrot nose.",
+          "vi": "Mình gắn mũi cà rốt cho người tuyết nha."
+        },
+        {
+          "en": "The snowman is so cute.",
+          "vi": "Người tuyết dễ thương ghê."
+        },
+        {
+          "en": "My snowman is bigger than me!",
+          "vi": "Người tuyết của con to hơn con nữa!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-022",
+      "en": "ice",
+      "vi": "nước đá",
+      "pos": "noun",
+      "emoji": "🧊",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, ice! It's so cold!",
+          "vi": "Ồ, nước đá! Lạnh quá!"
+        },
+        {
+          "en": "What happens to ice in the sun?",
+          "vi": "Nước đá để ngoài nắng thì sao?"
+        },
+        {
+          "en": "Hold the ice. How does it feel?",
+          "vi": "Cầm cục đá thử coi. Thấy sao?"
+        },
+        {
+          "en": "The ice is slippery.",
+          "vi": "Nước đá trơn trượt."
+        },
+        {
+          "en": "The ice turned into water!",
+          "vi": "Nước đá tan thành nước rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-023",
+      "en": "icicle",
+      "vi": "cột băng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's an icicle on the roof!",
+          "vi": "Nhìn kìa, có cột băng trên mái nhà!"
+        },
+        {
+          "en": "Why do icicles hang down like that?",
+          "vi": "Sao cột băng lại treo thòng xuống vậy?"
+        },
+        {
+          "en": "Let's not stand under the icicles.",
+          "vi": "Mình đừng đứng dưới mấy cột băng nha."
+        },
+        {
+          "en": "The icicle is long, pointy, and shiny.",
+          "vi": "Cột băng dài, nhọn và lấp lánh."
+        },
+        {
+          "en": "The icicles melted when the sun came out.",
+          "vi": "Mặt trời lên là cột băng tan hết."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-024",
+      "en": "drizzle",
+      "vi": "mưa phùn, mưa lâm râm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's just a little drizzle outside.",
+          "vi": "Ngoài trời chỉ mưa lâm râm thôi."
+        },
+        {
+          "en": "Do we need a raincoat for this drizzle?",
+          "vi": "Mưa lâm râm vầy có cần áo mưa không?"
+        },
+        {
+          "en": "Let's walk fast before the drizzle gets heavier.",
+          "vi": "Mình đi nhanh trước khi mưa to hơn nha."
+        },
+        {
+          "en": "A drizzle is soft, tiny rain.",
+          "vi": "Mưa phùn là mưa nhỏ, nhẹ hạt."
+        },
+        {
+          "en": "It was only a drizzle, so we kept playing.",
+          "vi": "Chỉ mưa lâm râm nên tụi con chơi tiếp."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-025",
+      "en": "pouring",
+      "vi": "mưa như trút",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, it's pouring outside!",
+          "vi": "Wow, ngoài trời mưa như trút!"
+        },
+        {
+          "en": "Is it still pouring?",
+          "vi": "Còn mưa to không con?"
+        },
+        {
+          "en": "Let's wait inside until it stops pouring.",
+          "vi": "Mình đợi trong nhà cho tới khi mưa ngớt nha."
+        },
+        {
+          "en": "It's pouring, so the street is full of water.",
+          "vi": "Mưa to quá nên đường đầy nước."
+        },
+        {
+          "en": "It was pouring when we got home from school.",
+          "vi": "Lúc đi học về trời mưa như trút."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-026",
+      "en": "warm",
+      "vi": "ấm áp",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ahh, the sun is so warm!",
+          "vi": "A, nắng ấm quá!"
+        },
+        {
+          "en": "Are you warm enough?",
+          "vi": "Con đủ ấm chưa?"
+        },
+        {
+          "en": "Let's stay warm under the blanket.",
+          "vi": "Mình đắp mền cho ấm nha."
+        },
+        {
+          "en": "It's warm and nice today.",
+          "vi": "Hôm nay trời ấm, dễ chịu."
+        },
+        {
+          "en": "My hands are warm now!",
+          "vi": "Tay con ấm rồi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-027",
+      "en": "cool",
+      "vi": "mát",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, the air is cool!",
+          "vi": "Ồ, không khí mát quá!"
+        },
+        {
+          "en": "Is it cool in the morning?",
+          "vi": "Buổi sáng trời mát không con?"
+        },
+        {
+          "en": "Let's go out when it's cool.",
+          "vi": "Trời mát rồi mình đi chơi nha."
+        },
+        {
+          "en": "It's nice and cool in here.",
+          "vi": "Trong này mát ghê."
+        },
+        {
+          "en": "The fan makes me cool!",
+          "vi": "Cái quạt làm con mát quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-028",
+      "en": "chilly",
+      "vi": "se lạnh",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, it's a little chilly tonight!",
+          "vi": "Ui, tối nay hơi se lạnh!"
+        },
+        {
+          "en": "Do you feel chilly? Want a jacket?",
+          "vi": "Con thấy lạnh không? Mặc áo khoác nha?"
+        },
+        {
+          "en": "Put on your socks, it's chilly.",
+          "vi": "Mang vớ vô đi con, trời se lạnh đó."
+        },
+        {
+          "en": "It gets chilly at night in December.",
+          "vi": "Tháng mười hai ban đêm trời se lạnh."
+        },
+        {
+          "en": "I was chilly, so I got my blanket.",
+          "vi": "Con thấy lạnh nên con lấy mền."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-029",
+      "en": "freezing",
+      "vi": "lạnh cóng",
+      "pos": "adjective",
+      "emoji": "🥶",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, the water is freezing!",
+          "vi": "Ui, nước lạnh cóng!"
+        },
+        {
+          "en": "Are your hands freezing?",
+          "vi": "Tay con lạnh cóng hả?"
+        },
+        {
+          "en": "Let's go inside, it's freezing out here.",
+          "vi": "Vô nhà thôi, ngoài này lạnh cóng."
+        },
+        {
+          "en": "It's freezing, so we need hats and gloves.",
+          "vi": "Lạnh cóng nên mình cần nón với bao tay."
+        },
+        {
+          "en": "My toes were freezing in the snow!",
+          "vi": "Ngón chân con lạnh cóng trong tuyết!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-030",
+      "en": "humid",
+      "vi": "oi bức, nồm",
+      "pos": "adjective",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's so humid today, everything feels sticky.",
+          "vi": "Hôm nay oi quá, cái gì cũng dính dính."
+        },
+        {
+          "en": "Do you notice how humid it gets before it rains?",
+          "vi": "Con có để ý trước khi mưa trời oi lắm không?"
+        },
+        {
+          "en": "Let's turn on the fan, it's really humid.",
+          "vi": "Mình bật quạt lên, trời oi quá."
+        },
+        {
+          "en": "Humid air has lots of water in it.",
+          "vi": "Không khí oi là có nhiều hơi nước."
+        },
+        {
+          "en": "It's humid, so the clothes won't dry fast.",
+          "vi": "Trời nồm nên quần áo lâu khô."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-031",
+      "en": "sunshine",
+      "vi": "ánh nắng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Hello, sunshine!",
+          "vi": "Chào ánh nắng!"
+        },
+        {
+          "en": "Do you feel the sunshine?",
+          "vi": "Con thấy nắng ấm không?"
+        },
+        {
+          "en": "Let's go play in the sunshine.",
+          "vi": "Mình ra nắng chơi nha."
+        },
+        {
+          "en": "The sunshine feels warm.",
+          "vi": "Ánh nắng ấm áp ghê."
+        },
+        {
+          "en": "You're my sunshine!",
+          "vi": "Con là ánh nắng của mình!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-032",
+      "en": "spring",
+      "vi": "mùa xuân",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, spring is here!",
+          "vi": "Yeah, mùa xuân tới rồi!"
+        },
+        {
+          "en": "What do you like about spring?",
+          "vi": "Con thích gì ở mùa xuân?"
+        },
+        {
+          "en": "Let's plant flowers this spring.",
+          "vi": "Mùa xuân này mình trồng hoa nha."
+        },
+        {
+          "en": "In spring, the trees get new leaves.",
+          "vi": "Mùa xuân cây ra lá mới."
+        },
+        {
+          "en": "Tet comes in the spring!",
+          "vi": "Tết tới vào mùa xuân đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-033",
+      "en": "summer",
+      "vi": "mùa hè",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hooray, it's summer!",
+          "vi": "Hoan hô, mùa hè rồi!"
+        },
+        {
+          "en": "What should we do this summer?",
+          "vi": "Hè này mình làm gì ta?"
+        },
+        {
+          "en": "Let's go to the beach this summer!",
+          "vi": "Hè này mình đi biển nha!"
+        },
+        {
+          "en": "Summer is hot and sunny.",
+          "vi": "Mùa hè nóng và nắng."
+        },
+        {
+          "en": "I can swim all summer!",
+          "vi": "Con được bơi cả mùa hè!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-034",
+      "en": "autumn",
+      "vi": "mùa thu",
+      "pos": "noun",
+      "emoji": "🍂",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the autumn leaves are orange!",
+          "vi": "Nhìn nè, lá mùa thu màu cam!"
+        },
+        {
+          "en": "Do you like autumn or summer better?",
+          "vi": "Con thích mùa thu hay mùa hè hơn?"
+        },
+        {
+          "en": "Let's jump in the autumn leaves!",
+          "vi": "Mình nhảy vô đống lá mùa thu nào!"
+        },
+        {
+          "en": "Autumn is cool and a little windy.",
+          "vi": "Mùa thu mát mẻ và hơi có gió."
+        },
+        {
+          "en": "In autumn, the leaves fall off the trees.",
+          "vi": "Mùa thu lá rụng khỏi cây."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-035",
+      "en": "winter",
+      "vi": "mùa đông",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, winter is so cold!",
+          "vi": "Ui, mùa đông lạnh quá!"
+        },
+        {
+          "en": "Does it snow here in winter?",
+          "vi": "Ở đây mùa đông có tuyết không?"
+        },
+        {
+          "en": "Put on your coat, it's winter.",
+          "vi": "Mặc áo khoác vô, mùa đông rồi."
+        },
+        {
+          "en": "Winter nights are long and cold.",
+          "vi": "Đêm mùa đông dài và lạnh."
+        },
+        {
+          "en": "I want to see snow this winter!",
+          "vi": "Mùa đông này con muốn coi tuyết!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-036",
+      "en": "season",
+      "vi": "mùa",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "There are four seasons in a year!",
+          "vi": "Một năm có bốn mùa đó!"
+        },
+        {
+          "en": "What's your favorite season?",
+          "vi": "Con thích mùa nào nhất?"
+        },
+        {
+          "en": "Let's name all four seasons together.",
+          "vi": "Mình cùng kể tên bốn mùa nha."
+        },
+        {
+          "en": "Each season has different weather.",
+          "vi": "Mỗi mùa có thời tiết khác nhau."
+        },
+        {
+          "en": "My favorite season is summer, because I can swim!",
+          "vi": "Con thích mùa hè nhất vì được đi bơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-037",
+      "en": "rainy season",
+      "vi": "mùa mưa",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here comes the rainy season!",
+          "vi": "Mùa mưa tới rồi!"
+        },
+        {
+          "en": "Do we need umbrellas in the rainy season?",
+          "vi": "Mùa mưa mình có cần dù không?"
+        },
+        {
+          "en": "It's the rainy season, so pack a raincoat.",
+          "vi": "Mùa mưa rồi, bỏ áo mưa vô cặp nha."
+        },
+        {
+          "en": "In the rainy season, it rains almost every afternoon.",
+          "vi": "Mùa mưa chiều nào cũng mưa."
+        },
+        {
+          "en": "I like the rainy season because of the puddles!",
+          "vi": "Con thích mùa mưa vì có vũng nước!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-038",
+      "en": "dry season",
+      "vi": "mùa khô",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's the dry season, so it's really hot.",
+          "vi": "Mùa khô nên trời nóng lắm."
+        },
+        {
+          "en": "Does it rain in the dry season?",
+          "vi": "Mùa khô có mưa không?"
+        },
+        {
+          "en": "Let's drink lots of water in the dry season.",
+          "vi": "Mùa khô mình uống nhiều nước nha."
+        },
+        {
+          "en": "The dry season is hot and sunny.",
+          "vi": "Mùa khô nóng và nắng."
+        },
+        {
+          "en": "The grass turned brown in the dry season.",
+          "vi": "Mùa khô cỏ chuyển sang màu nâu."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-039",
+      "en": "forecast",
+      "vi": "dự báo thời tiết",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the forecast says rain this afternoon.",
+          "vi": "Nhìn nè, dự báo nói chiều nay có mưa."
+        },
+        {
+          "en": "What's the forecast for our trip this weekend?",
+          "vi": "Dự báo thời tiết cho chuyến đi cuối tuần sao rồi?"
+        },
+        {
+          "en": "Let's check the forecast before we pack our bags.",
+          "vi": "Mình coi dự báo thời tiết trước khi soạn đồ nha."
+        },
+        {
+          "en": "The forecast isn't always right, so let's bring an umbrella.",
+          "vi": "Dự báo không phải lúc nào cũng đúng, nên mình mang dù theo nha."
+        },
+        {
+          "en": "The forecast said sunny, but it rained anyway!",
+          "vi": "Dự báo nói nắng mà vẫn mưa!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-040",
+      "en": "dew",
+      "vi": "giọt sương",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's dew on the grass!",
+          "vi": "Nhìn kìa, có sương đọng trên cỏ!"
+        },
+        {
+          "en": "Why is the grass wet with dew?",
+          "vi": "Sao cỏ ướt sương vậy ta?"
+        },
+        {
+          "en": "Let's touch the dew on this leaf.",
+          "vi": "Mình sờ thử giọt sương trên lá nha."
+        },
+        {
+          "en": "Dew sparkles like tiny diamonds.",
+          "vi": "Giọt sương lấp lánh như kim cương nhỏ xíu."
+        },
+        {
+          "en": "My shoes got wet from the morning dew!",
+          "vi": "Giày con ướt vì sương buổi sáng!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-041",
+      "en": "degrees",
+      "vi": "độ (nhiệt độ)",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, it's thirty-five degrees today!",
+          "vi": "Ồ, hôm nay ba mươi lăm độ!"
+        },
+        {
+          "en": "How many degrees is it outside?",
+          "vi": "Ngoài trời bao nhiêu độ vậy?"
+        },
+        {
+          "en": "Let's check how many degrees it is.",
+          "vi": "Mình coi trời bao nhiêu độ nha."
+        },
+        {
+          "en": "Water freezes at zero degrees.",
+          "vi": "Nước đóng băng ở không độ."
+        },
+        {
+          "en": "It's going to be thirty degrees tomorrow, so we'll go swimming.",
+          "vi": "Mai trời ba mươi độ, nên mình sẽ đi bơi."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-042",
+      "en": "heat",
+      "vi": "cái nóng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Phew, this heat is too much!",
+          "vi": "Phù, nóng quá trời!"
+        },
+        {
+          "en": "How do animals stay cool in the heat?",
+          "vi": "Con vật làm sao để mát trong trời nóng?"
+        },
+        {
+          "en": "Let's stay inside during the afternoon heat.",
+          "vi": "Trưa nóng mình ở trong nhà nha."
+        },
+        {
+          "en": "The heat makes me sleepy.",
+          "vi": "Trời nóng làm mình buồn ngủ."
+        },
+        {
+          "en": "The heat melted my ice cream so fast!",
+          "vi": "Trời nóng làm cây kem của con chảy nhanh quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-043",
+      "en": "frost",
+      "vi": "sương giá",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's frost on the car window!",
+          "vi": "Nhìn kìa, có sương giá trên kính xe!"
+        },
+        {
+          "en": "Do you know why frost only comes on cold nights?",
+          "vi": "Con có biết sao sương giá chỉ có vào đêm lạnh không?"
+        },
+        {
+          "en": "Let's scratch a picture in the frost with your finger.",
+          "vi": "Mình lấy ngón tay vẽ hình lên lớp sương giá nha."
+        },
+        {
+          "en": "Frost makes the grass look white and sparkly.",
+          "vi": "Sương giá làm cỏ trắng và lấp lánh."
+        },
+        {
+          "en": "We saw frost when we visited Da Lat in winter.",
+          "vi": "Nhà mình thấy sương giá khi đi Đà Lạt mùa đông."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-044",
+      "en": "snowball",
+      "vi": "quả cầu tuyết",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, I made a snowball!",
+          "vi": "Nhìn nè, mình nặn được quả cầu tuyết!"
+        },
+        {
+          "en": "Do you want to make a snowball?",
+          "vi": "Con muốn nặn quả cầu tuyết không?"
+        },
+        {
+          "en": "Let's roll a big snowball for the snowman.",
+          "vi": "Mình lăn quả cầu tuyết to làm người tuyết nha."
+        },
+        {
+          "en": "The snowball is cold and round.",
+          "vi": "Quả cầu tuyết lạnh và tròn."
+        },
+        {
+          "en": "I threw a snowball, and it went far!",
+          "vi": "Con ném quả cầu tuyết bay xa lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-045",
+      "en": "tornado",
+      "vi": "lốc xoáy",
+      "pos": "noun",
+      "emoji": "🌪️",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, this video shows how a tornado spins.",
+          "vi": "Nhìn nè, video này cho thấy lốc xoáy xoay ra sao."
+        },
+        {
+          "en": "Do you know what makes a tornado spin?",
+          "vi": "Con có biết cái gì làm lốc xoáy xoay không?"
+        },
+        {
+          "en": "Let's make a tornado in a bottle with water.",
+          "vi": "Mình làm lốc xoáy trong chai nước nha."
+        },
+        {
+          "en": "A tornado is a strong wind that spins really fast.",
+          "vi": "Lốc xoáy là gió mạnh xoay rất nhanh."
+        },
+        {
+          "en": "I learned that tornadoes are shaped like a funnel.",
+          "vi": "Con học được là lốc xoáy có hình cái phễu."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-046",
+      "en": "hail",
+      "vi": "mưa đá",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Listen, it's hail hitting the roof!",
+          "vi": "Nghe nè, mưa đá rơi trên mái nhà!"
+        },
+        {
+          "en": "Have you ever seen hail?",
+          "vi": "Con thấy mưa đá bao giờ chưa?"
+        },
+        {
+          "en": "Let's stay inside until the hail stops.",
+          "vi": "Mình ở trong nhà tới khi hết mưa đá nha."
+        },
+        {
+          "en": "Hail is little balls of ice.",
+          "vi": "Mưa đá là mấy viên nước đá nhỏ."
+        },
+        {
+          "en": "We saw hail in the yard yesterday!",
+          "vi": "Hôm qua tụi con thấy mưa đá ngoài sân!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-047",
+      "en": "melt",
+      "vi": "tan chảy",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, your ice cream is melting!",
+          "vi": "Ối, cây kem của con chảy rồi!"
+        },
+        {
+          "en": "What melts in the sun?",
+          "vi": "Cái gì tan trong nắng?"
+        },
+        {
+          "en": "Eat it fast before it melts!",
+          "vi": "Ăn nhanh trước khi nó chảy nha!"
+        },
+        {
+          "en": "The snow melts when it's warm.",
+          "vi": "Trời ấm thì tuyết tan."
+        },
+        {
+          "en": "My ice melted!",
+          "vi": "Cục đá của con tan rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-048",
+      "en": "soaked",
+      "vi": "ướt sũng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, you're soaked!",
+          "vi": "Ôi, con ướt sũng rồi!"
+        },
+        {
+          "en": "Did you get soaked in the rain?",
+          "vi": "Con bị mắc mưa ướt sũng hả?"
+        },
+        {
+          "en": "Let's change out of your soaked clothes.",
+          "vi": "Mình thay bộ đồ ướt sũng ra nha."
+        },
+        {
+          "en": "My shoes are totally soaked.",
+          "vi": "Giày mình ướt sũng hết rồi."
+        },
+        {
+          "en": "I got soaked on the way home!",
+          "vi": "Con bị ướt sũng trên đường về!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-049",
+      "en": "shiver",
+      "vi": "run (vì lạnh)",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, you're shivering!",
+          "vi": "Nhìn kìa, con đang run!"
+        },
+        {
+          "en": "Are you shivering because you're cold?",
+          "vi": "Con run là vì lạnh hả?"
+        },
+        {
+          "en": "Come here, let's warm you up so you stop shivering.",
+          "vi": "Lại đây, mình ủ ấm cho con hết run nha."
+        },
+        {
+          "en": "Shivering helps our bodies get warm.",
+          "vi": "Run giúp cơ thể mình ấm lên đó."
+        },
+        {
+          "en": "I was shivering after swimming!",
+          "vi": "Con run cầm cập sau khi bơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-weather-050",
+      "en": "flooded",
+      "vi": "ngập nước",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, the street is flooded!",
+          "vi": "Ồ, đường ngập nước rồi!"
+        },
+        {
+          "en": "Is our street flooded again?",
+          "vi": "Đường nhà mình lại ngập hả?"
+        },
+        {
+          "en": "Let's not walk through the flooded street.",
+          "vi": "Mình đừng lội qua đường ngập nha."
+        },
+        {
+          "en": "When it rains a lot, the streets get flooded.",
+          "vi": "Mưa nhiều là đường bị ngập."
+        },
+        {
+          "en": "The road was flooded, so we took the long way.",
+          "vi": "Đường bị ngập nên nhà mình đi đường vòng."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-051",
+      "en": "thunderstorm",
+      "vi": "giông bão",
+      "pos": "noun",
+      "emoji": "⛈️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, a thunderstorm is coming!",
+          "vi": "Ối, có giông tới rồi!"
+        },
+        {
+          "en": "Can you hear the thunderstorm?",
+          "vi": "Con nghe tiếng giông không?"
+        },
+        {
+          "en": "Let's turn off the TV during the thunderstorm.",
+          "vi": "Lúc có giông mình tắt TV nha."
+        },
+        {
+          "en": "A thunderstorm has rain, thunder, and lightning.",
+          "vi": "Giông bão có mưa, sấm và chớp."
+        },
+        {
+          "en": "The thunderstorm woke me up last night.",
+          "vi": "Tối qua giông làm con thức giấc."
+        }
+      ]
+    },
+    {
+      "id": "v-weather-052",
+      "en": "gloomy",
+      "vi": "u ám",
+      "pos": "adjective",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It looks so gloomy outside this morning.",
+          "vi": "Sáng nay ngoài trời u ám quá."
+        },
+        {
+          "en": "Why do you think the sky looks so gloomy?",
+          "vi": "Con nghĩ sao bầu trời lại u ám vậy?"
+        },
+        {
+          "en": "Let's turn on the lights and make it less gloomy.",
+          "vi": "Mình bật đèn lên cho bớt u ám nha."
+        },
+        {
+          "en": "Gloomy weather sometimes makes me feel a little sleepy.",
+          "vi": "Trời u ám đôi khi làm mình thấy hơi buồn ngủ."
+        },
+        {
+          "en": "Even on gloomy days, we can still have fun inside.",
+          "vi": "Ngay cả ngày u ám mình vẫn chơi vui trong nhà được."
+        }
+      ]
+    }
+  ]
+}

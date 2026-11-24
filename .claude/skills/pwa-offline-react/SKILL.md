@@ -6,7 +6,7 @@ description: Architecture and implementation guide for a full-offline React + Vi
 # Offline-first React PWA (iOS-focused)
 
 ## Stack
-- Vite + React + TypeScript, `react-router` (createBrowserRouter) — SW `navigateFallback: 'index.html'` handles deep links offline.
+- Vite + React + TypeScript, TanStack Router (file-based, autoCodeSplitting) + TanStack Query — SW `navigateFallback: 'index.html'` handles deep links offline.
 - `vite-plugin-pwa` (`registerType: 'prompt'`), Workbox `generateSW`.
 - Storage: `idb-keyval` (tiny) or Dexie if queries are needed. Zod for content validation.
 - Styling: plain CSS modules or Tailwind — no runtime CSS-in-JS, no remote fonts (self-host via `@fontsource/*`).
@@ -30,7 +30,7 @@ VitePWA({
   },
 })
 ```
-- Precache = app shell + content JSON only. Audio = immutable packs (see content-schema § Audio) the user downloads per topic via `src/lib/offline.ts` into Cache `bean-audio-v1`; playback reads cache first, then network. Show per-topic status ("Chưa tải offline" tag) and the /offline page.
+- Precache = app shell + content JSON only. Audio = immutable packs (see content-schema § Audio) the user downloads per topic via `src/features/offline/offline.ts` into Cache `bean-audio-v1`; playback reads cache first, then network. Show per-topic status ("Chưa tải offline" tag) and the /offline page.
 
 ## iOS specifics
 - In `index.html`: `<meta name="apple-mobile-web-app-capable" content="yes">`, `apple-mobile-web-app-status-bar-style`, `<link rel="apple-touch-icon" href="/apple-touch-icon.png">` (180×180, no transparency), `viewport-fit=cover` and use `env(safe-area-inset-*)`.
@@ -49,13 +49,14 @@ VitePWA({
 ## Update flow
 - `useRegisterSW` → when `needRefresh`, show a non-blocking banner "Có nội dung mới — Cập nhật". Never auto-reload mid-lesson.
 
-## Project layout
+## Project layout (feature-modular)
 ```
-src/
-  app/ (router, providers)   features/topics, features/dialogue, features/favorites, features/settings
-  content/ (json)            lib/audio.ts, lib/storage.ts, lib/content.ts (zod)
-public/audio/<id>.m4a
+src/routes/              TanStack file routes = pages (thin: compose feature UI)
+src/features/<name>/     content · audio · offline · profile · cards · backup · pwa — logic + hooks + components per feature
+src/shared/              db.ts (Dexie), settings.ts (zustand), ui/ (Layout, TopicIcon)
+src/i18n/                vi.json (bundled), en.json (lazy)
 ```
+Imports via `@/` alias; no barrel files.
 
 ## Done checklist
 - [ ] `npm run build && npm run preview` → DevTools > Application: SW active, all audio in precache

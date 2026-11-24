@@ -13,7 +13,9 @@
     "audio": "node scripts/build-content.mjs && node scripts/gen-audio.mjs && node scripts/build-content.mjs",
     "deploy": "pnpm build && wrangler deploy",
     "test:offline": "node tests/offline-smoke.mjs",
-    "audio:compact": "node scripts/build-content.mjs && node scripts/gen-audio.mjs --compact && node scripts/build-content.mjs"
+    "audio:compact": "node scripts/build-content.mjs && node scripts/gen-audio.mjs --compact && node scripts/build-content.mjs",
+    "test:push": "node tests/webpush.test.ts",
+    "worker:types": "wrangler types worker/worker-configuration.d.ts"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.108.2",
@@ -39,6 +41,7 @@
     "@vite-pwa/assets-generator": "^2.0.0",
     "@vitejs/plugin-react": "^6.1.2",
     "cmu-pronouncing-dictionary": "^3.0.0",
+    "http_ece": "^1.2.1",
     "kokoro-js": "^1.2.1",
     "oxlint": "^1.90.0",
     "playwright": "^1.65.1",

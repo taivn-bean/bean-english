@@ -62,3 +62,29 @@ export const TopicContent = z.object({
 })
 
 export const fill = (template, word) => template.replace(BLANK, word)
+
+// ── Vocabulary flash-cards: content/vocab.json (deck list) + content/vocab/<deckId>.json ──
+export const DeckMeta = TopicMeta.extend({ id: id(/^v-[a-z0-9-]+$/) })
+
+const Example = z.object({ en: z.string().min(1), vi: z.string().min(1), ipa: z.string().optional() })
+
+const Word = z.object({
+  id: id(/^v-[a-z0-9-]+-\d{3}$/), // <deckId>-NNN, never renumbered
+  en: z.string().min(1).max(40), // headword as a child hears it: "dog", "ice cream", "brush your teeth" not allowed (max 3 words)
+  vi: z.string().min(1),
+  pos: z.enum(['noun', 'verb', 'adjective', 'adverb', 'preposition', 'pronoun', 'number', 'phrase', 'other']),
+  emoji: z.string().max(16).optional(), // only when it clearly pictures the word; else the deck icon is shown
+  ages: Ages,
+  ipa: z.string().optional(),
+  examples: z.array(Example).length(5),
+}).superRefine((w, ctx) => {
+  if (w.en.split(/\s+/).length > 3) ctx.addIssue({ code: 'custom', message: `${w.id}: headword max 3 words` })
+  const seen = new Set()
+  for (const e of w.examples) {
+    const k = e.en.toLowerCase().replace(/[^a-z ]/g, '')
+    if (seen.has(k)) ctx.addIssue({ code: 'custom', message: `${w.id}: duplicate example "${e.en}"` })
+    seen.add(k)
+  }
+})
+
+export const DeckContent = z.object({ deckId: z.string(), words: z.array(Word).min(1) })

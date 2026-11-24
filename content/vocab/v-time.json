@@ -1,0 +1,1694 @@
+{
+  "deckId": "v-time",
+  "words": [
+    {
+      "id": "v-time-001",
+      "en": "time",
+      "vi": "thời gian / giờ",
+      "pos": "noun",
+      "emoji": "⏰",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Time to go!",
+          "vi": "Tới giờ đi rồi!"
+        },
+        {
+          "en": "What time is it?",
+          "vi": "Mấy giờ rồi?"
+        },
+        {
+          "en": "Let's take our time.",
+          "vi": "Mình cứ từ từ nha."
+        },
+        {
+          "en": "We had such a fun time!",
+          "vi": "Mình chơi vui ghê!"
+        },
+        {
+          "en": "Is it time for the park?",
+          "vi": "Tới giờ đi công viên chưa?"
+        }
+      ]
+    },
+    {
+      "id": "v-time-002",
+      "en": "today",
+      "vi": "hôm nay",
+      "pos": "adverb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Today is a sunny day!",
+          "vi": "Hôm nay trời nắng đẹp!"
+        },
+        {
+          "en": "What did you do today?",
+          "vi": "Hôm nay con làm gì?"
+        },
+        {
+          "en": "Let's go to the park today.",
+          "vi": "Hôm nay mình đi công viên nha."
+        },
+        {
+          "en": "Today was a really good day.",
+          "vi": "Hôm nay là một ngày vui ghê."
+        },
+        {
+          "en": "I was so brave today!",
+          "vi": "Hôm nay con dũng cảm lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-003",
+      "en": "tomorrow",
+      "vi": "ngày mai",
+      "pos": "adverb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "See you tomorrow!",
+          "vi": "Mai gặp lại nha!"
+        },
+        {
+          "en": "What do you want to do tomorrow?",
+          "vi": "Ngày mai con muốn làm gì?"
+        },
+        {
+          "en": "Let's finish it tomorrow, okay?",
+          "vi": "Mai mình làm tiếp nha."
+        },
+        {
+          "en": "Tomorrow is going to be fun.",
+          "vi": "Ngày mai sẽ vui lắm đó."
+        },
+        {
+          "en": "Can we go swimming tomorrow?",
+          "vi": "Mai mình đi bơi được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-time-004",
+      "en": "yesterday",
+      "vi": "hôm qua",
+      "pos": "adverb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, that was yesterday!",
+          "vi": "À, chuyện đó hôm qua rồi!"
+        },
+        {
+          "en": "What did you eat yesterday?",
+          "vi": "Hôm qua con ăn gì?"
+        },
+        {
+          "en": "Tell me about yesterday.",
+          "vi": "Kể mình nghe chuyện hôm qua đi."
+        },
+        {
+          "en": "Yesterday was so rainy.",
+          "vi": "Hôm qua mưa quá trời."
+        },
+        {
+          "en": "I saw Grandma yesterday!",
+          "vi": "Hôm qua con gặp bà!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-005",
+      "en": "morning",
+      "vi": "buổi sáng",
+      "pos": "noun",
+      "emoji": "🌅",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Good morning, sweetie!",
+          "vi": "Chào buổi sáng, con yêu!"
+        },
+        {
+          "en": "What do you want this morning?",
+          "vi": "Sáng nay con muốn ăn gì?"
+        },
+        {
+          "en": "Let's brush our teeth this morning.",
+          "vi": "Sáng nay mình đánh răng nha."
+        },
+        {
+          "en": "The morning is so quiet.",
+          "vi": "Buổi sáng yên tĩnh ghê."
+        },
+        {
+          "en": "I woke up early this morning!",
+          "vi": "Sáng nay con dậy sớm nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-006",
+      "en": "afternoon",
+      "vi": "buổi chiều",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Good afternoon!",
+          "vi": "Chào buổi chiều!"
+        },
+        {
+          "en": "What should we do this afternoon?",
+          "vi": "Chiều nay mình làm gì đây?"
+        },
+        {
+          "en": "Let's nap this afternoon.",
+          "vi": "Chiều nay mình ngủ trưa nha."
+        },
+        {
+          "en": "The afternoon is so hot.",
+          "vi": "Buổi chiều nóng ghê."
+        },
+        {
+          "en": "I played outside all afternoon!",
+          "vi": "Con chơi ngoài sân cả buổi chiều!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-007",
+      "en": "evening",
+      "vi": "buổi tối",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Good evening, everyone!",
+          "vi": "Chào buổi tối cả nhà!"
+        },
+        {
+          "en": "What do you want to do this evening?",
+          "vi": "Tối nay con muốn làm gì?"
+        },
+        {
+          "en": "Let's go for a walk this evening.",
+          "vi": "Tối nay mình đi dạo nha."
+        },
+        {
+          "en": "The evening is nice and cool.",
+          "vi": "Buổi tối mát mẻ dễ chịu ghê."
+        },
+        {
+          "en": "We watched a movie in the evening.",
+          "vi": "Buổi tối nhà mình coi phim."
+        }
+      ]
+    },
+    {
+      "id": "v-time-008",
+      "en": "night",
+      "vi": "ban đêm / buổi tối",
+      "pos": "noun",
+      "emoji": "🌙",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Good night, sweetie!",
+          "vi": "Ngủ ngon nha con!"
+        },
+        {
+          "en": "Is it dark at night?",
+          "vi": "Ban đêm có tối không con?"
+        },
+        {
+          "en": "Let's look at the night sky.",
+          "vi": "Mình ngắm bầu trời ban đêm nha."
+        },
+        {
+          "en": "The night is so quiet.",
+          "vi": "Ban đêm yên tĩnh ghê."
+        },
+        {
+          "en": "I heard a frog in the night!",
+          "vi": "Ban đêm con nghe tiếng ếch kêu!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-009",
+      "en": "tonight",
+      "vi": "tối nay",
+      "pos": "adverb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Pizza tonight!",
+          "vi": "Tối nay ăn pizza!"
+        },
+        {
+          "en": "Who's giving you a bath tonight?",
+          "vi": "Tối nay ai tắm cho con?"
+        },
+        {
+          "en": "Let's read two books tonight.",
+          "vi": "Tối nay mình đọc hai cuốn sách nha."
+        },
+        {
+          "en": "The moon is so big tonight!",
+          "vi": "Tối nay trăng to quá!"
+        },
+        {
+          "en": "Can Daddy put me to bed tonight?",
+          "vi": "Tối nay ba ru con ngủ được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-time-010",
+      "en": "day",
+      "vi": "ngày",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a beautiful day!",
+          "vi": "Hôm nay đẹp trời quá!"
+        },
+        {
+          "en": "How was your day?",
+          "vi": "Hôm nay của con thế nào?"
+        },
+        {
+          "en": "Have a great day at school!",
+          "vi": "Đi học vui vẻ nha con!"
+        },
+        {
+          "en": "It was a long day, huh?",
+          "vi": "Hôm nay dài ghê ha?"
+        },
+        {
+          "en": "I played all day long!",
+          "vi": "Con chơi cả ngày luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-011",
+      "en": "week",
+      "vi": "tuần",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a busy week!",
+          "vi": "Tuần này bận ghê!"
+        },
+        {
+          "en": "How many days are in a week?",
+          "vi": "Một tuần có mấy ngày?"
+        },
+        {
+          "en": "Let's plan our week together.",
+          "vi": "Mình cùng lên kế hoạch cho tuần này nha."
+        },
+        {
+          "en": "This week went by so fast.",
+          "vi": "Tuần này trôi qua nhanh quá."
+        },
+        {
+          "en": "I have a spelling test this week.",
+          "vi": "Tuần này con có bài kiểm tra chính tả."
+        }
+      ]
+    },
+    {
+      "id": "v-time-012",
+      "en": "weekend",
+      "vi": "cuối tuần",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, it's the weekend!",
+          "vi": "Yeah, cuối tuần rồi!"
+        },
+        {
+          "en": "What should we do this weekend?",
+          "vi": "Cuối tuần này mình làm gì đây?"
+        },
+        {
+          "en": "Let's go to the beach this weekend.",
+          "vi": "Cuối tuần này mình đi biển nha."
+        },
+        {
+          "en": "The weekend went by so fast.",
+          "vi": "Cuối tuần qua nhanh ghê."
+        },
+        {
+          "en": "I love weekends with you!",
+          "vi": "Con thích cuối tuần ở với ba mẹ!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-013",
+      "en": "Monday",
+      "vi": "thứ Hai",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, it's Monday again!",
+          "vi": "À, lại thứ Hai rồi!"
+        },
+        {
+          "en": "What do you have on Monday?",
+          "vi": "Thứ Hai con học gì?"
+        },
+        {
+          "en": "Let's get your bag ready for Monday.",
+          "vi": "Mình soạn cặp cho thứ Hai nha."
+        },
+        {
+          "en": "Mondays are always so busy.",
+          "vi": "Thứ Hai lúc nào cũng bận rộn."
+        },
+        {
+          "en": "I have swimming on Monday!",
+          "vi": "Thứ Hai con đi học bơi!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-014",
+      "en": "Tuesday",
+      "vi": "thứ Ba",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Today is Tuesday!",
+          "vi": "Hôm nay là thứ Ba!"
+        },
+        {
+          "en": "Is your class trip on Tuesday?",
+          "vi": "Thứ Ba lớp con đi chơi hả?"
+        },
+        {
+          "en": "Remember your library book on Tuesday.",
+          "vi": "Thứ Ba nhớ mang sách thư viện nha."
+        },
+        {
+          "en": "Tuesday is a pretty easy day.",
+          "vi": "Thứ Ba học nhẹ nhàng thôi."
+        },
+        {
+          "en": "We have art on Tuesday!",
+          "vi": "Thứ Ba tụi con có tiết vẽ!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-015",
+      "en": "Wednesday",
+      "vi": "thứ Tư",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hey, it's Wednesday!",
+          "vi": "Ê, thứ Tư rồi!"
+        },
+        {
+          "en": "What day comes after Wednesday?",
+          "vi": "Sau thứ Tư là thứ mấy?"
+        },
+        {
+          "en": "Let's call Grandma on Wednesday.",
+          "vi": "Thứ Tư mình gọi cho bà nha."
+        },
+        {
+          "en": "Wednesday is the middle of the week.",
+          "vi": "Thứ Tư là giữa tuần đó."
+        },
+        {
+          "en": "I wear my sports clothes on Wednesday.",
+          "vi": "Thứ Tư con mặc đồ thể dục."
+        }
+      ]
+    },
+    {
+      "id": "v-time-016",
+      "en": "Thursday",
+      "vi": "thứ Năm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's Thursday already!",
+          "vi": "Thứ Năm rồi đó!"
+        },
+        {
+          "en": "Do you have soccer on Thursday?",
+          "vi": "Thứ Năm con có đá banh không?"
+        },
+        {
+          "en": "Let's go to the library on Thursday.",
+          "vi": "Thứ Năm mình đi thư viện nha."
+        },
+        {
+          "en": "Thursday is almost the weekend!",
+          "vi": "Thứ Năm là gần tới cuối tuần rồi!"
+        },
+        {
+          "en": "My friend's party is on Thursday.",
+          "vi": "Tiệc của bạn con vào thứ Năm."
+        }
+      ]
+    },
+    {
+      "id": "v-time-017",
+      "en": "Friday",
+      "vi": "thứ Sáu",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, it's Friday!",
+          "vi": "Yeah, thứ Sáu rồi!"
+        },
+        {
+          "en": "What do you want to do Friday night?",
+          "vi": "Tối thứ Sáu con muốn làm gì?"
+        },
+        {
+          "en": "Let's have movie night on Friday.",
+          "vi": "Tối thứ Sáu mình coi phim nha."
+        },
+        {
+          "en": "Friday is my favorite school day.",
+          "vi": "Thứ Sáu là ngày đi học con thích nhất."
+        },
+        {
+          "en": "On Friday, we get to wear pajamas to school!",
+          "vi": "Thứ Sáu tụi con được mặc đồ ngủ tới trường!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-018",
+      "en": "Saturday",
+      "vi": "thứ Bảy",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's Saturday, no school!",
+          "vi": "Thứ Bảy rồi, không đi học!"
+        },
+        {
+          "en": "What should we do on Saturday?",
+          "vi": "Thứ Bảy mình làm gì đây?"
+        },
+        {
+          "en": "Let's sleep in on Saturday.",
+          "vi": "Thứ Bảy mình ngủ nướng nha."
+        },
+        {
+          "en": "Saturday mornings are so relaxing.",
+          "vi": "Sáng thứ Bảy thong thả ghê."
+        },
+        {
+          "en": "We went to the zoo on Saturday!",
+          "vi": "Thứ Bảy nhà mình đi sở thú!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-019",
+      "en": "Sunday",
+      "vi": "Chủ Nhật",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Happy Sunday!",
+          "vi": "Chủ Nhật vui vẻ!"
+        },
+        {
+          "en": "Are we visiting Grandma on Sunday?",
+          "vi": "Chủ Nhật mình qua thăm bà hả?"
+        },
+        {
+          "en": "Let's make pancakes on Sunday.",
+          "vi": "Chủ Nhật mình làm bánh kếp nha."
+        },
+        {
+          "en": "Sunday is our family day.",
+          "vi": "Chủ Nhật là ngày của gia đình mình."
+        },
+        {
+          "en": "I helped wash the car on Sunday.",
+          "vi": "Chủ Nhật con phụ rửa xe."
+        }
+      ]
+    },
+    {
+      "id": "v-time-020",
+      "en": "month",
+      "vi": "tháng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a whole month!",
+          "vi": "Wow, nguyên một tháng luôn!"
+        },
+        {
+          "en": "What month is your birthday?",
+          "vi": "Sinh nhật con tháng mấy?"
+        },
+        {
+          "en": "Let's count the months until summer.",
+          "vi": "Mình đếm còn mấy tháng nữa tới hè nha."
+        },
+        {
+          "en": "This month went by so quickly.",
+          "vi": "Tháng này qua nhanh ghê."
+        },
+        {
+          "en": "I lost my tooth last month!",
+          "vi": "Tháng trước con bị rụng răng!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-021",
+      "en": "year",
+      "vi": "năm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Happy New Year!",
+          "vi": "Chúc mừng năm mới!"
+        },
+        {
+          "en": "How old will you be next year?",
+          "vi": "Năm sau con mấy tuổi?"
+        },
+        {
+          "en": "Let's make a wish for this year.",
+          "vi": "Mình ước một điều cho năm nay nha."
+        },
+        {
+          "en": "You've grown so much this year!",
+          "vi": "Năm nay con lớn nhiều quá!"
+        },
+        {
+          "en": "Next year I'll be in second grade.",
+          "vi": "Năm sau con lên lớp hai."
+        }
+      ]
+    },
+    {
+      "id": "v-time-022",
+      "en": "calendar",
+      "vi": "cuốn lịch / tờ lịch",
+      "pos": "noun",
+      "emoji": "📅",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at the calendar!",
+          "vi": "Nhìn cuốn lịch nè!"
+        },
+        {
+          "en": "What day is it on the calendar?",
+          "vi": "Trên lịch hôm nay là ngày mấy?"
+        },
+        {
+          "en": "Let's mark your birthday on the calendar.",
+          "vi": "Mình đánh dấu sinh nhật con trên lịch nha."
+        },
+        {
+          "en": "Our calendar is so full this month.",
+          "vi": "Tháng này lịch nhà mình kín mít."
+        },
+        {
+          "en": "I crossed off today on the calendar!",
+          "vi": "Con gạch ngày hôm nay trên lịch rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-023",
+      "en": "clock",
+      "vi": "cái đồng hồ",
+      "pos": "noun",
+      "emoji": "🕐",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Tick tock, look at the clock!",
+          "vi": "Tíc tắc, nhìn đồng hồ nè!"
+        },
+        {
+          "en": "Where's the clock?",
+          "vi": "Cái đồng hồ đâu?"
+        },
+        {
+          "en": "Can you read the clock?",
+          "vi": "Con coi đồng hồ được không?"
+        },
+        {
+          "en": "That clock is so loud!",
+          "vi": "Cái đồng hồ đó kêu to ghê!"
+        },
+        {
+          "en": "The clock says it's lunchtime!",
+          "vi": "Đồng hồ chỉ tới giờ ăn trưa rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-024",
+      "en": "o'clock",
+      "vi": "giờ (đúng)",
+      "pos": "adverb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's eight o'clock!",
+          "vi": "Tám giờ rồi!"
+        },
+        {
+          "en": "Is it three o'clock yet?",
+          "vi": "Ba giờ chưa?"
+        },
+        {
+          "en": "Be ready by seven o'clock, okay?",
+          "vi": "Bảy giờ phải chuẩn bị xong nha."
+        },
+        {
+          "en": "School starts at eight o'clock.",
+          "vi": "Trường vô học lúc tám giờ."
+        },
+        {
+          "en": "I go to bed at nine o'clock.",
+          "vi": "Con đi ngủ lúc chín giờ."
+        }
+      ]
+    },
+    {
+      "id": "v-time-025",
+      "en": "half past",
+      "vi": "rưỡi (giờ)",
+      "pos": "phrase",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's half past six!",
+          "vi": "Sáu giờ rưỡi rồi!"
+        },
+        {
+          "en": "Is it half past four yet?",
+          "vi": "Bốn giờ rưỡi chưa?"
+        },
+        {
+          "en": "Let's leave at half past eight.",
+          "vi": "Mình đi lúc tám giờ rưỡi nha."
+        },
+        {
+          "en": "Half past seven is a good bedtime.",
+          "vi": "Bảy giờ rưỡi đi ngủ là vừa."
+        },
+        {
+          "en": "My lesson starts at half past three.",
+          "vi": "Con vô học lúc ba giờ rưỡi."
+        }
+      ]
+    },
+    {
+      "id": "v-time-026",
+      "en": "hour",
+      "vi": "tiếng / giờ đồng hồ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "One more hour!",
+          "vi": "Thêm một tiếng nữa!"
+        },
+        {
+          "en": "How many hours until we get there?",
+          "vi": "Còn mấy tiếng nữa mới tới?"
+        },
+        {
+          "en": "Let's play for one hour, then clean up.",
+          "vi": "Mình chơi một tiếng rồi dọn dẹp nha."
+        },
+        {
+          "en": "That movie was two hours long!",
+          "vi": "Phim đó dài tới hai tiếng!"
+        },
+        {
+          "en": "I played for a whole hour!",
+          "vi": "Con chơi được nguyên một tiếng luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-027",
+      "en": "minute",
+      "vi": "phút",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Just one minute!",
+          "vi": "Chờ một phút thôi!"
+        },
+        {
+          "en": "Can you wait five minutes?",
+          "vi": "Con chờ năm phút được không?"
+        },
+        {
+          "en": "Brush for two minutes, okay?",
+          "vi": "Đánh răng hai phút nha."
+        },
+        {
+          "en": "Five more minutes, then bath time.",
+          "vi": "Năm phút nữa là đi tắm nha."
+        },
+        {
+          "en": "I'll be done in a minute!",
+          "vi": "Một phút nữa con xong!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-028",
+      "en": "second",
+      "vi": "giây",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hang on a second!",
+          "vi": "Chờ xíu nha!"
+        },
+        {
+          "en": "Can you hold your breath for ten seconds?",
+          "vi": "Con nín thở được mười giây không?"
+        },
+        {
+          "en": "Wait a second, I'm coming.",
+          "vi": "Chờ một chút, mình tới liền."
+        },
+        {
+          "en": "That was so fast, just two seconds!",
+          "vi": "Nhanh ghê, có hai giây thôi!"
+        },
+        {
+          "en": "I counted to sixty seconds!",
+          "vi": "Con đếm được sáu mươi giây!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-029",
+      "en": "timer",
+      "vi": "đồng hồ hẹn giờ",
+      "pos": "noun",
+      "emoji": "⏲️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ding, there's the timer!",
+          "vi": "Reng, hết giờ rồi!"
+        },
+        {
+          "en": "Should we set a timer?",
+          "vi": "Mình hẹn giờ nha?"
+        },
+        {
+          "en": "Let's set the timer for five minutes.",
+          "vi": "Mình hẹn giờ năm phút nha."
+        },
+        {
+          "en": "The timer is almost done.",
+          "vi": "Sắp hết giờ hẹn rồi."
+        },
+        {
+          "en": "Can I press the timer?",
+          "vi": "Con bấm hẹn giờ được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-time-030",
+      "en": "noon",
+      "vi": "buổi trưa / mười hai giờ trưa",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "It's noon, lunchtime!",
+          "vi": "Trưa rồi, tới giờ ăn!"
+        },
+        {
+          "en": "Will we be home by noon?",
+          "vi": "Mình về nhà trước trưa không?"
+        },
+        {
+          "en": "Let's meet Daddy at noon.",
+          "vi": "Mười hai giờ trưa mình gặp ba nha."
+        },
+        {
+          "en": "The sun is so hot at noon.",
+          "vi": "Buổi trưa nắng gắt ghê."
+        },
+        {
+          "en": "We had a picnic at noon!",
+          "vi": "Trưa nay nhà mình đi dã ngoại!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-031",
+      "en": "midnight",
+      "vi": "nửa đêm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, it's almost midnight!",
+          "vi": "Trời, gần nửa đêm rồi!"
+        },
+        {
+          "en": "Do you know what time midnight is?",
+          "vi": "Con biết nửa đêm là mấy giờ không?"
+        },
+        {
+          "en": "Let's stay up till midnight on New Year's Eve!",
+          "vi": "Đêm giao thừa mình thức tới nửa đêm nha!"
+        },
+        {
+          "en": "Midnight is really, really late.",
+          "vi": "Nửa đêm là trễ lắm lắm luôn."
+        },
+        {
+          "en": "I stayed up till midnight once!",
+          "vi": "Có lần con thức tới nửa đêm đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-032",
+      "en": "early",
+      "vi": "sớm",
+      "pos": "adverb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're up early!",
+          "vi": "Wow, con dậy sớm ghê!"
+        },
+        {
+          "en": "Why are you up so early?",
+          "vi": "Sao con dậy sớm vậy?"
+        },
+        {
+          "en": "Let's go to bed early tonight.",
+          "vi": "Tối nay mình ngủ sớm nha."
+        },
+        {
+          "en": "It's still early, take your time.",
+          "vi": "Còn sớm mà, cứ từ từ."
+        },
+        {
+          "en": "I got to school early!",
+          "vi": "Con tới trường sớm nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-033",
+      "en": "late",
+      "vi": "trễ / muộn",
+      "pos": "adverb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, we're late!",
+          "vi": "Ôi, mình trễ rồi!"
+        },
+        {
+          "en": "Is it too late to play?",
+          "vi": "Trễ quá rồi chơi được không?"
+        },
+        {
+          "en": "Let's hurry, we're running late.",
+          "vi": "Nhanh lên con, mình sắp trễ rồi."
+        },
+        {
+          "en": "It's late, time for bed.",
+          "vi": "Khuya rồi, đi ngủ thôi."
+        },
+        {
+          "en": "I was late for school today.",
+          "vi": "Hôm nay con đi học trễ."
+        }
+      ]
+    },
+    {
+      "id": "v-time-034",
+      "en": "on time",
+      "vi": "đúng giờ",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, we made it on time!",
+          "vi": "Yeah, mình tới đúng giờ rồi!"
+        },
+        {
+          "en": "Will we get there on time?",
+          "vi": "Mình tới kịp giờ không?"
+        },
+        {
+          "en": "Let's leave now so we're on time.",
+          "vi": "Mình đi liền để tới đúng giờ nha."
+        },
+        {
+          "en": "You were on time all week, great job!",
+          "vi": "Cả tuần con đều đúng giờ, giỏi quá!"
+        },
+        {
+          "en": "I was on time for the bus!",
+          "vi": "Con kịp giờ xe buýt đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-035",
+      "en": "soon",
+      "vi": "sắp / chút nữa",
+      "pos": "adverb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Dinner's ready soon!",
+          "vi": "Sắp có cơm rồi!"
+        },
+        {
+          "en": "Is Daddy coming home soon?",
+          "vi": "Ba sắp về chưa?"
+        },
+        {
+          "en": "Let's go home soon, okay?",
+          "vi": "Chút nữa mình về nha."
+        },
+        {
+          "en": "Your birthday is coming soon!",
+          "vi": "Sắp tới sinh nhật con rồi!"
+        },
+        {
+          "en": "See you soon, Grandma!",
+          "vi": "Hẹn gặp lại bà nha!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-036",
+      "en": "now",
+      "vi": "bây giờ",
+      "pos": "adverb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Now it's your turn!",
+          "vi": "Giờ tới lượt con nè!"
+        },
+        {
+          "en": "Do you want to eat now?",
+          "vi": "Con muốn ăn bây giờ không?"
+        },
+        {
+          "en": "Come here right now, please.",
+          "vi": "Con lại đây liền đi nha."
+        },
+        {
+          "en": "You're so big now!",
+          "vi": "Giờ con lớn quá rồi!"
+        },
+        {
+          "en": "Can we go now?",
+          "vi": "Mình đi bây giờ được chưa?"
+        }
+      ]
+    },
+    {
+      "id": "v-time-037",
+      "en": "later",
+      "vi": "lát nữa / sau",
+      "pos": "adverb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "See you later!",
+          "vi": "Hẹn gặp lại nha!"
+        },
+        {
+          "en": "Can we play later?",
+          "vi": "Lát nữa mình chơi được không?"
+        },
+        {
+          "en": "Let's save it for later.",
+          "vi": "Mình để dành lát nữa nha."
+        },
+        {
+          "en": "We'll go to the park later.",
+          "vi": "Lát nữa mình đi công viên."
+        },
+        {
+          "en": "I'll do it later, okay?",
+          "vi": "Con làm sau nha?"
+        }
+      ]
+    },
+    {
+      "id": "v-time-038",
+      "en": "already",
+      "vi": "rồi / đã … rồi",
+      "pos": "adverb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're done already!",
+          "vi": "Wow, con xong rồi hả!"
+        },
+        {
+          "en": "Did you already brush your teeth?",
+          "vi": "Con đánh răng rồi hả?"
+        },
+        {
+          "en": "Already finished? Let's check it.",
+          "vi": "Xong rồi hả? Mình kiểm tra lại nha."
+        },
+        {
+          "en": "It's already dark outside.",
+          "vi": "Ngoài trời tối rồi."
+        },
+        {
+          "en": "I already did my homework!",
+          "vi": "Con làm bài tập rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-039",
+      "en": "always",
+      "vi": "luôn luôn",
+      "pos": "adverb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "I'll always love you!",
+          "vi": "Mình sẽ luôn thương con!"
+        },
+        {
+          "en": "Do you always sit there?",
+          "vi": "Con lúc nào cũng ngồi chỗ đó hả?"
+        },
+        {
+          "en": "Always hold my hand in the parking lot.",
+          "vi": "Ở bãi giữ xe phải luôn nắm tay mình nha."
+        },
+        {
+          "en": "You always make me laugh.",
+          "vi": "Con lúc nào cũng làm mình cười."
+        },
+        {
+          "en": "I always eat my veggies first!",
+          "vi": "Con lúc nào cũng ăn rau trước!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-040",
+      "en": "never",
+      "vi": "không bao giờ",
+      "pos": "adverb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Never give up!",
+          "vi": "Đừng bao giờ bỏ cuộc!"
+        },
+        {
+          "en": "Have you never tried mango?",
+          "vi": "Con chưa bao giờ ăn xoài hả?"
+        },
+        {
+          "en": "Never touch the stove, okay?",
+          "vi": "Không bao giờ được đụng vô bếp nha."
+        },
+        {
+          "en": "It's never too late to say sorry.",
+          "vi": "Xin lỗi thì không bao giờ là muộn."
+        },
+        {
+          "en": "I've never seen a real whale!",
+          "vi": "Con chưa bao giờ thấy cá voi thật!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-041",
+      "en": "sometimes",
+      "vi": "thỉnh thoảng",
+      "pos": "adverb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Sometimes it's okay to cry.",
+          "vi": "Thỉnh thoảng khóc cũng không sao."
+        },
+        {
+          "en": "Do you sometimes feel shy?",
+          "vi": "Con có khi nào thấy mắc cỡ không?"
+        },
+        {
+          "en": "Let's have ice cream sometimes, not every day.",
+          "vi": "Thỉnh thoảng mình ăn kem thôi, không phải ngày nào cũng ăn."
+        },
+        {
+          "en": "Sometimes the bus is late.",
+          "vi": "Thỉnh thoảng xe buýt tới trễ."
+        },
+        {
+          "en": "Sometimes I get scared of the dark.",
+          "vi": "Thỉnh thoảng con sợ tối."
+        }
+      ]
+    },
+    {
+      "id": "v-time-042",
+      "en": "usually",
+      "vi": "thường thường",
+      "pos": "adverb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "We usually eat at six.",
+          "vi": "Nhà mình thường ăn lúc sáu giờ."
+        },
+        {
+          "en": "What do you usually play at recess?",
+          "vi": "Giờ ra chơi con thường chơi gì?"
+        },
+        {
+          "en": "Do what you usually do before bed.",
+          "vi": "Con làm như mọi khi trước khi ngủ nha."
+        },
+        {
+          "en": "You're usually so cheerful in the morning.",
+          "vi": "Buổi sáng con thường vui vẻ lắm."
+        },
+        {
+          "en": "I usually sit next to my best friend.",
+          "vi": "Con thường ngồi cạnh bạn thân."
+        }
+      ]
+    },
+    {
+      "id": "v-time-043",
+      "en": "every day",
+      "vi": "mỗi ngày",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "We brush every day!",
+          "vi": "Ngày nào mình cũng đánh răng!"
+        },
+        {
+          "en": "Do you eat breakfast every day?",
+          "vi": "Con có ăn sáng mỗi ngày không?"
+        },
+        {
+          "en": "Let's read together every day.",
+          "vi": "Mỗi ngày mình đọc sách chung nha."
+        },
+        {
+          "en": "You're getting bigger every day.",
+          "vi": "Mỗi ngày con một lớn hơn."
+        },
+        {
+          "en": "I feed the fish every day!",
+          "vi": "Ngày nào con cũng cho cá ăn!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-044",
+      "en": "all day",
+      "vi": "cả ngày",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Rain, rain, all day!",
+          "vi": "Mưa cả ngày luôn!"
+        },
+        {
+          "en": "Did you play all day?",
+          "vi": "Con chơi cả ngày hả?"
+        },
+        {
+          "en": "Let's stay home all day.",
+          "vi": "Hôm nay mình ở nhà cả ngày nha."
+        },
+        {
+          "en": "You were so good all day!",
+          "vi": "Cả ngày con ngoan quá!"
+        },
+        {
+          "en": "I could play all day!",
+          "vi": "Con chơi cả ngày cũng được!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-045",
+      "en": "last night",
+      "vi": "tối qua",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a storm last night!",
+          "vi": "Tối qua mưa bão ghê!"
+        },
+        {
+          "en": "Did you sleep well last night?",
+          "vi": "Tối qua con ngủ ngon không?"
+        },
+        {
+          "en": "Tell me about your dream last night.",
+          "vi": "Kể mình nghe giấc mơ tối qua đi."
+        },
+        {
+          "en": "Last night was really fun.",
+          "vi": "Tối qua vui ghê."
+        },
+        {
+          "en": "I had a funny dream last night.",
+          "vi": "Tối qua con mơ một giấc mắc cười."
+        }
+      ]
+    },
+    {
+      "id": "v-time-046",
+      "en": "next week",
+      "vi": "tuần sau",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "See you next week!",
+          "vi": "Tuần sau gặp lại nha!"
+        },
+        {
+          "en": "What's happening next week?",
+          "vi": "Tuần sau có gì vậy?"
+        },
+        {
+          "en": "Let's plan a picnic for next week.",
+          "vi": "Mình lên kế hoạch đi dã ngoại tuần sau nha."
+        },
+        {
+          "en": "Next week is going to be busy.",
+          "vi": "Tuần sau sẽ bận lắm."
+        },
+        {
+          "en": "My field trip is next week!",
+          "vi": "Tuần sau con đi dã ngoại!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-047",
+      "en": "years old",
+      "vi": "tuổi",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, three years old!",
+          "vi": "Wow, ba tuổi rồi!"
+        },
+        {
+          "en": "How many years old are you?",
+          "vi": "Con mấy tuổi rồi?"
+        },
+        {
+          "en": "Hold up four fingers: four years old!",
+          "vi": "Giơ bốn ngón tay lên: bốn tuổi!"
+        },
+        {
+          "en": "You're so tall for five years old!",
+          "vi": "Năm tuổi mà con cao ghê!"
+        },
+        {
+          "en": "I'm going to be seven years old!",
+          "vi": "Con sắp bảy tuổi rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-048",
+      "en": "schedule",
+      "vi": "lịch / thời gian biểu",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's your new schedule!",
+          "vi": "Thời gian biểu mới của con nè!"
+        },
+        {
+          "en": "What's on your schedule today?",
+          "vi": "Hôm nay lịch của con có gì?"
+        },
+        {
+          "en": "Let's make a schedule for homework and play.",
+          "vi": "Mình lập thời gian biểu cho học bài và chơi nha."
+        },
+        {
+          "en": "Our schedule is really full this week.",
+          "vi": "Tuần này lịch nhà mình kín lắm."
+        },
+        {
+          "en": "I put soccer practice on my schedule.",
+          "vi": "Con ghi buổi tập đá banh vô lịch rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-time-049",
+      "en": "not yet",
+      "vi": "chưa",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Not yet, almost!",
+          "vi": "Chưa, sắp rồi!"
+        },
+        {
+          "en": "Is it ready? Not yet?",
+          "vi": "Xong chưa? Chưa hả?"
+        },
+        {
+          "en": "Wait, not yet, okay?",
+          "vi": "Chờ chút, chưa được nha."
+        },
+        {
+          "en": "It's not yet time to eat.",
+          "vi": "Chưa tới giờ ăn đâu."
+        },
+        {
+          "en": "Are we there yet? Not yet!",
+          "vi": "Tới chưa? Chưa tới!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-050",
+      "en": "once",
+      "vi": "một lần",
+      "pos": "adverb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Just once more!",
+          "vi": "Thêm một lần nữa thôi!"
+        },
+        {
+          "en": "Have you been here once before?",
+          "vi": "Con tới đây một lần rồi hả?"
+        },
+        {
+          "en": "Read it once, then try again.",
+          "vi": "Đọc một lần rồi thử lại nha."
+        },
+        {
+          "en": "We go to the beach once a year.",
+          "vi": "Mỗi năm nhà mình đi biển một lần."
+        },
+        {
+          "en": "I rode a horse once!",
+          "vi": "Có lần con được cưỡi ngựa!"
+        }
+      ]
+    },
+    {
+      "id": "v-time-051",
+      "en": "free time",
+      "vi": "thời gian rảnh",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Free time, finally!",
+          "vi": "Cuối cùng cũng rảnh rồi!"
+        },
+        {
+          "en": "What do you like doing in your free time?",
+          "vi": "Lúc rảnh con thích làm gì?"
+        },
+        {
+          "en": "Let's spend our free time outside today.",
+          "vi": "Hôm nay mình dành thời gian rảnh ra ngoài chơi nha."
+        },
+        {
+          "en": "You get free time after homework.",
+          "vi": "Làm bài xong con được chơi tự do."
+        },
+        {
+          "en": "In my free time, I like building with LEGO.",
+          "vi": "Lúc rảnh con thích lắp ráp LEGO."
+        }
+      ]
+    },
+    {
+      "id": "v-time-052",
+      "en": "future",
+      "vi": "tương lai",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a robot from the future!",
+          "vi": "Wow, người máy từ tương lai!"
+        },
+        {
+          "en": "What do you think the future will be like?",
+          "vi": "Con nghĩ tương lai sẽ như thế nào?"
+        },
+        {
+          "en": "Let's save some money for the future.",
+          "vi": "Mình để dành ít tiền cho tương lai nha."
+        },
+        {
+          "en": "The future is full of surprises.",
+          "vi": "Tương lai có nhiều điều bất ngờ lắm."
+        },
+        {
+          "en": "In the future, I'm going to fly to Mars!",
+          "vi": "Trong tương lai con sẽ bay lên sao Hỏa!"
+        }
+      ]
+    }
+  ]
+}

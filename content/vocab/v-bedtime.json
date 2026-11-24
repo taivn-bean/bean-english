@@ -1,0 +1,1699 @@
+{
+ "deckId": "v-bedtime",
+ "words": [
+  {
+   "id": "v-bedtime-001",
+   "en": "bedtime",
+   "vi": "giờ đi ngủ",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "It's bedtime, sweetie!",
+     "vi": "Tới giờ đi ngủ rồi con yêu!"
+    },
+    {
+     "en": "Is it bedtime already?",
+     "vi": "Tới giờ ngủ rồi hả?"
+    },
+    {
+     "en": "Let's get ready for bedtime.",
+     "vi": "Mình chuẩn bị đi ngủ nha."
+    },
+    {
+     "en": "Bedtime is my favorite cuddle time.",
+     "vi": "Giờ đi ngủ là lúc ôm nhau mình thích nhất."
+    },
+    {
+     "en": "Five more minutes till bedtime, please!",
+     "vi": "Cho con thêm năm phút nữa rồi ngủ nha!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-002",
+   "en": "bed",
+   "vi": "cái giường",
+   "pos": "noun",
+   "emoji": "🛏️",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Hop into bed!",
+     "vi": "Nhảy lên giường nào!"
+    },
+    {
+     "en": "Are you in bed yet?",
+     "vi": "Con lên giường chưa?"
+    },
+    {
+     "en": "Let's climb into bed.",
+     "vi": "Mình leo lên giường nha."
+    },
+    {
+     "en": "Your bed is so soft and warm.",
+     "vi": "Giường con êm và ấm ghê."
+    },
+    {
+     "en": "I want to sleep in your bed!",
+     "vi": "Con muốn ngủ giường của ba mẹ!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-003",
+   "en": "pillow",
+   "vi": "cái gối",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Here's your fluffy pillow!",
+     "vi": "Gối bông của con nè!"
+    },
+    {
+     "en": "Where did your pillow go?",
+     "vi": "Gối của con đâu mất rồi?"
+    },
+    {
+     "en": "Put your head on the pillow.",
+     "vi": "Gối đầu lên gối nào."
+    },
+    {
+     "en": "This pillow is so squishy!",
+     "vi": "Cái gối này mềm xốp ghê!"
+    },
+    {
+     "en": "My pillow fell on the floor!",
+     "vi": "Gối của con rớt xuống đất rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-004",
+   "en": "pillowcase",
+   "vi": "cái áo gối",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "ipa": "/ˈpɪloʊˌkeɪs/",
+   "examples": [
+    {
+     "en": "Look, a pillowcase with rockets!",
+     "vi": "Nhìn nè, áo gối hình tên lửa!",
+     "ipa": "/lʊk ə ˈpɪloʊˌkeɪs wɪð ˈɹɑkəts/"
+    },
+    {
+     "en": "Which pillowcase do you want tonight?",
+     "vi": "Tối nay con muốn áo gối nào?",
+     "ipa": "/wɪtʃ ˈpɪloʊˌkeɪs du ju wɑnt təˈnaɪt/"
+    },
+    {
+     "en": "Help me slide the pillow into the pillowcase.",
+     "vi": "Phụ mình nhét gối vô áo gối nha.",
+     "ipa": "/hɛlp mi slaɪd ðə ˈpɪloʊ ˈɪntu ðə ˈpɪloʊˌkeɪs/"
+    },
+    {
+     "en": "A fresh pillowcase smells so clean.",
+     "vi": "Áo gối mới giặt thơm sạch ghê.",
+     "ipa": "/ə fɹɛʃ ˈpɪloʊˌkeɪs smɛlz soʊ klin/"
+    },
+    {
+     "en": "I picked the pillowcase with the stars.",
+     "vi": "Con chọn cái áo gối có hình ngôi sao.",
+     "ipa": "/aɪ pɪkt ðə ˈpɪloʊˌkeɪs wɪð ðə stɑɹz/"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-005",
+   "en": "blanket",
+   "vi": "cái mền",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Here comes your blanket! Whoosh!",
+     "vi": "Mền tới rồi nè! Vù!"
+    },
+    {
+     "en": "Do you want your blanket?",
+     "vi": "Con muốn đắp mền hông?"
+    },
+    {
+     "en": "Let's pull up your blanket.",
+     "vi": "Mình kéo mền lên nha."
+    },
+    {
+     "en": "Your blanket is so warm.",
+     "vi": "Mền của con ấm ghê."
+    },
+    {
+     "en": "I want my soft blanket!",
+     "vi": "Con muốn cái mền mềm của con!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-006",
+   "en": "sheets",
+   "vi": "tấm ra giường",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, clean sheets tonight!",
+     "vi": "Ồ, tối nay có ra giường sạch nè!"
+    },
+    {
+     "en": "Can you help me change the sheets?",
+     "vi": "Con phụ mình thay ra giường nha?"
+    },
+    {
+     "en": "Pull the sheets tight on the corners.",
+     "vi": "Kéo ra giường căng mấy góc nha."
+    },
+    {
+     "en": "These sheets feel cool and smooth.",
+     "vi": "Ra giường này mát và mịn ghê."
+    },
+    {
+     "en": "I helped put new sheets on my bed!",
+     "vi": "Con phụ trải ra giường mới cho giường con!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-007",
+   "en": "mattress",
+   "vi": "tấm nệm",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Whoa, this mattress is bouncy!",
+     "vi": "Wow, cái nệm này nhún nhún ghê!"
+    },
+    {
+     "en": "Is your mattress comfy?",
+     "vi": "Nệm của con có êm hông?"
+    },
+    {
+     "en": "Please don't jump on the mattress.",
+     "vi": "Con đừng nhảy trên nệm nha."
+    },
+    {
+     "en": "A new mattress feels so soft.",
+     "vi": "Nệm mới êm quá trời."
+    },
+    {
+     "en": "I found my toy under the mattress!",
+     "vi": "Con tìm thấy đồ chơi dưới nệm!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-008",
+   "en": "pajamas",
+   "vi": "đồ ngủ",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Pajama time!",
+     "vi": "Tới giờ mặc đồ ngủ rồi!"
+    },
+    {
+     "en": "Which pajamas do you want?",
+     "vi": "Con muốn mặc bộ đồ ngủ nào?"
+    },
+    {
+     "en": "Put on your pajamas, please.",
+     "vi": "Mặc đồ ngủ vô nha con."
+    },
+    {
+     "en": "Your pajamas have little moons!",
+     "vi": "Đồ ngủ của con có hình mặt trăng nhỏ nè!"
+    },
+    {
+     "en": "I want my dinosaur pajamas!",
+     "vi": "Con muốn mặc đồ ngủ khủng long!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-009",
+   "en": "asleep",
+   "vi": "đang ngủ",
+   "pos": "adjective",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Shh, baby is asleep.",
+     "vi": "Suỵt, em bé đang ngủ."
+    },
+    {
+     "en": "Is Daddy asleep?",
+     "vi": "Ba ngủ rồi hả?"
+    },
+    {
+     "en": "Tiptoe! Grandma is asleep.",
+     "vi": "Đi nhón chân nha! Bà đang ngủ."
+    },
+    {
+     "en": "The puppy is fast asleep.",
+     "vi": "Chó con ngủ say rồi."
+    },
+    {
+     "en": "I was asleep in the car!",
+     "vi": "Con ngủ quên trên xe!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-010",
+   "en": "awake",
+   "vi": "còn thức",
+   "pos": "adjective",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Oh, you're awake!",
+     "vi": "Ồ, con thức rồi hả!"
+    },
+    {
+     "en": "Are you still awake?",
+     "vi": "Con còn thức hả?"
+    },
+    {
+     "en": "Lie still, even if you're awake.",
+     "vi": "Dù còn thức thì cũng nằm yên nha."
+    },
+    {
+     "en": "Your eyes are wide awake!",
+     "vi": "Mắt con mở thao láo luôn!"
+    },
+    {
+     "en": "I'm awake! Can I get up?",
+     "vi": "Con thức rồi! Con dậy được chưa?"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-011",
+   "en": "fall asleep",
+   "vi": "ngủ thiếp đi",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, Teddy fell asleep!",
+     "vi": "Nhìn nè, gấu bông ngủ thiếp đi rồi!"
+    },
+    {
+     "en": "Did you fall asleep in the car?",
+     "vi": "Con ngủ quên trên xe hả?"
+    },
+    {
+     "en": "Close your eyes and fall asleep.",
+     "vi": "Nhắm mắt lại rồi ngủ nha."
+    },
+    {
+     "en": "You fell asleep so fast!",
+     "vi": "Con ngủ nhanh ghê!"
+    },
+    {
+     "en": "I can't fall asleep.",
+     "vi": "Con ngủ hông được."
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-012",
+   "en": "nap",
+   "vi": "giấc ngủ trưa",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Nap time!",
+     "vi": "Tới giờ ngủ trưa rồi!"
+    },
+    {
+     "en": "Did you have a good nap?",
+     "vi": "Con ngủ trưa ngon hông?"
+    },
+    {
+     "en": "Let's take a little nap.",
+     "vi": "Mình ngủ trưa một chút nha."
+    },
+    {
+     "en": "Grumpy? I think you need a nap.",
+     "vi": "Quạu hả? Chắc con cần ngủ trưa rồi."
+    },
+    {
+     "en": "I don't want a nap!",
+     "vi": "Con hông muốn ngủ trưa!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-013",
+   "en": "crib",
+   "vi": "cái cũi",
+   "pos": "noun",
+   "ages": [
+    "3-5"
+   ],
+   "examples": [
+    {
+     "en": "Look, baby is in the crib!",
+     "vi": "Nhìn nè, em bé nằm trong cũi!"
+    },
+    {
+     "en": "Remember your old crib?",
+     "vi": "Con nhớ cái cũi hồi nhỏ hông?"
+    },
+    {
+     "en": "Put the baby doll in the crib.",
+     "vi": "Để búp bê em bé vô cũi nha."
+    },
+    {
+     "en": "The crib is too small now.",
+     "vi": "Cũi giờ nhỏ quá với con rồi."
+    },
+    {
+     "en": "I had a crib as a baby!",
+     "vi": "Hồi nhỏ con có cái cũi đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-014",
+   "en": "bunk bed",
+   "vi": "giường tầng",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Wow, a bunk bed!",
+     "vi": "Wow, giường tầng nè!"
+    },
+    {
+     "en": "Do you want the top bunk or the bottom bunk?",
+     "vi": "Con muốn nằm tầng trên hay tầng dưới?"
+    },
+    {
+     "en": "Use the ladder to climb the bunk bed.",
+     "vi": "Leo giường tầng thì đi bằng cái thang nha."
+    },
+    {
+     "en": "A bunk bed saves space in a small room.",
+     "vi": "Giường tầng đỡ tốn chỗ trong phòng nhỏ."
+    },
+    {
+     "en": "I want to sleep on the top bunk!",
+     "vi": "Con muốn ngủ tầng trên!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-015",
+   "en": "dream",
+   "vi": "giấc mơ, mơ",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "What a happy dream!",
+     "vi": "Giấc mơ vui ghê!"
+    },
+    {
+     "en": "What did you dream about?",
+     "vi": "Con mơ thấy gì vậy?"
+    },
+    {
+     "en": "Go dream about the beach.",
+     "vi": "Ngủ rồi mơ về biển nha."
+    },
+    {
+     "en": "Dreams can be so silly!",
+     "vi": "Giấc mơ có khi ngộ nghĩnh lắm!"
+    },
+    {
+     "en": "I had a dream about a dinosaur!",
+     "vi": "Con mơ thấy khủng long đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-016",
+   "en": "bad dream",
+   "vi": "ác mộng",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Oh, sweetie, just a bad dream.",
+     "vi": "Ôi con yêu, chỉ là mơ thôi mà."
+    },
+    {
+     "en": "Did you have a bad dream?",
+     "vi": "Con gặp ác mộng hả?"
+    },
+    {
+     "en": "Come here. Bad dreams go away.",
+     "vi": "Lại đây nè. Ác mộng đi rồi."
+    },
+    {
+     "en": "You're safe. Bad dreams aren't real.",
+     "vi": "Con an toàn mà. Ác mộng hông có thật đâu."
+    },
+    {
+     "en": "I had a bad dream. Can you stay?",
+     "vi": "Con mơ thấy ác mộng. Ở lại với con nha?"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-017",
+   "en": "night-light",
+   "vi": "đèn ngủ",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Click! Night-light on!",
+     "vi": "Tách! Bật đèn ngủ rồi!"
+    },
+    {
+     "en": "Do you want the night-light on?",
+     "vi": "Con muốn mở đèn ngủ hông?"
+    },
+    {
+     "en": "Let's turn on your night-light.",
+     "vi": "Mình bật đèn ngủ cho con nha."
+    },
+    {
+     "en": "The night-light glows like a moon.",
+     "vi": "Đèn ngủ sáng dịu như mặt trăng."
+    },
+    {
+     "en": "Please leave my night-light on!",
+     "vi": "Để đèn ngủ cho con nha!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-018",
+   "en": "bedtime story",
+   "vi": "truyện trước giờ ngủ",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Story time! One bedtime story!",
+     "vi": "Giờ kể chuyện! Một truyện trước khi ngủ nha!"
+    },
+    {
+     "en": "Which bedtime story do you want?",
+     "vi": "Con muốn nghe truyện nào trước khi ngủ?"
+    },
+    {
+     "en": "Pick one bedtime story, please.",
+     "vi": "Chọn một cuốn truyện thôi nha."
+    },
+    {
+     "en": "That was a funny bedtime story!",
+     "vi": "Truyện tối nay vui ghê!"
+    },
+    {
+     "en": "One more bedtime story, please!",
+     "vi": "Thêm một truyện nữa đi mà!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-019",
+   "en": "yawn",
+   "vi": "ngáp",
+   "pos": "verb",
+   "emoji": "🥱",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "What a big yawn!",
+     "vi": "Ngáp to quá ta!"
+    },
+    {
+     "en": "Are you yawning? Sleepy?",
+     "vi": "Con ngáp rồi hả? Buồn ngủ hả?"
+    },
+    {
+     "en": "Cover your mouth when you yawn, okay?",
+     "vi": "Ngáp thì che miệng lại nha."
+    },
+    {
+     "en": "Yawns are catching! Now I'm yawning too!",
+     "vi": "Ngáp hay lây lắm! Giờ mình cũng ngáp nè!"
+    },
+    {
+     "en": "I yawned! I'm not sleepy!",
+     "vi": "Con ngáp mà! Con hông buồn ngủ đâu!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-020",
+   "en": "snore",
+   "vi": "ngáy",
+   "pos": "verb",
+   "emoji": "😴",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Listen! Daddy is snoring!",
+     "vi": "Nghe nè! Ba đang ngáy!"
+    },
+    {
+     "en": "Who's snoring so loud?",
+     "vi": "Ai ngáy to vậy ta?"
+    },
+    {
+     "en": "Can you snore like a bear?",
+     "vi": "Con ngáy giống con gấu được hông?"
+    },
+    {
+     "en": "Grandpa snores like a tractor!",
+     "vi": "Ông ngáy như máy cày luôn!"
+    },
+    {
+     "en": "Did I snore last night?",
+     "vi": "Tối qua con có ngáy hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-021",
+   "en": "wake up",
+   "vi": "thức dậy",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Wake up, sleepy bear!",
+     "vi": "Dậy đi, gấu con buồn ngủ!"
+    },
+    {
+     "en": "Did you wake up early?",
+     "vi": "Con dậy sớm hả?"
+    },
+    {
+     "en": "Let's wake up Daddy!",
+     "vi": "Mình đi kêu ba dậy nha!"
+    },
+    {
+     "en": "You wake up so happy today!",
+     "vi": "Hôm nay con thức dậy vui ghê!"
+    },
+    {
+     "en": "I woke up before the sun!",
+     "vi": "Con dậy trước cả mặt trời!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-022",
+   "en": "alarm clock",
+   "vi": "đồng hồ báo thức",
+   "pos": "noun",
+   "emoji": "⏰",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Beep, beep! There goes the alarm clock!",
+     "vi": "Bíp bíp! Đồng hồ báo thức kêu rồi!"
+    },
+    {
+     "en": "Did you set your alarm clock?",
+     "vi": "Con đặt đồng hồ báo thức chưa?"
+    },
+    {
+     "en": "Let's set the alarm clock for seven.",
+     "vi": "Mình đặt đồng hồ báo thức lúc bảy giờ nha."
+    },
+    {
+     "en": "That alarm clock is way too loud!",
+     "vi": "Cái đồng hồ báo thức đó kêu to quá!"
+    },
+    {
+     "en": "I'll wake up before my alarm clock tomorrow.",
+     "vi": "Mai con sẽ dậy trước đồng hồ báo thức."
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-023",
+   "en": "good night",
+   "vi": "chúc ngủ ngon",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Good night, sweetheart!",
+     "vi": "Chúc con ngủ ngon nha!"
+    },
+    {
+     "en": "Did you say good night to Grandma?",
+     "vi": "Con chúc bà ngủ ngon chưa?"
+    },
+    {
+     "en": "Let's say good night to the moon.",
+     "vi": "Mình chúc mặt trăng ngủ ngon nha."
+    },
+    {
+     "en": "Good night hugs are the best.",
+     "vi": "Ôm chúc ngủ ngon là nhất luôn."
+    },
+    {
+     "en": "Good night, Mommy! Love you!",
+     "vi": "Chúc mẹ ngủ ngon! Con thương mẹ!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-024",
+   "en": "night night",
+   "vi": "ngủ ngon nha (nói với bé)",
+   "pos": "phrase",
+   "ages": [
+    "3-5"
+   ],
+   "examples": [
+    {
+     "en": "Night night, little one!",
+     "vi": "Ngủ ngon nha cục cưng!"
+    },
+    {
+     "en": "Ready for night night?",
+     "vi": "Sẵn sàng đi ngủ chưa nè?"
+    },
+    {
+     "en": "Say night night to Teddy.",
+     "vi": "Chúc gấu bông ngủ ngon đi con."
+    },
+    {
+     "en": "Night night time is cozy time.",
+     "vi": "Giờ đi ngủ là giờ ấm áp."
+    },
+    {
+     "en": "Night night, Daddy!",
+     "vi": "Ba ngủ ngon nha!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-025",
+   "en": "sweet dreams",
+   "vi": "chúc mơ đẹp",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Sweet dreams, my love!",
+     "vi": "Mơ đẹp nha con yêu!"
+    },
+    {
+     "en": "Will you have sweet dreams tonight?",
+     "vi": "Tối nay con sẽ mơ đẹp hông?"
+    },
+    {
+     "en": "Close your eyes. Sweet dreams!",
+     "vi": "Nhắm mắt lại nha. Mơ đẹp nhé!"
+    },
+    {
+     "en": "Sweet dreams come after a happy day.",
+     "vi": "Ngày vui thì tối mơ đẹp."
+    },
+    {
+     "en": "Sweet dreams to you too!",
+     "vi": "Ba mẹ cũng mơ đẹp nha!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-026",
+   "en": "sleep tight",
+   "vi": "ngủ ngon giấc",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Sleep tight, buddy!",
+     "vi": "Ngủ ngon giấc nha con!"
+    },
+    {
+     "en": "Are you going to sleep tight tonight?",
+     "vi": "Tối nay con ngủ ngon giấc nha?"
+    },
+    {
+     "en": "Snuggle in and sleep tight.",
+     "vi": "Rúc vô mền rồi ngủ ngon nha."
+    },
+    {
+     "en": "You slept tight all night!",
+     "vi": "Con ngủ ngon suốt đêm luôn!"
+    },
+    {
+     "en": "Sleep tight, Mommy!",
+     "vi": "Mẹ ngủ ngon nha!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-027",
+   "en": "goodnight kiss",
+   "vi": "nụ hôn chúc ngủ ngon",
+   "pos": "noun",
+   "emoji": "😘",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Here comes a goodnight kiss!",
+     "vi": "Hôn chúc ngủ ngon nè!"
+    },
+    {
+     "en": "Can I have a goodnight kiss?",
+     "vi": "Cho mình một nụ hôn chúc ngủ ngon nha?"
+    },
+    {
+     "en": "Give Daddy a goodnight kiss.",
+     "vi": "Hôn chúc ba ngủ ngon đi con."
+    },
+    {
+     "en": "Goodnight kisses make me so happy.",
+     "vi": "Được hôn chúc ngủ ngon vui ghê."
+    },
+    {
+     "en": "One more goodnight kiss, please!",
+     "vi": "Hôn con thêm cái nữa đi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-028",
+   "en": "lights out",
+   "vi": "tắt đèn đi ngủ",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Okay, lights out!",
+     "vi": "Rồi, tắt đèn đi ngủ nha!"
+    },
+    {
+     "en": "Ready for lights out?",
+     "vi": "Sẵn sàng tắt đèn chưa?"
+    },
+    {
+     "en": "Lights out in two minutes, okay?",
+     "vi": "Hai phút nữa tắt đèn nha?"
+    },
+    {
+     "en": "It's lights out, so no more talking.",
+     "vi": "Tắt đèn rồi, mình hông nói chuyện nữa nha."
+    },
+    {
+     "en": "Not lights out yet! One more book!",
+     "vi": "Chưa tắt đèn mà! Thêm một cuốn nữa!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-029",
+   "en": "tuck in",
+   "vi": "đắp mền cho",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Snug as a bug! All tucked in!",
+     "vi": "Đắp mền kín mít rồi nè!"
+    },
+    {
+     "en": "Can I tuck you in?",
+     "vi": "Để mình đắp mền cho con nha?"
+    },
+    {
+     "en": "Let's tuck in your teddy too.",
+     "vi": "Mình đắp mền cho gấu bông luôn nha."
+    },
+    {
+     "en": "You look so cozy tucked in.",
+     "vi": "Đắp mền vô nhìn con ấm áp ghê."
+    },
+    {
+     "en": "Tuck me in, please!",
+     "vi": "Đắp mền cho con đi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-030",
+   "en": "snuggle",
+   "vi": "rúc vào, ôm ấp",
+   "pos": "verb",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Snuggle time!",
+     "vi": "Tới giờ ôm ấp rồi!"
+    },
+    {
+     "en": "Do you want to snuggle?",
+     "vi": "Con muốn rúc vô ôm hông?"
+    },
+    {
+     "en": "Snuggle under your blanket.",
+     "vi": "Rúc vô trong mền đi con."
+    },
+    {
+     "en": "Snuggling with you is the best.",
+     "vi": "Ôm ấp con là nhất luôn.",
+     "ipa": "/ˈsnʌɡlɪŋ wɪð ju ɪz ðə bɛst/"
+    },
+    {
+     "en": "Can I snuggle with you?",
+     "vi": "Con rúc vô ôm được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-031",
+   "en": "cuddle",
+   "vi": "ôm ấp",
+   "pos": "verb",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, a big cuddle!",
+     "vi": "Ôi, ôm một cái thiệt chặt!"
+    },
+    {
+     "en": "Do you want a cuddle?",
+     "vi": "Con muốn được ôm hông?"
+    },
+    {
+     "en": "Come cuddle with me on the couch.",
+     "vi": "Lại đây ôm mình trên sofa nè."
+    },
+    {
+     "en": "You give the best cuddles.",
+     "vi": "Con ôm là ấm áp nhất luôn.",
+     "ipa": "/ju ɡɪv ðə bɛst ˈkʌdəlz/"
+    },
+    {
+     "en": "I want to cuddle!",
+     "vi": "Con muốn được ôm!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-032",
+   "en": "sleepy",
+   "vi": "buồn ngủ",
+   "pos": "adjective",
+   "emoji": "😪",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Oh, sleepy eyes!",
+     "vi": "Ôi, mắt lim dim rồi!"
+    },
+    {
+     "en": "Are you sleepy?",
+     "vi": "Con buồn ngủ hả?"
+    },
+    {
+     "en": "Sleepy? Lie down on the pillow.",
+     "vi": "Buồn ngủ hả? Nằm xuống gối nè."
+    },
+    {
+     "en": "You look so sleepy.",
+     "vi": "Nhìn con buồn ngủ quá."
+    },
+    {
+     "en": "I'm not sleepy!",
+     "vi": "Con hông buồn ngủ!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-033",
+   "en": "tired",
+   "vi": "mệt",
+   "pos": "adjective",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Phew, what a tiring day!",
+     "vi": "Phù, hôm nay mệt ghê!"
+    },
+    {
+     "en": "Are you tired?",
+     "vi": "Con mệt hả?"
+    },
+    {
+     "en": "You're tired, so let's rest in bed.",
+     "vi": "Con mệt rồi, mình lên giường nằm nghỉ nha."
+    },
+    {
+     "en": "Your legs are tired from the park.",
+     "vi": "Chân con mỏi vì chơi công viên đó."
+    },
+    {
+     "en": "I'm tired. Carry me!",
+     "vi": "Con mệt rồi. Bế con đi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-034",
+   "en": "sleepyhead",
+   "vi": "đồ ham ngủ (nói yêu)",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "ipa": "/ˈslipiˌhɛd/",
+   "examples": [
+    {
+     "en": "Good morning, sleepyhead!",
+     "vi": "Chào buổi sáng, con heo ham ngủ!",
+     "ipa": "/ɡʊd ˈmɔɹnɪŋ ˈslipiˌhɛd/"
+    },
+    {
+     "en": "Are you still in bed, sleepyhead?",
+     "vi": "Còn nằm trên giường hả, đồ ham ngủ?",
+     "ipa": "/ɑɹ ju stɪl ɪn bɛd ˈslipiˌhɛd/"
+    },
+    {
+     "en": "Up you get, sleepyhead!",
+     "vi": "Dậy thôi nào, đồ ham ngủ!",
+     "ipa": "/ʌp ju ɡɛt ˈslipiˌhɛd/"
+    },
+    {
+     "en": "My little sleepyhead looks so cozy.",
+     "vi": "Cục cưng ham ngủ nhìn ấm áp ghê.",
+     "ipa": "/maɪ ˈlɪtəl ˈslipiˌhɛd lʊks soʊ ˈkoʊzi/"
+    },
+    {
+     "en": "I'm not a sleepyhead!",
+     "vi": "Con hông có ham ngủ!",
+     "ipa": "/aɪm nɑt ə ˈslipiˌhɛd/"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-035",
+   "en": "lie down",
+   "vi": "nằm xuống",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Okay, lie down!",
+     "vi": "Rồi, nằm xuống nào!"
+    },
+    {
+     "en": "Can you lie down for me?",
+     "vi": "Con nằm xuống giùm mình nha?"
+    },
+    {
+     "en": "Lie down and close your eyes.",
+     "vi": "Nằm xuống rồi nhắm mắt lại nha."
+    },
+    {
+     "en": "It feels good to lie down.",
+     "vi": "Được nằm xuống dễ chịu ghê."
+    },
+    {
+     "en": "I want to lie down next to you.",
+     "vi": "Con muốn nằm cạnh ba mẹ."
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-036",
+   "en": "close your eyes",
+   "vi": "nhắm mắt lại",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Shh, close your eyes.",
+     "vi": "Suỵt, nhắm mắt lại nào."
+    },
+    {
+     "en": "Can you close your eyes for me?",
+     "vi": "Con nhắm mắt lại giùm mình nha?"
+    },
+    {
+     "en": "Close your eyes and breathe slowly.",
+     "vi": "Nhắm mắt rồi thở chậm thôi nha."
+    },
+    {
+     "en": "It's cozy when you close your eyes.",
+     "vi": "Nhắm mắt lại thấy ấm áp ghê."
+    },
+    {
+     "en": "I closed my eyes! Now what?",
+     "vi": "Con nhắm mắt rồi! Giờ sao nữa?"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-037",
+   "en": "stay up",
+   "vi": "thức khuya",
+   "pos": "phrase",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Wow, you stayed up so late!",
+     "vi": "Wow, con thức khuya ghê!"
+    },
+    {
+     "en": "Can I stay up for the fireworks?",
+     "vi": "Con thức coi pháo bông được hông?"
+    },
+    {
+     "en": "Don't stay up too late. School tomorrow!",
+     "vi": "Đừng thức khuya quá nha. Mai đi học đó!"
+    },
+    {
+     "en": "Staying up late makes you tired the next day.",
+     "vi": "Thức khuya thì hôm sau sẽ mệt đó."
+    },
+    {
+     "en": "On Saturday, I'm going to stay up a little later.",
+     "vi": "Thứ bảy con sẽ thức khuya hơn một chút."
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-038",
+   "en": "go to bed",
+   "vi": "đi ngủ",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Time to go to bed!",
+     "vi": "Tới giờ đi ngủ rồi!"
+    },
+    {
+     "en": "When do you go to bed?",
+     "vi": "Con đi ngủ lúc mấy giờ?"
+    },
+    {
+     "en": "Let's go to bed early, okay?",
+     "vi": "Mình đi ngủ sớm nha?"
+    },
+    {
+     "en": "Going to bed early helps you grow.",
+     "vi": "Ngủ sớm giúp con mau lớn đó."
+    },
+    {
+     "en": "I don't want to go to bed yet!",
+     "vi": "Con chưa muốn đi ngủ đâu!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-039",
+   "en": "stay in bed",
+   "vi": "nằm yên trên giường",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Good job! You stayed in bed!",
+     "vi": "Giỏi quá! Con nằm yên trên giường luôn!"
+    },
+    {
+     "en": "Can you stay in bed for me?",
+     "vi": "Con nằm yên trên giường giùm mình nha?"
+    },
+    {
+     "en": "Stay in bed till morning, okay?",
+     "vi": "Nằm trên giường tới sáng nha?"
+    },
+    {
+     "en": "Staying in bed helps your body rest.",
+     "vi": "Nằm yên trên giường giúp cơ thể nghỉ ngơi."
+    },
+    {
+     "en": "I stayed in bed all night!",
+     "vi": "Con nằm yên trên giường suốt đêm đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-040",
+   "en": "covers",
+   "vi": "mền (đắp)",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Peekaboo! Under the covers!",
+     "vi": "Ú òa! Trốn dưới mền nè!",
+     "ipa": "/ˈpikəˌbu ˈʌndɚ ðə ˈkʌvɚz/"
+    },
+    {
+     "en": "Are you hiding under the covers?",
+     "vi": "Con trốn dưới mền hả?"
+    },
+    {
+     "en": "Pull the covers up to your chin.",
+     "vi": "Kéo mền lên tới cằm nha."
+    },
+    {
+     "en": "It's warm under the covers.",
+     "vi": "Dưới mền ấm ghê."
+    },
+    {
+     "en": "I kicked off my covers!",
+     "vi": "Con đạp mền ra rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-041",
+   "en": "nightstand",
+   "vi": "cái tủ đầu giường",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Look, your water is on the nightstand.",
+     "vi": "Nhìn nè, ly nước để trên tủ đầu giường."
+    },
+    {
+     "en": "Is your book on the nightstand?",
+     "vi": "Sách của con để trên tủ đầu giường hả?"
+    },
+    {
+     "en": "Put your glasses on the nightstand, please.",
+     "vi": "Để mắt kính lên tủ đầu giường nha."
+    },
+    {
+     "en": "The nightstand is a good spot for the lamp.",
+     "vi": "Để đèn trên tủ đầu giường là hợp nhất."
+    },
+    {
+     "en": "I keep my favorite rock on my nightstand.",
+     "vi": "Con để cục đá con thích trên tủ đầu giường."
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-042",
+   "en": "make the bed",
+   "vi": "dọn giường",
+   "pos": "phrase",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Wow, you made the bed!",
+     "vi": "Wow, con dọn giường rồi!"
+    },
+    {
+     "en": "Did you make the bed this morning?",
+     "vi": "Sáng nay con dọn giường chưa?"
+    },
+    {
+     "en": "Let's make the bed together. You grab that side.",
+     "vi": "Mình cùng dọn giường nha. Con nắm bên kia."
+    },
+    {
+     "en": "A neat bed makes the room look nice.",
+     "vi": "Giường gọn gàng nhìn căn phòng đẹp hẳn."
+    },
+    {
+     "en": "I made my bed all by myself today!",
+     "vi": "Hôm nay con tự dọn giường một mình đó!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-043",
+   "en": "pillow fight",
+   "vi": "đánh gối",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Pillow fight! Gotcha!",
+     "vi": "Đánh gối nè! Trúng rồi!"
+    },
+    {
+     "en": "Do you want a pillow fight?",
+     "vi": "Con muốn chơi đánh gối hông?"
+    },
+    {
+     "en": "Gentle pillow fight, okay? No faces.",
+     "vi": "Đánh gối nhẹ thôi nha? Đừng đánh vô mặt."
+    },
+    {
+     "en": "That pillow fight was so much fun!",
+     "vi": "Đánh gối vui quá trời!"
+    },
+    {
+     "en": "I won the pillow fight!",
+     "vi": "Con thắng trận đánh gối rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-044",
+   "en": "blanket fort",
+   "vi": "lều bằng mền",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Look, a blanket fort!",
+     "vi": "Nhìn nè, cái lều bằng mền!"
+    },
+    {
+     "en": "Can I come in your blanket fort?",
+     "vi": "Cho mình vô lều của con được hông?"
+    },
+    {
+     "en": "Let's build a blanket fort!",
+     "vi": "Mình dựng lều bằng mền nha!"
+    },
+    {
+     "en": "The blanket fort is so cozy.",
+     "vi": "Trong lều mền ấm áp ghê."
+    },
+    {
+     "en": "Can I sleep in my blanket fort?",
+     "vi": "Con ngủ trong lều mền được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-045",
+   "en": "rise and shine",
+   "vi": "dậy thôi nào",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Rise and shine, sweetie!",
+     "vi": "Dậy thôi nào con yêu!"
+    },
+    {
+     "en": "Ready to rise and shine?",
+     "vi": "Sẵn sàng thức dậy chưa nè?"
+    },
+    {
+     "en": "Rise and shine! Open the curtains!",
+     "vi": "Dậy thôi! Kéo rèm ra nào!"
+    },
+    {
+     "en": "Rise and shine! The sun is up!",
+     "vi": "Dậy đi nè! Mặt trời lên rồi!"
+    },
+    {
+     "en": "Rise and shine, Daddy!",
+     "vi": "Ba ơi, dậy thôi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-046",
+   "en": "bedtime routine",
+   "vi": "thói quen trước khi ngủ",
+   "pos": "noun",
+   "ages": [
+    "5-7",
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Okay, bedtime routine starts now!",
+     "vi": "Rồi, bắt đầu các việc trước khi ngủ nha!"
+    },
+    {
+     "en": "What's the next step in your bedtime routine?",
+     "vi": "Việc tiếp theo trước khi ngủ là gì nè?"
+    },
+    {
+     "en": "Let's do our bedtime routine: bath, teeth, book.",
+     "vi": "Mình làm theo thứ tự nha: tắm, đánh răng, đọc sách."
+    },
+    {
+     "en": "A bedtime routine helps your body get sleepy.",
+     "vi": "Làm đều đặn trước khi ngủ giúp con dễ buồn ngủ."
+    },
+    {
+     "en": "I did my whole bedtime routine without help!",
+     "vi": "Con tự làm hết các việc trước khi ngủ mà hông cần ai giúp!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-047",
+   "en": "quiet time",
+   "vi": "giờ yên tĩnh",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Shh, quiet time!",
+     "vi": "Suỵt, giờ yên tĩnh nè!"
+    },
+    {
+     "en": "Is it quiet time now?",
+     "vi": "Giờ là giờ yên tĩnh hả?"
+    },
+    {
+     "en": "During quiet time, look at a book.",
+     "vi": "Giờ yên tĩnh thì con xem sách nha."
+    },
+    {
+     "en": "Quiet time helps your body rest.",
+     "vi": "Giờ yên tĩnh giúp cơ thể nghỉ ngơi."
+    },
+    {
+     "en": "Can I color during quiet time?",
+     "vi": "Giờ yên tĩnh con tô màu được hông?"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-048",
+   "en": "cozy",
+   "vi": "ấm áp, dễ chịu",
+   "pos": "adjective",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Ooh, so cozy!",
+     "vi": "Ồ, ấm áp quá!"
+    },
+    {
+     "en": "Are you cozy in there?",
+     "vi": "Trong đó con thấy ấm áp hông?"
+    },
+    {
+     "en": "Let's get cozy under the blanket.",
+     "vi": "Mình rúc vô mền cho ấm nha."
+    },
+    {
+     "en": "Your bed looks so cozy.",
+     "vi": "Giường con nhìn ấm áp ghê."
+    },
+    {
+     "en": "I'm all cozy now!",
+     "vi": "Con thấy ấm áp rồi!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-049",
+   "en": "nightgown",
+   "vi": "cái váy ngủ",
+   "pos": "noun",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "ipa": "/ˈnaɪtˌɡaʊn/",
+   "examples": [
+    {
+     "en": "Ooh, a pretty nightgown!",
+     "vi": "Ồ, váy ngủ đẹp quá!",
+     "ipa": "/u ə ˈpɹɪti ˈnaɪtˌɡaʊn/"
+    },
+    {
+     "en": "Nightgown or pajamas tonight?",
+     "vi": "Tối nay mặc váy ngủ hay đồ bộ?",
+     "ipa": "/ˈnaɪtˌɡaʊn ɔɹ pəˈdʒɑməz təˈnaɪt/"
+    },
+    {
+     "en": "Arms up for your nightgown!",
+     "vi": "Giơ tay lên mặc váy ngủ nào!",
+     "ipa": "/ɑɹmz ʌp fɔɹ jɔɹ ˈnaɪtˌɡaʊn/"
+    },
+    {
+     "en": "Your nightgown is long and soft.",
+     "vi": "Váy ngủ của con dài và mềm ghê.",
+     "ipa": "/jɔɹ ˈnaɪtˌɡaʊn ɪz lɔŋ ənd sɑft/"
+    },
+    {
+     "en": "I want my nightgown with stars!",
+     "vi": "Con muốn mặc váy ngủ hình ngôi sao!",
+     "ipa": "/aɪ wɑnt maɪ ˈnaɪtˌɡaʊn wɪð stɑɹz/"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-050",
+   "en": "drool",
+   "vi": "chảy nước miếng",
+   "pos": "verb",
+   "emoji": "🤤",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Hee hee, you drooled on your pillow!",
+     "vi": "Hihi, con chảy nước miếng ra gối rồi!"
+    },
+    {
+     "en": "Did you drool in your sleep?",
+     "vi": "Con ngủ chảy nước miếng hả?"
+    },
+    {
+     "en": "Wipe your drool, sleepy bear.",
+     "vi": "Lau nước miếng đi gấu con buồn ngủ."
+    },
+    {
+     "en": "Babies drool a lot.",
+     "vi": "Em bé hay chảy nước miếng lắm."
+    },
+    {
+     "en": "Oops, I drooled!",
+     "vi": "Ui, con chảy nước miếng!"
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-051",
+   "en": "toss and turn",
+   "vi": "trằn trọc",
+   "pos": "phrase",
+   "ages": [
+    "7-9"
+   ],
+   "examples": [
+    {
+     "en": "Uh-oh, you were tossing and turning all night.",
+     "vi": "Ui, tối qua con trằn trọc cả đêm luôn."
+    },
+    {
+     "en": "Did you toss and turn because it was hot?",
+     "vi": "Con trằn trọc vì trời nóng hả?"
+    },
+    {
+     "en": "If you toss and turn, try taking slow breaths.",
+     "vi": "Nếu trằn trọc thì thử hít thở chậm nha."
+    },
+    {
+     "en": "Sometimes I toss and turn when I'm worried.",
+     "vi": "Đôi khi lo lắng là mình cũng trằn trọc."
+    },
+    {
+     "en": "I tossed and turned because of the thunder.",
+     "vi": "Con trằn trọc vì tiếng sấm đó."
+    }
+   ]
+  },
+  {
+   "id": "v-bedtime-052",
+   "en": "get up",
+   "vi": "dậy, ngồi dậy",
+   "pos": "phrase",
+   "ages": [
+    "3-5",
+    "5-7"
+   ],
+   "examples": [
+    {
+     "en": "Time to get up!",
+     "vi": "Tới giờ dậy rồi!"
+    },
+    {
+     "en": "Can you get up by yourself?",
+     "vi": "Con tự dậy được hông?"
+    },
+    {
+     "en": "Let's get up and open the curtains.",
+     "vi": "Mình dậy rồi kéo rèm ra nha."
+    },
+    {
+     "en": "You got up so early today!",
+     "vi": "Hôm nay con dậy sớm ghê!"
+    },
+    {
+     "en": "I don't want to get up!",
+     "vi": "Con hông muốn dậy!"
+    }
+   ]
+  }
+ ]
+}

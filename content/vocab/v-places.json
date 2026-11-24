@@ -1,0 +1,1689 @@
+{
+  "deckId": "v-places",
+  "words": [
+    {
+      "id": "v-places-001",
+      "en": "store",
+      "vi": "cửa hàng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the store is open!",
+          "vi": "Nhìn kìa, cửa hàng mở cửa rồi!"
+        },
+        {
+          "en": "What should we buy at the store?",
+          "vi": "Mình mua gì ở cửa hàng ta?"
+        },
+        {
+          "en": "Let's walk to the store.",
+          "vi": "Mình đi bộ ra cửa hàng nha."
+        },
+        {
+          "en": "This store is really busy.",
+          "vi": "Cửa hàng này đông quá."
+        },
+        {
+          "en": "I went to the store with Daddy!",
+          "vi": "Con đi cửa hàng với ba nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-002",
+      "en": "supermarket",
+      "vi": "siêu thị",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "We're at the supermarket!",
+          "vi": "Tới siêu thị rồi!"
+        },
+        {
+          "en": "Where's the milk in this supermarket?",
+          "vi": "Sữa nằm ở đâu trong siêu thị này ta?"
+        },
+        {
+          "en": "Let's push the cart in the supermarket.",
+          "vi": "Mình đẩy xe trong siêu thị nha."
+        },
+        {
+          "en": "The supermarket is so big!",
+          "vi": "Siêu thị rộng quá trời!"
+        },
+        {
+          "en": "I love going to the supermarket!",
+          "vi": "Con thích đi siêu thị lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-003",
+      "en": "market",
+      "vi": "cái chợ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the market is so busy!",
+          "vi": "Wow, chợ đông ghê!"
+        },
+        {
+          "en": "What do you want from the market?",
+          "vi": "Con muốn mua gì ở chợ?"
+        },
+        {
+          "en": "Let's go to the market with Grandma.",
+          "vi": "Mình đi chợ với bà nha."
+        },
+        {
+          "en": "The market smells like fresh fruit.",
+          "vi": "Chợ thơm mùi trái cây tươi."
+        },
+        {
+          "en": "I saw fish at the market!",
+          "vi": "Con thấy cá ở chợ nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-004",
+      "en": "hospital",
+      "vi": "bệnh viện",
+      "pos": "noun",
+      "emoji": "🏥",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "That's the hospital.",
+          "vi": "Đó là bệnh viện."
+        },
+        {
+          "en": "Do you know where the hospital is?",
+          "vi": "Con biết bệnh viện ở đâu không?"
+        },
+        {
+          "en": "Let's be quiet in the hospital.",
+          "vi": "Mình nói nhỏ trong bệnh viện nha."
+        },
+        {
+          "en": "Doctors help sick people at the hospital.",
+          "vi": "Bác sĩ ở bệnh viện giúp người bệnh."
+        },
+        {
+          "en": "We visited Grandpa at the hospital.",
+          "vi": "Mình vô bệnh viện thăm ông đó."
+        }
+      ]
+    },
+    {
+      "id": "v-places-005",
+      "en": "zoo",
+      "vi": "sở thú",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, we're at the zoo!",
+          "vi": "Yeah, tới sở thú rồi!"
+        },
+        {
+          "en": "What's your favorite zoo animal?",
+          "vi": "Con thích con gì nhất ở sở thú?"
+        },
+        {
+          "en": "Let's go to the zoo this weekend.",
+          "vi": "Cuối tuần mình đi sở thú nha."
+        },
+        {
+          "en": "The zoo has so many animals.",
+          "vi": "Sở thú có nhiều thú lắm."
+        },
+        {
+          "en": "I saw a tiger at the zoo!",
+          "vi": "Con thấy con cọp ở sở thú!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-006",
+      "en": "restaurant",
+      "vi": "nhà hàng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "This restaurant looks yummy!",
+          "vi": "Nhà hàng này nhìn ngon ghê!"
+        },
+        {
+          "en": "Is this restaurant okay for dinner?",
+          "vi": "Mình ăn tối ở nhà hàng này được không?"
+        },
+        {
+          "en": "Let's use quiet voices in the restaurant.",
+          "vi": "Trong nhà hàng mình nói nhỏ thôi nha."
+        },
+        {
+          "en": "This restaurant is nice and cozy.",
+          "vi": "Nhà hàng này ấm cúng ghê."
+        },
+        {
+          "en": "We ate noodles at a restaurant!",
+          "vi": "Mình ăn mì ở nhà hàng đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-007",
+      "en": "swimming pool",
+      "vi": "hồ bơi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Splash, the swimming pool!",
+          "vi": "Tùm, hồ bơi nè!"
+        },
+        {
+          "en": "Want to go to the swimming pool?",
+          "vi": "Con muốn đi hồ bơi không?"
+        },
+        {
+          "en": "Walk slowly by the swimming pool.",
+          "vi": "Đi chậm thôi khi ở cạnh hồ bơi nha."
+        },
+        {
+          "en": "The swimming pool is a little cold.",
+          "vi": "Nước hồ bơi hơi lạnh."
+        },
+        {
+          "en": "I jumped into the swimming pool!",
+          "vi": "Con nhảy xuống hồ bơi rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-008",
+      "en": "mall",
+      "vi": "trung tâm thương mại",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the mall is huge!",
+          "vi": "Wow, trung tâm thương mại to quá!"
+        },
+        {
+          "en": "Want to go to the mall?",
+          "vi": "Con muốn đi trung tâm thương mại không?"
+        },
+        {
+          "en": "Stay close to me in the mall.",
+          "vi": "Ở trong trung tâm thương mại thì đi sát bên nha."
+        },
+        {
+          "en": "The mall is cool inside.",
+          "vi": "Trong trung tâm thương mại mát ghê."
+        },
+        {
+          "en": "We rode the escalator at the mall!",
+          "vi": "Mình đi thang cuốn ở trung tâm thương mại đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-009",
+      "en": "bakery",
+      "vi": "tiệm bánh",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yum, the bakery smells so good!",
+          "vi": "Ưm, tiệm bánh thơm quá!"
+        },
+        {
+          "en": "What should we get at the bakery?",
+          "vi": "Mình mua gì ở tiệm bánh ta?"
+        },
+        {
+          "en": "Let's stop at the bakery for bread.",
+          "vi": "Mình ghé tiệm bánh mua bánh mì nha."
+        },
+        {
+          "en": "The bakery has yummy cakes.",
+          "vi": "Tiệm bánh có bánh ngọt ngon lắm."
+        },
+        {
+          "en": "I picked a donut at the bakery!",
+          "vi": "Con chọn bánh donut ở tiệm bánh nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-010",
+      "en": "farm",
+      "vi": "nông trại",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, cows on the farm!",
+          "vi": "Nhìn kìa, mấy con bò ở nông trại!"
+        },
+        {
+          "en": "What animals live on a farm?",
+          "vi": "Ở nông trại có những con gì?"
+        },
+        {
+          "en": "Let's visit a farm someday.",
+          "vi": "Bữa nào mình đi thăm nông trại nha."
+        },
+        {
+          "en": "The farm is big and green.",
+          "vi": "Nông trại rộng và xanh mướt."
+        },
+        {
+          "en": "I fed a goat at the farm!",
+          "vi": "Con cho dê ăn ở nông trại!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-011",
+      "en": "museum",
+      "vi": "viện bảo tàng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at this museum!",
+          "vi": "Wow, coi viện bảo tàng này nè!"
+        },
+        {
+          "en": "What do you want to see at the museum?",
+          "vi": "Con muốn coi gì ở viện bảo tàng?"
+        },
+        {
+          "en": "Let's walk, not run, in the museum.",
+          "vi": "Trong viện bảo tàng mình đi bộ, không chạy nha."
+        },
+        {
+          "en": "The museum has really old things.",
+          "vi": "Viện bảo tàng có nhiều đồ xưa lắm."
+        },
+        {
+          "en": "I saw dinosaur bones at the museum!",
+          "vi": "Con thấy xương khủng long ở viện bảo tàng!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-012",
+      "en": "pagoda",
+      "vi": "ngôi chùa",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's the pagoda.",
+          "vi": "Nhìn kìa, ngôi chùa kìa."
+        },
+        {
+          "en": "Want to come to the pagoda?",
+          "vi": "Con muốn đi chùa không?"
+        },
+        {
+          "en": "Let's use quiet voices at the pagoda.",
+          "vi": "Ở chùa mình nói nhỏ nhẹ nha."
+        },
+        {
+          "en": "The pagoda is so peaceful.",
+          "vi": "Ngôi chùa yên bình ghê."
+        },
+        {
+          "en": "We went to the pagoda on Tet.",
+          "vi": "Tết mình đi chùa đó."
+        }
+      ]
+    },
+    {
+      "id": "v-places-013",
+      "en": "temple",
+      "vi": "ngôi đền",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a beautiful temple!",
+          "vi": "Wow, ngôi đền đẹp quá!"
+        },
+        {
+          "en": "Why do people visit the temple?",
+          "vi": "Sao người ta đi đền vậy?"
+        },
+        {
+          "en": "Let's take off our shoes at the temple.",
+          "vi": "Mình cởi giày khi vô đền nha."
+        },
+        {
+          "en": "The temple is very old and quiet.",
+          "vi": "Ngôi đền rất xưa và yên tĩnh."
+        },
+        {
+          "en": "We lit incense at the temple yesterday.",
+          "vi": "Hôm qua mình thắp nhang ở đền."
+        }
+      ]
+    },
+    {
+      "id": "v-places-014",
+      "en": "church",
+      "vi": "nhà thờ",
+      "pos": "noun",
+      "emoji": "⛪",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big church!",
+          "vi": "Nhìn kìa, nhà thờ to quá!"
+        },
+        {
+          "en": "Can you hear the church bells?",
+          "vi": "Con nghe tiếng chuông nhà thờ không?"
+        },
+        {
+          "en": "Let's take a picture by the church.",
+          "vi": "Mình chụp hình trước nhà thờ nha."
+        },
+        {
+          "en": "The church has a tall tower.",
+          "vi": "Nhà thờ có cái tháp cao."
+        },
+        {
+          "en": "I saw the church lights at Christmas!",
+          "vi": "Con thấy đèn nhà thờ dịp Giáng sinh!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-015",
+      "en": "gas station",
+      "vi": "cây xăng",
+      "pos": "noun",
+      "emoji": "⛽",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "There's the gas station!",
+          "vi": "Cây xăng kìa!"
+        },
+        {
+          "en": "Is the gas station open?",
+          "vi": "Cây xăng có mở cửa không?"
+        },
+        {
+          "en": "Let's stop at the gas station.",
+          "vi": "Mình ghé cây xăng nha."
+        },
+        {
+          "en": "The gas station smells funny.",
+          "vi": "Cây xăng có mùi lạ ghê."
+        },
+        {
+          "en": "I waved at the gas station man!",
+          "vi": "Con vẫy tay chào chú ở cây xăng!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-016",
+      "en": "toy store",
+      "vi": "cửa hàng đồ chơi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a toy store!",
+          "vi": "Ồ, cửa hàng đồ chơi!"
+        },
+        {
+          "en": "What's in the toy store window?",
+          "vi": "Trong tủ kính cửa hàng đồ chơi có gì vậy?"
+        },
+        {
+          "en": "Let's just look in the toy store.",
+          "vi": "Mình vô cửa hàng đồ chơi coi thôi nha."
+        },
+        {
+          "en": "The toy store is so fun!",
+          "vi": "Cửa hàng đồ chơi vui quá!"
+        },
+        {
+          "en": "Can we go to the toy store?",
+          "vi": "Mình đi cửa hàng đồ chơi được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-places-017",
+      "en": "bookstore",
+      "vi": "nhà sách",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Let's go in the bookstore!",
+          "vi": "Mình vô nhà sách nha!"
+        },
+        {
+          "en": "Is the bookstore open today?",
+          "vi": "Hôm nay nhà sách có mở cửa không?"
+        },
+        {
+          "en": "Let's find kids' books in the bookstore.",
+          "vi": "Mình tìm sách thiếu nhi trong nhà sách nha."
+        },
+        {
+          "en": "The bookstore is nice and quiet.",
+          "vi": "Nhà sách yên tĩnh dễ chịu ghê."
+        },
+        {
+          "en": "I got a book at the bookstore!",
+          "vi": "Con mua được sách ở nhà sách!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-018",
+      "en": "coffee shop",
+      "vi": "quán cà phê",
+      "pos": "noun",
+      "emoji": "☕",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's a coffee shop.",
+          "vi": "Nhìn kìa, có quán cà phê."
+        },
+        {
+          "en": "Do you want juice at the coffee shop?",
+          "vi": "Ra quán cà phê con muốn uống nước ép không?"
+        },
+        {
+          "en": "Let's sit by the window in the coffee shop.",
+          "vi": "Vô quán cà phê mình ngồi cạnh cửa sổ nha."
+        },
+        {
+          "en": "This coffee shop is cozy and quiet.",
+          "vi": "Quán cà phê này ấm cúng và yên tĩnh."
+        },
+        {
+          "en": "Daddy and I had a snack at the coffee shop.",
+          "vi": "Con với ba ăn bánh ở quán cà phê đó."
+        }
+      ]
+    },
+    {
+      "id": "v-places-019",
+      "en": "ice cream shop",
+      "vi": "tiệm kem",
+      "pos": "noun",
+      "emoji": "🍦",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, the ice cream shop!",
+          "vi": "Yeah, tiệm kem nè!"
+        },
+        {
+          "en": "Which flavor at the ice cream shop?",
+          "vi": "Ở tiệm kem con chọn vị gì?"
+        },
+        {
+          "en": "Let's go to the ice cream shop!",
+          "vi": "Mình đi tiệm kem nha!"
+        },
+        {
+          "en": "The ice cream shop is so colorful.",
+          "vi": "Tiệm kem nhiều màu ghê."
+        },
+        {
+          "en": "I love the ice cream shop!",
+          "vi": "Con mê tiệm kem lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-020",
+      "en": "aquarium",
+      "vi": "thủy cung",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at the aquarium!",
+          "vi": "Wow, coi thủy cung nè!"
+        },
+        {
+          "en": "What's in the aquarium, do you think?",
+          "vi": "Con đoán trong thủy cung có gì?"
+        },
+        {
+          "en": "Let's go to the aquarium together.",
+          "vi": "Mình cùng đi thủy cung nha."
+        },
+        {
+          "en": "The aquarium is blue and pretty.",
+          "vi": "Thủy cung xanh xanh đẹp ghê."
+        },
+        {
+          "en": "I saw a turtle at the aquarium!",
+          "vi": "Con thấy con rùa ở thủy cung!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-021",
+      "en": "amusement park",
+      "vi": "công viên giải trí",
+      "pos": "noun",
+      "emoji": "🎢",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, we're at the amusement park!",
+          "vi": "Yeah, tới công viên giải trí rồi!"
+        },
+        {
+          "en": "Which ride do you want first at the amusement park?",
+          "vi": "Vô công viên giải trí con muốn chơi trò nào trước?"
+        },
+        {
+          "en": "Let's stay together at the amusement park.",
+          "vi": "Ở công viên giải trí mình đi chung với nhau nha."
+        },
+        {
+          "en": "The amusement park is so loud and fun.",
+          "vi": "Công viên giải trí ồn ào mà vui ghê."
+        },
+        {
+          "en": "We went to the amusement park for my birthday!",
+          "vi": "Sinh nhật con, mình đi công viên giải trí đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-022",
+      "en": "water park",
+      "vi": "công viên nước",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Splash, the water park!",
+          "vi": "Tùm, công viên nước nè!"
+        },
+        {
+          "en": "Ready for the water park?",
+          "vi": "Sẵn sàng đi công viên nước chưa?"
+        },
+        {
+          "en": "Let's go to the water park!",
+          "vi": "Mình đi công viên nước nha!"
+        },
+        {
+          "en": "The water park is so much fun.",
+          "vi": "Công viên nước vui quá trời."
+        },
+        {
+          "en": "I love the water park!",
+          "vi": "Con mê công viên nước lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-023",
+      "en": "movie theater",
+      "vi": "rạp chiếu phim",
+      "pos": "noun",
+      "emoji": "🎬",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the movie theater!",
+          "vi": "Nhìn kìa, rạp chiếu phim!"
+        },
+        {
+          "en": "Do you want popcorn at the movie theater?",
+          "vi": "Ở rạp chiếu phim con muốn ăn bắp rang không?"
+        },
+        {
+          "en": "Let's whisper in the movie theater.",
+          "vi": "Trong rạp chiếu phim mình nói thầm thôi nha."
+        },
+        {
+          "en": "The movie theater is dark and the screen is huge.",
+          "vi": "Rạp chiếu phim tối thui mà màn hình bự lắm."
+        },
+        {
+          "en": "I watched my first movie at the movie theater!",
+          "vi": "Con coi phim đầu tiên ở rạp chiếu phim đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-024",
+      "en": "hair salon",
+      "vi": "tiệm làm tóc",
+      "pos": "noun",
+      "emoji": "💇",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's the hair salon.",
+          "vi": "Tiệm làm tóc đây rồi."
+        },
+        {
+          "en": "Want a haircut at the hair salon?",
+          "vi": "Con muốn ra tiệm làm tóc cắt tóc không?"
+        },
+        {
+          "en": "Sit still at the hair salon, okay?",
+          "vi": "Ở tiệm làm tóc thì ngồi yên nha."
+        },
+        {
+          "en": "The hair salon smells like shampoo.",
+          "vi": "Tiệm làm tóc thơm mùi dầu gội."
+        },
+        {
+          "en": "Mommy went to the hair salon!",
+          "vi": "Mẹ đi tiệm làm tóc đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-025",
+      "en": "pet store",
+      "vi": "cửa hàng thú cưng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, puppies at the pet store!",
+          "vi": "Nhìn kìa, mấy con cún ở cửa hàng thú cưng!"
+        },
+        {
+          "en": "What's in the pet store window?",
+          "vi": "Trong tủ kính cửa hàng thú cưng có gì vậy?"
+        },
+        {
+          "en": "Let's peek in the pet store.",
+          "vi": "Mình ghé coi cửa hàng thú cưng nha."
+        },
+        {
+          "en": "The pet store has tiny hamsters.",
+          "vi": "Cửa hàng thú cưng có chuột hamster nhỏ xíu."
+        },
+        {
+          "en": "I saw kittens at the pet store!",
+          "vi": "Con thấy mèo con ở cửa hàng thú cưng!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-026",
+      "en": "flower shop",
+      "vi": "tiệm hoa",
+      "pos": "noun",
+      "emoji": "💐",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yum, the flower shop smells nice!",
+          "vi": "Ưm, tiệm hoa thơm quá!"
+        },
+        {
+          "en": "Which flower shop flowers do you like?",
+          "vi": "Ở tiệm hoa con thích hoa nào?"
+        },
+        {
+          "en": "Let's stop at the flower shop.",
+          "vi": "Mình ghé tiệm hoa nha."
+        },
+        {
+          "en": "The flower shop is so pretty.",
+          "vi": "Tiệm hoa đẹp ghê."
+        },
+        {
+          "en": "I love the flower shop!",
+          "vi": "Con thích tiệm hoa lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-027",
+      "en": "night market",
+      "vi": "chợ đêm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the night market is so bright!",
+          "vi": "Wow, chợ đêm sáng rực luôn!"
+        },
+        {
+          "en": "What should we eat at the night market?",
+          "vi": "Ra chợ đêm mình ăn gì ta?"
+        },
+        {
+          "en": "Hold my hand at the night market, it's crowded.",
+          "vi": "Ở chợ đêm đông lắm, nắm tay nha."
+        },
+        {
+          "en": "The night market has lots of yummy snacks.",
+          "vi": "Chợ đêm có nhiều món ăn vặt ngon."
+        },
+        {
+          "en": "We bought a toy at the night market last night!",
+          "vi": "Tối qua mình mua đồ chơi ở chợ đêm đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-028",
+      "en": "gym",
+      "vi": "phòng tập thể dục",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Daddy's going to the gym.",
+          "vi": "Ba đi phòng tập đó."
+        },
+        {
+          "en": "Do you want to come to the gym with Mommy?",
+          "vi": "Con muốn đi phòng tập với mẹ không?"
+        },
+        {
+          "en": "Let's exercise at home like at the gym.",
+          "vi": "Mình tập thể dục ở nhà như ở phòng tập nha."
+        },
+        {
+          "en": "The gym has lots of big machines.",
+          "vi": "Phòng tập có nhiều máy to lắm."
+        },
+        {
+          "en": "When I'm bigger, I'll lift weights at the gym.",
+          "vi": "Khi lớn hơn, con sẽ tập tạ ở phòng tập."
+        }
+      ]
+    },
+    {
+      "id": "v-places-029",
+      "en": "food court",
+      "vi": "khu ẩm thực",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the food court!",
+          "vi": "Khu ẩm thực đây rồi!"
+        },
+        {
+          "en": "What do you want to eat at the food court?",
+          "vi": "Ở khu ẩm thực con muốn ăn gì?"
+        },
+        {
+          "en": "Let's find a table at the food court.",
+          "vi": "Mình kiếm bàn ở khu ẩm thực nha."
+        },
+        {
+          "en": "The food court has so many choices.",
+          "vi": "Khu ẩm thực có nhiều món để chọn lắm."
+        },
+        {
+          "en": "We had noodles at the food court today.",
+          "vi": "Hôm nay mình ăn mì ở khu ẩm thực."
+        }
+      ]
+    },
+    {
+      "id": "v-places-030",
+      "en": "noodle shop",
+      "vi": "quán phở / quán mì",
+      "pos": "noun",
+      "emoji": "🍜",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yum, the noodle shop!",
+          "vi": "Ngon, quán phở nè!"
+        },
+        {
+          "en": "Want to go to the noodle shop?",
+          "vi": "Con muốn đi quán phở không?"
+        },
+        {
+          "en": "Let's get breakfast at the noodle shop.",
+          "vi": "Mình ăn sáng ở quán phở nha."
+        },
+        {
+          "en": "This noodle shop is so busy!",
+          "vi": "Quán phở này đông quá!"
+        },
+        {
+          "en": "I love the noodle shop!",
+          "vi": "Con thích quán phở lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-031",
+      "en": "circus",
+      "vi": "rạp xiếc",
+      "pos": "noun",
+      "emoji": "🎪",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the circus is here!",
+          "vi": "Wow, đoàn xiếc tới rồi!"
+        },
+        {
+          "en": "Want to go to the circus?",
+          "vi": "Con muốn đi coi xiếc không?"
+        },
+        {
+          "en": "Let's clap for the circus clowns!",
+          "vi": "Mình vỗ tay cho mấy chú hề rạp xiếc nào!"
+        },
+        {
+          "en": "The circus is so exciting.",
+          "vi": "Rạp xiếc vui hết sẩy."
+        },
+        {
+          "en": "I saw a juggler at the circus!",
+          "vi": "Con thấy chú tung hứng ở rạp xiếc!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-032",
+      "en": "car wash",
+      "vi": "tiệm rửa xe",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoosh, we're in the car wash!",
+          "vi": "Xè xè, mình đang ở tiệm rửa xe!"
+        },
+        {
+          "en": "Do you like the car wash?",
+          "vi": "Con thích tiệm rửa xe không?"
+        },
+        {
+          "en": "Let's go through the car wash!",
+          "vi": "Mình cho xe chạy qua tiệm rửa xe nha!"
+        },
+        {
+          "en": "The car wash makes our car shiny.",
+          "vi": "Tiệm rửa xe làm xe mình sáng bóng."
+        },
+        {
+          "en": "The car wash was so bubbly!",
+          "vi": "Tiệm rửa xe nhiều bọt ghê!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-033",
+      "en": "factory",
+      "vi": "nhà máy",
+      "pos": "noun",
+      "emoji": "🏭",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, that's a big factory.",
+          "vi": "Nhìn kìa, nhà máy to ghê."
+        },
+        {
+          "en": "What do you think they make in that factory?",
+          "vi": "Con nghĩ nhà máy đó làm ra cái gì?"
+        },
+        {
+          "en": "Let's read a book about a toy factory.",
+          "vi": "Mình đọc sách về nhà máy đồ chơi nha."
+        },
+        {
+          "en": "The factory has a tall chimney.",
+          "vi": "Nhà máy có cái ống khói cao."
+        },
+        {
+          "en": "Uncle works at a shoe factory.",
+          "vi": "Chú làm ở nhà máy giày."
+        }
+      ]
+    },
+    {
+      "id": "v-places-034",
+      "en": "office",
+      "vi": "văn phòng",
+      "pos": "noun",
+      "emoji": "🏢",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "This is Daddy's office.",
+          "vi": "Đây là văn phòng của ba."
+        },
+        {
+          "en": "Do you want to see Mommy's office?",
+          "vi": "Con muốn coi văn phòng của mẹ không?"
+        },
+        {
+          "en": "Let's be quiet, people are working in the office.",
+          "vi": "Mình nói nhỏ nha, mọi người đang làm việc trong văn phòng."
+        },
+        {
+          "en": "The office has lots of desks and computers.",
+          "vi": "Văn phòng có nhiều bàn với máy tính."
+        },
+        {
+          "en": "I visited Mommy's office, and it was so cool!",
+          "vi": "Con tới văn phòng mẹ chơi, vui lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-035",
+      "en": "shoe store",
+      "vi": "tiệm giày",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's the shoe store!",
+          "vi": "Tiệm giày đây rồi!"
+        },
+        {
+          "en": "Should we go to the shoe store?",
+          "vi": "Mình đi tiệm giày nha?"
+        },
+        {
+          "en": "Let's try some at the shoe store.",
+          "vi": "Ra tiệm giày mình thử vài đôi nha."
+        },
+        {
+          "en": "The shoe store has so many shoes!",
+          "vi": "Tiệm giày có nhiều giày quá!"
+        },
+        {
+          "en": "I love this shoe store!",
+          "vi": "Con thích tiệm giày này!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-036",
+      "en": "pizza place",
+      "vi": "tiệm pizza",
+      "pos": "noun",
+      "emoji": "🍕",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, the pizza place!",
+          "vi": "Yeah, tiệm pizza nè!"
+        },
+        {
+          "en": "Can we go to the pizza place?",
+          "vi": "Mình đi tiệm pizza được không?"
+        },
+        {
+          "en": "Let's share at the pizza place.",
+          "vi": "Ở tiệm pizza mình chia nhau ăn nha."
+        },
+        {
+          "en": "The pizza place smells so good.",
+          "vi": "Tiệm pizza thơm quá trời."
+        },
+        {
+          "en": "We ate at the pizza place!",
+          "vi": "Mình ăn ở tiệm pizza đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-037",
+      "en": "entrance",
+      "vi": "lối vào",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's the entrance!",
+          "vi": "Lối vào đây nè!"
+        },
+        {
+          "en": "Can you find the entrance to the zoo?",
+          "vi": "Con tìm được lối vào sở thú không?"
+        },
+        {
+          "en": "Let's meet at the entrance if we get lost.",
+          "vi": "Nếu lạc nhau thì mình gặp ở lối vào nha."
+        },
+        {
+          "en": "The entrance is really crowded today.",
+          "vi": "Hôm nay lối vào đông nghẹt."
+        },
+        {
+          "en": "I found the entrance first!",
+          "vi": "Con tìm ra lối vào trước nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-038",
+      "en": "exit",
+      "vi": "lối ra",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the exit sign is green.",
+          "vi": "Nhìn kìa, bảng lối ra màu xanh lá."
+        },
+        {
+          "en": "Where's the exit?",
+          "vi": "Lối ra ở đâu vậy?"
+        },
+        {
+          "en": "Let's follow the signs to the exit.",
+          "vi": "Mình đi theo bảng chỉ dẫn ra lối ra nha."
+        },
+        {
+          "en": "The exit is right by the stairs.",
+          "vi": "Lối ra ở ngay cạnh cầu thang."
+        },
+        {
+          "en": "I'll lead the way to the exit!",
+          "vi": "Con sẽ dẫn đường ra lối ra!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-039",
+      "en": "indoor playground",
+      "vi": "khu vui chơi trong nhà",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Yay, the indoor playground!",
+          "vi": "Yeah, khu vui chơi trong nhà nè!"
+        },
+        {
+          "en": "Want to go to the indoor playground?",
+          "vi": "Con muốn đi khu vui chơi không?"
+        },
+        {
+          "en": "Shoes off for the indoor playground!",
+          "vi": "Cởi giày ra rồi vô khu vui chơi nha!"
+        },
+        {
+          "en": "The indoor playground has a ball pit!",
+          "vi": "Khu vui chơi trong nhà có hồ banh nè!"
+        },
+        {
+          "en": "I love the indoor playground!",
+          "vi": "Con mê khu vui chơi lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-040",
+      "en": "escalator",
+      "vi": "thang cuốn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, a big escalator!",
+          "vi": "Ui, thang cuốn to quá!"
+        },
+        {
+          "en": "Are you ready for the escalator?",
+          "vi": "Sẵn sàng đi thang cuốn chưa?"
+        },
+        {
+          "en": "Hold the rail on the escalator.",
+          "vi": "Đi thang cuốn thì vịn tay vịn nha."
+        },
+        {
+          "en": "The escalator is moving fast.",
+          "vi": "Thang cuốn chạy nhanh ghê."
+        },
+        {
+          "en": "I rode the escalator all by myself!",
+          "vi": "Con tự đi thang cuốn một mình!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-041",
+      "en": "restroom",
+      "vi": "nhà vệ sinh công cộng",
+      "pos": "noun",
+      "emoji": "🚻",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "There's the restroom!",
+          "vi": "Nhà vệ sinh kia kìa!"
+        },
+        {
+          "en": "Do you need to use the restroom?",
+          "vi": "Con có cần đi vệ sinh không?"
+        },
+        {
+          "en": "Let's find a restroom before we go.",
+          "vi": "Mình kiếm nhà vệ sinh trước khi đi nha."
+        },
+        {
+          "en": "This restroom is nice and clean.",
+          "vi": "Nhà vệ sinh này sạch sẽ ghê."
+        },
+        {
+          "en": "I need the restroom, please!",
+          "vi": "Con cần đi vệ sinh!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-042",
+      "en": "carousel",
+      "vi": "vòng ngựa quay",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a carousel!",
+          "vi": "Nhìn kìa, vòng ngựa quay!"
+        },
+        {
+          "en": "Want to ride the carousel?",
+          "vi": "Con muốn chơi vòng ngựa quay không?"
+        },
+        {
+          "en": "Hold on tight on the carousel!",
+          "vi": "Ngồi vòng ngựa quay thì bám chặt nha!"
+        },
+        {
+          "en": "The carousel goes round and round.",
+          "vi": "Vòng ngựa quay xoay vòng vòng."
+        },
+        {
+          "en": "I rode the carousel horse!",
+          "vi": "Con cưỡi ngựa trên vòng ngựa quay!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-043",
+      "en": "roller coaster",
+      "vi": "tàu lượn siêu tốc",
+      "pos": "noun",
+      "emoji": "🎢",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, look at that roller coaster!",
+          "vi": "Ui, coi tàu lượn siêu tốc kìa!"
+        },
+        {
+          "en": "Are you tall enough for the roller coaster?",
+          "vi": "Con đủ cao để đi tàu lượn siêu tốc chưa?"
+        },
+        {
+          "en": "Let's try the little roller coaster first.",
+          "vi": "Mình thử tàu lượn nhỏ trước nha."
+        },
+        {
+          "en": "That roller coaster is super fast and twisty.",
+          "vi": "Tàu lượn siêu tốc đó chạy nhanh mà quẹo lung tung."
+        },
+        {
+          "en": "I screamed so loud on the roller coaster!",
+          "vi": "Con hét thiệt to trên tàu lượn siêu tốc!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-044",
+      "en": "Ferris wheel",
+      "vi": "vòng đu quay",
+      "pos": "noun",
+      "emoji": "🎡",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a giant Ferris wheel!",
+          "vi": "Nhìn kìa, vòng đu quay khổng lồ!"
+        },
+        {
+          "en": "Want to ride the Ferris wheel?",
+          "vi": "Con muốn đi vòng đu quay không?"
+        },
+        {
+          "en": "Let's wave from the Ferris wheel!",
+          "vi": "Mình vẫy tay từ trên vòng đu quay nha!"
+        },
+        {
+          "en": "The Ferris wheel goes so high!",
+          "vi": "Vòng đu quay lên cao quá!"
+        },
+        {
+          "en": "I rode the big Ferris wheel!",
+          "vi": "Con đi vòng đu quay to rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-045",
+      "en": "candy store",
+      "vi": "tiệm kẹo",
+      "pos": "noun",
+      "emoji": "🍬",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a candy store!",
+          "vi": "Ồ, tiệm kẹo!"
+        },
+        {
+          "en": "Can we go in the candy store?",
+          "vi": "Mình vô tiệm kẹo được không?"
+        },
+        {
+          "en": "Pick one thing at the candy store.",
+          "vi": "Ở tiệm kẹo con chọn một món thôi nha."
+        },
+        {
+          "en": "The candy store is so colorful!",
+          "vi": "Tiệm kẹo nhiều màu sắc ghê!"
+        },
+        {
+          "en": "I love the candy store!",
+          "vi": "Con mê tiệm kẹo lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-046",
+      "en": "petting zoo",
+      "vi": "khu vuốt ve thú",
+      "pos": "noun",
+      "ages": [
+        "3-5"
+      ],
+      "examples": [
+        {
+          "en": "Look, a petting zoo!",
+          "vi": "Nhìn kìa, khu vuốt ve thú!"
+        },
+        {
+          "en": "Want to go in the petting zoo?",
+          "vi": "Con muốn vô khu vuốt ve thú không?"
+        },
+        {
+          "en": "Gentle hands at the petting zoo.",
+          "vi": "Ở khu vuốt ve thú thì vuốt nhẹ nhẹ nha."
+        },
+        {
+          "en": "The petting zoo animals are so soft.",
+          "vi": "Mấy con thú ở đó mềm mịn ghê."
+        },
+        {
+          "en": "I fed sheep at the petting zoo!",
+          "vi": "Con cho cừu ăn ở khu vuốt ve thú!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-047",
+      "en": "food stall",
+      "vi": "quán ăn vỉa hè",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yum, that food stall smells amazing!",
+          "vi": "Ưm, quán ăn vỉa hè đó thơm quá!"
+        },
+        {
+          "en": "What does that food stall sell?",
+          "vi": "Quán ăn vỉa hè đó bán gì vậy?"
+        },
+        {
+          "en": "Let's grab a snack at the food stall.",
+          "vi": "Mình ghé quán vỉa hè ăn chút gì nha."
+        },
+        {
+          "en": "The food stall is tiny, but the food is yummy.",
+          "vi": "Quán vỉa hè nhỏ xíu mà đồ ăn ngon lắm."
+        },
+        {
+          "en": "We ate rice cakes at a food stall yesterday.",
+          "vi": "Hôm qua mình ăn bánh ở quán vỉa hè đó."
+        }
+      ]
+    },
+    {
+      "id": "v-places-048",
+      "en": "bubble tea shop",
+      "vi": "quán trà sữa",
+      "pos": "noun",
+      "emoji": "🧋",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a bubble tea shop!",
+          "vi": "Nhìn kìa, quán trà sữa!"
+        },
+        {
+          "en": "Do you want to stop at the bubble tea shop?",
+          "vi": "Con muốn ghé quán trà sữa không?"
+        },
+        {
+          "en": "Let's share a drink at the bubble tea shop.",
+          "vi": "Mình ghé quán trà sữa uống chung một ly nha."
+        },
+        {
+          "en": "The bubble tea shop is always busy after school.",
+          "vi": "Tan học là quán trà sữa lúc nào cũng đông."
+        },
+        {
+          "en": "I got a mango drink at the bubble tea shop!",
+          "vi": "Con mua ly xoài ở quán trà sữa!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-049",
+      "en": "barbershop",
+      "vi": "tiệm hớt tóc",
+      "pos": "noun",
+      "emoji": "💈",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Here's the barbershop!",
+          "vi": "Tiệm hớt tóc đây rồi!"
+        },
+        {
+          "en": "Ready for the barbershop?",
+          "vi": "Sẵn sàng đi hớt tóc chưa?"
+        },
+        {
+          "en": "Sit very still at the barbershop.",
+          "vi": "Ở tiệm hớt tóc thì ngồi thiệt yên nha."
+        },
+        {
+          "en": "The barbershop has a spinning chair!",
+          "vi": "Tiệm hớt tóc có cái ghế xoay nè!"
+        },
+        {
+          "en": "I got a haircut at the barbershop!",
+          "vi": "Con hớt tóc ở tiệm rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-050",
+      "en": "fruit stand",
+      "vi": "sạp trái cây",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at the fruit stand!",
+          "vi": "Nhìn sạp trái cây kìa!"
+        },
+        {
+          "en": "What's at the fruit stand today?",
+          "vi": "Hôm nay sạp trái cây có gì vậy?"
+        },
+        {
+          "en": "Let's buy mangoes at the fruit stand.",
+          "vi": "Mình mua xoài ở sạp trái cây nha."
+        },
+        {
+          "en": "The fruit stand is so colorful!",
+          "vi": "Sạp trái cây nhiều màu ghê!"
+        },
+        {
+          "en": "I picked bananas at the fruit stand!",
+          "vi": "Con chọn chuối ở sạp trái cây!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-051",
+      "en": "convenience store",
+      "vi": "cửa hàng tiện lợi",
+      "pos": "noun",
+      "emoji": "🏪",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "There's a convenience store on the corner.",
+          "vi": "Có cửa hàng tiện lợi ở đầu góc kìa."
+        },
+        {
+          "en": "Can we get water at the convenience store?",
+          "vi": "Mình mua nước ở cửa hàng tiện lợi được không?"
+        },
+        {
+          "en": "Let's pop into the convenience store for milk.",
+          "vi": "Mình ghé cửa hàng tiện lợi mua sữa nha."
+        },
+        {
+          "en": "The convenience store is open all night.",
+          "vi": "Cửa hàng tiện lợi mở cửa suốt đêm."
+        },
+        {
+          "en": "I paid by myself at the convenience store!",
+          "vi": "Con tự trả tiền ở cửa hàng tiện lợi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-places-052",
+      "en": "bus station",
+      "vi": "bến xe",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the bus station is so busy!",
+          "vi": "Wow, bến xe đông quá!"
+        },
+        {
+          "en": "Which bus do we take at the bus station?",
+          "vi": "Ở bến xe mình đi chuyến xe nào?"
+        },
+        {
+          "en": "Stay right next to me at the bus station.",
+          "vi": "Ở bến xe thì đứng sát bên nha."
+        },
+        {
+          "en": "The bus station is loud and crowded.",
+          "vi": "Bến xe ồn ào và đông đúc."
+        },
+        {
+          "en": "We'll catch a bus to Grandma's from the bus station.",
+          "vi": "Mình sẽ ra bến xe đón xe về nhà bà."
+        }
+      ]
+    }
+  ]
+}

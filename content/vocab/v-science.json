@@ -1,0 +1,1694 @@
+{
+  "deckId": "v-science",
+  "words": [
+    {
+      "id": "v-science-001",
+      "en": "science",
+      "vi": "khoa học",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, science time!",
+          "vi": "Ồ, tới giờ khoa học rồi!"
+        },
+        {
+          "en": "Do you like science at school?",
+          "vi": "Con có thích môn khoa học ở trường không?"
+        },
+        {
+          "en": "Let's do some kitchen science together.",
+          "vi": "Mình làm thí nghiệm khoa học trong bếp nha."
+        },
+        {
+          "en": "Science helps us find out how things work.",
+          "vi": "Khoa học giúp mình biết mọi thứ hoạt động ra sao."
+        },
+        {
+          "en": "Science is my favorite subject!",
+          "vi": "Khoa học là môn con thích nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-002",
+      "en": "scientist",
+      "vi": "nhà khoa học",
+      "pos": "noun",
+      "emoji": "🧑‍🔬",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at you, a little scientist!",
+          "vi": "Nhìn con nè, nhà khoa học nhí!"
+        },
+        {
+          "en": "What do scientists do all day?",
+          "vi": "Nhà khoa học làm gì cả ngày ta?"
+        },
+        {
+          "en": "Let's think like scientists.",
+          "vi": "Mình suy nghĩ giống nhà khoa học nha."
+        },
+        {
+          "en": "Scientists ask lots of questions, just like you.",
+          "vi": "Nhà khoa học hỏi nhiều lắm, giống con vậy đó."
+        },
+        {
+          "en": "I want to be a scientist when I grow up!",
+          "vi": "Lớn lên con muốn làm nhà khoa học!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-003",
+      "en": "experiment",
+      "vi": "thí nghiệm",
+      "pos": "noun",
+      "emoji": "🧪",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, what a cool experiment!",
+          "vi": "Wow, thí nghiệm hay quá!"
+        },
+        {
+          "en": "What do you think the experiment will show?",
+          "vi": "Con đoán thí nghiệm sẽ ra sao?"
+        },
+        {
+          "en": "Let's try an experiment with ice.",
+          "vi": "Mình làm thử thí nghiệm với nước đá nha."
+        },
+        {
+          "en": "That experiment was so much fun.",
+          "vi": "Thí nghiệm đó vui ghê."
+        },
+        {
+          "en": "We did an experiment at school today!",
+          "vi": "Hôm nay tụi con làm thí nghiệm ở trường!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-004",
+      "en": "sun",
+      "vi": "mặt trời",
+      "pos": "noun",
+      "emoji": "☀️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the sun is out!",
+          "vi": "Nhìn kìa, có mặt trời rồi!"
+        },
+        {
+          "en": "Where's the sun?",
+          "vi": "Mặt trời đâu rồi?"
+        },
+        {
+          "en": "Don't look right at the sun.",
+          "vi": "Đừng nhìn thẳng vô mặt trời nha."
+        },
+        {
+          "en": "The sun is so warm today.",
+          "vi": "Hôm nay mặt trời ấm ghê."
+        },
+        {
+          "en": "The sun went to sleep!",
+          "vi": "Mặt trời đi ngủ rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-005",
+      "en": "moon",
+      "vi": "mặt trăng",
+      "pos": "noun",
+      "emoji": "🌙",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's the moon!",
+          "vi": "Nhìn kìa, mặt trăng kìa!"
+        },
+        {
+          "en": "Can you see the moon tonight?",
+          "vi": "Tối nay con thấy mặt trăng không?"
+        },
+        {
+          "en": "Let's wave to the moon.",
+          "vi": "Mình vẫy tay chào mặt trăng nha."
+        },
+        {
+          "en": "The moon is so round and bright.",
+          "vi": "Mặt trăng tròn và sáng quá."
+        },
+        {
+          "en": "The moon is following our car!",
+          "vi": "Mặt trăng đi theo xe mình kìa!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-006",
+      "en": "star",
+      "vi": "ngôi sao",
+      "pos": "noun",
+      "emoji": "⭐",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at all the stars!",
+          "vi": "Nhìn nè, bao nhiêu là sao!"
+        },
+        {
+          "en": "How many stars can you count?",
+          "vi": "Con đếm được mấy ngôi sao?"
+        },
+        {
+          "en": "Let's make a wish on a star.",
+          "vi": "Mình ước một điều với ngôi sao nha."
+        },
+        {
+          "en": "That star is twinkling.",
+          "vi": "Ngôi sao đó lấp lánh kìa."
+        },
+        {
+          "en": "I see a big star!",
+          "vi": "Con thấy một ngôi sao to nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-007",
+      "en": "planet",
+      "vi": "hành tinh",
+      "pos": "noun",
+      "emoji": "🪐",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at that planet!",
+          "vi": "Wow, nhìn hành tinh đó nè!"
+        },
+        {
+          "en": "Which planet is your favorite?",
+          "vi": "Con thích hành tinh nào nhất?"
+        },
+        {
+          "en": "Let's name all the planets together.",
+          "vi": "Mình cùng kể tên hết các hành tinh nha."
+        },
+        {
+          "en": "Some planets are super hot.",
+          "vi": "Có những hành tinh nóng kinh khủng."
+        },
+        {
+          "en": "We live on a planet called Earth!",
+          "vi": "Mình sống trên hành tinh tên là Trái Đất!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-008",
+      "en": "Earth",
+      "vi": "Trái Đất",
+      "pos": "noun",
+      "emoji": "🌍",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "This is our Earth!",
+          "vi": "Đây là Trái Đất của mình nè!"
+        },
+        {
+          "en": "Do you know where we are on Earth?",
+          "vi": "Con biết mình ở chỗ nào trên Trái Đất không?"
+        },
+        {
+          "en": "Let's take good care of the Earth.",
+          "vi": "Mình cùng giữ gìn Trái Đất nha."
+        },
+        {
+          "en": "The Earth is round like a ball.",
+          "vi": "Trái Đất tròn như trái banh."
+        },
+        {
+          "en": "Most of the Earth is covered in water!",
+          "vi": "Phần lớn Trái Đất là nước đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-009",
+      "en": "Mars",
+      "vi": "sao Hoả",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, that red dot is Mars!",
+          "vi": "Nhìn kìa, chấm đỏ đó là sao Hoả!"
+        },
+        {
+          "en": "Why do you think Mars is red?",
+          "vi": "Con nghĩ sao sao Hoả lại màu đỏ?"
+        },
+        {
+          "en": "Let's read a book about Mars.",
+          "vi": "Mình đọc sách về sao Hoả nha."
+        },
+        {
+          "en": "Mars is cold and dusty.",
+          "vi": "Sao Hoả lạnh và đầy bụi."
+        },
+        {
+          "en": "Someday people might live on Mars!",
+          "vi": "Biết đâu sau này người ta sống trên sao Hoả!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-010",
+      "en": "space",
+      "vi": "vũ trụ, không gian",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, space is so big!",
+          "vi": "Woa, vũ trụ rộng quá trời!"
+        },
+        {
+          "en": "What would you do in space?",
+          "vi": "Lên vũ trụ con sẽ làm gì?"
+        },
+        {
+          "en": "Let's pretend we're flying in space.",
+          "vi": "Mình giả bộ đang bay ngoài vũ trụ nha."
+        },
+        {
+          "en": "There's no air to breathe in space.",
+          "vi": "Ngoài vũ trụ không có không khí để thở."
+        },
+        {
+          "en": "I want to go to space someday!",
+          "vi": "Sau này con muốn bay lên vũ trụ!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-011",
+      "en": "rocket",
+      "vi": "tên lửa",
+      "pos": "noun",
+      "emoji": "🚀",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a rocket!",
+          "vi": "Nhìn kìa, tên lửa!"
+        },
+        {
+          "en": "Where's the rocket going?",
+          "vi": "Tên lửa bay đi đâu vậy?"
+        },
+        {
+          "en": "Let's count down for the rocket!",
+          "vi": "Mình đếm ngược cho tên lửa bay nha!"
+        },
+        {
+          "en": "That rocket is super fast.",
+          "vi": "Tên lửa đó nhanh quá trời."
+        },
+        {
+          "en": "Three, two, one, rocket go!",
+          "vi": "Ba, hai, một, tên lửa bay!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-012",
+      "en": "astronaut",
+      "vi": "phi hành gia",
+      "pos": "noun",
+      "emoji": "🧑‍🚀",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, an astronaut!",
+          "vi": "Nhìn kìa, phi hành gia!"
+        },
+        {
+          "en": "Do you want to be an astronaut?",
+          "vi": "Con muốn làm phi hành gia không?"
+        },
+        {
+          "en": "Put on your astronaut helmet!",
+          "vi": "Đội mũ phi hành gia vô nào!"
+        },
+        {
+          "en": "Astronauts float in their spaceship.",
+          "vi": "Phi hành gia lơ lửng trong tàu vũ trụ."
+        },
+        {
+          "en": "I'm an astronaut!",
+          "vi": "Con là phi hành gia nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-013",
+      "en": "spaceship",
+      "vi": "tàu vũ trụ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a big spaceship!",
+          "vi": "Wow, tàu vũ trụ to quá!"
+        },
+        {
+          "en": "Where's your spaceship going?",
+          "vi": "Tàu vũ trụ của con bay đi đâu?"
+        },
+        {
+          "en": "Let's build a spaceship from boxes.",
+          "vi": "Mình làm tàu vũ trụ bằng thùng giấy nha."
+        },
+        {
+          "en": "Your spaceship looks so cool.",
+          "vi": "Tàu vũ trụ của con ngầu ghê."
+        },
+        {
+          "en": "My spaceship is flying to the moon!",
+          "vi": "Tàu vũ trụ của con bay lên mặt trăng!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-014",
+      "en": "telescope",
+      "vi": "kính thiên văn",
+      "pos": "noun",
+      "emoji": "🔭",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look through the telescope!",
+          "vi": "Nhìn qua kính thiên văn nè!"
+        },
+        {
+          "en": "What can you see with the telescope?",
+          "vi": "Con thấy gì qua kính thiên văn?"
+        },
+        {
+          "en": "Let's set up the telescope tonight.",
+          "vi": "Tối nay mình dựng kính thiên văn nha."
+        },
+        {
+          "en": "The moon looks huge in the telescope.",
+          "vi": "Nhìn qua kính thiên văn mặt trăng to đùng."
+        },
+        {
+          "en": "I saw a crater with the telescope!",
+          "vi": "Con thấy miệng hố qua kính thiên văn đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-015",
+      "en": "gravity",
+      "vi": "trọng lực",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Gravity pulls everything down!",
+          "vi": "Trọng lực kéo mọi thứ xuống dưới!"
+        },
+        {
+          "en": "Do you know why things fall? Gravity!",
+          "vi": "Con biết sao đồ vật rơi xuống không? Nhờ trọng lực đó!"
+        },
+        {
+          "en": "Drop the ball and watch gravity work.",
+          "vi": "Thả trái banh xuống rồi coi trọng lực hoạt động nè."
+        },
+        {
+          "en": "There's less gravity on the moon, so you could jump really high.",
+          "vi": "Trên mặt trăng trọng lực yếu hơn nên con nhảy cao lắm."
+        },
+        {
+          "en": "Without gravity, we'd float away!",
+          "vi": "Không có trọng lực thì mình bay lơ lửng luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-016",
+      "en": "orbit",
+      "vi": "quỹ đạo, bay quanh",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "The moon orbits the Earth!",
+          "vi": "Mặt trăng bay quanh Trái Đất đó!"
+        },
+        {
+          "en": "How long does Earth take to orbit the sun?",
+          "vi": "Trái Đất bay quanh mặt trời mất bao lâu?"
+        },
+        {
+          "en": "Let's walk around the lamp like Earth's orbit.",
+          "vi": "Mình đi vòng quanh cây đèn giống Trái Đất bay quanh mặt trời nha."
+        },
+        {
+          "en": "It takes a whole year to orbit the sun.",
+          "vi": "Phải mất trọn một năm mới bay hết một vòng quanh mặt trời."
+        },
+        {
+          "en": "I learned that planets orbit the sun.",
+          "vi": "Con học được là các hành tinh bay quanh mặt trời."
+        }
+      ]
+    },
+    {
+      "id": "v-science-017",
+      "en": "comet",
+      "vi": "sao chổi",
+      "pos": "noun",
+      "emoji": "☄️",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a comet!",
+          "vi": "Wow, sao chổi kìa!"
+        },
+        {
+          "en": "Have you ever seen a comet?",
+          "vi": "Con thấy sao chổi bao giờ chưa?"
+        },
+        {
+          "en": "Let's look for comets in the sky.",
+          "vi": "Mình tìm sao chổi trên trời nha."
+        },
+        {
+          "en": "A comet has a long, shiny tail.",
+          "vi": "Sao chổi có cái đuôi dài sáng lấp lánh."
+        },
+        {
+          "en": "I drew a comet with a long tail!",
+          "vi": "Con vẽ sao chổi có cái đuôi dài nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-018",
+      "en": "shooting star",
+      "vi": "sao băng",
+      "pos": "noun",
+      "emoji": "🌠",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a shooting star!",
+          "vi": "Nhìn kìa, sao băng!"
+        },
+        {
+          "en": "Did you see that shooting star?",
+          "vi": "Con thấy ngôi sao băng đó không?"
+        },
+        {
+          "en": "Quick, make a wish on the shooting star!",
+          "vi": "Nhanh lên, ước một điều với sao băng đi!"
+        },
+        {
+          "en": "Shooting stars move really fast.",
+          "vi": "Sao băng bay nhanh lắm."
+        },
+        {
+          "en": "I saw a shooting star last night!",
+          "vi": "Tối qua con thấy sao băng đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-019",
+      "en": "solar system",
+      "vi": "hệ mặt trời",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's a map of the solar system.",
+          "vi": "Đây là sơ đồ hệ mặt trời nè."
+        },
+        {
+          "en": "How many planets are in our solar system?",
+          "vi": "Hệ mặt trời của mình có bao nhiêu hành tinh?"
+        },
+        {
+          "en": "Let's build a solar system out of balls.",
+          "vi": "Mình làm hệ mặt trời bằng mấy trái banh nha."
+        },
+        {
+          "en": "The sun is in the middle of the solar system.",
+          "vi": "Mặt trời nằm ở giữa hệ mặt trời."
+        },
+        {
+          "en": "I'm going to make a solar system for my project.",
+          "vi": "Con sẽ làm mô hình hệ mặt trời cho bài dự án."
+        }
+      ]
+    },
+    {
+      "id": "v-science-020",
+      "en": "crater",
+      "vi": "miệng hố (trên mặt trăng)",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at that giant crater!",
+          "vi": "Nhìn cái miệng hố khổng lồ kìa!"
+        },
+        {
+          "en": "Do you know how craters are made?",
+          "vi": "Con biết miệng hố hình thành ra sao không?"
+        },
+        {
+          "en": "Let's drop rocks in flour to make craters.",
+          "vi": "Mình thả đá vô bột để tạo miệng hố nha."
+        },
+        {
+          "en": "The moon is covered in craters.",
+          "vi": "Mặt trăng đầy miệng hố."
+        },
+        {
+          "en": "I think a big space rock made that crater.",
+          "vi": "Con nghĩ một cục đá vũ trụ lớn tạo ra cái hố đó."
+        }
+      ]
+    },
+    {
+      "id": "v-science-021",
+      "en": "microscope",
+      "vi": "kính hiển vi",
+      "pos": "noun",
+      "emoji": "🔬",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look through the microscope!",
+          "vi": "Nhìn qua kính hiển vi nè!"
+        },
+        {
+          "en": "What do you see in the microscope?",
+          "vi": "Con thấy gì trong kính hiển vi?"
+        },
+        {
+          "en": "Let's put a leaf under the microscope.",
+          "vi": "Mình để chiếc lá dưới kính hiển vi nha."
+        },
+        {
+          "en": "Things look huge under a microscope.",
+          "vi": "Đồ vật nhìn qua kính hiển vi to đùng."
+        },
+        {
+          "en": "I saw tiny bugs with the microscope!",
+          "vi": "Con thấy mấy con bọ nhỏ xíu qua kính hiển vi!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-022",
+      "en": "magnifying glass",
+      "vi": "kính lúp",
+      "pos": "noun",
+      "emoji": "🔍",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Here's a magnifying glass!",
+          "vi": "Kính lúp nè!"
+        },
+        {
+          "en": "Want to try the magnifying glass?",
+          "vi": "Con muốn thử kính lúp không?"
+        },
+        {
+          "en": "Use the magnifying glass on the ant.",
+          "vi": "Lấy kính lúp soi con kiến nè."
+        },
+        {
+          "en": "The magnifying glass makes things bigger.",
+          "vi": "Kính lúp làm đồ vật to ra."
+        },
+        {
+          "en": "Can I hold the magnifying glass?",
+          "vi": "Con cầm kính lúp được không?"
+        }
+      ]
+    },
+    {
+      "id": "v-science-023",
+      "en": "lab coat",
+      "vi": "áo khoác thí nghiệm",
+      "pos": "noun",
+      "emoji": "🥼",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at your lab coat!",
+          "vi": "Coi cái áo thí nghiệm của con nè!"
+        },
+        {
+          "en": "Do scientists wear lab coats?",
+          "vi": "Nhà khoa học có mặc áo khoác trắng không?"
+        },
+        {
+          "en": "Put on your lab coat, scientist!",
+          "vi": "Mặc áo thí nghiệm vô đi nhà khoa học!"
+        },
+        {
+          "en": "That lab coat is a little big.",
+          "vi": "Cái áo thí nghiệm hơi rộng ha."
+        },
+        {
+          "en": "I wore a lab coat at science camp!",
+          "vi": "Ở trại khoa học con được mặc áo thí nghiệm đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-024",
+      "en": "magnet",
+      "vi": "nam châm",
+      "pos": "noun",
+      "emoji": "🧲",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a magnet!",
+          "vi": "Nhìn nè, nam châm!"
+        },
+        {
+          "en": "What does the magnet stick to?",
+          "vi": "Nam châm hút được cái gì ta?"
+        },
+        {
+          "en": "Let's try the magnet on the fridge.",
+          "vi": "Mình thử nam châm lên tủ lạnh nha."
+        },
+        {
+          "en": "This magnet is really strong.",
+          "vi": "Nam châm này hút mạnh ghê."
+        },
+        {
+          "en": "The magnet picked up the spoon!",
+          "vi": "Nam châm hút được cái muỗng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-025",
+      "en": "sunlight",
+      "vi": "ánh nắng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at the sunlight on the floor!",
+          "vi": "Coi ánh nắng chiếu trên sàn nè!"
+        },
+        {
+          "en": "Do plants need sunlight?",
+          "vi": "Cây có cần ánh nắng không?"
+        },
+        {
+          "en": "Let's put the plant in the sunlight.",
+          "vi": "Mình để chậu cây ra chỗ có nắng nha."
+        },
+        {
+          "en": "The sunlight feels warm on my face.",
+          "vi": "Ánh nắng chiếu lên mặt ấm ấm."
+        },
+        {
+          "en": "Plants use sunlight to make food!",
+          "vi": "Cây dùng ánh nắng để tạo ra thức ăn đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-026",
+      "en": "shadow",
+      "vi": "cái bóng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, there's your shadow!",
+          "vi": "Nhìn kìa, bóng của con kìa!"
+        },
+        {
+          "en": "Can you catch your shadow?",
+          "vi": "Con bắt được cái bóng của con không?"
+        },
+        {
+          "en": "Let's make shadow animals on the wall.",
+          "vi": "Mình làm bóng con vật lên tường nha."
+        },
+        {
+          "en": "Your shadow is so tall now.",
+          "vi": "Bóng của con giờ cao quá chừng."
+        },
+        {
+          "en": "My shadow follows me everywhere!",
+          "vi": "Cái bóng đi theo con hoài!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-027",
+      "en": "water",
+      "vi": "nước",
+      "pos": "noun",
+      "emoji": "💧",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, look at the water splash!",
+          "vi": "Ồ, coi nước bắn tung toé nè!"
+        },
+        {
+          "en": "Where does the water go?",
+          "vi": "Nước chảy đi đâu ta?"
+        },
+        {
+          "en": "Pour the water into the cup.",
+          "vi": "Con rót nước vô ly nha."
+        },
+        {
+          "en": "The water feels so cold!",
+          "vi": "Nước lạnh quá!"
+        },
+        {
+          "en": "I want to play with water!",
+          "vi": "Con muốn chơi nước!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-028",
+      "en": "Jupiter",
+      "vi": "sao Mộc",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, that bright dot is Jupiter!",
+          "vi": "Nhìn kìa, chấm sáng đó là sao Mộc!"
+        },
+        {
+          "en": "Do you know which planet is biggest? Jupiter!",
+          "vi": "Con biết hành tinh nào to nhất không? Sao Mộc đó!"
+        },
+        {
+          "en": "Let's find Jupiter in your space book.",
+          "vi": "Mình tìm sao Mộc trong sách vũ trụ của con nha."
+        },
+        {
+          "en": "Jupiter has a giant red spot.",
+          "vi": "Sao Mộc có một đốm đỏ khổng lồ."
+        },
+        {
+          "en": "Jupiter is way bigger than Earth!",
+          "vi": "Sao Mộc to hơn Trái Đất nhiều lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-029",
+      "en": "space station",
+      "vi": "trạm vũ trụ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, that's a space station!",
+          "vi": "Nhìn nè, đó là trạm vũ trụ!"
+        },
+        {
+          "en": "Who lives on the space station?",
+          "vi": "Ai sống trên trạm vũ trụ vậy?"
+        },
+        {
+          "en": "Let's build a space station with blocks.",
+          "vi": "Mình xếp trạm vũ trụ bằng khối gỗ nha."
+        },
+        {
+          "en": "Astronauts sleep in bags on the space station.",
+          "vi": "Trên trạm vũ trụ phi hành gia ngủ trong túi ngủ."
+        },
+        {
+          "en": "I want to visit the space station someday!",
+          "vi": "Sau này con muốn lên thăm trạm vũ trụ!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-030",
+      "en": "freeze",
+      "vi": "đông lạnh, đóng băng",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the water froze!",
+          "vi": "Wow, nước đông đá rồi!"
+        },
+        {
+          "en": "What happens when water freezes?",
+          "vi": "Nước đóng băng thì ra sao?"
+        },
+        {
+          "en": "Let's freeze some juice in a cup.",
+          "vi": "Mình làm đông nước trái cây trong ly nha."
+        },
+        {
+          "en": "Water turns hard when it freezes.",
+          "vi": "Nước đóng băng thì cứng lại."
+        },
+        {
+          "en": "I froze a toy in ice!",
+          "vi": "Con đông đá món đồ chơi luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-031",
+      "en": "steam",
+      "vi": "hơi nước",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look at all that steam!",
+          "vi": "Coi hơi nước bốc lên kìa!"
+        },
+        {
+          "en": "Where does the steam come from?",
+          "vi": "Hơi nước từ đâu ra vậy?"
+        },
+        {
+          "en": "Stay back from the steam, it's hot.",
+          "vi": "Đứng xa hơi nước ra nha, nóng lắm."
+        },
+        {
+          "en": "Steam is water that got really hot.",
+          "vi": "Hơi nước là nước bị nung nóng lắm đó."
+        },
+        {
+          "en": "I saw steam coming from the pot!",
+          "vi": "Con thấy hơi nước bốc lên từ cái nồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-032",
+      "en": "float",
+      "vi": "nổi",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, it floats!",
+          "vi": "Nhìn nè, nó nổi!"
+        },
+        {
+          "en": "Will it float or sink?",
+          "vi": "Nó sẽ nổi hay chìm?"
+        },
+        {
+          "en": "Let's see what floats in the tub.",
+          "vi": "Mình coi cái gì nổi trong bồn nha."
+        },
+        {
+          "en": "The leaf floats like a little boat.",
+          "vi": "Chiếc lá nổi như chiếc thuyền nhỏ."
+        },
+        {
+          "en": "My duck is floating!",
+          "vi": "Con vịt của con đang nổi nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-033",
+      "en": "solid",
+      "vi": "chất rắn, rắn",
+      "pos": "adjective",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ice is a solid.",
+          "vi": "Nước đá là chất rắn."
+        },
+        {
+          "en": "Is this rock solid or liquid?",
+          "vi": "Cục đá này là chất rắn hay chất lỏng?"
+        },
+        {
+          "en": "Let's find three solid things in the kitchen.",
+          "vi": "Mình tìm ba thứ là chất rắn trong bếp nha."
+        },
+        {
+          "en": "Solids keep their shape, even in a cup.",
+          "vi": "Chất rắn giữ nguyên hình dạng, dù để trong ly."
+        },
+        {
+          "en": "I learned that wood is a solid.",
+          "vi": "Con học được gỗ là chất rắn."
+        }
+      ]
+    },
+    {
+      "id": "v-science-034",
+      "en": "liquid",
+      "vi": "chất lỏng",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Milk is a liquid!",
+          "vi": "Sữa là chất lỏng đó!"
+        },
+        {
+          "en": "Can you name a liquid?",
+          "vi": "Con kể tên một chất lỏng được không?"
+        },
+        {
+          "en": "Let's pour the liquid slowly.",
+          "vi": "Mình rót chất lỏng từ từ nha."
+        },
+        {
+          "en": "A liquid takes the shape of its cup.",
+          "vi": "Chất lỏng có hình dạng của cái ly đựng nó."
+        },
+        {
+          "en": "I think honey is a really slow liquid.",
+          "vi": "Con nghĩ mật ong là chất lỏng chảy chậm lắm."
+        }
+      ]
+    },
+    {
+      "id": "v-science-035",
+      "en": "dissolve",
+      "vi": "hoà tan",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the sugar dissolved!",
+          "vi": "Nhìn nè, đường tan hết rồi!"
+        },
+        {
+          "en": "Does salt dissolve in water?",
+          "vi": "Muối có tan trong nước không?"
+        },
+        {
+          "en": "Stir it until it dissolves.",
+          "vi": "Khuấy tới khi nó tan hết nha."
+        },
+        {
+          "en": "Sugar dissolves faster in warm water.",
+          "vi": "Đường tan nhanh hơn trong nước ấm."
+        },
+        {
+          "en": "I'm going to see if sand dissolves.",
+          "vi": "Con sẽ thử coi cát có tan không."
+        }
+      ]
+    },
+    {
+      "id": "v-science-036",
+      "en": "evaporate",
+      "vi": "bay hơi",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the puddle evaporated!",
+          "vi": "Wow, vũng nước bay hơi mất rồi!"
+        },
+        {
+          "en": "Where does water go when it evaporates?",
+          "vi": "Nước bay hơi rồi thì đi đâu?"
+        },
+        {
+          "en": "Let's leave a cup in the sun and watch it evaporate.",
+          "vi": "Mình để ly nước ngoài nắng coi nó bay hơi nha."
+        },
+        {
+          "en": "Water evaporates faster on hot days.",
+          "vi": "Ngày nóng thì nước bay hơi nhanh hơn."
+        },
+        {
+          "en": "I think the water evaporated into the sky.",
+          "vi": "Con nghĩ nước bay hơi lên trời rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-science-037",
+      "en": "air",
+      "vi": "không khí",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Feel the air!",
+          "vi": "Cảm nhận không khí nè!"
+        },
+        {
+          "en": "Can you see air?",
+          "vi": "Con có thấy không khí không?"
+        },
+        {
+          "en": "Blow air into the balloon.",
+          "vi": "Thổi hơi vô bong bóng nào."
+        },
+        {
+          "en": "The air smells so fresh.",
+          "vi": "Không khí thơm mát ghê."
+        },
+        {
+          "en": "We need air to breathe!",
+          "vi": "Mình cần không khí để thở!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-038",
+      "en": "energy",
+      "vi": "năng lượng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you have so much energy!",
+          "vi": "Wow, con nhiều năng lượng quá!"
+        },
+        {
+          "en": "Where does our energy come from?",
+          "vi": "Năng lượng của mình từ đâu ra?"
+        },
+        {
+          "en": "Let's save energy and turn off the lights.",
+          "vi": "Mình tiết kiệm năng lượng, tắt đèn đi nha."
+        },
+        {
+          "en": "Food gives your body energy.",
+          "vi": "Đồ ăn cho cơ thể con năng lượng."
+        },
+        {
+          "en": "I have tons of energy today!",
+          "vi": "Hôm nay con khoẻ re luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-039",
+      "en": "electricity",
+      "vi": "điện",
+      "pos": "noun",
+      "emoji": "⚡",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That's electricity!",
+          "vi": "Đó là điện đó!"
+        },
+        {
+          "en": "What things use electricity?",
+          "vi": "Những thứ nào xài điện ta?"
+        },
+        {
+          "en": "Never touch the plug, electricity can hurt you.",
+          "vi": "Đừng bao giờ đụng ổ điện nha, điện nguy hiểm lắm."
+        },
+        {
+          "en": "Electricity makes the lights turn on.",
+          "vi": "Điện làm đèn sáng lên."
+        },
+        {
+          "en": "The TV needs electricity to work.",
+          "vi": "Ti vi cần điện mới chạy được."
+        }
+      ]
+    },
+    {
+      "id": "v-science-040",
+      "en": "dinosaur",
+      "vi": "khủng long",
+      "pos": "noun",
+      "emoji": "🦕",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Stomp, stomp, here comes a dinosaur!",
+          "vi": "Thình thịch, khủng long tới kìa!"
+        },
+        {
+          "en": "Which dinosaur do you like best?",
+          "vi": "Con thích con khủng long nào nhất?"
+        },
+        {
+          "en": "Let's stomp like dinosaurs!",
+          "vi": "Mình dậm chân như khủng long nào!"
+        },
+        {
+          "en": "That dinosaur is so big.",
+          "vi": "Con khủng long đó to quá."
+        },
+        {
+          "en": "I'm a dinosaur! Roar!",
+          "vi": "Con là khủng long! Gừ!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-041",
+      "en": "fossil",
+      "vi": "hoá thạch",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a real fossil!",
+          "vi": "Nhìn nè, hoá thạch thật đó!"
+        },
+        {
+          "en": "How old is this fossil?",
+          "vi": "Hoá thạch này bao nhiêu tuổi rồi?"
+        },
+        {
+          "en": "Let's dig for fossils in the sand.",
+          "vi": "Mình đào tìm hoá thạch trong cát nha."
+        },
+        {
+          "en": "This fossil is millions of years old.",
+          "vi": "Hoá thạch này hàng triệu năm tuổi đó."
+        },
+        {
+          "en": "I found a fossil at the museum!",
+          "vi": "Con tìm thấy hoá thạch ở viện bảo tàng!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-042",
+      "en": "lava",
+      "vi": "dung nham",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, look at that hot lava!",
+          "vi": "Woa, coi dung nham nóng kìa!"
+        },
+        {
+          "en": "Where does lava come from?",
+          "vi": "Dung nham từ đâu ra vậy?"
+        },
+        {
+          "en": "Let's play the floor is lava!",
+          "vi": "Mình chơi trò sàn nhà là dung nham nha!"
+        },
+        {
+          "en": "Lava is super hot and glowing.",
+          "vi": "Dung nham nóng kinh khủng và phát sáng."
+        },
+        {
+          "en": "I made a lava volcano with baking soda!",
+          "vi": "Con làm núi lửa phun dung nham bằng muối nở!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-043",
+      "en": "grow",
+      "vi": "lớn lên, mọc",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look how much you've grown!",
+          "vi": "Coi con lớn quá chừng nè!"
+        },
+        {
+          "en": "How do plants grow?",
+          "vi": "Cây lớn lên bằng cách nào?"
+        },
+        {
+          "en": "Let's water the beans so they grow.",
+          "vi": "Mình tưới hạt đậu cho nó mọc nha."
+        },
+        {
+          "en": "Your hair grows so fast.",
+          "vi": "Tóc con mọc nhanh ghê."
+        },
+        {
+          "en": "I'm growing big and strong!",
+          "vi": "Con đang lớn lên khoẻ mạnh nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-044",
+      "en": "Saturn",
+      "vi": "sao Thổ",
+      "pos": "noun",
+      "emoji": "🪐",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, that's Saturn!",
+          "vi": "Nhìn nè, sao Thổ đó!"
+        },
+        {
+          "en": "Can you see Saturn's rings?",
+          "vi": "Con thấy vành đai của sao Thổ không?"
+        },
+        {
+          "en": "Let's draw Saturn with its rings.",
+          "vi": "Mình vẽ sao Thổ với vành đai nha."
+        },
+        {
+          "en": "Saturn is huge and has lots of moons.",
+          "vi": "Sao Thổ to lắm và có nhiều mặt trăng."
+        },
+        {
+          "en": "Saturn is my favorite planet!",
+          "vi": "Sao Thổ là hành tinh con thích nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-045",
+      "en": "crystal",
+      "vi": "tinh thể, pha lê",
+      "pos": "noun",
+      "emoji": "💎",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a sparkly crystal!",
+          "vi": "Ồ, viên tinh thể lấp lánh!"
+        },
+        {
+          "en": "How do crystals grow?",
+          "vi": "Tinh thể lớn lên bằng cách nào?"
+        },
+        {
+          "en": "Let's grow sugar crystals on a string.",
+          "vi": "Mình nuôi tinh thể đường trên sợi chỉ nha."
+        },
+        {
+          "en": "This crystal is so shiny and pretty.",
+          "vi": "Viên tinh thể này sáng đẹp ghê."
+        },
+        {
+          "en": "I found a purple crystal in the rocks!",
+          "vi": "Con tìm được viên tinh thể tím trong đống đá!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-046",
+      "en": "invisible",
+      "vi": "vô hình, không thấy được",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Air is invisible!",
+          "vi": "Không khí là vô hình đó!"
+        },
+        {
+          "en": "What else is invisible?",
+          "vi": "Còn gì vô hình nữa ta?"
+        },
+        {
+          "en": "Let's write a message with invisible ink.",
+          "vi": "Mình viết thư bằng mực tàng hình nha."
+        },
+        {
+          "en": "Germs are tiny and invisible.",
+          "vi": "Vi trùng nhỏ xíu, mắt mình không thấy được."
+        },
+        {
+          "en": "I wish I could be invisible!",
+          "vi": "Ước gì con tàng hình được!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-047",
+      "en": "test tube",
+      "vi": "ống nghiệm",
+      "pos": "noun",
+      "emoji": "🧪",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a test tube!",
+          "vi": "Nhìn nè, ống nghiệm!"
+        },
+        {
+          "en": "What's inside the test tube?",
+          "vi": "Trong ống nghiệm có gì vậy?"
+        },
+        {
+          "en": "Hold the test tube carefully, please.",
+          "vi": "Cầm ống nghiệm cẩn thận nha con."
+        },
+        {
+          "en": "The test tube is long and skinny.",
+          "vi": "Ống nghiệm dài và mảnh."
+        },
+        {
+          "en": "I mixed blue and yellow in a test tube!",
+          "vi": "Con trộn màu xanh với màu vàng trong ống nghiệm!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-048",
+      "en": "echo",
+      "vi": "tiếng vang",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hello! Listen for the echo!",
+          "vi": "Xin chào! Nghe tiếng vang nè!"
+        },
+        {
+          "en": "Can you hear the echo?",
+          "vi": "Con nghe tiếng vang không?"
+        },
+        {
+          "en": "Let's shout and make an echo.",
+          "vi": "Mình la lên cho có tiếng vang nha."
+        },
+        {
+          "en": "The echo is loud in this tunnel.",
+          "vi": "Trong đường hầm này tiếng vang lớn ghê."
+        },
+        {
+          "en": "I heard my echo in the cave!",
+          "vi": "Con nghe tiếng vang của con trong hang!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-049",
+      "en": "discover",
+      "vi": "khám phá",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look what you discovered!",
+          "vi": "Wow, coi con khám phá ra gì nè!"
+        },
+        {
+          "en": "What did you discover today?",
+          "vi": "Hôm nay con khám phá ra điều gì?"
+        },
+        {
+          "en": "Let's go discover something new.",
+          "vi": "Mình đi khám phá điều mới nha."
+        },
+        {
+          "en": "Scientists discover new things every day.",
+          "vi": "Nhà khoa học khám phá điều mới mỗi ngày."
+        },
+        {
+          "en": "I discovered a bird nest outside!",
+          "vi": "Con phát hiện ra tổ chim ngoài sân!"
+        }
+      ]
+    },
+    {
+      "id": "v-science-050",
+      "en": "observe",
+      "vi": "quan sát",
+      "pos": "verb",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Observe closely, what do you notice?",
+          "vi": "Quan sát kỹ nè, con thấy gì?"
+        },
+        {
+          "en": "What did you observe about the ice?",
+          "vi": "Con quan sát thấy gì ở cục nước đá?"
+        },
+        {
+          "en": "Let's observe the seeds every morning.",
+          "vi": "Sáng nào mình cũng quan sát mấy hạt giống nha."
+        },
+        {
+          "en": "Scientists observe things very carefully.",
+          "vi": "Nhà khoa học quan sát rất cẩn thận."
+        },
+        {
+          "en": "I observed that the moon changes shape.",
+          "vi": "Con quan sát thấy mặt trăng đổi hình dạng."
+        }
+      ]
+    },
+    {
+      "id": "v-science-051",
+      "en": "invention",
+      "vi": "phát minh",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a clever invention!",
+          "vi": "Phát minh thông minh quá!"
+        },
+        {
+          "en": "What's the best invention ever?",
+          "vi": "Phát minh nào hay nhất từ trước tới giờ?"
+        },
+        {
+          "en": "Let's build your own invention with boxes.",
+          "vi": "Mình làm phát minh của con bằng thùng giấy nha."
+        },
+        {
+          "en": "The light bulb was an amazing invention.",
+          "vi": "Bóng đèn là một phát minh tuyệt vời."
+        },
+        {
+          "en": "My invention will help people clean their rooms.",
+          "vi": "Phát minh của con sẽ giúp mọi người dọn phòng."
+        }
+      ]
+    },
+    {
+      "id": "v-science-052",
+      "en": "oxygen",
+      "vi": "khí ô-xy",
+      "pos": "noun",
+      "ages": [
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Plants make oxygen for us!",
+          "vi": "Cây tạo ra khí ô-xy cho mình đó!"
+        },
+        {
+          "en": "Why do astronauts need oxygen tanks?",
+          "vi": "Sao phi hành gia cần bình ô-xy?"
+        },
+        {
+          "en": "Take a deep breath of oxygen.",
+          "vi": "Hít một hơi ô-xy thật sâu nào."
+        },
+        {
+          "en": "Our bodies need oxygen to live.",
+          "vi": "Cơ thể mình cần ô-xy để sống."
+        },
+        {
+          "en": "I learned that trees give us oxygen.",
+          "vi": "Con học được là cây cho mình khí ô-xy."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1703 @@
+{
+  "deckId": "v-colors-shapes",
+  "words": [
+    {
+      "id": "v-colors-shapes-001",
+      "en": "red",
+      "vi": "màu đỏ",
+      "pos": "adjective",
+      "emoji": "🔴",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a red ladybug!",
+          "vi": "Nhìn nè, con bọ rùa màu đỏ!"
+        },
+        {
+          "en": "Where's the red block?",
+          "vi": "Khối màu đỏ đâu rồi ta?"
+        },
+        {
+          "en": "Can you find something red?",
+          "vi": "Con tìm được cái gì màu đỏ không?"
+        },
+        {
+          "en": "Your cheeks are all red.",
+          "vi": "Má con đỏ hết rồi nè."
+        },
+        {
+          "en": "I want the red one!",
+          "vi": "Con muốn cái màu đỏ!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-002",
+      "en": "blue",
+      "vi": "màu xanh dương",
+      "pos": "adjective",
+      "emoji": "🔵",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, the sky is so blue!",
+          "vi": "Wow, trời xanh quá!"
+        },
+        {
+          "en": "Do you want the blue cup?",
+          "vi": "Con muốn cái ly màu xanh dương không?"
+        },
+        {
+          "en": "Put the blue ones here.",
+          "vi": "Để mấy cái màu xanh dương ở đây nè."
+        },
+        {
+          "en": "I love your blue shirt.",
+          "vi": "Cái áo xanh dương của con đẹp ghê."
+        },
+        {
+          "en": "Blue is my favorite!",
+          "vi": "Con thích màu xanh dương nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-003",
+      "en": "yellow",
+      "vi": "màu vàng",
+      "pos": "adjective",
+      "emoji": "🟡",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a yellow bus!",
+          "vi": "Nhìn kìa, xe buýt màu vàng!"
+        },
+        {
+          "en": "Is the banana yellow yet?",
+          "vi": "Trái chuối vàng chưa con?"
+        },
+        {
+          "en": "Let's color the sun yellow.",
+          "vi": "Mình tô mặt trời màu vàng nha."
+        },
+        {
+          "en": "Those yellow flowers are so pretty.",
+          "vi": "Mấy bông hoa vàng đó đẹp quá."
+        },
+        {
+          "en": "I found a yellow leaf!",
+          "vi": "Con nhặt được chiếc lá vàng!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-004",
+      "en": "green",
+      "vi": "màu xanh lá",
+      "pos": "adjective",
+      "emoji": "🟢",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Green means go!",
+          "vi": "Đèn xanh là được đi!"
+        },
+        {
+          "en": "Can you see the green frog?",
+          "vi": "Con thấy con ếch xanh không?"
+        },
+        {
+          "en": "Eat your green beans, please.",
+          "vi": "Con ăn đậu que xanh đi nha."
+        },
+        {
+          "en": "The grass is so green today.",
+          "vi": "Hôm nay cỏ xanh quá."
+        },
+        {
+          "en": "I'm wearing green socks!",
+          "vi": "Con mang vớ màu xanh lá nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-005",
+      "en": "orange",
+      "vi": "màu cam",
+      "pos": "adjective",
+      "emoji": "🟠",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, an orange crayon!",
+          "vi": "Ồ, cây bút sáp màu cam!"
+        },
+        {
+          "en": "What else is orange?",
+          "vi": "Còn cái gì màu cam nữa ta?"
+        },
+        {
+          "en": "Pass me the orange one, please.",
+          "vi": "Đưa mình cái màu cam nha con."
+        },
+        {
+          "en": "Red and yellow make orange.",
+          "vi": "Đỏ với vàng pha ra màu cam."
+        },
+        {
+          "en": "Pumpkins are orange!",
+          "vi": "Bí ngô màu cam á!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-006",
+      "en": "purple",
+      "vi": "màu tím",
+      "pos": "adjective",
+      "emoji": "🟣",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, purple grapes!",
+          "vi": "Wow, nho tím nè!"
+        },
+        {
+          "en": "Do you like purple?",
+          "vi": "Con thích màu tím không?"
+        },
+        {
+          "en": "Find the purple puzzle piece.",
+          "vi": "Tìm miếng ghép màu tím đi con."
+        },
+        {
+          "en": "This purple dress is so pretty.",
+          "vi": "Cái đầm tím này xinh ghê."
+        },
+        {
+          "en": "I painted it purple!",
+          "vi": "Con tô nó màu tím đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-007",
+      "en": "pink",
+      "vi": "màu hồng",
+      "pos": "adjective",
+      "emoji": "🩷",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a pink balloon!",
+          "vi": "Nhìn nè, bong bóng màu hồng!"
+        },
+        {
+          "en": "Which one is pink?",
+          "vi": "Cái nào màu hồng con?"
+        },
+        {
+          "en": "Can you pass me the pink cup?",
+          "vi": "Con đưa mình cái ly hồng được không?"
+        },
+        {
+          "en": "The sky is pink tonight.",
+          "vi": "Tối nay trời ửng hồng nè."
+        },
+        {
+          "en": "I want pink shoes!",
+          "vi": "Con muốn giày màu hồng!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-008",
+      "en": "brown",
+      "vi": "màu nâu",
+      "pos": "adjective",
+      "emoji": "🟤",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a brown dog!",
+          "vi": "Nhìn kìa, con chó màu nâu!"
+        },
+        {
+          "en": "Is the bear brown or black?",
+          "vi": "Con gấu màu nâu hay màu đen?"
+        },
+        {
+          "en": "Let's use brown for the tree.",
+          "vi": "Mình dùng màu nâu tô cái cây nha."
+        },
+        {
+          "en": "Your boots are brown with mud.",
+          "vi": "Ủng của con dính bùn nâu hết rồi."
+        },
+        {
+          "en": "My teddy bear is brown.",
+          "vi": "Gấu bông của con màu nâu."
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-009",
+      "en": "black",
+      "vi": "màu đen",
+      "pos": "adjective",
+      "emoji": "⚫",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a black cat!",
+          "vi": "Ồ, con mèo đen!"
+        },
+        {
+          "en": "Where are your black shoes?",
+          "vi": "Giày đen của con đâu rồi?"
+        },
+        {
+          "en": "Draw it with the black marker.",
+          "vi": "Con vẽ bằng bút lông đen nha."
+        },
+        {
+          "en": "Your hair is black and shiny.",
+          "vi": "Tóc con đen bóng ghê."
+        },
+        {
+          "en": "I want the black crayon.",
+          "vi": "Con muốn cây sáp màu đen."
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-010",
+      "en": "white",
+      "vi": "màu trắng",
+      "pos": "adjective",
+      "emoji": "⚪",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, white clouds!",
+          "vi": "Nhìn kìa, mây trắng!"
+        },
+        {
+          "en": "Is your shirt white or gray?",
+          "vi": "Áo con màu trắng hay màu xám?"
+        },
+        {
+          "en": "Let's paint the snowman white.",
+          "vi": "Mình tô người tuyết màu trắng nha."
+        },
+        {
+          "en": "Your teeth are nice and white!",
+          "vi": "Răng con trắng đẹp ghê!"
+        },
+        {
+          "en": "The milk is white!",
+          "vi": "Sữa màu trắng nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-011",
+      "en": "gray",
+      "vi": "màu xám",
+      "pos": "adjective",
+      "emoji": "🩶",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a gray elephant!",
+          "vi": "Nhìn kìa, con voi màu xám!"
+        },
+        {
+          "en": "Why is the sky so gray?",
+          "vi": "Sao trời xám xịt vậy ta?"
+        },
+        {
+          "en": "Grab your gray jacket, please.",
+          "vi": "Con lấy cái áo khoác xám nha."
+        },
+        {
+          "en": "Mice are small and gray.",
+          "vi": "Chuột nhỏ xíu và màu xám."
+        },
+        {
+          "en": "Gray clouds! Rain is coming!",
+          "vi": "Mây xám! Sắp mưa rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-012",
+      "en": "gold",
+      "vi": "màu vàng kim (nhũ vàng)",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a shiny gold coin!",
+          "vi": "Wow, đồng xu vàng óng ánh!"
+        },
+        {
+          "en": "Do you want a gold star sticker?",
+          "vi": "Con muốn sticker ngôi sao nhũ vàng không?"
+        },
+        {
+          "en": "Let's paint the treasure box gold.",
+          "vi": "Mình sơn hộp kho báu màu nhũ vàng nha."
+        },
+        {
+          "en": "Gold looks bright and sparkly, like treasure.",
+          "vi": "Màu nhũ vàng lấp lánh như kho báu."
+        },
+        {
+          "en": "I got a gold medal at school today!",
+          "vi": "Hôm nay con được huy chương vàng ở trường!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-013",
+      "en": "silver",
+      "vi": "màu bạc",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a silver spoon!",
+          "vi": "Ồ, cái muỗng màu bạc!"
+        },
+        {
+          "en": "Is the car silver or gray?",
+          "vi": "Xe đó màu bạc hay màu xám?"
+        },
+        {
+          "en": "Use the silver glitter, okay?",
+          "vi": "Con dùng kim tuyến màu bạc nha."
+        },
+        {
+          "en": "The moon looks silver tonight.",
+          "vi": "Tối nay trăng nhìn như màu bạc."
+        },
+        {
+          "en": "I want a silver bike when I'm bigger.",
+          "vi": "Khi lớn hơn con muốn có chiếc xe đạp màu bạc."
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-014",
+      "en": "light blue",
+      "vi": "màu xanh dương nhạt",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a light blue bird!",
+          "vi": "Nhìn kìa, con chim màu xanh dương nhạt!"
+        },
+        {
+          "en": "Do you want light blue or dark blue?",
+          "vi": "Con muốn xanh dương nhạt hay xanh dương đậm?"
+        },
+        {
+          "en": "Color the sky light blue.",
+          "vi": "Tô bầu trời màu xanh dương nhạt nha."
+        },
+        {
+          "en": "Your new pajamas are light blue.",
+          "vi": "Bộ đồ ngủ mới của con màu xanh dương nhạt."
+        },
+        {
+          "en": "I mixed white and blue and made light blue!",
+          "vi": "Con trộn màu trắng với xanh dương ra màu xanh nhạt nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-015",
+      "en": "dark green",
+      "vi": "màu xanh lá đậm",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, dark green leaves!",
+          "vi": "Wow, lá xanh đậm quá!"
+        },
+        {
+          "en": "Which one is dark green?",
+          "vi": "Cái nào màu xanh lá đậm con?"
+        },
+        {
+          "en": "Pick the dark green crayon for the trees.",
+          "vi": "Chọn cây sáp xanh lá đậm để tô mấy cái cây nha."
+        },
+        {
+          "en": "The forest looks dark green from up here.",
+          "vi": "Từ trên này nhìn xuống, khu rừng xanh đậm ghê."
+        },
+        {
+          "en": "I'm going to paint my dinosaur dark green.",
+          "vi": "Con sẽ tô con khủng long màu xanh lá đậm."
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-016",
+      "en": "black and white",
+      "vi": "màu đen trắng",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a black and white cow!",
+          "vi": "Nhìn kìa, con bò đen trắng!"
+        },
+        {
+          "en": "What else is black and white?",
+          "vi": "Còn con gì màu đen trắng nữa ta?"
+        },
+        {
+          "en": "Let's find black and white animals.",
+          "vi": "Mình tìm mấy con vật màu đen trắng nha."
+        },
+        {
+          "en": "Pandas are black and white.",
+          "vi": "Gấu trúc màu đen trắng."
+        },
+        {
+          "en": "My soccer ball is black and white!",
+          "vi": "Trái banh của con màu đen trắng!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-017",
+      "en": "color",
+      "vi": "màu, màu sắc",
+      "pos": "noun",
+      "emoji": "🎨",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "So many colors!",
+          "vi": "Nhiều màu quá!"
+        },
+        {
+          "en": "What color is this?",
+          "vi": "Cái này màu gì con?"
+        },
+        {
+          "en": "Pick a color, any color!",
+          "vi": "Chọn một màu đi, màu nào cũng được!"
+        },
+        {
+          "en": "Your picture has lovely colors.",
+          "vi": "Tranh của con màu đẹp ghê."
+        },
+        {
+          "en": "This color is my favorite!",
+          "vi": "Con thích màu này nhất!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-018",
+      "en": "shape",
+      "vi": "hình, hình dạng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at all the shapes!",
+          "vi": "Nhìn nè, nhiều hình quá!"
+        },
+        {
+          "en": "What shape is this?",
+          "vi": "Đây là hình gì con?"
+        },
+        {
+          "en": "Let's find shapes around the house.",
+          "vi": "Mình đi tìm các hình trong nhà nha."
+        },
+        {
+          "en": "This cookie is a funny shape.",
+          "vi": "Cái bánh quy này có hình ngộ ghê."
+        },
+        {
+          "en": "I made a shape with my hands!",
+          "vi": "Con làm hình bằng tay nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-019",
+      "en": "circle",
+      "vi": "hình tròn",
+      "pos": "noun",
+      "emoji": "⭕",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a big circle!",
+          "vi": "Nhìn nè, hình tròn to!"
+        },
+        {
+          "en": "Can you draw a circle?",
+          "vi": "Con vẽ hình tròn được không?"
+        },
+        {
+          "en": "Let's sit in a circle.",
+          "vi": "Mình ngồi thành vòng tròn nha."
+        },
+        {
+          "en": "A circle has no corners.",
+          "vi": "Hình tròn không có góc."
+        },
+        {
+          "en": "The wheel is a circle!",
+          "vi": "Bánh xe là hình tròn!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-020",
+      "en": "square",
+      "vi": "hình vuông",
+      "pos": "noun",
+      "emoji": "⬜",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "That window is a square!",
+          "vi": "Cái cửa sổ đó hình vuông kìa!"
+        },
+        {
+          "en": "How many sides does a square have?",
+          "vi": "Hình vuông có mấy cạnh con?"
+        },
+        {
+          "en": "Fold the paper into a square.",
+          "vi": "Gấp tờ giấy thành hình vuông nha."
+        },
+        {
+          "en": "This cracker is a little square.",
+          "vi": "Cái bánh quy giòn này hình vuông nhỏ xíu."
+        },
+        {
+          "en": "I cut my sandwich into squares!",
+          "vi": "Con cắt bánh mì thành hình vuông nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-021",
+      "en": "triangle",
+      "vi": "hình tam giác",
+      "pos": "noun",
+      "emoji": "🔺",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a triangle!",
+          "vi": "Ồ, hình tam giác!"
+        },
+        {
+          "en": "Is this a triangle or a square?",
+          "vi": "Đây là hình tam giác hay hình vuông?"
+        },
+        {
+          "en": "Let's cut the toast into triangles.",
+          "vi": "Mình cắt bánh mì nướng thành hình tam giác nha."
+        },
+        {
+          "en": "A triangle has three pointy corners.",
+          "vi": "Hình tam giác có ba góc nhọn."
+        },
+        {
+          "en": "My pizza slice is a triangle!",
+          "vi": "Miếng pizza của con hình tam giác!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-022",
+      "en": "rectangle",
+      "vi": "hình chữ nhật",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, the door is a rectangle!",
+          "vi": "Nhìn nè, cánh cửa hình chữ nhật!"
+        },
+        {
+          "en": "Can you find a rectangle?",
+          "vi": "Con tìm được hình chữ nhật không?"
+        },
+        {
+          "en": "Draw a long rectangle for the train.",
+          "vi": "Vẽ một hình chữ nhật dài làm xe lửa nha."
+        },
+        {
+          "en": "Your book is a rectangle.",
+          "vi": "Quyển sách của con hình chữ nhật."
+        },
+        {
+          "en": "I built a rectangle with blocks!",
+          "vi": "Con xếp khối thành hình chữ nhật!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-023",
+      "en": "oval",
+      "vi": "hình bầu dục",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, an oval, like an egg!",
+          "vi": "Nhìn nè, hình bầu dục, giống cái trứng!"
+        },
+        {
+          "en": "Is that a circle or an oval?",
+          "vi": "Đó là hình tròn hay hình bầu dục?"
+        },
+        {
+          "en": "Let's draw an oval face.",
+          "vi": "Mình vẽ khuôn mặt hình bầu dục nha."
+        },
+        {
+          "en": "An oval is a stretched circle.",
+          "vi": "Hình bầu dục giống hình tròn bị kéo dài ra."
+        },
+        {
+          "en": "My mirror is an oval!",
+          "vi": "Cái gương của con hình bầu dục!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-024",
+      "en": "heart",
+      "vi": "hình trái tim",
+      "pos": "noun",
+      "emoji": "❤️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a heart!",
+          "vi": "Ồ, hình trái tim!"
+        },
+        {
+          "en": "Can you draw a heart for Grandma?",
+          "vi": "Con vẽ trái tim tặng bà được không?"
+        },
+        {
+          "en": "Let's cut out paper hearts.",
+          "vi": "Mình cắt trái tim bằng giấy nha."
+        },
+        {
+          "en": "That cloud looks like a heart.",
+          "vi": "Đám mây đó giống hình trái tim ghê."
+        },
+        {
+          "en": "I made you a heart, Mommy!",
+          "vi": "Con làm trái tim tặng mẹ nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-025",
+      "en": "diamond",
+      "vi": "hình thoi",
+      "pos": "noun",
+      "emoji": "🔷",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a diamond shape!",
+          "vi": "Nhìn nè, hình thoi!"
+        },
+        {
+          "en": "Can you find the diamond?",
+          "vi": "Con tìm được hình thoi không?"
+        },
+        {
+          "en": "Let's draw a diamond for the kite.",
+          "vi": "Mình vẽ hình thoi làm con diều nha."
+        },
+        {
+          "en": "A diamond looks like a kite.",
+          "vi": "Hình thoi nhìn giống con diều ghê."
+        },
+        {
+          "en": "I drew a diamond on my card!",
+          "vi": "Con vẽ hình thoi lên thiệp nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-026",
+      "en": "half circle",
+      "vi": "hình nửa tròn (bán nguyệt)",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a half circle, like a rainbow!",
+          "vi": "Nhìn nè, hình nửa tròn, giống cầu vồng!"
+        },
+        {
+          "en": "Is this a half circle?",
+          "vi": "Đây có phải hình nửa tròn không?"
+        },
+        {
+          "en": "Fold it to make a half circle.",
+          "vi": "Gấp lại cho thành hình nửa tròn nha."
+        },
+        {
+          "en": "A watermelon slice is a half circle.",
+          "vi": "Miếng dưa hấu là hình nửa tròn."
+        },
+        {
+          "en": "I made two half circles!",
+          "vi": "Con làm được hai hình nửa tròn!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-027",
+      "en": "crescent",
+      "vi": "hình lưỡi liềm",
+      "pos": "noun",
+      "emoji": "🌙",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the moon is a crescent tonight!",
+          "vi": "Nhìn kìa, tối nay trăng khuyết hình lưỡi liềm!"
+        },
+        {
+          "en": "Do you know what a crescent looks like?",
+          "vi": "Con biết hình lưỡi liềm trông ra sao không?"
+        },
+        {
+          "en": "Let's draw a crescent moon.",
+          "vi": "Mình vẽ trăng lưỡi liềm nha."
+        },
+        {
+          "en": "A banana is kind of a crescent.",
+          "vi": "Trái chuối hơi giống hình lưỡi liềm."
+        },
+        {
+          "en": "I saw a crescent moon from my window.",
+          "vi": "Con thấy trăng lưỡi liềm từ cửa sổ nè."
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-028",
+      "en": "hexagon",
+      "vi": "hình lục giác",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, a hexagon has six sides!",
+          "vi": "Wow, hình lục giác có sáu cạnh!"
+        },
+        {
+          "en": "Can you count the sides of the hexagon?",
+          "vi": "Con đếm số cạnh của hình lục giác được không?"
+        },
+        {
+          "en": "Let's find a hexagon on the soccer ball.",
+          "vi": "Mình tìm hình lục giác trên trái banh nha."
+        },
+        {
+          "en": "Each little hole in a honeycomb is a hexagon.",
+          "vi": "Mỗi ô nhỏ trong tổ ong là một hình lục giác."
+        },
+        {
+          "en": "I learned what a hexagon is at school today.",
+          "vi": "Hôm nay ở trường con được học hình lục giác."
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-029",
+      "en": "pentagon",
+      "vi": "hình ngũ giác",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, this one's a pentagon!",
+          "vi": "Nhìn nè, cái này là hình ngũ giác!"
+        },
+        {
+          "en": "How many corners does a pentagon have?",
+          "vi": "Hình ngũ giác có mấy góc con?"
+        },
+        {
+          "en": "Try drawing a pentagon like a little house.",
+          "vi": "Thử vẽ hình ngũ giác giống ngôi nhà nhỏ nha."
+        },
+        {
+          "en": "A pentagon has five sides and five corners.",
+          "vi": "Hình ngũ giác có năm cạnh và năm góc."
+        },
+        {
+          "en": "I think the house shape is a pentagon!",
+          "vi": "Con nghĩ hình ngôi nhà là hình ngũ giác!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-030",
+      "en": "octagon",
+      "vi": "hình bát giác",
+      "pos": "noun",
+      "emoji": "🛑",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, the stop sign is an octagon!",
+          "vi": "Nhìn kìa, biển báo dừng là hình bát giác!"
+        },
+        {
+          "en": "How many sides does an octagon have?",
+          "vi": "Hình bát giác có mấy cạnh?"
+        },
+        {
+          "en": "Let's count the sides of the octagon together.",
+          "vi": "Mình cùng đếm các cạnh của hình bát giác nha."
+        },
+        {
+          "en": "An octagon has eight sides, just like octopus arms.",
+          "vi": "Hình bát giác có tám cạnh, giống tám cái chân bạch tuộc."
+        },
+        {
+          "en": "I found an octagon on our walk!",
+          "vi": "Con tìm thấy hình bát giác lúc mình đi dạo!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-031",
+      "en": "trapezoid",
+      "vi": "hình thang",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "ipa": "/ˈtɹæpəˌzɔɪd/",
+      "examples": [
+        {
+          "en": "Look, a trapezoid block!",
+          "vi": "Nhìn nè, khối hình thang!",
+          "ipa": "/lʊk ə ˈtɹæpəˌzɔɪd blɑk/"
+        },
+        {
+          "en": "Is this a trapezoid or a rectangle?",
+          "vi": "Đây là hình thang hay hình chữ nhật?",
+          "ipa": "/ɪz ðɪs ə ˈtɹæpəˌzɔɪd ɔɹ ə ˈɹɛktæŋɡəl/"
+        },
+        {
+          "en": "Put two trapezoids together to make a hexagon.",
+          "vi": "Ghép hai hình thang lại thành hình lục giác nha.",
+          "ipa": "/pʊt tu ˈtɹæpəˌzɔɪdz təˈɡɛðɚ tu meɪk ə ˈhɛksəˌɡɑn/"
+        },
+        {
+          "en": "This trapezoid looks like a little boat.",
+          "vi": "Hình thang này giống chiếc thuyền nhỏ ghê.",
+          "ipa": "/ðɪs ˈtɹæpəˌzɔɪd lʊks laɪk ə ˈlɪtəl boʊt/"
+        },
+        {
+          "en": "My teacher showed us a red trapezoid today.",
+          "vi": "Hôm nay cô giáo cho tụi con xem hình thang màu đỏ.",
+          "ipa": "/maɪ ˈtitʃɚ ʃoʊd ʌs ə ɹɛd ˈtɹæpəˌzɔɪd təˈdeɪ/"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-032",
+      "en": "dot",
+      "vi": "dấu chấm, chấm tròn",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a tiny dot!",
+          "vi": "Nhìn nè, một chấm nhỏ xíu!"
+        },
+        {
+          "en": "How many dots can you count?",
+          "vi": "Con đếm được bao nhiêu chấm?"
+        },
+        {
+          "en": "Let's connect the dots.",
+          "vi": "Mình nối các dấu chấm nha."
+        },
+        {
+          "en": "The ladybug has black dots.",
+          "vi": "Con bọ rùa có mấy chấm đen."
+        },
+        {
+          "en": "I drew dots all over!",
+          "vi": "Con vẽ chấm khắp nơi luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-033",
+      "en": "cube",
+      "vi": "hình lập phương",
+      "pos": "noun",
+      "emoji": "🧊",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, an ice cube is a cube!",
+          "vi": "Nhìn nè, viên đá là hình lập phương!"
+        },
+        {
+          "en": "How many faces does a cube have?",
+          "vi": "Hình lập phương có mấy mặt?"
+        },
+        {
+          "en": "Stack the cubes into a tower.",
+          "vi": "Chồng các khối lập phương thành cái tháp nha."
+        },
+        {
+          "en": "Dice are cubes with dots on them.",
+          "vi": "Xúc xắc là khối lập phương có chấm."
+        },
+        {
+          "en": "I built a big cube with my blocks.",
+          "vi": "Con xếp được khối lập phương to bằng mấy khối gỗ."
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-034",
+      "en": "sphere",
+      "vi": "hình cầu",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a ball is a sphere!",
+          "vi": "Nhìn nè, trái banh là hình cầu!"
+        },
+        {
+          "en": "Is the earth a sphere?",
+          "vi": "Trái đất có phải hình cầu không?"
+        },
+        {
+          "en": "Roll the sphere across the table.",
+          "vi": "Lăn khối cầu qua bên kia bàn đi con."
+        },
+        {
+          "en": "A sphere is round all over.",
+          "vi": "Hình cầu thì tròn khắp mọi phía."
+        },
+        {
+          "en": "I think an orange is a sphere too!",
+          "vi": "Con nghĩ trái cam cũng là hình cầu!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-035",
+      "en": "cylinder",
+      "vi": "hình trụ",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a can is a cylinder!",
+          "vi": "Nhìn nè, cái lon là hình trụ!"
+        },
+        {
+          "en": "Can a cylinder roll?",
+          "vi": "Hình trụ lăn được không con?"
+        },
+        {
+          "en": "Put the cylinder next to the cube.",
+          "vi": "Để hình trụ kế bên khối lập phương nha."
+        },
+        {
+          "en": "A cylinder has two flat circles on the ends.",
+          "vi": "Hình trụ có hai mặt tròn phẳng ở hai đầu."
+        },
+        {
+          "en": "I made a cylinder out of paper!",
+          "vi": "Con làm hình trụ bằng giấy nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-036",
+      "en": "cone",
+      "vi": "hình nón",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a party hat is a cone!",
+          "vi": "Nhìn nè, nón sinh nhật là hình nón!"
+        },
+        {
+          "en": "Can you find something shaped like a cone?",
+          "vi": "Con tìm được cái gì hình nón không?"
+        },
+        {
+          "en": "Roll the paper into a cone.",
+          "vi": "Cuộn tờ giấy thành hình nón nha."
+        },
+        {
+          "en": "A cone is round on the bottom, pointy on top.",
+          "vi": "Hình nón đáy tròn, đầu nhọn."
+        },
+        {
+          "en": "My ice cream came in a cone!",
+          "vi": "Kem của con đựng trong ốc quế nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-037",
+      "en": "pyramid",
+      "vi": "hình chóp, kim tự tháp",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at that pyramid!",
+          "vi": "Wow, nhìn cái kim tự tháp kìa!"
+        },
+        {
+          "en": "Can you build a pyramid with cups?",
+          "vi": "Con xếp ly thành hình kim tự tháp được không?"
+        },
+        {
+          "en": "Let's stack the blocks into a pyramid.",
+          "vi": "Mình chồng mấy khối thành hình chóp nha."
+        },
+        {
+          "en": "A pyramid has triangle sides and a pointy top.",
+          "vi": "Hình chóp có các mặt tam giác và đỉnh nhọn."
+        },
+        {
+          "en": "I'm going to make a sand pyramid at the beach.",
+          "vi": "Con sẽ đắp kim tự tháp bằng cát ở biển."
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-038",
+      "en": "arrow",
+      "vi": "mũi tên",
+      "pos": "noun",
+      "emoji": "➡️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, an arrow!",
+          "vi": "Nhìn nè, mũi tên!"
+        },
+        {
+          "en": "Which way is the arrow pointing?",
+          "vi": "Mũi tên chỉ hướng nào con?"
+        },
+        {
+          "en": "Let's follow the arrows!",
+          "vi": "Mình đi theo mũi tên nha!"
+        },
+        {
+          "en": "This arrow points up.",
+          "vi": "Mũi tên này chỉ lên trên."
+        },
+        {
+          "en": "I drew an arrow to the treasure!",
+          "vi": "Con vẽ mũi tên chỉ tới kho báu!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-039",
+      "en": "line",
+      "vi": "đường kẻ, đường thẳng",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a long line!",
+          "vi": "Nhìn nè, một đường kẻ dài!"
+        },
+        {
+          "en": "Can you draw a straight line?",
+          "vi": "Con vẽ được đường thẳng không?"
+        },
+        {
+          "en": "Color inside the lines, okay?",
+          "vi": "Tô trong đường viền nha con."
+        },
+        {
+          "en": "That line is really long.",
+          "vi": "Đường kẻ đó dài thiệt."
+        },
+        {
+          "en": "I drew a line to the bunny!",
+          "vi": "Con vẽ đường nối tới con thỏ!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-040",
+      "en": "zigzag",
+      "vi": "đường zíc zắc",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a zigzag!",
+          "vi": "Ồ, đường zíc zắc!"
+        },
+        {
+          "en": "Can you draw a zigzag line?",
+          "vi": "Con vẽ đường zíc zắc được không?"
+        },
+        {
+          "en": "Let's walk in a zigzag!",
+          "vi": "Mình đi kiểu zíc zắc nha!"
+        },
+        {
+          "en": "Lightning looks like a zigzag.",
+          "vi": "Tia chớp giống đường zíc zắc."
+        },
+        {
+          "en": "I made zigzags on my card!",
+          "vi": "Con vẽ zíc zắc trên thiệp nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-041",
+      "en": "spiral",
+      "vi": "hình xoắn ốc",
+      "pos": "noun",
+      "emoji": "🌀",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a spiral, like a snail shell!",
+          "vi": "Nhìn nè, hình xoắn ốc, giống vỏ ốc sên!"
+        },
+        {
+          "en": "Can you draw a spiral from the middle?",
+          "vi": "Con vẽ hình xoắn ốc từ chính giữa ra được không?"
+        },
+        {
+          "en": "Let's cut the paper into a spiral snake.",
+          "vi": "Mình cắt giấy thành con rắn xoắn ốc nha."
+        },
+        {
+          "en": "The slide at the park is a big spiral.",
+          "vi": "Cầu tuột ở công viên là hình xoắn ốc to."
+        },
+        {
+          "en": "I made a spiral with my finger in the sand.",
+          "vi": "Con lấy ngón tay vẽ hình xoắn ốc trên cát."
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-042",
+      "en": "corner",
+      "vi": "góc",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Careful, sharp corner!",
+          "vi": "Cẩn thận, góc nhọn đó!"
+        },
+        {
+          "en": "How many corners does a square have?",
+          "vi": "Hình vuông có mấy góc?"
+        },
+        {
+          "en": "Fold the corner down like this.",
+          "vi": "Gấp góc xuống như vầy nè."
+        },
+        {
+          "en": "A circle doesn't have any corners.",
+          "vi": "Hình tròn không có góc nào hết."
+        },
+        {
+          "en": "I found four corners!",
+          "vi": "Con tìm được bốn góc!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-043",
+      "en": "dark blue",
+      "vi": "màu xanh dương đậm",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, a dark blue car!",
+          "vi": "Ồ, chiếc xe màu xanh dương đậm!"
+        },
+        {
+          "en": "Is your backpack dark blue or black?",
+          "vi": "Ba lô của con màu xanh dương đậm hay màu đen?"
+        },
+        {
+          "en": "Use dark blue for the night sky.",
+          "vi": "Dùng màu xanh dương đậm tô bầu trời ban đêm nha."
+        },
+        {
+          "en": "The ocean looks dark blue far away.",
+          "vi": "Nhìn ra xa, biển có màu xanh dương đậm."
+        },
+        {
+          "en": "My school uniform is dark blue.",
+          "vi": "Đồng phục của con màu xanh dương đậm."
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-044",
+      "en": "pattern",
+      "vi": "hoa văn, quy luật",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, what a cool pattern!",
+          "vi": "Ồ, hoa văn đẹp ghê!"
+        },
+        {
+          "en": "What comes next in the pattern?",
+          "vi": "Tiếp theo trong quy luật là gì con?"
+        },
+        {
+          "en": "Let's make a pattern: red, blue, red, blue.",
+          "vi": "Mình xếp theo quy luật: đỏ, xanh, đỏ, xanh nha."
+        },
+        {
+          "en": "Your shirt has a fun pattern.",
+          "vi": "Áo con có hoa văn vui mắt ghê."
+        },
+        {
+          "en": "I made a pattern with my beads!",
+          "vi": "Con xâu hạt theo quy luật nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-045",
+      "en": "stripes",
+      "vi": "sọc",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a zebra has stripes!",
+          "vi": "Nhìn kìa, ngựa vằn có sọc!"
+        },
+        {
+          "en": "Do you want stripes or dots?",
+          "vi": "Con muốn áo sọc hay áo chấm bi?"
+        },
+        {
+          "en": "Let's paint stripes on the paper.",
+          "vi": "Mình sơn sọc lên giấy nha."
+        },
+        {
+          "en": "Tigers have orange and black stripes.",
+          "vi": "Cọp có sọc cam và đen."
+        },
+        {
+          "en": "My socks have rainbow stripes!",
+          "vi": "Vớ của con có sọc cầu vồng!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-046",
+      "en": "polka dots",
+      "vi": "chấm bi",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, polka dots!",
+          "vi": "Ồ, chấm bi!"
+        },
+        {
+          "en": "Do you like the polka dot dress?",
+          "vi": "Con thích cái đầm chấm bi không?"
+        },
+        {
+          "en": "Let's paint polka dots with our fingers.",
+          "vi": "Mình lấy ngón tay chấm bi nha."
+        },
+        {
+          "en": "Your umbrella has pink polka dots.",
+          "vi": "Cây dù của con có chấm bi hồng."
+        },
+        {
+          "en": "I want my polka dot shirt!",
+          "vi": "Con muốn mặc áo chấm bi!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-047",
+      "en": "spotty",
+      "vi": "có đốm, lốm đốm",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look, a spotty dog!",
+          "vi": "Nhìn kìa, con chó đốm!"
+        },
+        {
+          "en": "Is the giraffe spotty?",
+          "vi": "Hươu cao cổ có đốm không con?"
+        },
+        {
+          "en": "Let's draw a spotty cow.",
+          "vi": "Mình vẽ con bò đốm nha."
+        },
+        {
+          "en": "The banana is getting spotty.",
+          "vi": "Trái chuối bắt đầu lốm đốm rồi."
+        },
+        {
+          "en": "I like the spotty one!",
+          "vi": "Con thích con có đốm!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-048",
+      "en": "checkered",
+      "vi": "ca rô",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a checkered flag!",
+          "vi": "Nhìn kìa, lá cờ ca rô!"
+        },
+        {
+          "en": "Do you want the checkered blanket?",
+          "vi": "Con muốn cái mền ca rô không?"
+        },
+        {
+          "en": "Lay the checkered cloth on the grass.",
+          "vi": "Trải tấm khăn ca rô lên cỏ nha."
+        },
+        {
+          "en": "A checkered pattern has lots of little squares.",
+          "vi": "Hoa văn ca rô có nhiều ô vuông nhỏ."
+        },
+        {
+          "en": "I'm wearing my checkered shirt today!",
+          "vi": "Hôm nay con mặc áo ca rô nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-049",
+      "en": "plain",
+      "vi": "trơn (không hoa văn)",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, this one's plain, no pattern.",
+          "vi": "Ồ, cái này trơn, không có hoa văn."
+        },
+        {
+          "en": "Do you want a plain shirt or a striped one?",
+          "vi": "Con muốn áo trơn hay áo sọc?"
+        },
+        {
+          "en": "Grab a plain piece of paper.",
+          "vi": "Lấy một tờ giấy trắng trơn nha."
+        },
+        {
+          "en": "This plain cup needs some stickers!",
+          "vi": "Cái ly trơn này cần dán sticker nè!"
+        },
+        {
+          "en": "I want the plain one, no pictures.",
+          "vi": "Con muốn cái trơn, không có hình."
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-050",
+      "en": "wavy",
+      "vi": "lượn sóng, gợn sóng",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, wavy lines like water!",
+          "vi": "Nhìn nè, đường lượn sóng như nước!"
+        },
+        {
+          "en": "Can you draw a wavy line?",
+          "vi": "Con vẽ đường lượn sóng được không?"
+        },
+        {
+          "en": "Let's make wavy hair for the princess.",
+          "vi": "Mình vẽ tóc gợn sóng cho công chúa nha."
+        },
+        {
+          "en": "Your hair is a little wavy today.",
+          "vi": "Hôm nay tóc con hơi gợn sóng nè."
+        },
+        {
+          "en": "I drew wavy water for my fish.",
+          "vi": "Con vẽ nước lượn sóng cho con cá."
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-051",
+      "en": "squiggly",
+      "vi": "ngoằn ngoèo",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "ipa": "/ˈskwɪɡli/",
+      "examples": [
+        {
+          "en": "Ooh, squiggly lines!",
+          "vi": "Ồ, đường ngoằn ngoèo!",
+          "ipa": "/u ˈskwɪɡli laɪnz/"
+        },
+        {
+          "en": "Is that a squiggly worm?",
+          "vi": "Đó là con sâu ngoằn ngoèo hả?",
+          "ipa": "/ɪz ðæt ə ˈskwɪɡli wɝm/"
+        },
+        {
+          "en": "Draw a squiggly line across the page.",
+          "vi": "Vẽ một đường ngoằn ngoèo ngang trang giấy nha.",
+          "ipa": "/dɹɔ ə ˈskwɪɡli laɪn əˈkɹɔs ðə peɪdʒ/"
+        },
+        {
+          "en": "The noodles look all squiggly!",
+          "vi": "Sợi mì nhìn ngoằn ngoèo hết trơn!",
+          "ipa": "/ðə ˈnudəlz lʊk ɔl ˈskwɪɡli/"
+        },
+        {
+          "en": "I made squiggly snakes out of clay!",
+          "vi": "Con nặn mấy con rắn ngoằn ngoèo bằng đất sét!",
+          "ipa": "/aɪ meɪd ˈskwɪɡli sneɪks aʊt ʌv kleɪ/"
+        }
+      ]
+    },
+    {
+      "id": "v-colors-shapes-052",
+      "en": "dotted line",
+      "vi": "đường chấm chấm",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Look, a dotted line!",
+          "vi": "Nhìn nè, đường chấm chấm!"
+        },
+        {
+          "en": "Can you trace the dotted line?",
+          "vi": "Con tô theo đường chấm chấm được không?"
+        },
+        {
+          "en": "Cut along the dotted line, okay?",
+          "vi": "Cắt theo đường chấm chấm nha con."
+        },
+        {
+          "en": "The dotted line shows you where to fold.",
+          "vi": "Đường chấm chấm chỉ chỗ để gấp."
+        },
+        {
+          "en": "I traced all the dotted lines by myself!",
+          "vi": "Con tự tô hết mấy đường chấm chấm luôn!"
+        }
+      ]
+    }
+  ]
+}

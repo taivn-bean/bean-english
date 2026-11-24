@@ -1,0 +1,1701 @@
+{
+  "deckId": "v-feelings",
+  "words": [
+    {
+      "id": "v-feelings-001",
+      "en": "happy",
+      "vi": "vui",
+      "pos": "adjective",
+      "emoji": "😊",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Yay, you look so happy!",
+          "vi": "A, nhìn con vui ghê!"
+        },
+        {
+          "en": "Are you happy?",
+          "vi": "Con có vui không?"
+        },
+        {
+          "en": "Let's make Grandma happy.",
+          "vi": "Mình làm bà vui nha."
+        },
+        {
+          "en": "Puppies make me so happy.",
+          "vi": "Mấy con cún làm mình vui lắm."
+        },
+        {
+          "en": "I'm happy because Daddy's home!",
+          "vi": "Con vui vì ba về rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-002",
+      "en": "sad",
+      "vi": "buồn",
+      "pos": "adjective",
+      "emoji": "😢",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, you look sad.",
+          "vi": "Ôi, nhìn con buồn quá."
+        },
+        {
+          "en": "Why are you feeling sad?",
+          "vi": "Sao con buồn vậy?"
+        },
+        {
+          "en": "Tell me when you feel sad.",
+          "vi": "Khi nào buồn thì kể mình nghe nha."
+        },
+        {
+          "en": "It's okay to feel sad.",
+          "vi": "Buồn cũng không sao đâu."
+        },
+        {
+          "en": "I'm sad, my balloon popped.",
+          "vi": "Con buồn, bong bóng bể rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-003",
+      "en": "mad",
+      "vi": "giận, tức",
+      "pos": "adjective",
+      "emoji": "😤",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, you're really mad!",
+          "vi": "Ồ, con giận thật rồi!"
+        },
+        {
+          "en": "Are you mad at me?",
+          "vi": "Con giận mình hả?"
+        },
+        {
+          "en": "Stomp your feet when you're mad.",
+          "vi": "Giận thì dậm chân thình thịch nè."
+        },
+        {
+          "en": "Feeling mad is okay. Hitting isn't.",
+          "vi": "Giận thì được, nhưng không được đánh."
+        },
+        {
+          "en": "I'm mad! He took my toy!",
+          "vi": "Con tức! Bạn lấy đồ chơi của con!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-004",
+      "en": "angry",
+      "vi": "tức giận",
+      "pos": "adjective",
+      "emoji": "😠",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, that face looks angry!",
+          "vi": "Wow, mặt đó nhìn giận dữ ghê!"
+        },
+        {
+          "en": "What made you so angry?",
+          "vi": "Chuyện gì làm con tức giận vậy?"
+        },
+        {
+          "en": "Take a deep breath when you're angry.",
+          "vi": "Khi tức giận thì hít thở sâu nha."
+        },
+        {
+          "en": "Angry words can hurt people.",
+          "vi": "Lời nói giận dữ có thể làm người khác buồn."
+        },
+        {
+          "en": "I was angry, but now I'm okay.",
+          "vi": "Lúc nãy con tức, nhưng giờ con ổn rồi."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-005",
+      "en": "scared",
+      "vi": "sợ",
+      "pos": "adjective",
+      "emoji": "😨",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oh, it's okay to be scared!",
+          "vi": "Ôi, sợ cũng không sao mà!"
+        },
+        {
+          "en": "Are you scared of the dark?",
+          "vi": "Con sợ bóng tối hả?"
+        },
+        {
+          "en": "Hold my hand if you're scared.",
+          "vi": "Sợ thì nắm tay mình nè."
+        },
+        {
+          "en": "The puppy is scared of the vacuum.",
+          "vi": "Con cún sợ máy hút bụi."
+        },
+        {
+          "en": "I'm scared! Stay with me!",
+          "vi": "Con sợ! Ở lại với con!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-006",
+      "en": "afraid",
+      "vi": "sợ",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Don't be afraid, I'm right here!",
+          "vi": "Đừng sợ, có mình ở đây nè!"
+        },
+        {
+          "en": "What are you afraid of?",
+          "vi": "Con sợ cái gì vậy?"
+        },
+        {
+          "en": "Tell me when you feel afraid.",
+          "vi": "Khi nào thấy sợ thì nói mình nghe nha."
+        },
+        {
+          "en": "Some kids are afraid of dogs.",
+          "vi": "Có bạn sợ chó lắm."
+        },
+        {
+          "en": "I'm not afraid anymore!",
+          "vi": "Con hết sợ rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-007",
+      "en": "hungry",
+      "vi": "đói",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you were hungry!",
+          "vi": "Wow, con đói ghê ha!"
+        },
+        {
+          "en": "Are you hungry?",
+          "vi": "Con đói chưa?"
+        },
+        {
+          "en": "Let's get a snack if you're hungry.",
+          "vi": "Đói thì mình ăn chút gì nha."
+        },
+        {
+          "en": "The puppy looks hungry.",
+          "vi": "Con cún nhìn đói quá."
+        },
+        {
+          "en": "I'm hungry!",
+          "vi": "Con đói!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-008",
+      "en": "thirsty",
+      "vi": "khát nước",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Phew, I bet you're thirsty!",
+          "vi": "Phù, chắc con khát lắm!"
+        },
+        {
+          "en": "Are you thirsty?",
+          "vi": "Con khát nước không?"
+        },
+        {
+          "en": "Drink some water if you're thirsty.",
+          "vi": "Khát thì uống nước nha."
+        },
+        {
+          "en": "The plants look thirsty.",
+          "vi": "Mấy cây nhìn khát nước kìa."
+        },
+        {
+          "en": "I'm so thirsty!",
+          "vi": "Con khát quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-009",
+      "en": "calm down",
+      "vi": "bình tĩnh lại",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you calmed down so fast!",
+          "vi": "Wow, con bình tĩnh lại nhanh ghê!"
+        },
+        {
+          "en": "What helps you calm down?",
+          "vi": "Cái gì giúp con bình tĩnh lại?"
+        },
+        {
+          "en": "Let's hug and calm down.",
+          "vi": "Mình ôm nhau cho bình tĩnh lại nha."
+        },
+        {
+          "en": "Music helps me calm down.",
+          "vi": "Nghe nhạc giúp mình bình tĩnh lại."
+        },
+        {
+          "en": "I calmed down and said sorry.",
+          "vi": "Con bình tĩnh lại rồi xin lỗi."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-010",
+      "en": "excited",
+      "vi": "háo hức",
+      "pos": "adjective",
+      "emoji": "🤩",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're so excited!",
+          "vi": "Wow, con háo hức ghê!"
+        },
+        {
+          "en": "Are you excited for the zoo?",
+          "vi": "Con háo hức đi sở thú không?"
+        },
+        {
+          "en": "Jump if you're excited!",
+          "vi": "Háo hức thì nhảy lên nào!"
+        },
+        {
+          "en": "Grandma is excited to see you.",
+          "vi": "Bà háo hức gặp con lắm."
+        },
+        {
+          "en": "I'm so excited for my birthday!",
+          "vi": "Con háo hức tới sinh nhật quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-011",
+      "en": "hurt",
+      "vi": "đau",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, you got hurt!",
+          "vi": "Ôi, con bị đau rồi!"
+        },
+        {
+          "en": "Where does it hurt?",
+          "vi": "Con đau chỗ nào?"
+        },
+        {
+          "en": "Point to where it hurts.",
+          "vi": "Chỉ chỗ đau cho mình coi."
+        },
+        {
+          "en": "That must really hurt.",
+          "vi": "Chắc đau lắm ha."
+        },
+        {
+          "en": "My knee hurts!",
+          "vi": "Con đau đầu gối!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-012",
+      "en": "grumpy",
+      "vi": "quạu",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, someone's grumpy this morning!",
+          "vi": "Ôi, sáng nay có người quạu rồi!"
+        },
+        {
+          "en": "Why are you so grumpy?",
+          "vi": "Sao con quạu vậy?"
+        },
+        {
+          "en": "Let's get a snack, grumpy bear.",
+          "vi": "Mình ăn chút gì nha, chú gấu quạu."
+        },
+        {
+          "en": "You get grumpy when you're hungry.",
+          "vi": "Con mà đói là quạu liền."
+        },
+        {
+          "en": "I feel grumpy today.",
+          "vi": "Hôm nay con thấy quạu quạu."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-013",
+      "en": "cranky",
+      "vi": "khó ở, cáu",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oh, someone's cranky after school.",
+          "vi": "Ôi, đi học về có người khó ở rồi."
+        },
+        {
+          "en": "Are you cranky because you're hungry?",
+          "vi": "Con cáu vì đói hả?"
+        },
+        {
+          "en": "Let's take a nap, you're cranky.",
+          "vi": "Mình ngủ trưa nha, con đang cáu rồi."
+        },
+        {
+          "en": "Rainy days make me cranky.",
+          "vi": "Trời mưa làm mình hay cáu."
+        },
+        {
+          "en": "I'm cranky! I want a snack!",
+          "vi": "Con đang bực! Con muốn ăn vặt!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-014",
+      "en": "shy",
+      "vi": "mắc cỡ",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aw, a little shy today!",
+          "vi": "Ôi, hôm nay con mắc cỡ ha!"
+        },
+        {
+          "en": "Are you feeling shy?",
+          "vi": "Con mắc cỡ hả?"
+        },
+        {
+          "en": "Just wave if you feel shy.",
+          "vi": "Mắc cỡ thì vẫy tay thôi cũng được."
+        },
+        {
+          "en": "The new kid is a little shy.",
+          "vi": "Bạn mới hơi mắc cỡ."
+        },
+        {
+          "en": "I'm shy, Mommy.",
+          "vi": "Con mắc cỡ mẹ ơi."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-015",
+      "en": "surprised",
+      "vi": "ngạc nhiên",
+      "pos": "adjective",
+      "emoji": "😮",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you look so surprised!",
+          "vi": "Wow, nhìn con ngạc nhiên ghê!"
+        },
+        {
+          "en": "Were you surprised?",
+          "vi": "Con có ngạc nhiên không?"
+        },
+        {
+          "en": "Make a surprised face!",
+          "vi": "Làm mặt ngạc nhiên coi!"
+        },
+        {
+          "en": "Grandma will be so surprised.",
+          "vi": "Bà sẽ ngạc nhiên lắm đó."
+        },
+        {
+          "en": "I was so surprised!",
+          "vi": "Con ngạc nhiên quá trời!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-016",
+      "en": "bored",
+      "vi": "chán",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Hmm, you look bored.",
+          "vi": "Hmm, nhìn con có vẻ chán."
+        },
+        {
+          "en": "Are you bored?",
+          "vi": "Con chán hả?"
+        },
+        {
+          "en": "If you're bored, let's draw.",
+          "vi": "Chán thì mình vẽ tranh nha."
+        },
+        {
+          "en": "Long car rides can be boring.",
+          "vi": "Đi xe lâu chán ghê."
+        },
+        {
+          "en": "I'm bored!",
+          "vi": "Con chán quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-017",
+      "en": "upset",
+      "vi": "buồn bực",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, I can see you're upset.",
+          "vi": "Ồ, mình thấy con đang buồn bực."
+        },
+        {
+          "en": "What's making you upset?",
+          "vi": "Chuyện gì làm con buồn bực vậy?"
+        },
+        {
+          "en": "Come tell me why you're upset.",
+          "vi": "Lại kể mình nghe sao con buồn nha."
+        },
+        {
+          "en": "It's normal to get upset sometimes.",
+          "vi": "Đôi khi buồn bực là chuyện bình thường."
+        },
+        {
+          "en": "I got upset when I lost.",
+          "vi": "Con bực vì con thua."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-018",
+      "en": "unhappy",
+      "vi": "không vui",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, you look unhappy.",
+          "vi": "Ồ, nhìn con không vui."
+        },
+        {
+          "en": "Why are you so unhappy today?",
+          "vi": "Sao hôm nay con không vui vậy?"
+        },
+        {
+          "en": "Tell me what's making you unhappy.",
+          "vi": "Kể mình nghe chuyện gì làm con không vui."
+        },
+        {
+          "en": "The puppy looks unhappy in the rain.",
+          "vi": "Con cún dầm mưa nhìn không vui."
+        },
+        {
+          "en": "I was unhappy because my ice cream fell.",
+          "vi": "Con không vui vì cây kem bị rớt."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-019",
+      "en": "glad",
+      "vi": "mừng",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "I'm so glad you're here!",
+          "vi": "Mừng quá, con tới rồi!"
+        },
+        {
+          "en": "Aren't you glad it stopped raining?",
+          "vi": "Trời hết mưa rồi, con mừng không?"
+        },
+        {
+          "en": "Tell Grandpa you're glad he came.",
+          "vi": "Con nói với ông là con mừng vì ông tới đi."
+        },
+        {
+          "en": "Daddy's so glad you helped.",
+          "vi": "Ba mừng vì con phụ ba."
+        },
+        {
+          "en": "I'm glad we're at the beach!",
+          "vi": "Con mừng vì được đi biển!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-020",
+      "en": "okay",
+      "vi": "ổn, không sao",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Phew, you're okay!",
+          "vi": "Phù, con không sao!"
+        },
+        {
+          "en": "Are you okay?",
+          "vi": "Con có sao không?"
+        },
+        {
+          "en": "Tell me if you're not okay.",
+          "vi": "Nếu con thấy không ổn thì nói mình nghe nha."
+        },
+        {
+          "en": "Everything's going to be okay.",
+          "vi": "Mọi chuyện sẽ ổn thôi."
+        },
+        {
+          "en": "I'm okay, I didn't cry!",
+          "vi": "Con không sao, con không khóc!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-021",
+      "en": "love",
+      "vi": "thương, yêu",
+      "pos": "verb",
+      "emoji": "❤️",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "I love you so much!",
+          "vi": "Thương con nhiều lắm!"
+        },
+        {
+          "en": "Do you love Grandma?",
+          "vi": "Con có thương bà không?"
+        },
+        {
+          "en": "Let's tell Grandpa we love him.",
+          "vi": "Mình nói với ông là mình thương ông nha."
+        },
+        {
+          "en": "Cats love warm, sunny spots.",
+          "vi": "Mèo thích chỗ nắng ấm lắm."
+        },
+        {
+          "en": "I love you, Mommy!",
+          "vi": "Con thương mẹ!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-022",
+      "en": "like",
+      "vi": "thích",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Ooh, I like your drawing!",
+          "vi": "Ồ, mình thích tranh con vẽ!"
+        },
+        {
+          "en": "Do you like it?",
+          "vi": "Con thích không?"
+        },
+        {
+          "en": "Try it, you might like it!",
+          "vi": "Thử đi, biết đâu con thích!"
+        },
+        {
+          "en": "Your friend likes the same games.",
+          "vi": "Bạn con thích cùng trò với con."
+        },
+        {
+          "en": "I like the swings!",
+          "vi": "Con thích xích đu!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-023",
+      "en": "smile",
+      "vi": "nụ cười, cười",
+      "pos": "noun",
+      "emoji": "😁",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "What a big smile!",
+          "vi": "Nụ cười tươi quá!"
+        },
+        {
+          "en": "Can I see your smile?",
+          "vi": "Cho mình xem con cười coi?"
+        },
+        {
+          "en": "Smile big for Grandma!",
+          "vi": "Cười thật tươi với bà nào!"
+        },
+        {
+          "en": "Your smile makes everyone happy.",
+          "vi": "Con cười ai cũng vui."
+        },
+        {
+          "en": "Look, I'm smiling!",
+          "vi": "Nhìn nè, con đang cười nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-024",
+      "en": "frown",
+      "vi": "nhăn mặt, cau mày",
+      "pos": "verb",
+      "emoji": "☹️",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oh, that's a big frown!",
+          "vi": "Ôi, mặt nhăn nhó ghê!"
+        },
+        {
+          "en": "Why are you frowning?",
+          "vi": "Sao con nhăn mặt vậy?"
+        },
+        {
+          "en": "Turn that frown upside down!",
+          "vi": "Cười lên nào, đừng nhăn nữa!"
+        },
+        {
+          "en": "Grandpa frowns when he reads.",
+          "vi": "Ông đọc sách là nhíu mày."
+        },
+        {
+          "en": "I'm frowning like a grumpy cat!",
+          "vi": "Con nhăn mặt như con mèo quạu nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-025",
+      "en": "giggle",
+      "vi": "cười khúc khích",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Listen to you giggle!",
+          "vi": "Nghe con cười khúc khích kìa!"
+        },
+        {
+          "en": "What are you giggling about?",
+          "vi": "Con cười khúc khích gì vậy?"
+        },
+        {
+          "en": "Try not to giggle!",
+          "vi": "Ráng nhịn cười coi!"
+        },
+        {
+          "en": "Babies giggle when you tickle them.",
+          "vi": "Em bé bị cù là cười khúc khích."
+        },
+        {
+          "en": "We couldn't stop giggling!",
+          "vi": "Tụi con cười khúc khích hoài luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-026",
+      "en": "tears",
+      "vi": "nước mắt",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, there are tears on your cheeks.",
+          "vi": "Ôi, nước mắt trên má con nè."
+        },
+        {
+          "en": "Are those happy tears?",
+          "vi": "Đó là nước mắt vui hả?"
+        },
+        {
+          "en": "Let me wipe your tears.",
+          "vi": "Để lau nước mắt cho con."
+        },
+        {
+          "en": "Your tears are all dry now.",
+          "vi": "Nước mắt khô hết rồi nè."
+        },
+        {
+          "en": "I had tears in my eyes!",
+          "vi": "Con rưng rưng nước mắt luôn!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-027",
+      "en": "feel",
+      "vi": "cảm thấy",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, I feel so happy today!",
+          "vi": "Ồ, hôm nay mình thấy vui ghê!"
+        },
+        {
+          "en": "How do you feel?",
+          "vi": "Con thấy sao?"
+        },
+        {
+          "en": "Tell me how you feel.",
+          "vi": "Nói mình nghe con thấy thế nào."
+        },
+        {
+          "en": "This blanket feels so soft.",
+          "vi": "Cái mền này sờ mềm ghê."
+        },
+        {
+          "en": "I feel happy when we play!",
+          "vi": "Con thấy vui khi mình chơi chung!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-028",
+      "en": "feelings",
+      "vi": "cảm xúc",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you have lots of big feelings today!",
+          "vi": "Wow, hôm nay con có nhiều cảm xúc ghê!"
+        },
+        {
+          "en": "Can you tell me about your feelings?",
+          "vi": "Con kể mình nghe cảm xúc của con được không?"
+        },
+        {
+          "en": "Let's draw your feelings with colors.",
+          "vi": "Mình vẽ cảm xúc bằng màu sắc nha."
+        },
+        {
+          "en": "All feelings are okay.",
+          "vi": "Cảm xúc nào cũng được hết."
+        },
+        {
+          "en": "I talked about my feelings with my teacher.",
+          "vi": "Con nói chuyện với cô giáo về cảm xúc của con."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-029",
+      "en": "mood",
+      "vi": "tâm trạng",
+      "pos": "noun",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're in a great mood!",
+          "vi": "Wow, hôm nay con vui vẻ ghê!"
+        },
+        {
+          "en": "What kind of mood are you in?",
+          "vi": "Con đang thấy tâm trạng sao?"
+        },
+        {
+          "en": "Let's play music to change our mood.",
+          "vi": "Mình mở nhạc cho đổi tâm trạng nha."
+        },
+        {
+          "en": "Sunny days put me in a good mood.",
+          "vi": "Trời nắng làm mình thấy vui vẻ."
+        },
+        {
+          "en": "I'm in a bad mood because I'm tired.",
+          "vi": "Con đang bực bội vì con mệt."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-030",
+      "en": "tantrum",
+      "vi": "cơn ăn vạ",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, that's a big tantrum!",
+          "vi": "Ồ, ăn vạ dữ vậy!"
+        },
+        {
+          "en": "Are you having a tantrum?",
+          "vi": "Con đang ăn vạ hả?"
+        },
+        {
+          "en": "Let's breathe until the tantrum passes.",
+          "vi": "Mình hít thở tới khi hết ăn vạ nha."
+        },
+        {
+          "en": "Tantrums happen when we're too tired.",
+          "vi": "Mệt quá thì hay ăn vạ."
+        },
+        {
+          "en": "The baby had a tantrum today!",
+          "vi": "Hôm nay em bé ăn vạ đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-031",
+      "en": "teary",
+      "vi": "rưng rưng nước mắt",
+      "pos": "adjective",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Aw, your eyes look teary.",
+          "vi": "Ôi, mắt con rưng rưng kìa."
+        },
+        {
+          "en": "Why are you teary?",
+          "vi": "Sao con rưng rưng vậy?"
+        },
+        {
+          "en": "It's okay to get teary, let it out.",
+          "vi": "Rưng rưng nước mắt cũng không sao, cứ khóc đi."
+        },
+        {
+          "en": "Sad movies make Daddy teary.",
+          "vi": "Phim buồn làm ba rưng rưng."
+        },
+        {
+          "en": "I got teary when we said goodbye.",
+          "vi": "Lúc chào tạm biệt con rưng rưng nước mắt."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-032",
+      "en": "ouch",
+      "vi": "ui da",
+      "pos": "other",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ouch! That's hot!",
+          "vi": "Ui da! Nóng quá!"
+        },
+        {
+          "en": "Ouch, did you bump your head?",
+          "vi": "Ui da, con bị cụng đầu hả?"
+        },
+        {
+          "en": "Say \"ouch\" if it hurts.",
+          "vi": "Đau thì nói \"ui da\" nha."
+        },
+        {
+          "en": "Ouch, that bump looks sore.",
+          "vi": "Ui da, chỗ sưng nhìn đau ghê."
+        },
+        {
+          "en": "Ouch! Ouch! My toe!",
+          "vi": "Ui da! Ngón chân con!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-033",
+      "en": "fun",
+      "vi": "vui",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "That was so much fun!",
+          "vi": "Vui quá trời luôn!"
+        },
+        {
+          "en": "Did you have fun?",
+          "vi": "Con chơi vui không?"
+        },
+        {
+          "en": "Let's do something fun!",
+          "vi": "Mình làm gì vui vui đi!"
+        },
+        {
+          "en": "Painting is really fun.",
+          "vi": "Vẽ tranh vui lắm."
+        },
+        {
+          "en": "I had so much fun today!",
+          "vi": "Hôm nay con chơi vui lắm!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-034",
+      "en": "cheer up",
+      "vi": "vui lên",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Cheer up, buddy!",
+          "vi": "Vui lên nào con!"
+        },
+        {
+          "en": "What can cheer you up?",
+          "vi": "Làm gì cho con vui lên đây?"
+        },
+        {
+          "en": "Let's cheer up Grandma with a song.",
+          "vi": "Mình hát cho bà vui lên nha."
+        },
+        {
+          "en": "Puppies always cheer me up.",
+          "vi": "Mấy con cún lúc nào cũng làm mình vui lên."
+        },
+        {
+          "en": "My drawing cheered up my friend!",
+          "vi": "Tranh con vẽ làm bạn vui lên đó!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-035",
+      "en": "scream",
+      "vi": "la hét",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, what a loud scream!",
+          "vi": "Ồ, hét to ghê!"
+        },
+        {
+          "en": "Why are you screaming?",
+          "vi": "Sao con la hét vậy?"
+        },
+        {
+          "en": "Use your words instead of screaming.",
+          "vi": "Thay vì la hét, con nói ra đi."
+        },
+        {
+          "en": "Screaming hurts my ears.",
+          "vi": "La hét làm mình đau tai."
+        },
+        {
+          "en": "We screamed and laughed on the slide!",
+          "vi": "Tụi con vừa hét vừa cười trên cầu tuột!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-036",
+      "en": "yell",
+      "vi": "la lớn",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Whoa, no need to yell!",
+          "vi": "Ồ, không cần la lớn đâu!"
+        },
+        {
+          "en": "Did I yell? I'm sorry.",
+          "vi": "Lúc nãy mình la con hả? Xin lỗi nha."
+        },
+        {
+          "en": "Let's talk, not yell.",
+          "vi": "Mình nói chuyện, đừng la nha."
+        },
+        {
+          "en": "Yelling makes everyone upset.",
+          "vi": "La lớn làm ai cũng bực."
+        },
+        {
+          "en": "Daddy, I yelled because I was mad.",
+          "vi": "Ba ơi, con la vì con giận."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-037",
+      "en": "whine",
+      "vi": "mè nheo",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Hmm, that sounds like whining.",
+          "vi": "Hmm, nghe như đang mè nheo đó nha."
+        },
+        {
+          "en": "Can you ask without whining?",
+          "vi": "Con hỏi mà không mè nheo được không?"
+        },
+        {
+          "en": "Use your normal voice, not whining.",
+          "vi": "Nói giọng bình thường, đừng mè nheo nha."
+        },
+        {
+          "en": "The puppy whines when it's lonely.",
+          "vi": "Con cún kêu ư ử khi nó cô đơn."
+        },
+        {
+          "en": "I wasn't whining, I was asking!",
+          "vi": "Con đâu có mè nheo, con hỏi mà!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-038",
+      "en": "pout",
+      "vi": "phụng phịu",
+      "pos": "verb",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Aw, look at that pout!",
+          "vi": "Ôi, nhìn cái mặt phụng phịu kìa!"
+        },
+        {
+          "en": "Why the big pout?",
+          "vi": "Sao phụng phịu vậy?"
+        },
+        {
+          "en": "Show me your best pout!",
+          "vi": "Cho mình xem con phụng phịu coi!"
+        },
+        {
+          "en": "Your pout is kind of cute.",
+          "vi": "Con phụng phịu cũng dễ thương ghê."
+        },
+        {
+          "en": "I'm pouting because I'm mad!",
+          "vi": "Con phụng phịu vì con giận!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-039",
+      "en": "bad day",
+      "vi": "ngày không vui",
+      "pos": "phrase",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh no, sounds like a bad day!",
+          "vi": "Ôi, nghe như hôm nay xui quá ha!"
+        },
+        {
+          "en": "Did you have a bad day today?",
+          "vi": "Hôm nay con gặp chuyện không vui hả?"
+        },
+        {
+          "en": "Tell me about your bad day.",
+          "vi": "Kể mình nghe hôm nay sao rồi."
+        },
+        {
+          "en": "Everyone has a bad day sometimes.",
+          "vi": "Ai cũng có ngày không vui hết."
+        },
+        {
+          "en": "I had a bad day at school.",
+          "vi": "Hôm nay ở trường con không vui."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-040",
+      "en": "ticklish",
+      "vi": "nhột, có máu buồn",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Ha, you're so ticklish!",
+          "vi": "Ha, con nhột ghê!"
+        },
+        {
+          "en": "Are your feet ticklish?",
+          "vi": "Chân con có nhột không?"
+        },
+        {
+          "en": "Tell me where you're ticklish!",
+          "vi": "Nói mình nghe con nhột chỗ nào!"
+        },
+        {
+          "en": "Daddy is super ticklish.",
+          "vi": "Ba có máu buồn lắm."
+        },
+        {
+          "en": "I'm ticklish under my arms!",
+          "vi": "Con nhột ở nách nè!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-041",
+      "en": "wiggly",
+      "vi": "ngọ nguậy, không ngồi yên",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Wow, you're so wiggly today!",
+          "vi": "Wow, hôm nay con ngọ nguậy dữ ghê!"
+        },
+        {
+          "en": "Are you feeling wiggly?",
+          "vi": "Con thấy muốn nhúc nhích hả?"
+        },
+        {
+          "en": "Let's dance out the wiggles!",
+          "vi": "Mình nhảy cho hết ngọ nguậy nha!"
+        },
+        {
+          "en": "Wiggly kids need to run around.",
+          "vi": "Trẻ hiếu động cần được chạy nhảy."
+        },
+        {
+          "en": "I'm too wiggly to sit still!",
+          "vi": "Con không ngồi yên được!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-042",
+      "en": "fussy",
+      "vi": "quấy",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, the baby's getting fussy.",
+          "vi": "Ôi, em bé bắt đầu quấy rồi."
+        },
+        {
+          "en": "Is the baby fussy because she's hungry?",
+          "vi": "Em bé quấy vì đói hả?"
+        },
+        {
+          "en": "Let's rock the fussy baby.",
+          "vi": "Mình ru em bé đang quấy nha."
+        },
+        {
+          "en": "You were fussy when you were sleepy.",
+          "vi": "Hồi nhỏ con buồn ngủ là quấy."
+        },
+        {
+          "en": "The baby was fussy all night!",
+          "vi": "Em bé quấy cả đêm!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-043",
+      "en": "not fair",
+      "vi": "không công bằng",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "That's not fair to your brother!",
+          "vi": "Ôi, vậy là không công bằng với anh con đó!"
+        },
+        {
+          "en": "Why is it not fair?",
+          "vi": "Sao con thấy không công bằng?"
+        },
+        {
+          "en": "Tell your sister why it's not fair.",
+          "vi": "Nói em gái nghe sao con thấy không công bằng đi."
+        },
+        {
+          "en": "Grabbing toys is not fair.",
+          "vi": "Giành đồ chơi là không công bằng."
+        },
+        {
+          "en": "Not fair! It's my turn!",
+          "vi": "Không công bằng! Tới lượt con mà!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-044",
+      "en": "hooray",
+      "vi": "hoan hô",
+      "pos": "other",
+      "emoji": "🎉",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Hooray, you did it!",
+          "vi": "Hoan hô, con làm được rồi!"
+        },
+        {
+          "en": "Should we say hooray?",
+          "vi": "Mình hô \"hoan hô\" không?"
+        },
+        {
+          "en": "Shout hooray with me!",
+          "vi": "Hô \"hoan hô\" với mình nào!"
+        },
+        {
+          "en": "Everyone shouted hooray at the party.",
+          "vi": "Ở bữa tiệc ai cũng hô hoan hô."
+        },
+        {
+          "en": "Hooray! It's the weekend!",
+          "vi": "Hoan hô! Cuối tuần rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-045",
+      "en": "grin",
+      "vi": "cười toe toét",
+      "pos": "noun",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Look at that silly grin!",
+          "vi": "Nhìn cái mặt cười toe toét kìa!"
+        },
+        {
+          "en": "Why the big grin?",
+          "vi": "Sao cười toe toét vậy?"
+        },
+        {
+          "en": "Give me your biggest grin!",
+          "vi": "Cười toe toét thật to cho mình coi!"
+        },
+        {
+          "en": "Your grin is from ear to ear.",
+          "vi": "Con cười tới mang tai luôn."
+        },
+        {
+          "en": "I'm grinning because I won!",
+          "vi": "Con cười toe toét vì con thắng!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-046",
+      "en": "uh-oh",
+      "vi": "ôi, chết rồi",
+      "pos": "other",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Uh-oh, the milk spilled!",
+          "vi": "Ôi, đổ sữa rồi!"
+        },
+        {
+          "en": "Uh-oh, what happened?",
+          "vi": "Ôi, chuyện gì vậy?"
+        },
+        {
+          "en": "Say \"uh-oh\" when something falls!",
+          "vi": "Có gì rớt thì nói \"uh-oh\" nha!"
+        },
+        {
+          "en": "\"Uh-oh\" means something went wrong.",
+          "vi": "\"Uh-oh\" nghĩa là có chuyện không ổn rồi."
+        },
+        {
+          "en": "Uh-oh, I dropped my cookie!",
+          "vi": "Ôi, con làm rớt bánh rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-047",
+      "en": "oops",
+      "vi": "ui, lỡ rồi",
+      "pos": "other",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "Oops, it fell!",
+          "vi": "Ui, rớt rồi!"
+        },
+        {
+          "en": "Oops, did you trip?",
+          "vi": "Ui, con vấp hả?"
+        },
+        {
+          "en": "Just say \"oops\" and try again.",
+          "vi": "Cứ nói \"ui\" rồi thử lại nha."
+        },
+        {
+          "en": "Oops is okay, everyone makes mistakes.",
+          "vi": "Lỡ tay thì không sao, ai cũng có lúc sai."
+        },
+        {
+          "en": "Oops! I spilled my juice!",
+          "vi": "Ui! Con làm đổ nước trái cây!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-048",
+      "en": "wow",
+      "vi": "chà, wow",
+      "pos": "other",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Wow, look at that!",
+          "vi": "Chà, nhìn kìa!"
+        },
+        {
+          "en": "Wow, did you build that?",
+          "vi": "Chà, con xây cái đó hả?"
+        },
+        {
+          "en": "Say \"wow\" if you like it!",
+          "vi": "Thích thì nói \"wow\" nha!"
+        },
+        {
+          "en": "Your picture is so pretty, wow.",
+          "vi": "Tranh con đẹp quá, chà chà."
+        },
+        {
+          "en": "Wow, I can swim now!",
+          "vi": "Wow, con biết bơi rồi!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-049",
+      "en": "sigh",
+      "vi": "thở dài",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, that was a big sigh!",
+          "vi": "Ồ, thở dài thườn thượt ghê!"
+        },
+        {
+          "en": "Why are you sighing?",
+          "vi": "Sao con thở dài vậy?"
+        },
+        {
+          "en": "Let out a big sigh, then relax.",
+          "vi": "Thở dài một hơi rồi thả lỏng nào."
+        },
+        {
+          "en": "People sigh when they're tired or sad.",
+          "vi": "Người ta thở dài khi mệt hoặc buồn."
+        },
+        {
+          "en": "I sighed because homework took forever.",
+          "vi": "Con thở dài vì làm bài tập lâu quá."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-050",
+      "en": "gross",
+      "vi": "ghê, dơ ghê",
+      "pos": "adjective",
+      "ages": [
+        "3-5",
+        "5-7"
+      ],
+      "examples": [
+        {
+          "en": "That's so gross!",
+          "vi": "Ghê quá!"
+        },
+        {
+          "en": "Is that gross or yummy?",
+          "vi": "Cái đó ghê hay ngon?"
+        },
+        {
+          "en": "Wash it off, it's gross!",
+          "vi": "Rửa đi con, dơ ghê!"
+        },
+        {
+          "en": "Worms feel slimy and gross.",
+          "vi": "Con giun sờ nhớt nhớt ghê ghê."
+        },
+        {
+          "en": "Mud on my hands is gross!",
+          "vi": "Tay dính bùn ghê quá!"
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-051",
+      "en": "sulk",
+      "vi": "hờn dỗi",
+      "pos": "verb",
+      "ages": [
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Oh, someone's sulking in the corner!",
+          "vi": "Ồ, có người ngồi hờn trong góc kìa!"
+        },
+        {
+          "en": "Why are you sulking?",
+          "vi": "Sao con hờn vậy?"
+        },
+        {
+          "en": "Come talk instead of sulking.",
+          "vi": "Lại nói chuyện đi, đừng hờn nữa."
+        },
+        {
+          "en": "Sulking won't fix it, but talking will.",
+          "vi": "Hờn dỗi không giải quyết được, nói chuyện mới được."
+        },
+        {
+          "en": "I sulked because I couldn't stay up.",
+          "vi": "Con hờn vì không được thức khuya."
+        }
+      ]
+    },
+    {
+      "id": "v-feelings-052",
+      "en": "don't worry",
+      "vi": "đừng lo",
+      "pos": "phrase",
+      "ages": [
+        "3-5",
+        "5-7",
+        "7-9"
+      ],
+      "examples": [
+        {
+          "en": "Don't worry, I'm here!",
+          "vi": "Đừng lo, có mình đây!"
+        },
+        {
+          "en": "Don't worry about it, okay?",
+          "vi": "Đừng lo chuyện đó nha?"
+        },
+        {
+          "en": "Take my hand and don't worry.",
+          "vi": "Nắm tay mình nè, đừng lo."
+        },
+        {
+          "en": "Don't worry, mistakes help us learn.",
+          "vi": "Đừng lo, sai thì mình học được."
+        },
+        {
+          "en": "Don't worry, Mommy, I'm okay!",
+          "vi": "Mẹ đừng lo, con không sao!"
+        }
+      ]
+    }
+  ]
+}

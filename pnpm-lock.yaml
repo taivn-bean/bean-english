@@ -72,6 +72,9 @@ importers:
       cmu-pronouncing-dictionary:
         specifier: ^3.0.0
         version: 3.0.0
+      http_ece:
+        specifier: ^1.2.1
+        version: 1.2.1
       kokoro-js:
         specifier: ^1.2.1
         version: 1.2.1
@@ -2462,6 +2465,10 @@ packages:
 
   html-parse-stringify@4.0.1:
     resolution: {integrity: sha512-0zHsZJrK7S3K2aucXWL6ycoYJ/iNtIcFHC/nYQgFklPtrv5LpJctIiSCroWZWeuoXvuyFdzp6KzjJQ+OT5MfFw==}
+
+  http_ece@1.2.1:
+    resolution: {integrity: sha512-+tzLoMYgXvicu60sVFoswTiu6BiQ6EX3DORRJQ3W2dNpNWCyZ3tcmRFZZ3jgVyw8ziWUCeUARKCkYDY6JgFx+w==}
+    engines: {node: '>=16'}
 
   humanize-ms@1.2.1:
     resolution: {integrity: sha512-Fl70vYtsAFb/C06PTS9dZBo7ihau+Tu/DNCk/OyHhea07S+aeMWpFFkUaXRa8fI+ScZbEI8dfSxwY7gxZ9SAVQ==}
@@ -5690,6 +5697,8 @@ snapshots:
       function-bind: 1.1.2
 
   html-parse-stringify@4.0.1: {}
+
+  http_ece@1.2.1: {}
 
   humanize-ms@1.2.1:
     dependencies:

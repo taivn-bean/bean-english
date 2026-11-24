@@ -1,9 +1,29 @@
 {
-  // Static PWA on Cloudflare Workers (static assets only, no Worker script). Deploy: pnpm deploy
+  // Static PWA on Cloudflare Workers (free plan). Static files are served by the assets layer;
+  // the Worker script only handles /api/* (daily reminder subscriptions) and the reminder cron.
+  // Deploy: pnpm run deploy
+  "$schema": "node_modules/wrangler/config-schema.json",
   "name": "bean-english",
+  "main": "worker/index.ts",
   "compatibility_date": "2026-11-01",
   "assets": {
     "directory": "./dist",
-    "not_found_handling": "single-page-application"
-  }
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  },
+  "d1_databases": [
+    // subscriptions for Web Push reminders — schema in migrations/ (wrangler d1 migrations apply bean-push --remote)
+    { "binding": "DB", "database_name": "bean-push", "database_id": "735cbe5e-d9b9-4695-9155-84a64b69ef3a" }
+  ],
+  "triggers": {
+    // every 10 minutes: send reminders whose local time has come (free plan: 5 cron triggers/account)
+    "crons": ["*/10 * * * *"]
+  },
+  "vars": {
+    // public half of the VAPID key pair (also used by the app to subscribe); the private half is the
+    // secret VAPID_PRIVATE_KEY (wrangler secret put; locally in .dev.vars, gitignored)
+    "VAPID_PUBLIC_KEY": "BAIRiLTVAUscTOI5PZDmIbUN5ztf56r1Eruj6KuHqmgWVq-OrLPAjcnjnU985ko4nBeY89gZXZV8mr60MFdtB98",
+    "VAPID_SUBJECT": "https://bean-english.nguyenvantai22298.workers.dev"
+  },
+  "observability": { "enabled": true }
 }

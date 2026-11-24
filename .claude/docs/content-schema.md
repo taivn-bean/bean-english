@@ -66,5 +66,28 @@ audio/packs.json                        sổ cái: key → { hash (text+voice+pi
 - **Tái sử dụng theo nội dung:** clip trùng câu chữ + giọng với clip đã có (thêm/chèn/đổi thứ tự slot, chuyển câu sang chủ đề khác) được trỏ tới byte cũ, không sinh lại. Thêm slot mới → chỉ clip mới vào patch.
 - `pnpm audio`: sinh clip mới/đổi → **1 patch**. `pnpm audio:compact`: dựng lại base sạch (user tải lại toàn bộ 1 lần) — nên chạy khi >5 patch hoặc >25% byte chết (script tự nhắc).
 - Gói + `packs.json` được commit; `audio/.staging/` (clip tạm, cho phép chạy tiếp khi bị ngắt) thì không.
-- App: SW **không** precache gói; người dùng chọn chủ đề → `src/lib/offline.ts` tải các gói chủ đề cần (base + patch) vào cache `bean-audio-v1`, khi khởi động tự tải patch mới & xoá gói thừa.
+- App: SW **không** precache gói; người dùng chọn chủ đề → `src/features/offline/offline.ts` tải các gói chủ đề cần (base + patch) vào cache `bean-audio-v1`, khi khởi động tự tải patch mới & xoá gói thừa.
 - Build copy các gói đang dùng sang `public/audio-packs/`; topic JSON có `audio: { packs: [url], index: { key: [packIdx, off, len] } }`; app cắt Blob theo range để phát.
+
+## Flash-card từ vựng (D31)
+`content/vocab.json` = danh sách bộ thẻ (giống topics.json, id bắt đầu `v-`). `content/vocab/<deckId>.json`:
+```jsonc
+{
+  "deckId": "v-animals",
+  "words": [
+    {
+      "id": "v-animals-001",        // <deckId>-NNN, không đổi/tái sử dụng
+      "en": "dog",                  // từ gốc (≤3 từ), viết thường trừ tên riêng
+      "vi": "con chó",
+      "pos": "noun",                // noun|verb|adjective|adverb|preposition|pronoun|number|phrase|other
+      "emoji": "🐶",                // tuỳ chọn: chỉ khi emoji vẽ đúng nghĩa; không có → app hiện icon bộ thẻ
+      "ages": ["3-5", "5-7"],
+      "examples": [                 // đúng 5 câu, đa dạng mẫu câu, mỗi câu chứa từ (hoặc dạng biến thể: dogs, ran…)
+        { "en": "Look, a dog!", "vi": "Nhìn kìa, con chó!" }
+      ]
+    }
+  ]
+}
+```
+- Audio key: từ = `<wordId>`, câu ví dụ = `<wordId>-e<1..5>`. Gói audio theo bộ thẻ (`base-v-<deck>-*.bin`), tải offline theo bộ thẻ.
+- Mỗi từ tiếng Anh (theo nghĩa) chỉ xuất hiện ở **một** bộ thẻ; build báo trùng.
