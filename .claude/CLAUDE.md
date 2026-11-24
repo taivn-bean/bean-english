@@ -54,5 +54,5 @@ src/lib/                 content, audio (player + playlist), db (Dexie), setting
 src/hooks/               useProfile (profiles, progress, favorites), useContent (load nhiều topic) · src/i18n/ vi.json, en.json
 ```
 - Thêm chủ đề: thêm vào `content/topics.json` + file `content/topics/<id>.json`, icon mới thì thêm vào `src/components/TopicIcon.tsx`, rồi `pnpm audio`.
-- Đổi giọng (1 giọng cho tất cả): sửa `scripts/voices.json` (`engine`: `kokoro` | `say`) rồi `pnpm audio`. Nghe thử nhiều giọng Kokoro: `node scripts/kokoro-samples.mjs <dir> af_heart,am_michael`.
+- Đổi giọng (1 giọng cho tất cả): sửa `voice` trong `scripts/voices.json` (chỉ dùng Kokoro, không dùng giọng hệ thống macOS) rồi `pnpm audio`. Nghe thử nhiều giọng Kokoro: `node scripts/kokoro-samples.mjs <dir> af_heart,am_michael`.
 - Thêm chuỗi UI: thêm key vào CẢ `vi.json` và `en.json`.

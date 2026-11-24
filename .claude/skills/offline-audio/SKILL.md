@@ -1,6 +1,6 @@
 ---
 name: offline-audio
-description: Generate and manage pre-rendered TTS audio for Bean English phrases and dialogue lines at build time — engine options (macOS say, Piper, cloud TTS), incremental regeneration by hash, ffmpeg normalization/compression to small AAC files, and coverage checks that every content id has audio. Use when adding content, changing voices, or auditing audio size/quality.
+description: Generate and manage pre-rendered TTS audio for Bean English phrases and dialogue lines at build time — local Kokoro TTS (kokoro-js), incremental regeneration by hash, ffmpeg normalization/compression to small AAC files, and coverage checks that every content id has audio. Use when adding content, changing voices, or auditing audio size/quality.
 ---
 
 # Offline audio pipeline
@@ -10,12 +10,11 @@ Output: immutable packs in `audio/packs/` (per-topic `base-*` + per-update `patc
 ## Engines (pick per product-brief decision)
 | Engine | Cost | Quality | Notes |
 |---|---|---|---|
-| macOS `say` (e.g. `-v Samantha`, or downloaded Premium/Enhanced voices) | free, offline | good | `say -v Samantha -r 160 -o out.aiff "text"`; check voices with `say -v '?'`; personal-use only |
 | Piper TTS (open source, `en_US-*` voices) | free, offline | good | check each voice model's license before sharing publicly |
 | Google Cloud / Azure TTS (neural) | small one-time cost | very good | SSML for rate/pauses; key via env var `TTS_API_KEY` |
 | ElevenLabs | paid | most natural / child-like | review terms for child voices |
 
-**Current choice (D25): Kokoro-82M via `kokoro-js` (local, Apache-2.0), voice `af_heart`, one voice for all clips.** ~0.5× realtime on CPU (≈3s per 6s of audio). Other US voices: af_bella, af_sarah, am_michael, am_adam. Fallback engine: macOS `say` (`"engine": "say"`).
+**Current choice (D25): Kokoro-82M via `kokoro-js` (local, Apache-2.0), voice `af_heart`, one voice for all clips.** ~0.5× realtime on CPU (≈3s per 6s of audio). Other US voices: af_bella, af_sarah, am_michael, am_adam. **Kokoro only** — macOS system voices (`say`) were removed (D30); `gen-audio` refuses any other engine. Compare voices: `node scripts/kokoro-samples.mjs <dir> af_heart,af_bella`.
 
 ## Script: `scripts/gen-audio.mjs` (`pnpm audio`)
 1. `build-content` writes `scripts/.generated/utterances.json` (key, text, topicId).

@@ -39,6 +39,7 @@ Ba mẹ mở app → chọn tình huống (ăn, tắm, đi ngủ, chơi...) → 
 | D23 | Chỉ 1 giọng cho toàn bộ audio: **Evan (Enhanced)** (giọng bé tổng hợp nghe không tự nhiên) | user, 2026-11-23 |
 | D25 | TTS chuyển sang **Kokoro-82M (local, Apache-2.0) qua kokoro-js**, giọng **af_heart** cho mọi câu (thay D23/Evan) | user, 2026-11-23 |
 | D26 | Audio đóng gói bất biến: **base theo chủ đề + patch theo đợt**, HE-AAC 24k; precache ~30 file thay vì ~1900 (Workbox cài tuần tự) + thanh tiến độ tải offline | user, 2026-11-23 |
+| D30 | **Chỉ dùng Kokoro**: bỏ engine macOS `say` khỏi `gen-audio`, gỡ các giọng hệ thống đã tải (Evan, Zoe) | user, 2026-11-24 |
 | D27 | Nhóm tuổi 3-5 / 5-7 / 7-9, **chọn tay** trên từng hồ sơ bé; câu/hội thoại gắn `ages`; 13 chủ đề mới cho 5-7 & 7-9, ~30 câu + 5 hội thoại/chủ đề; câu phải tự nhiên, dùng thực tế | user, 2026-11-23 |
 | D28 | Người dùng **chọn chủ đề để tải audio offline** (trang Gói audio offline, gợi ý tải theo độ tuổi, nhãn "Chưa tải offline", xoá được). SW chỉ precache app + nội dung chữ; audio ở cache riêng `bean-audio-v1` (src/lib/offline.ts), tự lấy patch mới cho chủ đề đã chọn | user, 2026-11-23 |
 | D29 | Nhật ký "Bé nói được" (ghi chú, chia sẻ), chuỗi ngày dùng (tính khi phát audio/đánh dấu), trang Avatar (con vật, màu, phụ kiện mở khoá theo chuỗi dài nhất). Menu dưới giữ nguyên 4 mục | user, 2026-11-23 |

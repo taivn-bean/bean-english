@@ -9,9 +9,8 @@
 //   --import-legacy  one-off: take audio/*.m4a + scripts/audio-manifest.json from the old pipeline
 //   --no-render      only (re)pack what is already rendered/staged
 //
-// Voice config: scripts/voices.json — one voice for all clips.
-//   { "engine": "kokoro", "voice": "af_heart", "speed": 1 }   local neural TTS (kokoro-js, Apache-2.0)
-//   { "engine": "say", "voice": "Evan (Enhanced)", "rate": 160 }   macOS system voice
+// Voice config: scripts/voices.json — one Kokoro voice for all clips (kokoro-js, Apache-2.0).
+//   { "engine": "kokoro", "voice": "af_heart", "speed": 1 }
 import { execFile } from 'node:child_process'
 import { copyFileSync, existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs'
 import { cpus, tmpdir } from 'node:os'
@@ -30,7 +29,12 @@ if (process.platform !== 'darwin') {
   process.exit(1)
 }
 
-const config = { engine: 'say', ...JSON.parse(readFileSync(join(ROOT, 'scripts/voices.json'), 'utf8')) }
+// Part of every clip hash — keep the key order of voices.json stable.
+const config = JSON.parse(readFileSync(join(ROOT, 'scripts/voices.json'), 'utf8'))
+if (config.engine !== 'kokoro') {
+  console.error(`scripts/voices.json: engine must be "kokoro" (got "${config.engine}")`)
+  process.exit(1)
+}
 const utterances = JSON.parse(readFileSync(join(ROOT, 'scripts/.generated/utterances.json'), 'utf8'))
 const ledger = loadLedger()
 mkdirSync(STAGING_DIR, { recursive: true })
@@ -79,21 +83,17 @@ console.log(
   `${utterances.length} clips · ${todo.length} to render${reused ? ` · ${reused} reused from existing packs` : ''} · ${config.engine}:${config.voice}`,
 )
 
-/** Returns `render(text, wavPath)` for the configured engine. */
+/** Returns `render(text, wavPath)` backed by one Kokoro model instance. */
 async function createRenderer() {
-  if (config.engine === 'kokoro') {
-    const { KokoroTTS } = await import('kokoro-js')
-    const tts = await KokoroTTS.from_pretrained('onnx-community/Kokoro-82M-v1.0-ONNX', { dtype: config.dtype ?? 'q8', device: 'cpu' })
-    // One model instance: serialize inference (ONNX already multi-threads); encoding runs in parallel.
-    let lock = Promise.resolve()
-    return (text, wav) => {
-      const job = lock.then(async () => (await tts.generate(text, { voice: config.voice, speed: config.speed ?? 1 })).save(wav))
-      lock = job.catch(() => {})
-      return job
-    }
+  const { KokoroTTS } = await import('kokoro-js')
+  const tts = await KokoroTTS.from_pretrained('onnx-community/Kokoro-82M-v1.0-ONNX', { dtype: config.dtype ?? 'q8', device: 'cpu' })
+  // Serialize inference (ONNX already multi-threads); encoding runs in parallel.
+  let lock = Promise.resolve()
+  return (text, wav) => {
+    const job = lock.then(async () => (await tts.generate(text, { voice: config.voice, speed: config.speed ?? 1 })).save(wav))
+    lock = job.catch(() => {})
+    return job
   }
-  return (text, wav) =>
-    run('say', ['-v', config.voice, '-r', String(config.rate ?? 160), '-o', wav, '--file-format=WAVE', '--data-format=LEI16@22050', text])
 }
 
 const started = Date.now()
