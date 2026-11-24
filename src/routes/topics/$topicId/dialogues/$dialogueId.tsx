@@ -70,7 +70,7 @@ function DialoguePage() {
         <button
           onClick={() => playSequence(dialogue.id, dialogue.lines.map((l) => ({ key: l.audio, title: l.en })), { gapMs: 500, label: title })}
           data-tour="dialogue-play"
-          className="flex items-center gap-2 rounded-full bg-leaf-600 px-6 py-3 font-bold text-white shadow-lg active:scale-95"
+          className="flex items-center gap-2 rounded-full bg-leaf-800 px-6 py-3 font-bold text-white shadow-lg active:scale-95"
         >
           <Play size={20} />
           {t('dialogue.playAll')}

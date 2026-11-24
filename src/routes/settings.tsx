@@ -1,7 +1,7 @@
 import { useQuery } from '@tanstack/react-query'
 import { createFileRoute } from '@tanstack/react-router'
 import clsx from 'clsx'
-import { CircleHelp, Download, Upload } from 'lucide-react'
+import { CircleHelp, Download, Monitor, Moon, Sun, Upload } from 'lucide-react'
 import { type ChangeEvent, type ReactNode, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { PageHeader } from '@/shared/ui/Layout'
@@ -31,6 +31,18 @@ function SettingsPage() {
 
         <Field label={t('settings.language')}>
           <Segmented value={s.lang} onChange={(lang) => s.set({ lang })} options={[['vi', 'Tiếng Việt'], ['en', 'English']]} />
+        </Field>
+
+        <Field label={t('settings.theme')}>
+          <Segmented
+            value={s.theme}
+            onChange={(theme) => s.set({ theme })}
+            options={[
+              ['system', <><Monitor size={16} /> {t('settings.themeSystem')}</>],
+              ['light', <><Sun size={16} /> {t('settings.themeLight')}</>],
+              ['dark', <><Moon size={16} /> {t('settings.themeDark')}</>],
+            ]}
+          />
         </Field>
 
         <label className="flex min-h-12 items-center justify-between rounded-2xl border border-line bg-surface px-4">
@@ -141,15 +153,15 @@ function Field({ label, children }: { label: string; children: ReactNode }) {
   )
 }
 
-function Segmented<T extends string>({ value, onChange, options }: { value: T; onChange: (v: T) => void; options: [T, string][] }) {
+function Segmented<T extends string>({ value, onChange, options }: { value: T; onChange: (v: T) => void; options: [T, ReactNode][] }) {
   return (
-    <div className="grid grid-cols-2 rounded-full bg-leaf-100 p-1">
+    <div className="grid auto-cols-fr grid-flow-col rounded-full bg-leaf-100 p-1" role="group">
       {options.map(([v, label]) => (
         <button
           key={v}
           onClick={() => onChange(v)}
           aria-pressed={value === v}
-          className={clsx('min-h-11 rounded-full text-sm font-semibold', value === v ? 'bg-surface text-leaf-700 shadow-sm' : 'text-muted')}
+          className={clsx('flex min-h-11 items-center justify-center gap-1.5 rounded-full text-sm font-semibold', value === v ? 'bg-surface text-leaf-700 shadow-sm' : 'text-muted')}
         >
           {label}
         </button>

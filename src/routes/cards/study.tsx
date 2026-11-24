@@ -172,7 +172,7 @@ function StudyPage() {
                 </button>
                 <button
                   onClick={() => rate(true)}
-                  className="flex min-h-14 items-center justify-center gap-2 rounded-2xl bg-leaf-500 text-lg font-semibold text-white active:bg-leaf-600"
+                  className="flex min-h-14 items-center justify-center gap-2 rounded-2xl bg-leaf-500 text-lg font-semibold text-white active:brightness-90"
                 >
                   <ThumbsUp size={20} /> {t('cards.known')}
                 </button>
@@ -199,7 +199,7 @@ function Front({ word, icon, playing }: { word: Word; icon: string; playing: boo
           void play(word.audio)
         }}
         aria-label={t('cards.listen')}
-        className={clsx('grid size-20 place-items-center rounded-full bg-leaf-500 text-white shadow-md active:bg-leaf-600', playing && 'is-playing')}
+        className={clsx('grid size-20 place-items-center rounded-full bg-leaf-500 text-white shadow-md active:brightness-90', playing && 'is-playing')}
       >
         <Volume2 size={40} />
       </button>

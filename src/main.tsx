@@ -3,6 +3,8 @@ import { createRouter, RouterProvider } from '@tanstack/react-router'
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { i18nReady } from '@/i18n'
+import { useSettings } from '@/shared/settings'
+import { applyTheme } from '@/shared/theme'
 import { routeTree } from './routeTree.gen'
 import './styles.css'
 
@@ -44,6 +46,10 @@ const unsubscribe = router.subscribe('onRendered', () => {
   unsubscribe()
 })
 setTimeout(hideSplash, 8000)
+
+// Theme: re-apply when changed in Settings (the saved one was applied before paint by index.html).
+applyTheme(useSettings.getState().theme)
+useSettings.subscribe((s, prev) => s.theme !== prev.theme && applyTheme(s.theme))
 
 void i18nReady.then(() =>
   createRoot(document.getElementById('root')!).render(

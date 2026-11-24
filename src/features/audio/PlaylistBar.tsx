@@ -9,7 +9,7 @@ export function PlaylistBar() {
   const { sequenceId, label, loop } = useAudioState()
   if (!sequenceId) return null
   return (
-    <div className="above-nav animate-slide-up fixed inset-x-3 z-30 mx-auto flex max-w-md items-center gap-2 rounded-2xl bg-leaf-700 p-2 pl-4 text-white shadow-lg">
+    <div className="above-nav animate-slide-up fixed inset-x-3 z-30 mx-auto flex max-w-md items-center gap-2 rounded-2xl bg-leaf-800 p-2 pl-4 text-white shadow-lg">
       <Headphones size={20} className="shrink-0" />
       <span className="min-w-0 flex-1">
         <span className="block text-xs opacity-80">{t('playlist.nowPlaying')}</span>
@@ -41,7 +41,7 @@ export function PlayAllButton({ id, label, items }: { id: string; label: string;
       onClick={() => (active ? stop() : playSequence(id, items, { label }))}
       className={clsx(
         'flex min-h-11 shrink-0 items-center gap-1.5 rounded-full px-4 text-sm font-semibold',
-        active ? 'bg-leaf-700 text-white' : 'bg-leaf-100 text-leaf-700',
+        active ? 'bg-leaf-800 text-white' : 'bg-leaf-100 text-leaf-700',
       )}
     >
       {active ? <Square size={16} /> : <Headphones size={18} />}

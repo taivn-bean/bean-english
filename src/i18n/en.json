@@ -80,7 +80,11 @@
     "offlineNotReady": "Downloading offline data… keep the app open while online",
     "storage": "Storage used: {{used}}",
     "install": "Add to Home Screen",
-    "version": "Content version"
+    "version": "Content version",
+    "theme": "Appearance",
+    "themeSystem": "System",
+    "themeLight": "Light",
+    "themeDark": "Dark"
   },
   "install": {
     "title": "Install Bean on iPhone",

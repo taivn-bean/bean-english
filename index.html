@@ -18,9 +18,20 @@
       #splash.out { opacity: 0; pointer-events: none }
       #splash svg { animation: splash-bob 1.2s ease-in-out infinite alternate }
       @keyframes splash-bob { to { transform: translateY(-6px) } }
-      @media (prefers-color-scheme: dark) { #splash { background: #13211a } }
+      @media (prefers-color-scheme: dark) { :root:not([data-theme=light]) #splash { background: #13211a } }
+      :root[data-theme=dark] #splash { background: #13211a }
       @media (prefers-reduced-motion: reduce) { #splash svg { animation: none } }
     </style>
+    <script>
+      // Apply the theme chosen in Settings before first paint (mirrors src/shared/theme.ts).
+      try {
+        var t = JSON.parse(localStorage.getItem('bean-settings') || '{}').state.theme
+        if (t === 'light' || t === 'dark') {
+          document.documentElement.dataset.theme = t
+          document.querySelectorAll('meta[name=theme-color]').forEach(function (m) { m.content = t === 'dark' ? '#14231a' : '#f3faf2' })
+        }
+      } catch (e) {}
+    </script>
   </head>
   <body>
     <!-- shown instantly while JS loads; removed by main.tsx after the first route render -->

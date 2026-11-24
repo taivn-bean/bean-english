@@ -201,7 +201,7 @@ export default function TourOverlay({ id, onClose }: { id: TourId; onClose: (see
             <button
               ref={nextRef}
               onClick={() => (last ? onClose(true) : setI(i + 1))}
-              className="min-h-11 min-w-28 rounded-full bg-leaf-500 px-5 font-semibold text-white active:bg-leaf-600"
+              className="min-h-11 min-w-28 rounded-full bg-leaf-500 px-5 font-semibold text-white active:brightness-90"
             >
               {last ? t('tour.done') : t('tour.next')}
             </button>

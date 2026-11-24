@@ -80,7 +80,11 @@
     "offlineNotReady": "Đang tải dữ liệu offline… giữ app mở khi có mạng",
     "storage": "Dung lượng đã dùng: {{used}}",
     "install": "Cài lên màn hình chính",
-    "version": "Phiên bản nội dung"
+    "version": "Phiên bản nội dung",
+    "theme": "Giao diện",
+    "themeSystem": "Theo máy",
+    "themeLight": "Sáng",
+    "themeDark": "Tối"
   },
   "install": {
     "title": "Cài Bean lên iPhone",

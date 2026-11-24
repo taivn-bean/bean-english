@@ -58,7 +58,7 @@ function DeckPage() {
             disabled={!due && !fresh}
             data-tour="deck-study"
             className={clsx(
-              'flex min-h-13 items-center justify-center gap-2 rounded-2xl bg-leaf-500 text-lg font-semibold text-white active:bg-leaf-600',
+              'flex min-h-13 items-center justify-center gap-2 rounded-2xl bg-leaf-500 text-lg font-semibold text-white active:brightness-90',
               !due && !fresh && 'pointer-events-none opacity-50',
             )}
           >
@@ -120,7 +120,7 @@ function DeckPage() {
                   <div className="space-y-3 px-3 pb-3">
                     <button
                       onClick={() => void play(w.audio)}
-                      className="flex min-h-10 items-center gap-2 rounded-full bg-leaf-500 px-4 text-sm font-semibold text-white active:bg-leaf-600"
+                      className="flex min-h-10 items-center gap-2 rounded-full bg-leaf-500 px-4 text-sm font-semibold text-white active:brightness-90"
                     >
                       <Volume2 size={18} /> {t('cards.hearWord')}
                     </button>

@@ -1,11 +1,14 @@
 // Small per-device preferences (localStorage via zustand persist).
 import { create } from 'zustand'
 import { createJSONStorage, persist } from 'zustand/middleware'
+import type { Theme } from './theme'
 
 export type Lang = 'vi' | 'en'
 
 type Settings = {
   lang: Lang
+  /** colour theme; 'system' follows the device */
+  theme: Theme
   showIpa: boolean
   /** show content of every age band, not only the active child's */
   showAllAges: boolean
@@ -41,6 +44,7 @@ export const useSettings = create<Settings>()(
   persist(
     (set) => ({
       lang: 'vi',
+      theme: 'system',
       showIpa: true,
       showAllAges: false,
       activeProfileId: null,

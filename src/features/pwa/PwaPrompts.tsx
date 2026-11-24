@@ -34,7 +34,7 @@ export function UpdateBanner() {
     <div
       role="status"
       className={clsx(
-        'above-nav animate-slide-up fixed z-40 mx-auto flex max-w-md items-center gap-3 rounded-2xl bg-leaf-700 text-white shadow-lg',
+        'above-nav animate-slide-up fixed z-40 mx-auto flex max-w-md items-center gap-3 rounded-2xl bg-leaf-800 text-white shadow-lg',
         // the update prompt needs a button; "offline ready" is a small pill that doesn't cover the content
         needRefresh ? 'inset-x-3 p-3' : 'inset-x-0 w-fit px-4 py-2',
       )}

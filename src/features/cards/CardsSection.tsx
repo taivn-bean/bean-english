@@ -45,7 +45,7 @@ export function ReviewButton({ due, hasCards }: { due: number; hasCards: boolean
   return due > 0 ? (
     <Link
       to="/cards/study"
-      className="flex min-h-14 items-center gap-3 rounded-2xl bg-leaf-500 px-4 font-semibold text-white shadow-sm active:bg-leaf-600"
+      className="flex min-h-14 items-center gap-3 rounded-2xl bg-leaf-500 px-4 font-semibold text-white shadow-sm active:brightness-90"
     >
       <Layers size={24} />
       <span className="flex-1">{t('cards.reviewToday')}</span>

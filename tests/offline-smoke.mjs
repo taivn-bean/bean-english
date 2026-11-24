@@ -5,7 +5,15 @@ const base = process.argv[2] ?? 'http://localhost:4173'
 const outDir = process.env.SHOTS ?? (await import('node:os')).tmpdir() // screenshots never land in the repo
 const browser = await chromium.launch()
 const ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2 })
+// Feature tours would cover the page on first visit: mark them all as seen (before the app's first load).
+await ctx.addInitScript(() => {
+  if (localStorage.getItem('bean-settings')) return
+  const toursSeen = ['home', 'topic', 'dialogue', 'cards', 'deck', 'study', 'progress', 'avatar', 'settings']
+  localStorage.setItem('bean-settings', JSON.stringify({ state: { toursSeen }, version: 1 }))
+})
 const page = await ctx.newPage()
+// The new-sticker popup can show up whenever a milestone is reached: just dismiss it.
+await page.addLocatorHandler(page.locator('[aria-labelledby=sticker-title]'), (d) => d.getByRole('button').click())
 const errors = []
 page.on('pageerror', (e) => errors.push(e.message))
 page.on('console', (m) => m.type() === 'error' && errors.push(m.text()))
@@ -75,11 +83,14 @@ await page.screenshot({ path: `${outDir}/progress.png` })
 // flash-cards: deck list + a study card work offline (deck JSON is precached; audio is per-deck opt-in)
 const firstDeck = await page.evaluate(async () => (await (await fetch('/content/index.json')).json()).decks?.[0]?.id)
 if (firstDeck) {
+  // this deck's audio isn't downloaded (opt-in), so playing a word offline fails at the network: expected
+  const before = errors.length
   await page.goto(`${base}/cards/${firstDeck}`)
   await page.getByText('Học ngay').click({ timeout: 5000 }).catch(() => {})
   await page.getByRole('button', { name: 'Lật thẻ' }).last().click({ timeout: 5000 }).catch(() => {})
   check('flash-card study offline', await page.getByRole('button', { name: 'Nhớ rồi' }).isVisible())
   await page.screenshot({ path: `${outDir}/card.png` })
+  errors.splice(before, Infinity, ...errors.slice(before).filter((e) => !e.includes('ERR_INTERNET_DISCONNECTED')))
 }
 
 check(`no console errors ${errors.length ? JSON.stringify(errors) : ''}`, errors.length === 0)

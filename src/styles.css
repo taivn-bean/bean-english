@@ -15,12 +15,18 @@
   --color-leaf-500: #5aae54;
   --color-leaf-600: #468d41;
   --color-leaf-700: #36703a;
+  /* solid backgrounds behind white text (toasts, active play): stays dark in both themes */
+  --color-leaf-800: #2b5a2f;
   --color-peach: #f2a65a;
   --color-rose: #e57fa8;
 }
 
+/* Theme: follows the device unless Settings forces one (<html data-theme="light|dark">,
+   set before first paint by the inline script in index.html). Keep both dark blocks in sync. */
+:root { color-scheme: light dark; }
+:root[data-theme='light'] { color-scheme: light; }
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme='light']) {
     --color-bg: #13211a;
     --color-surface: #1c2e24;
     --color-ink: #e6f2e4;
@@ -29,7 +35,24 @@
     --color-leaf-50: #1d3326;
     --color-leaf-100: #24402f;
     --color-leaf-200: #2f5a3c;
+    /* text/icon greens: light on dark backgrounds */
+    --color-leaf-600: #7fcb79;
+    --color-leaf-700: #a3dc9e;
   }
+}
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --color-bg: #13211a;
+  --color-surface: #1c2e24;
+  --color-ink: #e6f2e4;
+  --color-muted: #9fb8a3;
+  --color-line: #2c4434;
+  --color-leaf-50: #1d3326;
+  --color-leaf-100: #24402f;
+  --color-leaf-200: #2f5a3c;
+  /* text/icon greens: light on dark backgrounds */
+  --color-leaf-600: #7fcb79;
+  --color-leaf-700: #a3dc9e;
 }
 
 html {
