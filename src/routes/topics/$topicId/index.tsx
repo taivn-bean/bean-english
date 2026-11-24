@@ -3,7 +3,6 @@ import { createFileRoute, Link } from '@tanstack/react-router'
 import clsx from 'clsx'
 import { ChevronRight, MessagesSquare } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
-import { z } from 'zod'
 import { PageHeader } from '../../../components/Layout'
 import { PhraseCard } from '../../../components/PhraseCard'
 import { OfflineTag } from '../../../components/OfflineStatus'
@@ -15,7 +14,10 @@ import { topicQuery, toPlaylist } from '../../../lib/content'
 import { useSettings } from '../../../lib/settings'
 
 export const Route = createFileRoute('/topics/$topicId/')({
-  validateSearch: z.object({ tab: z.enum(['phrases', 'dialogues']).optional().catch(undefined) }),
+  // plain validator: keeps zod out of the startup bundle
+  validateSearch: (s: Record<string, unknown>): { tab?: 'phrases' | 'dialogues' } => ({
+    tab: s.tab === 'phrases' || s.tab === 'dialogues' ? s.tab : undefined,
+  }),
   loader: ({ context, params }) => context.queryClient.ensureQueryData(topicQuery(params.topicId)),
   component: TopicPage,
 })

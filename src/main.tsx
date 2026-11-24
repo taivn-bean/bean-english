@@ -2,7 +2,7 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { createRouter, RouterProvider } from '@tanstack/react-router'
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import './i18n'
+import { i18nReady } from './i18n'
 import { routeTree } from './routeTree.gen'
 import './styles.css'
 
@@ -32,10 +32,25 @@ declare module '@tanstack/react-router' {
   }
 }
 
-createRoot(document.getElementById('root')!).render(
-  <StrictMode>
-    <QueryClientProvider client={queryClient}>
-      <RouterProvider router={router} />
-    </QueryClientProvider>
-  </StrictMode>,
+// Fade out the inline splash from index.html once the first route has rendered (or after 8s at worst).
+const hideSplash = () => {
+  const el = document.getElementById('splash')
+  if (!el || el.classList.contains('out')) return
+  el.classList.add('out')
+  setTimeout(() => el.remove(), 250)
+}
+const unsubscribe = router.subscribe('onRendered', () => {
+  hideSplash()
+  unsubscribe()
+})
+setTimeout(hideSplash, 8000)
+
+void i18nReady.then(() =>
+  createRoot(document.getElementById('root')!).render(
+    <StrictMode>
+      <QueryClientProvider client={queryClient}>
+        <RouterProvider router={router} />
+      </QueryClientProvider>
+    </StrictMode>,
+  ),
 )

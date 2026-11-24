@@ -1,24 +1,36 @@
 import i18n from 'i18next'
 import { initReactI18next } from 'react-i18next'
-import { useSettings } from '../lib/settings'
-import en from './en.json'
+import { useSettings, type Lang } from '../lib/settings'
 import vi from './vi.json'
 
-export const resources = { vi: { translation: vi }, en: { translation: en } } as const
+// Vietnamese (default + fallback) ships in the main bundle; English is a lazy chunk.
+const loaders: Record<Exclude<Lang, 'vi'>, () => Promise<{ default: object }>> = {
+  en: () => import('./en.json'),
+}
+
+async function ensureLang(lang: Lang) {
+  if (lang === 'vi' || i18n.hasResourceBundle(lang, 'translation')) return
+  i18n.addResourceBundle(lang, 'translation', (await loaders[lang]()).default)
+}
+
+async function applyLang(lang: Lang) {
+  await ensureLang(lang).catch(() => {}) // offline + not precached → stays on the vi fallback
+  await i18n.changeLanguage(lang)
+  document.documentElement.lang = lang
+}
 
 i18n.use(initReactI18next).init({
-  resources,
-  lng: useSettings.getState().lang,
+  resources: { vi: { translation: vi } },
+  lng: 'vi',
   fallbackLng: 'vi',
   interpolation: { escapeValue: false },
 })
 
+/** Resolves once the saved language is loaded — render after this to avoid a vi → en flash. */
+export const i18nReady = applyLang(useSettings.getState().lang)
+
 useSettings.subscribe((s, prev) => {
-  if (s.lang !== prev.lang) {
-    i18n.changeLanguage(s.lang)
-    document.documentElement.lang = s.lang
-  }
+  if (s.lang !== prev.lang) void applyLang(s.lang)
 })
-document.documentElement.lang = useSettings.getState().lang
 
 export default i18n

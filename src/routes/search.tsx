@@ -3,7 +3,6 @@ import { Search, X } from 'lucide-react'
 import MiniSearch from 'minisearch'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-import { z } from 'zod'
 import { PageHeader } from '../components/Layout'
 import { PhraseCard } from '../components/PhraseCard'
 import { useTopics } from '../hooks/useContent'
@@ -12,7 +11,8 @@ import type { Phrase, Topic } from '../lib/content'
 import { useSettings } from '../lib/settings'
 
 export const Route = createFileRoute('/search')({
-  validateSearch: z.object({ q: z.string().optional().catch(undefined) }),
+  // plain validator: keeps zod out of the startup bundle
+  validateSearch: (s: Record<string, unknown>): { q?: string } => ({ q: typeof s.q === 'string' ? s.q : undefined }),
   component: SearchPage,
 })
 
