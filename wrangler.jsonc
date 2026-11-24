@@ -25,5 +25,11 @@
     "VAPID_PUBLIC_KEY": "BAIRiLTVAUscTOI5PZDmIbUN5ztf56r1Eruj6KuHqmgWVq-OrLPAjcnjnU985ko4nBeY89gZXZV8mr60MFdtB98",
     "VAPID_SUBJECT": "https://bean-english.nguyenvantai22298.workers.dev"
   },
-  "observability": { "enabled": true }
+  "observability": { "enabled": true, "logs": {
+      "enabled": true,
+      "invocation_logs": true
+    },
+    "traces": {
+      "enabled": false
+    } }
 }

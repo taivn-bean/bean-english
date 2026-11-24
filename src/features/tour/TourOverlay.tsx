@@ -170,7 +170,8 @@ export default function TourOverlay({ id, onClose }: { id: TourId; onClose: (see
                 <div
                   key={s}
                   aria-hidden={n !== i}
-                  className={clsx('col-start-1 row-start-1 space-y-1 motion-safe:transition-opacity motion-safe:duration-200', n !== i && 'pointer-events-none opacity-0')}
+                  // hidden steps keep their size (visibility) but never paint; only the current one fades in
+                  className={clsx('col-start-1 row-start-1 space-y-1', n === i ? 'animate-fade-in' : 'invisible')}
                 >
                   <p className="text-xs font-semibold text-leaf-600">{t('tour.step', { n: n + 1, total: steps.length })}</p>
                   <h2 id={n === i ? 'tour-title' : undefined} className="text-lg leading-tight font-bold">
