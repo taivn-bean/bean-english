@@ -24,6 +24,36 @@ async function phraseOfDay(lang) {
   return lang === 'en' ? `💬 “${en}”` : `💬 “${en}” — ${vi}`
 }
 
+/** Word cards due today (all children) straight from the app's IndexedDB (Dexie db 'bean-english'). */
+function dueCardCount() {
+  return new Promise((resolve) => {
+    const open = indexedDB.open('bean-english')
+    open.onerror = () => resolve(0)
+    open.onsuccess = () => {
+      const idb = open.result
+      if (!idb.objectStoreNames.contains('cards')) return idb.close(), resolve(0)
+      const d = new Date()
+      const today = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+      let n = 0
+      const cursor = idb.transaction('cards').objectStore('cards').openCursor()
+      cursor.onsuccess = () => {
+        const c = cursor.result
+        if (!c) return idb.close(), resolve(n)
+        if (c.value.due <= today) n++
+        c.continue()
+      }
+      cursor.onerror = () => (idb.close(), resolve(0))
+    }
+  })
+}
+
+/** Red badge on the home-screen icon (iOS 16.4+ installed PWA); same rule as src/features/cards/useAppBadge.ts. */
+async function updateBadge() {
+  if (!self.navigator.setAppBadge) return
+  const due = await dueCardCount()
+  await (due > 0 ? self.navigator.setAppBadge(due) : self.navigator.clearAppBadge())
+}
+
 self.addEventListener('push', (event) => {
   let data = {}
   try {
@@ -48,6 +78,7 @@ self.addEventListener('push', (event) => {
         lang: data.lang || 'vi',
         data: { url: data.url || '/' },
       })
+      await updateBadge().catch(() => {})
     })(),
   )
 })

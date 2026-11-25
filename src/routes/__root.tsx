@@ -12,6 +12,7 @@ import { useAudioState } from '@/features/audio/audio'
 import { db, ensureDefaultProfile, requestPersistentStorage } from '@/shared/db'
 import { useSettings } from '@/shared/settings'
 import { useDueCount } from '@/features/cards/useCards'
+import { useAppBadge } from '@/features/cards/useAppBadge'
 import { NewStickerPopup } from '@/features/rewards/NewStickerPopup'
 
 export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()({
@@ -42,6 +43,7 @@ function RootLayout() {
   }, [index])
 
   const dueCards = useDueCount()
+  useAppBadge()
 
   // Streaks: a day counts once something is actually played with the child.
   const playing = useAudioState().current
